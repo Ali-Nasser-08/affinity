@@ -1,0 +1,586 @@
+{
+    "unit": "Mega Goal 1 - Unit 6: From Smoke Signals to Email",
+    "type": "reading",
+    "setTitle": "Reading: Keeping in Touch",
+    "words": [
+        {
+            "word": "smoke signals",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "Messages sent by creating "
+                },
+                {
+                    "text": "patterns of smoke",
+                    "highlight": true
+                },
+                {
+                    "text": " from a fire, used historically by "
+                },
+                {
+                    "text": "indigenous peoples",
+                    "highlight2": true
+                },
+                {
+                    "text": " for long-distance communication"
+                }
+            ],
+            "arabicMeaning": "إشارات الدخان",
+            "synonyms": [
+                "smoke messages",
+                "fire signals"
+            ],
+            "example": [
+                {
+                    "text": "Native Americans used "
+                },
+                {
+                    "text": "smoke signals",
+                    "colorize": true
+                },
+                {
+                    "text": " to warn villages about approaching danger"
+                }
+            ],
+            "tips": "Different smoke patterns had specific meanings. Two columns might mean 'all is well'; one thick column could signal danger."
+        },
+        {
+            "word": "lit",
+            "wordType": "verb (past tense)",
+            "definition": [
+                {
+                    "text": "Past tense of 'light'; to "
+                },
+                {
+                    "text": "set something on fire",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "ignite a flame",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "أُشعل / أوقد",
+            "synonyms": [
+                "ignited",
+                "set ablaze"
+            ],
+            "example": [
+                {
+                    "text": "A large fire was "
+                },
+                {
+                    "text": "lit",
+                    "colorize": true
+                },
+                {
+                    "text": " on the mountaintop to send the urgent message"
+                }
+            ],
+            "tips": "Irregular verb: light → lit → lit. Not 'lighted' in this context. 'Lit' also means 'exciting' in slang (unrelated meaning)."
+        },
+        {
+            "word": "central",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Located in the "
+                },
+                {
+                    "text": "middle or most important part",
+                    "highlight": true
+                },
+                {
+                    "text": " of a region; "
+                },
+                {
+                    "text": "geographically core",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مركزي / وسط",
+            "synonyms": [
+                "middle",
+                "core",
+                "heart of"
+            ],
+            "example": [
+                {
+                    "text": "Drum communication is still used in "
+                },
+                {
+                    "text": "Central",
+                    "colorize": true
+                },
+                {
+                    "text": " Africa today"
+                }
+            ],
+            "tips": "Capitalized when part of a proper name (Central Africa, Central America). Not the same as 'center' (noun) – central is the adjective form."
+        },
+        {
+            "word": "tone",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "quality or pitch",
+                    "highlight": true
+                },
+                {
+                    "text": " of a sound; can be "
+                },
+                {
+                    "text": "high or low",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "نغمة / طبقة صوت",
+            "synonyms": [
+                "pitch",
+                "note quality"
+            ],
+            "example": [
+                {
+                    "text": "The drum could produce a high or low "
+                },
+                {
+                    "text": "tone",
+                    "colorize": true
+                },
+                {
+                    "text": " to mimic the patterns of human speech"
+                }
+            ],
+            "tips": "Also means 'attitude' in writing/speech (e.g., formal tone). In music/art: color shade (light tone vs. dark tone)."
+        },
+        {
+            "word": "significant",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Important or "
+                },
+                {
+                    "text": "meaningful enough to be noticed",
+                    "highlight": true
+                },
+                {
+                    "text": "; having "
+                },
+                {
+                    "text": "real importance",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مهم / ذو دلالة",
+            "synonyms": [
+                "important",
+                "meaningful",
+                "notable"
+            ],
+            "example": [
+                {
+                    "text": "What was "
+                },
+                {
+                    "text": "significant",
+                    "colorize": true
+                },
+                {
+                    "text": " about the first email? It started a communication revolution"
+                }
+            ],
+            "tips": "Not the same as 'big' – something small can be significant (e.g., a tiny error causing big problems). Opposite: insignificant."
+        },
+        {
+            "word": "figure out",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "solve or understand",
+                    "highlight": true
+                },
+                {
+                    "text": " something through "
+                },
+                {
+                    "text": "thinking or experimenting",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يكتشف / يفهم / يحل",
+            "synonyms": [
+                "solve",
+                "work out",
+                "discover"
+            ],
+            "example": [
+                {
+                    "text": "Tomlinson wanted to "
+                },
+                {
+                    "text": "figure out",
+                    "colorize": true
+                },
+                {
+                    "text": " how to send messages between different computers"
+                }
+            ],
+            "tips": "Separable phrasal verb: 'figure it out' (not 'figure out it'). Very common in casual speech for problem-solving."
+        },
+        {
+            "word": "transmit",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "send or pass along",
+                    "highlight": true
+                },
+                {
+                    "text": " information, signals, or energy from one place to "
+                },
+                {
+                    "text": "another",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ينقل / يبث",
+            "synonyms": [
+                "send",
+                "broadcast",
+                "convey"
+            ],
+            "example": [
+                {
+                    "text": "Smoke was used to "
+                },
+                {
+                    "text": "transmit",
+                    "colorize": true
+                },
+                {
+                    "text": " urgent messages across great distances"
+                }
+            ],
+            "tips": "Common in technology contexts: transmit data, transmit TV signals, transmit diseases. More formal than 'send'."
+        },
+        {
+            "word": "code",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "system of signals or symbols",
+                    "highlight": true
+                },
+                {
+                    "text": " used to "
+                },
+                {
+                    "text": "represent information secretly or efficiently",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "شفرة / رمز",
+            "synonyms": [
+                "cipher",
+                "signaling system"
+            ],
+            "example": [
+                {
+                    "text": "Native peoples developed a "
+                },
+                {
+                    "text": "code",
+                    "colorize": true
+                },
+                {
+                    "text": " where different smoke patterns had special meanings"
+                }
+            ],
+            "tips": "Also means computer programming instructions ('write code'). Context determines meaning: secret messages vs. software."
+        },
+        {
+            "word": "parallel",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Side by side and "
+                },
+                {
+                    "text": "always the same distance apart",
+                    "highlight": true
+                },
+                {
+                    "text": "; never "
+                },
+                {
+                    "text": "meeting or crossing",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "متوازٍ",
+            "synonyms": [
+                "side by side",
+                "running alongside"
+            ],
+            "example": [
+                {
+                    "text": "Two "
+                },
+                {
+                    "text": "parallel",
+                    "colorize": true
+                },
+                {
+                    "text": " columns of smoke indicated the war party's safe return"
+                }
+            ],
+            "tips": "Visualize train tracks – they run parallel. Not the same as 'similar' – parallel describes physical/spatial relationship."
+        },
+        {
+            "word": "simulate",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "imitate or copy",
+                    "highlight": true
+                },
+                {
+                    "text": " the appearance or sound of something; to "
+                },
+                {
+                    "text": "create a realistic imitation",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُحاكي / يُقلد",
+            "synonyms": [
+                "imitate",
+                "mimic",
+                "reproduce"
+            ],
+            "example": [
+                {
+                    "text": "Drummers could "
+                },
+                {
+                    "text": "simulate",
+                    "colorize": true
+                },
+                {
+                    "text": " human speech by matching the tone patterns of their language"
+                }
+            ],
+            "tips": "Often used with technology: flight simulators, simulated interviews. More precise than 'copy' – implies realistic recreation."
+        },
+        {
+            "word": "dialect",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A regional or social variety of a language with "
+                },
+                {
+                    "text": "distinct pronunciation, vocabulary",
+                    "highlight": true
+                },
+                {
+                    "text": ", or "
+                },
+                {
+                    "text": "grammar patterns",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "لهجة محلية",
+            "synonyms": [
+                "regional speech",
+                "vernacular"
+            ],
+            "example": [
+                {
+                    "text": "Because the local "
+                },
+                {
+                    "text": "dialect",
+                    "colorize": true
+                },
+                {
+                    "text": " alternated between high and low tones, drummers could mimic speech patterns"
+                }
+            ],
+            "tips": "Not the same as 'accent' (only pronunciation). Dialect includes word choices and grammar differences too (e.g., 'soda' vs. 'pop')."
+        },
+        {
+            "word": "revolution",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "dramatic and wide-reaching change",
+                    "highlight": true
+                },
+                {
+                    "text": " in the way something "
+                },
+                {
+                    "text": "functions or is organized",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ثورة / تغيير جذري",
+            "synonyms": [
+                "major transformation",
+                "radical change"
+            ],
+            "example": [
+                {
+                    "text": "Tomlinson had no idea he was starting a "
+                },
+                {
+                    "text": "revolution",
+                    "colorize": true
+                },
+                {
+                    "text": " in how people communicate worldwide"
+                }
+            ],
+            "tips": "Not always political! 'Digital revolution', 'industrial revolution' = massive technological/social shifts. More intense than 'change'."
+        },
+        {
+            "word": "remote",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Far away in "
+                },
+                {
+                    "text": "distance or location",
+                    "highlight": true
+                },
+                {
+                    "text": "; not "
+                },
+                {
+                    "text": "physically near",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "بعيد / ناءٍ",
+            "synonyms": [
+                "distant",
+                "far-off"
+            ],
+            "example": [
+                {
+                    "text": "Tomlinson wanted to send messages to computers at "
+                },
+                {
+                    "text": "remote",
+                    "colorize": true
+                },
+                {
+                    "text": " sites where other scientists were working"
+                }
+            ],
+            "tips": "Also means 'unlikely' (a remote chance) or 'emotionally distant' (a remote person). In tech: remote control, remote access."
+        },
+        {
+            "word": "in effect",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Essentially; "
+                },
+                {
+                    "text": "in reality or practice",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "for all practical purposes",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "فعليًا / في الواقع",
+            "synonyms": [
+                "essentially",
+                "practically",
+                "virtually"
+            ],
+            "example": [
+                {
+                    "text": "With smartphones, people can be "
+                },
+                {
+                    "text": "in effect",
+                    "colorize": true
+                },
+                {
+                    "text": " in constant touch with friends across the globe"
+                }
+            ],
+            "tips": "Similar to 'basically' but more formal. Not the same as 'in fact' – 'in effect' emphasizes practical reality over technical details."
+        },
+        {
+            "word": "constant touch",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Being able to "
+                },
+                {
+                    "text": "communicate regularly and easily",
+                    "highlight": true
+                },
+                {
+                    "text": " with someone; "
+                },
+                {
+                    "text": "always reachable",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "اتصال دائم / على تواصل مستمر",
+            "synonyms": [
+                "regular contact",
+                "continuous connection"
+            ],
+            "example": [
+                {
+                    "text": "Modern technology allows families to stay in "
+                },
+                {
+                    "text": "constant touch",
+                    "colorize": true
+                },
+                {
+                    "text": " even when living on different continents"
+                }
+            ],
+            "tips": "Usually used with 'in' (in constant touch). More natural than 'constant communication' – implies ease and regularity of contact."
+        }
+    ]
+}

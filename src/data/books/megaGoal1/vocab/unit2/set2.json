@@ -1,0 +1,422 @@
+{
+  "unit": "",
+  "type": "misc",
+  "setTitle": "Job Qualities",
+  "words": [
+    {
+      "word": "integrity",
+      "wordType": "noun",
+      "definition": [
+        {
+          "text": "The quality of being "
+        },
+        {
+          "text": "honest and having strong moral principles",
+          "highlight": true
+        },
+        {
+          "text": "; "
+        },
+        {
+          "text": "doing the right thing",
+          "highlight2": true
+        },
+        {
+          "text": " even when no one is watching"
+        }
+      ],
+      "arabicMeaning": "النزاهة / الاستقامة",
+      "synonyms": [
+        "honesty",
+        "moral principles",
+        "ethics",
+        "uprightness"
+      ],
+      "example": [
+        {
+          "text": "A person with "
+        },
+        {
+          "text": "integrity",
+          "colorize": true
+        },
+        {
+          "text": " will admit their mistakes and take responsibility for their actions"
+        }
+      ],
+      "tips": "Integrity means consistency between words and actions. It's about trustworthiness and moral character."
+    },
+    {
+      "word": "teamwork",
+      "wordType": "noun",
+      "definition": [
+        {
+          "text": "The ability to "
+        },
+        {
+          "text": "work well with others",
+          "highlight": true
+        },
+        {
+          "text": " toward a "
+        },
+        {
+          "text": "common goal",
+          "highlight2": true
+        },
+        {
+          "text": "; cooperative effort by a group"
+        }
+      ],
+      "arabicMeaning": "العمل الجماعي / التعاون",
+      "synonyms": [
+        "collaboration",
+        "cooperation",
+        "group work"
+      ],
+      "example": [
+        {
+          "text": "Good "
+        },
+        {
+          "text": "teamwork",
+          "colorize": true
+        },
+        {
+          "text": " requires listening to others' ideas and supporting your colleagues"
+        }
+      ],
+      "tips": "Employers highly value teamwork skills. Being a 'team player' means putting group success above personal recognition."
+    },
+    {
+      "word": "interpersonal",
+      "wordType": "adjective",
+      "definition": [
+        {
+          "text": "Relating to "
+        },
+        {
+          "text": "relationships and communication",
+          "highlight": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "between people",
+          "highlight2": true
+        },
+        {
+          "text": "; social interaction skills"
+        }
+      ],
+      "arabicMeaning": "متعلق بالعلاقات الشخصية",
+      "synonyms": [
+        "social",
+        "relational",
+        "people skills"
+      ],
+      "example": [
+        {
+          "text": "Strong "
+        },
+        {
+          "text": "interpersonal",
+          "colorize": true
+        },
+        {
+          "text": " skills help you build positive relationships with coworkers and clients"
+        }
+      ],
+      "tips": "Interpersonal skills = how you interact with others. Includes empathy, listening, conflict resolution, and communication."
+    },
+    {
+      "word": "work ethic",
+      "wordType": "noun phrase",
+      "definition": [
+        {
+          "text": "A person's "
+        },
+        {
+          "text": "attitude toward work",
+          "highlight": true
+        },
+        {
+          "text": "; the belief in the "
+        },
+        {
+          "text": "value of hard work",
+          "highlight2": true
+        },
+        {
+          "text": " and dedication"
+        }
+      ],
+      "arabicMeaning": "أخلاقيات العمل",
+      "synonyms": [
+        "dedication",
+        "diligence",
+        "commitment to work"
+      ],
+      "example": [
+        {
+          "text": "Employees with a strong "
+        },
+        {
+          "text": "work ethic",
+          "colorize": true
+        },
+        {
+          "text": " arrive on time, complete tasks thoroughly, and take pride in their work"
+        }
+      ],
+      "tips": "A strong work ethic means being reliable, responsible, and putting in effort consistently."
+    },
+    {
+      "word": "initiative",
+      "wordType": "noun",
+      "definition": [
+        {
+          "text": "The ability to "
+        },
+        {
+          "text": "take action independently",
+          "highlight": true
+        },
+        {
+          "text": " without being told; "
+        },
+        {
+          "text": "starting things on your own",
+          "highlight2": true
+        }
+      ],
+      "arabicMeaning": "المبادرة",
+      "synonyms": [
+        "self-motivation",
+        "proactiveness",
+        "enterprise"
+      ],
+      "example": [
+        {
+          "text": "She showed great "
+        },
+        {
+          "text": "initiative",
+          "colorize": true
+        },
+        {
+          "text": " by creating a new filing system without waiting for instructions"
+        }
+      ],
+      "tips": "Taking initiative means being proactive, not reactive. You see what needs to be done and do it!"
+    },
+    {
+      "word": "adaptability",
+      "wordType": "noun",
+      "definition": [
+        {
+          "text": "The ability to "
+        },
+        {
+          "text": "adjust to new conditions",
+          "highlight": true
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "change successfully",
+          "highlight2": true
+        },
+        {
+          "text": "; being flexible in different situations"
+        }
+      ],
+      "arabicMeaning": "القدرة على التكيف",
+      "synonyms": [
+        "flexibility",
+        "versatility",
+        "adjustability"
+      ],
+      "example": [
+        {
+          "text": "In today's fast-changing workplace, "
+        },
+        {
+          "text": "adaptability",
+          "colorize": true
+        },
+        {
+          "text": " is essential for handling new technologies and processes"
+        }
+      ],
+      "tips": "The adjective is 'adaptable' = able to change. Adaptability means you can handle unexpected situations well."
+    },
+    {
+      "word": "analytical",
+      "wordType": "adjective",
+      "definition": [
+        {
+          "text": "Relating to "
+        },
+        {
+          "text": "logical thinking",
+          "highlight": true
+        },
+        {
+          "text": " and the ability to "
+        },
+        {
+          "text": "examine information carefully",
+          "highlight2": true
+        },
+        {
+          "text": " to solve problems"
+        }
+      ],
+      "arabicMeaning": "تحليلي",
+      "synonyms": [
+        "logical",
+        "systematic",
+        "reasoning-based"
+      ],
+      "example": [
+        {
+          "text": "Scientists need strong "
+        },
+        {
+          "text": "analytical",
+          "colorize": true
+        },
+        {
+          "text": " skills to interpret data and draw accurate conclusions"
+        }
+      ],
+      "tips": "Analytical thinking means breaking complex problems into parts and examining them logically. The verb is 'analyze'."
+    },
+    {
+      "word": "organizational skills",
+      "wordType": "noun phrase",
+      "definition": [
+        {
+          "text": "The ability to "
+        },
+        {
+          "text": "arrange and coordinate",
+          "highlight": true
+        },
+        {
+          "text": " tasks, information, and resources "
+        },
+        {
+          "text": "efficiently and effectively",
+          "highlight2": true
+        }
+      ],
+      "arabicMeaning": "مهارات التنظيم",
+      "synonyms": [
+        "planning abilities",
+        "coordination skills",
+        "management skills"
+      ],
+      "example": [
+        {
+          "text": "Good "
+        },
+        {
+          "text": "organizational skills",
+          "colorize": true
+        },
+        {
+          "text": " help you keep track of multiple projects and meet all your deadlines"
+        }
+      ],
+      "tips": "Includes planning, prioritizing, file management, and keeping things in order. Essential for productivity!"
+    },
+    {
+      "word": "time management",
+      "wordType": "noun phrase",
+      "definition": [
+        {
+          "text": "The ability to "
+        },
+        {
+          "text": "use time productively",
+          "highlight": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "efficiently",
+          "highlight2": true
+        },
+        {
+          "text": "; planning and controlling how you spend your hours"
+        }
+      ],
+      "arabicMeaning": "إدارة الوقت",
+      "synonyms": [
+        "time control",
+        "scheduling",
+        "prioritization"
+      ],
+      "example": [
+        {
+          "text": "Effective "
+        },
+        {
+          "text": "time management",
+          "colorize": true
+        },
+        {
+          "text": " allows you to complete important tasks without rushing or missing deadlines"
+        }
+      ],
+      "tips": "Key skills: setting priorities, avoiding procrastination, estimating how long tasks take, and staying focused."
+    },
+    {
+      "word": "critical thinking",
+      "wordType": "noun phrase",
+      "definition": [
+        {
+          "text": "The ability to "
+        },
+        {
+          "text": "think clearly and rationally",
+          "highlight": true
+        },
+        {
+          "text": "; "
+        },
+        {
+          "text": "analyzing and evaluating",
+          "highlight2": true
+        },
+        {
+          "text": " information to make good decisions"
+        }
+      ],
+      "arabicMeaning": "التفكير النقدي",
+      "synonyms": [
+        "analytical thinking",
+        "logical reasoning",
+        "reflective thinking"
+      ],
+      "example": [
+        {
+          "text": "Good "
+        },
+        {
+          "text": "critical thinking",
+          "colorize": true
+        },
+        {
+          "text": " helps you question assumptions and avoid making decisions based on emotions alone"
+        }
+      ],
+      "tips": "Critical thinking means not accepting everything at face value. Ask questions, examine evidence, consider alternatives."
+    }
+  ]
+}

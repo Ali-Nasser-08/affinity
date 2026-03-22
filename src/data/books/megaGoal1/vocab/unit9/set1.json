@@ -1,0 +1,624 @@
+{
+    "unit": "Mega Goal 1 - Unit 9: Complaints Complaints",
+    "type": "vocabulary",
+    "setTitle": "Common Complaint Vocabulary",
+    "words": [
+        {
+            "word": "leaky pipe",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A pipe that allows water to "
+                },
+                {
+                    "text": "escape through small holes",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "cracks, causing drips or flooding",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "أنبوب متسرب",
+            "synonyms": [
+                "dripping pipe",
+                "faulty plumbing"
+            ],
+            "example": [
+                {
+                    "text": "We had to call a plumber because the "
+                },
+                {
+                    "text": "leaky pipe",
+                    "colorize": true
+                },
+                {
+                    "text": " under the sink was slowly damaging the cabinet"
+                }
+            ],
+            "tips": "Common housing complaint. 'Leaky' describes anything allowing liquid/gas to escape unintentionally (leaky roof, leaky faucet)."
+        },
+        {
+            "word": "dripping faucet",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A tap that continues to release "
+                },
+                {
+                    "text": "small drops of water",
+                    "highlight": true
+                },
+                {
+                    "text": " even when turned off, often due to a "
+                },
+                {
+                    "text": "worn washer",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "صنبور يقطر",
+            "synonyms": [
+                "leaky tap",
+                "dripping tap"
+            ],
+            "example": [
+                {
+                    "text": "The constant sound of the "
+                },
+                {
+                    "text": "dripping faucet",
+                    "colorize": true
+                },
+                {
+                    "text": " kept me awake all night in the hotel room"
+                }
+            ],
+            "tips": "Wastes water and increases bills. Easy DIY fix usually involves replacing the rubber washer inside the faucet handle."
+        },
+        {
+            "word": "cracked windshield",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "The front window of a vehicle that has "
+                },
+                {
+                    "text": "broken lines or splits",
+                    "highlight": true
+                },
+                {
+                    "text": " in the glass without "
+                },
+                {
+                    "text": "shattering completely",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "زجاج أمامي متشقق",
+            "synonyms": [
+                "windscreen crack",
+                "fractured windshield"
+            ],
+            "example": [
+                {
+                    "text": "A small stone hit our car and left a spiderweb "
+                },
+                {
+                    "text": "cracked windshield",
+                    "colorize": true
+                },
+                {
+                    "text": " that spread across half the glass within a week"
+                }
+            ],
+            "tips": "Dangerous because cracks impair visibility and weaken structural integrity. Often repairable if caught early; large cracks require full replacement."
+        },
+        {
+            "word": "flat tire",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A tire that has "
+                },
+                {
+                    "text": "lost all its air pressure",
+                    "highlight": true
+                },
+                {
+                    "text": " and become "
+                },
+                {
+                    "text": "completely deflated",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "إطار مفرغ من الهواء",
+            "synonyms": [
+                "punctured tire",
+                "blown tire"
+            ],
+            "example": [
+                {
+                    "text": "We got a "
+                },
+                {
+                    "text": "flat tire",
+                    "colorize": true
+                },
+                {
+                    "text": " on the highway and had to wait an hour for roadside assistance"
+                }
+            ],
+            "tips": "Caused by nails, glass, or worn rubber. Always carry a spare tire and know how to change it. 'Flat' here is adjective (not noun)."
+        },
+        {
+            "word": "dead battery",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A battery that has "
+                },
+                {
+                    "text": "completely lost its charge",
+                    "highlight": true
+                },
+                {
+                    "text": " and cannot "
+                },
+                {
+                    "text": "power a device or engine",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "بطارية فارغة / ميتة",
+            "synonyms": [
+                "drained battery",
+                "completely discharged battery"
+            ],
+            "example": [
+                {
+                    "text": "My phone showed 20% charge but suddenly died—it turned out to be a "
+                },
+                {
+                    "text": "dead battery",
+                    "colorize": true
+                },
+                {
+                    "text": " that needed replacement"
+                }
+            ],
+            "tips": "Car batteries often die in cold weather or after leaving lights on. Jump-starting can provide temporary power, but old batteries need replacing."
+        },
+        {
+            "word": "stain",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "discolored mark",
+                    "highlight": true
+                },
+                {
+                    "text": " left on fabric, carpet, or surfaces by "
+                },
+                {
+                    "text": "spilled liquids or dirt",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "بقعة",
+            "synonyms": [
+                "spot",
+                "mark",
+                "discoloration"
+            ],
+            "example": [
+                {
+                    "text": "Red wine left a stubborn "
+                },
+                {
+                    "text": "stain",
+                    "colorize": true
+                },
+                {
+                    "text": " on the white tablecloth that wouldn't come out even after washing"
+                }
+            ],
+            "tips": "Act quickly on stains—blot (don't rub!) with cold water. Different stains need different treatments (grease vs. ink vs. wine)."
+        },
+        {
+            "word": "loose",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Not firmly fixed in place; able to "
+                },
+                {
+                    "text": "move or wobble",
+                    "highlight": true
+                },
+                {
+                    "text": " because it is "
+                },
+                {
+                    "text": "not tight enough",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مترهل / غير محكم",
+            "synonyms": [
+                "wobbly",
+                "unsecured",
+                "not tight"
+            ],
+            "example": [
+                {
+                    "text": "The kitchen cabinet door became "
+                },
+                {
+                    "text": "loose",
+                    "colorize": true
+                },
+                {
+                    "text": " after months of use, and now it swings open by itself"
+                }
+            ],
+            "tips": "Common with screws, handles, floorboards, and furniture joints. Usually fixed by tightening screws or replacing worn parts."
+        },
+        {
+            "word": "torn",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Ripped or "
+                },
+                {
+                    "text": "split apart",
+                    "highlight": true
+                },
+                {
+                    "text": " with a visible "
+                },
+                {
+                    "text": "opening or hole",
+                    "highlight2": true
+                },
+                {
+                    "text": " in fabric or paper"
+                }
+            ],
+            "arabicMeaning": "ممزّق",
+            "synonyms": [
+                "ripped",
+                "shredded",
+                "tattered"
+            ],
+            "example": [
+                {
+                    "text": "My backpack strap got caught in the bus door and came back completely "
+                },
+                {
+                    "text": "torn",
+                    "colorize": true
+                },
+                {
+                    "text": ""
+                }
+            ],
+            "tips": "Different from 'hole' (missing material) – torn implies edges were pulled apart. Often repairable by sewing unless severely damaged."
+        },
+        {
+            "word": "missing button",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A fastener that has "
+                },
+                {
+                    "text": "fallen off or disappeared",
+                    "highlight": true
+                },
+                {
+                    "text": " from clothing, leaving an "
+                },
+                {
+                    "text": "unsecured opening",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "زر ناقص",
+            "synonyms": [
+                "lost button",
+                "detached button"
+            ],
+            "example": [
+                {
+                    "text": "I couldn't wear my favorite shirt to the interview because of a "
+                },
+                {
+                    "text": "missing button",
+                    "colorize": true
+                },
+                {
+                    "text": " right down the front"
+                }
+            ],
+            "tips": "Always sew spare buttons onto garment tags when new. Replacing buttons is a simple sewing skill everyone should learn."
+        },
+        {
+            "word": "dent",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "shallow depression or hollow",
+                    "highlight": true
+                },
+                {
+                    "text": " made by impact on a hard surface like metal, without "
+                },
+                {
+                    "text": "breaking through",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "خدش / انبعاج",
+            "synonyms": [
+                "ding",
+                "depression",
+                "indentation"
+            ],
+            "example": [
+                {
+                    "text": "Someone hit my parked car and left a deep "
+                },
+                {
+                    "text": "dent",
+                    "colorize": true
+                },
+                {
+                    "text": " in the driver's side door"
+                }
+            ],
+            "tips": "Common on cars, refrigerators, and metal furniture. Small dents can sometimes be popped out with suction tools; larger ones need bodywork."
+        },
+        {
+            "word": "filthy",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Extremely "
+                },
+                {
+                    "text": "dirty or unclean",
+                    "highlight": true
+                },
+                {
+                    "text": "; covered in "
+                },
+                {
+                    "text": "grime, dust, or stains",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "قذر جدًا / وسخ",
+            "synonyms": [
+                "disgusting",
+                "grimy",
+                "squalid"
+            ],
+            "example": [
+                {
+                    "text": "The vacation rental was advertised as 'spotless' but the kitchen counters were absolutely "
+                },
+                {
+                    "text": "filthy",
+                    "colorize": true
+                },
+                {
+                    "text": " with old food stuck to them"
+                }
+            ],
+            "tips": "Stronger than 'dirty'—implies unacceptable, offensive dirtiness. Common complaint word for rentals, restaurants, and public facilities."
+        },
+        {
+            "word": "worn",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Damaged or "
+                },
+                {
+                    "text": "thinned by repeated use",
+                    "highlight": true
+                },
+                {
+                    "text": " over time; showing "
+                },
+                {
+                    "text": "signs of age and deterioration",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "بالٍ / مستهلك",
+            "synonyms": [
+                "worn-out",
+                "frayed",
+                "deteriorated"
+            ],
+            "example": [
+                {
+                    "text": "The carpet in the hallway was completely "
+                },
+                {
+                    "text": "worn",
+                    "colorize": true
+                },
+                {
+                    "text": " down to the backing after ten years of heavy foot traffic"
+                }
+            ],
+            "tips": "Often used for tires ('worn tread' = dangerous), shoes, carpets, and clothing. 'Worn out' = completely unusable from overuse."
+        },
+        {
+            "word": "warranty",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A written "
+                },
+                {
+                    "text": "guarantee from a manufacturer",
+                    "highlight": true
+                },
+                {
+                    "text": " promising to repair or replace a product if it "
+                },
+                {
+                    "text": "fails within a specific time",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ضمان",
+            "synonyms": [
+                "guarantee",
+                "service agreement"
+            ],
+            "example": [
+                {
+                    "text": "The laptop stopped working after eight months, but thankfully it was still under "
+                },
+                {
+                    "text": "warranty",
+                    "colorize": true
+                },
+                {
+                    "text": " so the company replaced it for free"
+                }
+            ],
+            "tips": "Always keep warranty documents and receipts. 'Full warranty' covers everything; 'limited warranty' has exclusions. Voided by misuse or unauthorized repairs."
+        },
+        {
+            "word": "I'd rather",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Short for 'I would rather'; used to state a "
+                },
+                {
+                    "text": "clear preference",
+                    "highlight": true
+                },
+                {
+                    "text": " when making a "
+                },
+                {
+                    "text": "complaint or negotiation",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "أفضل أن...",
+            "synonyms": [
+                "I would prefer",
+                "I'd prefer to"
+            ],
+            "example": [
+                {
+                    "text": "\"We can fix the tear or give you store credit.\" \""
+                },
+                {
+                    "text": "I'd rather",
+                    "colorize": true
+                },
+                {
+                    "text": " have a full refund, please.\""
+                }
+            ],
+            "tips": "Polite but firm way to state your preferred solution during complaints. Followed by base verb: 'I'd rather have...' NOT 'I'd rather to have...'"
+        },
+        {
+            "word": "have it repaired",
+            "wordType": "causative phrase",
+            "definition": [
+                {
+                    "text": "To arrange for someone else to fix something for you; using the "
+                },
+                {
+                    "text": "causative structure",
+                    "highlight": true
+                },
+                {
+                    "text": " 'have + object + past participle' to show you "
+                },
+                {
+                    "text": "cause an action to happen",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "أصلحه (باستخدام الغير)",
+            "synonyms": [
+                "get it fixed",
+                "arrange for repairs"
+            ],
+            "example": [
+                {
+                    "text": "My washing machine broke yesterday, so I'm going to "
+                },
+                {
+                    "text": "have it repaired",
+                    "colorize": true
+                },
+                {
+                    "text": " by a professional technician tomorrow"
+                }
+            ],
+            "tips": "Key complaint language pattern: 'have it checked/replaced/returned'. Shows you're taking action rather than doing the repair yourself."
+        },
+        {
+            "word": "no signal",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Complete "
+                },
+                {
+                    "text": "absence of reception",
+                    "highlight": true
+                },
+                {
+                    "text": " for phone calls, internet, or television in a particular "
+                },
+                {
+                    "text": "location",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "لا إشارة",
+            "synonyms": [
+                "no reception",
+                "dead zone"
+            ],
+            "example": [
+                {
+                    "text": "I couldn't call for help when my car broke down because my phone showed "
+                },
+                {
+                    "text": "no signal",
+                    "colorize": true
+                },
+                {
+                    "text": " in that remote valley"
+                }
+            ],
+            "tips": "Common electronics complaint. Different from 'weak signal' (some bars but poor quality). Buildings, mountains, and weather can block signals."
+        }
+    ]
+}

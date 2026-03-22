@@ -1,0 +1,627 @@
+{
+    "unit": "Mega Goal 1 - Unit 12: Reporting What People Say",
+    "type": "vocabulary",
+    "setTitle": "News & Reported Speech Vocabulary",
+    "words": [
+        {
+            "word": "bother",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To take the time or effort to do something; often used in negative contexts to mean "
+                },
+                {
+                    "text": "not making an effort",
+                    "highlight": true
+                },
+                {
+                    "text": " when something seems "
+                },
+                {
+                    "text": "unimportant or inconvenient",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُعنَى / يُهتم (غالبًا في سياق النفي)",
+            "synonyms": [
+                "trouble oneself",
+                "make the effort",
+                "take the trouble"
+            ],
+            "example": [
+                {
+                    "text": "She didn't "
+                },
+                {
+                    "text": "bother",
+                    "colorize": true
+                },
+                {
+                    "text": " to call and let us know she'd be late—she just showed up an hour after the meeting started"
+                }
+            ],
+            "tips": "Common pattern: 'bother to + verb' or 'bother with + noun'. Often negative: 'I can't be bothered' = I don't want to make the effort. Not the same as 'bother' meaning 'annoy' (different context)."
+        },
+        {
+            "word": "proof",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Evidence or information that shows something is "
+                },
+                {
+                    "text": "definitely true or real",
+                    "highlight": true
+                },
+                {
+                    "text": "; something that "
+                },
+                {
+                    "text": "demonstrates a fact beyond doubt",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "إثبات / برهان",
+            "synonyms": [
+                "evidence",
+                "verification",
+                "confirmation"
+            ],
+            "example": [
+                {
+                    "text": "The security camera footage provided clear "
+                },
+                {
+                    "text": "proof",
+                    "colorize": true
+                },
+                {
+                    "text": " that he was at home when the incident occurred"
+                }
+            ],
+            "tips": "Uncountable noun—never 'proofs' when meaning evidence (though 'proofs' can mean test prints in printing). Common phrase: 'the proof is in the pudding' = results show the truth."
+        },
+        {
+            "word": "scan",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To examine something carefully using a machine that creates images of the "
+                },
+                {
+                    "text": "inside of an object or body",
+                    "highlight": true
+                },
+                {
+                    "text": "; to move a device over a surface to "
+                },
+                {
+                    "text": "capture data or images",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُصوّر بالأشعة / يفحص بجهاز",
+            "synonyms": [
+                "examine with imaging technology",
+                "digitize",
+                "screen"
+            ],
+            "example": [
+                {
+                    "text": "Doctors decided to "
+                },
+                {
+                    "text": "scan",
+                    "colorize": true
+                },
+                {
+                    "text": " his brain with an MRI machine to check for any abnormalities"
+                }
+            ],
+            "tips": "Medical context: CT scan, MRI scan. Technology context: scan a document (create digital copy). Not the same as 'skim' (read quickly) or 'search' (look for something)."
+        },
+        {
+            "word": "evidence",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Facts, signs, or information that help to "
+                },
+                {
+                    "text": "prove something is true",
+                    "highlight": true
+                },
+                {
+                    "text": " or to "
+                },
+                {
+                    "text": "support a belief or conclusion",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "دليل / شاهد",
+            "synonyms": [
+                "proof",
+                "indication",
+                "documentation"
+            ],
+            "example": [
+                {
+                    "text": "The detective collected physical "
+                },
+                {
+                    "text": "evidence",
+                    "colorize": true
+                },
+                {
+                    "text": " from the crime scene, including fingerprints and security camera footage"
+                }
+            ],
+            "tips": "Uncountable noun—never 'evidences' (except in rare legal/archaic usage). Often modified: scientific evidence, circumstantial evidence, compelling evidence."
+        },
+        {
+            "word": "complex",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A group of buildings or facilities located together that serve a "
+                },
+                {
+                    "text": "related purpose",
+                    "highlight": true
+                },
+                {
+                    "text": ", such as sports, shopping, or "
+                },
+                {
+                    "text": "housing",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مجمع",
+            "synonyms": [
+                "facility",
+                "center",
+                "development"
+            ],
+            "example": [
+                {
+                    "text": "The new recreation "
+                },
+                {
+                    "text": "complex",
+                    "colorize": true
+                },
+                {
+                    "text": " includes an Olympic-sized swimming pool, three basketball courts, and a fitness center"
+                }
+            ],
+            "tips": "Different from 'complicated' (adjective meaning difficult to understand). As noun: sports complex, apartment complex, shopping complex."
+        },
+        {
+            "word": "candidate",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A person who is "
+                },
+                {
+                    "text": "running for an elected position",
+                    "highlight": true
+                },
+                {
+                    "text": " or applying for a "
+                },
+                {
+                    "text": "job or honor",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مرشّح",
+            "synonyms": [
+                "contender",
+                "applicant",
+                "nominee"
+            ],
+            "example": [
+                {
+                    "text": "The mayoral "
+                },
+                {
+                    "text": "candidate",
+                    "colorize": true
+                },
+                {
+                    "text": " promised to improve public transportation if elected"
+                }
+            ],
+            "tips": "Always followed by 'for': candidate for mayor, candidate for president, job candidate. Not the same as 'candid' (adjective meaning honest/open)."
+        },
+        {
+            "word": "mayor",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The elected leader of a "
+                },
+                {
+                    "text": "city or town government",
+                    "highlight": true
+                },
+                {
+                    "text": " who is responsible for local administration, services, and "
+                },
+                {
+                    "text": "public safety",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "عمدة",
+            "synonyms": [
+                "city leader",
+                "chief municipal officer"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "mayor",
+                    "colorize": true
+                },
+                {
+                    "text": " attended the opening ceremony of the new public library and cut the ribbon"
+                }
+            ],
+            "tips": "Local government position (below governor/state level). Female mayors are still called 'mayor' (not 'mayoress' in modern usage)."
+        },
+        {
+            "word": "taxes",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Money that citizens and businesses are required to pay to the government to fund "
+                },
+                {
+                    "text": "public services",
+                    "highlight": true
+                },
+                {
+                    "text": " such as schools, roads, police, and "
+                },
+                {
+                    "text": "healthcare",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ضرائب",
+            "synonyms": [
+                "revenue",
+                "levies",
+                "government dues"
+            ],
+            "example": [
+                {
+                    "text": "Many voters were unhappy when the city council voted to increase property "
+                },
+                {
+                    "text": "taxes",
+                    "colorize": true
+                },
+                {
+                    "text": " by 15 percent"
+                }
+            ],
+            "tips": "Always plural when referring to government payments. Verb form: tax (to impose a tax). Common collocations: raise taxes, cut taxes, pay taxes."
+        },
+        {
+            "word": "reporter",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A journalist who "
+                },
+                {
+                    "text": "gathers information",
+                    "highlight": true
+                },
+                {
+                    "text": " about events and writes or broadcasts "
+                },
+                {
+                    "text": "news stories",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مراسل / صحفي",
+            "synonyms": [
+                "journalist",
+                "correspondent",
+                "news reporter"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "reporter",
+                    "colorize": true
+                },
+                {
+                    "text": " spent three days interviewing survivors after the earthquake to write an accurate account"
+                }
+            ],
+            "tips": "Different from 'anchor' (person who presents news in studio) vs. 'reporter' (person who gathers news in the field). 'On-the-scene reporter' = journalist reporting live from where an event is happening."
+        },
+        {
+            "word": "knocked down",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To cause something to fall to the ground by hitting or pushing it; to "
+                },
+                {
+                    "text": "demolish or destroy",
+                    "highlight": true
+                },
+                {
+                    "text": " a structure by force",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُسقط / يُهدم",
+            "synonyms": [
+                "topple",
+                "demolish",
+                "bring down"
+            ],
+            "example": [
+                {
+                    "text": "The hurricane winds were so strong they "
+                },
+                {
+                    "text": "knocked down",
+                    "colorize": true
+                },
+                {
+                    "text": " power lines and ancient oak trees throughout the neighborhood"
+                }
+            ],
+            "tips": "Separable phrasal verb: 'knock the tree down' or 'knock down the tree'. Not the same as 'knock over' (accidentally tip something) vs. 'knock down' (often intentional or by strong force)."
+        },
+        {
+            "word": "power",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "In this context: electricity supplied to homes and businesses; the ability to use "
+                },
+                {
+                    "text": "electrical devices",
+                    "highlight": true
+                },
+                {
+                    "text": " and lighting. Also means political control or physical "
+                },
+                {
+                    "text": "strength",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "كهرباء / طاقة",
+            "synonyms": [
+                "electricity",
+                "current",
+                "utility service"
+            ],
+            "example": [
+                {
+                    "text": "After the storm passed, crews worked through the night to restore "
+                },
+                {
+                    "text": "power",
+                    "colorize": true
+                },
+                {
+                    "text": " to the 10,000 homes still sitting in darkness"
+                }
+            ],
+            "tips": "Context determines meaning: 'lost power' (electricity) vs. 'political power' (control) vs. 'physical power' (strength). Common phrase: 'power outage' = loss of electricity."
+        },
+        {
+            "word": "according to",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Used to introduce the source of information; showing that what follows comes from "
+                },
+                {
+                    "text": "a specific person",
+                    "highlight": true
+                },
+                {
+                    "text": ", document, or "
+                },
+                {
+                    "text": "study",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "وفقًا لـ",
+            "synonyms": [
+                "as stated by",
+                "based on information from",
+                "per"
+            ],
+            "example": [
+                {
+                    "text": ""
+                },
+                {
+                    "text": "According to",
+                    "colorize": true
+                },
+                {
+                    "text": " the weather forecast, we can expect heavy rain starting tomorrow afternoon"
+                }
+            ],
+            "tips": "Essential reporting phrase. NEVER 'according with' or 'according from'—always 'according to'. Not the reporter's opinion—attributes information to a source."
+        },
+        {
+            "word": "lower",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To reduce or decrease the amount, level, or intensity of something; to make something "
+                },
+                {
+                    "text": "less high",
+                    "highlight": true
+                },
+                {
+                    "text": " in position, value, or "
+                },
+                {
+                    "text": "measurement",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يخفّض / يُقلل",
+            "synonyms": [
+                "reduce",
+                "decrease",
+                "bring down"
+            ],
+            "example": [
+                {
+                    "text": "Regular exercise can help "
+                },
+                {
+                    "text": "lower",
+                    "colorize": true
+                },
+                {
+                    "text": " your blood pressure and reduce the risk of heart disease"
+                }
+            ],
+            "tips": "Opposite: raise/increase. Common collocations: lower prices, lower expectations, lower the volume, lower blood pressure."
+        },
+        {
+            "word": "memory",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The mental ability to store, retain, and recall information and experiences; the "
+                },
+                {
+                    "text": "faculty of remembering",
+                    "highlight": true
+                },
+                {
+                    "text": " past events, facts, or "
+                },
+                {
+                    "text": "skills",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ذاكرة",
+            "synonyms": [
+                "recall",
+                "remembrance",
+                "retention"
+            ],
+            "example": [
+                {
+                    "text": "Playing chess and learning new languages are activities that help strengthen your "
+                },
+                {
+                    "text": "memory",
+                    "colorize": true
+                },
+                {
+                    "text": " as you age"
+                }
+            ],
+            "tips": "Not the same as 'memorization' (the act of committing to memory) vs. 'memory' (the capacity itself). Computer context: RAM/memory = storage capacity (metaphorical extension)."
+        },
+        {
+            "word": "intelligent life",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "Living beings that possess the ability to think, reason, solve problems, and "
+                },
+                {
+                    "text": "communicate complex ideas",
+                    "highlight": true
+                },
+                {
+                    "text": " — beyond basic survival instincts shown by most "
+                },
+                {
+                    "text": "animals",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حياة ذكية",
+            "synonyms": [
+                "sentient beings",
+                "conscious life forms",
+                "rational creatures"
+            ],
+            "example": [
+                {
+                    "text": "Scientists at the SETI Institute spend their careers searching for signs of "
+                },
+                {
+                    "text": "intelligent life",
+                    "colorize": true
+                },
+                {
+                    "text": " elsewhere in our galaxy by listening for radio signals"
+                }
+            ],
+            "tips": "Key concept in astronomy/philosophy. 'Intelligent' distinguishes humans (and possibly aliens) from other life forms that may exist but lack advanced cognition."
+        },
+        {
+            "word": "make contact",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To establish communication or connection with someone or something; to reach out and "
+                },
+                {
+                    "text": "initiate interaction",
+                    "highlight": true
+                },
+                {
+                    "text": " for the first time or after a period of "
+                },
+                {
+                    "text": "silence",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يتصل / يقيم اتصالاً",
+            "synonyms": [
+                "get in touch",
+                "reach out",
+                "establish communication"
+            ],
+            "example": [
+                {
+                    "text": "After three years of no communication, she finally decided to "
+                },
+                {
+                    "text": "make contact",
+                    "colorize": true
+                },
+                {
+                    "text": " with her estranged brother to apologize for their argument"
+                }
+            ],
+            "tips": "Common in both personal relationships ('make contact with an old friend') and scientific contexts ('make contact with alien civilizations'). Often used with 'with': make contact with someone."
+        }
+    ]
+}

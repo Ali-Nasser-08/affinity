@@ -1,0 +1,2595 @@
+{
+    "unit": "Mega Goal 1 - Unit 2: Daily Life & Work",
+    "type": "revision",
+    "totalQuestions": 100,
+    "currentBatch": 1,
+    "sections": [
+        {
+            "section": "grammar",
+            "questions": [
+                {
+                    "id": "G1",
+                    "difficulty": 2,
+                    "arabicHint": "المضارع التام المستمر للمدة",
+                    "question": "Choose the correct tense for an ongoing action.",
+                    "prompt": [
+                        {
+                            "text": "She "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " for the bus for twenty minutes."
+                        }
+                    ],
+                    "options": [
+                        "waits",
+                        "has waited",
+                        "has been waiting",
+                        "is waiting"
+                    ],
+                    "answer": "has been waiting",
+                    "explanation": "Use present perfect progressive to emphasize the duration of an action continuing to the present."
+                },
+                {
+                    "id": "G2",
+                    "difficulty": 2,
+                    "arabicHint": "المضارع التام البسيط للنتيجة",
+                    "question": "Select the correct form for completed quantity.",
+                    "prompt": [
+                        {
+                            "text": "He "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " five emails this morning."
+                        }
+                    ],
+                    "options": [
+                        "has written",
+                        "has been writing",
+                        "writes",
+                        "is writing"
+                    ],
+                    "answer": "has written",
+                    "explanation": "Use present perfect simple to focus on the number of completed actions."
+                },
+                {
+                    "id": "G3",
+                    "difficulty": 1,
+                    "arabicHint": "المضارع البسيط للعادات",
+                    "question": "Choose the correct verb form for a routine.",
+                    "prompt": [
+                        {
+                            "text": "My father "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " to the gym every Friday."
+                        }
+                    ],
+                    "options": [
+                        "go",
+                        "goes",
+                        "is going",
+                        "has gone"
+                    ],
+                    "answer": "goes",
+                    "explanation": "Use simple present for habitual actions and routines."
+                },
+                {
+                    "id": "G4",
+                    "difficulty": 3,
+                    "arabicHint": "المضارع التام المستمر مع since",
+                    "question": "Fill in the blank with the correct tense.",
+                    "prompt": [
+                        {
+                            "text": "They "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " in this house since 2010."
+                        }
+                    ],
+                    "options": [
+                        "live",
+                        "have lived",
+                        "have been living",
+                        "are living"
+                    ],
+                    "answer": "have been living",
+                    "explanation": "Present perfect progressive emphasizes the continuous nature of living there from past to present."
+                },
+                {
+                    "id": "G5",
+                    "difficulty": 2,
+                    "arabicHint": "أدوات الزمن (at, in, on)",
+                    "question": "Select the correct preposition of time.",
+                    "prompt": [
+                        {
+                            "text": "The meeting starts "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " 9:00 AM sharp."
+                        }
+                    ],
+                    "options": [
+                        "in",
+                        "on",
+                        "at",
+                        "by"
+                    ],
+                    "answer": "at",
+                    "explanation": "Use 'at' for specific clock times."
+                },
+                {
+                    "id": "G6",
+                    "difficulty": 2,
+                    "arabicHint": "أدوات الزمن (أيام الأسبوع)",
+                    "question": "Choose the correct preposition.",
+                    "prompt": [
+                        {
+                            "text": "We usually visit our grandparents "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " weekends."
+                        }
+                    ],
+                    "options": [
+                        "in",
+                        "at",
+                        "on",
+                        "during"
+                    ],
+                    "answer": "on",
+                    "explanation": "Use 'on' for days and weekends."
+                },
+                {
+                    "id": "G7",
+                    "difficulty": 3,
+                    "arabicHint": "الماضي المستمر مع while",
+                    "question": "Select the correct verb form for simultaneous actions.",
+                    "prompt": [
+                        {
+                            "text": "I was cooking dinner "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " my brother was setting the table."
+                        }
+                    ],
+                    "options": [
+                        "when",
+                        "while",
+                        "as soon as",
+                        "until"
+                    ],
+                    "answer": "while",
+                    "explanation": "Use 'while' to connect two continuous actions happening at the same time in the past."
+                },
+                {
+                    "id": "G8",
+                    "difficulty": 2,
+                    "arabicHint": "ضمائر الوصل للأشخاص",
+                    "question": "Choose the correct relative pronoun.",
+                    "prompt": [
+                        {
+                            "text": "The doctor "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " treated me was very kind."
+                        }
+                    ],
+                    "options": [
+                        "which",
+                        "who",
+                        "where",
+                        "what"
+                    ],
+                    "answer": "who",
+                    "explanation": "Use 'who' for people in relative clauses."
+                },
+                {
+                    "id": "G9",
+                    "difficulty": 2,
+                    "arabicHint": "ضمائر الوصل للأشياء",
+                    "question": "Select the correct relative pronoun.",
+                    "prompt": [
+                        {
+                            "text": "This is the car "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " broke down yesterday."
+                        }
+                    ],
+                    "options": [
+                        "who",
+                        "which",
+                        "whose",
+                        "where"
+                    ],
+                    "answer": "which",
+                    "explanation": "Use 'which' or 'that' for things and animals."
+                },
+                {
+                    "id": "G10",
+                    "difficulty": 1,
+                    "arabicHint": "المضارع البسيط للنفي",
+                    "question": "Choose the correct negative form.",
+                    "prompt": [
+                        {
+                            "text": "She "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " like coffee; she prefers tea."
+                        }
+                    ],
+                    "options": [
+                        "don't",
+                        "doesn't",
+                        "isn't",
+                        "hasn't"
+                    ],
+                    "answer": "doesn't",
+                    "explanation": "Use 'doesn't' with third person singular (he/she/it) in simple present negative."
+                },
+                {
+                    "id": "G11",
+                    "difficulty": 3,
+                    "arabicHint": "المضارع التام البسيط مقابل المستمر",
+                    "question": "Select the best tense for the context.",
+                    "prompt": [
+                        {
+                            "text": "How many chapters "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " so far?"
+                        }
+                    ],
+                    "options": [
+                        "have you read",
+                        "have you been reading",
+                        "do you read",
+                        "are you reading"
+                    ],
+                    "answer": "have you read",
+                    "explanation": "Use present perfect simple when asking about quantity (how many)."
+                },
+                {
+                    "id": "G12",
+                    "difficulty": 2,
+                    "arabicHint": "أدوات الزمن (أجزاء اليوم)",
+                    "question": "Choose the correct preposition.",
+                    "prompt": [
+                        {
+                            "text": "I like to drink juice "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " the morning."
+                        }
+                    ],
+                    "options": [
+                        "at",
+                        "on",
+                        "in",
+                        "by"
+                    ],
+                    "answer": "in",
+                    "explanation": "Use 'in' for parts of the day like morning, afternoon, evening."
+                },
+                {
+                    "id": "G13",
+                    "difficulty": 3,
+                    "arabicHint": "الماضي المستمر لفعلين مستمرين",
+                    "question": "Complete the sentence with correct tenses.",
+                    "prompt": [
+                        {
+                            "text": "While the teacher "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": ", the students were taking notes."
+                        }
+                    ],
+                    "options": [
+                        "explained",
+                        "was explaining",
+                        "has explained",
+                        "explains"
+                    ],
+                    "answer": "was explaining",
+                    "explanation": "Both actions were in progress simultaneously, so use past progressive for both."
+                },
+                {
+                    "id": "G14",
+                    "difficulty": 1,
+                    "arabicHint": "المضارع البسيط للسؤال عن الوظيفة",
+                    "question": "Choose the correct question form.",
+                    "prompt": [
+                        {
+                            "text": "What "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " you do?"
+                        }
+                    ],
+                    "options": [
+                        "are",
+                        "do",
+                        "does",
+                        "have"
+                    ],
+                    "answer": "do",
+                    "explanation": "Use 'do' to ask about someone's job or profession in simple present."
+                },
+                {
+                    "id": "G15",
+                    "difficulty": 2,
+                    "arabicHint": "المضارع التام المستمر للوقت",
+                    "question": "Select the correct question form.",
+                    "prompt": [
+                        {
+                            "text": "How long "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " you been studying English?"
+                        }
+                    ],
+                    "options": [
+                        "have",
+                        "has",
+                        "do",
+                        "are"
+                    ],
+                    "answer": "have",
+                    "explanation": "Use 'have' with 'you' for present perfect progressive questions."
+                },
+                {
+                    "id": "G16",
+                    "difficulty": 3,
+                    "arabicHint": "ضمير الوصل that للأشخاص",
+                    "question": "Choose the acceptable relative pronoun.",
+                    "prompt": [
+                        {
+                            "text": "The man "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " called yesterday is my uncle."
+                        }
+                    ],
+                    "options": [
+                        "which",
+                        "where",
+                        "that",
+                        "what"
+                    ],
+                    "answer": "that",
+                    "explanation": "'That' can be used for people in defining relative clauses, similar to 'who'."
+                },
+                {
+                    "id": "G17",
+                    "difficulty": 2,
+                    "arabicHint": "المضارع البسيط للجدول الزمني",
+                    "question": "Select the correct verb form.",
+                    "prompt": [
+                        {
+                            "text": "The train "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " at 5:00 PM daily."
+                        }
+                    ],
+                    "options": [
+                        "leave",
+                        "leaves",
+                        "is leaving",
+                        "has left"
+                    ],
+                    "answer": "leaves",
+                    "explanation": "Use simple present for fixed schedules and timetables."
+                },
+                {
+                    "id": "G18",
+                    "difficulty": 3,
+                    "arabicHint": "المضارع التام البسيط للإنجاز",
+                    "question": "Choose the correct tense.",
+                    "prompt": [
+                        {
+                            "text": "I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " my homework, so I can watch TV now."
+                        }
+                    ],
+                    "options": [
+                        "have finished",
+                        "have been finishing",
+                        "finish",
+                        "am finishing"
+                    ],
+                    "answer": "have finished",
+                    "explanation": "Use present perfect simple for a completed action with a present result."
+                },
+                {
+                    "id": "G19",
+                    "difficulty": 2,
+                    "arabicHint": "الماضي المستمر مع while",
+                    "question": "Select the correct connector.",
+                    "prompt": [
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " I was walking, I found a wallet."
+                        }
+                    ],
+                    "options": [
+                        "When",
+                        "While",
+                        "After",
+                        "Before"
+                    ],
+                    "answer": "While",
+                    "explanation": "'While' is followed by a continuous action (was walking)."
+                },
+                {
+                    "id": "G20",
+                    "difficulty": 1,
+                    "arabicHint": "المضارع البسيط مع he/she",
+                    "question": "Choose the correct verb ending.",
+                    "prompt": [
+                        {
+                            "text": "Ahmed "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " in a bank."
+                        }
+                    ],
+                    "options": [
+                        "work",
+                        "works",
+                        "working",
+                        "worked"
+                    ],
+                    "answer": "works",
+                    "explanation": "Add 's' to the verb in simple present when the subject is he, she, or it."
+                },
+                {
+                    "id": "G21",
+                    "difficulty": 2,
+                    "arabicHint": "المضارع التام المستمر للفترة الزمنية",
+                    "question": "Choose the correct tense to emphasize duration.",
+                    "prompt": [
+                        {
+                            "text": "Ali "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " for the exam all morning."
+                        }
+                    ],
+                    "options": [
+                        "studies",
+                        "has studied",
+                        "has been studying",
+                        "is studying"
+                    ],
+                    "answer": "has been studying",
+                    "explanation": "Use present perfect progressive to emphasize the continuous activity over a period of time."
+                },
+                {
+                    "id": "G22",
+                    "difficulty": 2,
+                    "arabicHint": "المضارع التام البسيط للكمية",
+                    "question": "Select the correct form for completed quantity.",
+                    "prompt": [
+                        {
+                            "text": "She "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " three letters so far."
+                        }
+                    ],
+                    "options": [
+                        "has written",
+                        "has been writing",
+                        "writes",
+                        "is writing"
+                    ],
+                    "answer": "has written",
+                    "explanation": "Use present perfect simple when focusing on the number of completed items."
+                },
+                {
+                    "id": "G23",
+                    "difficulty": 1,
+                    "arabicHint": "المضارع البسيط للروتين",
+                    "question": "Choose the correct verb form for a habit.",
+                    "prompt": [
+                        {
+                            "text": "They "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " to the park every Sunday."
+                        }
+                    ],
+                    "options": [
+                        "go",
+                        "goes",
+                        "going",
+                        "gone"
+                    ],
+                    "answer": "go",
+                    "explanation": "Use simple present with 'they' for repeated habits."
+                },
+                {
+                    "id": "G24",
+                    "difficulty": 2,
+                    "arabicHint": "أدوات الزمن (at)",
+                    "question": "Select the correct preposition for specific time.",
+                    "prompt": [
+                        {
+                            "text": "The movie starts "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " midnight."
+                        }
+                    ],
+                    "options": [
+                        "in",
+                        "on",
+                        "at",
+                        "by"
+                    ],
+                    "answer": "at",
+                    "explanation": "Use 'at' for specific times like midnight, noon, or clock times."
+                },
+                {
+                    "id": "G25",
+                    "difficulty": 2,
+                    "arabicHint": "أدوات الزمن (on)",
+                    "question": "Choose the correct preposition for days.",
+                    "prompt": [
+                        {
+                            "text": "We have a meeting "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " Monday morning."
+                        }
+                    ],
+                    "options": [
+                        "in",
+                        "at",
+                        "on",
+                        "during"
+                    ],
+                    "answer": "on",
+                    "explanation": "Use 'on' for specific days and dates."
+                },
+                {
+                    "id": "G26",
+                    "difficulty": 2,
+                    "arabicHint": "أدوات الزمن (in)",
+                    "question": "Select the correct preposition for parts of the day.",
+                    "prompt": [
+                        {
+                            "text": "I usually read books "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " the evening."
+                        }
+                    ],
+                    "options": [
+                        "at",
+                        "on",
+                        "in",
+                        "by"
+                    ],
+                    "answer": "in",
+                    "explanation": "Use 'in' for parts of the day like morning, afternoon, and evening."
+                },
+                {
+                    "id": "G27",
+                    "difficulty": 2,
+                    "arabicHint": "ضمائر الوصل للأشخاص",
+                    "question": "Choose the correct relative pronoun for people.",
+                    "prompt": [
+                        {
+                            "text": "The student "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " won the prize is my friend."
+                        }
+                    ],
+                    "options": [
+                        "which",
+                        "who",
+                        "where",
+                        "what"
+                    ],
+                    "answer": "who",
+                    "explanation": "Use 'who' to refer to people in relative clauses."
+                },
+                {
+                    "id": "G28",
+                    "difficulty": 2,
+                    "arabicHint": "ضمائر الوصل للأشياء",
+                    "question": "Select the correct relative pronoun for things.",
+                    "prompt": [
+                        {
+                            "text": "The book "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " is on the table belongs to me."
+                        }
+                    ],
+                    "options": [
+                        "who",
+                        "which",
+                        "whose",
+                        "where"
+                    ],
+                    "answer": "which",
+                    "explanation": "Use 'which' or 'that' to refer to things or animals."
+                },
+                {
+                    "id": "G29",
+                    "difficulty": 3,
+                    "arabicHint": "الماضي المستمر مع while لفعلين",
+                    "question": "Choose the correct form for simultaneous past actions.",
+                    "prompt": [
+                        {
+                            "text": "While I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": ", my sister was washing the dishes."
+                        }
+                    ],
+                    "options": [
+                        "cooked",
+                        "was cooking",
+                        "have cooked",
+                        "cook"
+                    ],
+                    "answer": "was cooking",
+                    "explanation": "Use past progressive for two actions happening at the same time in the past."
+                },
+                {
+                    "id": "G30",
+                    "difficulty": 3,
+                    "arabicHint": "المضارع التام المستمر مع since",
+                    "question": "Select the correct tense with 'since'.",
+                    "prompt": [
+                        {
+                            "text": "He "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " here since last year."
+                        }
+                    ],
+                    "options": [
+                        "works",
+                        "worked",
+                        "has been working",
+                        "is working"
+                    ],
+                    "answer": "has been working",
+                    "explanation": "Present perfect progressive emphasizes the continuity from past to present."
+                },
+                {
+                    "id": "G31",
+                    "difficulty": 2,
+                    "arabicHint": "المضارع التام البسيط للإنجاز",
+                    "question": "Choose the correct form for a completed task.",
+                    "prompt": [
+                        {
+                            "text": "I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " my project, so I can relax."
+                        }
+                    ],
+                    "options": [
+                        "have finished",
+                        "have been finishing",
+                        "finish",
+                        "am finishing"
+                    ],
+                    "answer": "have finished",
+                    "explanation": "Use present perfect simple for completed actions with present results."
+                },
+                {
+                    "id": "G32",
+                    "difficulty": 1,
+                    "arabicHint": "النفي في المضارع البسيط",
+                    "question": "Select the correct negative form.",
+                    "prompt": [
+                        {
+                            "text": "He "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " play tennis on Mondays."
+                        }
+                    ],
+                    "options": [
+                        "don't",
+                        "doesn't",
+                        "isn't",
+                        "hasn't"
+                    ],
+                    "answer": "doesn't",
+                    "explanation": "Use 'doesn't' for third person singular negative in simple present."
+                },
+                {
+                    "id": "G33",
+                    "difficulty": 1,
+                    "arabicHint": "السؤال عن الوظيفة",
+                    "question": "Choose the correct auxiliary verb.",
+                    "prompt": [
+                        {
+                            "text": "What "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " your father do?"
+                        }
+                    ],
+                    "options": [
+                        "is",
+                        "does",
+                        "do",
+                        "has"
+                    ],
+                    "answer": "does",
+                    "explanation": "Use 'does' to ask about someone's job in simple present."
+                },
+                {
+                    "id": "G34",
+                    "difficulty": 3,
+                    "arabicHint": "ضمير الوصل that للأشخاص",
+                    "question": "Select the acceptable relative pronoun.",
+                    "prompt": [
+                        {
+                            "text": "The girl "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " sits next to me is new."
+                        }
+                    ],
+                    "options": [
+                        "which",
+                        "where",
+                        "that",
+                        "what"
+                    ],
+                    "answer": "that",
+                    "explanation": "'That' can be used for people in defining relative clauses."
+                },
+                {
+                    "id": "G35",
+                    "difficulty": 3,
+                    "arabicHint": "While مقابل When",
+                    "question": "Choose the correct connector for continuous actions.",
+                    "prompt": [
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " they were sleeping, the thief entered."
+                        }
+                    ],
+                    "options": [
+                        "When",
+                        "While",
+                        "After",
+                        "Before"
+                    ],
+                    "answer": "While",
+                    "explanation": "'While' is used to connect two continuous actions happening simultaneously."
+                },
+                {
+                    "id": "G36",
+                    "difficulty": 2,
+                    "arabicHint": "المضارع التام المستمر للنشاط",
+                    "question": "Select the correct tense for recent activity.",
+                    "prompt": [
+                        {
+                            "text": "You look tired. "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " you been running?"
+                        }
+                    ],
+                    "options": [
+                        "Have",
+                        "Has",
+                        "Do",
+                        "Are"
+                    ],
+                    "answer": "Have",
+                    "explanation": "Use present perfect progressive to ask about recent continuous activity."
+                },
+                {
+                    "id": "G37",
+                    "difficulty": 2,
+                    "arabicHint": "المضارع البسيط للجداول",
+                    "question": "Choose the correct verb form for a schedule.",
+                    "prompt": [
+                        {
+                            "text": "The shop "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " at 8:00 AM every day."
+                        }
+                    ],
+                    "options": [
+                        "open",
+                        "opens",
+                        "is opening",
+                        "opened"
+                    ],
+                    "answer": "opens",
+                    "explanation": "Use simple present for fixed schedules and timetables."
+                },
+                {
+                    "id": "G38",
+                    "difficulty": 3,
+                    "arabicHint": "ضمير الوصل which للجمل",
+                    "question": "Select the correct pronoun for things.",
+                    "prompt": [
+                        {
+                            "text": "The phone "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " rang belongs to the manager."
+                        }
+                    ],
+                    "options": [
+                        "who",
+                        "which",
+                        "where",
+                        "whose"
+                    ],
+                    "answer": "which",
+                    "explanation": "Use 'which' to refer to objects like phones."
+                },
+                {
+                    "id": "G39",
+                    "difficulty": 3,
+                    "arabicHint": "الماضي المستمر لفعلين متوازيين",
+                    "question": "Choose the correct verb form.",
+                    "prompt": [
+                        {
+                            "text": "They "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " while we were watching TV."
+                        }
+                    ],
+                    "options": [
+                        "studied",
+                        "were studying",
+                        "have studied",
+                        "study"
+                    ],
+                    "answer": "were studying",
+                    "explanation": "Use past progressive for parallel actions happening at the same time."
+                },
+                {
+                    "id": "G40",
+                    "difficulty": 1,
+                    "arabicHint": "المضارع البسيط للحقائق",
+                    "question": "Select the correct verb form for a fact.",
+                    "prompt": [
+                        {
+                            "text": "Water "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " at 100 degrees."
+                        }
+                    ],
+                    "options": [
+                        "boil",
+                        "boils",
+                        "is boiling",
+                        "boiled"
+                    ],
+                    "answer": "boils",
+                    "explanation": "Use simple present for scientific facts and general truths."
+                },
+                {
+                    "id": "G41",
+                    "difficulty": 1,
+                    "arabicHint": "المضارع البسيط للعادات",
+                    "question": "Choose the correct verb form for a routine.",
+                    "prompt": [
+                        {
+                            "text": "My sister "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " yoga every morning."
+                        }
+                    ],
+                    "options": [
+                        "do",
+                        "does",
+                        "doing",
+                        "done"
+                    ],
+                    "answer": "does",
+                    "explanation": "Use simple present with third person singular for habits."
+                },
+                {
+                    "id": "G42",
+                    "difficulty": 1,
+                    "arabicHint": "أدوات الزمن (at)",
+                    "question": "Select the correct preposition for time.",
+                    "prompt": [
+                        {
+                            "text": "We usually eat lunch "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " noon."
+                        }
+                    ],
+                    "options": [
+                        "in",
+                        "on",
+                        "at",
+                        "by"
+                    ],
+                    "answer": "at",
+                    "explanation": "Use 'at' for specific times like noon or midnight."
+                },
+                {
+                    "id": "G43",
+                    "difficulty": 1,
+                    "arabicHint": "ضمير الوصل للأشخاص",
+                    "question": "Choose the correct relative pronoun.",
+                    "prompt": [
+                        {
+                            "text": "The teacher "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " helped me is very kind."
+                        }
+                    ],
+                    "options": [
+                        "which",
+                        "who",
+                        "where",
+                        "what"
+                    ],
+                    "answer": "who",
+                    "explanation": "Use 'who' to refer to people."
+                },
+                {
+                    "id": "G44",
+                    "difficulty": 1,
+                    "arabicHint": "المضارع التام البسيط للكمية",
+                    "question": "Select the correct tense for quantity.",
+                    "prompt": [
+                        {
+                            "text": "I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " four chapters this week."
+                        }
+                    ],
+                    "options": [
+                        "have read",
+                        "have been reading",
+                        "read",
+                        "am reading"
+                    ],
+                    "answer": "have read",
+                    "explanation": "Use present perfect simple when mentioning how many (quantity)."
+                },
+                {
+                    "id": "G45",
+                    "difficulty": 1,
+                    "arabicHint": "المضارع البسيط للنفي",
+                    "question": "Choose the correct negative form.",
+                    "prompt": [
+                        {
+                            "text": "They "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " work on Fridays."
+                        }
+                    ],
+                    "options": [
+                        "doesn't",
+                        "don't",
+                        "isn't",
+                        "haven't"
+                    ],
+                    "answer": "don't",
+                    "explanation": "Use 'don't' with 'they' in simple present negative."
+                },
+                {
+                    "id": "G46",
+                    "difficulty": 1,
+                    "arabicHint": "أدوات الزمن (on)",
+                    "question": "Select the correct preposition for days.",
+                    "prompt": [
+                        {
+                            "text": "The store is closed "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " Sundays."
+                        }
+                    ],
+                    "options": [
+                        "in",
+                        "at",
+                        "on",
+                        "by"
+                    ],
+                    "answer": "on",
+                    "explanation": "Use 'on' for days of the week."
+                },
+                {
+                    "id": "G47",
+                    "difficulty": 1,
+                    "arabicHint": "المضارع التام المستمر للمدة",
+                    "question": "Choose the correct tense for duration.",
+                    "prompt": [
+                        {
+                            "text": "She "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " waiting for an hour."
+                        }
+                    ],
+                    "options": [
+                        "has",
+                        "have",
+                        "has been",
+                        "is"
+                    ],
+                    "answer": "has been",
+                    "explanation": "Use present perfect progressive to emphasize the length of time."
+                },
+                {
+                    "id": "G48",
+                    "difficulty": 1,
+                    "arabicHint": "ضمير الوصل للأشياء",
+                    "question": "Select the correct relative pronoun.",
+                    "prompt": [
+                        {
+                            "text": "The laptop "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " I bought is very fast."
+                        }
+                    ],
+                    "options": [
+                        "who",
+                        "which",
+                        "whose",
+                        "where"
+                    ],
+                    "answer": "which",
+                    "explanation": "Use 'which' for things."
+                },
+                {
+                    "id": "G49",
+                    "difficulty": 1,
+                    "arabicHint": "السؤال عن الوظيفة",
+                    "question": "Choose the correct question word.",
+                    "prompt": [
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " do you do? I am a nurse."
+                        }
+                    ],
+                    "options": [
+                        "Where",
+                        "When",
+                        "What",
+                        "Who"
+                    ],
+                    "answer": "What",
+                    "explanation": "Use 'What do you do?' to ask about someone's job."
+                },
+                {
+                    "id": "G50",
+                    "difficulty": 1,
+                    "arabicHint": "أدوات الزمن (in)",
+                    "question": "Select the correct preposition for parts of the day.",
+                    "prompt": [
+                        {
+                            "text": "I drink coffee "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " the morning."
+                        }
+                    ],
+                    "options": [
+                        "at",
+                        "on",
+                        "in",
+                        "by"
+                    ],
+                    "answer": "in",
+                    "explanation": "Use 'in' for morning, afternoon, and evening."
+                },
+                {
+                    "id": "G51",
+                    "difficulty": 1,
+                    "arabicHint": "المضارع البسيط مع he/she",
+                    "question": "Choose the correct verb ending.",
+                    "prompt": [
+                        {
+                            "text": "Khalid "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " in a school."
+                        }
+                    ],
+                    "options": [
+                        "teach",
+                        "teaches",
+                        "teaching",
+                        "taught"
+                    ],
+                    "answer": "teaches",
+                    "explanation": "Add 'es' to verbs ending in 'ch' for third person singular."
+                },
+                {
+                    "id": "G52",
+                    "difficulty": 1,
+                    "arabicHint": "الماضي المستمر مع while",
+                    "question": "Select the correct connector for simultaneous actions.",
+                    "prompt": [
+                        {
+                            "text": "I was sleeping "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " my roommate was studying."
+                        }
+                    ],
+                    "options": [
+                        "when",
+                        "while",
+                        "after",
+                        "before"
+                    ],
+                    "answer": "while",
+                    "explanation": "Use 'while' to connect two continuous past actions."
+                },
+                {
+                    "id": "G53",
+                    "difficulty": 3,
+                    "arabicHint": "تمييز دقيق بين التام البسيط والمستمر",
+                    "question": "Choose the best tense based on emphasis.",
+                    "prompt": [
+                        {
+                            "text": "Her eyes are red because she "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " onions."
+                        }
+                    ],
+                    "options": [
+                        "has chopped",
+                        "has been chopping",
+                        "chops",
+                        "chopped"
+                    ],
+                    "answer": "has been chopping",
+                    "explanation": "Use present perfect progressive to emphasize the recent continuous activity causing a present result."
+                },
+                {
+                    "id": "G54",
+                    "difficulty": 3,
+                    "arabicHint": "استخدام since مع الأزمنة الصحيحة",
+                    "question": "Select the correct verb form with 'since'.",
+                    "prompt": [
+                        {
+                            "text": "They "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " each other since they were children."
+                        }
+                    ],
+                    "options": [
+                        "know",
+                        "knew",
+                        "have known",
+                        "have been knowing"
+                    ],
+                    "answer": "have known",
+                    "explanation": "State verbs like 'know' are not used in progressive forms, even with 'since'."
+                },
+                {
+                    "id": "G55",
+                    "difficulty": 3,
+                    "arabicHint": "الماضي المستمر للإجراءات المتوازية المعقدة",
+                    "question": "Choose the correct form for parallel actions.",
+                    "prompt": [
+                        {
+                            "text": "While the chef "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": ", the waiters were setting the tables."
+                        }
+                    ],
+                    "options": [
+                        "cooked",
+                        "was cooking",
+                        "has cooked",
+                        "cooks"
+                    ],
+                    "answer": "was cooking",
+                    "explanation": "Both actions were in progress simultaneously in the past."
+                },
+                {
+                    "id": "G56",
+                    "difficulty": 3,
+                    "arabicHint": "ضمائر الوصل في الجمل المعقدة",
+                    "question": "Select the correct relative pronoun structure.",
+                    "prompt": [
+                        {
+                            "text": "The company "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " products are sold globally is expanding."
+                        }
+                    ],
+                    "options": [
+                        "who",
+                        "which",
+                        "whose",
+                        "that"
+                    ],
+                    "answer": "whose",
+                    "explanation": "Use 'whose' to show possession (the company's products)."
+                },
+                {
+                    "id": "G57",
+                    "difficulty": 3,
+                    "arabicHint": "المضارع التام البسيط للإنجاز النهائي",
+                    "question": "Choose the tense emphasizing completion.",
+                    "prompt": [
+                        {
+                            "text": "I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " the report, so you can read it now."
+                        }
+                    ],
+                    "options": [
+                        "have written",
+                        "have been writing",
+                        "write",
+                        "am writing"
+                    ],
+                    "answer": "have written",
+                    "explanation": "Use present perfect simple to emphasize the finished result available now."
+                },
+                {
+                    "id": "G58",
+                    "difficulty": 3,
+                    "arabicHint": "أدوات الزمن الاستثنائية",
+                    "question": "Select the correct preposition for 'weekend'.",
+                    "prompt": [
+                        {
+                            "text": "Do you work "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " the weekend?"
+                        }
+                    ],
+                    "options": [
+                        "in",
+                        "at",
+                        "on",
+                        "by"
+                    ],
+                    "answer": "on",
+                    "explanation": "Use 'on' with 'the weekend' (though 'at' is used in British English, 'on' is standard here)."
+                },
+                {
+                    "id": "G59",
+                    "difficulty": 3,
+                    "arabicHint": "التمييز بين while و when في الماضي",
+                    "question": "Choose the correct connector based on verb forms.",
+                    "prompt": [
+                        {
+                            "text": "The phone rang "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " I was having a shower."
+                        }
+                    ],
+                    "options": [
+                        "while",
+                        "when",
+                        "during",
+                        "as"
+                    ],
+                    "answer": "while",
+                    "explanation": "'While' is preferred when the background action is continuous (was having)."
+                },
+                {
+                    "id": "G60",
+                    "difficulty": 3,
+                    "arabicHint": "المضارع البسيط للجداول المستقبلية",
+                    "question": "Select the correct tense for a schedule.",
+                    "prompt": [
+                        {
+                            "text": "The conference "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " at 9:00 AM tomorrow."
+                        }
+                    ],
+                    "options": [
+                        "start",
+                        "starts",
+                        "is starting",
+                        "will start"
+                    ],
+                    "answer": "starts",
+                    "explanation": "Use simple present for fixed timetables even when referring to the future."
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "questions": [
+                {
+                    "id": "V1",
+                    "difficulty": 1,
+                    "arabicHint": "العمل الروتيني الممل",
+                    "question": "Choose the phrase meaning 'boring daily routine'.",
+                    "prompt": [
+                        {
+                            "text": "After ten years, he was tired of the "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " and wanted a change."
+                        }
+                    ],
+                    "options": [
+                        "daily grind",
+                        "daily walk",
+                        "daily drive",
+                        "daily find"
+                    ],
+                    "answer": "daily grind",
+                    "explanation": "'Daily grind' refers to the tedious routine of everyday work."
+                },
+                {
+                    "id": "V2",
+                    "difficulty": 2,
+                    "arabicHint": "نحات (فنان)",
+                    "question": "Select the job title for an artist who shapes materials.",
+                    "prompt": [
+                        {
+                            "text": "The "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " used clay to create a model of the new car."
+                        }
+                    ],
+                    "options": [
+                        "scientist",
+                        "sculptor",
+                        "doctor",
+                        "driver"
+                    ],
+                    "answer": "sculptor",
+                    "explanation": "A sculptor is an artist who creates forms by shaping materials like clay or stone."
+                },
+                {
+                    "id": "V3",
+                    "difficulty": 1,
+                    "arabicHint": "صناعة السيارات",
+                    "question": "Choose the adjective related to cars.",
+                    "prompt": [
+                        {
+                            "text": "Toyota and Ford are major companies in the "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " industry."
+                        }
+                    ],
+                    "options": [
+                        "agricultural",
+                        "automotive",
+                        "medical",
+                        "educational"
+                    ],
+                    "answer": "automotive",
+                    "explanation": "Automotive refers to motor vehicles, especially cars."
+                },
+                {
+                    "id": "V4",
+                    "difficulty": 2,
+                    "arabicHint": "يتخيل / يصور ذهنياً",
+                    "question": "Select the verb meaning 'to imagine'.",
+                    "prompt": [
+                        {
+                            "text": "Designers need to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " the final product before building it."
+                        }
+                    ],
+                    "options": [
+                        "visualize",
+                        "realize",
+                        "minimize",
+                        "summarize"
+                    ],
+                    "answer": "visualize",
+                    "explanation": "Visualize means to form a mental image of something."
+                },
+                {
+                    "id": "V5",
+                    "difficulty": 1,
+                    "arabicHint": "مصغر / صغير جداً",
+                    "question": "Choose the word meaning 'very small version'.",
+                    "prompt": [
+                        {
+                            "text": "They built a "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " model of the airplane to test in the wind tunnel."
+                        }
+                    ],
+                    "options": [
+                        "maximum",
+                        "miniature",
+                        "major",
+                        "massive"
+                    ],
+                    "answer": "miniature",
+                    "explanation": "Miniature means a small-scale representation of something."
+                },
+                {
+                    "id": "V6",
+                    "difficulty": 1,
+                    "arabicHint": "عالم (وظيفة)",
+                    "question": "Identify the profession working in a lab.",
+                    "prompt": [
+                        {
+                            "text": "A "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " conducts experiments to discover new facts."
+                        }
+                    ],
+                    "options": [
+                        "scientist",
+                        "artist",
+                        "manager",
+                        "client"
+                    ],
+                    "answer": "scientist",
+                    "explanation": "A scientist is a person who conducts scientific research or experiments."
+                },
+                {
+                    "id": "V7",
+                    "difficulty": 1,
+                    "arabicHint": "النكهات والطعم",
+                    "question": "Select the word related to taste.",
+                    "prompt": [
+                        {
+                            "text": "Ice cream comes in many different "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " like chocolate and vanilla."
+                        }
+                    ],
+                    "options": [
+                        "colors",
+                        "flavors",
+                        "shapes",
+                        "sizes"
+                    ],
+                    "answer": "flavors",
+                    "explanation": "Flavors refer to the distinctive taste of a food or drink."
+                },
+                {
+                    "id": "V8",
+                    "difficulty": 2,
+                    "arabicHint": "أبحاث السوق",
+                    "question": "Choose the term for studying customer needs.",
+                    "prompt": [
+                        {
+                            "text": "The company did "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " to see what people wanted to buy."
+                        }
+                    ],
+                    "options": [
+                        "market research",
+                        "market crash",
+                        "market place",
+                        "market share"
+                    ],
+                    "answer": "market research",
+                    "explanation": "Market research is the action of gathering information about consumers' needs."
+                },
+                {
+                    "id": "V9",
+                    "difficulty": 2,
+                    "arabicHint": "مدخلات / رأي",
+                    "question": "Select the word meaning 'feedback or opinion'.",
+                    "prompt": [
+                        {
+                            "text": "We value your "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " on the new project design."
+                        }
+                    ],
+                    "options": [
+                        "input",
+                        "output",
+                        "income",
+                        "outcome"
+                    ],
+                    "answer": "input",
+                    "explanation": "Input refers to advice, opinion, or information given to help a decision."
+                },
+                {
+                    "id": "V10",
+                    "difficulty": 1,
+                    "arabicHint": "الرسوم المتحركة",
+                    "question": "Identify the art form using moving images.",
+                    "prompt": [
+                        {
+                            "text": "Disney is famous for its "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " movies like The Lion King."
+                        }
+                    ],
+                    "options": [
+                        "animation",
+                        "information",
+                        "education",
+                        "creation"
+                    ],
+                    "answer": "animation",
+                    "explanation": "Animation is the technique of photographing successive drawings to create movement."
+                },
+                {
+                    "id": "V11",
+                    "difficulty": 3,
+                    "arabicHint": "الطلب العالي",
+                    "question": "Choose the noun meaning 'strong desire or need'.",
+                    "prompt": [
+                        {
+                            "text": "There is a high "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " for skilled workers in technology."
+                        }
+                    ],
+                    "options": [
+                        "supply",
+                        "demand",
+                        "command",
+                        "sample"
+                    ],
+                    "answer": "demand",
+                    "explanation": "Demand refers to the desire of purchasers for a particular commodity or service."
+                },
+                {
+                    "id": "V12",
+                    "difficulty": 2,
+                    "arabicHint": "المهارات التقنية",
+                    "question": "Select the phrase for knowledge about technology.",
+                    "prompt": [
+                        {
+                            "text": "Engineers need strong "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " to fix the computer system."
+                        }
+                    ],
+                    "options": [
+                        "technical skills",
+                        "artistic skills",
+                        "social skills",
+                        "cooking skills"
+                    ],
+                    "answer": "technical skills",
+                    "explanation": "Technical skills refer to the knowledge needed to accomplish tasks in science or engineering."
+                },
+                {
+                    "id": "V13",
+                    "difficulty": 2,
+                    "arabicHint": "يصور / يمثل",
+                    "question": "Choose the verb meaning 'to show or depict'.",
+                    "prompt": [
+                        {
+                            "text": "The actor managed to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " the sadness of the character perfectly."
+                        }
+                    ],
+                    "options": [
+                        "portray",
+                        "port",
+                        "carry",
+                        "transport"
+                    ],
+                    "answer": "portray",
+                    "explanation": "Portray means to depict or represent something in a work of art or performance."
+                },
+                {
+                    "id": "V14",
+                    "difficulty": 3,
+                    "arabicHint": "مقنع",
+                    "question": "Select the adjective meaning 'believable'.",
+                    "prompt": [
+                        {
+                            "text": "His excuse was not very "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": ", so no one believed him."
+                        }
+                    ],
+                    "options": [
+                        "convincing",
+                        "convicted",
+                        "convinced",
+                        "convict"
+                    ],
+                    "answer": "convincing",
+                    "explanation": "Convincing means able to persuade someone to believe or do something."
+                },
+                {
+                    "id": "V15",
+                    "difficulty": 1,
+                    "arabicHint": "التواصل",
+                    "question": "Choose the word for exchanging information.",
+                    "prompt": [
+                        {
+                            "text": "Good "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " is essential for a successful team."
+                        }
+                    ],
+                    "options": [
+                        "communication",
+                        "competition",
+                        "combination",
+                        "creation"
+                    ],
+                    "answer": "communication",
+                    "explanation": "Communication is the imparting or exchanging of information by speaking or writing."
+                },
+                {
+                    "id": "V16",
+                    "difficulty": 2,
+                    "arabicHint": "يوم بعد يوم (تكرار)",
+                    "question": "Choose the phrase meaning 'repeatedly over time'.",
+                    "prompt": [
+                        {
+                            "text": "He performed the same task "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " until he mastered it."
+                        }
+                    ],
+                    "options": [
+                        "day after day",
+                        "once in a while",
+                        "never again",
+                        "suddenly"
+                    ],
+                    "answer": "day after day",
+                    "explanation": "'Day after day' implies something happening repeatedly over a long period."
+                },
+                {
+                    "id": "V17",
+                    "difficulty": 3,
+                    "arabicHint": "باستمرار دون تغيير",
+                    "question": "Select the idiom for a continuous routine.",
+                    "prompt": [
+                        {
+                            "text": "The security guard worked "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " for twenty years."
+                        }
+                    ],
+                    "options": [
+                        "day in day out",
+                        "once upon a time",
+                        "here and there",
+                        "now and then"
+                    ],
+                    "answer": "day in day out",
+                    "explanation": "'Day in day out' means continuously without stopping or changing."
+                },
+                {
+                    "id": "V18",
+                    "difficulty": 2,
+                    "arabicHint": "يشعر بالملل الشديد",
+                    "question": "Choose the expression for extreme boredom.",
+                    "prompt": [
+                        {
+                            "text": "During the long lecture, the students were "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "bored to death",
+                        "excited to life",
+                        "happy to see",
+                        "ready to go"
+                    ],
+                    "answer": "bored to death",
+                    "explanation": "'Bored to death' is an exaggeration meaning extremely bored."
+                },
+                {
+                    "id": "V19",
+                    "difficulty": 3,
+                    "arabicHint": "أقنع شخصاً بعدم فعل شيء",
+                    "question": "Select the phrase meaning 'persuaded someone not to do something'.",
+                    "prompt": [
+                        {
+                            "text": "I wanted to quit, but my manager "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "talked me out of it",
+                        "talked me into it",
+                        "told me to do it",
+                        "asked me to do it"
+                    ],
+                    "answer": "talked me out of it",
+                    "explanation": "'Talked someone out of it' means persuading them not to take a specific action."
+                },
+                {
+                    "id": "V20",
+                    "difficulty": 1,
+                    "arabicHint": "لحسن الحظ",
+                    "question": "Choose the adverb meaning 'fortunately'.",
+                    "prompt": [
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": ", I arrived at the interview on time."
+                        }
+                    ],
+                    "options": [
+                        "Luckily",
+                        "Sadly",
+                        "Angry",
+                        "Slowly"
+                    ],
+                    "answer": "Luckily",
+                    "explanation": "'Luckily' means by good fortune or fortunately."
+                },
+                {
+                    "id": "V21",
+                    "difficulty": 1,
+                    "arabicHint": "مهارات التواصل",
+                    "question": "Identify the skill needed for writing and speaking.",
+                    "prompt": [
+                        {
+                            "text": "Good "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " are essential for sending clear emails."
+                        }
+                    ],
+                    "options": [
+                        "communication skills",
+                        "cooking skills",
+                        "driving skills",
+                        "sleeping skills"
+                    ],
+                    "answer": "communication skills",
+                    "explanation": "Communication skills involve the ability to convey information effectively."
+                },
+                {
+                    "id": "V22",
+                    "difficulty": 2,
+                    "arabicHint": "النزاهة والصدق",
+                    "question": "Select the quality related to honesty.",
+                    "prompt": [
+                        {
+                            "text": "Employers value "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " because they want trustworthy staff."
+                        }
+                    ],
+                    "options": [
+                        "integrity",
+                        "infinity",
+                        "intensity",
+                        "industry"
+                    ],
+                    "answer": "integrity",
+                    "explanation": "Integrity means the quality of being honest and having strong moral principles."
+                },
+                {
+                    "id": "V23",
+                    "difficulty": 1,
+                    "arabicHint": "العمل الجماعي",
+                    "question": "Choose the skill for working with others.",
+                    "prompt": [
+                        {
+                            "text": "_____ is important when working on a group project."
+                        }
+                    ],
+                    "options": [
+                        "Teamwork",
+                        "Solitude",
+                        "Isolation",
+                        "Silence"
+                    ],
+                    "answer": "Teamwork",
+                    "explanation": "Teamwork is the combined action of a group of people working together."
+                },
+                {
+                    "id": "V24",
+                    "difficulty": 3,
+                    "arabicHint": "المهارات الشخصية والاجتماعية",
+                    "question": "Select the term for skills used to interact with people.",
+                    "prompt": [
+                        {
+                            "text": "Salespeople need strong "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " to deal with clients."
+                        }
+                    ],
+                    "options": [
+                        "interpersonal skills",
+                        "internal skills",
+                        "international skills",
+                        "internet skills"
+                    ],
+                    "answer": "interpersonal skills",
+                    "explanation": "Interpersonal skills are the tools people use to interact and communicate with individuals."
+                },
+                {
+                    "id": "V25",
+                    "difficulty": 2,
+                    "arabicHint": "أخلاقيات العمل القوية",
+                    "question": "Choose the phrase for dedication to work.",
+                    "prompt": [
+                        {
+                            "text": "He was promoted because of his strong "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "work ethic",
+                        "work shirt",
+                        "work shop",
+                        "work out"
+                    ],
+                    "answer": "work ethic",
+                    "explanation": "Work ethic is a belief that work and diligence have a moral benefit."
+                },
+                {
+                    "id": "V26",
+                    "difficulty": 3,
+                    "arabicHint": "المبادرة والدافعية",
+                    "question": "Select the quality of taking action without being told.",
+                    "prompt": [
+                        {
+                            "text": "Show "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " by starting new projects on your own."
+                        }
+                    ],
+                    "options": [
+                        "initiative",
+                        "inactivity",
+                        "imitation",
+                        "isolation"
+                    ],
+                    "answer": "initiative",
+                    "explanation": "Initiative is the ability to assess and initiate things independently."
+                },
+                {
+                    "id": "V27",
+                    "difficulty": 2,
+                    "arabicHint": "المرونة والتكيف",
+                    "question": "Choose the quality needed when plans change.",
+                    "prompt": [
+                        {
+                            "text": "_____ is necessary when the company changes its strategy."
+                        }
+                    ],
+                    "options": [
+                        "Adaptability",
+                        "Rigidity",
+                        "Stubbornness",
+                        "Slowness"
+                    ],
+                    "answer": "Adaptability",
+                    "explanation": "Adaptability is the quality of being able to adjust to new conditions."
+                },
+                {
+                    "id": "V28",
+                    "difficulty": 3,
+                    "arabicHint": "المهارات التحليلية",
+                    "question": "Select the skill for examining data.",
+                    "prompt": [
+                        {
+                            "text": "_____ help you understand complex information and data."
+                        }
+                    ],
+                    "options": [
+                        "Analytical skills",
+                        "Artistic skills",
+                        "Athletic skills",
+                        "Auditory skills"
+                    ],
+                    "answer": "Analytical skills",
+                    "explanation": "Analytical skills refer to the ability to deconstruct information into smaller categories."
+                },
+                {
+                    "id": "V29",
+                    "difficulty": 2,
+                    "arabicHint": "إدارة الوقت",
+                    "question": "Choose the skill for meeting deadlines.",
+                    "prompt": [
+                        {
+                            "text": "Good "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " ensures you finish tasks on time."
+                        }
+                    ],
+                    "options": [
+                        "time management",
+                        "time travel",
+                        "time keeping",
+                        "time out"
+                    ],
+                    "answer": "time management",
+                    "explanation": "Time management is the process of planning and exercising control over time spent on activities."
+                },
+                {
+                    "id": "V30",
+                    "difficulty": 3,
+                    "arabicHint": "التفكير النقدي وحل المشاكل",
+                    "question": "Select the skill for finding logical solutions.",
+                    "prompt": [
+                        {
+                            "text": "_____ are needed to solve difficult problems logically."
+                        }
+                    ],
+                    "options": [
+                        "Critical thinking skills",
+                        "Creative writing skills",
+                        "Criminal thinking skills",
+                        "Critical hitting skills"
+                    ],
+                    "answer": "Critical thinking skills",
+                    "explanation": "Critical thinking involves objective analysis and evaluation of an issue to form a judgment."
+                },
+                {
+                    "id": "V31",
+                    "difficulty": 1,
+                    "arabicHint": "مسار وظيفي طويل الأمد",
+                    "question": "Choose the word for a long-term profession.",
+                    "prompt": [
+                        {
+                            "text": "She wants to build a successful "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " in medicine."
+                        }
+                    ],
+                    "options": [
+                        "career",
+                        "carrier",
+                        "carrot",
+                        "cart"
+                    ],
+                    "answer": "career",
+                    "explanation": "A career is an occupation undertaken for a significant period of a person's life."
+                },
+                {
+                    "id": "V32",
+                    "difficulty": 1,
+                    "arabicHint": "مقابلة عمل",
+                    "question": "Select the term for a formal meeting to get a job.",
+                    "prompt": [
+                        {
+                            "text": "He wore a suit to his job "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " yesterday."
+                        }
+                    ],
+                    "options": [
+                        "interview",
+                        "interaction",
+                        "internet",
+                        "interest"
+                    ],
+                    "answer": "interview",
+                    "explanation": "An interview is a formal meeting where an employer asks questions to a job applicant."
+                },
+                {
+                    "id": "V33",
+                    "difficulty": 2,
+                    "arabicHint": "السيرة الذاتية",
+                    "question": "Choose the document listing your work history.",
+                    "prompt": [
+                        {
+                            "text": "Please send your "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " along with your application letter."
+                        }
+                    ],
+                    "options": [
+                        "resume",
+                        "receipt",
+                        "recipe",
+                        "record"
+                    ],
+                    "answer": "resume",
+                    "explanation": "A resume is a brief document summarizing a person's education and work experience."
+                },
+                {
+                    "id": "V34",
+                    "difficulty": 1,
+                    "arabicHint": "الراتب الشهري",
+                    "question": "Select the word for regular payment from an employer.",
+                    "prompt": [
+                        {
+                            "text": "The job offers a good "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " and health benefits."
+                        }
+                    ],
+                    "options": [
+                        "salary",
+                        "sale",
+                        "safety",
+                        "survey"
+                    ],
+                    "answer": "salary",
+                    "explanation": "Salary is a fixed regular payment made by an employer to an employee."
+                },
+                {
+                    "id": "V35",
+                    "difficulty": 2,
+                    "arabicHint": "زميل في العمل",
+                    "question": "Choose the word for someone you work with.",
+                    "prompt": [
+                        {
+                            "text": "I went to lunch with my "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " from the accounting department."
+                        }
+                    ],
+                    "options": [
+                        "colleague",
+                        "college",
+                        "collar",
+                        "collector"
+                    ],
+                    "answer": "colleague",
+                    "explanation": "A colleague is a person with whom one works in a profession or business."
+                },
+                {
+                    "id": "V36",
+                    "difficulty": 2,
+                    "arabicHint": "ترقية في العمل",
+                    "question": "Select the term for moving to a higher position.",
+                    "prompt": [
+                        {
+                            "text": "After five years, she received a "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " to manager."
+                        }
+                    ],
+                    "options": [
+                        "promotion",
+                        "demotion",
+                        "motion",
+                        "emotion"
+                    ],
+                    "answer": "promotion",
+                    "explanation": "A promotion is the advancement of an employee's rank or position in an organizational hierarchy."
+                },
+                {
+                    "id": "V37",
+                    "difficulty": 3,
+                    "arabicHint": "مؤهل أو شهادة",
+                    "question": "Choose the word for a required skill or degree.",
+                    "prompt": [
+                        {
+                            "text": "A university degree is a basic "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " for this job."
+                        }
+                    ],
+                    "options": [
+                        "qualification",
+                        "question",
+                        "quantity",
+                        "quality"
+                    ],
+                    "answer": "qualification",
+                    "explanation": "A qualification is a quality or accomplishment that makes someone suitable for a job."
+                },
+                {
+                    "id": "V38",
+                    "difficulty": 2,
+                    "arabicHint": "موعد نهائي للتسليم",
+                    "question": "Select the term for the latest time to finish a task.",
+                    "prompt": [
+                        {
+                            "text": "We must finish the project before the "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " on Friday."
+                        }
+                    ],
+                    "options": [
+                        "deadline",
+                        "headlines",
+                        "sideline",
+                        "baseline"
+                    ],
+                    "answer": "deadline",
+                    "explanation": "A deadline is the latest time or date by which something should be completed."
+                },
+                {
+                    "id": "V39",
+                    "difficulty": 1,
+                    "arabicHint": "خبرة عملية",
+                    "question": "Choose the word for knowledge gained over time.",
+                    "prompt": [
+                        {
+                            "text": "The job requires at least two years of "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "experience",
+                        "experiment",
+                        "expression",
+                        "expiration"
+                    ],
+                    "answer": "experience",
+                    "explanation": "Experience refers to practical contact with and observation of facts or events in a job."
+                },
+                {
+                    "id": "V40",
+                    "difficulty": 3,
+                    "arabicHint": "نوبة عمل (صباحية/مسائية)",
+                    "question": "Select the term for a scheduled period of work.",
+                    "prompt": [
+                        {
+                            "text": "He works the night "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " at the hospital."
+                        }
+                    ],
+                    "options": [
+                        "shift",
+                        "shaft",
+                        "shelf",
+                        "shrift"
+                    ],
+                    "answer": "shift",
+                    "explanation": "A shift is a scheduled period of time during which a person works."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,918 @@
+{
+    "unit": "Mega Goal 1 - Unit 3: Technology and Imagination",
+    "type": "vocabulary_box",
+    "setTitle": "End of Unit Vocabulary",
+    "words": [
+        {
+            "word": "vision",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The ability to "
+                },
+                {
+                    "text": "see",
+                    "highlight": true
+                },
+                {
+                    "text": ", or a "
+                },
+                {
+                    "text": "clear idea of the future",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "رؤية / بصر",
+            "synonyms": [
+                "eyesight",
+                "imagination of the future"
+            ],
+            "example": [
+                {
+                    "text": "The inventor had a "
+                },
+                {
+                    "text": "vision",
+                    "colorize": true
+                },
+                {
+                    "text": " of robots helping people in their homes."
+                }
+            ],
+            "tips": "Two meanings: 1) physical sight (20/20 vision) 2) imaginative foresight (business vision). Don't confuse with 'version' (different form of something)."
+        },
+        {
+            "word": "certainly",
+            "wordType": "adverb",
+            "definition": [
+                {
+                    "text": "Without doubt; "
+                },
+                {
+                    "text": "definitely yes",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "surely",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "قطعاً / بالتأكيد",
+            "synonyms": [
+                "definitely",
+                "surely",
+                "without a doubt"
+            ],
+            "example": [
+                {
+                    "text": "\"Can you help me?\" \""
+                },
+                {
+                    "text": "Certainly",
+                    "colorize": true
+                },
+                {
+                    "text": ", I'd be happy to.\""
+                }
+            ],
+            "tips": "Polite, formal way to agree. Stronger than 'yes'. Often used in customer service: 'Certainly, sir.'"
+        },
+        {
+            "word": "attach",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "connect or fasten",
+                    "highlight": true
+                },
+                {
+                    "text": " one thing "
+                },
+                {
+                    "text": "to another",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُثبّت / يربط",
+            "synonyms": [
+                "connect",
+                "fix to",
+                "join"
+            ],
+            "example": [
+                {
+                    "text": "The robot can "
+                },
+                {
+                    "text": "attach",
+                    "colorize": true
+                },
+                {
+                    "text": " tools to its arms for different jobs."
+                }
+            ],
+            "tips": "Attach TO something (always needs 'to'). Computer files: 'attach a document to an email'. Opposite: detach or remove."
+        },
+        {
+            "word": "visionary",
+            "wordType": "noun/adjective",
+            "definition": [
+                {
+                    "text": "A person with "
+                },
+                {
+                    "text": "original ideas",
+                    "highlight": true
+                },
+                {
+                    "text": " about the "
+                },
+                {
+                    "text": "future",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "صاحب رؤية / مُبتكر",
+            "synonyms": [
+                "innovator",
+                "forward-thinker"
+            ],
+            "example": [
+                {
+                    "text": "Steve Jobs was a "
+                },
+                {
+                    "text": "visionary",
+                    "colorize": true
+                },
+                {
+                    "text": " who changed how we use technology."
+                }
+            ],
+            "tips": "Visionary ideas often seem strange at first, then become normal later (like smartphones). Not the same as 'dreamer' (visionaries make ideas happen)."
+        },
+        {
+            "word": "submarine",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A ship that can "
+                },
+                {
+                    "text": "travel underwater",
+                    "highlight": true
+                },
+                {
+                    "text": " for "
+                },
+                {
+                    "text": "exploration or military use",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "غواصة",
+            "synonyms": [
+                "underwater vessel"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "submarine",
+                    "colorize": true
+                },
+                {
+                    "text": " explored the deep ocean near the shipwreck."
+                }
+            ],
+            "tips": "Sub = under. Marine = sea. 'Submerge' = go underwater. Military submarines can stay underwater for months."
+        },
+        {
+            "word": "tentacle",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A long, thin "
+                },
+                {
+                    "text": "arm-like part",
+                    "highlight": true
+                },
+                {
+                    "text": " that animals like "
+                },
+                {
+                    "text": "octopuses use to grab things",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مجس / ذراع مخلوق بحري",
+            "synonyms": [
+                "arm (of sea creatures)"
+            ],
+            "example": [
+                {
+                    "text": "The octopus wrapped its "
+                },
+                {
+                    "text": "tentacles",
+                    "colorize": true
+                },
+                {
+                    "text": " around the treasure chest."
+                }
+            ],
+            "tips": "Octopuses have 8 tentacles. Squids have 8 arms + 2 longer tentacles. Tentacles have suction cups for grabbing."
+        },
+        {
+            "word": "rocket",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A vehicle that "
+                },
+                {
+                    "text": "flies into space",
+                    "highlight": true
+                },
+                {
+                    "text": " using "
+                },
+                {
+                    "text": "powerful engines",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "صاروخ",
+            "synonyms": [
+                "spacecraft launcher"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "rocket",
+                    "colorize": true
+                },
+                {
+                    "text": " launched into space carrying satellites."
+                }
+            ],
+            "tips": "Rockets work in space (no air needed) unlike airplanes. 'Rocket science' = very difficult subject (actually aerospace engineering)."
+        },
+        {
+            "word": "activate",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "start or turn on",
+                    "highlight": true
+                },
+                {
+                    "text": " a machine or "
+                },
+                {
+                    "text": "system",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُفعّل / يُشغّل",
+            "synonyms": [
+                "turn on",
+                "switch on",
+                "start"
+            ],
+            "example": [
+                {
+                    "text": "Press this button to "
+                },
+                {
+                    "text": "activate",
+                    "colorize": true
+                },
+                {
+                    "text": " the robot's cleaning mode."
+                }
+            ],
+            "tips": "More formal than 'turn on'. Often used for security systems, apps, or special functions. Opposite: deactivate."
+        },
+        {
+            "word": "shipwreck",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A ship that has "
+                },
+                {
+                    "text": "sunk or crashed",
+                    "highlight": true
+                },
+                {
+                    "text": " and is now "
+                },
+                {
+                    "text": "broken at the bottom of the sea",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حطام سفينة",
+            "synonyms": [
+                "wrecked ship",
+                "sunken vessel"
+            ],
+            "example": [
+                {
+                    "text": "Divers explored the old "
+                },
+                {
+                    "text": "shipwreck",
+                    "colorize": true
+                },
+                {
+                    "text": " to find treasure and learn history."
+                }
+            ],
+            "tips": "Shipwrecks become homes for sea life. Famous example: Titanic. 'Wreck' as verb = to destroy by crashing."
+        },
+        {
+            "word": "monitor",
+            "wordType": "verb/noun",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "watch carefully",
+                    "highlight": true
+                },
+                {
+                    "text": " and "
+                },
+                {
+                    "text": "check for changes",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يراقب / يُراقب",
+            "synonyms": [
+                "observe",
+                "watch",
+                "track"
+            ],
+            "example": [
+                {
+                    "text": "Scientists "
+                },
+                {
+                    "text": "monitor",
+                    "colorize": true
+                },
+                {
+                    "text": " the robot's performance during tests."
+                }
+            ],
+            "tips": "Monitor a patient/temperature/system. Computer monitor = screen (different meaning but related—shows what's happening)."
+        },
+        {
+            "word": "skyscraper",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "An extremely "
+                },
+                {
+                    "text": "tall building",
+                    "highlight": true
+                },
+                {
+                    "text": " with many "
+                },
+                {
+                    "text": "floors",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ناطحة سحاب",
+            "synonyms": [
+                "tower block",
+                "high-rise building"
+            ],
+            "example": [
+                {
+                    "text": "Burj Khalifa is the world's tallest "
+                },
+                {
+                    "text": "skyscraper",
+                    "colorize": true
+                },
+                {
+                    "text": " at over 800 meters high."
+                }
+            ],
+            "tips": "Made possible by steel frames (not just brick/stone). Elevators are essential—nobody climbs 100+ flights of stairs!"
+        },
+        {
+            "word": "appliance",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A machine used in the home for "
+                },
+                {
+                    "text": "practical tasks",
+                    "highlight": true
+                },
+                {
+                    "text": " like "
+                },
+                {
+                    "text": "cooking or cleaning",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "جهاز كهربائي منزلي",
+            "synonyms": [
+                "household device",
+                "domestic machine"
+            ],
+            "example": [
+                {
+                    "text": "Modern kitchen "
+                },
+                {
+                    "text": "appliances",
+                    "colorize": true
+                },
+                {
+                    "text": " like refrigerators and microwaves save time."
+                }
+            ],
+            "tips": "Major appliances: fridge, oven, washing machine. Small appliances: toaster, blender. Not the same as 'application' (app/software)."
+        },
+        {
+            "word": "glass",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A hard, transparent material made from "
+                },
+                {
+                    "text": "sand",
+                    "highlight": true
+                },
+                {
+                    "text": " that is used for "
+                },
+                {
+                    "text": "windows and containers",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "زجاج",
+            "synonyms": [
+                "transparent material"
+            ],
+            "example": [
+                {
+                    "text": "Be careful—the table is made of "
+                },
+                {
+                    "text": "glass",
+                    "colorize": true
+                },
+                {
+                    "text": " and can break easily."
+                }
+            ],
+            "tips": "Glass breaks into sharp pieces called shards. 'Glass' can also mean a container (drinking glass) or the material itself—context tells which."
+        },
+        {
+            "word": "shard",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A sharp piece of "
+                },
+                {
+                    "text": "broken material",
+                    "highlight": true
+                },
+                {
+                    "text": " like "
+                },
+                {
+                    "text": "glass or pottery",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "شظية زجاج / قطعة حادة",
+            "synonyms": [
+                "fragment",
+                "splinter (of glass)"
+            ],
+            "example": [
+                {
+                    "text": "Wear gloves when cleaning up—the floor is covered in sharp "
+                },
+                {
+                    "text": "shards",
+                    "colorize": true
+                },
+                {
+                    "text": " of glass."
+                }
+            ],
+            "tips": "Always implies danger—shards are sharp and can cut skin. Archaeologists find pottery shards to learn about ancient cultures."
+        },
+        {
+            "word": "prediction",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A statement about "
+                },
+                {
+                    "text": "what will happen",
+                    "highlight": true
+                },
+                {
+                    "text": " in the "
+                },
+                {
+                    "text": "future",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "تنبؤ / توقع",
+            "synonyms": [
+                "forecast",
+                "prophecy"
+            ],
+            "example": [
+                {
+                    "text": "His "
+                },
+                {
+                    "text": "prediction",
+                    "colorize": true
+                },
+                {
+                    "text": " that robots would clean houses came true 20 years later."
+                }
+            ],
+            "tips": "Weather prediction = forecast. Predictions can be based on science (eclipses) or guesses (lottery numbers). Not always accurate!"
+        },
+        {
+            "word": "character",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A person or creature in a "
+                },
+                {
+                    "text": "story, movie, or game",
+                    "highlight": true
+                },
+                {
+                    "text": ", or someone's "
+                },
+                {
+                    "text": "personality qualities",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "شخصية (في قصة) / طابع",
+            "synonyms": [
+                "figure (in story)",
+                "personality"
+            ],
+            "example": [
+                {
+                    "text": "My favorite video game "
+                },
+                {
+                    "text": "character",
+                    "colorize": true
+                },
+                {
+                    "text": " is a robot with a kind heart."
+                }
+            ],
+            "tips": "Two meanings: 1) story person (Harry Potter is a character) 2) personal qualities ('She has strong character')."
+        },
+        {
+            "word": "gas-powered",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Using "
+                },
+                {
+                    "text": "gasoline or natural gas",
+                    "highlight": true
+                },
+                {
+                    "text": " as "
+                },
+                {
+                    "text": "fuel to run",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يعمل بالغاز",
+            "synonyms": [
+                "fuel-powered",
+                "petrol-powered"
+            ],
+            "example": [
+                {
+                    "text": "Most cars today are still "
+                },
+                {
+                    "text": "gas-powered",
+                    "colorize": true
+                },
+                {
+                    "text": ", but electric cars are becoming popular."
+                }
+            ],
+            "tips": "Gas-powered engines create pollution. Electric vehicles use batteries instead. 'Gas' in US = petrol; in UK 'gas' often means natural gas for cooking."
+        },
+        {
+            "word": "high-speed",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Moving or operating at "
+                },
+                {
+                    "text": "very fast speeds",
+                    "highlight": true
+                },
+                {
+                    "text": ", much "
+                },
+                {
+                    "text": "faster than normal",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "فائقة السرعة",
+            "synonyms": [
+                "very fast",
+                "rapid"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "high-speed",
+                    "colorize": true
+                },
+                {
+                    "text": " train travels between cities in under an hour."
+                }
+            ],
+            "tips": "Hyphenated adjective—always comes before noun (high-speed internet, not 'internet high-speed'). Opposite: slow-speed or low-speed."
+        },
+        {
+            "word": "optimized",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Designed or adjusted to "
+                },
+                {
+                    "text": "work as well as possible",
+                    "highlight": true
+                },
+                {
+                    "text": " and "
+                },
+                {
+                    "text": "use resources efficiently",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مُحسّن / مُحسَّن الأداء",
+            "synonyms": [
+                "improved for best performance",
+                "fine-tuned"
+            ],
+            "example": [
+                {
+                    "text": "The robot's software was "
+                },
+                {
+                    "text": "optimized",
+                    "colorize": true
+                },
+                {
+                    "text": " to use less battery power."
+                }
+            ],
+            "tips": "From verb 'optimize' = make as effective as possible. Common in technology: optimized apps load faster. Not the same as 'maximized' (made as large as possible)."
+        },
+        {
+            "word": "dive",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To jump or go "
+                },
+                {
+                    "text": "down quickly",
+                    "highlight": true
+                },
+                {
+                    "text": " into "
+                },
+                {
+                    "text": "water or downward in air",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يغوص",
+            "synonyms": [
+                "plunge",
+                "jump in"
+            ],
+            "example": [
+                {
+                    "text": "The submarine will "
+                },
+                {
+                    "text": "dive",
+                    "colorize": true
+                },
+                {
+                    "text": " to explore the deep ocean near the shipwreck."
+                }
+            ],
+            "tips": "Dive INTO water (needs 'into'). Scuba divers breathe underwater with tanks. 'Take a dive' = jump in, or (slang) pretend to fall in sports."
+        },
+        {
+            "word": "whale",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A very large "
+                },
+                {
+                    "text": "sea animal",
+                    "highlight": true
+                },
+                {
+                    "text": " that breathes air and is "
+                },
+                {
+                    "text": "not a fish",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حوت",
+            "synonyms": [
+                "marine mammal"
+            ],
+            "example": [
+                {
+                    "text": "The blue "
+                },
+                {
+                    "text": "whale",
+                    "colorize": true
+                },
+                {
+                    "text": " is the largest animal on Earth."
+                }
+            ],
+            "tips": "Whales are mammals (like humans)—they breathe air, give live birth, and feed babies milk. Not fish! They communicate with complex songs."
+        },
+        {
+            "word": "certain",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Being "
+                },
+                {
+                    "text": "sure or confident",
+                    "highlight": true
+                },
+                {
+                    "text": " that something is "
+                },
+                {
+                    "text": "true",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "متأكد / معين",
+            "synonyms": [
+                "sure",
+                "confident"
+            ],
+            "example": [
+                {
+                    "text": "I'm not "
+                },
+                {
+                    "text": "certain",
+                    "colorize": true
+                },
+                {
+                    "text": " what time the meeting starts—let me check."
+                }
+            ],
+            "tips": "Certain OF something (I'm certain of my answer). Certain people/things = specific ones (a certain book). Opposite: uncertain or unsure."
+        },
+        {
+            "word": "steel",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A strong metal made from "
+                },
+                {
+                    "text": "iron",
+                    "highlight": true
+                },
+                {
+                    "text": " used to build "
+                },
+                {
+                    "text": "skyscrapers, bridges, and cars",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "فولاذ / صلب",
+            "synonyms": [
+                "strong metal alloy"
+            ],
+            "example": [
+                {
+                    "text": "Skyscrapers have frames made of "
+                },
+                {
+                    "text": "steel",
+                    "colorize": true
+                },
+                {
+                    "text": " to support their great height."
+                }
+            ],
+            "tips": "Stronger than iron alone. Stainless steel doesn't rust easily (used in kitchen knives). Not the same as 'steal' (to take something that isn't yours)!"
+        },
+        {
+            "word": "No kidding?",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "An expression showing "
+                },
+                {
+                    "text": "surprise or disbelief",
+                    "highlight": true
+                },
+                {
+                    "text": ", or "
+                },
+                {
+                    "text": "asking if someone is serious",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "أحقاً؟ / لا تمزح؟",
+            "synonyms": [
+                "Really?",
+                "Are you serious?",
+                "You're joking!"
+            ],
+            "example": [
+                {
+                    "text": "\"I met a famous actor yesterday.\" \""
+                },
+                {
+                    "text": "No kidding?",
+                    "colorize": true
+                },
+                {
+                    "text": " Who did you meet?\""
+                }
+            ],
+            "tips": "Casual/informal. Can sound slightly rude if tone is wrong—use with friends, not formal situations. Similar to 'Seriously?'"
+        }
+    ]
+}

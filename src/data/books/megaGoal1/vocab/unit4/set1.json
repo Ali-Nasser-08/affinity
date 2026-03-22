@@ -1,0 +1,599 @@
+{
+    "unit": "Mega Goal 1 - Unit 4: The Art of Advertising",
+    "type": "misc",
+    "setTitle": "Product Descriptions",
+    "words": [
+        {
+            "word": "compact",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Small in size but "
+                },
+                {
+                    "text": "efficiently designed",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "taking up little space",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مدمج / صغير الحجم",
+            "synonyms": [
+                "small",
+                "condensed",
+                "space-saving"
+            ],
+            "example": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "compact",
+                    "colorize": true
+                },
+                {
+                    "text": " car is perfect for city driving and easy parking"
+                }
+            ],
+            "tips": "In advertising: compact = small but functional. Compact camera, compact disc. Positive spin on 'small'!"
+        },
+        {
+            "word": "triumph",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A great "
+                },
+                {
+                    "text": "success or achievement",
+                    "highlight": true
+                },
+                {
+                    "text": "; a "
+                },
+                {
+                    "text": "spectacular victory",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "انتصار / نجاح باهر",
+            "synonyms": [
+                "success",
+                "victory",
+                "achievement"
+            ],
+            "example": [
+                {
+                    "text": "The new electric car design is a "
+                },
+                {
+                    "text": "triumph",
+                    "colorize": true
+                },
+                {
+                    "text": " of modern engineering"
+                }
+            ],
+            "tips": "Very positive advertising word. 'A triumph of design' = extremely successful design. Shows excellence."
+        },
+        {
+            "word": "craft",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "make or create skillfully",
+                    "highlight": true
+                },
+                {
+                    "text": " with "
+                },
+                {
+                    "text": "careful attention to detail",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يصنع بمهارة / يصوغ",
+            "synonyms": [
+                "create",
+                "design",
+                "fashion",
+                "shape"
+            ],
+            "example": [
+                {
+                    "text": "Each piece of furniture is carefully "
+                },
+                {
+                    "text": "crafted",
+                    "colorize": true
+                },
+                {
+                    "text": " by hand using traditional techniques"
+                }
+            ],
+            "tips": "Advertising loves 'crafted' - implies quality, skill, care. Hand-crafted, expertly crafted, carefully crafted."
+        },
+        {
+            "word": "legendary",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Very "
+                },
+                {
+                    "text": "famous and admired",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "remarkable and well-known",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "أسطوري / خرافي",
+            "synonyms": [
+                "famous",
+                "iconic",
+                "renowned",
+                "celebrated"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "legendary",
+                    "colorize": true
+                },
+                {
+                    "text": " Coca-Cola bottle design has remained unchanged for decades"
+                }
+            ],
+            "tips": "Powerful advertising word. Makes products sound historic and important. 'Legendary quality' = famously good."
+        },
+        {
+            "word": "customize",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "modify or personalize",
+                    "highlight": true
+                },
+                {
+                    "text": " something to "
+                },
+                {
+                    "text": "individual preferences",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يخصص / يعدّل حسب الطلب",
+            "synonyms": [
+                "personalize",
+                "tailor",
+                "modify"
+            ],
+            "example": [
+                {
+                    "text": "You can "
+                },
+                {
+                    "text": "customize",
+                    "colorize": true
+                },
+                {
+                    "text": " your phone case with your name and favorite colors"
+                }
+            ],
+            "tips": "Big selling point in ads - makes buyers feel special. 'Customizable' = can be personalized. 'Custom-made' = made to order."
+        },
+        {
+            "word": "feature",
+            "wordType": "verb/noun",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "include as an important part",
+                    "highlight": true
+                },
+                {
+                    "text": "; a "
+                },
+                {
+                    "text": "distinctive characteristic",
+                    "highlight2": true
+                },
+                {
+                    "text": " or quality"
+                }
+            ],
+            "arabicMeaning": "يتميز بـ / ميزة",
+            "synonyms": [
+                "include",
+                "characteristic",
+                "attribute"
+            ],
+            "example": [
+                {
+                    "text": "This smartphone "
+                },
+                {
+                    "text": "features",
+                    "colorize": true
+                },
+                {
+                    "text": " a high-resolution camera and long battery life"
+                }
+            ],
+            "tips": "Common in product descriptions. Lists what the product has or does. 'Features include...' starts benefit lists."
+        },
+        {
+            "word": "specification",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A detailed "
+                },
+                {
+                    "text": "description of requirements",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "technical details",
+                    "highlight2": true
+                },
+                {
+                    "text": " of a product"
+                }
+            ],
+            "arabicMeaning": "مواصفات / معايير فنية",
+            "synonyms": [
+                "requirements",
+                "details",
+                "standards"
+            ],
+            "example": [
+                {
+                    "text": "The technical "
+                },
+                {
+                    "text": "specifications",
+                    "colorize": true
+                },
+                {
+                    "text": " show this laptop has 16GB RAM and 512GB storage"
+                }
+            ],
+            "tips": "Usually plural: 'specifications' or 'specs'. Lists exact measurements, capacities, materials, etc."
+        },
+        {
+            "word": "portable",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Easy to "
+                },
+                {
+                    "text": "carry or move",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "designed for transport",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "محمول / قابل للنقل",
+            "synonyms": [
+                "mobile",
+                "transportable",
+                "movable"
+            ],
+            "example": [
+                {
+                    "text": "This "
+                },
+                {
+                    "text": "portable",
+                    "colorize": true
+                },
+                {
+                    "text": " speaker is perfect for outdoor parties and travel"
+                }
+            ],
+            "tips": "Major selling point! Portable charger, portable laptop. Portability = ease of carrying. Very positive in ads."
+        },
+        {
+            "word": "bulky",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Large and "
+                },
+                {
+                    "text": "taking up much space",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "awkward to carry",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ضخم / كبير الحجم",
+            "synonyms": [
+                "large",
+                "unwieldy",
+                "cumbersome"
+            ],
+            "example": [
+                {
+                    "text": "Old televisions were "
+                },
+                {
+                    "text": "bulky",
+                    "colorize": true
+                },
+                {
+                    "text": " and heavy, unlike today's slim flat screens"
+                }
+            ],
+            "tips": "Negative word in advertising! Ads say products are NOT bulky. Opposite of compact/portable/sleek."
+        },
+        {
+            "word": "attractive",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Pleasing to "
+                },
+                {
+                    "text": "look at",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "appealing and good-looking",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "جذاب / جميل",
+            "synonyms": [
+                "appealing",
+                "beautiful",
+                "pleasing",
+                "eye-catching"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "attractive",
+                    "colorize": true
+                },
+                {
+                    "text": " packaging design caught my attention in the store"
+                }
+            ],
+            "tips": "Common in ads for appearance. Attractive design, attractive price (good deal). Always positive!"
+        },
+        {
+            "word": "ordinary",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Normal or "
+                },
+                {
+                    "text": "common",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "not special or different",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "عادي",
+            "synonyms": [
+                "normal",
+                "regular",
+                "common",
+                "standard"
+            ],
+            "example": [
+                {
+                    "text": "It looks like an "
+                },
+                {
+                    "text": "ordinary",
+                    "colorize": true
+                },
+                {
+                    "text": " watch, but it's actually a smart device"
+                }
+            ],
+            "tips": "In ads: 'looks ordinary BUT...' sets up surprise. Products don't want to BE ordinary - that's boring!"
+        },
+        {
+            "word": "variety",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "range of different things",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "many types or options",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "تنوع / تشكيلة",
+            "synonyms": [
+                "range",
+                "assortment",
+                "selection"
+            ],
+            "example": [
+                {
+                    "text": "The store offers a wide "
+                },
+                {
+                    "text": "variety",
+                    "colorize": true
+                },
+                {
+                    "text": " of colors and sizes to choose from"
+                }
+            ],
+            "tips": "Advertisers love variety - gives buyers choice! 'Wide variety', 'huge variety', 'variety of options'."
+        },
+        {
+            "word": "transport",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "carry or move",
+                    "highlight": true
+                },
+                {
+                    "text": " from one "
+                },
+                {
+                    "text": "place to another",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ينقل / يحمل",
+            "synonyms": [
+                "carry",
+                "move",
+                "convey",
+                "transfer"
+            ],
+            "example": [
+                {
+                    "text": "The folding bike can be easily "
+                },
+                {
+                    "text": "transported",
+                    "colorize": true
+                },
+                {
+                    "text": " in a car trunk or on a train"
+                }
+            ],
+            "tips": "Transportation = system of moving people/goods. 'Easily transported' = convenient to move around."
+        },
+        {
+            "word": "in contrast to",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Used to show "
+                },
+                {
+                    "text": "differences",
+                    "highlight": true
+                },
+                {
+                    "text": " between two things; "
+                },
+                {
+                    "text": "unlike or opposite to",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "بالمقارنة مع / على النقيض من",
+            "synonyms": [
+                "unlike",
+                "as opposed to",
+                "whereas"
+            ],
+            "example": [
+                {
+                    "text": "In contrast to",
+                    "colorize": true
+                },
+                {
+                    "text": " traditional bikes, electric bikes require less physical effort"
+                }
+            ],
+            "tips": "Used in comparisons to highlight advantages. Shows how your product is BETTER than alternatives."
+        },
+        {
+            "word": "steerable",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Able to be "
+                },
+                {
+                    "text": "guided or directed",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "can be controlled in movement",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "قابل للتوجيه",
+            "synonyms": [
+                "controllable",
+                "directable"
+            ],
+            "example": [
+                {
+                    "text": "Modern shopping carts have four "
+                },
+                {
+                    "text": "steerable",
+                    "colorize": true
+                },
+                {
+                    "text": " wheels for easy maneuvering"
+                }
+            ],
+            "tips": "From 'steer' = to control direction. Steerable wheels, steerable front end. Important for vehicles!"
+        }
+    ]
+}

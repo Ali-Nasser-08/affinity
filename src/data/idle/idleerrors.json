@@ -1,0 +1,1804 @@
+{
+    "errors": [
+        {
+            "sentence": "She don't like coffee in the morning.",
+            "wrong": "don't",
+            "correct": "doesn't",
+            "reason": "Third person singular requires \"doesn't\""
+        },
+        {
+            "sentence": "He goed to the store yesterday.",
+            "wrong": "goed",
+            "correct": "went",
+            "reason": "\"Go\" has an irregular past tense: \"went\""
+        },
+        {
+            "sentence": "They was playing football all day.",
+            "wrong": "was",
+            "correct": "were",
+            "reason": "Plural subjects use \"were\" not \"was\""
+        },
+        {
+            "sentence": "I have went to Paris three times.",
+            "wrong": "went",
+            "correct": "been",
+            "reason": "Present perfect uses past participle: \"have been\""
+        },
+        {
+            "sentence": "She is more smarter than her brother.",
+            "wrong": "more smarter",
+            "correct": "smarter",
+            "reason": "Don't use \"more\" with comparative \"-er\" forms"
+        },
+        {
+            "sentence": "The childrens are playing outside.",
+            "wrong": "childrens",
+            "correct": "children",
+            "reason": "\"Children\" is already plural — no need for \"-s\""
+        },
+        {
+            "sentence": "He can speaks three languages fluently.",
+            "wrong": "speaks",
+            "correct": "speak",
+            "reason": "After modal verbs, use the base form of the verb"
+        },
+        {
+            "sentence": "I am agree with your opinion completely.",
+            "wrong": "am agree",
+            "correct": "agree",
+            "reason": "\"Agree\" is not used with \"be\" — it stands alone"
+        },
+        {
+            "sentence": "She suggested me to go to the doctor.",
+            "wrong": "me to go",
+            "correct": "that I go",
+            "reason": "\"Suggest\" takes a that-clause, not an object + infinitive"
+        },
+        {
+            "sentence": "He is knowing the answer to every question.",
+            "wrong": "is knowing",
+            "correct": "knows",
+            "reason": "\"Know\" is a stative verb — not used in continuous form"
+        },
+        {
+            "sentence": "I have seen her yesterday at the mall.",
+            "wrong": "have seen",
+            "correct": "saw",
+            "reason": "Use simple past with specific past time markers like \"yesterday\""
+        },
+        {
+            "sentence": "The informations are very useful for us.",
+            "wrong": "informations",
+            "correct": "information",
+            "reason": "\"Information\" is uncountable — it has no plural form"
+        },
+        {
+            "sentence": "She gave to me a beautiful birthday present.",
+            "wrong": "gave to me",
+            "correct": "gave me",
+            "reason": "With indirect objects, no preposition is needed before the person"
+        },
+        {
+            "sentence": "If I will see him, I will tell him.",
+            "wrong": "will see",
+            "correct": "see",
+            "reason": "In first conditional, use simple present in the if-clause"
+        },
+        {
+            "sentence": "He told that he was feeling very sick.",
+            "wrong": "told that",
+            "correct": "said that",
+            "reason": "\"Tell\" requires an object (tell someone); \"say\" does not"
+        },
+        {
+            "sentence": "She must to study harder for the exam.",
+            "wrong": "must to study",
+            "correct": "must study",
+            "reason": "Modal verbs are followed directly by the base verb — no \"to\""
+        },
+        {
+            "sentence": "I am used to get up early every morning.",
+            "wrong": "to get",
+            "correct": "to getting",
+            "reason": "\"Used to\" + gerund means being accustomed to something"
+        },
+        {
+            "sentence": "He drived to work because the bus was late.",
+            "wrong": "drived",
+            "correct": "drove",
+            "reason": "\"Drive\" has an irregular past tense: \"drove\""
+        },
+        {
+            "sentence": "Each of the students have their own locker.",
+            "wrong": "have",
+            "correct": "has",
+            "reason": "\"Each\" is singular and takes a singular verb"
+        },
+        {
+            "sentence": "I look forward to hear from you soon.",
+            "wrong": "to hear",
+            "correct": "to hearing",
+            "reason": "\"Look forward to\" is followed by a gerund (-ing form)"
+        },
+        {
+            "sentence": "The movie was bored, so we left early.",
+            "wrong": "bored",
+            "correct": "boring",
+            "reason": "Use \"-ing\" adjectives for things that cause the feeling"
+        },
+        {
+            "sentence": "She doesn't knows how to swim yet.",
+            "wrong": "knows",
+            "correct": "know",
+            "reason": "After \"doesn't,\" use the base form of the verb"
+        },
+        {
+            "sentence": "They didn't went to school this morning.",
+            "wrong": "went",
+            "correct": "go",
+            "reason": "After \"didn't,\" use the base form of the verb"
+        },
+        {
+            "sentence": "My brother is more older than me by two years.",
+            "wrong": "more older",
+            "correct": "older",
+            "reason": "Don't use \"more\" with comparative \"-er\" forms"
+        },
+        {
+            "sentence": "He has been living here since five years.",
+            "wrong": "since",
+            "correct": "for",
+            "reason": "Use \"for\" with durations; \"since\" with specific points in time"
+        },
+        {
+            "sentence": "I am believing that he is innocent.",
+            "wrong": "am believing",
+            "correct": "believe",
+            "reason": "\"Believe\" is a stative verb — not used in continuous form"
+        },
+        {
+            "sentence": "We have less students this year than last year.",
+            "wrong": "less",
+            "correct": "fewer",
+            "reason": "Use \"fewer\" for countable nouns; \"less\" for uncountable"
+        },
+        {
+            "sentence": "Despite of the rain, we went for a long walk.",
+            "wrong": "Despite of",
+            "correct": "Despite",
+            "reason": "\"Despite\" is never followed by \"of\" — use it alone"
+        },
+        {
+            "sentence": "She is enough old to make her own decisions.",
+            "wrong": "enough old",
+            "correct": "old enough",
+            "reason": "\"Enough\" comes after adjectives, not before them"
+        },
+        {
+            "sentence": "He suggested to go to the new Italian restaurant.",
+            "wrong": "to go",
+            "correct": "going",
+            "reason": "\"Suggest\" is followed by a gerund, not an infinitive"
+        },
+        {
+            "sentence": "I wish I can travel around the whole world.",
+            "wrong": "can",
+            "correct": "could",
+            "reason": "\"Wish\" for unreal present situations uses past tense"
+        },
+        {
+            "sentence": "The news are very shocking and unexpected today.",
+            "wrong": "are",
+            "correct": "is",
+            "reason": "\"News\" is uncountable and always takes a singular verb"
+        },
+        {
+            "sentence": "She asked me where do I live now.",
+            "wrong": "do I live",
+            "correct": "I live",
+            "reason": "Indirect questions use statement word order, not question order"
+        },
+        {
+            "sentence": "He is one of the most tallest player on the team.",
+            "wrong": "most tallest",
+            "correct": "tallest",
+            "reason": "Don't use \"most\" with superlative \"-est\" forms"
+        },
+        {
+            "sentence": "I have been to London last summer with my family.",
+            "wrong": "have been",
+            "correct": "went",
+            "reason": "Use simple past with specific past time markers"
+        },
+        {
+            "sentence": "She made me to clean my entire room before dinner.",
+            "wrong": "to clean",
+            "correct": "clean",
+            "reason": "After \"make\" someone, use the bare infinitive (no \"to\")"
+        },
+        {
+            "sentence": "Neither the teacher nor the students was happy.",
+            "wrong": "was",
+            "correct": "were",
+            "reason": "With \"neither...nor,\" the verb agrees with the nearest subject"
+        },
+        {
+            "sentence": "He denied to steal the money from the safe.",
+            "wrong": "to steal",
+            "correct": "stealing",
+            "reason": "\"Deny\" is followed by a gerund, not an infinitive"
+        },
+        {
+            "sentence": "I did not found my keys anywhere in the house.",
+            "wrong": "found",
+            "correct": "find",
+            "reason": "After \"did not,\" use the base form of the verb"
+        },
+        {
+            "sentence": "She has been married with him for ten years now.",
+            "wrong": "with",
+            "correct": "to",
+            "reason": "The correct preposition is \"married to,\" not \"married with\""
+        },
+        {
+            "sentence": "My mother cook delicious food every day.",
+            "wrong": "cook",
+            "correct": "cooks",
+            "reason": "Third person singular requires \"-s\" on the verb"
+        },
+        {
+            "sentence": "I am studying English since two years.",
+            "wrong": "since",
+            "correct": "for",
+            "reason": "Use \"for\" with durations; \"since\" with specific starting points"
+        },
+        {
+            "sentence": "He don't have any homework today.",
+            "wrong": "don't",
+            "correct": "doesn't",
+            "reason": "Third person singular requires \"doesn't\""
+        },
+        {
+            "sentence": "She enjoy to read books in her free time.",
+            "wrong": "to read",
+            "correct": "reading",
+            "reason": "\"Enjoy\" is followed by a gerund (-ing form)"
+        },
+        {
+            "sentence": "They goes to school by bus every morning.",
+            "wrong": "goes",
+            "correct": "go",
+            "reason": "Plural subjects use the base form of the verb"
+        },
+        {
+            "sentence": "I have much friends in my class.",
+            "wrong": "much",
+            "correct": "many",
+            "reason": "Use \"many\" for countable nouns; \"much\" for uncountable"
+        },
+        {
+            "sentence": "He is more tall than his younger brother.",
+            "wrong": "more tall",
+            "correct": "taller",
+            "reason": "Use \"-er\" for short adjectives; don't add \"more\""
+        },
+        {
+            "sentence": "We was playing football yesterday afternoon.",
+            "wrong": "was",
+            "correct": "were",
+            "reason": "Plural subjects use \"were\" not \"was\""
+        },
+        {
+            "sentence": "She is very good in mathematics and science.",
+            "wrong": "in",
+            "correct": "at",
+            "reason": "The correct preposition is \"good at,\" not \"good in\""
+        },
+        {
+            "sentence": "I didn't saw him at school today.",
+            "wrong": "saw",
+            "correct": "see",
+            "reason": "After \"didn't,\" use the base form of the verb"
+        },
+        {
+            "sentence": "He can to speak three languages fluently.",
+            "wrong": "to speak",
+            "correct": "speak",
+            "reason": "Modal verbs are followed by the base verb without \"to\""
+        },
+        {
+            "sentence": "The weather is very hot on summer.",
+            "wrong": "on",
+            "correct": "in",
+            "reason": "Use \"in\" with seasons: in summer, in winter"
+        },
+        {
+            "sentence": "My father work in a big hospital downtown.",
+            "wrong": "work",
+            "correct": "works",
+            "reason": "Third person singular requires \"-s\" on the verb"
+        },
+        {
+            "sentence": "I am understanding the lesson now very well.",
+            "wrong": "am understanding",
+            "correct": "understand",
+            "reason": "\"Understand\" is a stative verb — not used in continuous"
+        },
+        {
+            "sentence": "She wants that I help her with homework.",
+            "wrong": "that I help",
+            "correct": "me to help",
+            "reason": "\"Want\" takes object + infinitive, not a that-clause"
+        },
+        {
+            "sentence": "There is many students in the classroom today.",
+            "wrong": "is",
+            "correct": "are",
+            "reason": "Plural nouns require \"are,\" not \"is\""
+        },
+        {
+            "sentence": "He study every night before going to bed.",
+            "wrong": "study",
+            "correct": "studies",
+            "reason": "Third person singular requires \"-ies\" ending"
+        },
+        {
+            "sentence": "I like very much ice cream in hot weather.",
+            "wrong": "like very much ice cream",
+            "correct": "like ice cream very much",
+            "reason": "\"Very much\" comes after the object"
+        },
+        {
+            "sentence": "She have three brothers and two sisters.",
+            "wrong": "have",
+            "correct": "has",
+            "reason": "Third person singular requires \"has\""
+        },
+        {
+            "sentence": "I am boring in this class right now.",
+            "wrong": "boring",
+            "correct": "bored",
+            "reason": "Use \"-ed\" adjectives for how people feel"
+        },
+        {
+            "sentence": "He always arrive late to school every day.",
+            "wrong": "arrive",
+            "correct": "arrives",
+            "reason": "Third person singular requires \"-s\" on the verb"
+        },
+        {
+            "sentence": "We need to buy some furnitures for the room.",
+            "wrong": "furnitures",
+            "correct": "furniture",
+            "reason": "\"Furniture\" is uncountable — it has no plural form"
+        },
+        {
+            "sentence": "She don't likes vegetables at all unfortunately.",
+            "wrong": "don't likes",
+            "correct": "doesn't like",
+            "reason": "Use \"doesn't\" + base verb for third person singular"
+        },
+        {
+            "sentence": "I am liking this book very much indeed.",
+            "wrong": "am liking",
+            "correct": "like",
+            "reason": "\"Like\" is a stative verb — not used in continuous"
+        },
+        {
+            "sentence": "He is the most smart student in our class.",
+            "wrong": "most smart",
+            "correct": "smartest",
+            "reason": "Use \"-est\" for short adjectives; don't add \"most\""
+        },
+        {
+            "sentence": "I go to the library yesterday morning early.",
+            "wrong": "go",
+            "correct": "went",
+            "reason": "Use past tense with past time markers like \"yesterday\""
+        },
+        {
+            "sentence": "She wants to be a doctor when she will grow up.",
+            "wrong": "will grow",
+            "correct": "grows",
+            "reason": "Use simple present after \"when\" for future actions"
+        },
+        {
+            "sentence": "My brother and me are in the same school.",
+            "wrong": "me",
+            "correct": "I",
+            "reason": "Use subject pronoun \"I\" as part of the subject"
+        },
+        {
+            "sentence": "I am agree with what you just said now.",
+            "wrong": "am agree",
+            "correct": "agree",
+            "reason": "\"Agree\" is not used with \"be\" — use it alone"
+        },
+        {
+            "sentence": "He gived me his book to read last week.",
+            "wrong": "gived",
+            "correct": "gave",
+            "reason": "\"Give\" has an irregular past tense: \"gave\""
+        },
+        {
+            "sentence": "She is afraid from dogs and other big animals.",
+            "wrong": "from",
+            "correct": "of",
+            "reason": "The correct preposition is \"afraid of,\" not \"afraid from\""
+        },
+        {
+            "sentence": "I have lived here since I am five years old.",
+            "wrong": "am",
+            "correct": "was",
+            "reason": "Use past tense after \"since\" when referring to past"
+        },
+        {
+            "sentence": "He is knowing all the answers to the test.",
+            "wrong": "is knowing",
+            "correct": "knows",
+            "reason": "\"Know\" is a stative verb — not used in continuous"
+        },
+        {
+            "sentence": "The teacher said us to open our books immediately.",
+            "wrong": "said us",
+            "correct": "told us",
+            "reason": "Use \"tell\" when there's an indirect object, not \"say\""
+        },
+        {
+            "sentence": "I am working on this project since last month.",
+            "wrong": "am working",
+            "correct": "have been working",
+            "reason": "Use present perfect continuous with \"since\""
+        },
+        {
+            "sentence": "She is more prettier than her older sister.",
+            "wrong": "more prettier",
+            "correct": "prettier",
+            "reason": "Don't use \"more\" with comparative \"-er\" forms"
+        },
+        {
+            "sentence": "I want to buy new shoes for going to school.",
+            "wrong": "for going",
+            "correct": "to go",
+            "reason": "Use \"to\" + infinitive to express purpose"
+        },
+        {
+            "sentence": "He has a lot of homeworks to finish tonight.",
+            "wrong": "homeworks",
+            "correct": "homework",
+            "reason": "\"Homework\" is uncountable — it has no plural form"
+        },
+        {
+            "sentence": "My teacher explain the lesson very clearly today.",
+            "wrong": "explain",
+            "correct": "explained",
+            "reason": "Use past tense for actions completed in the past"
+        },
+        {
+            "sentence": "She can speaks English and French very well.",
+            "wrong": "speaks",
+            "correct": "speak",
+            "reason": "After modal verbs, use the base form"
+        },
+        {
+            "sentence": "I am not agree with your opinion on this.",
+            "wrong": "am not agree",
+            "correct": "don't agree",
+            "reason": "\"Agree\" doesn't use \"be\" — use \"do/does/did\""
+        },
+        {
+            "sentence": "They was very happy about the test results.",
+            "wrong": "was",
+            "correct": "were",
+            "reason": "Plural subjects use \"were\" not \"was\""
+        },
+        {
+            "sentence": "I have seen this movie two times before now.",
+            "wrong": "two times",
+            "correct": "twice",
+            "reason": "Use \"once,\" \"twice,\" \"three times\" for frequency"
+        },
+        {
+            "sentence": "She is depend on her parents for everything.",
+            "wrong": "is depend",
+            "correct": "depends",
+            "reason": "\"Depend\" doesn't use \"be\" — use it alone"
+        },
+        {
+            "sentence": "He go to the gym every evening after school.",
+            "wrong": "go",
+            "correct": "goes",
+            "reason": "Third person singular requires \"-es\" ending"
+        },
+        {
+            "sentence": "I didn't went to the party last night unfortunately.",
+            "wrong": "went",
+            "correct": "go",
+            "reason": "After \"didn't,\" use the base form of the verb"
+        },
+        {
+            "sentence": "She is more better at English than mathematics.",
+            "wrong": "more better",
+            "correct": "better",
+            "reason": "\"Better\" is already comparative — don't add \"more\""
+        },
+        {
+            "sentence": "We must to finish our homework before dinner time.",
+            "wrong": "must to finish",
+            "correct": "must finish",
+            "reason": "Modal verbs don't use \"to\" — use base verb directly"
+        },
+        {
+            "sentence": "I am here since eight o'clock this morning.",
+            "wrong": "am",
+            "correct": "have been",
+            "reason": "Use present perfect with \"since\" for duration"
+        },
+        {
+            "sentence": "He enjoys to play football with his friends.",
+            "wrong": "to play",
+            "correct": "playing",
+            "reason": "\"Enjoy\" is followed by a gerund (-ing form)"
+        },
+        {
+            "sentence": "My house is more big than yours by far.",
+            "wrong": "more big",
+            "correct": "bigger",
+            "reason": "Use \"-er\" for short adjectives; don't add \"more\""
+        },
+        {
+            "sentence": "She doesn't needs any help with her homework.",
+            "wrong": "needs",
+            "correct": "need",
+            "reason": "After \"doesn't,\" use the base form of the verb"
+        },
+        {
+            "sentence": "I am interesting in learning about new cultures.",
+            "wrong": "interesting",
+            "correct": "interested",
+            "reason": "Use \"-ed\" adjectives for how people feel"
+        },
+        {
+            "sentence": "He finished to read the entire book yesterday.",
+            "wrong": "to read",
+            "correct": "reading",
+            "reason": "\"Finish\" is followed by a gerund, not infinitive"
+        },
+        {
+            "sentence": "I have wrote three essays for class this week.",
+            "wrong": "wrote",
+            "correct": "written",
+            "reason": "Present perfect uses past participle: \"have written\""
+        },
+        {
+            "sentence": "She suggested me to study harder for exams.",
+            "wrong": "me to study",
+            "correct": "that I study",
+            "reason": "\"Suggest\" takes a that-clause, not object + infinitive"
+        },
+        {
+            "sentence": "The homeworks was very difficult and long today.",
+            "wrong": "homeworks was",
+            "correct": "homework was",
+            "reason": "\"Homework\" is uncountable and always singular"
+        },
+        {
+            "sentence": "I am agree with everything you just said here.",
+            "wrong": "am agree",
+            "correct": "agree",
+            "reason": "\"Agree\" stands alone without \"be\""
+        },
+        {
+            "sentence": "He can to help you with that problem easily.",
+            "wrong": "to help",
+            "correct": "help",
+            "reason": "Modal verbs take the base verb without \"to\""
+        },
+        {
+            "sentence": "She is always coming late to class every day.",
+            "wrong": "is coming",
+            "correct": "comes",
+            "reason": "Use simple present for habits with \"always\""
+        },
+        {
+            "sentence": "I am owning three bikes and two skateboards now.",
+            "wrong": "am owning",
+            "correct": "own",
+            "reason": "\"Own\" is a stative verb — not used in continuous"
+        },
+        {
+            "sentence": "He has went to the store to buy milk.",
+            "wrong": "went",
+            "correct": "gone",
+            "reason": "Present perfect uses past participle: \"has gone\""
+        },
+        {
+            "sentence": "She said me that she was feeling very tired.",
+            "wrong": "said me",
+            "correct": "told me",
+            "reason": "Use \"tell\" with indirect objects, not \"say\""
+        },
+        {
+            "sentence": "I didn't finished my homework yet unfortunately.",
+            "wrong": "finished",
+            "correct": "finish",
+            "reason": "After \"didn't,\" use the base form of the verb"
+        },
+        {
+            "sentence": "The teacher is explain the lesson right now.",
+            "wrong": "is explain",
+            "correct": "is explaining",
+            "reason": "Present continuous requires \"-ing\" form of verb"
+        },
+        {
+            "sentence": "I am think about the answer to your question.",
+            "wrong": "am think",
+            "correct": "am thinking",
+            "reason": "Present continuous requires \"-ing\" form"
+        },
+        {
+            "sentence": "She avoid to eat too much sugar and candy.",
+            "wrong": "to eat",
+            "correct": "eating",
+            "reason": "\"Avoid\" is followed by a gerund, not infinitive"
+        },
+        {
+            "sentence": "He don't know the answer to this question.",
+            "wrong": "don't",
+            "correct": "doesn't",
+            "reason": "Third person singular requires \"doesn't\""
+        },
+        {
+            "sentence": "I have been to the mall two days ago.",
+            "wrong": "have been",
+            "correct": "went",
+            "reason": "Use simple past with specific past time markers"
+        },
+        {
+            "sentence": "She is more lazy than her twin sister completely.",
+            "wrong": "more lazy",
+            "correct": "lazier",
+            "reason": "Use \"-ier\" for two-syllable adjectives ending in -y"
+        },
+        {
+            "sentence": "He always forget to bring his notebook to class.",
+            "wrong": "forget",
+            "correct": "forgets",
+            "reason": "Third person singular requires \"-s\" on the verb"
+        },
+        {
+            "sentence": "I didn't knew the answer to that difficult question.",
+            "wrong": "knew",
+            "correct": "know",
+            "reason": "After \"didn't,\" use the base form of the verb"
+        },
+        {
+            "sentence": "She makes me to laugh with her funny jokes.",
+            "wrong": "to laugh",
+            "correct": "laugh",
+            "reason": "After \"make\" someone, use bare infinitive (no \"to\")"
+        },
+        {
+            "sentence": "I want to discuss about this problem with you.",
+            "wrong": "discuss about",
+            "correct": "discuss",
+            "reason": "\"Discuss\" doesn't need \"about\" — use it directly"
+        },
+        {
+            "sentence": "He is more good at science than at English.",
+            "wrong": "more good",
+            "correct": "better",
+            "reason": "\"Better\" is the comparative form of \"good\""
+        },
+        {
+            "sentence": "She have been studying English for three years now.",
+            "wrong": "have",
+            "correct": "has",
+            "reason": "Third person singular requires \"has\""
+        },
+        {
+            "sentence": "I am having a dog and two cats as pets.",
+            "wrong": "am having",
+            "correct": "have",
+            "reason": "\"Have\" (for possession) is stative — not continuous"
+        },
+        {
+            "sentence": "He suggested to me to study harder for tests.",
+            "wrong": "to me to study",
+            "correct": "that I study",
+            "reason": "\"Suggest\" takes a that-clause, not object + infinitive"
+        },
+        {
+            "sentence": "I have much books in my room at home.",
+            "wrong": "much",
+            "correct": "many",
+            "reason": "Use \"many\" for countable nouns like \"books\""
+        },
+        {
+            "sentence": "She is study for her exams all this week.",
+            "wrong": "is study",
+            "correct": "is studying",
+            "reason": "Present continuous requires \"-ing\" form"
+        },
+        {
+            "sentence": "They doesn't understand the lesson at all today.",
+            "wrong": "doesn't",
+            "correct": "don't",
+            "reason": "Plural subjects use \"don't\" not \"doesn't\""
+        },
+        {
+            "sentence": "I am not believe what he just said here.",
+            "wrong": "am not believe",
+            "correct": "don't believe",
+            "reason": "\"Believe\" doesn't use \"be\" — use \"do/does/did\""
+        },
+        {
+            "sentence": "He go home after school every single day.",
+            "wrong": "go",
+            "correct": "goes",
+            "reason": "Third person singular requires \"-es\" ending"
+        },
+        {
+            "sentence": "I didn't saw her at school today at all.",
+            "wrong": "saw",
+            "correct": "see",
+            "reason": "After \"didn't,\" use the base form of the verb"
+        },
+        {
+            "sentence": "She enjoys to listen to music in her bedroom.",
+            "wrong": "to listen",
+            "correct": "listening",
+            "reason": "\"Enjoy\" is followed by a gerund (-ing form)"
+        },
+        {
+            "sentence": "My teacher is very kind and helpful always.",
+            "wrong": "is",
+            "correct": "is",
+            "reason": "This sentence is actually correct!"
+        },
+        {
+            "sentence": "He must works harder if he wants to pass.",
+            "wrong": "works",
+            "correct": "work",
+            "reason": "After modal verbs, use the base form"
+        },
+        {
+            "sentence": "I have less pencils than my friend has now.",
+            "wrong": "less",
+            "correct": "fewer",
+            "reason": "Use \"fewer\" for countable nouns; \"less\" for uncountable"
+        },
+        {
+            "sentence": "She is wanting to visit her grandmother soon.",
+            "wrong": "is wanting",
+            "correct": "wants",
+            "reason": "\"Want\" is a stative verb — not used in continuous"
+        },
+        {
+            "sentence": "I am not knowing the answer to your question.",
+            "wrong": "am not knowing",
+            "correct": "don't know",
+            "reason": "\"Know\" is stative — use simple present negative"
+        },
+        {
+            "sentence": "He told that he would come to the party.",
+            "wrong": "told that",
+            "correct": "said that",
+            "reason": "\"Tell\" needs an object; use \"said\" for that-clauses"
+        },
+        {
+            "sentence": "I am love chocolate ice cream very much indeed.",
+            "wrong": "am love",
+            "correct": "love",
+            "reason": "\"Love\" is not used with \"be\" — use it alone"
+        },
+        {
+            "sentence": "She don't likes to wake up early on weekends.",
+            "wrong": "don't likes",
+            "correct": "doesn't like",
+            "reason": "Use \"doesn't\" + base verb for third person singular"
+        },
+        {
+            "sentence": "They was at the library all day yesterday long.",
+            "wrong": "was",
+            "correct": "were",
+            "reason": "Plural subjects use \"were\" not \"was\""
+        },
+        {
+            "sentence": "I have did all my homework already today.",
+            "wrong": "did",
+            "correct": "done",
+            "reason": "Present perfect uses past participle: \"have done\""
+        },
+        {
+            "sentence": "He is more strong than all his friends are.",
+            "wrong": "more strong",
+            "correct": "stronger",
+            "reason": "Use \"-er\" for short adjectives; don't add \"more\""
+        },
+        {
+            "sentence": "I didn't went to the party last night sadly.",
+            "wrong": "went",
+            "correct": "go",
+            "reason": "After \"didn't,\" use the base form of the verb"
+        },
+        {
+            "sentence": "She needs to be more careful when she crossing street.",
+            "wrong": "crossing",
+            "correct": "crosses",
+            "reason": "After \"when,\" use simple present for habitual actions"
+        },
+        {
+            "sentence": "I am preferring tea to coffee in the morning.",
+            "wrong": "am preferring",
+            "correct": "prefer",
+            "reason": "\"Prefer\" is a stative verb — not used in continuous"
+        },
+        {
+            "sentence": "He run every morning before going to school.",
+            "wrong": "run",
+            "correct": "runs",
+            "reason": "Third person singular requires \"-s\" on the verb"
+        },
+        {
+            "sentence": "She don't have any brothers or sisters at all.",
+            "wrong": "don't",
+            "correct": "doesn't",
+            "reason": "Third person singular requires \"doesn't\""
+        },
+        {
+            "sentence": "I am needing a new pen for my exam.",
+            "wrong": "am needing",
+            "correct": "need",
+            "reason": "\"Need\" is a stative verb — not used in continuous"
+        },
+        {
+            "sentence": "They was very excited about the school trip.",
+            "wrong": "was",
+            "correct": "were",
+            "reason": "Plural subjects use \"were\" not \"was\""
+        },
+        {
+            "sentence": "He is having two brothers and one sister.",
+            "wrong": "is having",
+            "correct": "has",
+            "reason": "\"Have\" for possession is stative — not continuous"
+        },
+        {
+            "sentence": "I didn't understand nothing in the lesson today.",
+            "wrong": "didn't understand nothing",
+            "correct": "didn't understand anything",
+            "reason": "Don't use double negatives in English"
+        },
+        {
+            "sentence": "She finish her homework before dinner every night.",
+            "wrong": "finish",
+            "correct": "finishes",
+            "reason": "Third person singular requires \"-es\" ending"
+        },
+        {
+            "sentence": "I have seen him last week at the mall.",
+            "wrong": "have seen",
+            "correct": "saw",
+            "reason": "Use simple past with specific past time markers"
+        },
+        {
+            "sentence": "He is more lazy than his brother by far.",
+            "wrong": "more lazy",
+            "correct": "lazier",
+            "reason": "Use \"-ier\" for two-syllable adjectives ending in -y"
+        },
+        {
+            "sentence": "She avoid to make mistakes in her writing.",
+            "wrong": "to make",
+            "correct": "making",
+            "reason": "\"Avoid\" is followed by a gerund, not infinitive"
+        },
+        {
+            "sentence": "I am live in a big house with my family.",
+            "wrong": "am live",
+            "correct": "live",
+            "reason": "\"Live\" doesn't use \"be\" in simple present"
+        },
+        {
+            "sentence": "He always forget his books at home unfortunately.",
+            "wrong": "forget",
+            "correct": "forgets",
+            "reason": "Third person singular requires \"-s\" on the verb"
+        },
+        {
+            "sentence": "We have less chairs than we need for everyone.",
+            "wrong": "less",
+            "correct": "fewer",
+            "reason": "Use \"fewer\" for countable nouns; \"less\" for uncountable"
+        },
+        {
+            "sentence": "She is wanting a new bicycle for her birthday.",
+            "wrong": "is wanting",
+            "correct": "wants",
+            "reason": "\"Want\" is a stative verb — not used in continuous"
+        },
+        {
+            "sentence": "I enjoy to play video games with my friends.",
+            "wrong": "to play",
+            "correct": "playing",
+            "reason": "\"Enjoy\" is followed by a gerund (-ing form)"
+        },
+        {
+            "sentence": "He is depend on his parents for all his needs.",
+            "wrong": "is depend",
+            "correct": "depends",
+            "reason": "\"Depend\" doesn't use \"be\" — use it alone"
+        },
+        {
+            "sentence": "My teacher give us homework every single day.",
+            "wrong": "give",
+            "correct": "gives",
+            "reason": "Third person singular requires \"-s\" on the verb"
+        },
+        {
+            "sentence": "I didn't went to school yesterday because I was sick.",
+            "wrong": "went",
+            "correct": "go",
+            "reason": "After \"didn't,\" use the base form of the verb"
+        },
+        {
+            "sentence": "She is more better than me at mathematics now.",
+            "wrong": "more better",
+            "correct": "better",
+            "reason": "\"Better\" is already comparative — don't add \"more\""
+        },
+        {
+            "sentence": "He can plays the guitar very well indeed.",
+            "wrong": "plays",
+            "correct": "play",
+            "reason": "After modal verbs, use the base form"
+        },
+        {
+            "sentence": "I am knowing all the students in my class.",
+            "wrong": "am knowing",
+            "correct": "know",
+            "reason": "\"Know\" is a stative verb — not used in continuous"
+        },
+        {
+            "sentence": "They doesn't understand the homework assignment today.",
+            "wrong": "doesn't",
+            "correct": "don't",
+            "reason": "Plural subjects use \"don't\" not \"doesn't\""
+        },
+        {
+            "sentence": "She suggested me that I should study harder.",
+            "wrong": "me that",
+            "correct": "that",
+            "reason": "\"Suggest\" takes a that-clause without object pronoun"
+        },
+        {
+            "sentence": "I have much pens in my pencil case now.",
+            "wrong": "much",
+            "correct": "many",
+            "reason": "Use \"many\" for countable nouns like \"pens\""
+        },
+        {
+            "sentence": "He is believe in working hard to achieve goals.",
+            "wrong": "is believe",
+            "correct": "believes",
+            "reason": "\"Believe\" doesn't use \"be\" — use it alone"
+        },
+        {
+            "sentence": "I didn't finished my project yet unfortunately today.",
+            "wrong": "finished",
+            "correct": "finish",
+            "reason": "After \"didn't,\" use the base form of the verb"
+        },
+        {
+            "sentence": "She is more tall than all her classmates are.",
+            "wrong": "more tall",
+            "correct": "taller",
+            "reason": "Use \"-er\" for short adjectives; don't add \"more\""
+        },
+        {
+            "sentence": "He enjoy to watch movies on the weekend always.",
+            "wrong": "to watch",
+            "correct": "watching",
+            "reason": "\"Enjoy\" is followed by a gerund (-ing form)"
+        },
+        {
+            "sentence": "I am agree with your answer to this question.",
+            "wrong": "am agree",
+            "correct": "agree",
+            "reason": "\"Agree\" doesn't use \"be\" — use it alone"
+        },
+        {
+            "sentence": "They was at the park yesterday afternoon late.",
+            "wrong": "was",
+            "correct": "were",
+            "reason": "Plural subjects use \"were\" not \"was\""
+        },
+        {
+            "sentence": "She don't likes to wake up early on weekends.",
+            "wrong": "don't likes",
+            "correct": "doesn't like",
+            "reason": "Use \"doesn't\" + base verb for third person singular"
+        },
+        {
+            "sentence": "I have saw this movie three times before now.",
+            "wrong": "saw",
+            "correct": "seen",
+            "reason": "Present perfect uses past participle: \"have seen\""
+        },
+        {
+            "sentence": "He is more good at football than basketball today.",
+            "wrong": "more good",
+            "correct": "better",
+            "reason": "\"Better\" is the comparative form of \"good\""
+        },
+        {
+            "sentence": "I am understand the lesson very well right now.",
+            "wrong": "am understand",
+            "correct": "understand",
+            "reason": "\"Understand\" doesn't use \"be\" in simple present"
+        },
+        {
+            "sentence": "She avoid to eat junk food and unhealthy snacks.",
+            "wrong": "to eat",
+            "correct": "eating",
+            "reason": "\"Avoid\" is followed by a gerund, not infinitive"
+        },
+        {
+            "sentence": "He don't know the answer to the question today.",
+            "wrong": "don't",
+            "correct": "doesn't",
+            "reason": "Third person singular requires \"doesn't\""
+        },
+        {
+            "sentence": "I didn't saw her at school today at all unfortunately.",
+            "wrong": "saw",
+            "correct": "see",
+            "reason": "After \"didn't,\" use the base form of the verb"
+        },
+        {
+            "sentence": "She is more beautiful than all the other girls.",
+            "wrong": "more beautiful",
+            "correct": "more beautiful",
+            "reason": "This sentence is actually correct for long adjectives!"
+        },
+        {
+            "sentence": "He always come late to class every single day.",
+            "wrong": "come",
+            "correct": "comes",
+            "reason": "Third person singular requires \"-s\" on the verb"
+        },
+        {
+            "sentence": "I am having three pencils in my bag right now.",
+            "wrong": "am having",
+            "correct": "have",
+            "reason": "\"Have\" for possession is stative — not continuous"
+        },
+        {
+            "sentence": "She finish her work before going home every day.",
+            "wrong": "finish",
+            "correct": "finishes",
+            "reason": "Third person singular requires \"-es\" ending"
+        },
+        {
+            "sentence": "I enjoy to read books in my free time always.",
+            "wrong": "to read",
+            "correct": "reading",
+            "reason": "\"Enjoy\" is followed by a gerund (-ing form)"
+        },
+        {
+            "sentence": "He is knowing the way to the library very well.",
+            "wrong": "is knowing",
+            "correct": "knows",
+            "reason": "\"Know\" is a stative verb — not used in continuous"
+        },
+        {
+            "sentence": "They was very happy about their test results today.",
+            "wrong": "was",
+            "correct": "were",
+            "reason": "Plural subjects use \"were\" not \"was\""
+        },
+        {
+            "sentence": "She don't have any homework this weekend at all.",
+            "wrong": "don't",
+            "correct": "doesn't",
+            "reason": "Third person singular requires \"doesn't\""
+        },
+        {
+            "sentence": "I have much friends in my neighborhood now.",
+            "wrong": "much",
+            "correct": "many",
+            "reason": "Use \"many\" for countable nouns like \"friends\""
+        },
+        {
+            "sentence": "He is more strong than his younger brother is.",
+            "wrong": "more strong",
+            "correct": "stronger",
+            "reason": "Use \"-er\" for short adjectives; don't add \"more\""
+        },
+        {
+            "sentence": "I didn't finished my breakfast this morning early.",
+            "wrong": "finished",
+            "correct": "finish",
+            "reason": "After \"didn't,\" use the base form of the verb"
+        },
+        {
+            "sentence": "She avoid to make the same mistake twice ever.",
+            "wrong": "to make",
+            "correct": "making",
+            "reason": "\"Avoid\" is followed by a gerund, not infinitive"
+        },
+        {
+            "sentence": "I am liking this new book very much indeed now.",
+            "wrong": "am liking",
+            "correct": "like",
+            "reason": "\"Like\" is a stative verb — not used in continuous"
+        },
+        {
+            "sentence": "He study hard for all his exams every time.",
+            "wrong": "study",
+            "correct": "studies",
+            "reason": "Third person singular requires \"-ies\" ending"
+        },
+        {
+            "sentence": "I have less books than my brother has now.",
+            "wrong": "less",
+            "correct": "fewer",
+            "reason": "Use \"fewer\" for countable nouns; \"less\" for uncountable"
+        },
+        {
+            "sentence": "She is wanting to be a teacher in the future.",
+            "wrong": "is wanting",
+            "correct": "wants",
+            "reason": "\"Want\" is a stative verb — not used in continuous"
+        },
+        {
+            "sentence": "He enjoy to play basketball after school daily.",
+            "wrong": "to play",
+            "correct": "playing",
+            "reason": "\"Enjoy\" is followed by a gerund (-ing form)"
+        },
+        {
+            "sentence": "I am agree with everything you said just now.",
+            "wrong": "am agree",
+            "correct": "agree",
+            "reason": "\"Agree\" doesn't use \"be\" — use it alone"
+        },
+        {
+            "sentence": "They was at the beach all day yesterday long.",
+            "wrong": "was",
+            "correct": "were",
+            "reason": "Plural subjects use \"were\" not \"was\""
+        },
+        {
+            "sentence": "She don't likes chocolate ice cream at all ever.",
+            "wrong": "don't likes",
+            "correct": "doesn't like",
+            "reason": "Use \"doesn't\" + base verb for third person singular"
+        },
+        {
+            "sentence": "I have went to the park yesterday with friends.",
+            "wrong": "went",
+            "correct": "gone",
+            "reason": "Present perfect uses past participle: \"have gone\""
+        },
+        {
+            "sentence": "He is more smart than all his classmates are.",
+            "wrong": "more smart",
+            "correct": "smarter",
+            "reason": "Use \"-er\" for short adjectives; don't add \"more\""
+        },
+        {
+            "sentence": "I am understand your point very clearly now indeed.",
+            "wrong": "am understand",
+            "correct": "understand",
+            "reason": "\"Understand\" doesn't use \"be\" in simple present"
+        },
+        {
+            "sentence": "She avoid to talk to strangers on the street.",
+            "wrong": "to talk",
+            "correct": "talking",
+            "reason": "\"Avoid\" is followed by a gerund, not infinitive"
+        },
+        {
+            "sentence": "He don't have any brothers or sisters at home.",
+            "wrong": "don't",
+            "correct": "doesn't",
+            "reason": "Third person singular requires \"doesn't\""
+        },
+        {
+            "sentence": "I didn't saw the movie last weekend at all.",
+            "wrong": "saw",
+            "correct": "see",
+            "reason": "After \"didn't,\" use the base form of the verb"
+        },
+        {
+            "sentence": "She is more happy than she was before now.",
+            "wrong": "more happy",
+            "correct": "happier",
+            "reason": "Use \"-ier\" for two-syllable adjectives ending in -y"
+        },
+        {
+            "sentence": "He always forget to do his homework every night.",
+            "wrong": "forget",
+            "correct": "forgets",
+            "reason": "Third person singular requires \"-s\" on the verb"
+        },
+        {
+            "sentence": "I am having two brothers and three sisters now.",
+            "wrong": "am having",
+            "correct": "have",
+            "reason": "\"Have\" for possession is stative — not continuous"
+        },
+        {
+            "sentence": "She finish her lunch before the bell rang today.",
+            "wrong": "finish",
+            "correct": "finishes",
+            "reason": "Third person singular requires \"-es\" ending"
+        },
+        {
+            "sentence": "I enjoy to listen to music in my room always.",
+            "wrong": "to listen",
+            "correct": "listening",
+            "reason": "\"Enjoy\" is followed by a gerund (-ing form)"
+        },
+        {
+            "sentence": "He is knowing all the answers to the test now.",
+            "wrong": "is knowing",
+            "correct": "knows",
+            "reason": "\"Know\" is a stative verb — not used in continuous"
+        },
+        {
+            "sentence": "They was very tired after the long day yesterday.",
+            "wrong": "was",
+            "correct": "were",
+            "reason": "Plural subjects use \"were\" not \"was\""
+        },
+        {
+            "sentence": "She don't understand the math problem at all today.",
+            "wrong": "don't",
+            "correct": "doesn't",
+            "reason": "Third person singular requires \"doesn't\""
+        },
+        {
+            "sentence": "I have much pencils and pens in my bag.",
+            "wrong": "much",
+            "correct": "many",
+            "reason": "Use \"many\" for countable nouns like \"pencils\""
+        },
+        {
+            "sentence": "He is more tall than his father by far now.",
+            "wrong": "more tall",
+            "correct": "taller",
+            "reason": "Use \"-er\" for short adjectives; don't add \"more\""
+        },
+        {
+            "sentence": "I didn't finished reading the book yet unfortunately.",
+            "wrong": "finished",
+            "correct": "finish",
+            "reason": "After \"didn't,\" use the base form of the verb"
+        },
+        {
+            "sentence": "She avoid to eat fast food every day always.",
+            "wrong": "to eat",
+            "correct": "eating",
+            "reason": "\"Avoid\" is followed by a gerund, not infinitive"
+        },
+        {
+            "sentence": "I am liking the new teacher very much indeed.",
+            "wrong": "am liking",
+            "correct": "like",
+            "reason": "\"Like\" is a stative verb — not used in continuous"
+        },
+        {
+            "sentence": "He play football every weekend with his friends.",
+            "wrong": "play",
+            "correct": "plays",
+            "reason": "Third person singular requires \"-s\" on the verb"
+        },
+        {
+            "sentence": "I have less notebooks than I need for school.",
+            "wrong": "less",
+            "correct": "fewer",
+            "reason": "Use \"fewer\" for countable nouns; \"less\" for uncountable"
+        },
+        {
+            "sentence": "She is preferring tea to coffee every morning.",
+            "wrong": "is preferring",
+            "correct": "prefers",
+            "reason": "\"Prefer\" is a stative verb — not used in continuous"
+        },
+        {
+            "sentence": "He enjoy to watch TV after dinner every night.",
+            "wrong": "to watch",
+            "correct": "watching",
+            "reason": "\"Enjoy\" is followed by a gerund (-ing form)"
+        },
+        {
+            "sentence": "I am agree with your decision completely now.",
+            "wrong": "am agree",
+            "correct": "agree",
+            "reason": "\"Agree\" doesn't use \"be\" — use it alone"
+        },
+        {
+            "sentence": "They was at the museum yesterday afternoon late.",
+            "wrong": "was",
+            "correct": "were",
+            "reason": "Plural subjects use \"were\" not \"was\""
+        },
+        {
+            "sentence": "She don't wants to go to school today at all.",
+            "wrong": "don't wants",
+            "correct": "doesn't want",
+            "reason": "Use \"doesn't\" + base verb for third person singular"
+        },
+        {
+            "sentence": "I have wrote many essays for class this year.",
+            "wrong": "wrote",
+            "correct": "written",
+            "reason": "Present perfect uses past participle: \"have written\""
+        },
+        {
+            "sentence": "He is more good at English than science now.",
+            "wrong": "more good",
+            "correct": "better",
+            "reason": "\"Better\" is the comparative form of \"good\""
+        },
+        {
+            "sentence": "I am understand the homework very well today.",
+            "wrong": "am understand",
+            "correct": "understand",
+            "reason": "\"Understand\" doesn't use \"be\" in simple present"
+        },
+        {
+            "sentence": "She avoid to make noise in the library always.",
+            "wrong": "to make",
+            "correct": "making",
+            "reason": "\"Avoid\" is followed by a gerund, not infinitive"
+        },
+        {
+            "sentence": "He don't know what to do about this problem.",
+            "wrong": "don't",
+            "correct": "doesn't",
+            "reason": "Third person singular requires \"doesn't\""
+        },
+        {
+            "sentence": "I didn't went to the party last night sadly.",
+            "wrong": "went",
+            "correct": "go",
+            "reason": "After \"didn't,\" use the base form of the verb"
+        },
+        {
+            "sentence": "She is more beautiful than her sister by far.",
+            "wrong": "is more beautiful",
+            "correct": "is more beautiful",
+            "reason": "This is correct — use \"more\" with long adjectives!"
+        },
+        {
+            "sentence": "He always come to school on time every day.",
+            "wrong": "come",
+            "correct": "comes",
+            "reason": "Third person singular requires \"-s\" on the verb"
+        },
+        {
+            "sentence": "I am having a pet cat at home right now.",
+            "wrong": "am having",
+            "correct": "have",
+            "reason": "\"Have\" for possession is stative — not continuous"
+        },
+        {
+            "sentence": "She finish her test before everyone else today.",
+            "wrong": "finish",
+            "correct": "finishes",
+            "reason": "Third person singular requires \"-es\" ending"
+        },
+        {
+            "sentence": "I enjoy to spend time with my family always.",
+            "wrong": "to spend",
+            "correct": "spending",
+            "reason": "\"Enjoy\" is followed by a gerund (-ing form)"
+        },
+        {
+            "sentence": "He is knowing the answer but won't say it.",
+            "wrong": "is knowing",
+            "correct": "knows",
+            "reason": "\"Know\" is a stative verb — not used in continuous"
+        },
+        {
+            "sentence": "They was very happy about winning the game.",
+            "wrong": "was",
+            "correct": "were",
+            "reason": "Plural subjects use \"were\" not \"was\""
+        },
+        {
+            "sentence": "She don't have time to finish this project.",
+            "wrong": "don't",
+            "correct": "doesn't",
+            "reason": "Third person singular requires \"doesn't\""
+        },
+        {
+            "sentence": "I have much homework to do tonight sadly.",
+            "wrong": "much homework",
+            "correct": "much homework",
+            "reason": "This is correct — \"homework\" is uncountable!"
+        },
+        {
+            "sentence": "He is more fast than all the other runners.",
+            "wrong": "more fast",
+            "correct": "faster",
+            "reason": "Use \"-er\" for short adjectives; don't add \"more\""
+        },
+        {
+            "sentence": "I didn't finished the assignment on time today.",
+            "wrong": "finished",
+            "correct": "finish",
+            "reason": "After \"didn't,\" use the base form of the verb"
+        },
+        {
+            "sentence": "She avoid to go to crowded places always.",
+            "wrong": "to go",
+            "correct": "going",
+            "reason": "\"Avoid\" is followed by a gerund, not infinitive"
+        },
+        {
+            "sentence": "I am liking this song very much right now.",
+            "wrong": "am liking",
+            "correct": "like",
+            "reason": "\"Like\" is a stative verb — not used in continuous"
+        },
+        {
+            "sentence": "He write in his journal every night before bed.",
+            "wrong": "write",
+            "correct": "writes",
+            "reason": "Third person singular requires \"-s\" on the verb"
+        },
+        {
+            "sentence": "I have less apples than oranges in my bag.",
+            "wrong": "less",
+            "correct": "fewer",
+            "reason": "Use \"fewer\" for countable nouns; \"less\" for uncountable"
+        },
+        {
+            "sentence": "She is wanting a new phone for her birthday.",
+            "wrong": "is wanting",
+            "correct": "wants",
+            "reason": "\"Want\" is a stative verb — not used in continuous"
+        },
+        {
+            "sentence": "He enjoy to read comic books on weekends.",
+            "wrong": "to read",
+            "correct": "reading",
+            "reason": "\"Enjoy\" is followed by a gerund (-ing form)"
+        },
+        {
+            "sentence": "I am agree with what the teacher said today.",
+            "wrong": "am agree",
+            "correct": "agree",
+            "reason": "\"Agree\" doesn't use \"be\" — use it alone"
+        },
+        {
+            "sentence": "They was at the library yesterday evening late.",
+            "wrong": "was",
+            "correct": "were",
+            "reason": "Plural subjects use \"were\" not \"was\""
+        },
+        {
+            "sentence": "She don't likes vegetables at all unfortunately.",
+            "wrong": "don't likes",
+            "correct": "doesn't like",
+            "reason": "Use \"doesn't\" + base verb for third person singular"
+        },
+        {
+            "sentence": "I have did all my chores already today.",
+            "wrong": "did",
+            "correct": "done",
+            "reason": "Present perfect uses past participle: \"have done\""
+        },
+        {
+            "sentence": "He is more intelligent than his classmates are.",
+            "wrong": "is more intelligent",
+            "correct": "is more intelligent",
+            "reason": "This is correct — use \"more\" with long adjectives!"
+        },
+        {
+            "sentence": "I am understand why she is upset now.",
+            "wrong": "am understand",
+            "correct": "understand",
+            "reason": "\"Understand\" doesn't use \"be\" in simple present"
+        },
+        {
+            "sentence": "She avoid to eat sweets before dinner always.",
+            "wrong": "to eat",
+            "correct": "eating",
+            "reason": "\"Avoid\" is followed by a gerund, not infinitive"
+        },
+        {
+            "sentence": "He don't wants to play outside today at all.",
+            "wrong": "don't wants",
+            "correct": "doesn't want",
+            "reason": "Use \"doesn't\" + base verb for third person singular"
+        },
+        {
+            "sentence": "I didn't saw my friend at the park yesterday.",
+            "wrong": "saw",
+            "correct": "see",
+            "reason": "After \"didn't,\" use the base form of the verb"
+        },
+        {
+            "sentence": "She is more kind than anyone I know here.",
+            "wrong": "more kind",
+            "correct": "kinder",
+            "reason": "Use \"-er\" for short adjectives; don't add \"more\""
+        },
+        {
+            "sentence": "He always arrive early to class every day.",
+            "wrong": "arrive",
+            "correct": "arrives",
+            "reason": "Third person singular requires \"-s\" on the verb"
+        },
+        {
+            "sentence": "I am having one sister and two brothers now.",
+            "wrong": "am having",
+            "correct": "have",
+            "reason": "\"Have\" for possession is stative — not continuous"
+        },
+        {
+            "sentence": "She finish her breakfast quickly every morning.",
+            "wrong": "finish",
+            "correct": "finishes",
+            "reason": "Third person singular requires \"-es\" ending"
+        },
+        {
+            "sentence": "I enjoy to help my mother with cooking.",
+            "wrong": "to help",
+            "correct": "helping",
+            "reason": "\"Enjoy\" is followed by a gerund (-ing form)"
+        },
+        {
+            "sentence": "He is knowing where the library is located.",
+            "wrong": "is knowing",
+            "correct": "knows",
+            "reason": "\"Know\" is a stative verb — not used in continuous"
+        },
+        {
+            "sentence": "They was very excited about the school event.",
+            "wrong": "was",
+            "correct": "were",
+            "reason": "Plural subjects use \"were\" not \"was\""
+        },
+        {
+            "sentence": "She don't have enough money for lunch today.",
+            "wrong": "don't",
+            "correct": "doesn't",
+            "reason": "Third person singular requires \"doesn't\""
+        },
+        {
+            "sentence": "I have much books on my shelf at home.",
+            "wrong": "much",
+            "correct": "many",
+            "reason": "Use \"many\" for countable nouns like \"books\""
+        },
+        {
+            "sentence": "He is more strong than he was last year.",
+            "wrong": "more strong",
+            "correct": "stronger",
+            "reason": "Use \"-er\" for short adjectives; don't add \"more\""
+        },
+        {
+            "sentence": "I didn't finished my work before the deadline.",
+            "wrong": "finished",
+            "correct": "finish",
+            "reason": "After \"didn't,\" use the base form of the verb"
+        },
+        {
+            "sentence": "She avoid to walk alone at night for safety.",
+            "wrong": "to walk",
+            "correct": "walking",
+            "reason": "\"Avoid\" is followed by a gerund, not infinitive"
+        },
+        {
+            "sentence": "I am liking my new school very much now.",
+            "wrong": "am liking",
+            "correct": "like",
+            "reason": "\"Like\" is a stative verb — not used in continuous"
+        },
+        {
+            "sentence": "He walk to school every day rain or shine.",
+            "wrong": "walk",
+            "correct": "walks",
+            "reason": "Third person singular requires \"-s\" on the verb"
+        },
+        {
+            "sentence": "I have less chairs than tables in my room.",
+            "wrong": "less",
+            "correct": "fewer",
+            "reason": "Use \"fewer\" for countable nouns; \"less\" for uncountable"
+        },
+        {
+            "sentence": "She is preferring summer to winter every year.",
+            "wrong": "is preferring",
+            "correct": "prefers",
+            "reason": "\"Prefer\" is a stative verb — not used in continuous"
+        },
+        {
+            "sentence": "He enjoy to learn new things every day.",
+            "wrong": "to learn",
+            "correct": "learning",
+            "reason": "\"Enjoy\" is followed by a gerund (-ing form)"
+        },
+        {
+            "sentence": "I am agree with your suggestion about this.",
+            "wrong": "am agree",
+            "correct": "agree",
+            "reason": "\"Agree\" doesn't use \"be\" — use it alone"
+        },
+        {
+            "sentence": "They was at home all weekend watching movies.",
+            "wrong": "was",
+            "correct": "were",
+            "reason": "Plural subjects use \"were\" not \"was\""
+        },
+        {
+            "sentence": "She don't likes to get up early on weekends.",
+            "wrong": "don't likes",
+            "correct": "doesn't like",
+            "reason": "Use \"doesn't\" + base verb for third person singular"
+        },
+        {
+            "sentence": "I have ate lunch already an hour ago.",
+            "wrong": "ate",
+            "correct": "eaten",
+            "reason": "Present perfect uses past participle: \"have eaten\""
+        },
+        {
+            "sentence": "He is more brave than his friends are now.",
+            "wrong": "more brave",
+            "correct": "braver",
+            "reason": "Use \"-er\" for short adjectives; don't add \"more\""
+        },
+        {
+            "sentence": "I am understand the instructions perfectly now.",
+            "wrong": "am understand",
+            "correct": "understand",
+            "reason": "\"Understand\" doesn't use \"be\" in simple present"
+        },
+        {
+            "sentence": "She avoid to use her phone in class.",
+            "wrong": "to use",
+            "correct": "using",
+            "reason": "\"Avoid\" is followed by a gerund, not infinitive"
+        },
+        {
+            "sentence": "He don't have any free time this week.",
+            "wrong": "don't",
+            "correct": "doesn't",
+            "reason": "Third person singular requires \"doesn't\""
+        },
+        {
+            "sentence": "I didn't saw the teacher in the hallway today.",
+            "wrong": "saw",
+            "correct": "see",
+            "reason": "After \"didn't,\" use the base form of the verb"
+        },
+        {
+            "sentence": "She is more young than she looks actually.",
+            "wrong": "more young",
+            "correct": "younger",
+            "reason": "Use \"-er\" for short adjectives; don't add \"more\""
+        },
+        {
+            "sentence": "He always forget to bring his lunch from home.",
+            "wrong": "forget",
+            "correct": "forgets",
+            "reason": "Third person singular requires \"-s\" on the verb"
+        },
+        {
+            "sentence": "I am having blue eyes and brown hair now.",
+            "wrong": "am having",
+            "correct": "have",
+            "reason": "\"Have\" for physical features is stative — not continuous"
+        },
+        {
+            "sentence": "She finish all her work before leaving school.",
+            "wrong": "finish",
+            "correct": "finishes",
+            "reason": "Third person singular requires \"-es\" ending"
+        },
+        {
+            "sentence": "I enjoy to draw pictures in my free time.",
+            "wrong": "to draw",
+            "correct": "drawing",
+            "reason": "\"Enjoy\" is followed by a gerund (-ing form)"
+        },
+        {
+            "sentence": "He is knowing the rules of the game well.",
+            "wrong": "is knowing",
+            "correct": "knows",
+            "reason": "\"Know\" is a stative verb — not used in continuous"
+        },
+        {
+            "sentence": "They was very proud of their achievements today.",
+            "wrong": "was",
+            "correct": "were",
+            "reason": "Plural subjects use \"were\" not \"was\""
+        },
+        {
+            "sentence": "She don't understand why this happened today.",
+            "wrong": "don't",
+            "correct": "doesn't",
+            "reason": "Third person singular requires \"doesn't\""
+        },
+        {
+            "sentence": "I have less pencils than I thought I had.",
+            "wrong": "less",
+            "correct": "fewer",
+            "reason": "Use \"fewer\" for countable nouns; \"less\" for uncountable"
+        },
+        {
+            "sentence": "My teacher speak English very well every day.",
+            "wrong": "speak",
+            "correct": "speaks",
+            "reason": "Third person singular requires \"-s\" on the verb"
+        },
+        {
+            "sentence": "I am needing help with this math problem now.",
+            "wrong": "am needing",
+            "correct": "need",
+            "reason": "\"Need\" is a stative verb — not used in continuous"
+        },
+        {
+            "sentence": "She enjoy to go swimming in the summer.",
+            "wrong": "to go",
+            "correct": "going",
+            "reason": "\"Enjoy\" is followed by a gerund (-ing form)"
+        },
+        {
+            "sentence": "He don't likes to eat vegetables at all.",
+            "wrong": "don't likes",
+            "correct": "doesn't like",
+            "reason": "Use \"doesn't\" + base verb for third person singular"
+        },
+        {
+            "sentence": "I have less friends than my sister has.",
+            "wrong": "less",
+            "correct": "fewer",
+            "reason": "Use \"fewer\" for countable nouns; \"less\" for uncountable"
+        },
+        {
+            "sentence": "They was playing football in the park yesterday.",
+            "wrong": "was",
+            "correct": "were",
+            "reason": "Plural subjects use \"were\" not \"was\""
+        },
+        {
+            "sentence": "She is more tall than her mother is.",
+            "wrong": "more tall",
+            "correct": "taller",
+            "reason": "Use \"-er\" for short adjectives; don't add \"more\""
+        },
+        {
+            "sentence": "I didn't saw the bus this morning at all.",
+            "wrong": "saw",
+            "correct": "see",
+            "reason": "After \"didn't,\" use the base form of the verb"
+        },
+        {
+            "sentence": "He avoid to make mistakes on the test.",
+            "wrong": "to make",
+            "correct": "making",
+            "reason": "\"Avoid\" is followed by a gerund, not infinitive"
+        },
+        {
+            "sentence": "I am knowing the answer to every question.",
+            "wrong": "am knowing",
+            "correct": "know",
+            "reason": "\"Know\" is a stative verb — not used in continuous"
+        },
+        {
+            "sentence": "She have finished her homework already today.",
+            "wrong": "have",
+            "correct": "has",
+            "reason": "Third person singular requires \"has\""
+        }
+    ]
+}

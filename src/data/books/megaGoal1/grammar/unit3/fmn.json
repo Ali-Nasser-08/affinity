@@ -1,0 +1,1269 @@
+{
+  "unit": "Mega Goal 1",
+  "lesson": "Unit 3",
+  "type": "Form, Meaning, and Function",
+  "clusters": [
+    {
+      "clusterId": "cluster-1",
+      "title": "Present Simple vs Present Progressive",
+      "cards": [
+        {
+          "id": "card-1",
+          "content": [
+            {
+              "text": "Present Simple",
+              "highlight": true
+            },
+            {
+              "text": " versus ",
+              "highlight": true
+            },
+            {
+              "text": "Present Progressive",
+              "highlight": true
+            },
+            {
+              "text": "الحاضر البسيط مقابل الحاضر المستمر"
+            }
+          ]
+        },
+        {
+          "id": "card-2",
+          "content": [
+            {
+              "text": "The "
+            },
+            {
+              "text": "simple present",
+              "colorize": true
+            },
+            {
+              "text": " describes "
+            },
+            {
+              "text": "repeated activities",
+              "colorize2": true
+            },
+            {
+              "text": " and "
+            },
+            {
+              "text": "regular schedules",
+              "colorize2": true
+            },
+            {
+              "text": "يصف "
+            },
+            {
+              "text": "الحاضر البسيط",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "الأنشطة المتكررة",
+              "colorize2": true
+            },
+            {
+              "text": " و"
+            },
+            {
+              "text": "الجداول المنتظمة",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "example",
+          "content": [
+            {
+              "text": "Sara "
+            },
+            {
+              "text": "studies",
+              "colorize": true
+            },
+            {
+              "text": " at King Saud University"
+            },
+            {
+              "text": "سارة "
+            },
+            {
+              "text": "تدرس",
+              "colorize": true
+            },
+            {
+              "text": " في جامعة الملك سعود"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "example",
+          "content": [
+            {
+              "text": "My father "
+            },
+            {
+              "text": "teaches",
+              "colorize": true
+            },
+            {
+              "text": " mathematics every morning"
+            },
+            {
+              "text": "والدي "
+            },
+            {
+              "text": "يدرّس",
+              "colorize": true
+            },
+            {
+              "text": " الرياضيات كل صباح"
+            }
+          ]
+        },
+        {
+          "id": "card-5",
+          "content": [
+            {
+              "text": "The "
+            },
+            {
+              "text": "present progressive",
+              "colorize": true
+            },
+            {
+              "text": " shows "
+            },
+            {
+              "text": "what's happening right now",
+              "colorize2": true
+            },
+            {
+              "text": " or a "
+            },
+            {
+              "text": "short-term activity",
+              "colorize2": true
+            },
+            {
+              "text": "يظهر "
+            },
+            {
+              "text": "الحاضر المستمر",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "ما يحدث الآن",
+              "colorize2": true
+            },
+            {
+              "text": " أو "
+            },
+            {
+              "text": "نشاط قصير المدى",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "example",
+          "content": [
+            {
+              "text": "Ahmed "
+            },
+            {
+              "text": "is learning",
+              "colorize": true
+            },
+            {
+              "text": " English this semester"
+            },
+            {
+              "text": "أحمد "
+            },
+            {
+              "text": "يتعلم",
+              "colorize": true
+            },
+            {
+              "text": " الإنجليزية هذا الفصل"
+            }
+          ]
+        },
+        {
+          "id": "card-7",
+          "type": "example",
+          "content": [
+            {
+              "text": "They "
+            },
+            {
+              "text": "are building",
+              "colorize": true
+            },
+            {
+              "text": " a new library near our school"
+            },
+            {
+              "text": "هم "
+            },
+            {
+              "text": "يبنون",
+              "colorize": true
+            },
+            {
+              "text": " مكتبة جديدة بالقرب من مدرستنا"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-2",
+      "title": "Present Progressive for the Future",
+      "cards": [
+        {
+          "id": "card-8",
+          "content": [
+            {
+              "text": "Present Progressive",
+              "highlight": true
+            },
+            {
+              "text": " for the Future"
+            },
+            {
+              "text": "الحاضر المستمر للمستقبل"
+            }
+          ]
+        },
+        {
+          "id": "card-9",
+          "content": [
+            {
+              "text": "The present progressive can express "
+            },
+            {
+              "text": "fixed plans",
+              "colorize2": true
+            },
+            {
+              "text": " and "
+            },
+            {
+              "text": "future appointments",
+              "colorize2": true
+            },
+            {
+              "text": "يمكن للحاضر المستمر التعبير عن "
+            },
+            {
+              "text": "الخطط الثابتة",
+              "colorize2": true
+            },
+            {
+              "text": " و"
+            },
+            {
+              "text": "المواعيد المستقبلية",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-10",
+          "type": "example",
+          "content": [
+            {
+              "text": "Q: When are you "
+            },
+            {
+              "text": "traveling",
+              "colorize": true
+            },
+            {
+              "text": " to Jeddah?"
+            },
+            {
+              "text": "س: متى "
+            },
+            {
+              "text": "تسافر",
+              "colorize": true
+            },
+            {
+              "text": " إلى جدة؟"
+            }
+          ]
+        },
+        {
+          "id": "card-11",
+          "type": "example",
+          "content": [
+            {
+              "text": "A: We're "
+            },
+            {
+              "text": "leaving",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "this Friday",
+              "colorize3": true
+            },
+            {
+              "text": "ج: "
+            },
+            {
+              "text": "سنغادر",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "يوم الجمعة هذا",
+              "colorize3": true
+            }
+          ]
+        },
+        {
+          "id": "card-12",
+          "type": "example",
+          "content": [
+            {
+              "text": "Q: When is the conference "
+            },
+            {
+              "text": "starting",
+              "colorize": true
+            },
+            {
+              "text": "?"
+            },
+            {
+              "text": "س: متى "
+            },
+            {
+              "text": "يبدأ",
+              "colorize": true
+            },
+            {
+              "text": " المؤتمر؟"
+            }
+          ]
+        },
+        {
+          "id": "card-13",
+          "type": "example",
+          "content": [
+            {
+              "text": "A: It's "
+            },
+            {
+              "text": "beginning",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "next Monday",
+              "colorize3": true
+            },
+            {
+              "text": "ج: "
+            },
+            {
+              "text": "سيبدأ",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "الاثنين القادم",
+              "colorize3": true
+            }
+          ]
+        },
+        {
+          "id": "card-14",
+          "type": "example",
+          "content": [
+            {
+              "text": "My sister "
+            },
+            {
+              "text": "is graduating",
+              "colorize": true
+            },
+            {
+              "text": " from university "
+            },
+            {
+              "text": "in June",
+              "colorize3": true
+            },
+            {
+              "text": "أختي "
+            },
+            {
+              "text": "ستتخرج",
+              "colorize": true
+            },
+            {
+              "text": " من الجامعة "
+            },
+            {
+              "text": "في يونيو",
+              "colorize3": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-3",
+      "title": "Time Expressions for the Future",
+      "cards": [
+        {
+          "id": "card-15",
+          "content": [
+            {
+              "text": "Time Expressions",
+              "highlight": true
+            },
+            {
+              "text": " for the Future"
+            },
+            {
+              "text": "التعبيرات الزمنية للمستقبل"
+            }
+          ]
+        },
+        {
+          "id": "card-16",
+          "type": "example",
+          "content": [
+            {
+              "text": "Q: What will you do "
+            },
+            {
+              "text": "tomorrow",
+              "colorize3": true
+            },
+            {
+              "text": "?"
+            },
+            {
+              "text": "س: ماذا ستفعل "
+            },
+            {
+              "text": "غداً",
+              "colorize3": true
+            },
+            {
+              "text": "؟"
+            }
+          ]
+        },
+        {
+          "id": "card-17",
+          "type": "example",
+          "content": [
+            {
+              "text": "A: I'm going to meet my friends at the mall"
+            },
+            {
+              "text": "ج: سأقابل أصدقائي في المركز التجاري"
+            }
+          ]
+        },
+        {
+          "id": "card-18",
+          "type": "example",
+          "content": [
+            {
+              "text": "Q: Are you taking the exam "
+            },
+            {
+              "text": "next week",
+              "colorize3": true
+            },
+            {
+              "text": "?"
+            },
+            {
+              "text": "س: هل ستأخذ الاختبار "
+            },
+            {
+              "text": "الأسبوع القادم",
+              "colorize3": true
+            },
+            {
+              "text": "؟"
+            }
+          ]
+        },
+        {
+          "id": "card-19",
+          "type": "example",
+          "content": [
+            {
+              "text": "A: Yes, I am"
+            },
+            {
+              "text": "ج: نعم"
+            }
+          ]
+        },
+        {
+          "id": "card-20",
+          "type": "example",
+          "content": [
+            {
+              "text": "We will finish the project "
+            },
+            {
+              "text": "next month",
+              "colorize3": true
+            },
+            {
+              "text": "سننهي المشروع "
+            },
+            {
+              "text": "الشهر القادم",
+              "colorize3": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-4",
+      "title": "Making and Responding to Suggestions",
+      "cards": [
+        {
+          "id": "card-21",
+          "content": [
+            {
+              "text": "Making and Responding to Suggestions",
+              "highlight": true
+            },
+            {
+              "text": "تقديم والرد على الاقتراحات"
+            }
+          ]
+        },
+        {
+          "id": "card-22",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Common suggestion patterns: "
+            },
+            {
+              "text": "Let's...",
+              "badge": true,
+              "translation": "دعنا"
+            },
+            {
+              "text": " / "
+            },
+            {
+              "text": "How about...?",
+              "badge2": true,
+              "translation": "ما رأيك"
+            },
+            {
+              "text": " / "
+            },
+            {
+              "text": "Why don't we/you...?",
+              "badge3": true,
+              "translation": "لماذا لا"
+            }
+          ]
+        },
+        {
+          "id": "card-23",
+          "type": "example",
+          "content": [
+            {
+              "text": "Q: "
+            },
+            {
+              "text": "Let's",
+              "colorize": true
+            },
+            {
+              "text": " watch a movie tonight"
+            },
+            {
+              "text": "س: "
+            },
+            {
+              "text": "دعنا",
+              "colorize": true
+            },
+            {
+              "text": " نشاهد فيلماً الليلة"
+            }
+          ]
+        },
+        {
+          "id": "card-24",
+          "type": "example",
+          "content": [
+            {
+              "text": "A: Sorry, I can't. I have homework"
+            },
+            {
+              "text": "ج: آسف، لا أستطيع. لدي واجب منزلي"
+            }
+          ]
+        },
+        {
+          "id": "card-25",
+          "type": "example",
+          "content": [
+            {
+              "text": "Q: "
+            },
+            {
+              "text": "How about",
+              "colorize2": true
+            },
+            {
+              "text": " playing football this weekend?"
+            },
+            {
+              "text": "س: "
+            },
+            {
+              "text": "ما رأيك في",
+              "colorize2": true
+            },
+            {
+              "text": " لعب كرة القدم هذه العطلة؟"
+            }
+          ]
+        },
+        {
+          "id": "card-26",
+          "type": "example",
+          "content": [
+            {
+              "text": "A: Great idea! I'd love to!"
+            },
+            {
+              "text": "ج: فكرة رائعة! أحب ذلك!"
+            }
+          ]
+        },
+        {
+          "id": "card-27",
+          "type": "example",
+          "content": [
+            {
+              "text": "Q: "
+            },
+            {
+              "text": "Why don't we",
+              "colorize3": true
+            },
+            {
+              "text": " visit the museum on Saturday?"
+            },
+            {
+              "text": "س: "
+            },
+            {
+              "text": "لماذا لا",
+              "colorize3": true
+            },
+            {
+              "text": " نزور المتحف يوم السبت؟"
+            }
+          ]
+        },
+        {
+          "id": "card-28",
+          "type": "example",
+          "content": [
+            {
+              "text": "A: Yes, why not! That sounds perfect!"
+            },
+            {
+              "text": "ج: نعم، لم لا! يبدو ذلك مثالياً!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-5",
+      "title": "Information Questions",
+      "cards": [
+        {
+          "id": "card-29",
+          "content": [
+            {
+              "text": "Information Questions",
+              "highlight": true
+            },
+            {
+              "text": "أسئلة الاستفهام"
+            }
+          ]
+        },
+        {
+          "id": "card-30",
+          "type": "example",
+          "content": [
+            {
+              "text": "Q: "
+            },
+            {
+              "text": "What",
+              "colorize": true
+            },
+            {
+              "text": " are you going to do during vacation?"
+            },
+            {
+              "text": "س: "
+            },
+            {
+              "text": "ماذا",
+              "colorize": true
+            },
+            {
+              "text": " ستفعل خلال العطلة؟"
+            }
+          ]
+        },
+        {
+          "id": "card-31",
+          "type": "example",
+          "content": [
+            {
+              "text": "A: I'll "
+            },
+            {
+              "text": "probably",
+              "colorize3": true
+            },
+            {
+              "text": " visit my cousins"
+            },
+            {
+              "text": "ج: "
+            },
+            {
+              "text": "ربما",
+              "colorize3": true
+            },
+            {
+              "text": " سأزور أبناء عمي"
+            }
+          ]
+        },
+        {
+          "id": "card-32",
+          "type": "example",
+          "content": [
+            {
+              "text": "Q: "
+            },
+            {
+              "text": "Where",
+              "colorize": true
+            },
+            {
+              "text": " will you spend the holiday?"
+            },
+            {
+              "text": "س: "
+            },
+            {
+              "text": "أين",
+              "colorize": true
+            },
+            {
+              "text": " ستقضي العطلة؟"
+            }
+          ]
+        },
+        {
+          "id": "card-33",
+          "type": "example",
+          "content": [
+            {
+              "text": "A: I'll go to Dammam"
+            },
+            {
+              "text": "ج: سأذهب إلى الدمام"
+            }
+          ]
+        },
+        {
+          "id": "card-34",
+          "type": "example",
+          "content": [
+            {
+              "text": "Q: "
+            },
+            {
+              "text": "How",
+              "colorize": true
+            },
+            {
+              "text": " will you travel there?"
+            },
+            {
+              "text": "س: "
+            },
+            {
+              "text": "كيف",
+              "colorize": true
+            },
+            {
+              "text": " ستسافر إلى هناك؟"
+            }
+          ]
+        },
+        {
+          "id": "card-35",
+          "type": "example",
+          "content": [
+            {
+              "text": "A: "
+            },
+            {
+              "text": "Maybe",
+              "colorize3": true
+            },
+            {
+              "text": " I'll take the train"
+            },
+            {
+              "text": "ج: "
+            },
+            {
+              "text": "ربما",
+              "colorize3": true
+            },
+            {
+              "text": " سآخذ القطار"
+            }
+          ]
+        },
+        {
+          "id": "card-36",
+          "content": [
+            {
+              "text": "Note:",
+              "highlight": true
+            },
+            {
+              "text": " Words like "
+            },
+            {
+              "text": "probably",
+              "colorize3": true
+            },
+            {
+              "text": " and "
+            },
+            {
+              "text": "maybe",
+              "colorize3": true
+            },
+            {
+              "text": " with will show "
+            },
+            {
+              "text": "that you're not completely sure",
+              "colorize2": true
+            },
+            {
+              "text": "ملاحظة: كلمات مثل "
+            },
+            {
+              "text": "probably",
+              "colorize3": true
+            },
+            {
+              "text": " و"
+            },
+            {
+              "text": " maybe",
+              "colorize3": true
+            },
+            {
+              "text": " مع will تظهر "
+            },
+            {
+              "text": "أنك لست متأكداً تماماً",
+              "colorize2": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-6",
+      "title": "Tag Questions",
+      "cards": [
+        {
+          "id": "card-37",
+          "content": [
+            {
+              "text": "Tag Questions",
+              "highlight": true
+            },
+            {
+              "text": "أسئلة التأكيد"
+            }
+          ]
+        },
+        {
+          "id": "card-38",
+          "content": [
+            {
+              "text": "Tag questions help you "
+            },
+            {
+              "text": "confirm what you think",
+              "colorize2": true
+            },
+            {
+              "text": ". Add a short question with "
+            },
+            {
+              "text": "auxiliary + pronoun",
+              "colorize2": true
+            },
+            {
+              "text": "أسئلة التأكيد تساعدك على "
+            },
+            {
+              "text": "تأكيد ما تعتقده",
+              "colorize2": true
+            },
+            {
+              "text": ". أضف سؤال قصير مع "
+            },
+            {
+              "text": "فعل مساعد + ضمير",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-39",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Positive statement",
+              "badge": true,
+              "translation": "جملة إيجابية"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "negative tag",
+              "badge2": true,
+              "translation": "سؤال تأكيد سلبي"
+            }
+          ]
+        },
+        {
+          "id": "card-40",
+          "type": "example",
+          "content": [
+            {
+              "text": "Technology ",
+              "colorize": true
+            },
+            {
+              "text": "will change",
+              "colorize": true
+            },
+            {
+              "text": " our lives, "
+            },
+            {
+              "text": "won't it",
+              "colorize2": true
+            },
+            {
+              "text": "?"
+            },
+            {
+              "text": "التكنولوجيا ",
+              "colorize": true
+            },
+            {
+              "text": "ستغير",
+              "colorize": true
+            },
+            {
+              "text": " حياتنا، "
+            },
+            {
+              "text": "أليس كذلك",
+              "colorize2": true
+            },
+            {
+              "text": "؟"
+            }
+          ]
+        },
+        {
+          "id": "card-41",
+          "type": "example",
+          "content": [
+            {
+              "text": "Students ",
+              "colorize": true
+            },
+            {
+              "text": "study",
+              "colorize": true
+            },
+            {
+              "text": " hard for exams, "
+            },
+            {
+              "text": "don't they",
+              "colorize2": true
+            },
+            {
+              "text": "?"
+            },
+            {
+              "text": "الطلاب ",
+              "colorize": true
+            },
+            {
+              "text": "يدرسون",
+              "colorize": true
+            },
+            {
+              "text": " بجد للاختبارات، "
+            },
+            {
+              "text": "أليس كذلك",
+              "colorize2": true
+            },
+            {
+              "text": "؟"
+            }
+          ]
+        },
+        {
+          "id": "card-42",
+          "type": "example",
+          "content": [
+            {
+              "text": "You ",
+              "colorize": true
+            },
+            {
+              "text": "are",
+              "colorize": true
+            },
+            {
+              "text": " from Mecca, "
+            },
+            {
+              "text": "aren't you",
+              "colorize2": true
+            },
+            {
+              "text": "?"
+            },
+            {
+              "text": "أنت ",
+              "colorize": true
+            },
+            {
+              "text": "من مكة، "
+            },
+            {
+              "text": "أليس كذلك",
+              "colorize2": true
+            },
+            {
+              "text": "؟"
+            }
+          ]
+        },
+        {
+          "id": "card-43",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Negative statement",
+              "badge": true,
+              "translation": "جملة سلبية"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "positive tag",
+              "badge2": true,
+              "translation": "سؤال تأكيد إيجابي"
+            }
+          ]
+        },
+        {
+          "id": "card-44",
+          "type": "example",
+          "content": [
+            {
+              "text": "Humans ",
+              "colorize": true
+            },
+            {
+              "text": "won't live",
+              "colorize": true
+            },
+            {
+              "text": " on Mars soon, "
+            },
+            {
+              "text": "will they",
+              "colorize2": true
+            },
+            {
+              "text": "?"
+            },
+            {
+              "text": "البشر ",
+              "colorize": true
+            },
+            {
+              "text": "لن يعيشوا",
+              "colorize": true
+            },
+            {
+              "text": " على المريخ قريباً، "
+            },
+            {
+              "text": "أليس كذلك",
+              "colorize2": true
+            },
+            {
+              "text": "؟"
+            }
+          ]
+        },
+        {
+          "id": "card-45",
+          "type": "example",
+          "content": [
+            {
+              "text": "They ",
+              "colorize": true
+            },
+            {
+              "text": "aren't going to",
+              "colorize": true
+            },
+            {
+              "text": " attend the lecture, "
+            },
+            {
+              "text": "are they",
+              "colorize2": true
+            },
+            {
+              "text": "?"
+            },
+            {
+              "text": "هم ",
+              "colorize": true
+            },
+            {
+              "text": "لن يحضروا",
+              "colorize": true
+            },
+            {
+              "text": " المحاضرة، "
+            },
+            {
+              "text": "أليس كذلك",
+              "colorize2": true
+            },
+            {
+              "text": "؟"
+            }
+          ]
+        },
+        {
+          "id": "card-46",
+          "type": "example",
+          "content": [
+            {
+              "text": "It ",
+              "colorize": true
+            },
+            {
+              "text": "doesn't",
+              "colorize": true
+            },
+            {
+              "text": " rain much in Riyadh, "
+            },
+            {
+              "text": "does it",
+              "colorize2": true
+            },
+            {
+              "text": "?"
+            },
+            {
+              "text": "لا ",
+              "colorize": true
+            },
+            {
+              "text": "تمطر",
+              "colorize": true
+            },
+            {
+              "text": " كثيراً في الرياض، "
+            },
+            {
+              "text": "أليس كذلك",
+              "colorize2": true
+            },
+            {
+              "text": "؟"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

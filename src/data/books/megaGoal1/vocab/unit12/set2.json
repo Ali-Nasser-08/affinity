@@ -1,0 +1,587 @@
+{
+    "unit": "Mega Goal 1 - Unit 12: Reporting What People Say",
+    "type": "misc",
+    "setTitle": "Miscellaneous",
+    "words": [
+        {
+            "word": "answering machine",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A device that automatically "
+                },
+                {
+                    "text": "records phone messages",
+                    "highlight": true
+                },
+                {
+                    "text": " when no one is available to "
+                },
+                {
+                    "text": "answer the call",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "جهاز الرد الآلي",
+            "synonyms": [
+                "voicemail system",
+                "message recorder"
+            ],
+            "example": [
+                {
+                    "text": "I couldn't reach my mom, so I left a detailed message on her "
+                },
+                {
+                    "text": "answering machine",
+                    "colorize": true
+                },
+                {
+                    "text": " explaining why I'd be late for dinner"
+                }
+            ],
+            "tips": "Largely replaced by voicemail on mobile phones, but the concept remains the same—automated message recording."
+        },
+        {
+            "word": "leave a message",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To record or write information for someone to receive later when they are "
+                },
+                {
+                    "text": "not available",
+                    "highlight": true
+                },
+                {
+                    "text": " at the moment of "
+                },
+                {
+                    "text": "contact",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يترك رسالة",
+            "synonyms": [
+                "record a message",
+                "drop a note"
+            ],
+            "example": [
+                {
+                    "text": "The receptionist said the doctor was with a patient and asked if I'd like to "
+                },
+                {
+                    "text": "leave a message",
+                    "colorize": true
+                },
+                {
+                    "text": " for a callback"
+                }
+            ],
+            "tips": "Common phone etiquette phrase. Often preceded by 'Would you like to...' or 'Can I...'. Not the same as 'take a message' (receiving/recording someone else's message)."
+        },
+        {
+            "word": "beep",
+            "wordType": "noun/verb",
+            "definition": [
+                {
+                    "text": "A short, high-pitched electronic sound that signals you should "
+                },
+                {
+                    "text": "start speaking",
+                    "highlight": true
+                },
+                {
+                    "text": " when leaving a "
+                },
+                {
+                    "text": "voicemail message",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "صفير / تنبيه صوتي",
+            "synonyms": [
+                "tone",
+                "signal sound"
+            ],
+            "example": [
+                {
+                    "text": "After the recorded greeting finished, I waited for the "
+                },
+                {
+                    "text": "beep",
+                    "colorize": true
+                },
+                {
+                    "text": " before starting my message"
+                }
+            ],
+            "tips": "Onomatopoeic word (sounds like what it describes). Also a verb: 'The microwave beeped when my food was ready.'"
+        },
+        {
+            "word": "pick up",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To go to a place to collect someone in your vehicle and "
+                },
+                {
+                    "text": "give them a ride",
+                    "highlight": true
+                },
+                {
+                    "text": " to another "
+                },
+                {
+                    "text": "location",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يَقِل / يَستَقْبل بسيارة",
+            "synonyms": [
+                "collect",
+                "give a lift to",
+                "fetch"
+            ],
+            "example": [
+                {
+                    "text": "I'll "
+                },
+                {
+                    "text": "pick you up",
+                    "colorize": true
+                },
+                {
+                    "text": " at 7 p.m. — just be waiting outside your apartment building"
+                }
+            ],
+            "tips": "Separable phrasal verb: 'pick me up' or 'pick up my friend'. NOT the same as 'pick up' meaning 'lift physically' or 'learn casually' (different contexts)."
+        },
+        {
+            "word": "work late",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To continue working at your job beyond your "
+                },
+                {
+                    "text": "regular finishing time",
+                    "highlight": true
+                },
+                {
+                    "text": "; to stay at work "
+                },
+                {
+                    "text": "longer than usual",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يعمل لوقت متأخر",
+            "synonyms": [
+                "stay late at work",
+                "work overtime"
+            ],
+            "example": [
+                {
+                    "text": "My boss asked me to "
+                },
+                {
+                    "text": "work late",
+                    "colorize": true
+                },
+                {
+                    "text": " tonight to finish the quarterly report before the morning deadline"
+                }
+            ],
+            "tips": "Common workplace expression. Often requires notice to family/friends. Not the same as 'work hard' (effort) vs. 'work late' (time)."
+        },
+        {
+            "word": "assignment",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A task or piece of work given to someone, especially "
+                },
+                {
+                    "text": "students by teachers",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "employees by supervisors",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "واجب / مهمة",
+            "synonyms": [
+                "homework",
+                "task",
+                "project"
+            ],
+            "example": [
+                {
+                    "text": "The history "
+                },
+                {
+                    "text": "assignment",
+                    "colorize": true
+                },
+                {
+                    "text": " required us to interview a family member about life fifty years ago"
+                }
+            ],
+            "tips": "Academic context: assignment = specific task (not the same as 'homework' which is broader). Workplace context: assignment = specific duty or posting."
+        },
+        {
+            "word": "gym",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Short for 'gymnasium'; a place equipped with facilities and equipment for "
+                },
+                {
+                    "text": "physical exercise",
+                    "highlight": true
+                },
+                {
+                    "text": ", sports training, or "
+                },
+                {
+                    "text": "fitness activities",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "صالة رياضية",
+            "synonyms": [
+                "fitness center",
+                "health club",
+                "workout facility"
+            ],
+            "example": [
+                {
+                    "text": "She goes to the "
+                },
+                {
+                    "text": "gym",
+                    "colorize": true
+                },
+                {
+                    "text": " three times a week to lift weights and use the cardio machines"
+                }
+            ],
+            "tips": "American English shortening of 'gymnasium'. British English also uses 'gym'. Not the same as 'stadium' (large outdoor sports venue) or 'fitness studio' (specialized small space)."
+        },
+        {
+            "word": "surprise",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Something unexpected that is planned secretly to delight or astonish someone; an "
+                },
+                {
+                    "text": "unforeseen event",
+                    "highlight": true
+                },
+                {
+                    "text": " that causes "
+                },
+                {
+                    "text": "wonder or amazement",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مفاجأة",
+            "synonyms": [
+                "unexpected gift",
+                "shock (can be positive or negative)"
+            ],
+            "example": [
+                {
+                    "text": "Her friends organized a birthday "
+                },
+                {
+                    "text": "surprise",
+                    "colorize": true
+                },
+                {
+                    "text": " party and everyone jumped out shouting 'Happy Birthday!' when she walked in"
+                }
+            ],
+            "tips": "Can be positive (pleasant surprise) or negative (unpleasant surprise). Verb form: surprise (to cause someone to feel surprise). Adjective: surprising (causing surprise) vs. surprised (feeling surprise)."
+        },
+        {
+            "word": "mountainous",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Having many mountains or characterized by "
+                },
+                {
+                    "text": "rough, elevated terrain",
+                    "highlight": true
+                },
+                {
+                    "text": "; full of "
+                },
+                {
+                    "text": "hills and peaks",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "جبلِيّ",
+            "synonyms": [
+                "hilly",
+                "rugged",
+                "alpine"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "mountainous",
+                    "colorize": true
+                },
+                {
+                    "text": " region made driving difficult, with winding roads and steep cliffs on both sides"
+                }
+            ],
+            "tips": "Formed by adding '-ous' to 'mountain'. Not the same as 'mountain' (noun) or 'mountain-like' (less formal adjective). Often used in geography/travel contexts."
+        },
+        {
+            "word": "apologize",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To say you are sorry for something you have done wrong or for a mistake that caused "
+                },
+                {
+                    "text": "harm or inconvenience",
+                    "highlight": true
+                },
+                {
+                    "text": " to "
+                },
+                {
+                    "text": "someone else",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يَعتذر",
+            "synonyms": [
+                "say sorry",
+                "express regret",
+                "make amends"
+            ],
+            "example": [
+                {
+                    "text": "He immediately "
+                },
+                {
+                    "text": "apologized",
+                    "colorize": true
+                },
+                {
+                    "text": " when he realized he had taken his roommate's lunch from the refrigerator by mistake"
+                }
+            ],
+            "tips": "American spelling: apologize. British spelling: apologise. Pattern: apologize to someone FOR something ('apologize to her for being late'). NOT 'apologize about' (less common)."
+        },
+        {
+            "word": "assure",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To tell someone confidently that something is true or will happen to "
+                },
+                {
+                    "text": "remove their doubts",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "fears",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُطمئن / يؤكد",
+            "synonyms": [
+                "guarantee",
+                "promise confidently",
+                "reassure"
+            ],
+            "example": [
+                {
+                    "text": "The airline representative "
+                },
+                {
+                    "text": "assured",
+                    "colorize": true
+                },
+                {
+                    "text": " us that our delayed luggage would arrive by morning"
+                }
+            ],
+            "tips": "NOT the same as 'ensure' (to make certain something happens) or 'insure' (financial protection). Pattern: assure someone THAT... or assure someone OF something."
+        },
+        {
+            "word": "disinformation",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "False or misleading information that is spread intentionally to "
+                },
+                {
+                    "text": "deceive people",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "manipulate public opinion",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "معلومة كاذبة مُتعمَّدة",
+            "synonyms": [
+                "deliberate misinformation",
+                "propaganda",
+                "falsehoods"
+            ],
+            "example": [
+                {
+                    "text": "Social media platforms are working to identify and remove "
+                },
+                {
+                    "text": "disinformation",
+                    "colorize": true
+                },
+                {
+                    "text": " campaigns designed to influence elections"
+                }
+            ],
+            "tips": "Key difference: 'misinformation' = false information shared without intent to deceive; 'disinformation' = false information spread DELIBERATELY to mislead."
+        },
+        {
+            "word": "campaign",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A series of planned activities or actions designed to achieve a "
+                },
+                {
+                    "text": "specific goal",
+                    "highlight": true
+                },
+                {
+                    "text": ", especially in politics, advertising, or "
+                },
+                {
+                    "text": "social causes",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حملة",
+            "synonyms": [
+                "organized effort",
+                "initiative",
+                "drive"
+            ],
+            "example": [
+                {
+                    "text": "The environmental group launched a public awareness "
+                },
+                {
+                    "text": "campaign",
+                    "colorize": true
+                },
+                {
+                    "text": " to reduce plastic waste in oceans"
+                }
+            ],
+            "tips": "Not just political! Can be advertising campaign, health campaign, marketing campaign. Verb form: campaign (to work actively toward a goal)."
+        },
+        {
+            "word": "polluters",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "People, companies, or industries that release harmful substances into the environment, causing "
+                },
+                {
+                    "text": "air, water, or land pollution",
+                    "highlight": true
+                },
+                {
+                    "text": " that damages "
+                },
+                {
+                    "text": "ecosystems and health",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مُلَوِّثون",
+            "synonyms": [
+                "contaminators",
+                "environmental offenders",
+                "emitters"
+            ],
+            "example": [
+                {
+                    "text": "Environmental activists are demanding that major industrial "
+                },
+                {
+                    "text": "polluters",
+                    "colorize": true
+                },
+                {
+                    "text": " be held financially responsible for cleaning up contaminated rivers"
+                }
+            ],
+            "tips": "From verb 'pollute' + '-er' (person/thing that does the action). Often used in environmental policy discussions. Not the same as 'pollution' (the contamination itself)."
+        },
+        {
+            "word": "research purposes",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "Activities conducted to gain knowledge, test theories, or collect data for "
+                },
+                {
+                    "text": "scientific study",
+                    "highlight": true
+                },
+                {
+                    "text": " rather than for "
+                },
+                {
+                    "text": "commercial or practical application",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "أغراض بحثية",
+            "synonyms": [
+                "scientific study",
+                "academic investigation",
+                "experimental reasons"
+            ],
+            "example": [
+                {
+                    "text": "The university laboratory uses donated human tissue for "
+                },
+                {
+                    "text": "research purposes",
+                    "colorize": true
+                },
+                {
+                    "text": " only, with strict ethical oversight"
+                }
+            ],
+            "tips": "Common phrase in scientific/academic contexts. Often appears in disclaimers or explanations of why certain activities are permitted (e.g., 'for research purposes only')."
+        }
+    ]
+}

@@ -1,0 +1,722 @@
+{
+    "unit": "Mega Goal 1 - Unit 6: Giving Advice",
+    "type": "misc",
+    "setTitle": "Reading: Breaking Unhealthy Habits",
+    "words": [
+        {
+            "word": "break the habit",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "stop a repeated behavior",
+                    "highlight": true
+                },
+                {
+                    "text": " that has become "
+                },
+                {
+                    "text": "automatic or difficult to control",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يقطع العادة / يتخلص من العادة",
+            "synonyms": [
+                "quit a habit",
+                "kick a habit",
+                "stop a routine"
+            ],
+            "example": [
+                {
+                    "text": "It's time to "
+                },
+                {
+                    "text": "break the habit",
+                    "colorize": true
+                },
+                {
+                    "text": " of reaching for junk food when you feel stressed."
+                }
+            ],
+            "tips": "Often used with 'kick' (kick the habit). Breaking habits takes 21+ days of consistent effort. Not the same as 'break a rule'—different meaning entirely."
+        },
+        {
+            "word": "cut down on",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "reduce the amount",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "frequency of something",
+                    "highlight2": true
+                },
+                {
+                    "text": " gradually"
+                }
+            ],
+            "arabicMeaning": "يقلل من",
+            "synonyms": [
+                "reduce",
+                "lessen",
+                "scale back"
+            ],
+            "example": [
+                {
+                    "text": "You ought to "
+                },
+                {
+                    "text": "cut down on",
+                    "colorize": true
+                },
+                {
+                    "text": " junk food slowly rather than stopping completely."
+                }
+            ],
+            "tips": "Always 'cut down ON' (not 'cut down' alone). Gradual approach—different from 'cut out' (eliminate completely). Works well for sugar, salt, screen time."
+        },
+        {
+            "word": "stick to",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "continue doing",
+                    "highlight": true
+                },
+                {
+                    "text": " something without "
+                },
+                {
+                    "text": "changing or giving up",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يلتزم بـ / يثبت على",
+            "synonyms": [
+                "adhere to",
+                "keep to",
+                "remain committed to"
+            ],
+            "example": [
+                {
+                    "text": "If you "
+                },
+                {
+                    "text": "stick to",
+                    "colorize": true
+                },
+                {
+                    "text": " your decision to eat healthier, you'll start feeling better within weeks."
+                }
+            ],
+            "tips": "Stick to a plan/diet/decision. Implies persistence despite difficulties. Not the same as 'stick with' (similar but slightly less formal)."
+        },
+        {
+            "word": "give up",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "stop doing or using",
+                    "highlight": true
+                },
+                {
+                    "text": " something completely, "
+                },
+                {
+                    "text": "especially a habit",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يتخلى عن / يتوقف عن",
+            "synonyms": [
+                "quit",
+                "abandon",
+                "stop completely"
+            ],
+            "example": [
+                {
+                    "text": "Don't "
+                },
+                {
+                    "text": "give up",
+                    "colorize": true
+                },
+                {
+                    "text": " just because you ate fries once—you can restart tomorrow."
+                }
+            ],
+            "tips": "Give up smoking/drinking/sweets. Different meaning from 'give up' = surrender (give up the fight). Context determines which meaning applies."
+        },
+        {
+            "word": "junk food",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "Food that is "
+                },
+                {
+                    "text": "high in calories",
+                    "highlight": true
+                },
+                {
+                    "text": " but "
+                },
+                {
+                    "text": "low in nutritional value",
+                    "highlight2": true
+                },
+                {
+                    "text": ", often containing excess fat, sugar, or salt"
+                }
+            ],
+            "arabicMeaning": "طعام غير صحي / طعام رخيص",
+            "synonyms": [
+                "fast food (unhealthy type)",
+                "processed snacks"
+            ],
+            "example": [
+                {
+                    "text": "Your brain gets used to the pleasure of tasting "
+                },
+                {
+                    "text": "junk food",
+                    "colorize": true
+                },
+                {
+                    "text": ", making healthy choices harder at first."
+                }
+            ],
+            "tips": "Not all fast food is junk food (salads can be healthy). Junk food = nutritionally empty calories. 'Junk food diet' = eating pattern dominated by these foods."
+        },
+        {
+            "word": "comfort eating",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "Eating food "
+                },
+                {
+                    "text": "to soothe emotions",
+                    "highlight": true
+                },
+                {
+                    "text": " like stress or sadness "
+                },
+                {
+                    "text": "rather than physical hunger",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "الأكل العاطفي / الأكل للتسلية",
+            "synonyms": [
+                "emotional eating",
+                "stress eating"
+            ],
+            "example": [
+                {
+                    "text": "If you run to fast food every time you feel down, that's "
+                },
+                {
+                    "text": "comfort eating",
+                    "colorize": true
+                },
+                {
+                    "text": "—not real hunger."
+                }
+            ],
+            "tips": "Warning sign of unhealthy relationship with food. Real hunger builds gradually; emotional hunger hits suddenly and craves specific foods (usually junk)."
+        },
+        {
+            "word": "addiction",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A strong "
+                },
+                {
+                    "text": "physical or psychological dependence",
+                    "highlight": true
+                },
+                {
+                    "text": " on something that "
+                },
+                {
+                    "text": "feels impossible to stop",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "إدمان",
+            "synonyms": [
+                "dependence",
+                "compulsion"
+            ],
+            "example": [
+                {
+                    "text": "Thinking 'junk food' the minute you feel hungry is a sign your habit is becoming an "
+                },
+                {
+                    "text": "addiction",
+                    "colorize": true
+                },
+                {
+                    "text": "."
+                }
+            ],
+            "tips": "Addiction ≠ habit (habits are easier to break). Food addiction involves brain chemistry changes similar to substance addiction. Professional help may be needed."
+        },
+        {
+            "word": "nutritious",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Containing "
+                },
+                {
+                    "text": "substances that nourish",
+                    "highlight": true
+                },
+                {
+                    "text": " the body and "
+                },
+                {
+                    "text": "support good health",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مغذي",
+            "synonyms": [
+                "wholesome",
+                "healthy",
+                "nutrient-rich"
+            ],
+            "example": [
+                {
+                    "text": "A healthy, "
+                },
+                {
+                    "text": "nutritious",
+                    "colorize": true
+                },
+                {
+                    "text": " meal doesn't have to be bland—it can be delicious too."
+                }
+            ],
+            "tips": "Nutritious ≠ low-calorie (nuts are nutritious but high-calorie). Look for vitamins, minerals, protein, fiber. Opposite: 'empty calories' (sugar, white bread)."
+        },
+        {
+            "word": "appetizing",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Looking, smelling, or sounding "
+                },
+                {
+                    "text": "delicious enough",
+                    "highlight": true
+                },
+                {
+                    "text": " to "
+                },
+                {
+                    "text": "make you want to eat",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مشهي / مغري",
+            "synonyms": [
+                "tasty-looking",
+                "inviting",
+                "mouth-watering"
+            ],
+            "example": [
+                {
+                    "text": "When pushed, you can picture "
+                },
+                {
+                    "text": "appetizing",
+                    "colorize": true
+                },
+                {
+                    "text": " dishes without fries—but you still choose the burger."
+                }
+            ],
+            "tips": "Describes appearance/smell, not actual taste. 'Appetizing' ≠ 'appetizer' (starter dish). Marketing makes junk food look appetizing—learn to see through it."
+        },
+        {
+            "word": "bland",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Lacking "
+                },
+                {
+                    "text": "strong flavor or spice",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "tasting dull or boring",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "باهت الطعم / غير مشهي",
+            "synonyms": [
+                "boring (taste)",
+                "unseasoned",
+                "mild"
+            ],
+            "example": [
+                {
+                    "text": "Many people wrongly believe healthy food must be "
+                },
+                {
+                    "text": "bland",
+                    "colorize": true
+                },
+                {
+                    "text": ", but spices and herbs make it delicious."
+                }
+            ],
+            "tips": "Bland ≠ healthy (fries aren't bland but aren't healthy). Bland food is often recommended when sick. Opposite: 'flavorful' or 'zesty'."
+        },
+        {
+            "word": "condiments",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Sauces or seasonings "
+                },
+                {
+                    "text": "added to food",
+                    "highlight": true
+                },
+                {
+                    "text": " to "
+                },
+                {
+                    "text": "enhance flavor",
+                    "highlight2": true
+                },
+                {
+                    "text": " (often high in sugar, salt, or fat)"
+                }
+            ],
+            "arabicMeaning": "مُتبَّلات / صلصات التوابل",
+            "synonyms": [
+                "sauces",
+                "seasonings",
+                "dips"
+            ],
+            "example": [
+                {
+                    "text": "You could avoid high-calorie "
+                },
+                {
+                    "text": "condiments",
+                    "colorize": true
+                },
+                {
+                    "text": " like mayonnaise or ketchup to make fast food healthier."
+                }
+            ],
+            "tips": "Common condiments: ketchup, mayo, mustard, soy sauce. Many contain hidden sugar/salt—check labels. 'Light' versions often still high in calories."
+        },
+        {
+            "word": "saturated fat",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A type of fat "
+                },
+                {
+                    "text": "that is solid",
+                    "highlight": true
+                },
+                {
+                    "text": " at room temperature and "
+                },
+                {
+                    "text": "can raise cholesterol levels",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "الدهون المشبعة",
+            "synonyms": [
+                "animal fat (often)",
+                "solid fat"
+            ],
+            "example": [
+                {
+                    "text": "Junk food is often high in carbohydrates and "
+                },
+                {
+                    "text": "saturated fat",
+                    "colorize": true
+                },
+                {
+                    "text": ", which isn't good for heart health."
+                }
+            ],
+            "tips": "Found in butter, cheese, red meat, fried foods. Different from 'unsaturated fat' (olive oil, avocados)—that type is healthier. Limit saturated fat to <10% of daily calories."
+        },
+        {
+            "word": "warning sign",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "An "
+                },
+                {
+                    "text": "early indication",
+                    "highlight": true
+                },
+                {
+                    "text": " that "
+                },
+                {
+                    "text": "something unhealthy or dangerous",
+                    "highlight2": true
+                },
+                {
+                    "text": " is developing"
+                }
+            ],
+            "arabicMeaning": "علامة تحذيرية",
+            "synonyms": [
+                "red flag",
+                "alarm signal",
+                "early warning"
+            ],
+            "example": [
+                {
+                    "text": "Thinking 'junk food' the minute you feel hungry is a "
+                },
+                {
+                    "text": "warning sign",
+                    "colorize": true
+                },
+                {
+                    "text": " that your habit is becoming an addiction."
+                }
+            ],
+            "tips": "Just ONE warning sign should prompt action—don't wait for multiple signs. In health contexts: early detection saves lives. Not the same as 'symptom' (more medical term)."
+        },
+        {
+            "word": "achievable",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Possible to "
+                },
+                {
+                    "text": "accomplish realistically",
+                    "highlight": true
+                },
+                {
+                    "text": " with "
+                },
+                {
+                    "text": "reasonable effort",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "قابل للتحقيق",
+            "synonyms": [
+                "attainable",
+                "realistic",
+                "within reach"
+            ],
+            "example": [
+                {
+                    "text": "Set yourself goals that are both "
+                },
+                {
+                    "text": "achievable",
+                    "colorize": true
+                },
+                {
+                    "text": " and enjoyable—like walking 20 minutes daily."
+                }
+            ],
+            "tips": "Achievable ≠ easy (should require some effort). SMART goals: Specific, Measurable, Achievable, Relevant, Time-bound. Unrealistic goals lead to giving up."
+        },
+        {
+            "word": "treat yourself",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "do something special",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "pleasant for yourself",
+                    "highlight2": true
+                },
+                {
+                    "text": " as a reward"
+                }
+            ],
+            "arabicMeaning": "يدلل نفسه / يكافئ نفسه",
+            "synonyms": [
+                "reward yourself",
+                "indulge (in moderation)",
+                "do something nice for yourself"
+            ],
+            "example": [
+                {
+                    "text": "If a friend offers junk food, turn it down and "
+                },
+                {
+                    "text": "treat yourself",
+                    "colorize": true
+                },
+                {
+                    "text": " to a fruit smoothie instead."
+                }
+            ],
+            "tips": "Healthy treating ≠ junk food. Treat yourself to a massage, new book, or fancy tea—not always food. Balance is key: occasional treats are fine; daily treats become habits."
+        },
+        {
+            "word": "regain control",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "get back power",
+                    "highlight": true
+                },
+                {
+                    "text": " over your "
+                },
+                {
+                    "text": "choices and behavior",
+                    "highlight2": true
+                },
+                {
+                    "text": " after losing it"
+                }
+            ],
+            "arabicMeaning": "يستعيد السيطرة",
+            "synonyms": [
+                "take back control",
+                "reclaim power over decisions"
+            ],
+            "example": [
+                {
+                    "text": "The important thing is to "
+                },
+                {
+                    "text": "regain control",
+                    "colorize": true
+                },
+                {
+                    "text": " and only eat junk food very occasionally—not daily."
+                }
+            ],
+            "tips": "Regain control over eating/spending/screen time. Implies you once had control but lost it. First step: awareness of triggers (stress, boredom, certain friends)."
+        },
+        {
+            "word": "pay attention to",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "focus your mind",
+                    "highlight": true
+                },
+                {
+                    "text": " carefully on "
+                },
+                {
+                    "text": "specific information",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ينتبه إلى / يركز على",
+            "synonyms": [
+                "notice carefully",
+                "focus on",
+                "be mindful of"
+            ],
+            "example": [
+                {
+                    "text": "Pick up restaurant menus and "
+                },
+                {
+                    "text": "pay attention to",
+                    "colorize": true
+                },
+                {
+                    "text": " the ingredients listed for each dish."
+                }
+            ],
+            "tips": "Pay attention TO something (always needs 'to'). Opposite: 'ignore' or 'overlook'. In language learning: pay attention to pronunciation patterns."
+        },
+        {
+            "word": "turn down",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "politely refuse",
+                    "highlight": true
+                },
+                {
+                    "text": " an "
+                },
+                {
+                    "text": "offer or invitation",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يرفض بلطف",
+            "synonyms": [
+                "decline",
+                "say no to",
+                "reject politely"
+            ],
+            "example": [
+                {
+                    "text": "If a friend insists on offering junk food, "
+                },
+                {
+                    "text": "turn down",
+                    "colorize": true
+                },
+                {
+                    "text": " the offer and suggest a healthier alternative."
+                }
+            ],
+            "tips": "Turn down an offer/request/invitation. Can also mean 'lower volume' (turn down the music)—context matters! Polite refusal: 'Thanks, but I'll pass' works well."
+        }
+    ]
+}

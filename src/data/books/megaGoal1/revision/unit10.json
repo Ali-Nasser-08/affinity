@@ -1,0 +1,1461 @@
+{
+    "unit": "Mega Goal 1 - Unit 10",
+    "type": "revision",
+    "totalQuestions": 100,
+    "currentBatch": 1,
+    "sections": [
+        {
+            "section": "grammar",
+            "questions": [
+                {
+                    "id": "G1",
+                    "difficulty": 1,
+                    "arabicHint": "الماضي التام: حدث قبل حدث آخر في الماضي (had + الماضي التام)",
+                    "question": "Choose the correct verb to express an action completed before another past action.",
+                    "prompt": "When the teacher entered the classroom, the students _____ already sat down.",
+                    "options": [
+                        "have",
+                        "had",
+                        "has",
+                        "did"
+                    ],
+                    "answer": "had",
+                    "explanation": "Use 'had' (past perfect auxiliary) + past participle to show an action that was completed before another action in the past. The students sat down before the teacher entered."
+                },
+                {
+                    "id": "G2",
+                    "difficulty": 1,
+                    "arabicHint": "الماضي التام: الفعل المناسب مع already",
+                    "prompt": "By the time we got to the cinema, the film _____ already started.",
+                    "options": [
+                        "has",
+                        "had",
+                        "have",
+                        "was"
+                    ],
+                    "answer": "had",
+                    "explanation": "'Had + past participle' forms the past perfect. The film starting happened before our arrival — a classic past-before-past situation. 'Already' is a typical signal word."
+                },
+                {
+                    "id": "G3",
+                    "difficulty": 1,
+                    "arabicHint": "الماضي التام: سبب شيء حدث في الماضي",
+                    "prompt": "He couldn't log into the website because he _____ forgotten his password.",
+                    "options": [
+                        "has",
+                        "have",
+                        "had",
+                        "was"
+                    ],
+                    "answer": "had",
+                    "explanation": "The reason for not being able to log in is a past perfect action — forgetting the password happened before the login attempt. Use 'had + forgotten.'"
+                },
+                {
+                    "id": "G4",
+                    "difficulty": 2,
+                    "arabicHint": "الماضي التام: صيغة السؤال (Had + الفاعل + ...?)",
+                    "question": "Select the correctly formed past perfect question.",
+                    "prompt": "_____ you ever visited a science museum before last Thursday?",
+                    "options": [
+                        "Did",
+                        "Have",
+                        "Had",
+                        "Were"
+                    ],
+                    "answer": "Had",
+                    "explanation": "Past perfect questions are formed with 'Had + subject + past participle.' Since the reference point is 'last Thursday' — a past moment — we use past perfect, not present perfect."
+                },
+                {
+                    "id": "G5",
+                    "difficulty": 1,
+                    "arabicHint": "الماضي التام: الإجابة القصيرة الإيجابية",
+                    "prompt": "Had they already eaten before the guests arrived?\n'Yes, they _____.'",
+                    "options": [
+                        "have",
+                        "do",
+                        "had",
+                        "did"
+                    ],
+                    "answer": "had",
+                    "explanation": "Short positive answers to past perfect questions use 'Yes, subject + had.' Never repeat the main verb in a short answer."
+                },
+                {
+                    "id": "G6",
+                    "difficulty": 1,
+                    "arabicHint": "الماضي التام: الإجابة القصيرة السلبية",
+                    "prompt": "Had Khalid finished his homework before the power went out?\n'No, he _____.'",
+                    "options": [
+                        "hadn't",
+                        "didn't",
+                        "hasn't",
+                        "wasn't"
+                    ],
+                    "answer": "hadn't",
+                    "explanation": "Negative short answers use 'No, subject + hadn't.' The contraction 'hadn't' = 'had not.'"
+                },
+                {
+                    "id": "G7",
+                    "difficulty": 2,
+                    "arabicHint": "الماضي التام: اختصار 'd (I'd = I had)",
+                    "question": "Choose the contraction that correctly replaces 'had' in past perfect.",
+                    "prompt": "When I arrived at the party, I realised _____ already met everyone there.",
+                    "options": [
+                        "I'll",
+                        "I'd",
+                        "I've",
+                        "I'm"
+                    ],
+                    "answer": "I'd",
+                    "explanation": "In past perfect, 'd is the contraction of 'had.' So 'I'd met' = 'I had met.' Don't confuse 'I'd' with 'would' — context determines which meaning applies."
+                },
+                {
+                    "id": "G8",
+                    "difficulty": 2,
+                    "arabicHint": "الماضي التام: الترتيب الزمني الصحيح للأحداث",
+                    "question": "Select the sentence where the past perfect correctly shows which event happened first.",
+                    "prompt": "Which sentence is correct?",
+                    "options": [
+                        "She had left when I called her.",
+                        "She left when I had called her.",
+                        "She has left when I called her.",
+                        "She leaving when I had called her."
+                    ],
+                    "answer": "She had left when I called her.",
+                    "explanation": "The past perfect ('had left') marks the first event. She left first; then I called. Using past perfect for the later event would reverse the logical order."
+                },
+                {
+                    "id": "G9",
+                    "difficulty": 2,
+                    "arabicHint": "التخمين باستخدام Must: التأكد من شيء",
+                    "question": "Choose the modal that expresses certainty based on evidence.",
+                    "prompt": "The lights are off and nobody is answering the door. They _____ be out.",
+                    "options": [
+                        "might",
+                        "can't",
+                        "must",
+                        "could"
+                    ],
+                    "answer": "must",
+                    "explanation": "Use 'must' when you are almost certain about something based on evidence. The clues (lights off, no answer) lead to a sure conclusion."
+                },
+                {
+                    "id": "G10",
+                    "difficulty": 2,
+                    "arabicHint": "التخمين باستخدام Can't: استحالة الشيء في الحاضر",
+                    "question": "Select the modal that expresses impossibility.",
+                    "prompt": "That _____ be Ahmed driving that car — he doesn't even have a driving licence.",
+                    "options": [
+                        "must",
+                        "might",
+                        "can't",
+                        "could"
+                    ],
+                    "answer": "can't",
+                    "explanation": "Use 'can't' to say something is impossible based on what you know. Lacking a licence makes it impossible for the person to be driving legally."
+                },
+                {
+                    "id": "G11",
+                    "difficulty": 1,
+                    "arabicHint": "التخمين باستخدام Might: احتمال في الحاضر",
+                    "prompt": "I'm not sure where Omar is. He _____ be at the library — he studies there sometimes.",
+                    "options": [
+                        "must",
+                        "can't",
+                        "might",
+                        "will"
+                    ],
+                    "answer": "might",
+                    "explanation": "Use 'might' (or 'may' / 'could') to say something is possibly true in the present, but you are not certain."
+                },
+                {
+                    "id": "G12",
+                    "difficulty": 2,
+                    "arabicHint": "التخمين في الماضي: Must have + الماضي التام",
+                    "question": "Choose the correct past speculation showing near certainty.",
+                    "prompt": "The ground is still wet. It _____ rained last night.",
+                    "options": [
+                        "must have",
+                        "might",
+                        "can't",
+                        "could"
+                    ],
+                    "answer": "must have",
+                    "explanation": "To speculate about the past with near certainty, use 'must have + past participle.' The wet ground is strong evidence that it rained."
+                },
+                {
+                    "id": "G13",
+                    "difficulty": 2,
+                    "arabicHint": "التخمين في الماضي: Couldn't have + الماضي التام (استحالة)",
+                    "question": "Select the past modal phrase that expresses impossibility in the past.",
+                    "prompt": "Nora was in Riyadh all day yesterday. She _____ been at the Jeddah conference.",
+                    "options": [
+                        "must have",
+                        "might have",
+                        "couldn't have",
+                        "could have"
+                    ],
+                    "answer": "couldn't have",
+                    "explanation": "Use 'couldn't have + past participle' to say something was impossible in the past. Being in one city makes it impossible to be in another at the same time."
+                },
+                {
+                    "id": "G14",
+                    "difficulty": 2,
+                    "arabicHint": "التخمين في الماضي: Might have + الماضي التام (احتمال)",
+                    "question": "Choose the modal phrase expressing past possibility.",
+                    "prompt": "Nobody knows what caused the loud noise from the sky last night. It _____ been a small meteor.",
+                    "options": [
+                        "must have",
+                        "couldn't have",
+                        "might have",
+                        "can't"
+                    ],
+                    "answer": "might have",
+                    "explanation": "Use 'might have + past participle' to suggest something was possibly true in the past when you are uncertain. A meteor is one possible explanation."
+                },
+                {
+                    "id": "G15",
+                    "difficulty": 3,
+                    "arabicHint": "التخمين: الفرق بين must (تأكد) و might (احتمال) في الحاضر",
+                    "question": "Select the modal that fits — the speaker is very sure, not just guessing.",
+                    "prompt": "The phone has been ringing for five minutes. Whoever is calling _____ really need to speak to you urgently.",
+                    "options": [
+                        "might",
+                        "could",
+                        "must",
+                        "may"
+                    ],
+                    "answer": "must",
+                    "explanation": "'Must' expresses near certainty. Five minutes of continuous ringing strongly suggests urgency. 'Might/could/may' would only suggest it is one possibility."
+                },
+                {
+                    "id": "G16",
+                    "difficulty": 3,
+                    "arabicHint": "التخمين في الماضي: can't have (استحالة في الماضي)",
+                    "question": "Choose the correct modal phrase to express that something was definitely not the case in the past.",
+                    "prompt": "The test results show she scored 100%. She _____ made any careless mistakes.",
+                    "options": [
+                        "must have",
+                        "might have",
+                        "can't have",
+                        "could have"
+                    ],
+                    "answer": "can't have",
+                    "explanation": "Use 'can't have + past participle' to say you are certain something did not happen in the past. A perfect score rules out any careless mistakes."
+                },
+                {
+                    "id": "G17",
+                    "difficulty": 1,
+                    "arabicHint": "أدوات الربط: And لإضافة فكرة",
+                    "question": "Select the coordinating conjunction that adds information to the first clause.",
+                    "prompt": "A large rock fell from the cliff, _____ it blocked the road below.",
+                    "options": [
+                        "but",
+                        "or",
+                        "yet",
+                        "and"
+                    ],
+                    "answer": "and",
+                    "explanation": "Use 'and' to add a related idea or result. A comma comes before the conjunction when two independent clauses are joined. 'But' and 'yet' signal contrast, which doesn't fit here."
+                },
+                {
+                    "id": "G18",
+                    "difficulty": 1,
+                    "arabicHint": "أدوات الربط: But للتباين",
+                    "question": "Choose the conjunction that expresses contrast between two ideas.",
+                    "prompt": "The news report sounded alarming, _____ the authorities said there was nothing to worry about.",
+                    "options": [
+                        "and",
+                        "so",
+                        "or",
+                        "but"
+                    ],
+                    "answer": "but",
+                    "explanation": "Use 'but' to connect two independent clauses that contrast with each other. The alarming news is opposite to the authorities' calm response."
+                },
+                {
+                    "id": "G19",
+                    "difficulty": 1,
+                    "arabicHint": "أدوات الربط: So للنتيجة",
+                    "question": "Select the conjunction that introduces a result or consequence.",
+                    "prompt": "The family heard a strange sound on the roof, _____ they went outside to investigate.",
+                    "options": [
+                        "but",
+                        "or",
+                        "yet",
+                        "so"
+                    ],
+                    "answer": "so",
+                    "explanation": "Use 'so' to show that the second clause is the direct result or consequence of the first. Hearing a sound caused them to investigate."
+                },
+                {
+                    "id": "G20",
+                    "difficulty": 2,
+                    "arabicHint": "أدوات الربط: Yet للتباين المفاجئ (رغم ذلك)",
+                    "question": "Choose the conjunction that shows unexpected contrast.",
+                    "prompt": "Dozens of people witnessed the strange lights in the sky, _____ none of them called the police.",
+                    "options": [
+                        "and",
+                        "so",
+                        "or",
+                        "yet"
+                    ],
+                    "answer": "yet",
+                    "explanation": "Use 'yet' (like 'but') to show a surprising or unexpected contrast. It is slightly more formal than 'but.' Despite many witnesses, nobody reported it — that's unexpected."
+                },
+                {
+                    "id": "G21",
+                    "difficulty": 1,
+                    "arabicHint": "أدوات الربط: Or للاختيار بين بديلين",
+                    "question": "Select the conjunction that presents an alternative.",
+                    "prompt": "You should photograph the object, _____ you might regret not having proof later.",
+                    "options": [
+                        "and",
+                        "so",
+                        "or",
+                        "yet"
+                    ],
+                    "answer": "or",
+                    "explanation": "Use 'or' to introduce an alternative or consequence of not doing the first action. If you don't photograph it, the negative result follows."
+                },
+                {
+                    "id": "G22",
+                    "difficulty": 2,
+                    "arabicHint": "الفاصلة مع أداة الربط بين جملتين مستقلتين",
+                    "question": "Identify the sentence with correct punctuation before a coordinating conjunction.",
+                    "prompt": "Which sentence is correctly punctuated?",
+                    "options": [
+                        "The car engine stopped so we had to walk.",
+                        "The car engine stopped, so we had to walk.",
+                        "The car engine stopped. So we had to walk.",
+                        "The car engine stopped so, we had to walk."
+                    ],
+                    "answer": "The car engine stopped, so we had to walk.",
+                    "explanation": "When two independent clauses are joined by a coordinating conjunction (so, and, but, or, yet), place a comma before the conjunction, not after it."
+                },
+                {
+                    "id": "G23",
+                    "difficulty": 2,
+                    "arabicHint": "جمل الوقت: When + الفعل الماضي البسيط",
+                    "question": "Choose the time clause connector that introduces a specific moment in the past.",
+                    "prompt": "_____ they returned home from the trip, they found an envelope under the door.",
+                    "options": [
+                        "While",
+                        "Since",
+                        "Until",
+                        "When"
+                    ],
+                    "answer": "When",
+                    "explanation": "Use 'when' to introduce a specific past moment. The main clause action (finding the envelope) happened at the same time as or right after returning home."
+                },
+                {
+                    "id": "G24",
+                    "difficulty": 2,
+                    "arabicHint": "جمل الوقت: As soon as (مباشرة بعد)",
+                    "question": "Select the time connector showing that one action happened immediately after another.",
+                    "prompt": "_____ the alarm sounded, everyone evacuated the building calmly.",
+                    "options": [
+                        "Until",
+                        "While",
+                        "Since",
+                        "As soon as"
+                    ],
+                    "answer": "As soon as",
+                    "explanation": "'As soon as' means 'immediately after' — the evacuation began without any delay once the alarm sounded. This is a stronger sense of immediacy than 'when.'"
+                },
+                {
+                    "id": "G25",
+                    "difficulty": 2,
+                    "arabicHint": "جمل الوقت: While (خلال فترة زمنية)",
+                    "question": "Choose the connector that introduces an action happening during a period of time.",
+                    "prompt": "_____ the scientists were studying the sample, they noticed something unusual.",
+                    "options": [
+                        "As soon as",
+                        "Until",
+                        "While",
+                        "After"
+                    ],
+                    "answer": "While",
+                    "explanation": "Use 'while' to introduce a background action that was ongoing. Here, the studying was in progress when the unusual thing was noticed."
+                },
+                {
+                    "id": "G26",
+                    "difficulty": 2,
+                    "arabicHint": "جمل الوقت: Before (قبل أن)",
+                    "prompt": "The pilot checked all the instruments _____ the plane took off.",
+                    "options": [
+                        "after",
+                        "until",
+                        "before",
+                        "since"
+                    ],
+                    "answer": "before",
+                    "explanation": "Use 'before' to show that the checking happened earlier than the takeoff. The time clause introduced by 'before' comes after the main clause, so no comma is needed."
+                },
+                {
+                    "id": "G27",
+                    "difficulty": 2,
+                    "arabicHint": "جمل الوقت: After (بعد أن)",
+                    "prompt": "_____ the storm had passed, the villagers went out to assess the damage.",
+                    "options": [
+                        "Before",
+                        "Until",
+                        "After",
+                        "While"
+                    ],
+                    "answer": "After",
+                    "explanation": "'After' introduces the earlier event in the time clause. When the time clause comes first, a comma separates it from the main clause."
+                },
+                {
+                    "id": "G28",
+                    "difficulty": 3,
+                    "arabicHint": "جمل الوقت: Until (حتى)",
+                    "question": "Select the connector that shows the main action continued up to a certain point.",
+                    "prompt": "We waited in the car _____ the rain completely stopped.",
+                    "options": [
+                        "when",
+                        "while",
+                        "after",
+                        "until"
+                    ],
+                    "answer": "until",
+                    "explanation": "Use 'until' to show that an action continued right up to a specific point in time. After that point, the action stopped. Waiting ended when the rain stopped."
+                },
+                {
+                    "id": "G29",
+                    "difficulty": 2,
+                    "arabicHint": "الفاصلة عند بداية الجملة الزمنية",
+                    "question": "Identify the sentence with correct comma placement when the time clause comes first.",
+                    "prompt": "Which is correctly punctuated?",
+                    "options": [
+                        "When the tourists arrived they found the site closed.",
+                        "When the tourists arrived, they found the site closed.",
+                        "The tourists when they arrived found the site closed.",
+                        "When, the tourists arrived they found the site closed."
+                    ],
+                    "answer": "When the tourists arrived, they found the site closed.",
+                    "explanation": "When a time clause begins the sentence, use a comma after it before the main clause. If the main clause comes first, no comma is needed."
+                },
+                {
+                    "id": "G30",
+                    "difficulty": 1,
+                    "arabicHint": "المكثفات مع الصفات القابلة للتدرج: very / really / quite",
+                    "question": "Choose the intensifier that can naturally come before the gradable adjective.",
+                    "prompt": "The documentary about space was _____ interesting.",
+                    "options": [
+                        "absolutely",
+                        "very",
+                        "completely",
+                        "utterly"
+                    ],
+                    "answer": "very",
+                    "explanation": "'Interesting' is a gradable adjective — it exists on a scale. Use 'very,' 'really,' or 'quite' with gradable adjectives. 'Absolutely' and 'completely' go with non-gradable (extreme) adjectives."
+                },
+                {
+                    "id": "G31",
+                    "difficulty": 1,
+                    "arabicHint": "المكثفات مع الصفات غير القابلة للتدرج: absolutely / really",
+                    "question": "Select the intensifier that correctly goes with this non-gradable adjective.",
+                    "prompt": "Walking through the abandoned building at night was _____ terrifying.",
+                    "options": [
+                        "very",
+                        "a little",
+                        "absolutely",
+                        "quite a"
+                    ],
+                    "answer": "absolutely",
+                    "explanation": "'Terrifying' is a non-gradable (extreme) adjective. Use 'absolutely' or 'really' with non-gradable adjectives. 'Very' is only used with gradable adjectives."
+                },
+                {
+                    "id": "G32",
+                    "difficulty": 2,
+                    "arabicHint": "Quite مع الصفات القابلة للتدرج = قليلاً",
+                    "question": "Read the sentence and choose what 'quite' means in this context.",
+                    "prompt": "The film was quite good — I didn't love it, but I didn't dislike it either.",
+                    "options": [
+                        "Quite means completely",
+                        "Quite means a little",
+                        "Quite means very",
+                        "Quite means not at all"
+                    ],
+                    "answer": "Quite means a little",
+                    "explanation": "Before a gradable adjective (like 'good'), 'quite' means 'a moderate amount' or 'a little.' The sentence confirms a middle-of-the-road feeling."
+                },
+                {
+                    "id": "G33",
+                    "difficulty": 2,
+                    "arabicHint": "Quite مع الصفات غير القابلة للتدرج = تماماً",
+                    "question": "Choose what 'quite' means before this non-gradable adjective.",
+                    "prompt": "The view from the mountain was quite amazing — it was unlike anything I'd ever seen.",
+                    "options": [
+                        "Quite means a little",
+                        "Quite means slightly",
+                        "Quite means sort of",
+                        "Quite means completely"
+                    ],
+                    "answer": "Quite means completely",
+                    "explanation": "Before a non-gradable (extreme) adjective like 'amazing,' 'quite' means 'completely' or 'absolutely.' The context confirms an extreme, complete reaction."
+                },
+                {
+                    "id": "G34",
+                    "difficulty": 1,
+                    "arabicHint": "Really يمكن استخدامه مع نوعي الصفات",
+                    "question": "Which intensifier can correctly go with both types of adjectives in the box?",
+                    "prompt": "The hike was _____ tiring / The hike was _____ exhausting.",
+                    "options": [
+                        "very",
+                        "absolutely",
+                        "really",
+                        "completely"
+                    ],
+                    "answer": "really",
+                    "explanation": "'Really' is flexible — it works with both gradable adjectives (tiring) and non-gradable adjectives (exhausting). It means 'a lot' in both cases."
+                },
+                {
+                    "id": "G35",
+                    "difficulty": 3,
+                    "arabicHint": "Absolutely مع الصفات الشديدة فقط، لا مع الصفات القابلة للتدرج",
+                    "question": "Identify the sentence that correctly uses 'absolutely' with an appropriate adjective.",
+                    "prompt": "Which sentence is correct?",
+                    "options": [
+                        "The match was absolutely good.",
+                        "The match was absolutely fascinating.",
+                        "The match was absolutely small.",
+                        "The match was absolutely interesting."
+                    ],
+                    "answer": "The match was absolutely fascinating.",
+                    "explanation": "'Absolutely' must go with non-gradable (extreme) adjectives like 'fascinating,' 'terrifying,' 'amazing,' and 'massive.' It sounds unnatural with gradable adjectives like 'good,' 'small,' or 'interesting.'"
+                },
+                {
+                    "id": "G36",
+                    "difficulty": 1,
+                    "arabicHint": "الجملة الشرطية الحقيقية: حقيقة حاضرة (Simple Present + Simple Present)",
+                    "question": "Choose the correct tense for the result clause of a present fact conditional.",
+                    "prompt": "When objects from space enter the atmosphere at high speed, they _____ extremely hot.",
+                    "options": [
+                        "become",
+                        "became",
+                        "will become",
+                        "would become"
+                    ],
+                    "answer": "become",
+                    "explanation": "For present factual conditionals (general truths/scientific facts), use simple present in both the if/when clause and the main clause. This is not a prediction — it is always true."
+                },
+                {
+                    "id": "G37",
+                    "difficulty": 1,
+                    "arabicHint": "الجملة الشرطية المستقبلية: If + Present Simple, will + المصدر",
+                    "question": "Select the correct verb form for the result clause of a future conditional.",
+                    "prompt": "If you don't charge your phone tonight, it _____ out of battery tomorrow morning.",
+                    "options": [
+                        "run",
+                        "ran",
+                        "would run",
+                        "will run"
+                    ],
+                    "answer": "will run",
+                    "explanation": "For future real conditionals, use 'if + simple present' in the condition clause and 'will + base verb' in the result clause. Don't use 'will' in the if-clause."
+                },
+                {
+                    "id": "G38",
+                    "difficulty": 1,
+                    "arabicHint": "خطأ شائع: لا تستخدم will في جملة if",
+                    "question": "Identify the grammatically correct future conditional sentence.",
+                    "prompt": "Which sentence is correct?",
+                    "options": [
+                        "If you will study hard, you'll pass.",
+                        "If you study hard, you'll pass.",
+                        "If you studied hard, you'll pass.",
+                        "If you study hard, you would pass."
+                    ],
+                    "answer": "If you study hard, you'll pass.",
+                    "explanation": "Never use 'will' in the if-clause of a future conditional. Use simple present there and 'will + base verb' in the result clause."
+                },
+                {
+                    "id": "G39",
+                    "difficulty": 2,
+                    "arabicHint": "الشرطية المستقبلية مع may/might للاحتمال",
+                    "question": "Choose the verb that makes the result clause express possibility, not certainty.",
+                    "prompt": "If that bright light keeps moving south, it _____ be a satellite passing overhead.",
+                    "options": [
+                        "will definitely",
+                        "would",
+                        "may",
+                        "must"
+                    ],
+                    "answer": "may",
+                    "explanation": "Use 'may' or 'might' in the result clause when the outcome is possible but not certain. 'Will' makes it certain; 'may/might' keeps it open."
+                },
+                {
+                    "id": "G40",
+                    "difficulty": 2,
+                    "arabicHint": "When بدلاً من If للحقائق المؤكدة الحدوث",
+                    "question": "Select the connector that fits a fact that always happens, not just a possibility.",
+                    "prompt": "_____ ice melts, it turns into water.",
+                    "options": [
+                        "If",
+                        "When",
+                        "Unless",
+                        "Until"
+                    ],
+                    "answer": "When",
+                    "explanation": "Both 'if' and 'when' can be used for present factual conditionals. 'When' is preferred for events that always happen (like melting ice), implying certainty rather than just possibility."
+                },
+                {
+                    "id": "G41",
+                    "difficulty": 3,
+                    "arabicHint": "Might في جملة النتيجة = ليس مؤكداً",
+                    "question": "Choose the result clause that expresses a possible but uncertain outcome.",
+                    "prompt": "If you aim the telescope at the right angle tonight, you _____ be able to see a meteor shower.",
+                    "options": [
+                        "will certainly",
+                        "might",
+                        "would",
+                        "must"
+                    ],
+                    "answer": "might",
+                    "explanation": "'Might' in the result clause shows that seeing the meteor shower is possible but not guaranteed. 'Will' would imply certainty; 'would' is for hypothetical (unreal) situations."
+                },
+                {
+                    "id": "G42",
+                    "difficulty": 1,
+                    "arabicHint": "الضرورة: need to / have to",
+                    "question": "Choose the phrase that expresses necessity or obligation.",
+                    "prompt": "If you see something unusual in the sky, you _____ contact an expert immediately.",
+                    "options": [
+                        "don't need to",
+                        "needn't",
+                        "have to",
+                        "should never"
+                    ],
+                    "answer": "have to",
+                    "explanation": "'Have to' and 'need to' express strong necessity or obligation — it is required. 'Don't need to' means the opposite: it is not necessary."
+                },
+                {
+                    "id": "G43",
+                    "difficulty": 1,
+                    "arabicHint": "عدم الضرورة: don't need to / needn't = ليس ضرورياً",
+                    "question": "Select the phrase that means something is not necessary.",
+                    "prompt": "Strange-looking objects appear in the sky quite often around the world. You _____ panic every time you see one.",
+                    "options": [
+                        "have to",
+                        "need to",
+                        "must",
+                        "don't need to"
+                    ],
+                    "answer": "don't need to",
+                    "explanation": "'Don't need to' (or 'needn't') means it is not necessary to do something — you can, but it is not required or advisable. It does not mean it is forbidden."
+                },
+                {
+                    "id": "G44",
+                    "difficulty": 2,
+                    "arabicHint": "Needn't = don't need to (ليس ضرورياً)",
+                    "question": "Choose the sentence that means the same as the given sentence.",
+                    "prompt": "You don't need to bring any equipment — they provide everything.",
+                    "options": [
+                        "You mustn't bring any equipment.",
+                        "You needn't bring any equipment.",
+                        "You shouldn't bring any equipment.",
+                        "You can't bring any equipment."
+                    ],
+                    "answer": "You needn't bring any equipment.",
+                    "explanation": "'Needn't' = 'don't need to.' Both mean it is not necessary. 'Mustn't' means it is forbidden, which has a completely different meaning."
+                },
+                {
+                    "id": "G45",
+                    "difficulty": 2,
+                    "arabicHint": "have to مقابل need to: كلاهما للضرورة",
+                    "question": "Select the phrase that correctly replaces 'need to' without changing the meaning.",
+                    "prompt": "You need to show your ID at the entrance.",
+                    "options": [
+                        "You needn't",
+                        "You have to",
+                        "You don't have to",
+                        "You mustn't"
+                    ],
+                    "answer": "You have to",
+                    "explanation": "'Need to' and 'have to' both express necessity. They can often replace each other. 'Don't have to' and 'needn't' both express lack of necessity."
+                },
+                {
+                    "id": "G46",
+                    "difficulty": 3,
+                    "arabicHint": "Mustn't (محظور) مقابل don't need to (ليس ضرورياً)",
+                    "question": "Choose the correct modal to complete this sentence about something that is forbidden.",
+                    "prompt": "This area is restricted. You _____ enter without special permission.",
+                    "options": [
+                        "don't need to",
+                        "needn't",
+                        "mustn't",
+                        "don't have to"
+                    ],
+                    "answer": "mustn't",
+                    "explanation": "'Mustn't' means it is forbidden or not allowed. 'Don't need to / needn't / don't have to' all mean it is simply not necessary — a very different meaning from a prohibition."
+                },
+                {
+                    "id": "G47",
+                    "difficulty": 2,
+                    "arabicHint": "الماضي التام + جملة زمنية: قبل أن تبدأ المباراة",
+                    "question": "Choose the correct verb form to complete the past perfect in a time clause.",
+                    "prompt": "Before the coach _____ anything, the players had already started warming up.",
+                    "options": [
+                        "had said",
+                        "said",
+                        "says",
+                        "has said"
+                    ],
+                    "answer": "said",
+                    "explanation": "In a 'before' time clause describing the past, use simple past rather than past perfect. The past perfect goes in the clause describing the earlier event (players warming up)."
+                },
+                {
+                    "id": "G48",
+                    "difficulty": 3,
+                    "arabicHint": "التخمين: can't be مقابل must be (الحاضر)",
+                    "question": "Pick the correct modal based on the evidence given.",
+                    "prompt": "That shape in the sky is round and glowing, and it's completely silent. It _____ be a regular aircraft — normal planes aren't shaped like that.",
+                    "options": [
+                        "must",
+                        "might",
+                        "could",
+                        "can't"
+                    ],
+                    "answer": "can't",
+                    "explanation": "The evidence (round, glowing, silent) contradicts the features of a regular aircraft. Use 'can't be' to say something is impossible based on logical reasoning."
+                },
+                {
+                    "id": "G49",
+                    "difficulty": 3,
+                    "arabicHint": "الجملة الشرطية + قد / ربما (If ... might / may)",
+                    "question": "Select the sentence with the correct form for a future conditional expressing possibility.",
+                    "prompt": "Which sentence is correct?",
+                    "options": [
+                        "If we search that area, we might find more evidence.",
+                        "If we will search that area, we might find more evidence.",
+                        "If we searched that area, we might find more evidence.",
+                        "If we search that area, we would find more evidence."
+                    ],
+                    "answer": "If we search that area, we might find more evidence.",
+                    "explanation": "For future conditionals expressing possibility, use 'if + simple present' and 'might/may + base verb' in the result clause. Don't use 'will' in the if-clause, and don't use 'would' unless it is a hypothetical (unreal) conditional."
+                },
+                {
+                    "id": "G50",
+                    "difficulty": 3,
+                    "arabicHint": "تركيب كامل: الماضي التام + التقاطع الزمني + must have",
+                    "question": "Choose the option that correctly combines both a past perfect action and a past modal speculation.",
+                    "prompt": "By the time investigators reached the crash site, the object _____ already burned up completely, so they decided it _____ been a meteor.",
+                    "options": [
+                        "had / must have",
+                        "has / must have",
+                        "had / must be",
+                        "have / could be"
+                    ],
+                    "answer": "had / must have",
+                    "explanation": "Use past perfect ('had burned') for the action completed before another past event. Use 'must have + past participle' to express near certainty about a past event based on evidence."
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "questions": [
+                {
+                    "id": "V1",
+                    "difficulty": 1,
+                    "arabicHint": "أصل / ميزة قيّمة",
+                    "prompt": "A country's educated and hardworking population is its most valuable _____.",
+                    "options": [
+                        "asset",
+                        "obstacle",
+                        "deficit",
+                        "burden"
+                    ],
+                    "answer": "asset",
+                    "explanation": "An asset is something valuable that belongs to a person, organisation, or country and gives them an advantage. An educated population is a national asset."
+                },
+                {
+                    "id": "V2",
+                    "difficulty": 2,
+                    "arabicHint": "مستدام: يمكن الحفاظ عليه على المدى البعيد",
+                    "prompt": "The city planted trees and reduced waste to create a cleaner, more _____ environment for future generations.",
+                    "options": [
+                        "sustainable",
+                        "temporary",
+                        "expensive",
+                        "crowded"
+                    ],
+                    "answer": "sustainable",
+                    "explanation": "Sustainable means able to continue long-term without using up resources or causing permanent damage. Sustainability is a core idea in modern development planning."
+                },
+                {
+                    "id": "V3",
+                    "difficulty": 1,
+                    "arabicHint": "محسَّن / مُطوَّر",
+                    "prompt": "The airport's services were _____ to handle the growing number of international travellers.",
+                    "options": [
+                        "upgraded",
+                        "ignored",
+                        "reduced",
+                        "cancelled"
+                    ],
+                    "answer": "upgraded",
+                    "explanation": "Upgraded means improved or updated to a better standard. Airports, systems, and facilities are commonly upgraded to meet higher demand."
+                },
+                {
+                    "id": "V4",
+                    "difficulty": 2,
+                    "arabicHint": "حيوي / نشط / متغير باستمرار",
+                    "prompt": "Riyadh has become a _____ hub for business, with new companies launching every week.",
+                    "options": [
+                        "dull",
+                        "dynamic",
+                        "distant",
+                        "narrow"
+                    ],
+                    "answer": "dynamic",
+                    "explanation": "Dynamic describes something full of energy, constantly changing, and actively developing. A dynamic business environment attracts investment and growth."
+                },
+                {
+                    "id": "V5",
+                    "difficulty": 1,
+                    "arabicHint": "حضري / مدني (يتعلق بالمدينة)",
+                    "prompt": "Most _____ areas have public transport systems, hospitals, and shopping centres nearby.",
+                    "options": [
+                        "urban",
+                        "remote",
+                        "rural",
+                        "underground"
+                    ],
+                    "answer": "urban",
+                    "explanation": "Urban describes areas relating to towns and cities, as opposed to the countryside. Urban infrastructure typically includes roads, utilities, and public services."
+                },
+                {
+                    "id": "V6",
+                    "difficulty": 1,
+                    "arabicHint": "ريفي (يتعلق بالأرياف والقرى)",
+                    "prompt": "Many families in _____ regions rely on farming and livestock for their income.",
+                    "options": [
+                        "urban",
+                        "rural",
+                        "coastal",
+                        "industrial"
+                    ],
+                    "answer": "rural",
+                    "explanation": "Rural describes countryside areas outside towns and cities. Rural communities often face different challenges from urban ones, like limited access to services."
+                },
+                {
+                    "id": "V7",
+                    "difficulty": 2,
+                    "arabicHint": "نائي / بعيد عن المراكز الحضارية",
+                    "prompt": "The village was so _____ that it took three hours by road to reach the nearest clinic.",
+                    "options": [
+                        "central",
+                        "urban",
+                        "modern",
+                        "remote"
+                    ],
+                    "answer": "remote",
+                    "explanation": "Remote means far away from populated areas or cities. Remote areas often lack easy access to services, making technology and internet access especially important."
+                },
+                {
+                    "id": "V8",
+                    "difficulty": 3,
+                    "arabicHint": "مُبسَّط / أُزيلت منه التعقيدات غير الضرورية",
+                    "prompt": "The new digital system _____ government paperwork so that citizens no longer had to visit multiple offices.",
+                    "options": [
+                        "complicated",
+                        "delayed",
+                        "streamlined",
+                        "duplicated"
+                    ],
+                    "answer": "streamlined",
+                    "explanation": "Streamlined means made more efficient by removing unnecessary steps or complications. A streamlined process saves time and resources."
+                },
+                {
+                    "id": "V9",
+                    "difficulty": 2,
+                    "arabicHint": "مشروع / مشروع تجاري (شركة)",
+                    "prompt": "The government offered grants to help young people launch their own business _____.",
+                    "options": [
+                        "enterprise",
+                        "obstacle",
+                        "debate",
+                        "leisure"
+                    ],
+                    "answer": "enterprise",
+                    "explanation": "An enterprise is a business or company, especially a new or bold one. 'Enterprise' often implies initiative, risk-taking, and a drive to succeed."
+                },
+                {
+                    "id": "V10",
+                    "difficulty": 1,
+                    "arabicHint": "عبارة محادثة: لا أعرف! / ما أدري!",
+                    "prompt": "Ahmed asked where the bus went, and his friend shrugged and said: '_____!'",
+                    "options": [
+                        "Beats me",
+                        "Well done",
+                        "Never mind",
+                        "Hold on"
+                    ],
+                    "answer": "Beats me",
+                    "explanation": "'Beats me!' is an informal phrase meaning 'I have no idea.' It is used when you genuinely do not know the answer to something."
+                },
+                {
+                    "id": "V11",
+                    "difficulty": 1,
+                    "arabicHint": "عبارة محادثة: من يدري / كل شيء ممكن",
+                    "prompt": "Nadia said she doubted she'd win the competition, but her friend replied: '_____. Stranger things have happened!'",
+                    "options": [
+                        "You never know",
+                        "That's too bad",
+                        "It doesn't matter",
+                        "Beats me"
+                    ],
+                    "answer": "You never know",
+                    "explanation": "'You never know' means anything is possible — don't rule something out just because it seems unlikely. It encourages optimism or open-mindedness."
+                },
+                {
+                    "id": "V12",
+                    "difficulty": 1,
+                    "arabicHint": "تعجب: وا! (للتعبير عن الدهشة)",
+                    "prompt": "When the student saw the enormous crater for the first time, she gasped and exclaimed: '_____, that's huge!'",
+                    "options": [
+                        "Gee",
+                        "Oops",
+                        "Alas",
+                        "Hmm"
+                    ],
+                    "answer": "Gee",
+                    "explanation": "'Gee!' is an informal exclamation used to show surprise or wonder. It is mild and common in everyday conversation."
+                },
+                {
+                    "id": "V13",
+                    "difficulty": 1,
+                    "arabicHint": "مصنوع بواسطة الإنسان (عكس الطبيعي)",
+                    "prompt": "The object found in the field was definitely _____ — it had bolts, wires, and a serial number on it.",
+                    "options": [
+                        "man-made",
+                        "natural",
+                        "organic",
+                        "ancient"
+                    ],
+                    "answer": "man-made",
+                    "explanation": "'Man-made' means produced or constructed by humans, not occurring naturally. Satellites, plastics, and chemicals are examples of man-made things."
+                },
+                {
+                    "id": "V14",
+                    "difficulty": 2,
+                    "arabicHint": "بقايا / ما تبقى من شيء ما بعد تدميره",
+                    "prompt": "After the fire, only the _____ of the structure were left standing — a few burned walls and rubble.",
+                    "options": [
+                        "remains",
+                        "origins",
+                        "designs",
+                        "repairs"
+                    ],
+                    "answer": "remains",
+                    "explanation": "'Remains' means what is left of something after it has been damaged or destroyed. It can also refer to physical ruins or debris."
+                },
+                {
+                    "id": "V15",
+                    "difficulty": 1,
+                    "arabicHint": "اجتمع / تجمّع في مكان واحد",
+                    "prompt": "A large crowd had already _____ in the square by the time the announcement was made.",
+                    "options": [
+                        "scattered",
+                        "gathered",
+                        "departed",
+                        "rested"
+                    ],
+                    "answer": "gathered",
+                    "explanation": "To gather (or 'come together') means to collect in one place. A crowd gathers when people spontaneously come to the same spot, often because of something unusual or interesting."
+                },
+                {
+                    "id": "V16",
+                    "difficulty": 2,
+                    "arabicHint": "حفرة: ناتجة عن انفجار أو اصطدام نيزك",
+                    "prompt": "Scientists believe the enormous circular hole in the desert was a _____ formed by a meteorite impact thousands of years ago.",
+                    "options": [
+                        "volcano",
+                        "glacier",
+                        "crater",
+                        "canyon"
+                    ],
+                    "answer": "crater",
+                    "explanation": "A crater is a large bowl-shaped hole in the ground, often caused by an explosion, volcanic eruption, or the impact of a space rock. Famous craters can be seen on the moon."
+                },
+                {
+                    "id": "V17",
+                    "difficulty": 1,
+                    "arabicHint": "نيزك: صخرة من الفضاء تصطدم بالأرض",
+                    "prompt": "The rock they found in the desert was confirmed by scientists to be a _____ — a fragment from outer space.",
+                    "options": [
+                        "satellite",
+                        "meteorite",
+                        "telescope",
+                        "comet"
+                    ],
+                    "answer": "meteorite",
+                    "explanation": "A meteorite is a piece of rock or metal from outer space that survives passing through the atmosphere and lands on Earth's surface."
+                },
+                {
+                    "id": "V18",
+                    "difficulty": 1,
+                    "arabicHint": "إعصار (عاصفة دوامية قوية في المناطق الاستوائية)",
+                    "prompt": "The coastal town was evacuated before the _____ arrived, as wind speeds had reached 200 kilometres per hour.",
+                    "options": [
+                        "drought",
+                        "earthquake",
+                        "hurricane",
+                        "blizzard"
+                    ],
+                    "answer": "hurricane",
+                    "explanation": "A hurricane is a powerful tropical storm with strong rotating winds. Hurricanes form over warm ocean water and can cause enormous damage when they reach land."
+                },
+                {
+                    "id": "V19",
+                    "difficulty": 2,
+                    "arabicHint": "إعصار عمودي (عمود هواء يدور ويمتد من السحابة إلى الأرض)",
+                    "prompt": "The witnesses described a spinning column of air that lifted cars off the street — it was clearly a _____.",
+                    "options": [
+                        "hurricane",
+                        "typhoon",
+                        "tornado",
+                        "tsunami"
+                    ],
+                    "answer": "tornado",
+                    "explanation": "A tornado is a violently rotating column of air that extends from a storm cloud to the ground. Unlike hurricanes, tornadoes are narrower but can be extremely destructive."
+                },
+                {
+                    "id": "V20",
+                    "difficulty": 2,
+                    "arabicHint": "منطاد الطقس: يُستخدم لجمع بيانات جوية",
+                    "prompt": "The meteorology team released a _____ carrying sensors into the upper atmosphere to collect temperature and pressure data.",
+                    "options": [
+                        "weather balloon",
+                        "communications satellite",
+                        "space shuttle",
+                        "aircraft carrier"
+                    ],
+                    "answer": "weather balloon",
+                    "explanation": "A weather balloon is a large balloon carrying instruments into the upper atmosphere to gather data about temperature, humidity, and wind. They are sometimes mistaken for UFOs."
+                },
+                {
+                    "id": "V21",
+                    "difficulty": 2,
+                    "arabicHint": "قمر صناعي للاتصالات: يبث الإشارات حول العالم",
+                    "prompt": "The live broadcast was made possible by a _____ orbiting the Earth and relaying signals between continents.",
+                    "options": [
+                        "weather balloon",
+                        "space probe",
+                        "communications satellite",
+                        "meteor"
+                    ],
+                    "answer": "communications satellite",
+                    "explanation": "A communications satellite is an artificial object placed in orbit around Earth to relay television, radio, internet, and phone signals across long distances."
+                },
+                {
+                    "id": "V22",
+                    "difficulty": 1,
+                    "arabicHint": "قاطرة / قطار بخاري (عربة القطار الكبيرة)",
+                    "prompt": "The old museum had a real steam _____ on display outside — its huge iron wheels were impressive.",
+                    "options": [
+                        "locomotive",
+                        "submarine",
+                        "helicopter",
+                        "crane"
+                    ],
+                    "answer": "locomotive",
+                    "explanation": "A locomotive is the powered engine vehicle at the front of a train. Steam locomotives were common in early railways and are now part of industrial history."
+                },
+                {
+                    "id": "V23",
+                    "difficulty": 1,
+                    "arabicHint": "أتساءل / أتعجب (للتعبير عن الفضول)",
+                    "prompt": "Looking at the strange light in the sky, the boy said quietly: 'I _____ what that could be.'",
+                    "options": [
+                        "wonder",
+                        "decide",
+                        "confirm",
+                        "ignore"
+                    ],
+                    "answer": "wonder",
+                    "explanation": "To wonder means to feel curious or uncertain about something. 'I wonder what...' is a common phrase for expressing curiosity or speculation in English."
+                },
+                {
+                    "id": "V24",
+                    "difficulty": 2,
+                    "arabicHint": "موارد طبيعية: ثروات موجودة في الطبيعة",
+                    "prompt": "The region is rich in _____ resources such as oil, gas, and minerals that drive its economy.",
+                    "options": [
+                        "man-made",
+                        "natural",
+                        "digital",
+                        "foreign"
+                    ],
+                    "answer": "natural",
+                    "explanation": "Natural resources are materials found in nature that humans use, such as oil, water, minerals, and forests. They are a key indicator of a country's economic potential."
+                },
+                {
+                    "id": "V25",
+                    "difficulty": 3,
+                    "arabicHint": "يجذب / يستقطب (المستثمرين والأعمال)",
+                    "prompt": "A strong legal system and low taxes help a country _____ investors from around the world.",
+                    "options": [
+                        "attract",
+                        "ignore",
+                        "restrict",
+                        "scatter"
+                    ],
+                    "answer": "attract",
+                    "explanation": "To attract means to draw something or someone towards you. Countries attract investment by offering stable conditions, good infrastructure, and economic incentives."
+                },
+                {
+                    "id": "V26",
+                    "difficulty": 2,
+                    "arabicHint": "تنمية / تطوير القدرات والإمكانيات",
+                    "prompt": "The scholarship programme was designed to help talented students from all backgrounds reach their full _____.",
+                    "options": [
+                        "potential",
+                        "obstacle",
+                        "distance",
+                        "balance"
+                    ],
+                    "answer": "potential",
+                    "explanation": "Potential refers to the qualities or abilities that someone has which can be developed further. Education and opportunity help people realise their potential."
+                },
+                {
+                    "id": "V27",
+                    "difficulty": 2,
+                    "arabicHint": "الاتصالات: وسائل نقل المعلومات",
+                    "prompt": "Access to reliable _____ technology, such as fast internet, has become essential for both education and business.",
+                    "options": [
+                        "telecommunications",
+                        "agriculture",
+                        "architecture",
+                        "archaeology"
+                    ],
+                    "answer": "telecommunications",
+                    "explanation": "Telecommunications refers to communication over long distances using electronic means — phones, internet, radio, and television are all part of telecommunications."
+                },
+                {
+                    "id": "V28",
+                    "difficulty": 3,
+                    "arabicHint": "عبارة مجازية: قطعاً / بالتأكيد (لا مجال للشك)",
+                    "prompt": "After seeing the wreckage close up, the investigator said: 'This _____ been caused by something extremely powerful.'",
+                    "options": [
+                        "must have",
+                        "can't have",
+                        "might not have",
+                        "wouldn't have"
+                    ],
+                    "answer": "must have",
+                    "explanation": "'Must have + past participle' expresses near certainty about a past event based on strong evidence. Here the size of the wreckage makes the investigator certain about the cause."
+                },
+                {
+                    "id": "V29",
+                    "difficulty": 2,
+                    "arabicHint": "يساهم في / يُسهم في",
+                    "prompt": "Regular exercise and a balanced diet _____ greatly to a person's overall health and happiness.",
+                    "options": [
+                        "contribute",
+                        "destroy",
+                        "remove",
+                        "ignore"
+                    ],
+                    "answer": "contribute",
+                    "explanation": "To contribute means to give or add something that helps a result happen. Culture, sport, and education all contribute to quality of life."
+                },
+                {
+                    "id": "V30",
+                    "difficulty": 1,
+                    "arabicHint": "يُؤسَّس / يُنشأ (مبنى أو منظمة)",
+                    "prompt": "New libraries and museums will be _____ in different regions to make culture accessible to everyone.",
+                    "options": [
+                        "established",
+                        "demolished",
+                        "borrowed",
+                        "separated"
+                    ],
+                    "answer": "established",
+                    "explanation": "To establish means to set up or create something officially, such as an institution or system, so that it can function properly."
+                },
+                {
+                    "id": "V31",
+                    "difficulty": 2,
+                    "arabicHint": "يلبّي / يوفّر ما يحتاجه",
+                    "prompt": "The new transport network was designed to _____ for the needs of millions of daily commuters.",
+                    "options": [
+                        "cater",
+                        "restrict",
+                        "remove",
+                        "borrow"
+                    ],
+                    "answer": "cater",
+                    "explanation": "To cater for means to provide what is needed for a particular group or purpose. Services cater for visitors, patients, or customers."
+                },
+                {
+                    "id": "V32",
+                    "difficulty": 2,
+                    "arabicHint": "التراث / الموروث الثقافي",
+                    "prompt": "Festivals and folk arts help communities celebrate and preserve their cultural _____.",
+                    "options": [
+                        "heritage",
+                        "traffic",
+                        "equipment",
+                        "shortage"
+                    ],
+                    "answer": "heritage",
+                    "explanation": "Heritage refers to the traditions and values passed down through generations. Protecting cultural heritage keeps a society's identity alive."
+                },
+                {
+                    "id": "V33",
+                    "difficulty": 1,
+                    "arabicHint": "الهوية الوطنية / الانتماء للوطن",
+                    "prompt": "The country's flag, language, and history are all part of its _____ identity.",
+                    "options": [
+                        "national",
+                        "foreign",
+                        "industrial",
+                        "ancient"
+                    ],
+                    "answer": "national",
+                    "explanation": "National means relating to or belonging to a particular country as a whole. National identity includes shared language, customs, history, and values."
+                },
+                {
+                    "id": "V34",
+                    "difficulty": 2,
+                    "arabicHint": "يتوسع / ينمو في مجالات جديدة",
+                    "prompt": "The company plans to _____ into new markets in Africa and Asia over the next five years.",
+                    "options": [
+                        "expand",
+                        "shrink",
+                        "isolate",
+                        "delay"
+                    ],
+                    "answer": "expand",
+                    "explanation": "To expand means to grow larger or move into new areas. Economies and businesses expand by entering new sectors or regions."
+                },
+                {
+                    "id": "V35",
+                    "difficulty": 3,
+                    "arabicHint": "الموقع الجغرافي الاستراتيجي",
+                    "prompt": "The country's _____ position — sitting between three continents — makes it a natural hub for trade and travel.",
+                    "options": [
+                        "geographical",
+                        "historical",
+                        "electrical",
+                        "biological"
+                    ],
+                    "answer": "geographical",
+                    "explanation": "Geographical means relating to the physical location or features of a place. A country's geographical position can give it major advantages in trade and transport."
+                },
+                {
+                    "id": "V36",
+                    "difficulty": 2,
+                    "arabicHint": "يُدار / تشغيل مشروع أو عملية",
+                    "prompt": "The government created a new system to support the _____ of small businesses in rural areas.",
+                    "options": [
+                        "operation",
+                        "deletion",
+                        "isolation",
+                        "invasion"
+                    ],
+                    "answer": "operation",
+                    "explanation": "Operation refers to the way a business or system functions and is run on a daily basis. A smooth operation requires good management and resources."
+                },
+                {
+                    "id": "V37",
+                    "difficulty": 1,
+                    "arabicHint": "فرص العمل / التوظيف",
+                    "prompt": "Expanding the technology sector will create more _____ opportunities for young graduates.",
+                    "options": [
+                        "employment",
+                        "pollution",
+                        "isolation",
+                        "conflict"
+                    ],
+                    "answer": "employment",
+                    "explanation": "Employment means having a paid job. Creating employment opportunities is one of the main goals of economic development."
+                },
+                {
+                    "id": "V38",
+                    "difficulty": 2,
+                    "arabicHint": "مستثمر: شخص يضع ماله في مشروع ما",
+                    "prompt": "Foreign _____ brought billions of dollars into the country's new technology sector.",
+                    "options": [
+                        "investors",
+                        "tourists",
+                        "students",
+                        "journalists"
+                    ],
+                    "answer": "investors",
+                    "explanation": "Investors are people or organisations that put money into a business or project hoping to make a profit. Attracting investors is key to economic growth."
+                },
+                {
+                    "id": "V39",
+                    "difficulty": 1,
+                    "arabicHint": "التنمية: نمو وتقدم",
+                    "prompt": "Building new roads and schools is an important part of a country's economic _____.",
+                    "options": [
+                        "development",
+                        "destruction",
+                        "entertainment",
+                        "decoration"
+                    ],
+                    "answer": "development",
+                    "explanation": "Development means growth and progress, particularly in economic and social areas. Infrastructure, education, and health all contribute to national development."
+                },
+                {
+                    "id": "V40",
+                    "difficulty": 3,
+                    "arabicHint": "الغلاف الجوي: الطبقة الهوائية المحيطة بالأرض",
+                    "prompt": "Most space rocks burn up completely when they enter the Earth's _____ due to intense heat and friction.",
+                    "options": [
+                        "atmosphere",
+                        "ocean",
+                        "crust",
+                        "orbit"
+                    ],
+                    "answer": "atmosphere",
+                    "explanation": "The atmosphere is the layer of gases surrounding the Earth. It protects us by burning up most space rocks before they reach the surface."
+                },
+                {
+                    "id": "V41",
+                    "difficulty": 1,
+                    "arabicHint": "غير محدد / مجهول الهوية",
+                    "prompt": "The object in the video remained _____ — no expert could say for certain what it was.",
+                    "options": [
+                        "unidentified",
+                        "recognised",
+                        "celebrated",
+                        "announced"
+                    ],
+                    "answer": "unidentified",
+                    "explanation": "Unidentified means not recognised or named. A UFO — Unidentified Flying Object — is any object in the sky that cannot be explained."
+                },
+                {
+                    "id": "V42",
+                    "difficulty": 2,
+                    "arabicHint": "يُضايق / يستفز (شخصاً أو حيواناً)",
+                    "prompt": "The boy was warned not to _____ the dog by pulling its tail — it might bite.",
+                    "options": [
+                        "tease",
+                        "feed",
+                        "train",
+                        "ignore"
+                    ],
+                    "answer": "tease",
+                    "explanation": "To tease means to provoke or annoy a person or animal, often playfully. Teasing an animal can be dangerous as it may cause an aggressive reaction."
+                },
+                {
+                    "id": "V43",
+                    "difficulty": 2,
+                    "arabicHint": "طيارة شراعية (تحلّق بالهواء بدون محرك)",
+                    "prompt": "The silent aircraft drifting slowly overhead was a _____ — it relies on air currents, not an engine.",
+                    "options": [
+                        "glider",
+                        "helicopter",
+                        "rocket",
+                        "submarine"
+                    ],
+                    "answer": "glider",
+                    "explanation": "A glider is an aircraft with no engine that flies by riding air currents. It can be mistaken for other objects because it moves silently."
+                },
+                {
+                    "id": "V44",
+                    "difficulty": 1,
+                    "arabicHint": "مروحية (طائرة ذات مراوح دوّارة)",
+                    "prompt": "The rescue team arrived by _____, landing in the small clearing near the mountain.",
+                    "options": [
+                        "helicopter",
+                        "submarine",
+                        "locomotive",
+                        "glider"
+                    ],
+                    "answer": "helicopter",
+                    "explanation": "A helicopter is an aircraft that uses rotating blades to fly. It can take off and land vertically, making it useful in emergencies and areas without a runway."
+                },
+                {
+                    "id": "V45",
+                    "difficulty": 2,
+                    "arabicHint": "يطنّ / يُحدث صوتاً منخفضاً مستمراً",
+                    "prompt": "The crowd heard a low _____ sound coming from the strange device, like a motor running quietly.",
+                    "options": [
+                        "humming",
+                        "crashing",
+                        "whistling",
+                        "exploding"
+                    ],
+                    "answer": "humming",
+                    "explanation": "A humming sound is a continuous low buzzing noise. Machines, electrical equipment, and insects can all produce a humming sound."
+                },
+                {
+                    "id": "V46",
+                    "difficulty": 1,
+                    "arabicHint": "يومض / يضيء بشكل متقطع",
+                    "prompt": "The warning light on the control panel kept _____, signalling that something needed immediate attention.",
+                    "options": [
+                        "flashing",
+                        "melting",
+                        "sinking",
+                        "freezing"
+                    ],
+                    "answer": "flashing",
+                    "explanation": "Flashing means producing quick, repeated bursts of light. Lights flash on emergency vehicles, cameras, and warning systems."
+                },
+                {
+                    "id": "V47",
+                    "difficulty": 2,
+                    "arabicHint": "رائع / مثير للدهشة",
+                    "prompt": "The view from the top of the mountain was _____ — everyone stopped talking and just stared.",
+                    "options": [
+                        "spectacular",
+                        "ordinary",
+                        "predictable",
+                        "dull"
+                    ],
+                    "answer": "spectacular",
+                    "explanation": "Spectacular means very impressive or dramatic. It is used to describe scenes, events, or achievements that are striking and memorable."
+                },
+                {
+                    "id": "V48",
+                    "difficulty": 3,
+                    "arabicHint": "الاستثمار: وضع المال أو الجهد في شيء لتحقيق مكاسب مستقبلية",
+                    "prompt": "The government's _____ in education and healthcare paid off — a healthier, more skilled population boosted the economy.",
+                    "options": [
+                        "investment",
+                        "interference",
+                        "reduction",
+                        "withdrawal"
+                    ],
+                    "answer": "investment",
+                    "explanation": "Investment means spending money, time, or effort on something now in order to gain a benefit in the future. Nations invest in education to build a stronger workforce."
+                },
+                {
+                    "id": "V49",
+                    "difficulty": 2,
+                    "arabicHint": "مؤتمر الحجاج / زيارة المزارات الدينية",
+                    "prompt": "Millions of _____ travel to Makkah every year to perform the Hajj — one of the five pillars of Islam.",
+                    "options": [
+                        "pilgrims",
+                        "tourists",
+                        "refugees",
+                        "traders"
+                    ],
+                    "answer": "pilgrims",
+                    "explanation": "Pilgrims are people who travel to a holy place for religious reasons. The Hajj pilgrimage to Makkah is one of the largest annual gatherings of people in the world."
+                },
+                {
+                    "id": "V50",
+                    "difficulty": 3,
+                    "arabicHint": "يتصل بـ / يربط (مكانين أو نظامين)",
+                    "prompt": "The new railway line will _____ the northern cities to the main industrial hub in the south.",
+                    "options": [
+                        "connect",
+                        "separate",
+                        "destroy",
+                        "ignore"
+                    ],
+                    "answer": "connect",
+                    "explanation": "To connect means to join or link two things or places together. Transport and communication networks connect cities, regions, and countries."
+                }
+            ]
+        }
+    ]
+}

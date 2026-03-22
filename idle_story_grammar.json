@@ -1,0 +1,5702 @@
+[
+    {
+        "story": [
+            {
+                "text": "I can't find my wallet. I ",
+                "highlight": false
+            },
+            {
+                "text": "must have left",
+                "highlight": true
+            },
+            {
+                "text": " it at the restaurant.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Must Have + Past Participle (Deduction)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The team lost the game. They ",
+                "highlight": false
+            },
+            {
+                "text": "should have practiced",
+                "highlight": true
+            },
+            {
+                "text": " more.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Should Have + Past Participle (Regret/Advice)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She is late for the meeting. She ",
+                "highlight": false
+            },
+            {
+                "text": "might have missed",
+                "highlight": true
+            },
+            {
+                "text": " the bus.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Might Have + Past Participle (Possibility)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The cake is burned. You ",
+                "highlight": false
+            },
+            {
+                "text": "should have watched",
+                "highlight": true
+            },
+            {
+                "text": " the oven.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Should Have + Past Participle (Criticism)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He doesn't know the answer. He ",
+                "highlight": false
+            },
+            {
+                "text": "could have forgotten",
+                "highlight": true
+            },
+            {
+                "text": " the lesson.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Could Have + Past Participle (Possibility)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The window is broken. It ",
+                "highlight": false
+            },
+            {
+                "text": "must have been hit",
+                "highlight": true
+            },
+            {
+                "text": " by a ball.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Passive Modal (Must Have Been + Past Participle)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "I didn't see you at the party. You ",
+                "highlight": false
+            },
+            {
+                "text": "were supposed to come",
+                "highlight": true
+            },
+            {
+                "text": " with us.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Was/Were Supposed To (Expectation)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The streets are wet. It ",
+                "highlight": false
+            },
+            {
+                "text": "must have rained",
+                "highlight": true
+            },
+            {
+                "text": " last night.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Must Have + Past Participle (Conclusion)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "I failed the test. I ",
+                "highlight": false
+            },
+            {
+                "text": "should have studied",
+                "highlight": true
+            },
+            {
+                "text": " harder.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Should Have + Past Participle (Regret)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "Where is the cat? It ",
+                "highlight": false
+            },
+            {
+                "text": "may have gone",
+                "highlight": true
+            },
+            {
+                "text": " outside.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "May Have + Past Participle (Possibility)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The car won't start. I ",
+                "highlight": false
+            },
+            {
+                "text": "may have left",
+                "highlight": true
+            },
+            {
+                "text": " the lights on.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "May Have + Past Participle (Possibility)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The mail hasn't arrived. It ",
+                "highlight": false
+            },
+            {
+                "text": "could have been delayed",
+                "highlight": true
+            },
+            {
+                "text": " by the storm.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Passive Modal (Could Have Been + Past Participle)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She looks very happy. She ",
+                "highlight": false
+            },
+            {
+                "text": "must have received",
+                "highlight": true
+            },
+            {
+                "text": " good news.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Must Have + Past Participle (Conclusion)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "We are out of milk. I ",
+                "highlight": false
+            },
+            {
+                "text": "was supposed to buy",
+                "highlight": true
+            },
+            {
+                "text": " some yesterday.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Was/Were Supposed To (Unfulfilled Action)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He has a stomachache. He ",
+                "highlight": false
+            },
+            {
+                "text": "shouldn't have eaten",
+                "highlight": true
+            },
+            {
+                "text": " so much candy.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Should Not Have + Past Participle (Negative Advice)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The plant died. You ",
+                "highlight": false
+            },
+            {
+                "text": "should have watered",
+                "highlight": true
+            },
+            {
+                "text": " it.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Should Have + Past Participle (Criticism)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The door is open. Someone ",
+                "highlight": false
+            },
+            {
+                "text": "must have forgotten",
+                "highlight": true
+            },
+            {
+                "text": " to close it.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Must Have + Past Participle (Deduction)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She isn't here. She ",
+                "highlight": false
+            },
+            {
+                "text": "might have gone",
+                "highlight": true
+            },
+            {
+                "text": " home early.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Might Have + Past Participle (Possibility)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The light is red. You ",
+                "highlight": false
+            },
+            {
+                "text": "were supposed to stop",
+                "highlight": true
+            },
+            {
+                "text": " at the line.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Was/Were Supposed To (Rule/Expectation)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "My phone is dead. I ",
+                "highlight": false
+            },
+            {
+                "text": "should have charged",
+                "highlight": true
+            },
+            {
+                "text": " it before leaving.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Should Have + Past Participle (Regret)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The food is cold. It ",
+                "highlight": false
+            },
+            {
+                "text": "should have been heated",
+                "highlight": true
+            },
+            {
+                "text": " before serving.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Passive Modal (Should Have Been + Past Participle)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He is very tired. He ",
+                "highlight": false
+            },
+            {
+                "text": "must have worked",
+                "highlight": true
+            },
+            {
+                "text": " all night.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Must Have + Past Participle (Deduction)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The package is damaged. It ",
+                "highlight": false
+            },
+            {
+                "text": "could have been dropped",
+                "highlight": true
+            },
+            {
+                "text": " during shipping.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Passive Modal (Could Have Been + Past Participle)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "They are late. They ",
+                "highlight": false
+            },
+            {
+                "text": "may have gotten",
+                "highlight": true
+            },
+            {
+                "text": " lost on the way.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "May Have + Past Participle (Possibility)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "I didn't pass. I ",
+                "highlight": false
+            },
+            {
+                "text": "should have reviewed",
+                "highlight": true
+            },
+            {
+                "text": " the notes.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Should Have + Past Participle (Regret)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The vase is gone. It ",
+                "highlight": false
+            },
+            {
+                "text": "must have been moved",
+                "highlight": true
+            },
+            {
+                "text": " by the cleaner.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Passive Modal (Must Have Been + Past Participle)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She is sad. She ",
+                "highlight": false
+            },
+            {
+                "text": "might have heard",
+                "highlight": true
+            },
+            {
+                "text": " bad news.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Might Have + Past Participle (Possibility/Deduction)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The car crashed. The driver ",
+                "highlight": false
+            },
+            {
+                "text": "must have been speeding",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Must Have + Past Participle (Deduction)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "I missed the call. I ",
+                "highlight": false
+            },
+            {
+                "text": "must have been sleeping",
+                "highlight": true
+            },
+            {
+                "text": " when it rang.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Must Have + Past Participle (Deduction)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The cake tastes strange. You ",
+                "highlight": false
+            },
+            {
+                "text": "might have used",
+                "highlight": true
+            },
+            {
+                "text": " salt instead of sugar.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Might Have + Past Participle (Possibility)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The road is closed. There ",
+                "highlight": false
+            },
+            {
+                "text": "must have been",
+                "highlight": true
+            },
+            {
+                "text": " an accident.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Must Have + Past Participle (Deduction)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "My bag is heavy. I ",
+                "highlight": false
+            },
+            {
+                "text": "shouldn't have packed",
+                "highlight": true
+            },
+            {
+                "text": " so much stuff.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Should Not Have + Past Participle (Regret)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He is wet. He ",
+                "highlight": false
+            },
+            {
+                "text": "must have walked",
+                "highlight": true
+            },
+            {
+                "text": " home in the rain.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Must Have + Past Participle (Deduction)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The file is missing. It ",
+                "highlight": false
+            },
+            {
+                "text": "could have been deleted",
+                "highlight": true
+            },
+            {
+                "text": " by mistake.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Passive Modal (Could Have Been + Past Participle)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "You are early. You ",
+                "highlight": false
+            },
+            {
+                "text": "were supposed to arrive",
+                "highlight": true
+            },
+            {
+                "text": " at 5 PM.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Was/Were Supposed To (Expectation)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The glass is empty. Someone ",
+                "highlight": false
+            },
+            {
+                "text": "must have drunk",
+                "highlight": true
+            },
+            {
+                "text": " the water.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Must Have + Past Participle (Deduction)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "I have no money left. I ",
+                "highlight": false
+            },
+            {
+                "text": "shouldn't have spent",
+                "highlight": true
+            },
+            {
+                "text": " it all on clothes.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Should Not Have + Past Participle (Regret)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The dog is barking. He ",
+                "highlight": false
+            },
+            {
+                "text": "might have heard",
+                "highlight": true
+            },
+            {
+                "text": " a noise outside.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Might Have + Past Participle (Possibility)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The keys are gone. I ",
+                "highlight": false
+            },
+            {
+                "text": "may have dropped",
+                "highlight": true
+            },
+            {
+                "text": " them in the park.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "May Have + Past Participle (Possibility)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The window is clean. It ",
+                "highlight": false
+            },
+            {
+                "text": "must have been washed",
+                "highlight": true
+            },
+            {
+                "text": " today.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Passive Modal (Must Have Been + Past Participle)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She is angry. You ",
+                "highlight": false
+            },
+            {
+                "text": "should have called",
+                "highlight": true
+            },
+            {
+                "text": " her back.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Should Have + Past Participle (Advice/Regret)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The train left. We ",
+                "highlight": false
+            },
+            {
+                "text": "should have run",
+                "highlight": true
+            },
+            {
+                "text": " faster.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Should Have + Past Participle (Regret)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The room is messy. They ",
+                "highlight": false
+            },
+            {
+                "text": "must have had",
+                "highlight": true
+            },
+            {
+                "text": " a party.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Must Have + Past Participle (Deduction)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "I am hungry. I ",
+                "highlight": false
+            },
+            {
+                "text": "should have eaten",
+                "highlight": true
+            },
+            {
+                "text": " breakfast.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Should Have + Past Participle (Regret)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The grass is long. It ",
+                "highlight": false
+            },
+            {
+                "text": "should have been cut",
+                "highlight": true
+            },
+            {
+                "text": " last week.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Passive Modal (Should Have Been + Past Participle)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He runs very fast. He ",
+                "highlight": false
+            },
+            {
+                "text": "must have trained",
+                "highlight": true
+            },
+            {
+                "text": " hard.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Must Have + Past Participle (Deduction)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The movie was bad. We ",
+                "highlight": false
+            },
+            {
+                "text": "shouldn't have watched",
+                "highlight": true
+            },
+            {
+                "text": " it.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Should Not Have + Past Participle (Regret)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The soup is salty. You ",
+                "highlight": false
+            },
+            {
+                "text": "must have added",
+                "highlight": true
+            },
+            {
+                "text": " too much salt.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Must Have + Past Participle (Deduction)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "I am lost. I ",
+                "highlight": false
+            },
+            {
+                "text": "should have brought",
+                "highlight": true
+            },
+            {
+                "text": " a map.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Should Have + Past Participle (Regret)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The lights are off. They ",
+                "highlight": false
+            },
+            {
+                "text": "must have gone",
+                "highlight": true
+            },
+            {
+                "text": " to sleep.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Must Have + Past Participle (Conclusion)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The book was ",
+                "highlight": false
+            },
+            {
+                "text": "so interesting that",
+                "highlight": true
+            },
+            {
+                "text": " I couldn't put it down.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "So + Adjective + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "It was ",
+                "highlight": false
+            },
+            {
+                "text": "such a cold day that",
+                "highlight": true
+            },
+            {
+                "text": " the lake froze.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Such + Adjective + Noun + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He ran ",
+                "highlight": false
+            },
+            {
+                "text": "so fast that",
+                "highlight": true
+            },
+            {
+                "text": " he won the race easily.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "So + Adverb + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "There were ",
+                "highlight": false
+            },
+            {
+                "text": "so many people that",
+                "highlight": true
+            },
+            {
+                "text": " we couldn't find a seat.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "So Many + Plural Noun + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She has ",
+                "highlight": false
+            },
+            {
+                "text": "so much homework that",
+                "highlight": true
+            },
+            {
+                "text": " she can't go out.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "So Much + Noncount Noun + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "",
+                "highlight": false
+            },
+            {
+                "text": "After finishing",
+                "highlight": true
+            },
+            {
+                "text": " dinner, they went for a walk.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reduced Adverb Clause (After + Gerund)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "",
+                "highlight": false
+            },
+            {
+                "text": "While waiting",
+                "highlight": true
+            },
+            {
+                "text": " for the bus, I read a book.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reduced Adverb Clause (While + Gerund)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The problem was ",
+                "highlight": false
+            },
+            {
+                "text": "so difficult that",
+                "highlight": true
+            },
+            {
+                "text": " no one solved it.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "So + Adjective + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "It was ",
+                "highlight": false
+            },
+            {
+                "text": "such a loud noise that",
+                "highlight": true
+            },
+            {
+                "text": " everyone jumped.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Such + Adjective + Noun + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "",
+                "highlight": false
+            },
+            {
+                "text": "Before leaving",
+                "highlight": true
+            },
+            {
+                "text": " the house, turn off the lights.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reduced Adverb Clause (Before + Gerund)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He spoke ",
+                "highlight": false
+            },
+            {
+                "text": "so quietly that",
+                "highlight": true
+            },
+            {
+                "text": " I couldn't hear him.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "So + Adverb + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "There was ",
+                "highlight": false
+            },
+            {
+                "text": "so little rain that",
+                "highlight": true
+            },
+            {
+                "text": " the plants died.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "So Little + Noncount Noun + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "They had ",
+                "highlight": false
+            },
+            {
+                "text": "such a great time that",
+                "highlight": true
+            },
+            {
+                "text": " they stayed longer.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Such + Adjective + Noun + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "",
+                "highlight": false
+            },
+            {
+                "text": "Since moving",
+                "highlight": true
+            },
+            {
+                "text": " here, I simply love the city.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reduced Adverb Clause (Since + Gerund)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The box was ",
+                "highlight": false
+            },
+            {
+                "text": "so heavy that",
+                "highlight": true
+            },
+            {
+                "text": " I couldn't lift it.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "So + Adjective + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "It is ",
+                "highlight": false
+            },
+            {
+                "text": "such a long way that",
+                "highlight": true
+            },
+            {
+                "text": " we should take a car.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Such + Adjective + Noun + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "",
+                "highlight": false
+            },
+            {
+                "text": "While cooking",
+                "highlight": true
+            },
+            {
+                "text": ", she burned her hand.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reduced Adverb Clause (While + Gerund)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He has ",
+                "highlight": false
+            },
+            {
+                "text": "so few friends that",
+                "highlight": true
+            },
+            {
+                "text": " he is often lonely.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "So Few + Plural Noun + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The movie was ",
+                "highlight": false
+            },
+            {
+                "text": "so sad that",
+                "highlight": true
+            },
+            {
+                "text": " everyone cried.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "So + Adjective + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "It was ",
+                "highlight": false
+            },
+            {
+                "text": "such a beautiful view that",
+                "highlight": true
+            },
+            {
+                "text": " we took photos.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Such + Adjective + Noun + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "",
+                "highlight": false
+            },
+            {
+                "text": "After reading",
+                "highlight": true
+            },
+            {
+                "text": " the email, he called his boss.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reduced Adverb Clause (After + Gerund)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She typed ",
+                "highlight": false
+            },
+            {
+                "text": "so carefully that",
+                "highlight": true
+            },
+            {
+                "text": " she made no mistakes.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "So + Adverb + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "There was ",
+                "highlight": false
+            },
+            {
+                "text": "so much traffic that",
+                "highlight": true
+            },
+            {
+                "text": " we were late.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "So Much + Noncount Noun + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "It is ",
+                "highlight": false
+            },
+            {
+                "text": "such an easy test that",
+                "highlight": true
+            },
+            {
+                "text": " everyone passed.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Such + Adjective + Noun + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "",
+                "highlight": false
+            },
+            {
+                "text": "Before buying",
+                "highlight": true
+            },
+            {
+                "text": " the car, check the engine.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reduced Adverb Clause (Before + Gerund)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The coffee was ",
+                "highlight": false
+            },
+            {
+                "text": "so hot that",
+                "highlight": true
+            },
+            {
+                "text": " I burned my tongue.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "So + Adjective + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He is ",
+                "highlight": false
+            },
+            {
+                "text": "such a nice person that",
+                "highlight": true
+            },
+            {
+                "text": " everyone likes him.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Such + Adjective + Noun + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "They worked ",
+                "highlight": false
+            },
+            {
+                "text": "so hard that",
+                "highlight": true
+            },
+            {
+                "text": " they finished early.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "So + Adverb + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "There were ",
+                "highlight": false
+            },
+            {
+                "text": "so many cars that",
+                "highlight": true
+            },
+            {
+                "text": " the street was blocked.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "So Many + Plural Noun + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "",
+                "highlight": false
+            },
+            {
+                "text": "While walking",
+                "highlight": true
+            },
+            {
+                "text": " home, it started to rain.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reduced Adverb Clause (While + Gerund)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The music is ",
+                "highlight": false
+            },
+            {
+                "text": "so loud that",
+                "highlight": true
+            },
+            {
+                "text": " I can't think.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "So + Adjective + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "It was ",
+                "highlight": false
+            },
+            {
+                "text": "such a funny joke that",
+                "highlight": true
+            },
+            {
+                "text": " we all laughed.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Such + Adjective + Noun + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "",
+                "highlight": false
+            },
+            {
+                "text": "After winning",
+                "highlight": true
+            },
+            {
+                "text": " the game, they celebrated.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reduced Adverb Clause (After + Gerund)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He drives ",
+                "highlight": false
+            },
+            {
+                "text": "so dangerously that",
+                "highlight": true
+            },
+            {
+                "text": " no one rides with him.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "So + Adverb + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "I have ",
+                "highlight": false
+            },
+            {
+                "text": "so little time that",
+                "highlight": true
+            },
+            {
+                "text": " I must hurry.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "So Little + Noncount Noun + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "It was ",
+                "highlight": false
+            },
+            {
+                "text": "such a delicious meal that",
+                "highlight": true
+            },
+            {
+                "text": " we asked for the recipe.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Such + Adjective + Noun + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "",
+                "highlight": false
+            },
+            {
+                "text": "Before speaking",
+                "highlight": true
+            },
+            {
+                "text": ", please raise your hand.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reduced Adverb Clause (Before + Gerund)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The wind was ",
+                "highlight": false
+            },
+            {
+                "text": "so strong that",
+                "highlight": true
+            },
+            {
+                "text": " it blew down trees.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "So + Adjective + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She is ",
+                "highlight": false
+            },
+            {
+                "text": "such a talented singer that",
+                "highlight": true
+            },
+            {
+                "text": " she won the contest.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Such + Adjective + Noun + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He explained ",
+                "highlight": false
+            },
+            {
+                "text": "so clearly that",
+                "highlight": true
+            },
+            {
+                "text": " everyone understood.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "So + Adverb + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "There are ",
+                "highlight": false
+            },
+            {
+                "text": "so few tickets that",
+                "highlight": true
+            },
+            {
+                "text": " they will sell out fast.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "So Few + Plural Noun + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "",
+                "highlight": false
+            },
+            {
+                "text": "While studying",
+                "highlight": true
+            },
+            {
+                "text": ", she fell asleep.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reduced Adverb Clause (While + Gerund)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The water is ",
+                "highlight": false
+            },
+            {
+                "text": "so cold that",
+                "highlight": true
+            },
+            {
+                "text": " you can't swim.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "So + Adjective + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "It was ",
+                "highlight": false
+            },
+            {
+                "text": "such a small room that",
+                "highlight": true
+            },
+            {
+                "text": " only one person fit.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Such + Adjective + Noun + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "",
+                "highlight": false
+            },
+            {
+                "text": "After hearing",
+                "highlight": true
+            },
+            {
+                "text": " the news, he was happy.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reduced Adverb Clause (After + Gerund)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The sun shone ",
+                "highlight": false
+            },
+            {
+                "text": "so brightly that",
+                "highlight": true
+            },
+            {
+                "text": " we needed sunglasses.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "So + Adverb + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "There was ",
+                "highlight": false
+            },
+            {
+                "text": "so much noise that",
+                "highlight": true
+            },
+            {
+                "text": " the baby woke up.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "So Much + Noncount Noun + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "It is ",
+                "highlight": false
+            },
+            {
+                "text": "such an old car that",
+                "highlight": true
+            },
+            {
+                "text": " it breaks often.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Such + Adjective + Noun + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "",
+                "highlight": false
+            },
+            {
+                "text": "Before answering",
+                "highlight": true
+            },
+            {
+                "text": ", think carefully.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reduced Adverb Clause (Before + Gerund)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The test was ",
+                "highlight": false
+            },
+            {
+                "text": "so long that",
+                "highlight": true
+            },
+            {
+                "text": " I didn't finish.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "So + Adjective + That (Cause and Effect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "I believe ",
+                "highlight": false
+            },
+            {
+                "text": "that honesty is important",
+                "highlight": true
+            },
+            {
+                "text": " in a friendship.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Verb (believe that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She noticed ",
+                "highlight": false
+            },
+            {
+                "text": "that the door was open",
+                "highlight": true
+            },
+            {
+                "text": " when she arrived.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Verb (notice that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "We hope ",
+                "highlight": false
+            },
+            {
+                "text": "that you feel better",
+                "highlight": true
+            },
+            {
+                "text": " soon.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Verb (hope that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He forgot ",
+                "highlight": false
+            },
+            {
+                "text": "that it was her birthday",
+                "highlight": true
+            },
+            {
+                "text": " yesterday.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Verb (forget that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "They decided ",
+                "highlight": false
+            },
+            {
+                "text": "that they would travel",
+                "highlight": true
+            },
+            {
+                "text": " to Japan.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Verb (decide that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "I am afraid ",
+                "highlight": false
+            },
+            {
+                "text": "that we are lost",
+                "highlight": true
+            },
+            {
+                "text": " in the woods.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Adjective (be afraid that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She is sure ",
+                "highlight": false
+            },
+            {
+                "text": "that she locked the door",
+                "highlight": true
+            },
+            {
+                "text": " before leaving.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Adjective (be sure that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "We are glad ",
+                "highlight": false
+            },
+            {
+                "text": "that you could come",
+                "highlight": true
+            },
+            {
+                "text": " to the party.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Adjective (be glad that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He was surprised ",
+                "highlight": false
+            },
+            {
+                "text": "that he won the prize",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Adjective (be surprised that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "They were worried ",
+                "highlight": false
+            },
+            {
+                "text": "that they would miss the train",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Adjective (be worried that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "It is obvious ",
+                "highlight": false
+            },
+            {
+                "text": "that he is tired",
+                "highlight": true
+            },
+            {
+                "text": " after the long run.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause as Subject (It is obvious that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "It is true ",
+                "highlight": false
+            },
+            {
+                "text": "that she speaks three languages",
+                "highlight": true
+            },
+            {
+                "text": " fluently.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause as Subject (It is true that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "It is strange ",
+                "highlight": false
+            },
+            {
+                "text": "that the lights are off",
+                "highlight": true
+            },
+            {
+                "text": " at this hour.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause as Subject (It is strange that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "It is possible ",
+                "highlight": false
+            },
+            {
+                "text": "that it will rain",
+                "highlight": true
+            },
+            {
+                "text": " later today.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause as Subject (It is possible that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "It is unlikely ",
+                "highlight": false
+            },
+            {
+                "text": "that they will finish on time",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause as Subject (It is unlikely that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "I imagine ",
+                "highlight": false
+            },
+            {
+                "text": "that life was hard",
+                "highlight": true
+            },
+            {
+                "text": " in the past.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Verb (imagine that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She discovered ",
+                "highlight": false
+            },
+            {
+                "text": "that she loves painting",
+                "highlight": true
+            },
+            {
+                "text": " recently.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Verb (discover that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "We learned ",
+                "highlight": false
+            },
+            {
+                "text": "that the test is postponed",
+                "highlight": true
+            },
+            {
+                "text": " until next week.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Verb (learn that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He dreams ",
+                "highlight": false
+            },
+            {
+                "text": "that he can fly",
+                "highlight": true
+            },
+            {
+                "text": " every night.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Verb (dream that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "They suspect ",
+                "highlight": false
+            },
+            {
+                "text": "that he is lying",
+                "highlight": true
+            },
+            {
+                "text": " about his age.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Verb (suspect that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "I am certain ",
+                "highlight": false
+            },
+            {
+                "text": "that this is the right way",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Adjective (be certain that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She is amazed ",
+                "highlight": false
+            },
+            {
+                "text": "that he solved the puzzle",
+                "highlight": true
+            },
+            {
+                "text": " so quickly.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Adjective (be amazed that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "We are disappointed ",
+                "highlight": false
+            },
+            {
+                "text": "that the show was cancelled",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Adjective (be disappointed that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He is aware ",
+                "highlight": false
+            },
+            {
+                "text": "that he made a mistake",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Adjective (be aware that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "They are happy ",
+                "highlight": false
+            },
+            {
+                "text": "that school is over",
+                "highlight": true
+            },
+            {
+                "text": " for the summer.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Adjective (be happy that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "It is a fact ",
+                "highlight": false
+            },
+            {
+                "text": "that water boils at 100 degrees",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause as Subject (It is a fact that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "It is surprising ",
+                "highlight": false
+            },
+            {
+                "text": "that he didn't call",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause as Subject (It is surprising that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "It is funny ",
+                "highlight": false
+            },
+            {
+                "text": "that we met here",
+                "highlight": true
+            },
+            {
+                "text": " of all places.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause as Subject (It is funny that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "I think ",
+                "highlight": false
+            },
+            {
+                "text": "that it will snow",
+                "highlight": true
+            },
+            {
+                "text": " tomorrow.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Verb (think that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She complains ",
+                "highlight": false
+            },
+            {
+                "text": "that the music is too loud",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Verb (complain that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "We feel ",
+                "highlight": false
+            },
+            {
+                "text": "that this is a good opportunity",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Verb (feel that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He knows ",
+                "highlight": false
+            },
+            {
+                "text": "that he needs to study",
+                "highlight": true
+            },
+            {
+                "text": " harder.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Verb (know that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "They remember ",
+                "highlight": false
+            },
+            {
+                "text": "that they visited this place",
+                "highlight": true
+            },
+            {
+                "text": " years ago.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Verb (remember that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "I am lucky ",
+                "highlight": false
+            },
+            {
+                "text": "that I found my lost wallet",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Adjective (be lucky that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She is afraid ",
+                "highlight": false
+            },
+            {
+                "text": "that she will be late",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Adjective (be afraid that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "We are sure ",
+                "highlight": false
+            },
+            {
+                "text": "that everything will be fine",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Adjective (be sure that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He is glad ",
+                "highlight": false
+            },
+            {
+                "text": "that the exam is easy",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Adjective (be glad that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "They are surprised ",
+                "highlight": false
+            },
+            {
+                "text": "that the food is so good",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Adjective (be surprised that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "It is obvious ",
+                "highlight": false
+            },
+            {
+                "text": "that she is talented",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause as Subject (It is obvious that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "It is true ",
+                "highlight": false
+            },
+            {
+                "text": "that practice makes perfect",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause as Subject (It is true that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "It is strange ",
+                "highlight": false
+            },
+            {
+                "text": "that he didn't say goodbye",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause as Subject (It is strange that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "I understand ",
+                "highlight": false
+            },
+            {
+                "text": "that you are busy",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Verb (understand that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She expects ",
+                "highlight": false
+            },
+            {
+                "text": "that the package will arrive",
+                "highlight": true
+            },
+            {
+                "text": " today.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Verb (expect that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "We found out ",
+                "highlight": false
+            },
+            {
+                "text": "that the store is closed",
+                "highlight": true
+            },
+            {
+                "text": " on Sundays.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Verb (find out that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He fears ",
+                "highlight": false
+            },
+            {
+                "text": "that he made a wrong choice",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Verb (fear that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "They noticed ",
+                "highlight": false
+            },
+            {
+                "text": "that the car had a flat tire",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Verb (notice that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "I am worried ",
+                "highlight": false
+            },
+            {
+                "text": "that I lost my keys",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Adjective (be worried that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She is certain ",
+                "highlight": false
+            },
+            {
+                "text": "that she passed the test",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause after Adjective (be certain that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "It is likely ",
+                "highlight": false
+            },
+            {
+                "text": "that they will win the game",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause as Subject (It is likely that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "It is important ",
+                "highlight": false
+            },
+            {
+                "text": "that you listen carefully",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Noun Clause as Subject (It is important that...)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He said, 'I am happy.' He said ",
+                "highlight": false
+            },
+            {
+                "text": "that he was happy",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Present Simple -> Past Simple)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She said, 'I am working.' She said ",
+                "highlight": false
+            },
+            {
+                "text": "that she was working",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Present Progressive -> Past Progressive)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "They said, 'We have finished.' They said ",
+                "highlight": false
+            },
+            {
+                "text": "that they had finished",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Present Perfect -> Past Perfect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He said, 'I bought a car.' He said ",
+                "highlight": false
+            },
+            {
+                "text": "that he had bought a car",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Past Simple -> Past Perfect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She said, 'I will call you.' She said ",
+                "highlight": false
+            },
+            {
+                "text": "that she would call me",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Will -> Would)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He asked, 'Are you busy?' He asked ",
+                "highlight": false
+            },
+            {
+                "text": "if I was busy",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Yes/No Question -> If)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She asked, 'Do you like coffee?' She asked ",
+                "highlight": false
+            },
+            {
+                "text": "whether I liked coffee",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Yes/No Question -> Whether)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He said, 'Open the door.' He told me ",
+                "highlight": false
+            },
+            {
+                "text": "to open the door",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Imperative -> Infinitive)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She said, 'Don't be late.' She told us ",
+                "highlight": false
+            },
+            {
+                "text": "not to be late",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Negative Imperative -> Not + Infinitive)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He said, 'I can swim.' He said ",
+                "highlight": false
+            },
+            {
+                "text": "that he could swim",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Can -> Could)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She said, 'I may go.' She said ",
+                "highlight": false
+            },
+            {
+                "text": "that she might go",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (May -> Might)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He said, 'I must study.' He said ",
+                "highlight": false
+            },
+            {
+                "text": "that he had to study",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Must -> Had to)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "They said, 'We are leaving.' They said ",
+                "highlight": false
+            },
+            {
+                "text": "that they were leaving",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Present Progressive -> Past Progressive)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She said, 'I saw a movie.' She said ",
+                "highlight": false
+            },
+            {
+                "text": "that she had seen a movie",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Past Simple -> Past Perfect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He asked, 'Is it raining?' He asked ",
+                "highlight": false
+            },
+            {
+                "text": "if it was raining",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Yes/No Question -> If)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She said, 'Be quiet.' She told them ",
+                "highlight": false
+            },
+            {
+                "text": "to be quiet",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Imperative -> Infinitive)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He said, 'I have been to Paris.' He said ",
+                "highlight": false
+            },
+            {
+                "text": "that he had been to Paris",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Present Perfect -> Past Perfect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She said, 'It is cold.' She said ",
+                "highlight": false
+            },
+            {
+                "text": "that it was cold",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Present Simple -> Past Simple)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He asked, 'Can you help me?' He asked ",
+                "highlight": false
+            },
+            {
+                "text": "if I could help him",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Yes/No Question -> If)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She said, 'I will be there.' She promised ",
+                "highlight": false
+            },
+            {
+                "text": "that she would be there",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Will -> Would)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He said, 'I tried sushi.' He said ",
+                "highlight": false
+            },
+            {
+                "text": "that he had tried sushi",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Past Simple -> Past Perfect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She asked, 'Did you see it?' She asked ",
+                "highlight": false
+            },
+            {
+                "text": "whether I had seen it",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Yes/No Question -> Whether)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He said, 'Wait for me.' He told us ",
+                "highlight": false
+            },
+            {
+                "text": "to wait for him",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Imperative -> Infinitive)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She said, 'I am reading.' She said ",
+                "highlight": false
+            },
+            {
+                "text": "that she was reading",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Present Progressive -> Past Progressive)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He said, 'The sky is blue.' He said ",
+                "highlight": false
+            },
+            {
+                "text": "that the sky is blue",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (General Truth - No Change)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She says, 'I am tired.' She says ",
+                "highlight": false
+            },
+            {
+                "text": "that she is tired",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Present Reporting Verb - No Change)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He said, 'I should go.' He said ",
+                "highlight": false
+            },
+            {
+                "text": "that he should go",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Modal Should - No Change)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She said, 'I might be late.' She said ",
+                "highlight": false
+            },
+            {
+                "text": "that she might be late",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Modal Might - No Change)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He asked, 'Are they friends?' He asked ",
+                "highlight": false
+            },
+            {
+                "text": "if they were friends",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Yes/No Question -> If)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She said, 'Sit down.' She told him ",
+                "highlight": false
+            },
+            {
+                "text": "to sit down",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Imperative -> Infinitive)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He said, 'I have lost my keys.' He said ",
+                "highlight": false
+            },
+            {
+                "text": "that he had lost his keys",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Present Perfect -> Past Perfect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She said, 'I love chocolate.' She said ",
+                "highlight": false
+            },
+            {
+                "text": "that she loved chocolate",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Present Simple -> Past Simple)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He asked, 'Do you know him?' He asked ",
+                "highlight": false
+            },
+            {
+                "text": "if I knew him",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Yes/No Question -> If)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She said, 'Don't touch that.' She told me ",
+                "highlight": false
+            },
+            {
+                "text": "not to touch that",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Negative Imperative -> Not + Infinitive)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He said, 'I was sleeping.' He said ",
+                "highlight": false
+            },
+            {
+                "text": "that he had been sleeping",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Past Progressive -> Past Perfect Progressive)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She said, 'I can help.' She said ",
+                "highlight": false
+            },
+            {
+                "text": "that she could help",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Can -> Could)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He said, 'It will rain.' He predicted ",
+                "highlight": false
+            },
+            {
+                "text": "that it would rain",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Will -> Would)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She asked, 'Is he coming?' She asked ",
+                "highlight": false
+            },
+            {
+                "text": "whether he was coming",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Yes/No Question -> Whether)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He said, 'Stop talking.' He told the class ",
+                "highlight": false
+            },
+            {
+                "text": "to stop talking",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Imperative -> Infinitive)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She said, 'I have a question.' She said ",
+                "highlight": false
+            },
+            {
+                "text": "that she had a question",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Present Simple -> Past Simple)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He said, 'I played tennis.' He said ",
+                "highlight": false
+            },
+            {
+                "text": "that he had played tennis",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Past Simple -> Past Perfect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She asked, 'Are you okay?' She asked ",
+                "highlight": false
+            },
+            {
+                "text": "if I was okay",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Yes/No Question -> If)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He said, 'Don't go.' He told her ",
+                "highlight": false
+            },
+            {
+                "text": "not to go",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Negative Imperative -> Not + Infinitive)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She said, 'I have finished.' She said ",
+                "highlight": false
+            },
+            {
+                "text": "that she had finished",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Present Perfect -> Past Perfect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He said, 'I am busy.' He said ",
+                "highlight": false
+            },
+            {
+                "text": "that he was busy",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Present Simple -> Past Simple)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She asked, 'Can we leave?' She asked ",
+                "highlight": false
+            },
+            {
+                "text": "if they could leave",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Yes/No Question -> If)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He said, 'I will pay.' He insisted ",
+                "highlight": false
+            },
+            {
+                "text": "that he would pay",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Will -> Would)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She said, 'I didn't know.' She said ",
+                "highlight": false
+            },
+            {
+                "text": "that she hadn't known",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Past Simple -> Past Perfect)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He said, 'I am watching TV.' He said ",
+                "highlight": false
+            },
+            {
+                "text": "that he was watching TV",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Present Progressive -> Past Progressive)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She asked, 'Is it true?' She asked ",
+                "highlight": false
+            },
+            {
+                "text": "if it was true",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Reported Speech (Yes/No Question -> If)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The man ",
+                "highlight": false
+            },
+            {
+                "text": "who is standing there",
+                "highlight": true
+            },
+            {
+                "text": " is my uncle.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Subject - Who)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "I like the book ",
+                "highlight": false
+            },
+            {
+                "text": "that you gave me",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Object - That)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She is the teacher ",
+                "highlight": false
+            },
+            {
+                "text": "who taught me English",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Subject - Who)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "This is the car ",
+                "highlight": false
+            },
+            {
+                "text": "which broke down",
+                "highlight": true
+            },
+            {
+                "text": " yesterday.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Subject - Which)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The pizza ",
+                "highlight": false
+            },
+            {
+                "text": "that I ate",
+                "highlight": true
+            },
+            {
+                "text": " was delicious.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Object - That)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "Do you know the girl ",
+                "highlight": false
+            },
+            {
+                "text": "who won the prize",
+                "highlight": true
+            },
+            {
+                "text": "?",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Subject - Who)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The movie ",
+                "highlight": false
+            },
+            {
+                "text": "which we watched",
+                "highlight": true
+            },
+            {
+                "text": " was boring.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Object - Which)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He is the actor ",
+                "highlight": false
+            },
+            {
+                "text": "that I admire",
+                "highlight": true
+            },
+            {
+                "text": " most.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Object - That)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "I lost the pen ",
+                "highlight": false
+            },
+            {
+                "text": "which I bought",
+                "highlight": true
+            },
+            {
+                "text": " last week.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Object - Which)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The people ",
+                "highlight": false
+            },
+            {
+                "text": "who live next door",
+                "highlight": true
+            },
+            {
+                "text": " are friendly.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Subject - Who)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "This is the house ",
+                "highlight": false
+            },
+            {
+                "text": "that Jack built",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Object - That)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "Where is the letter ",
+                "highlight": false
+            },
+            {
+                "text": "which arrived today",
+                "highlight": true
+            },
+            {
+                "text": "?",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Subject - Which)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The student ",
+                "highlight": false
+            },
+            {
+                "text": "who studies hard",
+                "highlight": true
+            },
+            {
+                "text": " will pass.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Subject - Who)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "I saw the dog ",
+                "highlight": false
+            },
+            {
+                "text": "that bit you",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Subject - That)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The cake ",
+                "highlight": false
+            },
+            {
+                "text": "which she baked",
+                "highlight": true
+            },
+            {
+                "text": " tastes good.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Object - Which)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He is the one ",
+                "highlight": false
+            },
+            {
+                "text": "who called me",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Subject - Who)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The shoes ",
+                "highlight": false
+            },
+            {
+                "text": "that fit well",
+                "highlight": true
+            },
+            {
+                "text": " are expensive.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Subject - That)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "This is the computer ",
+                "highlight": false
+            },
+            {
+                "text": "which I use",
+                "highlight": true
+            },
+            {
+                "text": " for work.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Object - Which)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "I met a woman ",
+                "highlight": false
+            },
+            {
+                "text": "who speaks five languages",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Subject - Who)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The song ",
+                "highlight": false
+            },
+            {
+                "text": "that they played",
+                "highlight": true
+            },
+            {
+                "text": " was sad.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Object - That)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The car ",
+                "highlight": false
+            },
+            {
+                "text": "which is parked there",
+                "highlight": true
+            },
+            {
+                "text": " belongs to him.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Subject - Which)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She is the nurse ",
+                "highlight": false
+            },
+            {
+                "text": "who helped me",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Subject - Who)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "I have a friend ",
+                "highlight": false
+            },
+            {
+                "text": "who loves to cook",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Subject - Who)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The watch ",
+                "highlight": false
+            },
+            {
+                "text": "that I lost",
+                "highlight": true
+            },
+            {
+                "text": " was a gift.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Object - That)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "Animals ",
+                "highlight": false
+            },
+            {
+                "text": "which live in the jungle",
+                "highlight": true
+            },
+            {
+                "text": " are wild.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Subject - Which)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The doctor ",
+                "highlight": false
+            },
+            {
+                "text": "who treated him",
+                "highlight": true
+            },
+            {
+                "text": " was very kind.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Subject - Who)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "This is the town ",
+                "highlight": false
+            },
+            {
+                "text": "where I was born",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Adverb - Where)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The reason ",
+                "highlight": false
+            },
+            {
+                "text": "why I came",
+                "highlight": true
+            },
+            {
+                "text": " is important.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Adverb - Why)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "I remember the day ",
+                "highlight": false
+            },
+            {
+                "text": "when we met",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Adverb - When)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The artist ",
+                "highlight": false
+            },
+            {
+                "text": "who painted this",
+                "highlight": true
+            },
+            {
+                "text": " is famous.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Subject - Who)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The phone ",
+                "highlight": false
+            },
+            {
+                "text": "that rang",
+                "highlight": true
+            },
+            {
+                "text": " was mine.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Subject - That)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "Is this the bus ",
+                "highlight": false
+            },
+            {
+                "text": "which goes to the city",
+                "highlight": true
+            },
+            {
+                "text": "?",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Subject - Which)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The boy ",
+                "highlight": false
+            },
+            {
+                "text": "who broke the window",
+                "highlight": true
+            },
+            {
+                "text": " ran away.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Subject - Who)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The gift ",
+                "highlight": false
+            },
+            {
+                "text": "that she received",
+                "highlight": true
+            },
+            {
+                "text": " made her smile.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Object - That)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The house ",
+                "highlight": false
+            },
+            {
+                "text": "which stands on the hill",
+                "highlight": true
+            },
+            {
+                "text": " is old.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Subject - Which)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "Anyone ",
+                "highlight": false
+            },
+            {
+                "text": "who arrives late",
+                "highlight": true
+            },
+            {
+                "text": " must wait.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Subject - Who)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The questions ",
+                "highlight": false
+            },
+            {
+                "text": "that he asked",
+                "highlight": true
+            },
+            {
+                "text": " were difficult.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Object - That)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The flowers ",
+                "highlight": false
+            },
+            {
+                "text": "which are in the vase",
+                "highlight": true
+            },
+            {
+                "text": " are roses.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Subject - Which)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The writer ",
+                "highlight": false
+            },
+            {
+                "text": "who wrote this book",
+                "highlight": true
+            },
+            {
+                "text": " won an award.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Subject - Who)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "This is the place ",
+                "highlight": false
+            },
+            {
+                "text": "where we had lunch",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Adverb - Where)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The bike ",
+                "highlight": false
+            },
+            {
+                "text": "that I want",
+                "highlight": true
+            },
+            {
+                "text": " is red.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Object - That)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The man ",
+                "highlight": false
+            },
+            {
+                "text": "who is singing",
+                "highlight": true
+            },
+            {
+                "text": " has a good voice.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Subject - Who)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The problem ",
+                "highlight": false
+            },
+            {
+                "text": "which we face",
+                "highlight": true
+            },
+            {
+                "text": " is serious.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Object - Which)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The bag ",
+                "highlight": false
+            },
+            {
+                "text": "that she bought",
+                "highlight": true
+            },
+            {
+                "text": " is fashionable.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Object - That)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The team ",
+                "highlight": false
+            },
+            {
+                "text": "who played best",
+                "highlight": true
+            },
+            {
+                "text": " won.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Subject - Who)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The moment ",
+                "highlight": false
+            },
+            {
+                "text": "when he arrived",
+                "highlight": true
+            },
+            {
+                "text": " everyone cheered.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Adverb - When)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The park ",
+                "highlight": false
+            },
+            {
+                "text": "where we played",
+                "highlight": true
+            },
+            {
+                "text": " is closed.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Adverb - Where)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The reason ",
+                "highlight": false
+            },
+            {
+                "text": "why he left",
+                "highlight": true
+            },
+            {
+                "text": " is unknown.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Adverb - Why)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The dog ",
+                "highlight": false
+            },
+            {
+                "text": "which is barking",
+                "highlight": true
+            },
+            {
+                "text": " is annoying.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Subject - Which)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The person ",
+                "highlight": false
+            },
+            {
+                "text": "who helped me",
+                "highlight": true
+            },
+            {
+                "text": " was a stranger.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Clause (Subject - Who)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "This is the park ",
+                "highlight": false
+            },
+            {
+                "text": "where we played soccer",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (Where)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "I remember the day ",
+                "highlight": false
+            },
+            {
+                "text": "when we first met",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (When)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He is the man ",
+                "highlight": false
+            },
+            {
+                "text": "whose car was stolen",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Pronoun (Whose)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "That is the school ",
+                "highlight": false
+            },
+            {
+                "text": "where I learned English",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (Where)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "Do you know the time ",
+                "highlight": false
+            },
+            {
+                "text": "when the movie starts",
+                "highlight": true
+            },
+            {
+                "text": "?",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (When)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She is the student ",
+                "highlight": false
+            },
+            {
+                "text": "whose grades are the best",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Pronoun (Whose)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "This is the restaurant ",
+                "highlight": false
+            },
+            {
+                "text": "where we had dinner",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (Where)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "Summer is the season ",
+                "highlight": false
+            },
+            {
+                "text": "when it is hot",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (When)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "I have a neighbor ",
+                "highlight": false
+            },
+            {
+                "text": "whose dog barks all night",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Pronoun (Whose)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "This is the room ",
+                "highlight": false
+            },
+            {
+                "text": "where I sleep",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (Where)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "Midnight is the time ",
+                "highlight": false
+            },
+            {
+                "text": "when ghosts appear",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (When)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He is the artist ",
+                "highlight": false
+            },
+            {
+                "text": "whose paintings are famous",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Pronoun (Whose)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "That is the house ",
+                "highlight": false
+            },
+            {
+                "text": "where I lived",
+                "highlight": true
+            },
+            {
+                "text": " as a child.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (Where)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "I like the moment ",
+                "highlight": false
+            },
+            {
+                "text": "when the sun sets",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (When)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She is the writer ",
+                "highlight": false
+            },
+            {
+                "text": "whose book I read",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Pronoun (Whose)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "This is the cafe ",
+                "highlight": false
+            },
+            {
+                "text": "where we met",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (Where)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "1990 was the year ",
+                "highlight": false
+            },
+            {
+                "text": "when I was born",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (When)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The boy ",
+                "highlight": false
+            },
+            {
+                "text": "whose ball I found",
+                "highlight": true
+            },
+            {
+                "text": " was happy.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Pronoun (Whose)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "Is this the place ",
+                "highlight": false
+            },
+            {
+                "text": "where you work",
+                "highlight": true
+            },
+            {
+                "text": "?",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (Where)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "Sunday is the day ",
+                "highlight": false
+            },
+            {
+                "text": "when I relax",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (When)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The woman ",
+                "highlight": false
+            },
+            {
+                "text": "whose purse was lost",
+                "highlight": true
+            },
+            {
+                "text": " is crying.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Pronoun (Whose)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "This is the city ",
+                "highlight": false
+            },
+            {
+                "text": "where the Olympics were held",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (Where)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "I miss the days ",
+                "highlight": false
+            },
+            {
+                "text": "when we were young",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (When)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "He is the teacher ",
+                "highlight": false
+            },
+            {
+                "text": "whose classes are fun",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Pronoun (Whose)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "This is the hotel ",
+                "highlight": false
+            },
+            {
+                "text": "where we stayed",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (Where)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "December is the month ",
+                "highlight": false
+            },
+            {
+                "text": "when it snows",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (When)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The girl ",
+                "highlight": false
+            },
+            {
+                "text": "whose hair is long",
+                "highlight": true
+            },
+            {
+                "text": " is my sister.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Pronoun (Whose)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "Where is the shop ",
+                "highlight": false
+            },
+            {
+                "text": "where you bought that",
+                "highlight": true
+            },
+            {
+                "text": "?",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (Where)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "I can't wait for the time ",
+                "highlight": false
+            },
+            {
+                "text": "when I graduate",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (When)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The man ",
+                "highlight": false
+            },
+            {
+                "text": "whose name I forgot",
+                "highlight": true
+            },
+            {
+                "text": " waved at me.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Pronoun (Whose)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "This is the street ",
+                "highlight": false
+            },
+            {
+                "text": "where the accident happened",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (Where)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "Morning is the time ",
+                "highlight": false
+            },
+            {
+                "text": "when I drink coffee",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (When)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The family ",
+                "highlight": false
+            },
+            {
+                "text": "whose house burned down",
+                "highlight": true
+            },
+            {
+                "text": " needs help.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Pronoun (Whose)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "There is a place ",
+                "highlight": false
+            },
+            {
+                "text": "where we can hide",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (Where)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "That was the year ",
+                "highlight": false
+            },
+            {
+                "text": "when everything changed",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (When)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "She is the singer ",
+                "highlight": false
+            },
+            {
+                "text": "whose voice is amazing",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Pronoun (Whose)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "This is the library ",
+                "highlight": false
+            },
+            {
+                "text": "where I study",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (Where)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "Evening is the time ",
+                "highlight": false
+            },
+            {
+                "text": "when I watch TV",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (When)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The doctor ",
+                "highlight": false
+            },
+            {
+                "text": "whose office is here",
+                "highlight": true
+            },
+            {
+                "text": " is busy.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Pronoun (Whose)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "Here is the spot ",
+                "highlight": false
+            },
+            {
+                "text": "where X marks the spot",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (Where)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "I hate the moment ",
+                "highlight": false
+            },
+            {
+                "text": "when I wake up",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (When)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The actor ",
+                "highlight": false
+            },
+            {
+                "text": "whose movie is out",
+                "highlight": true
+            },
+            {
+                "text": " is rich.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Pronoun (Whose)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "This is the beach ",
+                "highlight": false
+            },
+            {
+                "text": "where we swam",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (Where)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "Spring is the season ",
+                "highlight": false
+            },
+            {
+                "text": "when flowers bloom",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (When)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The student ",
+                "highlight": false
+            },
+            {
+                "text": "whose pen I borrowed",
+                "highlight": true
+            },
+            {
+                "text": " is nice.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Pronoun (Whose)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "That is the building ",
+                "highlight": false
+            },
+            {
+                "text": "where my dad works",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (Where)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "I remember the hour ",
+                "highlight": false
+            },
+            {
+                "text": "when the bell rang",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (When)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The person ",
+                "highlight": false
+            },
+            {
+                "text": "whose car is blocking the drive",
+                "highlight": true
+            },
+            {
+                "text": " must move it.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Pronoun (Whose)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "This is the stage ",
+                "highlight": false
+            },
+            {
+                "text": "where they perform",
+                "highlight": true
+            },
+            {
+                "text": ".",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (Where)"
+        ]
+    },
+    {
+        "story": [
+            {
+                "text": "The day ",
+                "highlight": false
+            },
+            {
+                "text": "when we leave",
+                "highlight": true
+            },
+            {
+                "text": " is tomorrow.",
+                "highlight": false
+            }
+        ],
+        "rules": [
+            "Relative Adverb (When)"
+        ]
+    }
+]

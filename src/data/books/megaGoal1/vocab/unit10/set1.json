@@ -1,0 +1,584 @@
+{
+    "unit": "Mega Goal 1 - Unit 10: I Wonder What Happened",
+    "type": "reading",
+    "setTitle": "Reading: Meteorite Hits House",
+    "words": [
+        {
+            "word": "must have",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Used when you feel "
+                },
+                {
+                    "text": "certain about something in the past",
+                    "highlight": true
+                },
+                {
+                    "text": " based on "
+                },
+                {
+                    "text": "evidence or logic",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "لابد أنه / لا بد أنه",
+            "synonyms": [
+                "almost certainly",
+                "definitely did"
+            ],
+            "example": [
+                {
+                    "text": "The streets are wet and people are carrying umbrellas. It "
+                },
+                {
+                    "text": "must have",
+                    "colorize": true
+                },
+                {
+                    "text": " rained earlier"
+                }
+            ],
+            "tips": "Shows strong confidence about a past event. Not a guess—you have reasons to believe it happened."
+        },
+        {
+            "word": "can't be",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Used to say something is "
+                },
+                {
+                    "text": "impossible or definitely not true",
+                    "highlight": true
+                },
+                {
+                    "text": " in the present "
+                },
+                {
+                    "text": "situation",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "لا يمكن أن يكون",
+            "synonyms": [
+                "definitely not",
+                "impossible"
+            ],
+            "example": [
+                {
+                    "text": "That tiny puppy "
+                },
+                {
+                    "text": "can't be",
+                    "colorize": true
+                },
+                {
+                    "text": " the one who ate the whole loaf of bread!"
+                }
+            ],
+            "tips": "Expresses strong disbelief. Opposite of 'must be' (which shows certainty that something IS true)."
+        },
+        {
+            "word": "might have",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Used to suggest a "
+                },
+                {
+                    "text": "possible explanation",
+                    "highlight": true
+                },
+                {
+                    "text": " for something that happened in the "
+                },
+                {
+                    "text": "past—but you're not sure",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ربما / قد يكون",
+            "synonyms": [
+                "maybe",
+                "possibly"
+            ],
+            "example": [
+                {
+                    "text": "I can't find my keys. I "
+                },
+                {
+                    "text": "might have",
+                    "colorize": true
+                },
+                {
+                    "text": " left them at the office"
+                }
+            ],
+            "tips": "Shows uncertainty. Softer than 'must have'. 'Might have' and 'may have' mean the same thing here."
+        },
+        {
+            "word": "could have",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Used to describe something that was "
+                },
+                {
+                    "text": "possible in the past",
+                    "highlight": true
+                },
+                {
+                    "text": " but you don't know if it actually "
+                },
+                {
+                    "text": "happened",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "كان من الممكن أن",
+            "synonyms": [
+                "possibly",
+                "maybe"
+            ],
+            "example": [
+                {
+                    "text": "The lights went out suddenly. A fuse "
+                },
+                {
+                    "text": "could have",
+                    "colorize": true
+                },
+                {
+                    "text": " blown"
+                }
+            ],
+            "tips": "Similar to 'might have' but sometimes suggests a slightly more realistic possibility. Not the same as 'could have' for regrets ('I could have studied harder')."
+        },
+        {
+            "word": "meteorite",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A piece of rock or metal from "
+                },
+                {
+                    "text": "space that lands on Earth",
+                    "highlight": true
+                },
+                {
+                    "text": " after surviving its fiery journey through the "
+                },
+                {
+                    "text": "atmosphere",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "نيزك",
+            "synonyms": [
+                "space rock",
+                "fallen star (colloquial)"
+            ],
+            "example": [
+                {
+                    "text": "Scientists carefully collected pieces of the rare "
+                },
+                {
+                    "text": "meteorite",
+                    "colorize": true
+                },
+                {
+                    "text": " that had landed in the farmer's field"
+                }
+            ],
+            "tips": "Meteor = the bright streak of light in the sky. Meteorite = what actually hits the ground. Very rare to hit a house!"
+        },
+        {
+            "word": "crater",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A large, bowl-shaped "
+                },
+                {
+                    "text": "hole in the ground",
+                    "highlight": true
+                },
+                {
+                    "text": " created by an "
+                },
+                {
+                    "text": "impact or explosion",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "فوهة",
+            "synonyms": [
+                "impact hole",
+                "depression"
+            ],
+            "example": [
+                {
+                    "text": "Tourists hike to the edge of the ancient volcanic "
+                },
+                {
+                    "text": "crater",
+                    "colorize": true
+                },
+                {
+                    "text": " to see the emerald-green lake inside"
+                }
+            ],
+            "tips": "Common on the Moon (from space rocks) and Earth (volcanoes or meteor impacts). Pronounced 'KRAY-ter'."
+        },
+        {
+            "word": "hurricane",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A massive, violent "
+                },
+                {
+                    "text": "tropical storm",
+                    "highlight": true
+                },
+                {
+                    "text": " with powerful winds that forms over "
+                },
+                {
+                    "text": "warm ocean water",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "إعصار",
+            "synonyms": [
+                "typhoon (in Asia)",
+                "cyclone (in Indian Ocean)"
+            ],
+            "example": [
+                {
+                    "text": "Coastal cities boarded up windows and evacuated residents before the "
+                },
+                {
+                    "text": "hurricane",
+                    "colorize": true
+                },
+                {
+                    "text": " reached land"
+                }
+            ],
+            "tips": "Called 'hurricane' in the Atlantic, 'typhoon' near Asia, and 'cyclone' near India/Australia—but all are the same type of storm."
+        },
+        {
+            "word": "tornado",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A violently spinning column of air that touches the ground, often appearing as a "
+                },
+                {
+                    "text": "funnel-shaped cloud",
+                    "highlight": true
+                },
+                {
+                    "text": " causing extreme "
+                },
+                {
+                    "text": "destruction in its path",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "زوبعة / إعصار حلزوني",
+            "synonyms": [
+                "twister",
+                "whirlwind"
+            ],
+            "example": [
+                {
+                    "text": "The warning siren blared as a dark "
+                },
+                {
+                    "text": "tornado",
+                    "colorize": true
+                },
+                {
+                    "text": " touched down just two miles from town"
+                }
+            ],
+            "tips": "Smaller and shorter-lived than hurricanes, but with even faster winds. Most common in the central United States ('Tornado Alley')."
+        },
+        {
+            "word": "debris",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Scattered "
+                },
+                {
+                    "text": "broken pieces and wreckage",
+                    "highlight": true
+                },
+                {
+                    "text": " left after something has been "
+                },
+                {
+                    "text": "destroyed or damaged",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حطام / أنقاض",
+            "synonyms": [
+                "rubble",
+                "wreckage",
+                "remnants"
+            ],
+            "example": [
+                {
+                    "text": "After the storm passed, streets were covered in "
+                },
+                {
+                    "text": "debris",
+                    "colorize": true
+                },
+                {
+                    "text": " — broken branches, roof tiles, and shattered glass"
+                }
+            ],
+            "tips": "Always uncountable—never say 'debrises'. Pronounced 'duh-BREE'. Often described with adjectives: storm debris, construction debris."
+        },
+        {
+            "word": "fragments",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Small broken "
+                },
+                {
+                    "text": "pieces of something",
+                    "highlight": true
+                },
+                {
+                    "text": " that was once whole—like rock, glass, or "
+                },
+                {
+                    "text": "pottery",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "شظايا / قطع متناثرة",
+            "synonyms": [
+                "pieces",
+                "shards",
+                "splinters"
+            ],
+            "example": [
+                {
+                    "text": "The archaeologist carefully brushed dust off ancient pottery "
+                },
+                {
+                    "text": "fragments",
+                    "colorize": true
+                },
+                {
+                    "text": " found at the dig site"
+                }
+            ],
+            "tips": "Countable noun (one fragment, many fragments). Often used when the original object is shattered or broken apart."
+        },
+        {
+            "word": "penetrated",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To force a way "
+                },
+                {
+                    "text": "through or into",
+                    "highlight": true
+                },
+                {
+                    "text": " something solid; to "
+                },
+                {
+                    "text": "pass completely through",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "اختَرَق",
+            "synonyms": [
+                "pierced",
+                "bored through",
+                "passed through"
+            ],
+            "example": [
+                {
+                    "text": "The arrow "
+                },
+                {
+                    "text": "penetrated",
+                    "colorize": true
+                },
+                {
+                    "text": " the wooden shield and stuck out the other side"
+                }
+            ],
+            "tips": "Suggests forceful entry. Can describe physical objects (a bullet penetrating armor) or abstract ideas (a message penetrating public awareness)."
+        },
+        {
+            "word": "crawl space",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A very low, narrow area beneath a house floor that is "
+                },
+                {
+                    "text": "too short to stand in",
+                    "highlight": true
+                },
+                {
+                    "text": " — you must "
+                },
+                {
+                    "text": "crawl on your hands and knees",
+                    "highlight2": true
+                },
+                {
+                    "text": " to move through it"
+                }
+            ],
+            "arabicMeaning": "مساحة زحف (تحت الأرضية)",
+            "synonyms": [
+                "underfloor space",
+                "subfloor area"
+            ],
+            "example": [
+                {
+                    "text": "The plumber had to squeeze into the dusty "
+                },
+                {
+                    "text": "crawl space",
+                    "colorize": true
+                },
+                {
+                    "text": " to fix the leaking water pipe"
+                }
+            ],
+            "tips": "Different from a basement (which has enough height to stand). Common in houses built on concrete slabs."
+        },
+        {
+            "word": "fireball",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "An extremely bright, glowing ball of "
+                },
+                {
+                    "text": "light and fire",
+                    "highlight": true
+                },
+                {
+                    "text": " seen in the sky when a meteor burns up in Earth's "
+                },
+                {
+                    "text": "atmosphere",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "كرة نارية",
+            "synonyms": [
+                "bright meteor",
+                "shooting star (very bright)"
+            ],
+            "example": [
+                {
+                    "text": "Witnesses reported seeing a brilliant green "
+                },
+                {
+                    "text": "fireball",
+                    "colorize": true
+                },
+                {
+                    "text": " streak across the night sky before vanishing"
+                }
+            ],
+            "tips": "Must be exceptionally bright to be called a fireball (brighter than the planet Venus). Not all meteors qualify."
+        },
+        {
+            "word": "terrific",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Extremely "
+                },
+                {
+                    "text": "large, powerful, or intense",
+                    "highlight": true
+                },
+                {
+                    "text": " — often with a "
+                },
+                {
+                    "text": "negative or frightening meaning",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "هائل / مروع",
+            "synonyms": [
+                "tremendous",
+                "intense",
+                "frightening"
+            ],
+            "example": [
+                {
+                    "text": "Neighbors heard a "
+                },
+                {
+                    "text": "terrific",
+                    "colorize": true
+                },
+                {
+                    "text": " crash when the tree fell on the roof during the storm"
+                }
+            ],
+            "tips": "In news/reporting, 'terrific' usually means 'intense' or 'powerful'—not 'excellent'. Don't confuse with casual speech where 'terrific' can mean 'great' (a terrific movie)."
+        },
+        {
+            "word": "locomotive",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The powerful engine of a train that "
+                },
+                {
+                    "text": "pulls all the cars",
+                    "highlight": true
+                },
+                {
+                    "text": " along the railroad "
+                },
+                {
+                    "text": "tracks",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "قاطرة القطار",
+            "synonyms": [
+                "train engine",
+                "rail engine"
+            ],
+            "example": [
+                {
+                    "text": "The old steam "
+                },
+                {
+                    "text": "locomotive",
+                    "colorize": true
+                },
+                {
+                    "text": " let out a loud whistle before pulling the passenger cars out of the station"
+                }
+            ],
+            "tips": "Refers only to the engine part—not the whole train. Modern locomotives are diesel or electric; older ones were steam-powered."
+        }
+    ]
+}

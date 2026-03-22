@@ -1,0 +1,1458 @@
+{
+    "unit": "Mega Goal 1 - Unit 11",
+    "type": "revision",
+    "totalQuestions": 100,
+    "currentBatch": 1,
+    "sections": [
+        {
+            "section": "grammar",
+            "questions": [
+                {
+                    "id": "G1",
+                    "difficulty": 1,
+                    "arabicHint": "Should have + الماضي التام: الندم على شيء لم يُفعل",
+                    "question": "Choose the correct form to express regret about something that wasn't done.",
+                    "prompt": "I failed the test. I _____ studied more the night before.",
+                    "options": [
+                        "should have",
+                        "should",
+                        "would have",
+                        "must have"
+                    ],
+                    "answer": "should have",
+                    "explanation": "Use 'should have + past participle' to express regret about something you didn't do. The speaker didn't study enough and now regrets it."
+                },
+                {
+                    "id": "G2",
+                    "difficulty": 1,
+                    "arabicHint": "Shouldn't have + الماضي التام: الندم على شيء فُعل",
+                    "question": "Select the form that expresses regret about something that was done.",
+                    "prompt": "I feel terrible. I _____ eaten so much at the party.",
+                    "options": [
+                        "shouldn't have",
+                        "should have",
+                        "wouldn't have",
+                        "mustn't have"
+                    ],
+                    "answer": "shouldn't have",
+                    "explanation": "Use 'shouldn't have + past participle' to regret doing something. The speaker did eat a lot and is now sorry about it."
+                },
+                {
+                    "id": "G3",
+                    "difficulty": 2,
+                    "arabicHint": "Should have: كان يجب (لكنه لم يحدث)",
+                    "prompt": "Tariq forgot to apologise after the argument. He _____ said he was sorry.",
+                    "options": [
+                        "should have",
+                        "will have",
+                        "must have",
+                        "could be"
+                    ],
+                    "answer": "should have",
+                    "explanation": "'Should have + past participle' talks about what the right action would have been but wasn't taken. Tariq chose not to apologise, and now it's a regret."
+                },
+                {
+                    "id": "G4",
+                    "difficulty": 2,
+                    "arabicHint": "Shouldn't have: كان لا يجب (لكنه حدث)",
+                    "prompt": "She left her umbrella at home and got soaked. She _____ checked the weather forecast.",
+                    "options": [
+                        "should have",
+                        "shouldn't have",
+                        "would have",
+                        "couldn't have"
+                    ],
+                    "answer": "should have",
+                    "explanation": "'Should have + past participle' is used here because she didn't check the forecast — something she wishes she had done."
+                },
+                {
+                    "id": "G5",
+                    "difficulty": 3,
+                    "arabicHint": "Shouldn't have: ندم على فعل شيء",
+                    "prompt": "The team shared confidential information online. They _____ posted it publicly.",
+                    "options": [
+                        "should have",
+                        "shouldn't have",
+                        "might have",
+                        "can't have"
+                    ],
+                    "answer": "shouldn't have",
+                    "explanation": "They did post it — that's the mistake. 'Shouldn't have + past participle' expresses that the action was wrong and the speaker regrets it."
+                },
+                {
+                    "id": "G6",
+                    "difficulty": 1,
+                    "arabicHint": "الشرطية الثالثة: If + past perfect, would have + past participle",
+                    "question": "Choose the correct main clause for this third conditional sentence.",
+                    "prompt": "If I had saved more money, I _____ bought a new laptop.",
+                    "options": [
+                        "would have",
+                        "will have",
+                        "would",
+                        "had"
+                    ],
+                    "answer": "would have",
+                    "explanation": "Third conditional (if + past perfect, would have + past participle) talks about an unreal past condition and its unreal past result. The speaker didn't save money, so they couldn't buy the laptop."
+                },
+                {
+                    "id": "G7",
+                    "difficulty": 1,
+                    "arabicHint": "الشرطية الثالثة: If + past perfect (جملة الشرط)",
+                    "question": "Select the correct if-clause for this third conditional sentence.",
+                    "prompt": "If she _____ harder, she would have passed the final exam.",
+                    "options": [
+                        "studied",
+                        "had studied",
+                        "has studied",
+                        "would study"
+                    ],
+                    "answer": "had studied",
+                    "explanation": "The if-clause of a third conditional requires the past perfect (had + past participle). She didn't study hard, so the result — passing — didn't happen."
+                },
+                {
+                    "id": "G8",
+                    "difficulty": 2,
+                    "arabicHint": "الشرطية الثالثة: النفي في جملة الشرط",
+                    "prompt": "If I _____ my keys, I would have been locked out all night.",
+                    "options": [
+                        "hadn't found",
+                        "didn't find",
+                        "haven't found",
+                        "wouldn't find"
+                    ],
+                    "answer": "hadn't found",
+                    "explanation": "The negative past perfect in the if-clause is 'hadn't + past participle.' The speaker did find the keys, so they weren't locked out — the opposite of the condition."
+                },
+                {
+                    "id": "G9",
+                    "difficulty": 2,
+                    "arabicHint": "الشرطية الثالثة: النتيجة المنفية في الماضي",
+                    "prompt": "If they had left on time, they _____ missed the flight.",
+                    "options": [
+                        "wouldn't have",
+                        "won't have",
+                        "hadn't",
+                        "couldn't"
+                    ],
+                    "answer": "wouldn't have",
+                    "explanation": "The negative main clause in a third conditional is 'wouldn't have + past participle.' They left late and missed the flight — the third conditional imagines the opposite."
+                },
+                {
+                    "id": "G10",
+                    "difficulty": 2,
+                    "arabicHint": "الشرطية الثالثة: اختصار 'd (I'd = I had / I would)",
+                    "question": "What do the two contractions 'd represent in this sentence?",
+                    "prompt": "If I'd been more careful, I'd have avoided the accident.",
+                    "options": [
+                        "I'd = I had / I'd = I would",
+                        "I'd = I would / I'd = I had",
+                        "I'd = I did / I'd = I had",
+                        "I'd = I have / I'd = I will"
+                    ],
+                    "answer": "I'd = I had / I'd = I would",
+                    "explanation": "In third conditionals, 'd in the if-clause stands for 'had' (past perfect) and 'd in the main clause stands for 'would.' Context distinguishes between the two."
+                },
+                {
+                    "id": "G11",
+                    "difficulty": 2,
+                    "arabicHint": "الشرطية المختلطة: ماضٍ + نتيجة حاضرة",
+                    "question": "Select the correct main clause showing a present result of a past condition.",
+                    "prompt": "If I had taken that job offer, I _____ living in Dubai right now.",
+                    "options": [
+                        "would be",
+                        "would have been",
+                        "will be",
+                        "had been"
+                    ],
+                    "answer": "would be",
+                    "explanation": "This is a mixed conditional: if + past perfect (unreal past condition) + would + be -ing (unreal present result). The job wasn't taken, so the speaker isn't in Dubai now."
+                },
+                {
+                    "id": "G12",
+                    "difficulty": 2,
+                    "arabicHint": "الشرطية المختلطة: نتيجة حاضرة لشرط ماضٍ",
+                    "prompt": "If we _____ the championship, we would be celebrating right now.",
+                    "options": [
+                        "had won",
+                        "won",
+                        "have won",
+                        "would win"
+                    ],
+                    "answer": "had won",
+                    "explanation": "In a mixed conditional, the if-clause uses the past perfect to describe an unreal past event. They didn't win, so they aren't celebrating."
+                },
+                {
+                    "id": "G13",
+                    "difficulty": 3,
+                    "arabicHint": "الشرطية المختلطة: would be مقابل would have been",
+                    "question": "Identify which sentence correctly uses a mixed conditional (past condition, present result).",
+                    "prompt": "Which sentence is correct?",
+                    "options": [
+                        "If she had studied medicine, she would be a doctor now.",
+                        "If she had studied medicine, she would have been a doctor now.",
+                        "If she studied medicine, she would be a doctor now.",
+                        "If she has studied medicine, she would be a doctor now."
+                    ],
+                    "answer": "If she had studied medicine, she would be a doctor now.",
+                    "explanation": "'Would be' (not 'would have been') shows the present result of the past condition. The word 'now' is a key signal that the result is in the present."
+                },
+                {
+                    "id": "G14",
+                    "difficulty": 2,
+                    "arabicHint": "If + could have: احتمالية ماضية ضائعة",
+                    "question": "Choose the correct form to express a missed opportunity using 'could'.",
+                    "prompt": "If I had worked harder all year, I _____ gotten a higher grade.",
+                    "options": [
+                        "could have",
+                        "could",
+                        "would",
+                        "might"
+                    ],
+                    "answer": "could have",
+                    "explanation": "Use 'could have + past participle' after an if + past perfect clause to talk about a missed possibility or opportunity. The speaker didn't work hard enough."
+                },
+                {
+                    "id": "G15",
+                    "difficulty": 2,
+                    "arabicHint": "If + might have: احتمال في الماضي لم يتحقق",
+                    "question": "Select the correct form to suggest a past possibility that didn't occur.",
+                    "prompt": "If she had left the office earlier, she _____ avoided the traffic.",
+                    "options": [
+                        "might have",
+                        "might",
+                        "would",
+                        "could"
+                    ],
+                    "answer": "might have",
+                    "explanation": "Use 'might have + past participle' (or 'could have') to express a past possibility that didn't happen because the condition wasn't met. She didn't leave early, so avoiding traffic was just a possibility."
+                },
+                {
+                    "id": "G16",
+                    "difficulty": 3,
+                    "arabicHint": "could have مقابل would have في جمل الشرط الثالثة",
+                    "question": "Choose the verb that expresses missed ability/possibility rather than a definite result.",
+                    "prompt": "If he had practiced more, he _____ made the national team.",
+                    "options": [
+                        "would have",
+                        "could have",
+                        "must have",
+                        "should"
+                    ],
+                    "answer": "could have",
+                    "explanation": "'Could have' suggests the ability or possibility was there if the condition had been met. 'Would have' implies a certain result. Here, making the team was a possible outcome, not guaranteed."
+                },
+                {
+                    "id": "G17",
+                    "difficulty": 1,
+                    "arabicHint": "الحاضر التام: وقت غير محدد مقابل الماضي البسيط: وقت محدد",
+                    "question": "Choose the correct tense when the exact time is not mentioned.",
+                    "prompt": "Scientists _____ several new species of fish in the deep ocean recently.",
+                    "options": [
+                        "discovered",
+                        "have discovered",
+                        "had discovered",
+                        "were discovering"
+                    ],
+                    "answer": "have discovered",
+                    "explanation": "Use the present perfect when the exact time of the past action is unknown or not important. 'Recently' alone doesn't give a specific time, so present perfect is correct."
+                },
+                {
+                    "id": "G18",
+                    "difficulty": 1,
+                    "arabicHint": "الماضي البسيط: وقت محدد (في عام كذا / منذ كذا سنة)",
+                    "question": "Select the correct tense when a specific time in the past is given.",
+                    "prompt": "Engineers _____ the first electric car back in 1884.",
+                    "options": [
+                        "have built",
+                        "have been building",
+                        "built",
+                        "had built"
+                    ],
+                    "answer": "built",
+                    "explanation": "Use simple past when a specific past time is given (e.g., 'in 1884'). Present perfect cannot be used with specific finished time expressions."
+                },
+                {
+                    "id": "G19",
+                    "difficulty": 2,
+                    "arabicHint": "الحاضر التام مع yet في الأسئلة",
+                    "question": "Choose the correct tense for this question asking about something that may or may not have happened.",
+                    "prompt": "_____ humans _____ a way to live on Mars yet?",
+                    "options": [
+                        "Did / find",
+                        "Have / found",
+                        "Had / found",
+                        "Do / find"
+                    ],
+                    "answer": "Have / found",
+                    "explanation": "Use present perfect with 'yet' in questions to ask if something has happened up to now. The time is not specified — the focus is on whether it has occurred."
+                },
+                {
+                    "id": "G20",
+                    "difficulty": 2,
+                    "arabicHint": "الماضي البسيط مع When: وقت محدد",
+                    "question": "Select the tense that correctly responds to a 'When' question with a specific year.",
+                    "prompt": "A: 'When _____ the first smartphone _____ ?' B: 'It _____ released in 1994.'",
+                    "options": [
+                        "has / been released / was",
+                        "was / released / was",
+                        "had / released / has been",
+                        "is / released / is"
+                    ],
+                    "answer": "was / released / was",
+                    "explanation": "When a question asks for a specific time ('When...?'), use simple past. The answer with a specific year also uses simple past, not present perfect."
+                },
+                {
+                    "id": "G21",
+                    "difficulty": 1,
+                    "arabicHint": "Ago مع الماضي البسيط",
+                    "question": "Choose the correct tense used with 'ago.'",
+                    "prompt": "A large asteroid _____ over a remote region _____ more than a century ago.",
+                    "options": [
+                        "has exploded / ",
+                        "exploded / ",
+                        "had exploded / ",
+                        "was exploding / "
+                    ],
+                    "answer": "exploded / ",
+                    "explanation": "Use simple past with 'ago.' Time expressions like 'two days ago,' 'a century ago,' and 'last year' always go with simple past, never present perfect."
+                },
+                {
+                    "id": "G22",
+                    "difficulty": 1,
+                    "arabicHint": "For مع الحاضر التام: مدة زمنية",
+                    "question": "Select the correct tense used with 'for' to show duration up to now.",
+                    "prompt": "Dr. Sami _____ in the field of robotics _____ over twenty years.",
+                    "options": [
+                        "worked / for",
+                        "works / for",
+                        "has worked / for",
+                        "had worked / since"
+                    ],
+                    "answer": "has worked / for",
+                    "explanation": "Use present perfect + 'for' to describe how long an action has been continuing up to the present. 'For' is followed by a duration (twenty years, a month, a long time)."
+                },
+                {
+                    "id": "G23",
+                    "difficulty": 1,
+                    "arabicHint": "Since مع الحاضر التام: نقطة البداية",
+                    "question": "Choose the correct tense used with 'since' to show when something began.",
+                    "prompt": "They _____ lived in that apartment _____ they got married.",
+                    "options": [
+                        "lived / since",
+                        "have lived / since",
+                        "live / for",
+                        "had lived / since"
+                    ],
+                    "answer": "have lived / since",
+                    "explanation": "Use present perfect + 'since' to show the starting point of an action continuing to now. 'Since' is followed by a point in time (a year, an event, a date)."
+                },
+                {
+                    "id": "G24",
+                    "difficulty": 2,
+                    "arabicHint": "For مقابل Since: مدة زمنية مقابل نقطة بداية",
+                    "question": "Choose the correct time expression to complete each blank.",
+                    "prompt": "We haven't used our old camera _____ a very long time. / We haven't used it _____ last Eid.",
+                    "options": [
+                        "for / since",
+                        "since / for",
+                        "for / for",
+                        "since / since"
+                    ],
+                    "answer": "for / since",
+                    "explanation": "'For' is followed by a period of duration (a long time, two years). 'Since' is followed by a specific starting point (last Eid, 2020, Monday)."
+                },
+                {
+                    "id": "G25",
+                    "difficulty": 2,
+                    "arabicHint": "Ago مقابل Since: كلاهما يدلان على الماضي لكن بطريقة مختلفة",
+                    "question": "Select the correct time expression for each blank.",
+                    "prompt": "They moved to their current home three years _____. They have lived there _____ three years.",
+                    "options": [
+                        "ago / for",
+                        "since / ago",
+                        "for / ago",
+                        "ago / since"
+                    ],
+                    "answer": "ago / for",
+                    "explanation": "'Ago' goes with simple past and means 'before now.' 'For' goes with present perfect and describes the duration of an ongoing situation."
+                },
+                {
+                    "id": "G26",
+                    "difficulty": 3,
+                    "arabicHint": "الحاضر التام مقابل الماضي البسيط: اختر الصحيح",
+                    "question": "Identify the sentence that correctly uses the present perfect.",
+                    "prompt": "Which sentence is correct?",
+                    "options": [
+                        "I have visited Japan in 2019.",
+                        "I visited Japan in 2019.",
+                        "I have visited Japan last summer.",
+                        "I have visited Japan yesterday."
+                    ],
+                    "answer": "I visited Japan in 2019.",
+                    "explanation": "When a specific past time is mentioned (in 2019, last summer, yesterday), use simple past — never present perfect. Present perfect is for unspecified past times."
+                },
+                {
+                    "id": "G27",
+                    "difficulty": 1,
+                    "arabicHint": "Can للقدرة في الحاضر",
+                    "question": "Choose the modal that expresses present ability.",
+                    "prompt": "The new robot _____ carry up to 50 kilograms and move on uneven ground.",
+                    "options": [
+                        "could",
+                        "can",
+                        "may",
+                        "should"
+                    ],
+                    "answer": "can",
+                    "explanation": "Use 'can' to express ability in the present. The robot currently has these capabilities, so 'can' is the correct choice."
+                },
+                {
+                    "id": "G28",
+                    "difficulty": 1,
+                    "arabicHint": "Could للقدرة في الماضي",
+                    "question": "Select the modal expressing ability in the past.",
+                    "prompt": "Before GPS was invented, sailors _____ navigate using only the stars.",
+                    "options": [
+                        "can",
+                        "could",
+                        "may",
+                        "will"
+                    ],
+                    "answer": "could",
+                    "explanation": "Use 'could' to talk about ability that existed in the past. Sailors had the skill of navigating by stars before modern technology."
+                },
+                {
+                    "id": "G29",
+                    "difficulty": 2,
+                    "arabicHint": "Can مقابل Could للقدرة: حاضر مقابل ماضٍ",
+                    "question": "Choose the correct modal to express past ability in this context.",
+                    "prompt": "My grandmother _____ speak four languages when she was young, which was remarkable.",
+                    "options": [
+                        "can",
+                        "could",
+                        "may",
+                        "must"
+                    ],
+                    "answer": "could",
+                    "explanation": "'Could' refers to an ability the grandmother had in the past ('when she was young'). She may not have that same ability now."
+                },
+                {
+                    "id": "G30",
+                    "difficulty": 1,
+                    "arabicHint": "May للإذن الرسمي (أكثر أدباً)",
+                    "question": "Select the more formal way to ask for permission.",
+                    "prompt": "_____ I use your computer for a moment, please?",
+                    "options": [
+                        "Could",
+                        "Should",
+                        "May",
+                        "Must"
+                    ],
+                    "answer": "May",
+                    "explanation": "Use 'may' to ask for permission in formal or polite contexts. 'Can' is also acceptable but less formal. 'Could' is used for requests, not permission."
+                },
+                {
+                    "id": "G31",
+                    "difficulty": 2,
+                    "arabicHint": "Can للإذن غير الرسمي",
+                    "question": "Choose the modal that grants or refuses permission in an informal way.",
+                    "prompt": "Student: '_____ I hand in my assignment tomorrow?' Teacher: 'Yes, you _____.'",
+                    "options": [
+                        "Can / can",
+                        "May / should",
+                        "Could / could",
+                        "Must / must"
+                    ],
+                    "answer": "Can / can",
+                    "explanation": "'Can' is commonly used to ask for and grant permission in informal situations. The short positive answer mirrors the modal used in the question."
+                },
+                {
+                    "id": "G32",
+                    "difficulty": 1,
+                    "arabicHint": "Can للطلبات غير الرسمية",
+                    "question": "Choose the modal used to make an informal polite request.",
+                    "prompt": "_____ you pass me that book, please?",
+                    "options": [
+                        "May",
+                        "Should",
+                        "Can",
+                        "Must"
+                    ],
+                    "answer": "Can",
+                    "explanation": "Use 'can' for informal polite requests. Both 'can' and 'could' work for requests, but 'can' is less formal. 'May' is used for permission, not requests."
+                },
+                {
+                    "id": "G33",
+                    "difficulty": 1,
+                    "arabicHint": "Could للطلبات الرسمية (أكثر أدباً من Can)",
+                    "question": "Select the more formal modal for making a polite request.",
+                    "prompt": "_____ you fill in this form and return it to the front desk, please?",
+                    "options": [
+                        "Can",
+                        "Could",
+                        "Must",
+                        "Should"
+                    ],
+                    "answer": "Could",
+                    "explanation": "'Could' makes requests more formal and polite than 'can.' It is often used in professional or formal settings such as offices, hotels, or official appointments."
+                },
+                {
+                    "id": "G34",
+                    "difficulty": 2,
+                    "arabicHint": "الفرق بين طلب الإذن والطلب العادي",
+                    "question": "Identify which sentence is asking for permission and which is making a request.",
+                    "prompt": "Which of the following asks for permission (not a request for someone else to do something)?",
+                    "options": [
+                        "Could you open the window?",
+                        "Can I open the window?",
+                        "Can you help me?",
+                        "Could you fill in this form?"
+                    ],
+                    "answer": "Can I open the window?",
+                    "explanation": "When the subject is 'I,' the speaker is asking for permission to do something themselves. When the subject is 'you,' the speaker is requesting that someone else do something."
+                },
+                {
+                    "id": "G35",
+                    "difficulty": 2,
+                    "arabicHint": "الرد الصحيح على May I...؟",
+                    "question": "Select the correct formal response to a permission question.",
+                    "prompt": "Student: 'May I leave the exam early?' Examiner: '_____'",
+                    "options": [
+                        "Yes, you may.",
+                        "Yes, you could.",
+                        "Yes, you should.",
+                        "Yes, you must."
+                    ],
+                    "answer": "Yes, you may.",
+                    "explanation": "The short answer to a 'May I...?' question uses 'may.' You can also say 'No, you may not' to refuse. Never use 'could,' 'should,' or 'must' in short answers to 'may' questions."
+                },
+                {
+                    "id": "G36",
+                    "difficulty": 3,
+                    "arabicHint": "Can / Could / May: الاستخدام الصحيح لكل منها",
+                    "question": "Choose the correct modal for each blank in this dialogue.",
+                    "prompt": "Visitor: '_____ I see Mr. Hassan?' Receptionist: 'Of course. _____ you wait here for a moment?'",
+                    "options": [
+                        "May / Could",
+                        "Could / May",
+                        "Can / Should",
+                        "Must / Will"
+                    ],
+                    "answer": "May / Could",
+                    "explanation": "'May I' is used to ask for permission (to see someone). 'Could you' is used to make a polite request (asking the visitor to wait). This is a classic permission + request combination."
+                },
+                {
+                    "id": "G37",
+                    "difficulty": 2,
+                    "arabicHint": "If + past perfect + would be able to: قدرة حاضرة نتيجة ماضٍ مختلف",
+                    "question": "Choose the correct modal phrase expressing present ability as a result of a past condition.",
+                    "prompt": "If I had studied computer science, I _____ design software applications now.",
+                    "options": [
+                        "would have been able to",
+                        "would be able to",
+                        "could have",
+                        "was able to"
+                    ],
+                    "answer": "would be able to",
+                    "explanation": "Use 'would be able to' (present) when the result of an unreal past condition is a present ability. The speaker didn't study CS, so they can't design software now."
+                },
+                {
+                    "id": "G38",
+                    "difficulty": 2,
+                    "arabicHint": "If + past perfect + would have been able to: قدرة ماضية لم تتحقق",
+                    "question": "Select the correct phrase expressing a missed past ability.",
+                    "prompt": "If doctors had discovered the treatment earlier, they _____ saved more patients during the outbreak.",
+                    "options": [
+                        "would be able to",
+                        "would have been able to",
+                        "could",
+                        "were able to"
+                    ],
+                    "answer": "would have been able to",
+                    "explanation": "Use 'would have been able to + base verb' for a past ability that was missed because the past condition didn't happen. Both the condition and result are in the past."
+                },
+                {
+                    "id": "G39",
+                    "difficulty": 3,
+                    "arabicHint": "would be able to (حاضر) مقابل would have been able to (ماضٍ)",
+                    "question": "Identify the key difference between the two sentences.",
+                    "prompt": "Which sentence describes a present ability that was missed?",
+                    "options": [
+                        "If I had trained harder, I would have been able to compete last year.",
+                        "If I had trained harder, I would be able to compete now.",
+                        "If I train harder, I will be able to compete.",
+                        "If I had trained harder, I could compete."
+                    ],
+                    "answer": "If I had trained harder, I would be able to compete now.",
+                    "explanation": "'Would be able to' + now shows a present ability that is missing because of a past condition that wasn't met. 'Would have been able to' refers to a missed past ability."
+                },
+                {
+                    "id": "G40",
+                    "difficulty": 3,
+                    "arabicHint": "الشرطية الثالثة الكاملة: if + past perfect + would have + past participle",
+                    "question": "Select the fully correct third conditional sentence.",
+                    "prompt": "Which sentence is grammatically correct?",
+                    "options": [
+                        "If I had known about the sale, I would buy more.",
+                        "If I knew about the sale, I would have bought more.",
+                        "If I had known about the sale, I would have bought more.",
+                        "If I had known about the sale, I will buy more."
+                    ],
+                    "answer": "If I had known about the sale, I would have bought more.",
+                    "explanation": "A correct third conditional requires: if + past perfect (had known) + would have + past participle (would have bought). Both parts refer to an unreal past situation."
+                },
+                {
+                    "id": "G41",
+                    "difficulty": 2,
+                    "arabicHint": "الحاضر التام مع already و yet",
+                    "question": "Choose the correct tense with 'already' in a statement.",
+                    "prompt": "Don't explain the plan — I _____ already read the full report.",
+                    "options": [
+                        "read",
+                        "have read",
+                        "had read",
+                        "was reading"
+                    ],
+                    "answer": "have read",
+                    "explanation": "Use present perfect with 'already' to say something happened before now (often sooner than expected). The action is in the past but connected to the present."
+                },
+                {
+                    "id": "G42",
+                    "difficulty": 2,
+                    "arabicHint": "الحاضر التام مع never للتجارب المجهولة الوقت",
+                    "question": "Select the correct tense expressing a life experience.",
+                    "prompt": "He _____ never visited a science museum, but he'd love to go.",
+                    "options": [
+                        "didn't",
+                        "had",
+                        "has",
+                        "was"
+                    ],
+                    "answer": "has",
+                    "explanation": "Use present perfect with 'never' to describe an experience (or lack of one) at an unspecified point in life. The time is not important — the experience itself is."
+                },
+                {
+                    "id": "G43",
+                    "difficulty": 1,
+                    "arabicHint": "Should have: نصيحة متأخرة بعد خطأ",
+                    "prompt": "You look exhausted. You _____ stayed up until 3 a.m. before your interview.",
+                    "options": [
+                        "should have",
+                        "shouldn't have",
+                        "would have",
+                        "must have"
+                    ],
+                    "answer": "shouldn't have",
+                    "explanation": "'Shouldn't have + past participle' is used when someone did something they regret or that was a mistake. Staying up late before an interview was the wrong decision."
+                },
+                {
+                    "id": "G44",
+                    "difficulty": 2,
+                    "arabicHint": "Could / May للإجابة عن السؤال Could people...?",
+                    "question": "Choose the correct full short answer to this past ability question.",
+                    "prompt": "Could people travel between continents before aeroplanes were invented?\n'Yes, they _____. They _____ by ship.'",
+                    "options": [
+                        "could / traveled",
+                        "can / travel",
+                        "could / could travel",
+                        "could / have traveled"
+                    ],
+                    "answer": "could / traveled",
+                    "explanation": "Short positive answers to 'could' ability questions use 'Yes, they could.' The following explanation uses simple past (traveled) to describe the specific past action."
+                },
+                {
+                    "id": "G45",
+                    "difficulty": 2,
+                    "arabicHint": "Since مع الحاضر التام: نقطة بداية محددة",
+                    "prompt": "The research centre has been operating _____ it was founded in 2005.",
+                    "options": [
+                        "for",
+                        "ago",
+                        "since",
+                        "until"
+                    ],
+                    "answer": "since",
+                    "explanation": "'Since' introduces a specific starting point in the past. Use it with present perfect to show that an action began at that point and is still continuing."
+                },
+                {
+                    "id": "G46",
+                    "difficulty": 3,
+                    "arabicHint": "الشرطية مع could have: فرصة ضائعة",
+                    "prompt": "If the team _____ better communication, they _____ resolved the problem much sooner.",
+                    "options": [
+                        "had / could have",
+                        "have / could",
+                        "had had / could have",
+                        "would have / could"
+                    ],
+                    "answer": "had had / could have",
+                    "explanation": "The past perfect of 'have' is 'had had.' The main clause uses 'could have + past participle' (could have resolved) to show a missed possibility in the past."
+                },
+                {
+                    "id": "G47",
+                    "difficulty": 3,
+                    "arabicHint": "Should have مقابل Must have: ندم مقابل استنتاج",
+                    "question": "Choose the correct modal phrase — the speaker is expressing regret, not making a deduction.",
+                    "prompt": "We got lost for two hours. We _____ downloaded the map before we left.",
+                    "options": [
+                        "must have",
+                        "might have",
+                        "should have",
+                        "could be"
+                    ],
+                    "answer": "should have",
+                    "explanation": "'Should have + past participle' expresses regret or criticism about something not done. 'Must have' would express a logical conclusion about the past, not regret."
+                },
+                {
+                    "id": "G48",
+                    "difficulty": 2,
+                    "arabicHint": "الحاضر التام: عدم الحدوث حتى الآن مع yet",
+                    "question": "Select the correct tense for this sentence using 'yet' in a negative context.",
+                    "prompt": "Scientists _____ not _____ a cure for this disease yet.",
+                    "options": [
+                        "did / find",
+                        "have / found",
+                        "had / found",
+                        "do / find"
+                    ],
+                    "answer": "have / found",
+                    "explanation": "Use present perfect in negative sentences with 'yet' to say something hasn't happened up to now. 'Have not found yet' = the search is ongoing."
+                },
+                {
+                    "id": "G49",
+                    "difficulty": 3,
+                    "arabicHint": "would have been able to: قدرة ماضية ضائعة بسبب شرط لم يتحقق",
+                    "prompt": "If the engineer _____ the fault in time, the team _____ prevented the power cut.",
+                    "options": [
+                        "had spotted / would have been able to",
+                        "spotted / could",
+                        "has spotted / would be able to",
+                        "had spotted / would be able to"
+                    ],
+                    "answer": "had spotted / would have been able to",
+                    "explanation": "If + past perfect (had spotted) describes the unreal past condition. 'Would have been able to' describes the missed past ability that would have resulted from it."
+                },
+                {
+                    "id": "G50",
+                    "difficulty": 3,
+                    "arabicHint": "تركيب مختلط: اختر الجملة الصحيحة من بين الخيارات",
+                    "question": "Select the only grammatically correct sentence.",
+                    "prompt": "Which sentence is correct?",
+                    "options": [
+                        "If I have worked abroad, I would improve my language skills now.",
+                        "If I had worked abroad, I would have improved my language skills.",
+                        "If I had worked abroad, I would be improving my language skills now.",
+                        "If I had worked abroad, I would improve my language skills now."
+                    ],
+                    "answer": "If I had worked abroad, I would be improving my language skills now.",
+                    "explanation": "This mixed conditional has a past condition (had worked) and a present result (would be improving now — something currently happening). Options B and D are both plausible, but only C correctly uses the present continuous to show an ongoing present result."
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "questions": [
+                {
+                    "id": "V1",
+                    "difficulty": 1,
+                    "arabicHint": "العجلة: اختراع غير تاريخ البشرية",
+                    "prompt": "The _____ is considered one of the most important inventions in history — it made transporting heavy objects far easier.",
+                    "options": [
+                        "wheel",
+                        "engine",
+                        "lever",
+                        "pulley"
+                    ],
+                    "answer": "wheel",
+                    "explanation": "The wheel is a circular device that rotates on an axle, enabling movement of heavy loads. It fundamentally changed how humans transported goods."
+                },
+                {
+                    "id": "V2",
+                    "difficulty": 1,
+                    "arabicHint": "حمولة ثقيلة: وزن كبير يحمل",
+                    "prompt": "The workers used a forklift to carry the _____ of steel beams across the construction site.",
+                    "options": [
+                        "heavy load",
+                        "light touch",
+                        "thin layer",
+                        "soft breeze"
+                    ],
+                    "answer": "heavy load",
+                    "explanation": "A heavy load refers to a large amount of weight that must be carried or moved. Without the wheel, moving heavy loads by hand would have been extremely difficult."
+                },
+                {
+                    "id": "V3",
+                    "difficulty": 2,
+                    "arabicHint": "بئر النفط: حفرة عميقة لاستخراج النفط الخام",
+                    "prompt": "The company drilled an _____ deep into the ground and struck crude oil almost immediately.",
+                    "options": [
+                        "oil well",
+                        "water pipe",
+                        "air vent",
+                        "gas tank"
+                    ],
+                    "answer": "oil well",
+                    "explanation": "An oil well is a drilled hole in the earth from which petroleum is extracted. The discovery of oil wells transformed industry and transport worldwide."
+                },
+                {
+                    "id": "V4",
+                    "difficulty": 1,
+                    "arabicHint": "البنزين: وقود السيارات",
+                    "prompt": "Most traditional cars run on _____, which is refined from crude oil.",
+                    "options": [
+                        "gasoline",
+                        "electricity",
+                        "steam",
+                        "hydrogen"
+                    ],
+                    "answer": "gasoline",
+                    "explanation": "Gasoline (or petrol) is a liquid fuel derived from oil, used to power internal combustion engines. Without oil discovery, gasoline-powered cars would not have become widespread."
+                },
+                {
+                    "id": "V5",
+                    "difficulty": 1,
+                    "arabicHint": "الكهرباء: قوة تشغل الاجهزة والاضواء",
+                    "prompt": "Without _____, modern life as we know it — phones, hospitals, and lighting — would simply not be possible.",
+                    "options": [
+                        "electricity",
+                        "gravity",
+                        "magnetism",
+                        "friction"
+                    ],
+                    "answer": "electricity",
+                    "explanation": "Electricity is a form of energy that powers lights, machines, and technology. Its discovery and harnessing transformed civilisation."
+                },
+                {
+                    "id": "V6",
+                    "difficulty": 2,
+                    "arabicHint": "الشمع: مصدر ضوء قديم",
+                    "prompt": "Before the invention of the light bulb, people used oil lamps and _____ to light their homes at night.",
+                    "options": [
+                        "candles",
+                        "torches",
+                        "mirrors",
+                        "crystals"
+                    ],
+                    "answer": "candles",
+                    "explanation": "Candles are wax sticks with a wick that produces a small flame when lit. They were the main source of artificial light before electricity was discovered."
+                },
+                {
+                    "id": "V7",
+                    "difficulty": 3,
+                    "arabicHint": "متوهج: ينتج ضوءا عن طريق التسخين",
+                    "prompt": "The old-style _____ light bulb produces light by heating a thin wire filament until it glows.",
+                    "options": [
+                        "incandescent",
+                        "fluorescent",
+                        "transparent",
+                        "magnetic"
+                    ],
+                    "answer": "incandescent",
+                    "explanation": "Incandescent means producing light as a result of being heated. Thomas Edison's famous light bulb worked on this principle."
+                },
+                {
+                    "id": "V8",
+                    "difficulty": 2,
+                    "arabicHint": "البنسلين: اول مضاد حيوي اكتشف",
+                    "prompt": "The discovery of _____ by Alexander Fleming in 1928 gave doctors a powerful weapon against bacterial infections.",
+                    "options": [
+                        "penicillin",
+                        "aspirin",
+                        "insulin",
+                        "caffeine"
+                    ],
+                    "answer": "penicillin",
+                    "explanation": "Penicillin is the world's first antibiotic, derived from mould. It revolutionised medicine by treating bacterial infections that had previously been fatal."
+                },
+                {
+                    "id": "V9",
+                    "difficulty": 1,
+                    "arabicHint": "عدوى / التهاب: دخول البكتيريا او الجراثيم للجسم",
+                    "prompt": "The patient's wound developed a serious _____ because it hadn't been cleaned properly.",
+                    "options": [
+                        "infection",
+                        "invention",
+                        "injection",
+                        "inspection"
+                    ],
+                    "answer": "infection",
+                    "explanation": "An infection is an illness or condition caused by bacteria, viruses, or other germs entering the body. Before antibiotics, even small infections could be deadly."
+                },
+                {
+                    "id": "V10",
+                    "difficulty": 2,
+                    "arabicHint": "مضاد حيوي: دواء يقتل البكتيريا",
+                    "prompt": "The doctor prescribed an _____ to treat the bacterial throat infection.",
+                    "options": [
+                        "antibiotic",
+                        "painkiller",
+                        "vitamin",
+                        "antacid"
+                    ],
+                    "answer": "antibiotic",
+                    "explanation": "An antibiotic is a medicine that kills or stops the growth of bacteria. Penicillin was the first antibiotic and its widespread use began during World War II."
+                },
+                {
+                    "id": "V11",
+                    "difficulty": 2,
+                    "arabicHint": "واسع الانتشار: شائع في اماكن كثيرة",
+                    "prompt": "The use of smartphones has become _____ — almost everyone in the world now owns one.",
+                    "options": [
+                        "widespread",
+                        "limited",
+                        "underground",
+                        "seasonal"
+                    ],
+                    "answer": "widespread",
+                    "explanation": "Widespread means existing or happening over a large area or among many people. The widespread adoption of a technology means it is used everywhere."
+                },
+                {
+                    "id": "V12",
+                    "difficulty": 1,
+                    "arabicHint": "قارة: واحدة من المناطق الكبرى على الارض",
+                    "prompt": "Air travel made it possible for people on different _____ to meet and do business easily.",
+                    "options": [
+                        "continents",
+                        "countries",
+                        "cities",
+                        "villages"
+                    ],
+                    "answer": "continents",
+                    "explanation": "A continent is one of the large landmasses of the Earth (e.g., Asia, Africa, Europe). Airplanes dramatically increased contact between people living on different continents."
+                },
+                {
+                    "id": "V13",
+                    "difficulty": 3,
+                    "arabicHint": "مدفوع بمحرك / تعمله قوة ميكانيكية",
+                    "prompt": "The Wright brothers' achievement was building the first engine-_____ aircraft that could fly under its own power.",
+                    "options": [
+                        "propelled",
+                        "controlled",
+                        "guided",
+                        "inflated"
+                    ],
+                    "answer": "propelled",
+                    "explanation": "Propelled means driven forward by a force or engine. An engine-propelled aircraft uses mechanical power rather than wind currents alone."
+                },
+                {
+                    "id": "V14",
+                    "difficulty": 2,
+                    "arabicHint": "الهندسة المعمارية: تصميم المباني",
+                    "prompt": "The ancient temple showed remarkable _____ — its columns and arches had survived thousands of years.",
+                    "options": [
+                        "architecture",
+                        "sculpture",
+                        "agriculture",
+                        "literature"
+                    ],
+                    "answer": "architecture",
+                    "explanation": "Architecture is the art and science of designing and constructing buildings. Ancient civilisations like the Mayans used circular shapes in their architecture."
+                },
+                {
+                    "id": "V15",
+                    "difficulty": 1,
+                    "arabicHint": "حارس الامن: شخص مهمته حماية مكان",
+                    "prompt": "The _____ at the entrance checked everyone's bag before letting them into the building.",
+                    "options": [
+                        "security guard",
+                        "tour guide",
+                        "traffic officer",
+                        "lab assistant"
+                    ],
+                    "answer": "security guard",
+                    "explanation": "A security guard is a person employed to protect a building or people. If you witness something suspicious, you should inform the security guard immediately."
+                },
+                {
+                    "id": "V16",
+                    "difficulty": 1,
+                    "arabicHint": "تسريحة الشعر / نمط قص الشعر",
+                    "prompt": "She changed her _____ completely — she went from long straight hair to short curly hair.",
+                    "options": [
+                        "hairstyle",
+                        "hairbrush",
+                        "hairband",
+                        "hairpin"
+                    ],
+                    "answer": "hairstyle",
+                    "explanation": "A hairstyle is the way a person's hair is cut or arranged. Commenting on someone's hairstyle is common in conversation, though it requires tact."
+                },
+                {
+                    "id": "V17",
+                    "difficulty": 1,
+                    "arabicHint": "المصباح الكهربائي: اخترعه توماس اديسون",
+                    "prompt": "Thomas Edison's invention of the electric _____ in 1879 ended the reliance on candles and gas lamps.",
+                    "options": [
+                        "light bulb",
+                        "light switch",
+                        "power cable",
+                        "circuit board"
+                    ],
+                    "answer": "light bulb",
+                    "explanation": "A light bulb is the glass-enclosed device that produces electric light. Edison's incandescent version was the first practical one available to the public."
+                },
+                {
+                    "id": "V18",
+                    "difficulty": 2,
+                    "arabicHint": "ندم / اسف على شيء حدث او لم يحدث",
+                    "prompt": "One of his biggest _____ was not studying more seriously during university.",
+                    "options": [
+                        "regrets",
+                        "rewards",
+                        "requests",
+                        "responses"
+                    ],
+                    "answer": "regrets",
+                    "explanation": "A regret is a feeling of sadness or disappointment about something you did or didn't do. 'Should have' and 'shouldn't have' are used to express regrets."
+                },
+                {
+                    "id": "V19",
+                    "difficulty": 1,
+                    "arabicHint": "فرصة: موقف مناسب للقيام بشيء مهم",
+                    "prompt": "He missed a great _____ to study abroad because he didn't apply on time.",
+                    "options": [
+                        "opportunity",
+                        "obstacle",
+                        "objection",
+                        "opinion"
+                    ],
+                    "answer": "opportunity",
+                    "explanation": "An opportunity is a favourable situation that allows someone to do something beneficial. Missing an opportunity often leads to regret."
+                },
+                {
+                    "id": "V20",
+                    "difficulty": 2,
+                    "arabicHint": "غير ناضج / سلوك طفولي",
+                    "prompt": "Looking back, he admitted he had been too _____ to make good decisions in his early twenties.",
+                    "options": [
+                        "immature",
+                        "intelligent",
+                        "independent",
+                        "impressive"
+                    ],
+                    "answer": "immature",
+                    "explanation": "Immature means behaving in a childish way or lacking the wisdom of an adult. Youth and immaturity often lead to decisions people later regret."
+                },
+                {
+                    "id": "V21",
+                    "difficulty": 2,
+                    "arabicHint": "مسؤوليات: التزامات يجب الوفاء بها",
+                    "prompt": "Running your own business comes with many _____ — you have to manage staff, finances, and customers.",
+                    "options": [
+                        "responsibilities",
+                        "regrets",
+                        "relationships",
+                        "reservations"
+                    ],
+                    "answer": "responsibilities",
+                    "explanation": "Responsibilities are duties or tasks that you are required or expected to do. Business owners have far more responsibilities than employees."
+                },
+                {
+                    "id": "V22",
+                    "difficulty": 2,
+                    "arabicHint": "درجة الماجستير: شهادة جامعية عليا",
+                    "prompt": "After completing his undergraduate studies, he continued and earned a _____ in engineering.",
+                    "options": [
+                        "master's degree",
+                        "driving licence",
+                        "work permit",
+                        "high school diploma"
+                    ],
+                    "answer": "master's degree",
+                    "explanation": "A master's degree is an advanced university qualification above a bachelor's degree. It often requires one to two additional years of study after graduation."
+                },
+                {
+                    "id": "V23",
+                    "difficulty": 1,
+                    "arabicHint": "مسيرة مهنية: المجال الذي يختاره الانسان لحياته",
+                    "prompt": "She had always dreamed of a _____ in medicine, so she worked hard throughout school to achieve that goal.",
+                    "options": [
+                        "career",
+                        "hobby",
+                        "journey",
+                        "contract"
+                    ],
+                    "answer": "career",
+                    "explanation": "A career is the series of jobs or professional activities that make up someone's working life. Having a clear career goal helps people stay focused."
+                },
+                {
+                    "id": "V24",
+                    "difficulty": 1,
+                    "arabicHint": "يتجنب / يبتعد عن شيء ما",
+                    "prompt": "He took a side street to _____ the heavy traffic on the main road.",
+                    "options": [
+                        "avoid",
+                        "follow",
+                        "cause",
+                        "ignore"
+                    ],
+                    "answer": "avoid",
+                    "explanation": "To avoid means to stay away from or prevent something from happening. Choosing a different path allows you to avoid congestion or danger."
+                },
+                {
+                    "id": "V25",
+                    "difficulty": 2,
+                    "arabicHint": "مسار / طريق معين للسفر",
+                    "prompt": "The delivery driver planned a more efficient _____ to reach all his stops before midday.",
+                    "options": [
+                        "route",
+                        "routine",
+                        "round",
+                        "region"
+                    ],
+                    "answer": "route",
+                    "explanation": "A route is a particular path or way taken to get from one place to another. Planning the right route saves time and fuel."
+                },
+                {
+                    "id": "V26",
+                    "difficulty": 1,
+                    "arabicHint": "عبارة محادثة: تقصد...؟ (للتاكد من فهم ما قاله الاخر)",
+                    "prompt": "A: 'I've been thinking about what we discussed.' B: '_____ the plan we agreed on last week?'",
+                    "options": [
+                        "You mean",
+                        "You must",
+                        "You should",
+                        "You could"
+                    ],
+                    "answer": "You mean",
+                    "explanation": "'You mean' is an expression used to confirm or clarify what someone else has said. It is a polite way to check that you have understood correctly."
+                },
+                {
+                    "id": "V27",
+                    "difficulty": 2,
+                    "arabicHint": "الانطلاق في الحياة / الاستقلال عن العائلة",
+                    "prompt": "After finishing school, many young people are eager to _____ and live independently.",
+                    "options": [
+                        "go out into the world",
+                        "stay in their comfort zone",
+                        "give up on life",
+                        "fall behind schedule"
+                    ],
+                    "answer": "go out into the world",
+                    "explanation": "'Go out into the world' means to become independent and face life on your own, rather than staying sheltered at home or school."
+                },
+                {
+                    "id": "V28",
+                    "difficulty": 3,
+                    "arabicHint": "يراقبك باستمرار / يضغط عليك (تعبير مجازي)",
+                    "prompt": "Working for yourself is great — there's no manager _____ all day.",
+                    "options": [
+                        "breathing down your neck",
+                        "running through your mind",
+                        "watching your back",
+                        "keeping you in the loop"
+                    ],
+                    "answer": "breathing down your neck",
+                    "explanation": "'Breathing down someone's neck' is an idiom meaning constantly watching or putting pressure on someone. Self-employment means no one is monitoring your every move."
+                },
+                {
+                    "id": "V29",
+                    "difficulty": 2,
+                    "arabicHint": "اما بالنسبة لي: عبارة لتغيير الموضوع او تقديم وجهة نظرك",
+                    "prompt": "Everyone shared their opinions about the trip. '_____ me, I would prefer to visit somewhere cooler,' said Khalid.",
+                    "options": [
+                        "As for",
+                        "Because of",
+                        "Instead of",
+                        "Along with"
+                    ],
+                    "answer": "As for",
+                    "explanation": "'As for me' is a phrase used to shift focus to yourself or a new topic in a conversation. It introduces your own point after others have spoken."
+                },
+                {
+                    "id": "V30",
+                    "difficulty": 3,
+                    "arabicHint": "عقد العزم على شيء / متصمم على تحقيق هدف",
+                    "prompt": "She _____ becoming a pilot from a young age and never gave up on that dream.",
+                    "options": [
+                        "had her mind set on",
+                        "had her eye on",
+                        "had her heart broken over",
+                        "had her hand in"
+                    ],
+                    "answer": "had her mind set on",
+                    "explanation": "'Have one's mind set on something' means being firmly decided about a goal and focused on achieving it, refusing to be distracted or change direction."
+                },
+                {
+                    "id": "V31",
+                    "difficulty": 2,
+                    "arabicHint": "تجاري: متعلق بالتجارة او الاستخدام التجاري",
+                    "prompt": "The first _____ oil well in North America was drilled in Canada in the nineteenth century.",
+                    "options": [
+                        "commercial",
+                        "industrial",
+                        "historical",
+                        "agricultural"
+                    ],
+                    "answer": "commercial",
+                    "explanation": "Commercial means related to buying, selling, or making money. A commercial oil well is one drilled for business profit rather than personal use."
+                },
+                {
+                    "id": "V32",
+                    "difficulty": 2,
+                    "arabicHint": "حفر / ثقب عميق في الارض",
+                    "prompt": "The engineers _____ deep into the rock to reach the underground water supply.",
+                    "options": [
+                        "drilled",
+                        "built",
+                        "melted",
+                        "planted"
+                    ],
+                    "answer": "drilled",
+                    "explanation": "To drill means to make a hole using a rotating tool. Oil wells and water wells are created by drilling deep into the earth."
+                },
+                {
+                    "id": "V33",
+                    "difficulty": 2,
+                    "arabicHint": "يوظف / يعين شخصا للعمل",
+                    "prompt": "Because he lacked accounting skills, he had to _____ a professional to manage the company's finances.",
+                    "options": [
+                        "employ",
+                        "ignore",
+                        "replace",
+                        "compete"
+                    ],
+                    "answer": "employ",
+                    "explanation": "To employ means to hire someone to do work in exchange for payment. Business owners often employ specialists to handle tasks outside their expertise."
+                },
+                {
+                    "id": "V34",
+                    "difficulty": 2,
+                    "arabicHint": "مصدر: الاصل الذي ياتي منه شيء",
+                    "prompt": "The country discovered large _____ of natural gas beneath the desert floor.",
+                    "options": [
+                        "sources",
+                        "samples",
+                        "signals",
+                        "systems"
+                    ],
+                    "answer": "sources",
+                    "explanation": "A source is the place or thing from which something comes or is obtained. Oil and gas are major sources of energy."
+                },
+                {
+                    "id": "V35",
+                    "difficulty": 1,
+                    "arabicHint": "ميزة / فائدة (عكس العيب)",
+                    "prompt": "One big _____ of working from home is that you save time on commuting every day.",
+                    "options": [
+                        "advantage",
+                        "disadvantage",
+                        "distraction",
+                        "disaster"
+                    ],
+                    "answer": "advantage",
+                    "explanation": "An advantage is a feature that puts someone in a more favourable position. Every invention has both advantages and disadvantages."
+                },
+                {
+                    "id": "V36",
+                    "difficulty": 1,
+                    "arabicHint": "عيب / سلبية (عكس الميزة)",
+                    "prompt": "A major _____ of social media is that it can be addictive and waste a lot of time.",
+                    "options": [
+                        "disadvantage",
+                        "advantage",
+                        "achievement",
+                        "development"
+                    ],
+                    "answer": "disadvantage",
+                    "explanation": "A disadvantage is something that makes a situation worse or less favourable. Every technology has disadvantages alongside its benefits."
+                },
+                {
+                    "id": "V37",
+                    "difficulty": 1,
+                    "arabicHint": "ساعة اليد: اخترعت عام 1910",
+                    "prompt": "He glanced at his _____ and realised he was already ten minutes late for the meeting.",
+                    "options": [
+                        "wristwatch",
+                        "compass",
+                        "calendar",
+                        "barometer"
+                    ],
+                    "answer": "wristwatch",
+                    "explanation": "A wristwatch is a small clock worn on the wrist. It was invented around 1910 and became one of the most common personal accessories."
+                },
+                {
+                    "id": "V38",
+                    "difficulty": 1,
+                    "arabicHint": "قلم الحبر الجاف: اخترع في القرن التاسع عشر",
+                    "prompt": "Before the _____ was invented, writers had to use fountain pens that frequently leaked or dried out.",
+                    "options": [
+                        "ballpoint pen",
+                        "pencil case",
+                        "felt-tip marker",
+                        "quill pen"
+                    ],
+                    "answer": "ballpoint pen",
+                    "explanation": "A ballpoint pen uses a small rotating ball to distribute ink smoothly onto paper. It was invented in 1888 and is now the most commonly used writing instrument."
+                },
+                {
+                    "id": "V39",
+                    "difficulty": 2,
+                    "arabicHint": "الطعام المعلب: طريقة حفظ الطعام اخترعت مطلع القرن التاسع عشر",
+                    "prompt": "Soldiers and explorers relied on _____ to carry food over long journeys without it spoiling.",
+                    "options": [
+                        "canned food",
+                        "dried herbs",
+                        "raw ingredients",
+                        "frozen meals"
+                    ],
+                    "answer": "canned food",
+                    "explanation": "Canned food is food sealed in a metal tin for long-term preservation. Invented in the early 1800s, it meant food could be stored and transported without refrigeration."
+                },
+                {
+                    "id": "V40",
+                    "difficulty": 2,
+                    "arabicHint": "الحكم في المباراة: الشخص الذي يطبق قواعد اللعبة",
+                    "prompt": "The players argued that the _____ had made the wrong call, costing their team the match.",
+                    "options": [
+                        "referee",
+                        "coach",
+                        "captain",
+                        "spectator"
+                    ],
+                    "answer": "referee",
+                    "explanation": "A referee is the official who enforces the rules of a sport during a match. A bad call by a referee can decide the outcome of a game."
+                },
+                {
+                    "id": "V41",
+                    "difficulty": 3,
+                    "arabicHint": "فكرة لاحقة / شيء يخطر على البال بعد فوات الاوان",
+                    "prompt": "As an _____, he realised he should have brought a jacket — the night had turned cold.",
+                    "options": [
+                        "afterthought",
+                        "overview",
+                        "outline",
+                        "introduction"
+                    ],
+                    "answer": "afterthought",
+                    "explanation": "An afterthought is something considered or added after the main plan or event. It often describes a regret or idea that came too late to be acted upon."
+                },
+                {
+                    "id": "V42",
+                    "difficulty": 2,
+                    "arabicHint": "مستقل: يعتمد على نفسه",
+                    "prompt": "Learning to cook, budget, and manage your time are essential skills for living an _____ life.",
+                    "options": [
+                        "independent",
+                        "irresponsible",
+                        "isolated",
+                        "indecisive"
+                    ],
+                    "answer": "independent",
+                    "explanation": "Independent means not relying on others for support or direction. Being independent is often a key goal for young people when they first go out into the world."
+                },
+                {
+                    "id": "V43",
+                    "difficulty": 1,
+                    "arabicHint": "يعرف / يقدم شيئا جديدا لاول مرة",
+                    "prompt": "IBM _____ the first personal computer to the public in 1981.",
+                    "options": [
+                        "introduced",
+                        "removed",
+                        "replaced",
+                        "reduced"
+                    ],
+                    "answer": "introduced",
+                    "explanation": "To introduce means to bring something new and make it available for the first time. Products, laws, and technologies are all introduced officially."
+                },
+                {
+                    "id": "V44",
+                    "difficulty": 2,
+                    "arabicHint": "بطاقة الائتمان: بطاقة دفع مصرفية",
+                    "prompt": "She forgot her _____ at home and had no other way to pay for her groceries at the checkout.",
+                    "options": [
+                        "credit card",
+                        "library card",
+                        "boarding pass",
+                        "loyalty card"
+                    ],
+                    "answer": "credit card",
+                    "explanation": "A credit card is a small plastic card issued by a bank, allowing you to buy things and pay for them later. Credit cards have existed since 1951."
+                },
+                {
+                    "id": "V45",
+                    "difficulty": 1,
+                    "arabicHint": "جاد / مجتهد (في الدراسة او العمل)",
+                    "prompt": "He regrets not being a more _____ student — he spent too much time on distractions instead of studying.",
+                    "options": [
+                        "serious",
+                        "popular",
+                        "creative",
+                        "athletic"
+                    ],
+                    "answer": "serious",
+                    "explanation": "Serious in this context means dedicated and focused on important goals. A serious student puts genuine effort into learning rather than taking shortcuts."
+                },
+                {
+                    "id": "V46",
+                    "difficulty": 2,
+                    "arabicHint": "يجرح مشاعر / يحزن شخصا ما",
+                    "prompt": "She chose not to say anything negative about the gift because she didn't want to _____ his _____.",
+                    "options": [
+                        "hurt / feelings",
+                        "break / rules",
+                        "miss / chance",
+                        "lose / attention"
+                    ],
+                    "answer": "hurt / feelings",
+                    "explanation": "'Hurt someone's feelings' means to say or do something that upsets them emotionally. Being tactful means considering other people's feelings before speaking."
+                },
+                {
+                    "id": "V47",
+                    "difficulty": 2,
+                    "arabicHint": "كسر القفل: فتح شيء مغلق بطريقة غير مشروعة",
+                    "prompt": "He should have told the security guard that he saw someone _____ the lock on the storage room door.",
+                    "options": [
+                        "breaking",
+                        "fixing",
+                        "installing",
+                        "painting"
+                    ],
+                    "answer": "breaking",
+                    "explanation": "'Breaking the lock' means forcing a lock open, usually to enter a place without permission. Witnessing this and not reporting it is a common example of a regret."
+                },
+                {
+                    "id": "V48",
+                    "difficulty": 1,
+                    "arabicHint": "شائع / منتشر في كل مكان",
+                    "prompt": "Plastic bags became so _____ that they ended up polluting oceans and landfills worldwide.",
+                    "options": [
+                        "common",
+                        "ancient",
+                        "complex",
+                        "cautious"
+                    ],
+                    "answer": "common",
+                    "explanation": "Common means happening or existing in large numbers or very frequently. A technology or product becomes common when it is adopted by most people."
+                },
+                {
+                    "id": "V49",
+                    "difficulty": 2,
+                    "arabicHint": "يلتحق بدورة / ياخذ دروسا في مجال معين",
+                    "prompt": "He wishes he had _____ a course in business management before starting his own company.",
+                    "options": [
+                        "taken",
+                        "given",
+                        "lost",
+                        "skipped"
+                    ],
+                    "answer": "taken",
+                    "explanation": "'Take a course' means to attend and study a subject formally. Taking relevant courses before starting a business or career helps avoid costly mistakes."
+                },
+                {
+                    "id": "V50",
+                    "difficulty": 3,
+                    "arabicHint": "اختراع: شيء ابتكره انسان لاول مرة في التاريخ",
+                    "prompt": "The printing press was a revolutionary _____ — it allowed books to be produced quickly and made knowledge accessible to millions.",
+                    "options": [
+                        "invention",
+                        "intention",
+                        "instruction",
+                        "investigation"
+                    ],
+                    "answer": "invention",
+                    "explanation": "An invention is a new device, method, or idea created for the first time. Inventions like the wheel, electricity, and the printing press permanently changed human civilisation."
+                }
+            ]
+        }
+    ]
+}

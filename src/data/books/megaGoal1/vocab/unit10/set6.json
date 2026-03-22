@@ -1,0 +1,1122 @@
+{
+    "unit": "Mega Goal 1 - Unit 10",
+    "type": "vocabulary building",
+    "setTitle": "End of Unit Vocabulary",
+    "words": [
+        {
+            "word": "meteorite",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "piece of rock from space",
+                    "highlight": true
+                },
+                {
+                    "text": " that "
+                },
+                {
+                    "text": "lands on Earth",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "نيزك",
+            "synonyms": [
+                "meteor",
+                "space rock"
+            ],
+            "example": [
+                {
+                    "text": "Scientists found a "
+                },
+                {
+                    "text": "meteorite",
+                    "colorize": true
+                },
+                {
+                    "text": " crater in the desert"
+                }
+            ],
+            "tips": "Meteor = burning in atmosphere (shooting star). Meteorite = reaches ground. Meteoroid = floating in space."
+        },
+        {
+            "word": "orbit",
+            "wordType": "noun/verb",
+            "definition": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "curved path",
+                    "highlight": true
+                },
+                {
+                    "text": " of an object "
+                },
+                {
+                    "text": "around a planet or star",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مدار / يدور حول",
+            "synonyms": [
+                "circle",
+                "revolve around"
+            ],
+            "example": [
+                {
+                    "text": "The satellite is in "
+                },
+                {
+                    "text": "orbit",
+                    "colorize": true
+                },
+                {
+                    "text": " around Earth"
+                }
+            ],
+            "tips": "Earth orbits the sun. Moon orbits Earth. Orbital = relating to orbit. Takes 365 days for Earth's orbit!"
+        },
+        {
+            "word": "fireball",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A large "
+                },
+                {
+                    "text": "ball of fire",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "bright meteor",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "كرة نارية",
+            "synonyms": [
+                "ball of fire"
+            ],
+            "example": [
+                {
+                    "text": "A huge "
+                },
+                {
+                    "text": "fireball",
+                    "colorize": true
+                },
+                {
+                    "text": " lit up the night sky"
+                }
+            ],
+            "tips": "Very bright meteor = fireball. Also: explosion creating fire. Nuclear fireball, explosion fireball."
+        },
+        {
+            "word": "fragment",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "small broken piece",
+                    "highlight": true
+                },
+                {
+                    "text": " of something "
+                },
+                {
+                    "text": "larger",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "شظية / قطعة",
+            "synonyms": [
+                "piece",
+                "shard",
+                "bit"
+            ],
+            "example": [
+                {
+                    "text": "Fragments",
+                    "colorize": true
+                },
+                {
+                    "text": " of the meteorite were scattered over a wide area"
+                }
+            ],
+            "tips": "Fragmentation = breaking into pieces. Fragmented = broken into parts. Glass fragments, rock fragments."
+        },
+        {
+            "word": "debris",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Scattered "
+                },
+                {
+                    "text": "pieces of waste or remains",
+                    "highlight": true
+                },
+                {
+                    "text": " from "
+                },
+                {
+                    "text": "destruction",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حطام / أنقاض",
+            "synonyms": [
+                "rubble",
+                "wreckage",
+                "remains"
+            ],
+            "example": [
+                {
+                    "text": "After the explosion, "
+                },
+                {
+                    "text": "debris",
+                    "colorize": true
+                },
+                {
+                    "text": " covered the street"
+                }
+            ],
+            "tips": "Pronounced 'duh-BREE' or 'DAY-bree'. Space debris = junk in space. Building debris, storm debris."
+        },
+        {
+            "word": "crater",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A large "
+                },
+                {
+                    "text": "bowl-shaped hole",
+                    "highlight": true
+                },
+                {
+                    "text": " made by "
+                },
+                {
+                    "text": "impact or explosion",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "فوهة / حفرة",
+            "synonyms": [
+                "hole",
+                "depression"
+            ],
+            "example": [
+                {
+                    "text": "The meteor created a huge "
+                },
+                {
+                    "text": "crater",
+                    "colorize": true
+                },
+                {
+                    "text": " when it hit the ground"
+                }
+            ],
+            "tips": "Moon has many craters. Volcano crater = opening at top. Impact crater = from meteorite or bomb."
+        },
+        {
+            "word": "volcano",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A mountain with an "
+                },
+                {
+                    "text": "opening",
+                    "highlight": true
+                },
+                {
+                    "text": " that "
+                },
+                {
+                    "text": "erupts lava and ash",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "بركان",
+            "synonyms": [
+                "volcanic mountain"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "volcano",
+                    "colorize": true
+                },
+                {
+                    "text": " erupted after being dormant for 50 years"
+                }
+            ],
+            "tips": "Volcanic = relating to volcanoes. Active volcano = erupting. Dormant = sleeping. Extinct = dead forever."
+        },
+        {
+            "word": "hurricane",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A violent "
+                },
+                {
+                    "text": "tropical storm",
+                    "highlight": true
+                },
+                {
+                    "text": " with "
+                },
+                {
+                    "text": "strong winds",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "إعصار",
+            "synonyms": [
+                "tropical cyclone",
+                "typhoon"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "hurricane",
+                    "colorize": true
+                },
+                {
+                    "text": " caused massive flooding and damage"
+                }
+            ],
+            "tips": "Atlantic/Caribbean = hurricane. Pacific = typhoon. Indian Ocean = cyclone. Same storm, different names!"
+        },
+        {
+            "word": "tornado",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A violent "
+                },
+                {
+                    "text": "rotating column of air",
+                    "highlight": true
+                },
+                {
+                    "text": " reaching from "
+                },
+                {
+                    "text": "cloud to ground",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "إعصار دوّار",
+            "synonyms": [
+                "twister",
+                "whirlwind"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "tornado",
+                    "colorize": true
+                },
+                {
+                    "text": " destroyed several houses in its path"
+                }
+            ],
+            "tips": "Shaped like a funnel. Very destructive. Common in US Midwest ('Tornado Alley'). Measured by F-scale."
+        },
+        {
+            "word": "locomotive",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "railway engine",
+                    "highlight": true
+                },
+                {
+                    "text": " that "
+                },
+                {
+                    "text": "pulls trains",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "قاطرة",
+            "synonyms": [
+                "train engine"
+            ],
+            "example": [
+                {
+                    "text": "The steam "
+                },
+                {
+                    "text": "locomotive",
+                    "colorize": true
+                },
+                {
+                    "text": " pulled 20 cargo cars"
+                }
+            ],
+            "tips": "Locomotion = movement. The locomotive provides the power for the train. Steam, diesel, electric types."
+        },
+        {
+            "word": "device",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A piece of "
+                },
+                {
+                    "text": "equipment or tool",
+                    "highlight": true
+                },
+                {
+                    "text": " for a "
+                },
+                {
+                    "text": "specific purpose",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "جهاز / أداة",
+            "synonyms": [
+                "gadget",
+                "tool",
+                "apparatus"
+            ],
+            "example": [
+                {
+                    "text": "Smartphones are multipurpose "
+                },
+                {
+                    "text": "devices",
+                    "colorize": true
+                }
+            ],
+            "tips": "Electronic devices, medical devices, safety devices. More technical than 'thing'."
+        },
+        {
+            "word": "remote control",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "handheld device",
+                    "highlight": true
+                },
+                {
+                    "text": " to "
+                },
+                {
+                    "text": "operate equipment from distance",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "جهاز تحكم عن بُعد",
+            "synonyms": [
+                "remote"
+            ],
+            "example": [
+                {
+                    "text": "I can't find the TV "
+                },
+                {
+                    "text": "remote control",
+                    "colorize": true
+                }
+            ],
+            "tips": "Often shortened to 'remote'. TV remote, drone remote. Remote = from a distance. Controlled remotely."
+        },
+        {
+            "word": "time bomb",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A bomb with a "
+                },
+                {
+                    "text": "timer",
+                    "highlight": true
+                },
+                {
+                    "text": " set to "
+                },
+                {
+                    "text": "explode at specific time",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "قنبلة موقوتة",
+            "synonyms": [
+                "timed explosive"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "time bomb",
+                    "colorize": true
+                },
+                {
+                    "text": " was defused before it could explode"
+                }
+            ],
+            "tips": "Set to explode at predetermined time. Figurative: 'ticking time bomb' = disaster waiting to happen."
+        },
+        {
+            "word": "pioneer",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A person who is "
+                },
+                {
+                    "text": "first to explore",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "develop something new",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "رائد / مكتشف",
+            "synonyms": [
+                "trailblazer",
+                "innovator"
+            ],
+            "example": [
+                {
+                    "text": "She was a "
+                },
+                {
+                    "text": "pioneer",
+                    "colorize": true
+                },
+                {
+                    "text": " in computer science"
+                }
+            ],
+            "tips": "Pioneering = innovative, first. Space pioneers, medical pioneers. As verb: to pioneer = be the first."
+        },
+        {
+            "word": "bull",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "An adult "
+                },
+                {
+                    "text": "male cow",
+                    "highlight": true
+                },
+                {
+                    "text": " or cattle"
+                }
+            ],
+            "arabicMeaning": "ثور",
+            "synonyms": [
+                "ox"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "bull",
+                    "colorize": true
+                },
+                {
+                    "text": " charged at the matador"
+                }
+            ],
+            "tips": "Female = cow. Young = calf. Bullfighting uses bulls. Bull market = stock prices rising (opposite: bear market)."
+        },
+        {
+            "word": "crash",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "collide violently",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "hit with force",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يصطدم / يتحطم",
+            "synonyms": [
+                "collide",
+                "smash"
+            ],
+            "example": [
+                {
+                    "text": "The car "
+                },
+                {
+                    "text": "crashed",
+                    "colorize": true
+                },
+                {
+                    "text": " into a tree"
+                }
+            ],
+            "tips": "Car crash, plane crash. Also: computer crashes = stops working. Market crash = sudden drop in prices."
+        },
+        {
+            "word": "explode",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "burst violently",
+                    "highlight": true
+                },
+                {
+                    "text": " with "
+                },
+                {
+                    "text": "loud noise",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ينفجر",
+            "synonyms": [
+                "blow up",
+                "detonate",
+                "burst"
+            ],
+            "example": [
+                {
+                    "text": "The fireworks "
+                },
+                {
+                    "text": "exploded",
+                    "colorize": true
+                },
+                {
+                    "text": " in colorful bursts"
+                }
+            ],
+            "tips": "Explosion = act of exploding. Explosive = capable of exploding. Population explosion = rapid growth (figurative)."
+        },
+        {
+            "word": "gather",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "collect or come together",
+                    "highlight": true
+                },
+                {
+                    "text": " in "
+                },
+                {
+                    "text": "one place",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يجمع / يتجمع",
+            "synonyms": [
+                "collect",
+                "assemble"
+            ],
+            "example": [
+                {
+                    "text": "People "
+                },
+                {
+                    "text": "gathered",
+                    "colorize": true
+                },
+                {
+                    "text": " in the town square"
+                }
+            ],
+            "tips": "Gather information = collect. Gathering = meeting. Gather around = come close to see/hear."
+        },
+        {
+            "word": "lose control",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To be "
+                },
+                {
+                    "text": "unable to direct",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "manage something",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يفقد السيطرة",
+            "synonyms": [
+                "lose command",
+                "lose grip"
+            ],
+            "example": [
+                {
+                    "text": "The driver "
+                },
+                {
+                    "text": "lost control",
+                    "colorize": true
+                },
+                {
+                    "text": " of the car on icy roads"
+                }
+            ],
+            "tips": "Lose control of vehicle, lose control of emotions, lose control of situation. Out of control = unmanageable."
+        },
+        {
+            "word": "penetrate",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "pass through or into",
+                    "highlight": true
+                },
+                {
+                    "text": " something; to "
+                },
+                {
+                    "text": "pierce",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يخترق / ينفذ",
+            "synonyms": [
+                "pierce",
+                "enter",
+                "puncture"
+            ],
+            "example": [
+                {
+                    "text": "The bullet "
+                },
+                {
+                    "text": "penetrated",
+                    "colorize": true
+                },
+                {
+                    "text": " the metal sheet"
+                }
+            ],
+            "tips": "Penetration = act of penetrating. Penetrating = able to go through. Sunlight penetrates water, ideas penetrate minds."
+        },
+        {
+            "word": "smash",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "break violently",
+                    "highlight": true
+                },
+                {
+                    "text": " into "
+                },
+                {
+                    "text": "many pieces",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يحطم / يهشم",
+            "synonyms": [
+                "shatter",
+                "break",
+                "crush"
+            ],
+            "example": [
+                {
+                    "text": "He accidentally "
+                },
+                {
+                    "text": "smashed",
+                    "colorize": true
+                },
+                {
+                    "text": " the glass on the floor"
+                }
+            ],
+            "tips": "Violent breaking with loud noise. Smash a window, smash a record (beat it). Smash hit = huge success."
+        },
+        {
+            "word": "stick around",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "stay in a place",
+                    "highlight": true
+                },
+                {
+                    "text": " and "
+                },
+                {
+                    "text": "not leave",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يبقى / يمكث",
+            "synonyms": [
+                "stay",
+                "remain",
+                "hang around"
+            ],
+            "example": [
+                {
+                    "text": "Can you "
+                },
+                {
+                    "text": "stick around",
+                    "colorize": true
+                },
+                {
+                    "text": " for a few minutes? I need your help"
+                }
+            ],
+            "tips": "Informal. Stick around = don't leave yet. Stick with = stay with someone/something. Stick to = continue with."
+        },
+        {
+            "word": "tease",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "make fun of",
+                    "highlight": true
+                },
+                {
+                    "text": " someone "
+                },
+                {
+                    "text": "playfully",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يمازح / يضايق",
+            "synonyms": [
+                "joke with",
+                "mock playfully"
+            ],
+            "example": [
+                {
+                    "text": "My friends "
+                },
+                {
+                    "text": "tease",
+                    "colorize": true
+                },
+                {
+                    "text": " me about my new haircut"
+                }
+            ],
+            "tips": "Usually playful, not mean. But can hurt if too much. Don't tease people about sensitive topics!"
+        },
+        {
+            "word": "sophisticated",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Having "
+                },
+                {
+                    "text": "advanced features",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "complex design",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "متطور / معقد",
+            "synonyms": [
+                "advanced",
+                "complex",
+                "refined"
+            ],
+            "example": [
+                {
+                    "text": "Modern smartphones are "
+                },
+                {
+                    "text": "sophisticated",
+                    "colorize": true
+                },
+                {
+                    "text": " devices with many features"
+                }
+            ],
+            "tips": "For people: cultured, elegant. For technology: advanced, complex. Sophistication = quality of being sophisticated."
+        },
+        {
+            "word": "weird",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Strange or "
+                },
+                {
+                    "text": "unusual",
+                    "highlight": true
+                },
+                {
+                    "text": " in an "
+                },
+                {
+                    "text": "unsettling way",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "غريب / شاذ",
+            "synonyms": [
+                "strange",
+                "odd",
+                "bizarre"
+            ],
+            "example": [
+                {
+                    "text": "There's a "
+                },
+                {
+                    "text": "weird",
+                    "colorize": true
+                },
+                {
+                    "text": " noise coming from the basement"
+                }
+            ],
+            "tips": "Informal word. Slightly negative connotation. Weirdo = strange person (rude). That's weird = that's strange!"
+        },
+        {
+            "word": "channel surf",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "rapidly switch",
+                    "highlight": true
+                },
+                {
+                    "text": " between "
+                },
+                {
+                    "text": "TV channels",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يتنقل بين القنوات",
+            "synonyms": [
+                "flip channels",
+                "browse channels"
+            ],
+            "example": [
+                {
+                    "text": "He spent an hour "
+                },
+                {
+                    "text": "channel surfing",
+                    "colorize": true
+                },
+                {
+                    "text": " but couldn't find anything good"
+                }
+            ],
+            "tips": "Like surfing waves. Also: web surfing = browsing websites. Channel hopping (British). Use remote control!"
+        },
+        {
+            "word": "beats me",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Expression meaning "
+                },
+                {
+                    "text": "I don't know",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "I have no idea",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "لا أعلم / لا فكرة لدي",
+            "synonyms": [
+                "I don't know",
+                "I have no idea"
+            ],
+            "example": [
+                {
+                    "text": "Why did they cancel the show? "
+                },
+                {
+                    "text": "Beats me",
+                    "colorize": true
+                }
+            ],
+            "tips": "Very informal. Shows you're puzzled or confused. 'You got me' or 'Search me' mean the same."
+        },
+        {
+            "word": "excuse me",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Polite phrase to "
+                },
+                {
+                    "text": "get attention",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "apologize",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "عفواً / لو سمحت",
+            "synonyms": [
+                "pardon me",
+                "sorry"
+            ],
+            "example": [
+                {
+                    "text": "Excuse me",
+                    "colorize": true
+                },
+                {
+                    "text": ", can you tell me where the bathroom is?"
+                }
+            ],
+            "tips": "Uses: interrupting politely, getting past someone, apologizing for small things. Essential polite phrase!"
+        },
+        {
+            "word": "gee!",
+            "wordType": "interjection",
+            "definition": [
+                {
+                    "text": "Expression of "
+                },
+                {
+                    "text": "surprise, wonder, or enthusiasm",
+                    "highlight": true
+                }
+            ],
+            "arabicMeaning": "يا إلهي! / يا للعجب!",
+            "synonyms": [
+                "wow!",
+                "gosh!",
+                "oh!"
+            ],
+            "example": [
+                {
+                    "text": "Gee",
+                    "colorize": true
+                },
+                {
+                    "text": ", that's amazing!"
+                }
+            ],
+            "tips": "Informal, somewhat old-fashioned. Gee whiz = stronger version. Shows excitement or surprise."
+        },
+        {
+            "word": "you never know",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Expression meaning "
+                },
+                {
+                    "text": "anything is possible",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "uncertainty about future",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "لا يمكن التأكد / لا تعرف أبداً",
+            "synonyms": [
+                "anything can happen",
+                "who knows"
+            ],
+            "example": [
+                {
+                    "text": "Maybe I'll win the lottery. "
+                },
+                {
+                    "text": "You never know",
+                    "colorize": true
+                },
+                {
+                    "text": "!"
+                }
+            ],
+            "tips": "Shows life is unpredictable. Often used to give hope or keep options open. Future is uncertain!"
+        }
+    ]
+}

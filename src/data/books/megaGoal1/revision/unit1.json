@@ -1,0 +1,2619 @@
+{
+    "unit": "Mega Goal 1 - Unit 1: Big Changes",
+    "type": "revision",
+    "totalQuestions": 100,
+    "currentBatch": 1,
+    "sections": [
+        {
+            "section": "grammar",
+            "questions": [
+                {
+                    "id": "G1",
+                    "difficulty": 1,
+                    "arabicHint": "المضارع البسيط للحقائق العلمية",
+                    "question": "Choose the correct verb form.",
+                    "prompt": [
+                        {
+                            "text": "Water "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " at 100 degrees Celsius."
+                        }
+                    ],
+                    "options": [
+                        "boil",
+                        "boils",
+                        "is boiling",
+                        "boiled"
+                    ],
+                    "answer": "boils",
+                    "explanation": "Use simple present for scientific facts that are always true."
+                },
+                {
+                    "id": "G2",
+                    "difficulty": 2,
+                    "arabicHint": "المضارع المستمر مقابل المضارع البسيط",
+                    "question": "Select the best option to complete the sentence.",
+                    "prompt": [
+                        {
+                            "text": "Usually, Ahmed drives to work, but this week he "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " the bus."
+                        }
+                    ],
+                    "options": [
+                        "take",
+                        "takes",
+                        "is taking",
+                        "took"
+                    ],
+                    "answer": "is taking",
+                    "explanation": "Use present progressive for temporary situations happening around now."
+                },
+                {
+                    "id": "G3",
+                    "difficulty": 1,
+                    "arabicHint": "الماضي البسيط لوقت محدد",
+                    "question": "Choose the correct past tense verb.",
+                    "prompt": [
+                        {
+                            "text": "They "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " to London last summer."
+                        }
+                    ],
+                    "options": [
+                        "go",
+                        "gone",
+                        "went",
+                        "have gone"
+                    ],
+                    "answer": "went",
+                    "explanation": "Use simple past for actions completed at a specific time in the past."
+                },
+                {
+                    "id": "G4",
+                    "difficulty": 2,
+                    "arabicHint": "المضارع التام للنتيجة الحالية",
+                    "question": "Fill in the blank with the correct tense.",
+                    "prompt": [
+                        {
+                            "text": "I cannot open the door because I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " my keys."
+                        }
+                    ],
+                    "options": [
+                        "lose",
+                        "lost",
+                        "have lost",
+                        "was losing"
+                    ],
+                    "answer": "have lost",
+                    "explanation": "Use present perfect when the past action has a result in the present."
+                },
+                {
+                    "id": "G5",
+                    "difficulty": 3,
+                    "arabicHint": "الفرق بين الماضي البسيط والمضارع التام",
+                    "question": "Choose the correct form based on the time expression.",
+                    "prompt": [
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " you ever seen a real glacier?"
+                        }
+                    ],
+                    "options": [
+                        "Did",
+                        "Do",
+                        "Have",
+                        "Were"
+                    ],
+                    "answer": "Have",
+                    "explanation": "Use present perfect with 'ever' for life experiences without a specific time."
+                },
+                {
+                    "id": "G6",
+                    "difficulty": 2,
+                    "arabicHint": "الماضي المستمر لفعل كان قيد التنفيذ",
+                    "question": "Select the correct verb form.",
+                    "prompt": [
+                        {
+                            "text": "At 8:00 PM yesterday, I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " dinner for my family."
+                        }
+                    ],
+                    "options": [
+                        "cook",
+                        "cooked",
+                        "was cooking",
+                        "have cooked"
+                    ],
+                    "answer": "was cooking",
+                    "explanation": "Use past progressive for an action in progress at a specific time in the past."
+                },
+                {
+                    "id": "G7",
+                    "difficulty": 3,
+                    "arabicHint": "الماضي المستمر مع when والماضي البسيط",
+                    "question": "Complete the sentence with the correct tenses.",
+                    "prompt": [
+                        {
+                            "text": "I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " when the electricity suddenly went off."
+                        }
+                    ],
+                    "options": [
+                        "studied",
+                        "was studying",
+                        "am studying",
+                        "have studied"
+                    ],
+                    "answer": "was studying",
+                    "explanation": "Use past progressive for the long action interrupted by a simple past action."
+                },
+                {
+                    "id": "G8",
+                    "difficulty": 1,
+                    "arabicHint": "المضارع البسيط للعادات",
+                    "question": "Choose the verb that matches the habit.",
+                    "prompt": [
+                        {
+                            "text": "My father "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " coffee every morning before work."
+                        }
+                    ],
+                    "options": [
+                        "drink",
+                        "drinks",
+                        "is drinking",
+                        "drank"
+                    ],
+                    "answer": "drinks",
+                    "explanation": "Use simple present for repeated habits or routines."
+                },
+                {
+                    "id": "G9",
+                    "difficulty": 2,
+                    "arabicHint": "المضارع المستمر للوضع المؤقت",
+                    "question": "Select the appropriate tense.",
+                    "prompt": [
+                        {
+                            "text": "They normally live in Jeddah, but currently they "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " in Riyadh."
+                        }
+                    ],
+                    "options": [
+                        "stay",
+                        "stayed",
+                        "are staying",
+                        "have stayed"
+                    ],
+                    "answer": "are staying",
+                    "explanation": "Use present progressive for temporary situations happening around the present time."
+                },
+                {
+                    "id": "G10",
+                    "difficulty": 3,
+                    "arabicHint": "دمج الأزمنة في السرد",
+                    "question": "Choose the correct combination of verbs.",
+                    "prompt": [
+                        {
+                            "text": "While she "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " down the street, she found a wallet."
+                        }
+                    ],
+                    "options": [
+                        "walks",
+                        "walked",
+                        "was walking",
+                        "has walked"
+                    ],
+                    "answer": "was walking",
+                    "explanation": "Past progressive sets the scene for the simple past action 'found'."
+                },
+                {
+                    "id": "G11",
+                    "difficulty": 1,
+                    "arabicHint": "المضارع البسيط للجداول الزمنية",
+                    "question": "Choose the correct verb form for a schedule.",
+                    "prompt": [
+                        {
+                            "text": "The train "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " at 9:00 AM every day."
+                        }
+                    ],
+                    "options": [
+                        "leave",
+                        "leaves",
+                        "is leaving",
+                        "left"
+                    ],
+                    "answer": "leaves",
+                    "explanation": "Use simple present for fixed schedules and timetables."
+                },
+                {
+                    "id": "G12",
+                    "difficulty": 2,
+                    "arabicHint": "المضارع المستمر للأفعال المؤقتة",
+                    "question": "Select the correct progressive form.",
+                    "prompt": [
+                        {
+                            "text": "Please be quiet. The baby "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " right now."
+                        }
+                    ],
+                    "options": [
+                        "sleeps",
+                        "slept",
+                        "is sleeping",
+                        "has slept"
+                    ],
+                    "answer": "is sleeping",
+                    "explanation": "Use present progressive for actions happening at the moment of speaking."
+                },
+                {
+                    "id": "G13",
+                    "difficulty": 1,
+                    "arabicHint": "الماضي البسيط مع وقت محدد",
+                    "question": "Choose the correct past tense.",
+                    "prompt": [
+                        {
+                            "text": "We "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " a great movie yesterday evening."
+                        }
+                    ],
+                    "options": [
+                        "watch",
+                        "watched",
+                        "have watched",
+                        "were watching"
+                    ],
+                    "answer": "watched",
+                    "explanation": "Use simple past with specific past time expressions like 'yesterday'."
+                },
+                {
+                    "id": "G14",
+                    "difficulty": 2,
+                    "arabicHint": "المضارع التام مع since و for",
+                    "question": "Fill in the blank with the correct tense.",
+                    "prompt": [
+                        {
+                            "text": "She "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " in this house for ten years."
+                        }
+                    ],
+                    "options": [
+                        "lives",
+                        "lived",
+                        "has lived",
+                        "is living"
+                    ],
+                    "answer": "has lived",
+                    "explanation": "Use present perfect with 'for' to show duration from past until now."
+                },
+                {
+                    "id": "G15",
+                    "difficulty": 2,
+                    "arabicHint": "الماضي المستمر لفعل مستمر في الماضي",
+                    "question": "Select the correct verb form.",
+                    "prompt": [
+                        {
+                            "text": "At 5:00 PM yesterday, they "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " football in the park."
+                        }
+                    ],
+                    "options": [
+                        "play",
+                        "played",
+                        "were playing",
+                        "have played"
+                    ],
+                    "answer": "were playing",
+                    "explanation": "Use past progressive for an action in progress at a specific past time."
+                },
+                {
+                    "id": "G16",
+                    "difficulty": 3,
+                    "arabicHint": "الماضي المستمر مع when والماضي البسيط",
+                    "question": "Choose the correct combination of tenses.",
+                    "prompt": [
+                        {
+                            "text": "He was driving home "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " the car broke down."
+                        }
+                    ],
+                    "options": [
+                        "while",
+                        "when",
+                        "as",
+                        "during"
+                    ],
+                    "answer": "when",
+                    "explanation": "Use 'when' to introduce a simple past action that interrupts a past progressive action."
+                },
+                {
+                    "id": "G17",
+                    "difficulty": 3,
+                    "arabicHint": "الفرق بين الماضي البسيط والمضارع التام",
+                    "question": "Select the correct tense based on meaning.",
+                    "prompt": [
+                        {
+                            "text": "I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " Paris in 2010."
+                        }
+                    ],
+                    "options": [
+                        "have visited",
+                        "visited",
+                        "visit",
+                        "am visiting"
+                    ],
+                    "answer": "visited",
+                    "explanation": "Use simple past when the specific time (2010) is mentioned."
+                },
+                {
+                    "id": "G18",
+                    "difficulty": 2,
+                    "arabicHint": "المضارع البسيط مقابل المضارع المستمر",
+                    "question": "Choose the correct verb form.",
+                    "prompt": [
+                        {
+                            "text": "Look! It "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " heavily outside."
+                        }
+                    ],
+                    "options": [
+                        "rains",
+                        "rained",
+                        "is raining",
+                        "has rained"
+                    ],
+                    "answer": "is raining",
+                    "explanation": "Use present progressive for actions happening now, often signaled by 'Look!'."
+                },
+                {
+                    "id": "G19",
+                    "difficulty": 3,
+                    "arabicHint": "الماضي المستمر للسؤال عن نشاط سابق",
+                    "question": "Complete the question correctly.",
+                    "prompt": [
+                        {
+                            "text": "What "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " doing when I called you?"
+                        }
+                    ],
+                    "options": [
+                        "did you",
+                        "have you been",
+                        "were you",
+                        "are you"
+                    ],
+                    "answer": "were you",
+                    "explanation": "Use past progressive to ask about an activity in progress at a specific past moment."
+                },
+                {
+                    "id": "G20",
+                    "difficulty": 2,
+                    "arabicHint": "المضارع التام للإنجاز الحديث",
+                    "question": "Choose the correct verb form.",
+                    "prompt": [
+                        {
+                            "text": "I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " just finished my homework."
+                        }
+                    ],
+                    "options": [
+                        "have",
+                        "has",
+                        "had",
+                        "am"
+                    ],
+                    "answer": "have",
+                    "explanation": "Use present perfect with 'just' for actions completed very recently."
+                },
+                {
+                    "id": "G21",
+                    "difficulty": 2,
+                    "arabicHint": "المضارع التام للمدة الزمنية",
+                    "question": "Choose the correct tense for duration.",
+                    "prompt": [
+                        {
+                            "text": "She "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " in this city for five years."
+                        }
+                    ],
+                    "options": [
+                        "lives",
+                        "lived",
+                        "has lived",
+                        "is living"
+                    ],
+                    "answer": "has lived",
+                    "explanation": "Use present perfect with 'for' to show an action starting in the past and continuing to now."
+                },
+                {
+                    "id": "G22",
+                    "difficulty": 1,
+                    "arabicHint": "الماضي البسيط لحدث منتهي",
+                    "question": "Select the correct past form.",
+                    "prompt": [
+                        {
+                            "text": "His family "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " to a new country in 1990."
+                        }
+                    ],
+                    "options": [
+                        "move",
+                        "moved",
+                        "have moved",
+                        "are moving"
+                    ],
+                    "answer": "moved",
+                    "explanation": "Use simple past for actions completed at a specific time in the past."
+                },
+                {
+                    "id": "G23",
+                    "difficulty": 2,
+                    "arabicHint": "المضارع المستمر للوقت الحالي",
+                    "question": "Choose the verb form for current action.",
+                    "prompt": [
+                        {
+                            "text": "Please be quiet, I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " on an important project."
+                        }
+                    ],
+                    "options": [
+                        "work",
+                        "worked",
+                        "am working",
+                        "have worked"
+                    ],
+                    "answer": "am working",
+                    "explanation": "Use present progressive for actions happening at the moment of speaking."
+                },
+                {
+                    "id": "G24",
+                    "difficulty": 1,
+                    "arabicHint": "المضارع البسيط للوظائف",
+                    "question": "Select the correct form for a profession.",
+                    "prompt": [
+                        {
+                            "text": "My brother "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " as an engineer in a large company."
+                        }
+                    ],
+                    "options": [
+                        "work",
+                        "works",
+                        "is working",
+                        "worked"
+                    ],
+                    "answer": "works",
+                    "explanation": "Use simple present for permanent jobs or facts."
+                },
+                {
+                    "id": "G25",
+                    "difficulty": 3,
+                    "arabicHint": "المضارع التام للخبرة الحياتية",
+                    "question": "Choose the correct question form.",
+                    "prompt": [
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " you ever traveled abroad alone?"
+                        }
+                    ],
+                    "options": [
+                        "Did",
+                        "Do",
+                        "Have",
+                        "Were"
+                    ],
+                    "answer": "Have",
+                    "explanation": "Use present perfect with 'ever' to ask about life experiences."
+                },
+                {
+                    "id": "G26",
+                    "difficulty": 2,
+                    "arabicHint": "المضارع التام مع Just",
+                    "question": "Fill in the blank with the auxiliary verb.",
+                    "prompt": [
+                        {
+                            "text": "We "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " just arrived at the airport."
+                        }
+                    ],
+                    "options": [
+                        "have",
+                        "has",
+                        "had",
+                        "are"
+                    ],
+                    "answer": "have",
+                    "explanation": "Use present perfect with 'just' for very recent actions."
+                },
+                {
+                    "id": "G27",
+                    "difficulty": 3,
+                    "arabicHint": "الماضي المستمر مع When",
+                    "question": "Select the correct interrupted action.",
+                    "prompt": [
+                        {
+                            "text": "I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " when the phone rang."
+                        }
+                    ],
+                    "options": [
+                        "sleep",
+                        "slept",
+                        "was sleeping",
+                        "have slept"
+                    ],
+                    "answer": "was sleeping",
+                    "explanation": "Use past progressive for the longer action interrupted by a simple past action."
+                },
+                {
+                    "id": "G28",
+                    "difficulty": 2,
+                    "arabicHint": "أفعال الحالة في المضارع البسيط",
+                    "question": "Choose the correct verb form (State Verb).",
+                    "prompt": [
+                        {
+                            "text": "I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " what you mean."
+                        }
+                    ],
+                    "options": [
+                        "am understanding",
+                        "understand",
+                        "understood",
+                        "have understood"
+                    ],
+                    "answer": "understand",
+                    "explanation": "State verbs like 'understand' are usually used in simple present, not progressive."
+                },
+                {
+                    "id": "G29",
+                    "difficulty": 3,
+                    "arabicHint": "المضارع التام مع Since",
+                    "question": "Select the correct tense with 'since'.",
+                    "prompt": [
+                        {
+                            "text": "They "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " friends since childhood."
+                        }
+                    ],
+                    "options": [
+                        "are",
+                        "were",
+                        "have been",
+                        "had been"
+                    ],
+                    "answer": "have been",
+                    "explanation": "Use present perfect with 'since' to show a state continuing from past to present."
+                },
+                {
+                    "id": "G30",
+                    "difficulty": 1,
+                    "arabicHint": "الماضي البسيط للسرد",
+                    "question": "Choose the correct verb for a story.",
+                    "prompt": [
+                        {
+                            "text": "Yesterday, he "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " his grandparents for lunch."
+                        }
+                    ],
+                    "options": [
+                        "visit",
+                        "visits",
+                        "visited",
+                        "has visited"
+                    ],
+                    "answer": "visited",
+                    "explanation": "Use simple past for completed actions in a story about yesterday."
+                },
+                {
+                    "id": "G31",
+                    "difficulty": 1,
+                    "arabicHint": "المضارع البسيط للحقائق العامة",
+                    "question": "Choose the correct verb form for a general truth.",
+                    "prompt": [
+                        {
+                            "text": "The sun "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " in the east every morning."
+                        }
+                    ],
+                    "options": [
+                        "rise",
+                        "rises",
+                        "is rising",
+                        "rose"
+                    ],
+                    "answer": "rises",
+                    "explanation": "Use simple present for general truths and facts."
+                },
+                {
+                    "id": "G32",
+                    "difficulty": 2,
+                    "arabicHint": "المضارع المستمر للأحداث الحالية",
+                    "question": "Select the correct form for an action happening now.",
+                    "prompt": [
+                        {
+                            "text": "Please turn down the music; I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " to study."
+                        }
+                    ],
+                    "options": [
+                        "try",
+                        "tried",
+                        "am trying",
+                        "have tried"
+                    ],
+                    "answer": "am trying",
+                    "explanation": "Use present progressive for actions happening at the moment of speaking."
+                },
+                {
+                    "id": "G33",
+                    "difficulty": 1,
+                    "arabicHint": "الماضي البسيط مع زمن محدد",
+                    "question": "Choose the correct past tense verb.",
+                    "prompt": [
+                        {
+                            "text": "We "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " a new car last week."
+                        }
+                    ],
+                    "options": [
+                        "buy",
+                        "bought",
+                        "have bought",
+                        "are buying"
+                    ],
+                    "answer": "bought",
+                    "explanation": "Use simple past for actions completed at a specific time in the past."
+                },
+                {
+                    "id": "G34",
+                    "difficulty": 2,
+                    "arabicHint": "المضارع التام للخبرة",
+                    "question": "Select the correct tense for life experience.",
+                    "prompt": [
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " you ever eaten sushi?"
+                        }
+                    ],
+                    "options": [
+                        "Did",
+                        "Do",
+                        "Have",
+                        "Were"
+                    ],
+                    "answer": "Have",
+                    "explanation": "Use present perfect with 'ever' to ask about life experiences."
+                },
+                {
+                    "id": "G35",
+                    "difficulty": 3,
+                    "arabicHint": "الماضي المستمر للفعل الطويل",
+                    "question": "Choose the correct form for the background action.",
+                    "prompt": [
+                        {
+                            "text": "While the teacher "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": ", the students were listening."
+                        }
+                    ],
+                    "options": [
+                        "speaks",
+                        "spoke",
+                        "was speaking",
+                        "has spoken"
+                    ],
+                    "answer": "was speaking",
+                    "explanation": "Use past progressive for a continuous action in the past."
+                },
+                {
+                    "id": "G36",
+                    "difficulty": 2,
+                    "arabicHint": "المضارع البسيط مقابل المستمر",
+                    "question": "Select the correct contrast of tenses.",
+                    "prompt": [
+                        {
+                            "text": "She usually "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " tea, but today she is drinking coffee."
+                        }
+                    ],
+                    "options": [
+                        "drink",
+                        "drinks",
+                        "is drinking",
+                        "drank"
+                    ],
+                    "answer": "drinks",
+                    "explanation": "Use simple present for habits and present progressive for temporary actions."
+                },
+                {
+                    "id": "G37",
+                    "difficulty": 3,
+                    "arabicHint": "المضارع التام مع Since",
+                    "question": "Choose the correct tense with 'since'.",
+                    "prompt": [
+                        {
+                            "text": "He "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " worked here since 2015."
+                        }
+                    ],
+                    "options": [
+                        "has",
+                        "have",
+                        "had",
+                        "is"
+                    ],
+                    "answer": "has",
+                    "explanation": "Use present perfect with 'since' to show an action starting in the past and continuing."
+                },
+                {
+                    "id": "G38",
+                    "difficulty": 2,
+                    "arabicHint": "الماضي البسيط مع Ago",
+                    "question": "Select the correct tense with 'ago'.",
+                    "prompt": [
+                        {
+                            "text": "They moved to this city two years "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "before",
+                        "ago",
+                        "since",
+                        "for"
+                    ],
+                    "answer": "ago",
+                    "explanation": "Use 'ago' with simple past to measure time from the present back to the past."
+                },
+                {
+                    "id": "G39",
+                    "difficulty": 3,
+                    "arabicHint": "الماضي المستمر مع When",
+                    "question": "Complete the sentence with the correct interruption.",
+                    "prompt": [
+                        {
+                            "text": "I was walking home "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " it started to rain."
+                        }
+                    ],
+                    "options": [
+                        "while",
+                        "when",
+                        "during",
+                        "as"
+                    ],
+                    "answer": "when",
+                    "explanation": "Use 'when' to introduce the short action that interrupts the past progressive."
+                },
+                {
+                    "id": "G40",
+                    "difficulty": 1,
+                    "arabicHint": "المضارع البسيط للجداول",
+                    "question": "Choose the correct verb for a timetable.",
+                    "prompt": [
+                        {
+                            "text": "The flight "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " at 6:00 PM tonight."
+                        }
+                    ],
+                    "options": [
+                        "leave",
+                        "leaves",
+                        "is leaving",
+                        "left"
+                    ],
+                    "answer": "leaves",
+                    "explanation": "Use simple present for scheduled events in the near future."
+                },
+                {
+                    "id": "G41",
+                    "difficulty": 3,
+                    "arabicHint": "الماضي المستمر مع when",
+                    "question": "Choose the correct form for the interrupted action.",
+                    "prompt": [
+                        {
+                            "text": "The students "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " a test when the fire alarm rang."
+                        }
+                    ],
+                    "options": [
+                        "take",
+                        "took",
+                        "were taking",
+                        "have taken"
+                    ],
+                    "answer": "were taking",
+                    "explanation": "Use past progressive for the longer action that was interrupted by a simple past action."
+                },
+                {
+                    "id": "G42",
+                    "difficulty": 3,
+                    "arabicHint": "الماضي المستمر للأحداث المتزامنة",
+                    "question": "Select the correct verb form.",
+                    "prompt": [
+                        {
+                            "text": "While the train "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": ", the passengers waved goodbye."
+                        }
+                    ],
+                    "options": [
+                        "leave",
+                        "left",
+                        "was leaving",
+                        "has left"
+                    ],
+                    "answer": "was leaving",
+                    "explanation": "Use past progressive to describe a background action happening at a specific past time."
+                },
+                {
+                    "id": "G43",
+                    "difficulty": 2,
+                    "arabicHint": "الماضي البسيط مع وقت محدد",
+                    "question": "Choose the correct tense for a finished time.",
+                    "prompt": [
+                        {
+                            "text": "My grandparents "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " their country in 1971."
+                        }
+                    ],
+                    "options": [
+                        "leave",
+                        "left",
+                        "have left",
+                        "are leaving"
+                    ],
+                    "answer": "left",
+                    "explanation": "Use simple past when a specific past date (1971) is mentioned."
+                },
+                {
+                    "id": "G44",
+                    "difficulty": 1,
+                    "arabicHint": "المضارع البسيط للوظيفة",
+                    "question": "Select the correct form for a profession.",
+                    "prompt": [
+                        {
+                            "text": "Hans "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " in a laboratory."
+                        }
+                    ],
+                    "options": [
+                        "work",
+                        "works",
+                        "worked",
+                        "is working"
+                    ],
+                    "answer": "works",
+                    "explanation": "Use simple present for permanent jobs or facts."
+                },
+                {
+                    "id": "G45",
+                    "difficulty": 2,
+                    "arabicHint": "الماضي المستمر لفعل مستمر",
+                    "question": "Choose the correct verb form.",
+                    "prompt": [
+                        {
+                            "text": "At 9:00 PM last night, I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " my homework."
+                        }
+                    ],
+                    "options": [
+                        "do",
+                        "did",
+                        "was doing",
+                        "have done"
+                    ],
+                    "answer": "was doing",
+                    "explanation": "Use past progressive for an action in progress at a specific time in the past."
+                },
+                {
+                    "id": "G46",
+                    "difficulty": 2,
+                    "arabicHint": "الماضي البسيط لسرد الأحداث",
+                    "question": "Select the correct sequence tense.",
+                    "prompt": [
+                        {
+                            "text": "They "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " their bags and went to the station."
+                        }
+                    ],
+                    "options": [
+                        "pack",
+                        "packed",
+                        "were packing",
+                        "have packed"
+                    ],
+                    "answer": "packed",
+                    "explanation": "Use simple past for completed actions in a sequence."
+                },
+                {
+                    "id": "G47",
+                    "difficulty": 3,
+                    "arabicHint": "المضارع التام للحالة المستمرة",
+                    "question": "Choose the correct tense for duration.",
+                    "prompt": [
+                        {
+                            "text": "She "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " many friends since she moved here."
+                        }
+                    ],
+                    "options": [
+                        "make",
+                        "made",
+                        "has made",
+                        "is making"
+                    ],
+                    "answer": "has made",
+                    "explanation": "Use present perfect for actions happening from the past until now."
+                },
+                {
+                    "id": "G48",
+                    "difficulty": 2,
+                    "arabicHint": "المضارع البسيط مقابل المستمر",
+                    "question": "Select the correct contrast.",
+                    "prompt": [
+                        {
+                            "text": "He usually "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " jeans, but today he is wearing a suit."
+                        }
+                    ],
+                    "options": [
+                        "wear",
+                        "wears",
+                        "wore",
+                        "is wearing"
+                    ],
+                    "answer": "wears",
+                    "explanation": "Use simple present for habits and present progressive for temporary situations."
+                },
+                {
+                    "id": "G49",
+                    "difficulty": 3,
+                    "arabicHint": "الماضي المستمر مع when (كوارث)",
+                    "question": "Choose the correct form for the background action.",
+                    "prompt": [
+                        {
+                            "text": "People "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " when the earthquake started."
+                        }
+                    ],
+                    "options": [
+                        "sleep",
+                        "slept",
+                        "were sleeping",
+                        "have slept"
+                    ],
+                    "answer": "were sleeping",
+                    "explanation": "Use past progressive for the action in progress when a sudden event occurred."
+                },
+                {
+                    "id": "G50",
+                    "difficulty": 1,
+                    "arabicHint": "الماضي البسيط للميلاد",
+                    "question": "Select the correct verb for birth.",
+                    "prompt": [
+                        {
+                            "text": "Where "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " you born?"
+                        }
+                    ],
+                    "options": [
+                        "are",
+                        "were",
+                        "did",
+                        "have"
+                    ],
+                    "answer": "were",
+                    "explanation": "Use 'were born' (simple past) to ask about the place of birth."
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "questions": [
+                {
+                    "id": "V1",
+                    "difficulty": 1,
+                    "arabicHint": "ارتفاع درجة حرارة الأرض",
+                    "question": "Choose the term that matches the definition.",
+                    "prompt": [
+                        {
+                            "text": "The gradual increase in the Earth's temperature is called "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "global warming",
+                        "global cooling",
+                        "natural disaster",
+                        "economy"
+                    ],
+                    "answer": "global warming",
+                    "explanation": "Global warming refers to the long-term heating of Earth's climate system."
+                },
+                {
+                    "id": "V2",
+                    "difficulty": 1,
+                    "arabicHint": "الفقر وعدم وجود مال",
+                    "question": "Select the word that fits the context.",
+                    "prompt": [
+                        {
+                            "text": "Many charities work to help people living in "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " who cannot afford basic needs."
+                        }
+                    ],
+                    "options": [
+                        "wealth",
+                        "poverty",
+                        "luxury",
+                        "security"
+                    ],
+                    "answer": "poverty",
+                    "explanation": "Poverty is the state of having little or no money and few or no material possessions."
+                },
+                {
+                    "id": "V3",
+                    "difficulty": 2,
+                    "arabicHint": "التلوث البيئي",
+                    "question": "Identify the correct vocabulary word.",
+                    "prompt": [
+                        {
+                            "text": "Factories must stop releasing smoke to reduce air "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "cleanliness",
+                        "pollution",
+                        "fresh water",
+                        "growth"
+                    ],
+                    "answer": "pollution",
+                    "explanation": "Pollution refers to the presence of harmful substances in the environment."
+                },
+                {
+                    "id": "V4",
+                    "difficulty": 2,
+                    "arabicHint": "النظام المالي للدولة",
+                    "question": "Choose the best word for the sentence.",
+                    "prompt": [
+                        {
+                            "text": "The country's "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " improved after discovering new resources."
+                        }
+                    ],
+                    "options": [
+                        "economy",
+                        "disease",
+                        "traffic",
+                        "species"
+                    ],
+                    "answer": "economy",
+                    "explanation": "Economy refers to the wealth and resources of a country or region."
+                },
+                {
+                    "id": "V5",
+                    "difficulty": 3,
+                    "arabicHint": "البنية التحتية (طرق، جسور، مباني)",
+                    "question": "Select the term describing basic physical structures.",
+                    "prompt": [
+                        {
+                            "text": "The government invested heavily in building new roads and bridges to improve the "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "infrastructure",
+                        "globalization",
+                        "terrorism",
+                        "overpopulation"
+                    ],
+                    "answer": "infrastructure",
+                    "explanation": "Infrastructure refers to the fundamental facilities and systems serving a country or city."
+                },
+                {
+                    "id": "V6",
+                    "difficulty": 1,
+                    "arabicHint": "الكوارث الطبيعية",
+                    "question": "Choose the correct category.",
+                    "prompt": [
+                        {
+                            "text": "Earthquakes, floods, and hurricanes are examples of "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "natural disasters",
+                        "commercial activities",
+                        "digital worlds",
+                        "satellite signals"
+                    ],
+                    "answer": "natural disasters",
+                    "explanation": "These are catastrophic events arising from natural processes of the Earth."
+                },
+                {
+                    "id": "V7",
+                    "difficulty": 2,
+                    "arabicHint": "الأنواع المهددة بالانقراض",
+                    "question": "Identify the vocabulary term.",
+                    "prompt": [
+                        {
+                            "text": "Protecting the rainforest helps save "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " like the rare white tiger."
+                        }
+                    ],
+                    "options": [
+                        "endangered species",
+                        "unemployment rates",
+                        "fresh water supplies",
+                        "traffic jams"
+                    ],
+                    "answer": "endangered species",
+                    "explanation": "Endangered species are organisms that are at risk of extinction."
+                },
+                {
+                    "id": "V8",
+                    "difficulty": 2,
+                    "arabicHint": "الاكتظاظ السكاني",
+                    "question": "Select the word that fits the meaning.",
+                    "prompt": [
+                        {
+                            "text": "When too many people live in one area, it is called "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "globalization",
+                        "overpopulation",
+                        "security",
+                        "communication"
+                    ],
+                    "answer": "overpopulation",
+                    "explanation": "Overpopulation occurs when an area has more people than the available resources can support."
+                },
+                {
+                    "id": "V9",
+                    "difficulty": 3,
+                    "arabicHint": "البطالة وعدم وجود عمل",
+                    "question": "Choose the correct social issue.",
+                    "prompt": [
+                        {
+                            "text": "The government created new programs to reduce "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " among young graduates."
+                        }
+                    ],
+                    "options": [
+                        "unemployment",
+                        "employment",
+                        "infrastructure",
+                        "technology"
+                    ],
+                    "answer": "unemployment",
+                    "explanation": "Unemployment is the state of not having a job despite looking for work."
+                },
+                {
+                    "id": "V10",
+                    "difficulty": 3,
+                    "arabicHint": "العولمة وترابط العالم",
+                    "question": "Identify the concept described.",
+                    "prompt": [
+                        {
+                            "text": "The process of interaction and integration among people and companies worldwide is known as "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "globalization",
+                        "isolation",
+                        "pollution",
+                        "poverty"
+                    ],
+                    "answer": "globalization",
+                    "explanation": "Globalization describes the growing interdependence of the world's economies, cultures, and populations."
+                },
+                {
+                    "id": "V11",
+                    "difficulty": 1,
+                    "arabicHint": "الأمن والسلامة",
+                    "question": "Choose the word related to safety and protection.",
+                    "prompt": [
+                        {
+                            "text": "The government increased "
+                        },
+                        {
+                            "text": "",
+                            "underline": true
+                        },
+                        {
+                            "text": " measures at the airport."
+                        }
+                    ],
+                    "options": [
+                        "security",
+                        "insecurity",
+                        "poverty",
+                        "traffic"
+                    ],
+                    "answer": "security",
+                    "explanation": "Security refers to measures taken to ensure safety and protect against danger."
+                },
+                {
+                    "id": "V12",
+                    "difficulty": 2,
+                    "arabicHint": "المياه العذبة مورد حيوي",
+                    "question": "Identify the essential resource mentioned.",
+                    "prompt": [
+                        {
+                            "text": "Many regions face shortages of "
+                        },
+                        {
+                            "text": "",
+                            "underline": true
+                        },
+                        {
+                            "text": " needed for drinking and farming."
+                        }
+                    ],
+                    "options": [
+                        "salt water",
+                        "fresh water",
+                        "oil",
+                        "gas"
+                    ],
+                    "answer": "fresh water",
+                    "explanation": "Fresh water is natural water without significant salt content, essential for life."
+                },
+                {
+                    "id": "V13",
+                    "difficulty": 2,
+                    "arabicHint": "الأمراض والمشاكل الصحية",
+                    "question": "Select the term for health conditions.",
+                    "prompt": [
+                        {
+                            "text": "Doctors work hard to prevent the spread of "
+                        },
+                        {
+                            "text": "",
+                            "underline": true
+                        },
+                        {
+                            "text": " like the flu."
+                        }
+                    ],
+                    "options": [
+                        "cures",
+                        "diseases",
+                        "medicines",
+                        "exercises"
+                    ],
+                    "answer": "diseases",
+                    "explanation": "Diseases are illnesses or medical conditions that affect the body."
+                },
+                {
+                    "id": "V14",
+                    "difficulty": 1,
+                    "arabicHint": "حركة المرور والازدحام",
+                    "question": "Choose the word describing vehicles on the road.",
+                    "prompt": [
+                        {
+                            "text": "Heavy "
+                        },
+                        {
+                            "text": "____",
+                            "underline": true
+                        },
+                        {
+                            "text": " makes people late for work in the morning."
+                        }
+                    ],
+                    "options": [
+                        "traffic",
+                        "transport",
+                        "travel",
+                        "trip"
+                    ],
+                    "answer": "traffic",
+                    "explanation": "Traffic refers to vehicles moving on public roads."
+                },
+                {
+                    "id": "V15",
+                    "difficulty": 3,
+                    "arabicHint": "الإرهاب والعنف السياسي",
+                    "question": "Identify the serious global threat.",
+                    "prompt": [
+                        {
+                            "text": "International cooperation is needed to fight against "
+                        },
+                        {
+                            "text": "",
+                            "underline": true
+                        },
+                        {
+                            "text": " and violence."
+                        }
+                    ],
+                    "options": [
+                        "peace",
+                        "terrorism",
+                        "tourism",
+                        "mechanism"
+                    ],
+                    "answer": "terrorism",
+                    "explanation": "Terrorism is the unlawful use of violence and intimidation, especially against civilians."
+                },
+                {
+                    "id": "V16",
+                    "difficulty": 2,
+                    "arabicHint": "الاحتباس الحراري وذوبان الجليد",
+                    "question": "Select the cause of melting ice caps.",
+                    "prompt": [
+                        {
+                            "text": "",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " is causing icebergs to melt faster than before."
+                        }
+                    ],
+                    "options": [
+                        "Global cooling",
+                        "Global warming",
+                        "Global security",
+                        "Global traffic"
+                    ],
+                    "answer": "Global warming",
+                    "explanation": "Global warming leads to higher temperatures which melt ice."
+                },
+                {
+                    "id": "V17",
+                    "difficulty": 3,
+                    "arabicHint": "الاقتصاد والنمو المالي",
+                    "question": "Choose the term related to money and trade.",
+                    "prompt": [
+                        {
+                            "text": "A strong "
+                        },
+                        {
+                            "text": "",
+                            "underline": true
+                        },
+                        {
+                            "text": " allows a country to build better schools."
+                        }
+                    ],
+                    "options": [
+                        "economy",
+                        "ecology",
+                        "episode",
+                        "energy"
+                    ],
+                    "answer": "economy",
+                    "explanation": "The economy involves the production and consumption of goods and services."
+                },
+                {
+                    "id": "V18",
+                    "difficulty": 1,
+                    "arabicHint": "التلوث والنفايات",
+                    "question": "Identify the problem caused by waste.",
+                    "prompt": [
+                        {
+                            "text": "Throwing garbage in the river causes water "
+                        },
+                        {
+                            "text": "",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "purity",
+                        "pollution",
+                        "position",
+                        "population"
+                    ],
+                    "answer": "pollution",
+                    "explanation": "Pollution is the introduction of harmful materials into the environment."
+                },
+                {
+                    "id": "V19",
+                    "difficulty": 2,
+                    "arabicHint": "الفقر والحاجة للمال",
+                    "question": "Select the opposite of wealth.",
+                    "prompt": [
+                        {
+                            "text": "Charities aim to reduce "
+                        },
+                        {
+                            "text": "",
+                            "underline": true
+                        },
+                        {
+                            "text": " by providing food and clothes."
+                        }
+                    ],
+                    "options": [
+                        "richness",
+                        "poverty",
+                        "power",
+                        "progress"
+                    ],
+                    "answer": "poverty",
+                    "explanation": "Poverty is the state of being extremely poor."
+                },
+                {
+                    "id": "V20",
+                    "difficulty": 3,
+                    "arabicHint": "العولمة وربط الثقافات",
+                    "question": "Choose the term for worldwide connection.",
+                    "prompt": [
+                        {
+                            "text": "The internet has accelerated "
+                        },
+                        {
+                            "text": "",
+                            "underline": true
+                        },
+                        {
+                            "text": " by connecting people globally."
+                        }
+                    ],
+                    "options": [
+                        "isolation",
+                        "globalization",
+                        "localization",
+                        "division"
+                    ],
+                    "answer": "globalization",
+                    "explanation": "Globalization is the process of interaction and integration among people worldwide."
+                },
+                {
+                    "id": "V21",
+                    "difficulty": 2,
+                    "arabicHint": "في الحقيقة (إضافة معلومات)",
+                    "question": "Choose the phrase used to add surprising information.",
+                    "prompt": [
+                        {
+                            "text": "I thought he was French, but "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": ", he is Belgian."
+                        }
+                    ],
+                    "options": [
+                        "by the way",
+                        "in fact",
+                        "fit in",
+                        "you see"
+                    ],
+                    "answer": "in fact",
+                    "explanation": "'In fact' is used to emphasize the truth or add surprising details."
+                },
+                {
+                    "id": "V22",
+                    "difficulty": 2,
+                    "arabicHint": "بالمناسبة (تغيير الموضوع)",
+                    "question": "Select the expression for changing the topic.",
+                    "prompt": [
+                        {
+                            "text": "The weather is nice today. "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": ", did you finish the report?"
+                        }
+                    ],
+                    "options": [
+                        "In fact",
+                        "By the way",
+                        "You see",
+                        "Fit in"
+                    ],
+                    "answer": "By the way",
+                    "explanation": "'By the way' introduces a new topic or question unrelated to the current one."
+                },
+                {
+                    "id": "V23",
+                    "difficulty": 3,
+                    "arabicHint": "يتناسب مع / ينتمي للمجموعة",
+                    "question": "Choose the phrasal verb meaning 'to belong'.",
+                    "prompt": [
+                        {
+                            "text": "It took some time, but eventually he managed to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " with his new colleagues."
+                        }
+                    ],
+                    "options": [
+                        "fit in",
+                        "fit out",
+                        "fit up",
+                        "fit over"
+                    ],
+                    "answer": "fit in",
+                    "explanation": "'Fit in' means to be accepted as part of a group or to belong."
+                },
+                {
+                    "id": "V24",
+                    "difficulty": 3,
+                    "arabicHint": "أترى / كما تعلم (للشرح)",
+                    "question": "Identify the phrase used to explain a reason.",
+                    "prompt": [
+                        {
+                            "text": "I can't come tonight. "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": ", I have a doctor's appointment."
+                        }
+                    ],
+                    "options": [
+                        "By the way",
+                        "You see",
+                        "In fact",
+                        "Fit in"
+                    ],
+                    "answer": "You see",
+                    "explanation": "'You see' is used to explain a reason or provide context for a statement."
+                },
+                {
+                    "id": "V25",
+                    "difficulty": 2,
+                    "arabicHint": "فقدان الاتصال بالأقارب",
+                    "question": "Select the phrase meaning 'stopped communicating'.",
+                    "prompt": [
+                        {
+                            "text": "After moving away, they unfortunately "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " with their old neighbors."
+                        }
+                    ],
+                    "options": [
+                        "lost touch",
+                        "kept touch",
+                        "made touch",
+                        "took touch"
+                    ],
+                    "answer": "lost touch",
+                    "explanation": "'Lost touch' means to cease being in contact with someone."
+                },
+                {
+                    "id": "V26",
+                    "difficulty": 1,
+                    "arabicHint": "الأقارب والعائلة",
+                    "question": "Choose the word for family members.",
+                    "prompt": [
+                        {
+                            "text": "During the holidays, we usually visit our "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " like aunts and cousins."
+                        }
+                    ],
+                    "options": [
+                        "relatives",
+                        "colleagues",
+                        "strangers",
+                        "citizens"
+                    ],
+                    "answer": "relatives",
+                    "explanation": "Relatives are people connected by blood or marriage."
+                },
+                {
+                    "id": "V27",
+                    "difficulty": 2,
+                    "arabicHint": "بشكل قانوني",
+                    "question": "Select the adverb meaning 'by the law'.",
+                    "prompt": [
+                        {
+                            "text": "You need a visa to work "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " in this country."
+                        }
+                    ],
+                    "options": [
+                        "illegally",
+                        "legally",
+                        "normally",
+                        "rarely"
+                    ],
+                    "answer": "legally",
+                    "explanation": "Legally means in a way that conforms to the law."
+                },
+                {
+                    "id": "V28",
+                    "difficulty": 1,
+                    "arabicHint": "جواز السفر",
+                    "question": "Identify the travel document.",
+                    "prompt": [
+                        {
+                            "text": "He showed his "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " at the border control."
+                        }
+                    ],
+                    "options": [
+                        "passport",
+                        "license",
+                        "receipt",
+                        "ticket"
+                    ],
+                    "answer": "passport",
+                    "explanation": "A passport is an official document identifying nationality and allowing travel."
+                },
+                {
+                    "id": "V29",
+                    "difficulty": 2,
+                    "arabicHint": "البحث العلمي",
+                    "question": "Choose the word for scientific study.",
+                    "prompt": [
+                        {
+                            "text": "The scientist conducts "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " to find new medicines."
+                        }
+                    ],
+                    "options": [
+                        "research",
+                        "relaxation",
+                        "recreation",
+                        "reduction"
+                    ],
+                    "answer": "research",
+                    "explanation": "Research is the systematic investigation into materials to establish facts."
+                },
+                {
+                    "id": "V30",
+                    "difficulty": 1,
+                    "arabicHint": "يشتاق إلى",
+                    "question": "Select the verb expressing sadness about absence.",
+                    "prompt": [
+                        {
+                            "text": "When I travel, I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " my family and home."
+                        }
+                    ],
+                    "options": [
+                        "miss",
+                        "lose",
+                        "find",
+                        "keep"
+                    ],
+                    "answer": "miss",
+                    "explanation": "To 'miss' someone means to feel sad because they are not with you."
+                },
+                {
+                    "id": "V31",
+                    "difficulty": 2,
+                    "arabicHint": "التغيير الكامل",
+                    "question": "Choose the word meaning 'changing completely'.",
+                    "prompt": [
+                        {
+                            "text": "The city is "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " into a modern metropolis."
+                        }
+                    ],
+                    "options": [
+                        "transforming",
+                        "transferring",
+                        "translating",
+                        "transporting"
+                    ],
+                    "answer": "transforming",
+                    "explanation": "Transforming means changing completely in form or appearance."
+                },
+                {
+                    "id": "V32",
+                    "difficulty": 1,
+                    "arabicHint": "المركز الرئيسي",
+                    "question": "Select the synonym for 'center'.",
+                    "prompt": [
+                        {
+                            "text": "London is a major financial "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " for the world."
+                        }
+                    ],
+                    "options": [
+                        "hub",
+                        "hole",
+                        "hook",
+                        "hobby"
+                    ],
+                    "answer": "hub",
+                    "explanation": "A hub is a center of activity or interest."
+                },
+                {
+                    "id": "V33",
+                    "difficulty": 2,
+                    "arabicHint": "نشط وقوي",
+                    "question": "Choose the adjective describing energy.",
+                    "prompt": [
+                        {
+                            "text": "The market place was "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " with people buying and selling."
+                        }
+                    ],
+                    "options": [
+                        "vibrant",
+                        "violent",
+                        "vacant",
+                        "vague"
+                    ],
+                    "answer": "vibrant",
+                    "explanation": "Vibrant means full of energy and life."
+                },
+                {
+                    "id": "V34",
+                    "difficulty": 2,
+                    "arabicHint": "مزدهر وقوي",
+                    "question": "Select the word meaning 'prosperous'.",
+                    "prompt": [
+                        {
+                            "text": "The company is "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " and making a lot of profit."
+                        }
+                    ],
+                    "options": [
+                        "thriving",
+                        "dying",
+                        "struggling",
+                        "hiding"
+                    ],
+                    "answer": "thriving",
+                    "explanation": "Thriving means growing vigorously and prospering."
+                },
+                {
+                    "id": "V35",
+                    "difficulty": 3,
+                    "arabicHint": "طموح",
+                    "question": "Identify the trait of someone determined to succeed.",
+                    "prompt": [
+                        {
+                            "text": "She is very "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " and wants to become CEO."
+                        }
+                    ],
+                    "options": [
+                        "ambitious",
+                        "anonymous",
+                        "angry",
+                        "ancient"
+                    ],
+                    "answer": "ambitious",
+                    "explanation": "Ambitious means having a strong desire to succeed."
+                },
+                {
+                    "id": "V36",
+                    "difficulty": 2,
+                    "arabicHint": "الشركات والأعمال",
+                    "question": "Choose the synonym for 'businesses'.",
+                    "prompt": [
+                        {
+                            "text": "Small "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " are the backbone of the economy."
+                        }
+                    ],
+                    "options": [
+                        "enterprises",
+                        "entrances",
+                        "entertainments",
+                        "environments"
+                    ],
+                    "answer": "enterprises",
+                    "explanation": "Enterprises refer to projects or businesses, especially those that are difficult."
+                },
+                {
+                    "id": "V37",
+                    "difficulty": 3,
+                    "arabicHint": "تنويع",
+                    "question": "Select the verb meaning 'make more varied'.",
+                    "prompt": [
+                        {
+                            "text": "Farmers need to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " their crops to reduce risk."
+                        }
+                    ],
+                    "options": [
+                        "diversify",
+                        "divide",
+                        "divert",
+                        "divine"
+                    ],
+                    "answer": "diversify",
+                    "explanation": "Diversify means to make something more varied or diverse."
+                },
+                {
+                    "id": "V38",
+                    "difficulty": 2,
+                    "arabicHint": "شفاف وصادق",
+                    "question": "Choose the word meaning 'open and honest'.",
+                    "prompt": [
+                        {
+                            "text": "The government promised to be more "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " about its spending."
+                        }
+                    ],
+                    "options": [
+                        "transparent",
+                        "transient",
+                        "traditional",
+                        "tropical"
+                    ],
+                    "answer": "transparent",
+                    "explanation": "Transparent means easy to perceive or detect, often implying honesty."
+                },
+                {
+                    "id": "V39",
+                    "difficulty": 3,
+                    "arabicHint": "اقتصاد مزدهر",
+                    "question": "Select the best adjective for a strong economy.",
+                    "prompt": [
+                        {
+                            "text": "Thanks to new laws, the country has a "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " economy."
+                        }
+                    ],
+                    "options": [
+                        "thriving",
+                        "weak",
+                        "silent",
+                        "broken"
+                    ],
+                    "answer": "thriving",
+                    "explanation": "A thriving economy is one that is successful and growing."
+                },
+                {
+                    "id": "V40",
+                    "difficulty": 2,
+                    "arabicHint": "مركز النشاط",
+                    "question": "Identify the word for a central point of connection.",
+                    "prompt": [
+                        {
+                            "text": "The airport serves as a "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " for international flights."
+                        }
+                    ],
+                    "options": [
+                        "hub",
+                        "cap",
+                        "lid",
+                        "map"
+                    ],
+                    "answer": "hub",
+                    "explanation": "A hub is a central point where many routes meet."
+                },
+                {
+                    "id": "V41",
+                    "difficulty": 1,
+                    "arabicHint": "مسقط الرأس",
+                    "question": "Choose the word for the town where you were born.",
+                    "prompt": [
+                        {
+                            "text": "He returned to his "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " to visit his old school."
+                        }
+                    ],
+                    "options": [
+                        "hometown",
+                        "capital",
+                        "station",
+                        "platform"
+                    ],
+                    "answer": "hometown",
+                    "explanation": "Hometown refers to the town or city where a person was born or grew up."
+                },
+                {
+                    "id": "V42",
+                    "difficulty": 2,
+                    "arabicHint": "رصيف المحطة",
+                    "question": "Select the word for the area where you wait for a train.",
+                    "prompt": [
+                        {
+                            "text": "Passengers waited on the "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " for the train to arrive."
+                        }
+                    ],
+                    "options": [
+                        "platform",
+                        "ticket",
+                        "engine",
+                        "track"
+                    ],
+                    "answer": "platform",
+                    "explanation": "A platform is the raised area in a station where passengers get on and off trains."
+                },
+                {
+                    "id": "V43",
+                    "difficulty": 2,
+                    "arabicHint": "رحلة طويلة",
+                    "question": "Choose the word for traveling from one place to another.",
+                    "prompt": [
+                        {
+                            "text": "The "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " from Riyadh to London takes many hours."
+                        }
+                    ],
+                    "options": [
+                        "journey",
+                        "jump",
+                        "job",
+                        "journal"
+                    ],
+                    "answer": "journey",
+                    "explanation": "A journey is an act of traveling from one place to another, usually over a long distance."
+                },
+                {
+                    "id": "V44",
+                    "difficulty": 1,
+                    "arabicHint": "حقائب السفر",
+                    "question": "Identify the items used to carry clothes while traveling.",
+                    "prompt": [
+                        {
+                            "text": "They packed their clothes into large "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "suitcases",
+                        "packages",
+                        "envelopes",
+                        "baskets"
+                    ],
+                    "answer": "suitcases",
+                    "explanation": "Suitcases are rectangular cases used for carrying clothes and belongings when traveling."
+                },
+                {
+                    "id": "V45",
+                    "difficulty": 3,
+                    "arabicHint": "يصعد إلى (طائرة/قطار)",
+                    "question": "Select the verb meaning 'to get on a vehicle'.",
+                    "prompt": [
+                        {
+                            "text": "Passengers must "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " the plane before it departs."
+                        }
+                    ],
+                    "options": [
+                        "board",
+                        "bore",
+                        "beat",
+                        "bind"
+                    ],
+                    "answer": "board",
+                    "explanation": "To board means to get on a ship, aircraft, train, or bus."
+                },
+                {
+                    "id": "V46",
+                    "difficulty": 3,
+                    "arabicHint": "ينطلق في رحلة",
+                    "question": "Choose the phrasal verb for starting a journey.",
+                    "prompt": [
+                        {
+                            "text": "We plan to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " early in the morning to avoid traffic."
+                        }
+                    ],
+                    "options": [
+                        "set off",
+                        "set up",
+                        "set in",
+                        "set down"
+                    ],
+                    "answer": "set off",
+                    "explanation": "'Set off' means to start a journey."
+                },
+                {
+                    "id": "V47",
+                    "difficulty": 2,
+                    "arabicHint": "يكبر / ينشأ",
+                    "question": "Select the verb meaning 'to become an adult'.",
+                    "prompt": [
+                        {
+                            "text": "Did you "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " in this city?"
+                        }
+                    ],
+                    "options": [
+                        "grow up",
+                        "grow out",
+                        "grow down",
+                        "grow off"
+                    ],
+                    "answer": "grow up",
+                    "explanation": "'Grow up' means to develop from a child into an adult."
+                },
+                {
+                    "id": "V48",
+                    "difficulty": 2,
+                    "arabicHint": "يغادر / يقلع",
+                    "question": "Choose the word meaning 'to leave'.",
+                    "prompt": [
+                        {
+                            "text": "The flight will "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " at 10:00 PM."
+                        }
+                    ],
+                    "options": [
+                        "depart",
+                        "arrive",
+                        "stay",
+                        "remain"
+                    ],
+                    "answer": "depart",
+                    "explanation": "Depart means to leave, especially to start a journey."
+                },
+                {
+                    "id": "V49",
+                    "difficulty": 1,
+                    "arabicHint": "فقير (عكس غني)",
+                    "question": "Select the adjective for having little money.",
+                    "prompt": [
+                        {
+                            "text": "In the past, many families were "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " and had no work."
+                        }
+                    ],
+                    "options": [
+                        "poor",
+                        "rich",
+                        "happy",
+                        "strong"
+                    ],
+                    "answer": "poor",
+                    "explanation": "Poor means lacking sufficient money to live at a standard considered comfortable."
+                },
+                {
+                    "id": "V50",
+                    "difficulty": 2,
+                    "arabicHint": "أفراد العائلة",
+                    "question": "Choose the word for family members.",
+                    "prompt": [
+                        {
+                            "text": "He invited all his "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " to the wedding."
+                        }
+                    ],
+                    "options": [
+                        "relatives",
+                        "relations",
+                        "relatives",
+                        "citizens"
+                    ],
+                    "answer": "relatives",
+                    "explanation": "Relatives are people connected by blood or marriage."
+                }
+            ]
+        }
+    ]
+}

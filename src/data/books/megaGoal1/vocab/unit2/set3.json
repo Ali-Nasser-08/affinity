@@ -1,0 +1,507 @@
+{
+  "unit": "",
+  "type": "misc",
+  "setTitle": "Careers and Internships",
+  "words": [
+    {
+      "word": "privately-owned",
+      "wordType": "adjective",
+      "definition": [
+        {
+          "text": "Owned by "
+        },
+        {
+          "text": "private individuals or companies",
+          "highlight": true
+        },
+        {
+          "text": ", not by the "
+        },
+        {
+          "text": "government or public shareholders",
+          "highlight2": true
+        }
+      ],
+      "arabicMeaning": "مملوك للقطاع الخاص",
+      "synonyms": [
+        "private",
+        "non-public",
+        "independent"
+      ],
+      "example": [
+        {
+          "text": "This "
+        },
+        {
+          "text": "privately-owned",
+          "colorize": true
+        },
+        {
+          "text": " business is run by a single family who makes all major decisions"
+        }
+      ],
+      "tips": "Opposite of 'publicly-owned' or 'state-owned'. Private companies don't sell shares to the public on stock markets."
+    },
+    {
+      "word": "foundation",
+      "wordType": "noun",
+      "definition": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "establishment or creation",
+          "highlight": true
+        },
+        {
+          "text": " of an institution or organization; the "
+        },
+        {
+          "text": "beginning",
+          "highlight2": true
+        },
+        {
+          "text": " of something"
+        }
+      ],
+      "arabicMeaning": "التأسيس / النشأة",
+      "synonyms": [
+        "establishment",
+        "creation",
+        "founding",
+        "inception"
+      ],
+      "example": [
+        {
+          "text": "Since its "
+        },
+        {
+          "text": "foundation",
+          "colorize": true
+        },
+        {
+          "text": " in 1995, the company has grown from 5 to 500 employees"
+        }
+      ],
+      "tips": "The verb is 'found' (to found a company). A 'founder' is the person who establishes something."
+    },
+    {
+      "word": "strategic",
+      "wordType": "adjective",
+      "definition": [
+        {
+          "text": "Carefully "
+        },
+        {
+          "text": "planned to achieve",
+          "highlight": true
+        },
+        {
+          "text": " a specific "
+        },
+        {
+          "text": "long-term goal",
+          "highlight2": true
+        },
+        {
+          "text": "; relating to an overall plan or policy"
+        }
+      ],
+      "arabicMeaning": "استراتيجي",
+      "synonyms": [
+        "planned",
+        "calculated",
+        "deliberate",
+        "tactical"
+      ],
+      "example": [
+        {
+          "text": "The company made a "
+        },
+        {
+          "text": "strategic",
+          "colorize": true
+        },
+        {
+          "text": " decision to expand into Asian markets before their competitors"
+        }
+      ],
+      "tips": "Strategic thinking = planning for the future with a big-picture view. The noun is 'strategy' = an overall plan."
+    },
+    {
+      "word": "expansion",
+      "wordType": "noun",
+      "definition": [
+        {
+          "text": "The act of "
+        },
+        {
+          "text": "growing larger",
+          "highlight": true
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "extending into new areas",
+          "highlight2": true
+        },
+        {
+          "text": "; increase in size or scope"
+        }
+      ],
+      "arabicMeaning": "التوسع",
+      "synonyms": [
+        "growth",
+        "enlargement",
+        "extension",
+        "development"
+      ],
+      "example": [
+        {
+          "text": "The restaurant's "
+        },
+        {
+          "text": "expansion",
+          "colorize": true
+        },
+        {
+          "text": " plans include opening five new locations in the next two years"
+        }
+      ],
+      "tips": "The verb is 'expand' = to grow or spread. Business expansion can mean new locations, products, or markets."
+    },
+    {
+      "word": "internship",
+      "wordType": "noun",
+      "definition": [
+        {
+          "text": "A "
+        },
+        {
+          "text": "temporary work position",
+          "highlight": true
+        },
+        {
+          "text": ", usually for students or recent graduates, to "
+        },
+        {
+          "text": "gain practical experience",
+          "highlight2": true
+        },
+        {
+          "text": " in a field"
+        }
+      ],
+      "arabicMeaning": "تدريب عملي / فترة تدريب",
+      "synonyms": [
+        "training position",
+        "apprenticeship",
+        "work placement"
+      ],
+      "example": [
+        {
+          "text": "She completed a summer "
+        },
+        {
+          "text": "internship",
+          "colorize": true
+        },
+        {
+          "text": " at a law firm to learn about the legal profession"
+        }
+      ],
+      "tips": "An 'intern' is the person doing the internship. Internships can be paid or unpaid and usually last 2-6 months."
+    },
+    {
+      "word": "fast-paced",
+      "wordType": "adjective",
+      "definition": [
+        {
+          "text": "Moving or happening "
+        },
+        {
+          "text": "very quickly",
+          "highlight": true
+        },
+        {
+          "text": "; characterized by "
+        },
+        {
+          "text": "rapid change and activity",
+          "highlight2": true
+        }
+      ],
+      "arabicMeaning": "سريع الوتيرة",
+      "synonyms": [
+        "rapid",
+        "hectic",
+        "busy",
+        "dynamic"
+      ],
+      "example": [
+        {
+          "text": "Working in emergency medicine is "
+        },
+        {
+          "text": "fast-paced",
+          "colorize": true
+        },
+        {
+          "text": " and requires quick decision-making under pressure"
+        }
+      ],
+      "tips": "Fast-paced environments are exciting but can be stressful. Opposite: 'slow-paced' or 'relaxed pace'."
+    },
+    {
+      "word": "fluent",
+      "wordType": "adjective",
+      "definition": [
+        {
+          "text": "Able to "
+        },
+        {
+          "text": "speak or write smoothly",
+          "highlight": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "easily in a language",
+          "highlight2": true
+        },
+        {
+          "text": "; having mastery of a language"
+        }
+      ],
+      "arabicMeaning": "طلق / متمكن من اللغة",
+      "synonyms": [
+        "proficient",
+        "articulate",
+        "eloquent"
+      ],
+      "example": [
+        {
+          "text": "To work as a translator, you need to be "
+        },
+        {
+          "text": "fluent",
+          "colorize": true
+        },
+        {
+          "text": " in at least two languages"
+        }
+      ],
+      "tips": "Fluency = smooth, natural ability. 'Fluent in English' means you speak it easily, not just know some words."
+    },
+    {
+      "word": "outgoing",
+      "wordType": "adjective",
+      "definition": [
+        {
+          "text": "Friendly and "
+        },
+        {
+          "text": "socially confident",
+          "highlight": true
+        },
+        {
+          "text": "; comfortable "
+        },
+        {
+          "text": "meeting and talking to people",
+          "highlight2": true
+        }
+      ],
+      "arabicMeaning": "اجتماعي / منفتح",
+      "synonyms": [
+        "extroverted",
+        "sociable",
+        "gregarious",
+        "friendly"
+      ],
+      "example": [
+        {
+          "text": "Customer service jobs require "
+        },
+        {
+          "text": "outgoing",
+          "colorize": true
+        },
+        {
+          "text": " personalities who enjoy interacting with the public"
+        }
+      ],
+      "tips": "Opposite of 'shy' or 'introverted'. Outgoing people enjoy social situations and make friends easily."
+    },
+    {
+      "word": "archaeologist",
+      "wordType": "noun",
+      "definition": [
+        {
+          "text": "A scientist who "
+        },
+        {
+          "text": "studies human history",
+          "highlight": true
+        },
+        {
+          "text": " by "
+        },
+        {
+          "text": "excavating and examining",
+          "highlight2": true
+        },
+        {
+          "text": " physical remains and artifacts from past civilizations"
+        }
+      ],
+      "arabicMeaning": "عالم آثار",
+      "synonyms": [
+        "excavator",
+        "antiquarian",
+        "researcher"
+      ],
+      "example": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "archaeologist",
+          "colorize": true
+        },
+        {
+          "text": " discovered ancient pottery that was over 3,000 years old"
+        }
+      ],
+      "tips": "The field is 'archaeology'. Archaeologists dig up ruins and artifacts to learn about ancient cultures."
+    },
+    {
+      "word": "painstaking",
+      "wordType": "adjective",
+      "definition": [
+        {
+          "text": "Done with "
+        },
+        {
+          "text": "extreme care and attention",
+          "highlight": true
+        },
+        {
+          "text": " to detail; "
+        },
+        {
+          "text": "thorough and careful",
+          "highlight2": true
+        },
+        {
+          "text": " work that requires much effort"
+        }
+      ],
+      "arabicMeaning": "شاق ودقيق / يتطلب عناية فائقة",
+      "synonyms": [
+        "meticulous",
+        "careful",
+        "thorough",
+        "precise"
+      ],
+      "example": [
+        {
+          "text": "Restoring the ancient manuscript was "
+        },
+        {
+          "text": "painstaking",
+          "colorize": true
+        },
+        {
+          "text": " work that took months of careful effort"
+        }
+      ],
+      "tips": "Despite having 'pain' in it, painstaking means careful work, not painful. It means taking pains = making effort."
+    },
+    {
+      "word": "lodging",
+      "wordType": "noun",
+      "definition": [
+        {
+          "text": "Temporary "
+        },
+        {
+          "text": "accommodation or housing",
+          "highlight": true
+        },
+        {
+          "text": "; a place to "
+        },
+        {
+          "text": "stay or sleep",
+          "highlight2": true
+        }
+      ],
+      "arabicMeaning": "السكن / الإقامة",
+      "synonyms": [
+        "accommodation",
+        "housing",
+        "quarters",
+        "shelter"
+      ],
+      "example": [
+        {
+          "text": "The company provides free "
+        },
+        {
+          "text": "lodging",
+          "colorize": true
+        },
+        {
+          "text": " for employees who relocate from other cities"
+        }
+      ],
+      "tips": "More formal than 'place to stay'. Common in business contexts: 'lodging and meals provided'."
+    },
+    {
+      "word": "blueprint",
+      "wordType": "noun",
+      "definition": [
+        {
+          "text": "A detailed "
+        },
+        {
+          "text": "technical drawing or plan",
+          "highlight": true
+        },
+        {
+          "text": " showing how to "
+        },
+        {
+          "text": "construct a building",
+          "highlight2": true
+        },
+        {
+          "text": " or machine; also used metaphorically for any detailed plan"
+        }
+      ],
+      "arabicMeaning": "مخطط / رسم هندسي",
+      "synonyms": [
+        "plan",
+        "design",
+        "schematic",
+        "diagram"
+      ],
+      "example": [
+        {
+          "text": "Engineers studied the "
+        },
+        {
+          "text": "blueprints",
+          "colorize": true
+        },
+        {
+          "text": " carefully before beginning construction on the bridge"
+        }
+      ],
+      "tips": "Originally blue-colored architectural drawings. Now any detailed plan: 'a blueprint for success'."
+    }
+  ]
+}

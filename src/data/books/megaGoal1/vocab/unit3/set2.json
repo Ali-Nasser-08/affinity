@@ -1,0 +1,204 @@
+{
+    "unit": "Mega Goal 1 - Unit 3: A Vision of the Future",
+    "type": "quick check",
+    "setTitle": "Quick Check",
+    "words": [
+        {
+            "word": "adventure novel",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A book that tells an "
+                },
+                {
+                    "text": "exciting fictional story",
+                    "highlight": true
+                },
+                {
+                    "text": " involving "
+                },
+                {
+                    "text": "danger, journeys, or exploration",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "رواية مغامرات",
+            "synonyms": [
+                "action story",
+                "thriller"
+            ],
+            "example": [
+                {
+                    "text": "Jules Verne wrote many "
+                },
+                {
+                    "text": "adventure novels",
+                    "colorize": true
+                },
+                {
+                    "text": " about exploring unknown places"
+                }
+            ],
+            "tips": "Common types: mystery novels, romance novels, science fiction novels, historical novels."
+        },
+        {
+            "word": "fast food restaurant",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A place that serves "
+                },
+                {
+                    "text": "quickly prepared food",
+                    "highlight": true
+                },
+                {
+                    "text": " for "
+                },
+                {
+                    "text": "immediate consumption",
+                    "highlight2": true
+                },
+                {
+                    "text": ", often at low prices"
+                }
+            ],
+            "arabicMeaning": "مطعم وجبات سريعة",
+            "synonyms": [
+                "quick service restaurant",
+                "takeaway"
+            ],
+            "example": [
+                {
+                    "text": "McDonald's and KFC are popular "
+                },
+                {
+                    "text": "fast food restaurants",
+                    "colorize": true
+                },
+                {
+                    "text": " around the world"
+                }
+            ],
+            "tips": "Fast food = burgers, fries, pizza served quickly. In 1955, people doubted these would become popular!"
+        },
+        {
+            "word": "used car",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A vehicle that has been "
+                },
+                {
+                    "text": "previously owned",
+                    "highlight": true
+                },
+                {
+                    "text": " by someone else; a "
+                },
+                {
+                    "text": "secondhand automobile",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "سيارة مستعملة",
+            "synonyms": [
+                "secondhand car",
+                "pre-owned vehicle"
+            ],
+            "example": [
+                {
+                    "text": "Buying a "
+                },
+                {
+                    "text": "used car",
+                    "colorize": true
+                },
+                {
+                    "text": " is often cheaper than purchasing a brand new one"
+                }
+            ],
+            "tips": "Opposite: 'new car' or 'brand new car'. Used cars cost less but may have more problems."
+        },
+        {
+            "word": "electric appliance",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A household device that "
+                },
+                {
+                    "text": "runs on electricity",
+                    "highlight": true
+                },
+                {
+                    "text": " rather than "
+                },
+                {
+                    "text": "gas or manual power",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "جهاز كهربائي",
+            "synonyms": [
+                "electrical device",
+                "powered appliance"
+            ],
+            "example": [
+                {
+                    "text": "Modern kitchens are full of "
+                },
+                {
+                    "text": "electric appliances",
+                    "colorize": true
+                },
+                {
+                    "text": " like blenders, toasters, and coffee makers"
+                }
+            ],
+            "tips": "In 1955, electric appliances were becoming common. Today, almost all appliances are electric!"
+        },
+        {
+            "word": "haircut",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The act of "
+                },
+                {
+                    "text": "cutting someone's hair",
+                    "highlight": true
+                },
+                {
+                    "text": "; also the "
+                },
+                {
+                    "text": "style",
+                    "highlight2": true
+                },
+                {
+                    "text": " resulting from cutting hair"
+                }
+            ],
+            "arabicMeaning": "قصة شعر",
+            "synonyms": [
+                "trim",
+                "hairstyle",
+                "cut"
+            ],
+            "example": [
+                {
+                    "text": "I need to get a "
+                },
+                {
+                    "text": "haircut",
+                    "colorize": true
+                },
+                {
+                    "text": " because my hair is getting too long"
+                }
+            ],
+            "tips": "The place: barbershop (for men) or hair salon. In 1955, 50 cents for a haircut seemed expensive!"
+        }
+    ]
+}

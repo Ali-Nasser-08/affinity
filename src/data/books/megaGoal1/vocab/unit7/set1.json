@@ -1,0 +1,651 @@
+{
+    "unit": "Mega Goal 1 - Unit 7: You've Got Mail",
+    "type": "misc",
+    "setTitle": "Email Communication & Etiquette",
+    "words": [
+        {
+            "word": "subject",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The short title at the top of an email that "
+                },
+                {
+                    "text": "describes its topic",
+                    "highlight": true
+                },
+                {
+                    "text": " so the receiver knows "
+                },
+                {
+                    "text": "what it's about",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "موضوع الرسالة",
+            "synonyms": [
+                "email title",
+                "heading"
+            ],
+            "example": [
+                {
+                    "text": "Always write a clear "
+                },
+                {
+                    "text": "subject",
+                    "colorize": true
+                },
+                {
+                    "text": " line like 'Meeting Request' so people open your email."
+                }
+            ],
+            "tips": "Never leave subject blank—it looks unprofessional and might go to spam."
+        },
+        {
+            "word": "apologize for",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To say sorry for "
+                },
+                {
+                    "text": "something you did",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "failed to do",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يَعتذر عن",
+            "synonyms": [
+                "say sorry for",
+                "express regret for"
+            ],
+            "example": [
+                {
+                    "text": "I want to "
+                },
+                {
+                    "text": "apologize for",
+                    "colorize": true
+                },
+                {
+                    "text": " not answering your email sooner."
+                }
+            ],
+            "tips": "Always 'apologize FOR' (not 'apologize about'). More formal than 'sorry'—good for business emails."
+        },
+        {
+            "word": "look forward to",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To feel "
+                },
+                {
+                    "text": "happy and excited",
+                    "highlight": true
+                },
+                {
+                    "text": " about something "
+                },
+                {
+                    "text": "that will happen",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يتطلع إلى",
+            "synonyms": [
+                "anticipate with pleasure",
+                "can't wait for"
+            ],
+            "example": [
+                {
+                    "text": "I "
+                },
+                {
+                    "text": "look forward to",
+                    "colorize": true
+                },
+                {
+                    "text": " meeting you next week."
+                }
+            ],
+            "tips": "Always followed by noun/gerund: 'look forward to meeting' (NOT 'to meet'). Common polite closing in business emails."
+        },
+        {
+            "word": "set up",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "arrange or organize",
+                    "highlight": true
+                },
+                {
+                    "text": " a "
+                },
+                {
+                    "text": "meeting or event",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُرتّب / يُنظّم",
+            "synonyms": [
+                "arrange",
+                "schedule"
+            ],
+            "example": [
+                {
+                    "text": "Please email me so we can "
+                },
+                {
+                    "text": "set up",
+                    "colorize": true
+                },
+                {
+                    "text": " a time for our meeting."
+                }
+            ],
+            "tips": "Set up a meeting/appointment/call. Different from 'set up' = assemble furniture (same phrasal verb, different meaning)."
+        },
+        {
+            "word": "although",
+            "wordType": "conjunction",
+            "definition": [
+                {
+                    "text": "Used to connect two ideas where the second idea is "
+                },
+                {
+                    "text": "surprising",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "different from the first",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "على الرغم من أن",
+            "synonyms": [
+                "even though",
+                "though"
+            ],
+            "example": [
+                {
+                    "text": ""
+                },
+                {
+                    "text": "Although",
+                    "colorize": true
+                },
+                {
+                    "text": " I was wearing a raincoat, I got soaked in the rain."
+                }
+            ],
+            "tips": "Although = even though (same meaning). 'Although' goes at the start of a clause; 'though' can also go at the end ('It rained, though')."
+        },
+        {
+            "word": "however",
+            "wordType": "adverb",
+            "definition": [
+                {
+                    "text": "Used to introduce a statement that "
+                },
+                {
+                    "text": "contrasts",
+                    "highlight": true
+                },
+                {
+                    "text": " with what was said "
+                },
+                {
+                    "text": "before",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مع ذلك / ولكن",
+            "synonyms": [
+                "but",
+                "nevertheless"
+            ],
+            "example": [
+                {
+                    "text": "I'd love to stay with you. "
+                },
+                {
+                    "text": "However",
+                    "colorize": true
+                },
+                {
+                    "text": ", I don't want to inconvenience you."
+                }
+            ],
+            "tips": "More formal than 'but'. Usually starts a new sentence or follows a semicolon. Always add a comma after 'however'."
+        },
+        {
+            "word": "in spite of",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Without being affected by; "
+                },
+                {
+                    "text": "ignoring a difficulty",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "problem",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "رغم / على الرغم من",
+            "synonyms": [
+                "despite"
+            ],
+            "example": [
+                {
+                    "text": "I got soaked "
+                },
+                {
+                    "text": "in spite of",
+                    "colorize": true
+                },
+                {
+                    "text": " my raincoat and umbrella."
+                }
+            ],
+            "tips": "Always followed by noun/gerund (in spite of the rain / in spite of wearing a coat). 'Despite' means the same thing but is slightly more formal."
+        },
+        {
+            "word": "put me up",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To let someone "
+                },
+                {
+                    "text": "stay at your home",
+                    "highlight": true
+                },
+                {
+                    "text": " temporarily as a "
+                },
+                {
+                    "text": "guest",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُضيفني / يُؤويني",
+            "synonyms": [
+                "host me",
+                "give me a place to stay"
+            ],
+            "example": [
+                {
+                    "text": "I was wondering if you could "
+                },
+                {
+                    "text": "put me up",
+                    "colorize": true
+                },
+                {
+                    "text": " when I visit Paris next month."
+                }
+            ],
+            "tips": "Informal/friendly phrase. Only used for short stays with friends/family—not hotels. 'Put up' without 'me' = accommodate someone."
+        },
+        {
+            "word": "inconvenience",
+            "wordType": "noun/verb",
+            "definition": [
+                {
+                    "text": "Something that causes "
+                },
+                {
+                    "text": "trouble or difficulty",
+                    "highlight": true
+                },
+                {
+                    "text": " for someone; to "
+                },
+                {
+                    "text": "cause such trouble",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "إزعاج / إقلاق",
+            "synonyms": [
+                "bother",
+                "trouble"
+            ],
+            "example": [
+                {
+                    "text": "I don't want to "
+                },
+                {
+                    "text": "inconvenience",
+                    "colorize": true
+                },
+                {
+                    "text": " you by staying too long."
+                }
+            ],
+            "tips": "Common polite phrase: 'Sorry for the inconvenience.' Shows consideration for others' time/space."
+        },
+        {
+            "word": "soaked",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Completely "
+                },
+                {
+                    "text": "wet",
+                    "highlight": true
+                },
+                {
+                    "text": " with water or another liquid, "
+                },
+                {
+                    "text": "through to the skin",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مُبتلّ تماماً / ثقيل من البلل",
+            "synonyms": [
+                "drenched",
+                "sopping wet"
+            ],
+            "example": [
+                {
+                    "text": "It was so rainy that I was "
+                },
+                {
+                    "text": "soaked",
+                    "colorize": true
+                },
+                {
+                    "text": " most of the time."
+                }
+            ],
+            "tips": "Soaked = completely wet (not just damp). Clothes feel heavy when soaked. Opposite: dry."
+        },
+        {
+            "word": "cc",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Carbon copy—sending a copy of an email to "
+                },
+                {
+                    "text": "someone who should know",
+                    "highlight": true
+                },
+                {
+                    "text": " about it but "
+                },
+                {
+                    "text": "isn't the main recipient",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "نسخة طبق الأصل (في الإيميل)",
+            "synonyms": [
+                "copy to",
+                "blind copy (bcc)"
+            ],
+            "example": [
+                {
+                    "text": "I'll email the manager directly and "
+                },
+                {
+                    "text": "cc",
+                    "colorize": true
+                },
+                {
+                    "text": " you so you stay informed."
+                }
+            ],
+            "tips": "Everyone in 'To' and 'Cc' can see each other's addresses. Use 'Bcc' (blind carbon copy) when privacy is needed."
+        },
+        {
+            "word": "forward",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To send an email you received to "
+                },
+                {
+                    "text": "another person",
+                    "highlight": true
+                },
+                {
+                    "text": " without "
+                },
+                {
+                    "text": "writing a new message",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُحوّل / يُعيد إرسال",
+            "synonyms": [
+                "send on",
+                "redirect"
+            ],
+            "example": [
+                {
+                    "text": "I'll "
+                },
+                {
+                    "text": "forward",
+                    "colorize": true
+                },
+                {
+                    "text": " you the invitation email right away."
+                }
+            ],
+            "tips": "Forwarded emails show the original sender and message history. Always check before forwarding—don't share private information."
+        },
+        {
+            "word": "reply",
+            "wordType": "verb/noun",
+            "definition": [
+                {
+                    "text": "To send an email back to "
+                },
+                {
+                    "text": "the person who wrote to you",
+                    "highlight": true
+                },
+                {
+                    "text": " with your "
+                },
+                {
+                    "text": "answer",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يرد / يجيب",
+            "synonyms": [
+                "respond",
+                "answer"
+            ],
+            "example": [
+                {
+                    "text": "Please "
+                },
+                {
+                    "text": "reply",
+                    "colorize": true
+                },
+                {
+                    "text": " to this email by Friday."
+                }
+            ],
+            "tips": "'Reply' goes only to the sender. 'Reply to all' sends your answer to everyone who received the original email—use carefully!"
+        },
+        {
+            "word": "best regards",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "A polite and professional way to "
+                },
+                {
+                    "text": "end an email",
+                    "highlight": true
+                },
+                {
+                    "text": " when you "
+                },
+                {
+                    "text": "respect the recipient",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مع أطيب التحيات",
+            "synonyms": [
+                "kind regards",
+                "sincerely"
+            ],
+            "example": [
+                {
+                    "text": "Thank you for your help.\n"
+                },
+                {
+                    "text": "Best regards",
+                    "colorize": true
+                },
+                {
+                    "text": ",\nAhmed"
+                }
+            ],
+            "tips": "Standard business closing. 'Best regards' is warmer than 'Sincerely' but still professional. Never use 'Love' or 'XOXO' in work emails!"
+        },
+        {
+            "word": "out of sight, out of mind",
+            "wordType": "idiom",
+            "definition": [
+                {
+                    "text": "When you don't see someone or something, "
+                },
+                {
+                    "text": "you forget about them",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "stop thinking of them",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "بعيد عن العين بعيد عن القلب",
+            "synonyms": [
+                "absence makes the heart grow fonder (opposite meaning!)"
+            ],
+            "example": [
+                {
+                    "text": "Don't worry—I know we're far apart, but you're not "
+                },
+                {
+                    "text": "out of sight, out of mind",
+                    "colorize": true
+                },
+                {
+                    "text": " to me."
+                }
+            ],
+            "tips": "The graduation card uses the OPPOSITE idea: 'Although you're out of sight, you aren't out of mind' = I still remember you."
+        },
+        {
+            "word": "travel arrangements",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "The plans and bookings for a trip: "
+                },
+                {
+                    "text": "flights, hotels",
+                    "highlight": true
+                },
+                {
+                    "text": ", and "
+                },
+                {
+                    "text": "transportation",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "تخطيط السفر / ترتيبات السفر",
+            "synonyms": [
+                "trip plans",
+                "itinerary"
+            ],
+            "example": [
+                {
+                    "text": "Please email me when you make your final "
+                },
+                {
+                    "text": "travel arrangements",
+                    "colorize": true
+                },
+                {
+                    "text": " so we can meet."
+                }
+            ],
+            "tips": "Always plural ('arrangements'). Business phrase—shows you're organized and serious about meeting."
+        },
+        {
+            "word": "supplier",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A company or person that "
+                },
+                {
+                    "text": "provides goods",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "materials to another business",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مزوّد / مورّد",
+            "synonyms": [
+                "vendor",
+                "provider"
+            ],
+            "example": [
+                {
+                    "text": "We are looking for new "
+                },
+                {
+                    "text": "suppliers",
+                    "colorize": true
+                },
+                {
+                    "text": " of shoes from the USA."
+                }
+            ],
+            "tips": "Suppliers sell TO businesses. Retailers sell TO customers. A company can be both (e.g., Apple supplies parts to itself and sells phones to you)."
+        }
+    ]
+}

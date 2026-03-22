@@ -1,0 +1,219 @@
+{
+  "unit": "Mega Goal 1 - Unit 1",
+  "type": "quick check",
+  "setTitle": "Quick Check",
+  "words": [
+    {
+      "word": "affect",
+      "wordType": "verb",
+      "definition": [
+        {
+          "text": "To have an "
+        },
+        {
+          "text": "influence on",
+          "highlight": true
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "cause a change",
+          "highlight2": true
+        },
+        {
+          "text": " in something or someone"
+        }
+      ],
+      "arabicMeaning": "يؤثر على",
+      "synonyms": [
+        "influence",
+        "impact",
+        "alter"
+      ],
+      "example": [
+        {
+          "text": "Climate change will "
+        },
+        {
+          "text": "affect",
+          "colorize": true
+        },
+        {
+          "text": " agriculture and food production worldwide"
+        }
+      ],
+      "tips": "Don't confuse 'affect' (verb = to influence) with 'effect' (noun = result). Example: The medicine affected her mood (verb). The medicine had a positive effect (noun)."
+    },
+    {
+      "word": "launch",
+      "wordType": "verb",
+      "definition": [
+        {
+          "text": "To "
+        },
+        {
+          "text": "send into space",
+          "highlight": true
+        },
+        {
+          "text": " (such as a rocket or satellite), or to "
+        },
+        {
+          "text": "start or introduce",
+          "highlight2": true
+        },
+        {
+          "text": " something new (like a project or product)"
+        }
+      ],
+      "arabicMeaning": "يطلق / يبدأ",
+      "synonyms": [
+        "start",
+        "begin",
+        "initiate",
+        "send off"
+      ],
+      "example": [
+        {
+          "text": "NASA will "
+        },
+        {
+          "text": "launch",
+          "colorize": true
+        },
+        {
+          "text": " the new Mars rover next month"
+        }
+      ],
+      "tips": "Launch has two common meanings: (1) sending something into space, (2) starting a new project or business"
+    },
+    {
+      "word": "take for granted",
+      "wordType": "phrasal verb",
+      "definition": [
+        {
+          "text": "To "
+        },
+        {
+          "text": "fail to appreciate",
+          "highlight": true
+        },
+        {
+          "text": " something or someone because it has always been available; to "
+        },
+        {
+          "text": "accept as a normal part of life",
+          "highlight2": true
+        },
+        {
+          "text": " without thinking about its value"
+        }
+      ],
+      "arabicMeaning": "يأخذ كأمر مسلم به / لا يقدر قيمة",
+      "synonyms": [
+        "undervalue",
+        "overlook",
+        "assume"
+      ],
+      "example": [
+        {
+          "text": "We often "
+        },
+        {
+          "text": "take for granted",
+          "colorize": true
+        },
+        {
+          "text": " basic necessities like clean water and electricity"
+        }
+      ],
+      "tips": "This phrase suggests not appreciating something until it's gone. Remember: 'grant' here means 'accept' or 'assume'"
+    },
+    {
+      "word": "establish",
+      "wordType": "verb",
+      "definition": [
+        {
+          "text": "To "
+        },
+        {
+          "text": "create, set up, or found",
+          "highlight": true
+        },
+        {
+          "text": " something that will "
+        },
+        {
+          "text": "last for a long time",
+          "highlight2": true
+        },
+        {
+          "text": ", such as an organization, system, or relationship"
+        }
+      ],
+      "arabicMeaning": "يؤسس / ينشئ",
+      "synonyms": [
+        "found",
+        "create",
+        "set up",
+        "institute"
+      ],
+      "example": [
+        {
+          "text": "The university was "
+        },
+        {
+          "text": "established",
+          "colorize": true
+        },
+        {
+          "text": " in 1957 to provide education in science and technology"
+        }
+      ],
+      "tips": "Establish implies creating something permanent and official, not just temporary"
+    },
+    {
+      "word": "host",
+      "wordType": "verb",
+      "definition": [
+        {
+          "text": "To "
+        },
+        {
+          "text": "provide a place or facilities",
+          "highlight": true
+        },
+        {
+          "text": " for an event, meeting, or visitor; to "
+        },
+        {
+          "text": "act as the organizer",
+          "highlight2": true
+        },
+        {
+          "text": " of an event"
+        }
+      ],
+      "arabicMeaning": "يستضيف",
+      "synonyms": [
+        "accommodate",
+        "organize",
+        "receive"
+      ],
+      "example": [
+        {
+          "text": "Qatar will "
+        },
+        {
+          "text": "host",
+          "colorize": true
+        },
+        {
+          "text": " the international conference on renewable energy"
+        }
+      ],
+      "tips": "As a verb, 'host' means to organize and provide a venue. As a noun, a 'host' is the person who welcomes guests"
+    }
+  ]
+}

@@ -1,0 +1,834 @@
+{
+  "unit": "Mega Goal 1",
+  "lesson": "Unit 1",
+  "clusters": [
+    {
+      "clusterId": "cluster-1",
+      "title": "Simple Present Use",
+      "cards": [
+        {
+          "id": "card-1",
+          "content": [
+            {
+              "text": "Use the "
+            },
+            {
+              "text": "Simple Present",
+              "highlight": true
+            },
+            {
+              "text": " for facts and things that are always true"
+            },
+            {
+              "text": "استخدم "
+            },
+            {
+              "text": "الحاضر البسيط",
+              "highlight": true
+            },
+            {
+              "text": " للحقائق والأمور الدائمة"
+            }
+          ]
+        },
+        {
+          "id": "card-1b",
+          "type": "structure",
+          "content": [
+            {
+              "text": "Subject",
+              "badge": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "Verb (base form)",
+              "badge2": true,
+              "translation": "الفعل (المصدر)"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "Object/Complement",
+              "badge3": true,
+              "translation": "المفعول/تكملة"
+            }
+          ],
+          "wide": true
+        },
+        {
+          "id": "card-1c",
+          "type": "structure",
+          "content": [
+            {
+              "text": "For "
+            },
+            {
+              "text": "he/she/it",
+              "colorize2": true
+            },
+            {
+              "text": ", add "
+            },
+            {
+              "text": "-s",
+              "badge": true
+            },
+            {
+              "text": " or "
+            },
+            {
+              "text": "-es",
+              "badge2": true
+            },
+            {
+              "text": " to the verb"
+            }
+          ],
+          "wide": true
+        },
+        {
+          "id": "card-2",
+          "type": "example",
+          "content": [
+            {
+              "text": "Water "
+            },
+            {
+              "text": "boils",
+              "colorize": true
+            },
+            {
+              "text": " at 100°C"
+            },
+            {
+              "text": "الماء "
+            },
+            {
+              "text": "يغلي",
+              "colorize": true
+            },
+            {
+              "text": " عند 100 درجة مئوية"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "content": [
+            {
+              "text": "Use it for "
+            },
+            {
+              "text": "permanent situations",
+              "colorize2": true
+            },
+            {
+              "text": " or "
+            },
+            {
+              "text": "facts about people",
+              "colorize2": true
+            },
+            {
+              "text": "استخدمه لـ "
+            },
+            {
+              "text": "المواقف الدائمة",
+              "colorize2": true
+            },
+            {
+              "text": " أو "
+            },
+            {
+              "text": "الحقائق عن الأشخاص",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "example",
+          "content": [
+            {
+              "text": "John "
+            },
+            {
+              "text": "lives",
+              "colorize": true
+            },
+            {
+              "text": " in Quebec"
+            },
+            {
+              "text": "جون "
+            },
+            {
+              "text": "يعيش",
+              "colorize": true
+            },
+            {
+              "text": " في كيبيك"
+            }
+          ]
+        },
+        {
+          "id": "card-5",
+          "content": [
+            {
+              "text": "Also use it for "
+            },
+            {
+              "text": "habits or routines",
+              "colorize2": true
+            },
+            {
+              "text": "استخدمه أيضا لـ "
+            },
+            {
+              "text": "الروتين والعادات اليومية",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "example",
+          "content": [
+            {
+              "text": "She "
+            },
+            {
+              "text": "drinks",
+              "colorize": true
+            },
+            {
+              "text": " coffee every morning"
+            },
+            {
+              "text": "هي "
+            },
+            {
+              "text": "تشرب",
+              "colorize": true
+            },
+            {
+              "text": " القهوة كل صباح"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-2",
+      "title": "Present Progressive Use",
+      "cards": [
+        {
+          "id": "card-7",
+          "content": [
+            {
+              "text": "Use the "
+            },
+            {
+              "text": "Present Progressive",
+              "highlight": true
+            },
+            {
+              "text": " for "
+            },
+            {
+              "text": "actions happening now",
+              "colorize2": true
+            },
+            {
+              "text": " or "
+            },
+            {
+              "text": "around now",
+              "colorize2": true
+            },
+            {
+              "text": "استخدم "
+            },
+            {
+              "text": "الحاضر المستمر",
+              "highlight": true
+            },
+            {
+              "text": " لـ "
+            },
+            {
+              "text": "الأفعال التي تحدث الآن",
+              "colorize2": true
+            },
+            {
+              "text": " أو "
+            },
+            {
+              "text": "في هذه الفترة",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-7b",
+          "type": "structure",
+          "content": [
+            {
+              "text": "Subject",
+              "badge": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "am/is/are",
+              "badge2": true,
+              "translation": "فعل مساعد"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "Verb-ing",
+              "badge3": true,
+              "translation": "فعل + ing"
+            }
+          ],
+          "wide": true
+        },
+        {
+          "id": "card-7c",
+          "type": "structure",
+          "content": [
+            {
+              "text": "Use "
+            },
+            {
+              "text": "am",
+              "badge": true
+            },
+            {
+              "text": " with "
+            },
+            {
+              "text": "I",
+              "colorize2": true
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "is",
+              "badge2": true
+            },
+            {
+              "text": " with "
+            },
+            {
+              "text": "he/she/it",
+              "colorize2": true
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "are",
+              "badge3": true
+            },
+            {
+              "text": " with "
+            },
+            {
+              "text": "you/we/they",
+              "colorize2": true
+            }
+          ],
+          "wide": true
+        },
+        {
+          "id": "card-8",
+          "type": "example",
+          "content": [
+            {
+              "text": "She "
+            },
+            {
+              "text": "is studying",
+              "colorize": true
+            },
+            {
+              "text": " French this week"
+            },
+            {
+              "text": "هي "
+            },
+            {
+              "text": "تدرس",
+              "colorize": true
+            },
+            {
+              "text": " الفرنسية هذا الأسبوع"
+            }
+          ]
+        },
+        {
+          "id": "card-9",
+          "content": [
+            {
+              "text": "Also use it for "
+            },
+            {
+              "text": "temporary situations",
+              "colorize2": true
+            },
+            {
+              "text": "استخدمه أيضا لـ "
+            },
+            {
+              "text": "المواقف المؤقتة",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-10",
+          "type": "example",
+          "content": [
+            {
+              "text": "I "
+            },
+            {
+              "text": "am living",
+              "colorize": true
+            },
+            {
+              "text": " with my cousin for two months"
+            },
+            {
+              "text": "أنا "
+            },
+            {
+              "text": "أعيش",
+              "colorize": true
+            },
+            {
+              "text": " مع ابن عمي لمدة شهرين"
+            }
+          ]
+        },
+        {
+          "id": "card-11",
+          "content": [
+            {
+              "text": "It can describe "
+            },
+            {
+              "text": "developing actions",
+              "colorize2": true
+            },
+            {
+              "text": " or "
+            },
+            {
+              "text": "changing situations",
+              "colorize2": true
+            },
+            {
+              "text": "يمكن أن يصف "
+            },
+            {
+              "text": "الأفعال التي تتطور",
+              "colorize2": true
+            },
+            {
+              "text": " أو "
+            },
+            {
+              "text": "الأشياء التي تتغير",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-12",
+          "type": "example",
+          "content": [
+            {
+              "text": "The weather "
+            },
+            {
+              "text": "is getting",
+              "colorize": true
+            },
+            {
+              "text": " colder"
+            },
+            {
+              "text": "الطقس "
+            },
+            {
+              "text": "يصبح",
+              "colorize": true
+            },
+            {
+              "text": " أبرد"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-3",
+      "title": "Simple Present vs Present Progressive",
+      "cards": [
+        {
+          "id": "card-13",
+          "content": [
+            {
+              "text": "Use "
+            },
+            {
+              "text": "Simple Present",
+              "highlight": true
+            },
+            {
+              "text": " for "
+            },
+            {
+              "text": "permanent situations",
+              "colorize2": true
+            },
+            {
+              "text": "استخدم "
+            },
+            {
+              "text": "الحاضر البسيط",
+              "highlight": true
+            },
+            {
+              "text": " لـ "
+            },
+            {
+              "text": "المواقف الدائمة",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-14",
+          "type": "example",
+          "content": [
+            {
+              "text": "John "
+            },
+            {
+              "text": "lives",
+              "colorize": true
+            },
+            {
+              "text": " in Quebec"
+            },
+            {
+              "text": "جون "
+            },
+            {
+              "text": "يعيش",
+              "colorize": true
+            },
+            {
+              "text": " في كيبيك"
+            }
+          ]
+        },
+        {
+          "id": "card-15",
+          "content": [
+            {
+              "text": "Use "
+            },
+            {
+              "text": "Present Progressive",
+              "highlight": true
+            },
+            {
+              "text": " for "
+            },
+            {
+              "text": "temporary situations",
+              "colorize2": true
+            },
+            {
+              "text": " or "
+            },
+            {
+              "text": "changing situations",
+              "colorize2": true
+            },
+            {
+              "text": "استخدم "
+            },
+            {
+              "text": "الحاضر المستمر",
+              "highlight": true
+            },
+            {
+              "text": " لـ "
+            },
+            {
+              "text": "المواقف المؤقتة",
+              "colorize2": true
+            },
+            {
+              "text": " أو "
+            },
+            {
+              "text": "المتغيرة",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-16",
+          "type": "example",
+          "content": [
+            {
+              "text": "He "
+            },
+            {
+              "text": "is studying",
+              "colorize": true
+            },
+            {
+              "text": " in France "
+            },
+            {
+              "text": "this year",
+              "colorize3": true
+            },
+            {
+              "text": "هو "
+            },
+            {
+              "text": "يدرس",
+              "colorize": true
+            },
+            {
+              "text": " في فرنسا "
+            },
+            {
+              "text": "هذا العام",
+              "colorize3": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-4",
+      "title": "Simple Past vs Present Perfect Use",
+      "cards": [
+        {
+          "id": "card-17",
+          "content": [
+            {
+              "text": "Use "
+            },
+            {
+              "text": "Simple Past",
+              "highlight": true
+            },
+            {
+              "text": " for actions that "
+            },
+            {
+              "text": "started and ended",
+              "colorize2": true
+            },
+            {
+              "text": " in the past"
+            },
+            {
+              "text": "استخدم "
+            },
+            {
+              "text": "الماضي البسيط",
+              "highlight": true
+            },
+            {
+              "text": " للأفعال التي "
+            },
+            {
+              "text": "بدأت وانتهت",
+              "colorize2": true
+            },
+            {
+              "text": " في الماضي"
+            }
+          ]
+        },
+        {
+          "id": "card-17b",
+          "type": "structure",
+          "content": [
+            {
+              "text": "Subject",
+              "badge": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "Verb (past form)",
+              "badge2": true,
+              "translation": "الفعل (ماضي)"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "Object",
+              "badge3": true,
+              "translation": "المفعول"
+            }
+          ],
+          "wide": true
+        },
+        {
+          "id": "card-18",
+          "type": "example",
+          "content": [
+            {
+              "text": "The Russians "
+            },
+            {
+              "text": "launched",
+              "colorize": true
+            },
+            {
+              "text": " the first artificial satellite in "
+            },
+            {
+              "text": "1957",
+              "colorize3": true
+            },
+            {
+              "text": "أطلق الروس "
+            },
+            {
+              "text": "أول قمر صناعي",
+              "colorize": true
+            },
+            {
+              "text": " في عام "
+            },
+            {
+              "text": "1957",
+              "colorize3": true
+            }
+          ]
+        },
+        {
+          "id": "card-19",
+          "content": [
+            {
+              "text": "Use "
+            },
+            {
+              "text": "Present Perfect",
+              "highlight": true
+            },
+            {
+              "text": " for past actions that "
+            },
+            {
+              "text": "still affect the present",
+              "colorize2": true
+            },
+            {
+              "text": "استخدم "
+            },
+            {
+              "text": "الحاضر التام",
+              "highlight": true
+            },
+            {
+              "text": " للأفعال الماضية التي "
+            },
+            {
+              "text": "ما زالت تؤثر على الحاضر",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-19b",
+          "type": "structure",
+          "content": [
+            {
+              "text": "Subject",
+              "badge": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "has/have",
+              "badge2": true,
+              "translation": "مساعد"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "Past Participle",
+              "badge3": true,
+              "translation": "التصريف الثالث"
+            }
+          ],
+          "wide": true
+        },
+        {
+          "id": "card-20",
+          "type": "example",
+          "content": [
+            {
+              "text": "The US "
+            },
+            {
+              "text": "has launched",
+              "colorize": true
+            },
+            {
+              "text": " many astronauts into space "
+            },
+            {
+              "text": "since 1969",
+              "colorize3": true
+            },
+            {
+              "text": "أطلقت الولايات المتحدة "
+            },
+            {
+              "text": "العديد من رواد الفضاء",
+              "colorize": true
+            },
+            {
+              "text": " إلى الفضاء "
+            },
+            {
+              "text": "منذ عام 1969",
+              "colorize3": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

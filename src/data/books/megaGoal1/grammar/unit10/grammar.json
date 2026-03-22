@@ -1,0 +1,1076 @@
+{
+    "unit": "Mega Goal 1",
+    "lesson": "Unit 10",
+    "clusters": [
+        {
+            "clusterId": "cluster-1",
+            "title": "Past Perfect Tense",
+            "cards": [
+                {
+                    "id": "card-1",
+                    "content": [
+                        {
+                            "text": "Past Perfect Tense",
+                            "highlight": true
+                        },
+                        {
+                            "text": "الماضي التام"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-2",
+                    "content": [
+                        {
+                            "text": "Shows an action that "
+                        },
+                        {
+                            "text": "occurred before another past action",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "يظهر فعلاً "
+                        },
+                        {
+                            "text": "حدث قبل فعل ماضٍ آخر",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-3",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "Subject",
+                            "badge": true,
+                            "translation": "الفاعل"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "had",
+                            "badge2": true,
+                            "translation": "كان قد"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "past participle",
+                            "badge3": true,
+                            "translation": "التصريف الثالث"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-4",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "When I ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "got",
+                            "colorize": true
+                        },
+                        {
+                            "text": " to the station, the train "
+                        },
+                        {
+                            "text": "had",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "already left",
+                            "colorize3": true
+                        },
+                        {
+                            "text": "عندما "
+                        },
+                        {
+                            "text": "وصلت",
+                            "colorize": true
+                        },
+                        {
+                            "text": " إلى المحطة، "
+                        },
+                        {
+                            "text": "كان",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " القطار قد "
+                        },
+                        {
+                            "text": "غادر",
+                            "colorize3": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-5",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "She couldn't enter because she "
+                        },
+                        {
+                            "text": "had",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "lost",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " her keys"
+                        },
+                        {
+                            "text": "لم تستطع الدخول لأنها "
+                        },
+                        {
+                            "text": "كانت قد",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "فقدت",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " مفاتيحها"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-6",
+                    "content": [
+                        {
+                            "text": "Note:",
+                            "highlight": true
+                        },
+                        {
+                            "text": " Had can be shortened to "
+                        },
+                        {
+                            "text": "'d",
+                            "colorize": true
+                        },
+                        {
+                            "text": " (I'd, you'd, he'd, she'd, we'd, they'd)"
+                        },
+                        {
+                            "text": "ملاحظة: يمكن اختصار Had إلى "
+                        },
+                        {
+                            "text": "'d",
+                            "colorize": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-7",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "They"
+                        },
+                        {
+                            "text": "'d",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "studied",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " before the test"
+                        },
+                        {
+                            "text": "كانوا قد ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "درسوا",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " قبل الاختبار"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-2",
+            "title": "Past Perfect - Questions and Answers",
+            "cards": [
+                {
+                    "id": "card-8",
+                    "content": [
+                        {
+                            "text": "Past Perfect",
+                            "highlight": true
+                        },
+                        {
+                            "text": " - Questions and Answers"
+                        },
+                        {
+                            "text": "الماضي التام - الأسئلة والإجابات"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-9",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "Questions:",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "Had",
+                            "badge": true,
+                            "translation": "هل كان قد"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "subject",
+                            "badge2": true,
+                            "translation": "الفاعل"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "past participle",
+                            "badge3": true,
+                            "translation": "التصريف الثالث"
+                        },
+                        {
+                            "text": " + ?"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-9b",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Had",
+                            "colorize": true
+                        },
+                        {
+                            "text": " you ",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "visited",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " Paris before?"
+                        },
+                        {
+                            "text": "هل ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "كنت قد "
+                        },
+                        {
+                            "text": "زرت",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " باريس من قبل؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-10",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "Short Answers:",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " Yes, "
+                        },
+                        {
+                            "text": "subject + had",
+                            "badge": true
+                        },
+                        {
+                            "text": " / No, "
+                        },
+                        {
+                            "text": "subject + hadn't",
+                            "badge2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-10b",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Yes, I "
+                        },
+                        {
+                            "text": "had",
+                            "colorize": true
+                        },
+                        {
+                            "text": " / No, I "
+                        },
+                        {
+                            "text": "hadn't",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "نعم "
+                        },
+                        {
+                            "text": "كنت قد زرتها",
+                            "colorize": true
+                        },
+                        {
+                            "text": " / لا "
+                        },
+                        {
+                            "text": "لم أزرها",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-11",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Had",
+                            "colorize": true
+                        },
+                        {
+                            "text": " they ",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "finished",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " the project?"
+                        },
+                        {
+                            "text": "هل ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "كانوا قد "
+                        },
+                        {
+                            "text": "أنهوا",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " المشروع؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-12",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Yes, they "
+                        },
+                        {
+                            "text": "had",
+                            "colorize": true
+                        },
+                        {
+                            "text": " / No, they "
+                        },
+                        {
+                            "text": "hadn't",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "نعم "
+                        },
+                        {
+                            "text": "أنهوه",
+                            "colorize": true
+                        },
+                        {
+                            "text": " / لا "
+                        },
+                        {
+                            "text": "لم ينهوه",
+                            "colorize2": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-3",
+            "title": "Modals for Speculation - Present",
+            "cards": [
+                {
+                    "id": "card-13",
+                    "content": [
+                        {
+                            "text": "Modals for Speculation",
+                            "highlight": true
+                        },
+                        {
+                            "text": " - Present"
+                        },
+                        {
+                            "text": "أفعال ناقصة للتخمين - الحاضر"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-14",
+                    "content": [
+                        {
+                            "text": "These modals express "
+                        },
+                        {
+                            "text": "how certain we are",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " about something"
+                        },
+                        {
+                            "text": "هذه الأفعال تعبر عن "
+                        },
+                        {
+                            "text": "مدى تأكدنا",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " من شيء ما"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-15",
+                    "content": [
+                        {
+                            "text": "Must",
+                            "colorize": true
+                        },
+                        {
+                            "text": " = "
+                        },
+                        {
+                            "text": "we're certain it's true",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " (strong belief)"
+                        },
+                        {
+                            "text": "Must",
+                            "colorize": true
+                        },
+                        {
+                            "text": " = "
+                        },
+                        {
+                            "text": "نحن متأكدون أنه صحيح",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " (اعتقاد قوي)"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-16",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "He's wearing a uniform. He "
+                        },
+                        {
+                            "text": "must be",
+                            "colorize": true
+                        },
+                        {
+                            "text": " a police officer"
+                        },
+                        {
+                            "text": "يرتدي زياً رسمياً. "
+                        },
+                        {
+                            "text": "لا بد أنه",
+                            "colorize": true
+                        },
+                        {
+                            "text": " ضابط شرطة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-17",
+                    "content": [
+                        {
+                            "text": "Can't / Couldn't",
+                            "colorize": true
+                        },
+                        {
+                            "text": " = "
+                        },
+                        {
+                            "text": "we're sure it's impossible",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " (strong disbelief)"
+                        },
+                        {
+                            "text": "Can't / Couldn't",
+                            "colorize": true
+                        },
+                        {
+                            "text": " = "
+                        },
+                        {
+                            "text": "نحن متأكدون أنه مستحيل",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " (عدم تصديق قوي)"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-18",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "That "
+                        },
+                        {
+                            "text": "can't be",
+                            "colorize": true
+                        },
+                        {
+                            "text": " her brother. He's too young"
+                        },
+                        {
+                            "text": "لا يمكن أن ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "يكون",
+                            "colorize": true
+                        },
+                        {
+                            "text": " أخاها. إنه صغير جداً"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-19",
+                    "content": [
+                        {
+                            "text": "May / Might / Could",
+                            "colorize": true
+                        },
+                        {
+                            "text": " = "
+                        },
+                        {
+                            "text": "something is possible",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " (uncertainty)"
+                        },
+                        {
+                            "text": "May / Might / Could",
+                            "colorize": true
+                        },
+                        {
+                            "text": " = "
+                        },
+                        {
+                            "text": "شيء ممكن",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " (عدم تأكد)"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-20",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "She "
+                        },
+                        {
+                            "text": "might be",
+                            "colorize": true
+                        },
+                        {
+                            "text": " at the library"
+                        },
+                        {
+                            "text": "ربما ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "تكون",
+                            "colorize": true
+                        },
+                        {
+                            "text": " في المكتبة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-21",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "It "
+                        },
+                        {
+                            "text": "could be",
+                            "colorize": true
+                        },
+                        {
+                            "text": " a mistake"
+                        },
+                        {
+                            "text": "قد ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "يكون",
+                            "colorize": true
+                        },
+                        {
+                            "text": " خطأ"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-4",
+            "title": "Modals for Speculation - Past",
+            "cards": [
+                {
+                    "id": "card-22",
+                    "content": [
+                        {
+                            "text": "Modals for Speculation",
+                            "highlight": true
+                        },
+                        {
+                            "text": " - Past"
+                        },
+                        {
+                            "text": "أفعال ناقصة للتخمين - الماضي"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-23",
+                    "content": [
+                        {
+                            "text": "For past speculation, use "
+                        },
+                        {
+                            "text": "modal + have + past participle",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "للتخمين عن الماضي، استخدم "
+                        },
+                        {
+                            "text": "فعل ناقص + have + التصريف الثالث",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-24",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "modal",
+                            "badge": true,
+                            "translation": "فعل ناقص"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "have",
+                            "badge2": true,
+                            "translation": "have"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "past participle",
+                            "badge3": true,
+                            "translation": "التصريف الثالث"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-25",
+                    "content": [
+                        {
+                            "text": "Must have",
+                            "colorize": true
+                        },
+                        {
+                            "text": " = "
+                        },
+                        {
+                            "text": "we're sure it happened",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "Must have",
+                            "colorize": true
+                        },
+                        {
+                            "text": " = "
+                        },
+                        {
+                            "text": "نحن متأكدون أنه حدث",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-26",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "He's not here. He "
+                        },
+                        {
+                            "text": "must have",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "left",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " early"
+                        },
+                        {
+                            "text": "هو ليس هنا. "
+                        },
+                        {
+                            "text": "لا بد أنه",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "غادر",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " مبكراً"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-27",
+                    "content": [
+                        {
+                            "text": "Can't have / Couldn't have",
+                            "colorize": true
+                        },
+                        {
+                            "text": " = "
+                        },
+                        {
+                            "text": "we're sure it didn't happen",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "Can't have / Couldn't have",
+                            "colorize": true
+                        },
+                        {
+                            "text": " = "
+                        },
+                        {
+                            "text": "نحن متأكدون أنه لم يحدث",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-28",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "She "
+                        },
+                        {
+                            "text": "couldn't have",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "seen",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " him. She was at work"
+                        },
+                        {
+                            "text": "لا يمكن أن ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "تكون ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "رأته",
+                            "colorize2": true
+                        },
+                        {
+                            "text": ". كانت في العمل"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-29",
+                    "content": [
+                        {
+                            "text": "May have / Might have / Could have",
+                            "colorize": true
+                        },
+                        {
+                            "text": " = "
+                        },
+                        {
+                            "text": "it possibly happened",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "May have / Might have / Could have",
+                            "colorize": true
+                        },
+                        {
+                            "text": " = "
+                        },
+                        {
+                            "text": "ربما حدث",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-30",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "They "
+                        },
+                        {
+                            "text": "might have",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "forgotten",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " about the meeting"
+                        },
+                        {
+                            "text": "ربما ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "نسوا",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " الاجتماع"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-31",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "He "
+                        },
+                        {
+                            "text": "could have",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "taken",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " the wrong bus"
+                        },
+                        {
+                            "text": "ربما ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "أخذ",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " الحافلة الخطأ"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-5",
+            "title": "Certainty Levels Summary",
+            "cards": [
+                {
+                    "id": "card-32",
+                    "content": [
+                        {
+                            "text": "Certainty Levels",
+                            "highlight": true
+                        },
+                        {
+                            "text": "مستويات اليقين"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-33",
+                    "content": [
+                        {
+                            "text": "100% certain (positive):",
+                            "highlight": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "must / must have",
+                            "colorize": true
+                        },
+                        {
+                            "text": "100% متأكد (إيجابي): "
+                        },
+                        {
+                            "text": "must / must have",
+                            "colorize": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-34",
+                    "content": [
+                        {
+                            "text": "100% certain (negative):",
+                            "highlight": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "can't / couldn't / can't have / couldn't have",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "100% متأكد (سلبي): "
+                        },
+                        {
+                            "text": "can't / couldn't",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-35",
+                    "content": [
+                        {
+                            "text": "50% possible:",
+                            "highlight": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "may / might / could / may have / might have / could have",
+                            "colorize3": true
+                        },
+                        {
+                            "text": "50% ممكن: "
+                        },
+                        {
+                            "text": "may / might / could",
+                            "colorize3": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

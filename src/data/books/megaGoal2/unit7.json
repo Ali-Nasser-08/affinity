@@ -1,0 +1,1815 @@
+{
+    "unit": "Unit 7: Everyone Makes Mistakes",
+    "grammarMCQ": [
+        {
+            "q": "I lost my cell phone. I _____ left it at school.",
+            "opts": [
+                "may have",
+                "must",
+                "should",
+                "will have"
+            ],
+            "ans": "may have"
+        },
+        {
+            "q": "You _____ apologized for your mistake.",
+            "opts": [
+                "should have",
+                "must have",
+                "may have",
+                "could"
+            ],
+            "ans": "should have"
+        },
+        {
+            "q": "The football game _____ start at 1:00, but it was postponed.",
+            "opts": [
+                "was supposed to",
+                "must have",
+                "might have",
+                "could have"
+            ],
+            "ans": "was supposed to"
+        },
+        {
+            "q": "I got lost. I _____ taken a wrong turn.",
+            "opts": [
+                "must have",
+                "should",
+                "may",
+                "will have"
+            ],
+            "ans": "must have"
+        },
+        {
+            "q": "He _____ been a doctor if he hadn't dropped out.",
+            "opts": [
+                "could have",
+                "must have",
+                "should",
+                "will have"
+            ],
+            "ans": "could have"
+        },
+        {
+            "q": "The package _____ been sent a week ago.",
+            "opts": [
+                "should have",
+                "must",
+                "may",
+                "will"
+            ],
+            "ans": "should have"
+        },
+        {
+            "q": "I have a sore throat. I _____ caught your cold.",
+            "opts": [
+                "may have",
+                "must",
+                "should",
+                "will"
+            ],
+            "ans": "may have"
+        },
+        {
+            "q": "You have a big smile. You _____ had a great time.",
+            "opts": [
+                "must have",
+                "may have",
+                "should have",
+                "could"
+            ],
+            "ans": "must have"
+        },
+        {
+            "q": "She was tired. She _____ gone to bed.",
+            "opts": [
+                "may have",
+                "must",
+                "should",
+                "will"
+            ],
+            "ans": "may have"
+        },
+        {
+            "q": "I _____ paid more attention in class.",
+            "opts": [
+                "should have",
+                "must have",
+                "may have",
+                "will"
+            ],
+            "ans": "should have"
+        },
+        {
+            "q": "I _____ ordered that laptop. It was too expensive.",
+            "opts": [
+                "shouldn't have",
+                "mustn't have",
+                "may not have",
+                "won't have"
+            ],
+            "ans": "shouldn't have"
+        },
+        {
+            "q": "You _____ said that. You hurt his feelings.",
+            "opts": [
+                "should not have",
+                "must not have",
+                "may not have",
+                "will not have"
+            ],
+            "ans": "should not have"
+        },
+        {
+            "q": "Where were you? You _____ help me.",
+            "opts": [
+                "were supposed to",
+                "must have",
+                "should have",
+                "may have"
+            ],
+            "ans": "were supposed to"
+        },
+        {
+            "q": "A company rejected _____ patent for _____ telephone.",
+            "opts": [
+                "the/the",
+                "a/a",
+                "the/a",
+                "a/the"
+            ],
+            "ans": "the/the"
+        },
+        {
+            "q": "William Orton was offered _____ patent for _____ invention.",
+            "opts": [
+                "the/an",
+                "a/an",
+                "the/the",
+                "a/a"
+            ],
+            "ans": "the/an"
+        },
+        {
+            "q": "Orton _____ made the worst business mistake.",
+            "opts": [
+                "may have",
+                "must",
+                "should",
+                "will"
+            ],
+            "ans": "may have"
+        },
+        {
+            "q": "Alaska was _____ burden rather than _____ asset.",
+            "opts": [
+                "a/an",
+                "the/the",
+                "a/a",
+                "an/an"
+            ],
+            "ans": "a/an"
+        },
+        {
+            "q": "Alexander Graham Bell invented _____ telephone.",
+            "opts": [
+                "the",
+                "a",
+                "an",
+                "-"
+            ],
+            "ans": "the"
+        },
+        {
+            "q": "Fahd lives on _____ Main Street.",
+            "opts": [
+                "-",
+                "the",
+                "a",
+                "an"
+            ],
+            "ans": "-"
+        },
+        {
+            "q": "He's in _____ Dubai on vacation.",
+            "opts": [
+                "-",
+                "the",
+                "a",
+                "an"
+            ],
+            "ans": "-"
+        },
+        {
+            "q": "How _____ jobs have you had?",
+            "opts": [
+                "many",
+                "much",
+                "few",
+                "little"
+            ],
+            "ans": "many"
+        },
+        {
+            "q": "How _____ gold did they sell?",
+            "opts": [
+                "much",
+                "many",
+                "few",
+                "lot"
+            ],
+            "ans": "much"
+        },
+        {
+            "q": "There is _____ news.",
+            "opts": [
+                "some",
+                "any",
+                "many",
+                "few"
+            ],
+            "ans": "some"
+        },
+        {
+            "q": "There isn't _____ news.",
+            "opts": [
+                "any",
+                "some",
+                "many",
+                "few"
+            ],
+            "ans": "any"
+        },
+        {
+            "q": "Is there _____ news?",
+            "opts": [
+                "any",
+                "some",
+                "many",
+                "few"
+            ],
+            "ans": "any"
+        },
+        {
+            "q": "She has _____ friends.",
+            "opts": [
+                "plenty of",
+                "much",
+                "little",
+                "few"
+            ],
+            "ans": "plenty of"
+        },
+        {
+            "q": "There's _____ money left.",
+            "opts": [
+                "little",
+                "few",
+                "many",
+                "some"
+            ],
+            "ans": "little"
+        },
+        {
+            "q": "He only has _____ friends.",
+            "opts": [
+                "a few",
+                "a little",
+                "much",
+                "any"
+            ],
+            "ans": "a few"
+        },
+        {
+            "q": "She has _____ money.",
+            "opts": [
+                "hardly any",
+                "hardly some",
+                "few",
+                "many"
+            ],
+            "ans": "hardly any"
+        },
+        {
+            "q": "The money _____ been given to the poor.",
+            "opts": [
+                "could have",
+                "could",
+                "can have",
+                "can"
+            ],
+            "ans": "could have"
+        },
+        {
+            "q": "These keys _____ been dropped at the meeting.",
+            "opts": [
+                "must have",
+                "must",
+                "should",
+                "may"
+            ],
+            "ans": "must have"
+        },
+        {
+            "q": "This picture _____ been taken by a professional.",
+            "opts": [
+                "must have",
+                "must",
+                "should",
+                "may"
+            ],
+            "ans": "must have"
+        },
+        {
+            "q": "The accident _____ been caused by a computer error.",
+            "opts": [
+                "may have",
+                "may",
+                "must",
+                "should"
+            ],
+            "ans": "may have"
+        },
+        {
+            "q": "He _____ been arrested for speeding.",
+            "opts": [
+                "could have",
+                "could",
+                "must",
+                "should"
+            ],
+            "ans": "could have"
+        },
+        {
+            "q": "You _____ been given a catalog on the first day.",
+            "opts": [
+                "should have",
+                "should",
+                "must",
+                "may"
+            ],
+            "ans": "should have"
+        },
+        {
+            "q": "The vegetables _____ been eaten by a rabbit.",
+            "opts": [
+                "might have",
+                "might",
+                "must",
+                "should"
+            ],
+            "ans": "might have"
+        },
+        {
+            "q": "The car _____ been fixed by now.",
+            "opts": [
+                "was supposed to have",
+                "was supposed",
+                "must have",
+                "should"
+            ],
+            "ans": "was supposed to have"
+        },
+        {
+            "q": "Fleming _____ thrown the dishes away.",
+            "opts": [
+                "could have",
+                "could",
+                "must have",
+                "should"
+            ],
+            "ans": "could have"
+        },
+        {
+            "q": "Silver _____ considered it a failure.",
+            "opts": [
+                "shouldn't have",
+                "shouldn't",
+                "mustn't have",
+                "may not have"
+            ],
+            "ans": "shouldn't have"
+        },
+        {
+            "q": "The bacteria _____ been dissolved by the mold.",
+            "opts": [
+                "must have",
+                "must",
+                "should have",
+                "may"
+            ],
+            "ans": "must have"
+        },
+        {
+            "q": "Antibiotics _____ saved millions of lives.",
+            "opts": [
+                "may have",
+                "may",
+                "must",
+                "should"
+            ],
+            "ans": "may have"
+        },
+        {
+            "q": "Columbus _____ reached Asia.",
+            "opts": [
+                "didn't",
+                "wasn't",
+                "hasn't",
+                "hadn't"
+            ],
+            "ans": "didn't"
+        },
+        {
+            "q": "The Titanic _____ five warnings.",
+            "opts": [
+                "had received",
+                "has received",
+                "received",
+                "receives"
+            ],
+            "ans": "had received"
+        },
+        {
+            "q": "The operator _____ give the message to the captain.",
+            "opts": [
+                "was supposed to",
+                "supposed to",
+                "must",
+                "should"
+            ],
+            "ans": "was supposed to"
+        },
+        {
+            "q": "Russia _____ investigated the resources.",
+            "opts": [
+                "should have",
+                "should",
+                "must have",
+                "may"
+            ],
+            "ans": "should have"
+        },
+        {
+            "q": "Coca-Cola _____ using the formula for 100 years.",
+            "opts": [
+                "had been",
+                "has been",
+                "was",
+                "is"
+            ],
+            "ans": "had been"
+        },
+        {
+            "q": "The executives _____ been surprised.",
+            "opts": [
+                "must have",
+                "must",
+                "should have",
+                "may"
+            ],
+            "ans": "must have"
+        },
+        {
+            "q": "We _____ met up if we had known.",
+            "opts": [
+                "could have",
+                "could",
+                "must have",
+                "should"
+            ],
+            "ans": "could have"
+        },
+        {
+            "q": "She _____ study biology, but chose medicine.",
+            "opts": [
+                "was going to",
+                "will",
+                "would",
+                "must"
+            ],
+            "ans": "was going to"
+        },
+        {
+            "q": "We _____ gone to the beach yesterday.",
+            "opts": [
+                "should have",
+                "should",
+                "must have",
+                "may"
+            ],
+            "ans": "should have"
+        }
+    ],
+    "fillInBlank": [
+        {
+            "s": "William Orton _____ have made one of the best deals in history.",
+            "a": "could"
+        },
+        {
+            "s": "The Titanic tragedy _____ never have happened.",
+            "a": "might"
+        },
+        {
+            "s": "Russia _____ have investigated resources before selling.",
+            "a": "should"
+        },
+        {
+            "s": "Coca-Cola executives _____ have been surprised.",
+            "a": "must"
+        },
+        {
+            "s": "Fleming _____ have thrown the dishes away.",
+            "a": "could"
+        },
+        {
+            "s": "Silver _____ have considered his adhesive a failure.",
+            "a": "shouldn't"
+        },
+        {
+            "s": "Alexander Graham Bell invented _____ telephone.",
+            "a": "the"
+        },
+        {
+            "s": "She has plenty of _____ friends.",
+            "a": "-"
+        },
+        {
+            "s": "There isn't _____ news.",
+            "a": "any"
+        },
+        {
+            "s": "There is _____ news.",
+            "a": "some"
+        },
+        {
+            "s": "How _____ jobs have you had?",
+            "a": "many"
+        },
+        {
+            "s": "How _____ gold did they sell?",
+            "a": "much"
+        },
+        {
+            "s": "He only has _____ few friends.",
+            "a": "a"
+        },
+        {
+            "s": "There's _____ money left.",
+            "a": "little"
+        },
+        {
+            "s": "She has hardly _____ money.",
+            "a": "any"
+        },
+        {
+            "s": "I _____ have left my phone at school.",
+            "a": "may"
+        },
+        {
+            "s": "You _____ have apologized for your mistake.",
+            "a": "should"
+        },
+        {
+            "s": "I _____ have taken a wrong turn.",
+            "a": "must"
+        },
+        {
+            "s": "The game _____ supposed to start at 1:00.",
+            "a": "was"
+        },
+        {
+            "s": "I _____ have paid more attention in class.",
+            "a": "should"
+        },
+        {
+            "s": "I shouldn't _____ ordered that laptop.",
+            "a": "have"
+        },
+        {
+            "s": "You _____ not have said that.",
+            "a": "should"
+        },
+        {
+            "s": "The package should _____ been sent.",
+            "a": "have"
+        },
+        {
+            "s": "The money could have _____ given to the poor.",
+            "a": "been"
+        },
+        {
+            "s": "These keys must have been _____ at the meeting.",
+            "a": "dropped"
+        },
+        {
+            "s": "Hot chocolate may have been _____ 2,600 years ago.",
+            "a": "drunk"
+        },
+        {
+            "s": "This picture must have been _____ by a professional.",
+            "a": "taken"
+        },
+        {
+            "s": "The accident may have been _____ by an error.",
+            "a": "caused"
+        },
+        {
+            "s": "He could have been _____ for speeding.",
+            "a": "arrested"
+        },
+        {
+            "s": "You should have been _____ a catalog.",
+            "a": "given"
+        },
+        {
+            "s": "The vegetables might have been _____ by a rabbit.",
+            "a": "eaten"
+        },
+        {
+            "s": "The car was supposed to have been _____.",
+            "a": "fixed"
+        },
+        {
+            "s": "In 1876, _____ most important technology was the telegraph.",
+            "a": "the"
+        },
+        {
+            "s": "Bell kept _____ patent.",
+            "a": "the"
+        },
+        {
+            "s": "Orton was offered _____ patent for an invention.",
+            "a": "the"
+        },
+        {
+            "s": "Alaska was considered _____ burden.",
+            "a": "a"
+        },
+        {
+            "s": "It was _____ asset to Russia.",
+            "a": "an"
+        },
+        {
+            "s": "Fahd is my _____. (brother)",
+            "a": "brother"
+        },
+        {
+            "s": "He lives on Main _____.",
+            "a": "Street"
+        },
+        {
+            "s": "He's in _____ on vacation. (Dubai)",
+            "a": "Dubai"
+        },
+        {
+            "s": "Coke was launched in _____ 1880s.",
+            "a": "the"
+        },
+        {
+            "s": "It had been _____ most popular soft drink.",
+            "a": "the"
+        },
+        {
+            "s": "They created _____ new formula.",
+            "a": "a"
+        },
+        {
+            "s": "It was _____ enormous marketing mistake.",
+            "a": "an"
+        },
+        {
+            "s": "Fleming was _____ Scottish scientist.",
+            "a": "a"
+        },
+        {
+            "s": "He discovered _____ first antibiotic.",
+            "a": "the"
+        },
+        {
+            "s": "De Mestral was _____ Swiss inventor.",
+            "a": "a"
+        },
+        {
+            "s": "Velcro has become _____. (everywhere)",
+            "a": "ubiquitous"
+        },
+        {
+            "s": "Post-it Notes became _____ essential product.",
+            "a": "an"
+        },
+        {
+            "s": "Mistakes are not _____ a bad thing.",
+            "a": "always"
+        }
+    ],
+    "oddOneOut": [
+        {
+            "w": [
+                "boost",
+                "raise",
+                "increase",
+                "damage"
+            ],
+            "a": "damage"
+        },
+        {
+            "w": [
+                "flop",
+                "failure",
+                "success",
+                "disaster"
+            ],
+            "a": "success"
+        },
+        {
+            "w": [
+                "novelty",
+                "new",
+                "innovation",
+                "tradition"
+            ],
+            "a": "tradition"
+        },
+        {
+            "w": [
+                "endure",
+                "suffer",
+                "enjoy",
+                "tolerate"
+            ],
+            "a": "enjoy"
+        },
+        {
+            "w": [
+                "adhesive",
+                "glue",
+                "sticky",
+                "slippery"
+            ],
+            "a": "slippery"
+        },
+        {
+            "w": [
+                "ubiquitous",
+                "everywhere",
+                "common",
+                "rare"
+            ],
+            "a": "rare"
+        },
+        {
+            "w": [
+                "absent-minded",
+                "forgetful",
+                "distracted",
+                "focused"
+            ],
+            "a": "focused"
+        },
+        {
+            "w": [
+                "discarded",
+                "thrown",
+                "kept",
+                "disposed"
+            ],
+            "a": "kept"
+        },
+        {
+            "w": [
+                "outraged",
+                "angry",
+                "furious",
+                "calm"
+            ],
+            "a": "calm"
+        },
+        {
+            "w": [
+                "tampered",
+                "interfered",
+                "protected",
+                "meddled"
+            ],
+            "a": "protected"
+        },
+        {
+            "w": [
+                "asset",
+                "benefit",
+                "advantage",
+                "burden"
+            ],
+            "a": "burden"
+        },
+        {
+            "w": [
+                "commercial",
+                "business",
+                "trade",
+                "personal"
+            ],
+            "a": "personal"
+        },
+        {
+            "w": [
+                "patent",
+                "copyright",
+                "trademark",
+                "copy"
+            ],
+            "a": "copy"
+        },
+        {
+            "w": [
+                "negotiations",
+                "discussions",
+                "talks",
+                "silence"
+            ],
+            "a": "silence"
+        },
+        {
+            "w": [
+                "brilliant",
+                "genius",
+                "smart",
+                "stupid"
+            ],
+            "a": "stupid"
+        },
+        {
+            "w": [
+                "messy",
+                "untidy",
+                "disorganized",
+                "neat"
+            ],
+            "a": "neat"
+        },
+        {
+            "w": [
+                "dissolved",
+                "melted",
+                "disappeared",
+                "solidified"
+            ],
+            "a": "solidified"
+        },
+        {
+            "w": [
+                "fortunate",
+                "lucky",
+                "blessed",
+                "unlucky"
+            ],
+            "a": "unlucky"
+        },
+        {
+            "w": [
+                "convenient",
+                "handy",
+                "useful",
+                "awkward"
+            ],
+            "a": "awkward"
+        },
+        {
+            "w": [
+                "essential",
+                "necessary",
+                "vital",
+                "optional"
+            ],
+            "a": "optional"
+        },
+        {
+            "w": [
+                "curious",
+                "interested",
+                "inquisitive",
+                "indifferent"
+            ],
+            "a": "indifferent"
+        },
+        {
+            "w": [
+                "inspected",
+                "examined",
+                "studied",
+                "ignored"
+            ],
+            "a": "ignored"
+        },
+        {
+            "w": [
+                "countless",
+                "many",
+                "numerous",
+                "few"
+            ],
+            "a": "few"
+        },
+        {
+            "w": [
+                "fastener",
+                "clasp",
+                "buckle",
+                "opener"
+            ],
+            "a": "opener"
+        },
+        {
+            "w": [
+                "weak",
+                "feeble",
+                "fragile",
+                "strong"
+            ],
+            "a": "strong"
+        },
+        {
+            "w": [
+                "scraps",
+                "pieces",
+                "bits",
+                "whole"
+            ],
+            "a": "whole"
+        },
+        {
+            "w": [
+                "damage",
+                "harm",
+                "hurt",
+                "repair"
+            ],
+            "a": "repair"
+        },
+        {
+            "w": [
+                "reveal",
+                "show",
+                "expose",
+                "hide"
+            ],
+            "a": "hide"
+        },
+        {
+            "w": [
+                "extraordinary",
+                "remarkable",
+                "amazing",
+                "ordinary"
+            ],
+            "a": "ordinary"
+        },
+        {
+            "w": [
+                "tragedy",
+                "disaster",
+                "catastrophe",
+                "triumph"
+            ],
+            "a": "triumph"
+        },
+        {
+            "w": [
+                "incredibly",
+                "amazingly",
+                "astonishingly",
+                "normally"
+            ],
+            "a": "normally"
+        },
+        {
+            "w": [
+                "avoided",
+                "prevented",
+                "stopped",
+                "caused"
+            ],
+            "a": "caused"
+        },
+        {
+            "w": [
+                "remote",
+                "distant",
+                "faraway",
+                "nearby"
+            ],
+            "a": "nearby"
+        },
+        {
+            "w": [
+                "desolate",
+                "barren",
+                "empty",
+                "fertile"
+            ],
+            "a": "fertile"
+        },
+        {
+            "w": [
+                "criticism",
+                "disapproval",
+                "condemnation",
+                "praise"
+            ],
+            "a": "praise"
+        },
+        {
+            "w": [
+                "slipping",
+                "declining",
+                "falling",
+                "rising"
+            ],
+            "a": "rising"
+        },
+        {
+            "w": [
+                "improved",
+                "better",
+                "enhanced",
+                "worse"
+            ],
+            "a": "worse"
+        },
+        {
+            "w": [
+                "preferred",
+                "favored",
+                "liked",
+                "disliked"
+            ],
+            "a": "disliked"
+        },
+        {
+            "w": [
+                "enormous",
+                "huge",
+                "massive",
+                "tiny"
+            ],
+            "a": "tiny"
+        },
+        {
+            "w": [
+                "regret",
+                "remorse",
+                "sorrow",
+                "joy"
+            ],
+            "a": "joy"
+        },
+        {
+            "w": [
+                "embarrassment",
+                "shame",
+                "humiliation",
+                "pride"
+            ],
+            "a": "pride"
+        },
+        {
+            "w": [
+                "failure",
+                "defeat",
+                "loss",
+                "victory"
+            ],
+            "a": "victory"
+        },
+        {
+            "w": [
+                "bacteria",
+                "germs",
+                "microbes",
+                "vitamins"
+            ],
+            "a": "vitamins"
+        },
+        {
+            "w": [
+                "medication",
+                "medicine",
+                "drug",
+                "poison"
+            ],
+            "a": "poison"
+        },
+        {
+            "w": [
+                "life-saving",
+                "beneficial",
+                "helpful",
+                "harmful"
+            ],
+            "a": "harmful"
+        },
+        {
+            "w": [
+                "dramatic",
+                "significant",
+                "major",
+                "minor"
+            ],
+            "a": "minor"
+        },
+        {
+            "w": [
+                "convenient",
+                "practical",
+                "handy",
+                "impractical"
+            ],
+            "a": "impractical"
+        },
+        {
+            "w": [
+                "granted",
+                "given",
+                "assumed",
+                "questioned"
+            ],
+            "a": "questioned"
+        },
+        {
+            "w": [
+                "cling",
+                "stick",
+                "attach",
+                "detach"
+            ],
+            "a": "detach"
+        },
+        {
+            "w": [
+                "spread",
+                "distribute",
+                "scatter",
+                "collect"
+            ],
+            "a": "collect"
+        }
+    ],
+    "translateToArabic": [
+        {
+            "en": "Don't fear failure so much that you refuse to try new things.",
+            "ar": "لا تخف من الفشل كثيراً لدرجة أن ترفض تجربة أشياء جديدة."
+        },
+        {
+            "en": "Everyone makes mistakes.",
+            "ar": "الجميع يرتكبون الأخطاء."
+        },
+        {
+            "en": "The saddest summary of a life contains: could have, might have, should have.",
+            "ar": "أحزن ملخص للحياة يحتوي على: كان من الممكن، ربما كان، كان يجب."
+        },
+        {
+            "en": "William Orton may have made the worst business mistake in history.",
+            "ar": "ربما ارتكب ويليام أورتون أسوأ خطأ تجاري في التاريخ."
+        },
+        {
+            "en": "The Titanic tragedy could have easily been avoided.",
+            "ar": "كان من الممكن تجنب مأساة تيتانيك بسهولة."
+        },
+        {
+            "en": "Russia should have investigated potential resources before selling Alaska.",
+            "ar": "كان يجب على روسيا التحقيق في الموارد المحتملة قبل بيع ألاسكا."
+        },
+        {
+            "en": "Mistakes and accidents are not always a bad thing.",
+            "ar": "الأخطاء والحوادث ليست دائماً شيئاً سيئاً."
+        },
+        {
+            "en": "Fleming was brilliant, but he was messy and absent-minded.",
+            "ar": "كان فليمنج عبقرياً، لكنه كان فوضوياً وشارد الذهن."
+        },
+        {
+            "en": "The discovery of penicillin led to a life-saving drug.",
+            "ar": "أدى اكتشاف البنسلين إلى دواء منقذ للحياة."
+        },
+        {
+            "en": "Velcro has since become ubiquitous.",
+            "ar": "أصبح الفيلكرو منذ ذلك الحين موجوداً في كل مكان."
+        },
+        {
+            "en": "Post-it Notes became an essential office product.",
+            "ar": "أصبحت ملاحظات بوست-إت منتجاً مكتبياً أساسياً."
+        },
+        {
+            "en": "Not all mistakes should automatically be discarded.",
+            "ar": "ليس كل الأخطاء يجب التخلص منها تلقائياً."
+        },
+        {
+            "en": "Accidents may reveal the solutions to a problem.",
+            "ar": "قد تكشف الحوادث عن حلول لمشكلة ما."
+        },
+        {
+            "en": "In 1876, the most important communications technology was the telegraph.",
+            "ar": "في عام ١٨٧٦، كانت أهم تقنية اتصالات هي التلغراف."
+        },
+        {
+            "en": "Western Union was in control of this technology.",
+            "ar": "كانت ويسترن يونيون تسيطر على هذه التقنية."
+        },
+        {
+            "en": "Bell was offered the patent for $100,000.",
+            "ar": "عُرضت على بيل براءة الاختراع مقابل ١٠٠ ألف دولار."
+        },
+        {
+            "en": "The company saw no commercial possibilities in the telephone.",
+            "ar": "لم تر الشركة أي إمكانيات تجارية في الهاتف."
+        },
+        {
+            "en": "Bell created his own telephone company.",
+            "ar": "أنشأ بيل شركة الهاتف الخاصة به."
+        },
+        {
+            "en": "The patent became the most valuable in history.",
+            "ar": "أصبحت براءة الاختراع الأكثر قيمة في التاريخ."
+        },
+        {
+            "en": "Orton could have made one of the best deals.",
+            "ar": "كان من الممكن أن يعقد أورتون واحدة من أفضل الصفقات."
+        },
+        {
+            "en": "The Titanic hit an iceberg and sank.",
+            "ar": "اصطدمت تيتانيك بجبل جليدي وغرقت."
+        },
+        {
+            "en": "This resulted in the deaths of 1,517 people.",
+            "ar": "أدى هذا إلى وفاة ١٥١٧ شخصاً."
+        },
+        {
+            "en": "The ship had received five warnings about ice.",
+            "ar": "كانت السفينة قد تلقت خمسة تحذيرات عن الجليد."
+        },
+        {
+            "en": "The captain increased the speed of the ship.",
+            "ar": "زاد القبطان من سرعة السفينة."
+        },
+        {
+            "en": "The operator put the message aside.",
+            "ar": "وضع المشغل الرسالة جانباً."
+        },
+        {
+            "en": "It never reached the captain.",
+            "ar": "لم تصل أبداً إلى القبطان."
+        },
+        {
+            "en": "Alaska had been considered a burden by Russia.",
+            "ar": "كانت ألاسكا تُعتبر عبئاً من قبل روسيا."
+        },
+        {
+            "en": "It was remote, indefensible, and of little benefit.",
+            "ar": "كانت نائية وغير قابلة للدفاع عنها وذات فائدة قليلة."
+        },
+        {
+            "en": "The agreement was signed in March 1867.",
+            "ar": "تم توقيع الاتفاقية في مارس ١٨٦٧."
+        },
+        {
+            "en": "Alaska was transferred for $7.2 million.",
+            "ar": "نُقلت ألاسكا مقابل ٧.٢ مليون دولار."
+        },
+        {
+            "en": "The purchase was greeted with criticism.",
+            "ar": "قوبل الشراء بالانتقادات."
+        },
+        {
+            "en": "Alaska was referred to as Seward's Folly.",
+            "ar": "أُشير إلى ألاسكا باسم حماقة سيوارد."
+        },
+        {
+            "en": "Attitudes must have changed after the discovery of gold.",
+            "ar": "لا بد أن المواقف تغيرت بعد اكتشاف الذهب."
+        },
+        {
+            "en": "The price was about 1.7 cents per acre.",
+            "ar": "كان السعر حوالي ١.٧ سنت للفدان."
+        },
+        {
+            "en": "Coca-Cola was launched in the 1880s.",
+            "ar": "أُطلقت كوكاكولا في ثمانينيات القرن التاسع عشر."
+        },
+        {
+            "en": "By 1980, it had been the most popular soft drink.",
+            "ar": "بحلول عام ١٩٨٠، كانت المشروب الغازي الأكثر شعبية."
+        },
+        {
+            "en": "Sales figures started slipping.",
+            "ar": "بدأت أرقام المبيعات في الانخفاض."
+        },
+        {
+            "en": "They created a new, improved formula.",
+            "ar": "ابتكروا صيغة جديدة ومحسّنة."
+        },
+        {
+            "en": "The formula was tested in 200,000 taste tests.",
+            "ar": "تم اختبار الصيغة في ٢٠٠ ألف اختبار تذوق."
+        },
+        {
+            "en": "Most people preferred the new flavor.",
+            "ar": "فضل معظم الناس النكهة الجديدة."
+        },
+        {
+            "en": "They decided to stop producing the original formula.",
+            "ar": "قرروا التوقف عن إنتاج الصيغة الأصلية."
+        },
+        {
+            "en": "This was an enormous marketing mistake.",
+            "ar": "كان هذا خطأً تسويقياً هائلاً."
+        },
+        {
+            "en": "People were outraged.",
+            "ar": "كان الناس غاضبين."
+        },
+        {
+            "en": "New Coke was a flop.",
+            "ar": "كانت كوكاكولا الجديدة فشلاً ذريعاً."
+        },
+        {
+            "en": "They had to bring back the original formula.",
+            "ar": "اضطروا لإعادة الصيغة الأصلية."
+        },
+        {
+            "en": "Antibiotics are used to kill bacteria that cause disease.",
+            "ar": "تُستخدم المضادات الحيوية لقتل البكتيريا المسببة للأمراض."
+        },
+        {
+            "en": "Antibiotics may have saved millions of lives.",
+            "ar": "ربما أنقذت المضادات الحيوية ملايين الأرواح."
+        },
+        {
+            "en": "Fleming was researching staphylococcus bacteria.",
+            "ar": "كان فليمنج يبحث في بكتيريا المكورات العنقودية."
+        },
+        {
+            "en": "He left the bacteria in the dishes.",
+            "ar": "ترك البكتيريا في الأطباق."
+        },
+        {
+            "en": "Mold had grown in the dishes while he was gone.",
+            "ar": "نما العفن في الأطباق أثناء غيابه."
+        }
+    ],
+    "translateToEnglish": [
+        {
+            "ar": "الخطأ: شركة رفضت براءة اختراع الهاتف",
+            "en": "Mistake: A company rejected the patent for the telephone."
+        },
+        {
+            "ar": "كان من الممكن تجنب كارثة تيتانيك",
+            "en": "The Titanic tragedy could have been avoided."
+        },
+        {
+            "ar": "باعت روسيا ذهب ألاسكا للولايات المتحدة",
+            "en": "Russia sold Alaskan gold to the U.S."
+        },
+        {
+            "ar": "عبثت شركة كوكاكولا بصيغتها الناجحة",
+            "en": "Coca-Cola tampered with their successful formula."
+        },
+        {
+            "ar": "اكتشاف البنسلين كان بالصدفة",
+            "en": "The discovery of penicillin was by accident."
+        },
+        {
+            "ar": "كان فليمنج عالماً رائعاً لكنه فوضوي وشارد الذهن",
+            "en": "Fleming was a brilliant scientist but he was messy and absent-minded."
+        },
+        {
+            "ar": "فكرة الفيلكرو جاءت من الطبيعة",
+            "en": "The idea for Velcro came from nature."
+        },
+        {
+            "ar": "ملاحظات بوست-إت لها مادة لاصقة ضعيفة",
+            "en": "Post-it Notes have a weak adhesive."
+        },
+        {
+            "ar": "يجب أن ننظر عن كثب إلى أخطائنا",
+            "en": "We should take a closer look at our mistakes."
+        },
+        {
+            "ar": "قد تكشف الأخطاء عن حلول لمشكلة ما",
+            "en": "Mistakes may reveal the solutions to a problem."
+        },
+        {
+            "ar": "في عام ١٨٧٦، كانت أهم تقنية اتصالات هي التلغراف",
+            "en": "In 1876, the most important communications technology was the telegraph."
+        },
+        {
+            "ar": "عرض على بيل براءة الاختراع مقابل ١٠٠ ألف دولار",
+            "en": "Bell was offered the patent for $100,000."
+        },
+        {
+            "ar": "لم تر الشركة أي إمكانيات تجارية للهاتف",
+            "en": "The company saw no commercial possibilities in the telephone."
+        },
+        {
+            "ar": "احتفظ بيل ببراءة الاختراع وأنشأ شركته الخاصة",
+            "en": "Bell kept the patent and created his own company."
+        },
+        {
+            "ar": "أصبحت براءة الاختراع الأكثر قيمة في التاريخ",
+            "en": "The patent became the most valuable in history."
+        },
+        {
+            "ar": "اصطدمت تيتانيك بجبل جليدي وغرقت",
+            "en": "The Titanic hit an iceberg and sank."
+        },
+        {
+            "ar": "أدى ذلك إلى وفاة ١٥١٧ شخصاً",
+            "en": "This resulted in the deaths of 1,517 people."
+        },
+        {
+            "ar": "تلقت السفينة خمسة تحذيرات عن الجليد الكثيف",
+            "en": "The ship received five warnings about heavy ice."
+        },
+        {
+            "ar": "زاد القبطان من سرعة السفينة",
+            "en": "The captain increased the speed of the ship."
+        },
+        {
+            "ar": "وضع المشغل الرسالة جانباً",
+            "en": "The operator put the message aside."
+        },
+        {
+            "ar": "لم تصل الرسالة إلى القبطان أبداً",
+            "en": "The message never reached the captain."
+        },
+        {
+            "ar": "اعتبرت ألاسكا عبئاً من قبل روسيا",
+            "en": "Alaska was considered a burden by Russia."
+        },
+        {
+            "ar": "كانت نائية وغير قابلة للدفاع عنها",
+            "en": "It was remote and indefensible."
+        },
+        {
+            "ar": "تم توقيع الاتفاقية في مارس ١٨٦٧",
+            "en": "The agreement was signed in March 1867."
+        },
+        {
+            "ar": "نُقلت ألاسكا مقابل ٧.٢ مليون دولار",
+            "en": "Alaska was transferred for $7.2 million."
+        },
+        {
+            "ar": "قوبل الشراء بالانتقادات",
+            "en": "The purchase was greeted with criticism."
+        },
+        {
+            "ar": "أشير إلى ألاسكا باسم حماقة سيوارد",
+            "en": "Alaska was referred to as Seward's Folly."
+        },
+        {
+            "ar": "لا بد أن المواقف تغيرت بعد اكتشاف الذهب",
+            "en": "Attitudes must have changed after the discovery of gold."
+        },
+        {
+            "ar": "كان السعر حوالي ١.٧ سنت للفدان",
+            "en": "The price was about 1.7 cents per acre."
+        },
+        {
+            "ar": "أُطلقت كوكاكولا في ثمانينيات القرن التاسع عشر",
+            "en": "Coca-Cola was launched in the 1880s."
+        },
+        {
+            "ar": "بحلول عام ١٩٨٠، كانت المشروب الغازي الأكثر شعبية",
+            "en": "By 1980, it had been the most popular soft drink."
+        },
+        {
+            "ar": "بدأت أرقام المبيعات في الانخفاض",
+            "en": "Sales figures started slipping."
+        },
+        {
+            "ar": "ابتكروا صيغة جديدة ومحسّنة",
+            "en": "They created a new, improved formula."
+        },
+        {
+            "ar": "تم اختبار الصيغة في ٢٠٠ ألف اختبار تذوق",
+            "en": "The formula was tested in 200,000 taste tests."
+        },
+        {
+            "ar": "فضل معظم الناس النكهة الجديدة",
+            "en": "Most people preferred the new flavor."
+        },
+        {
+            "ar": "قرروا التوقف عن إنتاج الصيغة الأصلية",
+            "en": "They decided to stop producing the original formula."
+        },
+        {
+            "ar": "كان هذا خطأً تسويقياً هائلاً",
+            "en": "This was an enormous marketing mistake."
+        },
+        {
+            "ar": "كان الناس غاضبين",
+            "en": "People were outraged."
+        },
+        {
+            "ar": "كانت كوكاكولا الجديدة فشلاً ذريعاً",
+            "en": "New Coke was a flop."
+        },
+        {
+            "ar": "اضطروا لإعادة الصيغة الأصلية",
+            "en": "They had to bring back the original formula."
+        },
+        {
+            "ar": "تُستخدم المضادات الحيوية لقتل البكتيريا المسببة للأمراض",
+            "en": "Antibiotics are used to kill bacteria that cause disease."
+        },
+        {
+            "ar": "ربما أنقذت المضادات الحيوية ملايين الأرواح",
+            "en": "Antibiotics may have saved millions of lives."
+        },
+        {
+            "ar": "كان فليمنج يبحث في بكتيريا المكورات العنقودية",
+            "en": "Fleming was researching staphylococcus bacteria."
+        },
+        {
+            "ar": "ترك البكتيريا في الأطباق",
+            "en": "He left the bacteria in the dishes."
+        },
+        {
+            "ar": "نما العفن في الأطباق أثناء غيابه",
+            "en": "Mold had grown in the dishes while he was gone."
+        },
+        {
+            "ar": "كان من الممكن أن يرمي الأطباق",
+            "en": "He could have thrown the dishes away."
+        },
+        {
+            "ar": "نظر إليها تحت المجهر",
+            "en": "He looked at them under a microscope."
+        },
+        {
+            "ar": "وجد أن المنطقة حول العفن خالية من البكتيريا",
+            "en": "He found that the area around the mold was free of bacteria."
+        },
+        {
+            "ar": "أدرك أن البكتيريا قد ذابت بواسطة العفن",
+            "en": "He realized that the bacteria had been dissolved by the mold."
+        },
+        {
+            "ar": "أدت الأطباق القذرة إلى اكتشاف البنسلين",
+            "en": "The dirty dishes led to the discovery of penicillin."
+        }
+    ],
+    "vocabulary": [
+        {
+            "w": "boost",
+            "d": "to raise or increase",
+            "ex": "They tried to boost sales."
+        },
+        {
+            "w": "endure",
+            "d": "to put up with, tolerate",
+            "ex": "How do we endure bad situations?"
+        },
+        {
+            "w": "flop",
+            "d": "a failure",
+            "ex": "New Coke was a flop."
+        },
+        {
+            "w": "novelty",
+            "d": "a new thing",
+            "ex": "It is an interesting novelty."
+        },
+        {
+            "w": "outraged",
+            "d": "very angry",
+            "ex": "People were outraged."
+        },
+        {
+            "w": "tampered",
+            "d": "interfered with",
+            "ex": "Coca-Cola tampered with their formula."
+        },
+        {
+            "w": "absent-minded",
+            "d": "forgetful, distracted",
+            "ex": "Fleming was absent-minded."
+        },
+        {
+            "w": "adhesive",
+            "d": "material that sticks things together",
+            "ex": "Silver created a new adhesive."
+        },
+        {
+            "w": "automatically",
+            "d": "done without thought",
+            "ex": "Not all mistakes should automatically be discarded."
+        },
+        {
+            "w": "damage",
+            "d": "harm",
+            "ex": "The scraps didn't damage the book."
+        },
+        {
+            "w": "discarded",
+            "d": "thrown away",
+            "ex": "Mistakes shouldn't be discarded."
+        },
+        {
+            "w": "ubiquitous",
+            "d": "found everywhere",
+            "ex": "Velcro has become ubiquitous."
+        },
+        {
+            "w": "asset",
+            "d": "something valuable",
+            "ex": "Alaska was an asset."
+        },
+        {
+            "w": "patent",
+            "d": "exclusive right to an invention",
+            "ex": "Bell kept the patent."
+        },
+        {
+            "w": "commercial",
+            "d": "related to business",
+            "ex": "No commercial possibilities."
+        },
+        {
+            "w": "negotiations",
+            "d": "discussions to reach agreement",
+            "ex": "Seward began negotiations."
+        },
+        {
+            "w": "burden",
+            "d": "something difficult to carry",
+            "ex": "Alaska was a burden."
+        },
+        {
+            "w": "remote",
+            "d": "far away",
+            "ex": "Alaska was remote."
+        },
+        {
+            "w": "indefensible",
+            "d": "cannot be defended",
+            "ex": "It was indefensible."
+        },
+        {
+            "w": "desolate",
+            "d": "empty and barren",
+            "ex": "A desolate land."
+        },
+        {
+            "w": "criticism",
+            "d": "disapproval",
+            "ex": "Greeted with criticism."
+        },
+        {
+            "w": "drastically",
+            "d": "severely, extremely",
+            "ex": "Attitudes changed drastically."
+        },
+        {
+            "w": "slipping",
+            "d": "declining, falling",
+            "ex": "Sales figures were slipping."
+        },
+        {
+            "w": "formula",
+            "d": "recipe or method",
+            "ex": "They created a new formula."
+        },
+        {
+            "w": "enormous",
+            "d": "very large",
+            "ex": "An enormous mistake."
+        },
+        {
+            "w": "marketing",
+            "d": "promoting products",
+            "ex": "A marketing mistake."
+        },
+        {
+            "w": "instinct",
+            "d": "natural tendency",
+            "ex": "Our first instinct."
+        },
+        {
+            "w": "regret",
+            "d": "feel sorry about",
+            "ex": "Feel regret."
+        },
+        {
+            "w": "embarrassment",
+            "d": "feeling ashamed",
+            "ex": "Feel embarrassment."
+        },
+        {
+            "w": "failure",
+            "d": "lack of success",
+            "ex": "Our failure."
+        },
+        {
+            "w": "extraordinary",
+            "d": "very unusual or remarkable",
+            "ex": "Extraordinary ideas."
+        },
+        {
+            "w": "antibiotics",
+            "d": "medicine that kills bacteria",
+            "ex": "Discovery of antibiotics."
+        },
+        {
+            "w": "bacteria",
+            "d": "tiny organisms",
+            "ex": "Kill bacteria."
+        },
+        {
+            "w": "disease",
+            "d": "illness",
+            "ex": "Cause disease."
+        },
+        {
+            "w": "brilliant",
+            "d": "very smart",
+            "ex": "Fleming was brilliant."
+        },
+        {
+            "w": "messy",
+            "d": "untidy, disorganized",
+            "ex": "He was messy."
+        },
+        {
+            "w": "laboratory",
+            "d": "place for scientific research",
+            "ex": "Left his laboratory."
+        },
+        {
+            "w": "mold",
+            "d": "fungus that grows",
+            "ex": "Mold had grown."
+        },
+        {
+            "w": "microscope",
+            "d": "device to see tiny things",
+            "ex": "Looked under a microscope."
+        },
+        {
+            "w": "dissolved",
+            "d": "broken down",
+            "ex": "Bacteria were dissolved."
+        },
+        {
+            "w": "penicillin",
+            "d": "first antibiotic",
+            "ex": "Discovery of penicillin."
+        },
+        {
+            "w": "prescriptions",
+            "d": "doctor's orders for medicine",
+            "ex": "80 million prescriptions."
+        },
+        {
+            "w": "dramatic",
+            "d": "striking, significant",
+            "ex": "In dramatic ways."
+        },
+        {
+            "w": "fortunate",
+            "d": "lucky",
+            "ex": "Fortunate accidents."
+        },
+        {
+            "w": "convenient",
+            "d": "easy to use",
+            "ex": "Made life convenient."
+        },
+        {
+            "w": "granted",
+            "d": "given, assumed",
+            "ex": "Take for granted."
+        },
+        {
+            "w": "burrs",
+            "d": "seed-sacs that stick",
+            "ex": "Covered in burrs."
+        },
+        {
+            "w": "cling",
+            "d": "stick to",
+            "ex": "Cling to clothes."
+        },
+        {
+            "w": "curious",
+            "d": "wanting to know",
+            "ex": "Became curious."
+        },
+        {
+            "w": "inspected",
+            "d": "examined closely",
+            "ex": "He inspected the burrs."
+        }
+    ]
+}

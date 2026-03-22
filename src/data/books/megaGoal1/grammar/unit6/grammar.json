@@ -1,0 +1,1446 @@
+{
+  "unit": "Mega Goal 1",
+  "lesson": "Unit 6",
+  "clusters": [
+    {
+      "clusterId": "cluster-1",
+      "title": "Modal Auxiliaries for Advice",
+      "cards": [
+        {
+          "id": "card-1",
+          "content": [
+            {
+              "text": "Modal Auxiliaries for Advice",
+              "highlight": true
+            },
+            {
+              "text": "الأفعال الناقصة للنصيحة"
+            }
+          ]
+        },
+        {
+          "id": "card-2",
+          "content": [
+            {
+              "text": "All these modals express "
+            },
+            {
+              "text": "suggestions and recommendations",
+              "colorize2": true
+            },
+            {
+              "text": " but with "
+            },
+            {
+              "text": "different levels of strength",
+              "colorize2": true
+            },
+            {
+              "text": "كل هذه الأفعال تعبر عن "
+            },
+            {
+              "text": "الاقتراحات والتوصيات",
+              "colorize2": true
+            },
+            {
+              "text": " ولكن بـ"
+            },
+            {
+              "text": "مستويات مختلفة من القوة",
+              "colorize2": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-2",
+      "title": "Should - Forms",
+      "cards": [
+        {
+          "id": "card-3",
+          "content": [
+            {
+              "text": "Should",
+              "highlight": true
+            },
+            {
+              "text": " - Forms"
+            },
+            {
+              "text": "Should - الأشكال"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Affirmative:",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Subject",
+              "badge": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "should",
+              "badge2": true,
+              "translation": "ينبغي"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "base verb",
+              "badge3": true,
+              "translation": "فعل مجرد"
+            }
+          ]
+        },
+        {
+          "id": "card-4b",
+          "type": "example",
+          "content": [
+            {
+              "text": "You ",
+              "colorize": true
+            },
+            {
+              "text": "should",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "rest",
+              "colorize3": true
+            },
+            {
+              "text": " more"
+            },
+            {
+              "text": "يجب أن ",
+              "colorize2": true
+            },
+            {
+              "text": "تستريح",
+              "colorize3": true
+            },
+            {
+              "text": " أكثر"
+            }
+          ]
+        },
+        {
+          "id": "card-5",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Negative:",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Subject",
+              "badge": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "should not / shouldn't",
+              "badge2": true,
+              "translation": "لا ينبغي"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "base verb",
+              "badge3": true,
+              "translation": "فعل مجرد"
+            }
+          ]
+        },
+        {
+          "id": "card-5b",
+          "type": "example",
+          "content": [
+            {
+              "text": "You ",
+              "colorize": true
+            },
+            {
+              "text": "shouldn't",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "skip",
+              "colorize3": true
+            },
+            {
+              "text": " breakfast"
+            },
+            {
+              "text": "لا ينبغي أن ",
+              "colorize2": true
+            },
+            {
+              "text": "تتخطى",
+              "colorize3": true
+            },
+            {
+              "text": " الإفطار"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-3",
+      "title": "Ought To - Forms",
+      "cards": [
+        {
+          "id": "card-6",
+          "content": [
+            {
+              "text": "Ought To",
+              "highlight": true
+            },
+            {
+              "text": " - Forms"
+            },
+            {
+              "text": "Ought To - الأشكال"
+            }
+          ]
+        },
+        {
+          "id": "card-7",
+          "content": [
+            {
+              "text": "Ought to",
+              "colorize": true
+            },
+            {
+              "text": " is "
+            },
+            {
+              "text": "more forceful",
+              "colorize2": true
+            },
+            {
+              "text": " than should"
+            },
+            {
+              "text": "Ought to",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "أقوى",
+              "colorize2": true
+            },
+            {
+              "text": " من should"
+            }
+          ]
+        },
+        {
+          "id": "card-8",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Affirmative:",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Subject",
+              "badge": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "ought to",
+              "badge2": true,
+              "translation": "يجب"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "base verb",
+              "badge3": true,
+              "translation": "فعل مجرد"
+            }
+          ]
+        },
+        {
+          "id": "card-8b",
+          "type": "example",
+          "content": [
+            {
+              "text": "He ",
+              "colorize": true
+            },
+            {
+              "text": "ought to",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "study",
+              "colorize3": true
+            },
+            {
+              "text": " harder"
+            },
+            {
+              "text": "يجب أن ",
+              "colorize2": true
+            },
+            {
+              "text": "يدرس",
+              "colorize3": true
+            },
+            {
+              "text": " بجد أكبر"
+            }
+          ]
+        },
+        {
+          "id": "card-9",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Negative:",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Subject",
+              "badge": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "ought not to",
+              "badge2": true,
+              "translation": "لا يجب"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "base verb",
+              "badge3": true,
+              "translation": "فعل مجرد"
+            }
+          ]
+        },
+        {
+          "id": "card-9b",
+          "type": "example",
+          "content": [
+            {
+              "text": "She ",
+              "colorize": true
+            },
+            {
+              "text": "ought not to",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "waste",
+              "colorize3": true
+            },
+            {
+              "text": " time"
+            },
+            {
+              "text": "لا يجب أن ",
+              "colorize2": true
+            },
+            {
+              "text": "تضيع",
+              "colorize3": true
+            },
+            {
+              "text": " الوقت"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-4",
+      "title": "Might and Could - Forms",
+      "cards": [
+        {
+          "id": "card-10",
+          "content": [
+            {
+              "text": "Might",
+              "highlight": true
+            },
+            {
+              "text": " and ",
+              "highlight": true
+            },
+            {
+              "text": "Could",
+              "highlight": true
+            },
+            {
+              "text": " - Forms"
+            },
+            {
+              "text": "Might و Could - الأشكال"
+            }
+          ]
+        },
+        {
+          "id": "card-11",
+          "content": [
+            {
+              "text": "Might",
+              "colorize": true
+            },
+            {
+              "text": " and "
+            },
+            {
+              "text": "could",
+              "colorize": true
+            },
+            {
+              "text": " are "
+            },
+            {
+              "text": "gentler suggestions",
+              "colorize2": true
+            },
+            {
+              "text": " than should"
+            },
+            {
+              "text": "Might",
+              "colorize": true
+            },
+            {
+              "text": " و"
+            },
+            {
+              "text": "could",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "اقتراحات ألطف",
+              "colorize2": true
+            },
+            {
+              "text": " من should"
+            }
+          ]
+        },
+        {
+          "id": "card-12",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Subject",
+              "badge": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "might/could",
+              "badge2": true,
+              "translation": "ربما/يمكن"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "base verb",
+              "badge3": true,
+              "translation": "فعل مجرد"
+            }
+          ]
+        },
+        {
+          "id": "card-12b",
+          "type": "example",
+          "content": [
+            {
+              "text": "You ",
+              "colorize": true
+            },
+            {
+              "text": "might",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "try",
+              "colorize3": true
+            },
+            {
+              "text": " a different approach"
+            },
+            {
+              "text": "ربما ",
+              "colorize2": true
+            },
+            {
+              "text": "تجرب",
+              "colorize3": true
+            },
+            {
+              "text": " طريقة مختلفة"
+            }
+          ]
+        },
+        {
+          "id": "card-13",
+          "type": "example",
+          "content": [
+            {
+              "text": "You ",
+              "colorize": true
+            },
+            {
+              "text": "could",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "ask",
+              "colorize3": true
+            },
+            {
+              "text": " your teacher for help"
+            },
+            {
+              "text": "يمكن أن ",
+              "colorize2": true
+            },
+            {
+              "text": "تطلب",
+              "colorize3": true
+            },
+            {
+              "text": " المساعدة من معلمك"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-5",
+      "title": "Had Better",
+      "cards": [
+        {
+          "id": "card-14",
+          "content": [
+            {
+              "text": "Had Better",
+              "highlight": true
+            }
+          ]
+        },
+        {
+          "id": "card-15",
+          "content": [
+            {
+              "text": "Had better",
+              "colorize": true
+            },
+            {
+              "text": " gives "
+            },
+            {
+              "text": "strong advice or warnings",
+              "colorize2": true
+            },
+            {
+              "text": ". It's "
+            },
+            {
+              "text": "more forceful",
+              "colorize3": true
+            },
+            {
+              "text": " than should and ought to"
+            },
+            {
+              "text": "Had better",
+              "colorize": true
+            },
+            {
+              "text": " تعطي "
+            },
+            {
+              "text": "نصائح قوية أو تحذيرات",
+              "colorize2": true
+            },
+            {
+              "text": ". إنها "
+            },
+            {
+              "text": "أقوى",
+              "colorize3": true
+            },
+            {
+              "text": " من should و ought to"
+            }
+          ]
+        },
+        {
+          "id": "card-16",
+          "content": [
+            {
+              "text": "Note:",
+              "highlight": true
+            },
+            {
+              "text": " Had can be shortened to "
+            },
+            {
+              "text": "'d",
+              "colorize": true
+            },
+            {
+              "text": "ملاحظة: يمكن اختصار Had إلى "
+            },
+            {
+              "text": "'d",
+              "colorize": true
+            }
+          ]
+        },
+        {
+          "id": "card-17",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Affirmative:",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Subject",
+              "badge": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "'d better / had better",
+              "badge2": true,
+              "translation": "من الأفضل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "base verb",
+              "badge3": true,
+              "translation": "فعل مجرد"
+            }
+          ]
+        },
+        {
+          "id": "card-17b",
+          "type": "example",
+          "content": [
+            {
+              "text": "You ",
+              "colorize": true
+            },
+            {
+              "text": "'d better",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "leave",
+              "colorize3": true
+            },
+            {
+              "text": " now or you'll be late"
+            },
+            {
+              "text": "من الأفضل أن ",
+              "colorize2": true
+            },
+            {
+              "text": "تغادر",
+              "colorize3": true
+            },
+            {
+              "text": " الآن وإلا ستتأخر"
+            }
+          ]
+        },
+        {
+          "id": "card-18",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Negative:",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Subject",
+              "badge": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "'d better not / had better not",
+              "badge2": true,
+              "translation": "من الأفضل ألا"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "base verb",
+              "badge3": true,
+              "translation": "فعل مجرد"
+            }
+          ]
+        },
+        {
+          "id": "card-18b",
+          "type": "example",
+          "content": [
+            {
+              "text": "You ",
+              "colorize": true
+            },
+            {
+              "text": "'d better not",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "forget",
+              "colorize3": true
+            },
+            {
+              "text": " your passport"
+            },
+            {
+              "text": "من الأفضل ألا ",
+              "colorize2": true
+            },
+            {
+              "text": "تنسى",
+              "colorize3": true
+            },
+            {
+              "text": " جواز سفرك"
+            }
+          ]
+        },
+        {
+          "id": "card-19",
+          "type": "example",
+          "content": [
+            {
+              "text": "Q: Should I call the doctor?"
+            },
+            {
+              "text": "س: هل يجب أن أتصل بالطبيب؟"
+            }
+          ]
+        },
+        {
+          "id": "card-20",
+          "type": "example",
+          "content": [
+            {
+              "text": "A: You "
+            },
+            {
+              "text": "'d better",
+              "colorize": true
+            },
+            {
+              "text": " call him right away"
+            },
+            {
+              "text": "ج: من الأفضل أن "
+            },
+            {
+              "text": "تتصل",
+              "colorize": true
+            },
+            {
+              "text": " به على الفور"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-6",
+      "title": "Two-Word Verbs (Verb + Particle)",
+      "cards": [
+        {
+          "id": "card-21",
+          "content": [
+            {
+              "text": "Two-Word Verbs",
+              "highlight": true
+            },
+            {
+              "text": " (Verb + Particle)"
+            },
+            {
+              "text": "الأفعال المكونة من كلمتين"
+            }
+          ]
+        },
+        {
+          "id": "card-22",
+          "content": [
+            {
+              "text": "These combinations often have "
+            },
+            {
+              "text": "meanings different",
+              "colorize2": true
+            },
+            {
+              "text": " from the individual words"
+            },
+            {
+              "text": "هذه التركيبات غالباً لها "
+            },
+            {
+              "text": "معانٍ مختلفة",
+              "colorize2": true
+            },
+            {
+              "text": " عن الكلمات الفردية"
+            }
+          ]
+        },
+        {
+          "id": "card-23",
+          "type": "example",
+          "content": [
+            {
+              "text": "put off",
+              "colorize": true
+            },
+            {
+              "text": " = "
+            },
+            {
+              "text": "postpone",
+              "colorize2": true
+            },
+            {
+              "text": "put off",
+              "colorize": true
+            },
+            {
+              "text": " = "
+            },
+            {
+              "text": "يؤجل",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-24",
+          "type": "example",
+          "content": [
+            {
+              "text": "They "
+            },
+            {
+              "text": "put off",
+              "colorize": true
+            },
+            {
+              "text": " the event until Friday"
+            },
+            {
+              "text": "أجلوا",
+              "colorize": true
+            },
+            {
+              "text": " الحدث حتى يوم الجمعة"
+            }
+          ]
+        },
+        {
+          "id": "card-25",
+          "type": "example",
+          "content": [
+            {
+              "text": "give up",
+              "colorize": true
+            },
+            {
+              "text": " = "
+            },
+            {
+              "text": "quit, stop doing",
+              "colorize2": true
+            },
+            {
+              "text": "give up",
+              "colorize": true
+            },
+            {
+              "text": " = "
+            },
+            {
+              "text": "يتوقف عن",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-26",
+          "type": "example",
+          "content": [
+            {
+              "text": "She "
+            },
+            {
+              "text": "gave up",
+              "colorize": true
+            },
+            {
+              "text": " coffee for health reasons"
+            },
+            {
+              "text": "توقفت عن",
+              "colorize": true
+            },
+            {
+              "text": " القهوة لأسباب صحية"
+            }
+          ]
+        },
+        {
+          "id": "card-27",
+          "type": "example",
+          "content": [
+            {
+              "text": "take up",
+              "colorize": true
+            },
+            {
+              "text": " = "
+            },
+            {
+              "text": "start doing",
+              "colorize2": true
+            },
+            {
+              "text": "take up",
+              "colorize": true
+            },
+            {
+              "text": " = "
+            },
+            {
+              "text": "يبدأ في",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-28",
+          "type": "example",
+          "content": [
+            {
+              "text": "He's going to "
+            },
+            {
+              "text": "take up",
+              "colorize": true
+            },
+            {
+              "text": " swimming"
+            },
+            {
+              "text": "سيبدأ في",
+              "colorize": true
+            },
+            {
+              "text": " السباحة"
+            }
+          ]
+        },
+        {
+          "id": "card-29",
+          "type": "example",
+          "content": [
+            {
+              "text": "throw away",
+              "colorize": true
+            },
+            {
+              "text": " = "
+            },
+            {
+              "text": "discard, get rid of",
+              "colorize2": true
+            },
+            {
+              "text": "throw away",
+              "colorize": true
+            },
+            {
+              "text": " = "
+            },
+            {
+              "text": "يرمي، يتخلص من",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-30",
+          "type": "example",
+          "content": [
+            {
+              "text": "Don't "
+            },
+            {
+              "text": "throw away",
+              "colorize": true
+            },
+            {
+              "text": " those papers"
+            },
+            {
+              "text": "لا "
+            },
+            {
+              "text": "ترمِ",
+              "colorize": true
+            },
+            {
+              "text": " تلك الأوراق"
+            }
+          ]
+        },
+        {
+          "id": "card-31",
+          "type": "example",
+          "content": [
+            {
+              "text": "turn down",
+              "colorize": true
+            },
+            {
+              "text": " = "
+            },
+            {
+              "text": "reject, refuse",
+              "colorize2": true
+            },
+            {
+              "text": "turn down",
+              "colorize": true
+            },
+            {
+              "text": " = "
+            },
+            {
+              "text": "يرفض",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-32",
+          "type": "example",
+          "content": [
+            {
+              "text": "They "
+            },
+            {
+              "text": "turned down",
+              "colorize": true
+            },
+            {
+              "text": " the offer"
+            },
+            {
+              "text": "رفضوا",
+              "colorize": true
+            },
+            {
+              "text": " العرض"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-7",
+      "title": "Three-Word Verbs (Verb + Particle + Preposition)",
+      "cards": [
+        {
+          "id": "card-33",
+          "content": [
+            {
+              "text": "Three-Word Verbs",
+              "highlight": true
+            },
+            {
+              "text": "الأفعال المكونة من ثلاث كلمات"
+            }
+          ]
+        },
+        {
+          "id": "card-34",
+          "type": "example",
+          "content": [
+            {
+              "text": "get along with",
+              "colorize": true
+            },
+            {
+              "text": " = "
+            },
+            {
+              "text": "have a good relationship",
+              "colorize2": true
+            },
+            {
+              "text": "get along with",
+              "colorize": true
+            },
+            {
+              "text": " = "
+            },
+            {
+              "text": "يتعامل بشكل جيد مع",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-35",
+          "type": "example",
+          "content": [
+            {
+              "text": "I "
+            },
+            {
+              "text": "get along with",
+              "colorize": true
+            },
+            {
+              "text": " my neighbors"
+            },
+            {
+              "text": "أتعامل بشكل جيد مع",
+              "colorize": true
+            },
+            {
+              "text": " جيراني"
+            }
+          ]
+        },
+        {
+          "id": "card-36",
+          "type": "example",
+          "content": [
+            {
+              "text": "put up with",
+              "colorize": true
+            },
+            {
+              "text": " = "
+            },
+            {
+              "text": "tolerate, endure",
+              "colorize2": true
+            },
+            {
+              "text": "put up with",
+              "colorize": true
+            },
+            {
+              "text": " = "
+            },
+            {
+              "text": "يتحمل، يصبر على",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-37",
+          "type": "example",
+          "content": [
+            {
+              "text": "It's hard to "
+            },
+            {
+              "text": "put up with",
+              "colorize": true
+            },
+            {
+              "text": " loud noise"
+            },
+            {
+              "text": "من الصعب "
+            },
+            {
+              "text": "تحمل",
+              "colorize": true
+            },
+            {
+              "text": " الضوضاء العالية"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-8",
+      "title": "Word Order with Phrasal Verbs",
+      "cards": [
+        {
+          "id": "card-38",
+          "content": [
+            {
+              "text": "Word Order with Phrasal Verbs",
+              "highlight": true
+            },
+            {
+              "text": "ترتيب الكلمات مع الأفعال العبارية"
+            }
+          ]
+        },
+        {
+          "id": "card-39",
+          "content": [
+            {
+              "text": "Rule 1:",
+              "highlight": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Pronoun objects",
+              "colorize2": true
+            },
+            {
+              "text": " MUST go "
+            },
+            {
+              "text": "between",
+              "colorize3": true
+            },
+            {
+              "text": " the verb and particle"
+            },
+            {
+              "text": "قاعدة 1: "
+            },
+            {
+              "text": "الضمائر",
+              "colorize2": true
+            },
+            {
+              "text": " يجب أن تأتي "
+            },
+            {
+              "text": "بين",
+              "colorize3": true
+            },
+            {
+              "text": " الفعل والجزيء"
+            }
+          ]
+        },
+        {
+          "id": "card-40",
+          "type": "example",
+          "content": [
+            {
+              "text": "✓ I threw "
+            },
+            {
+              "text": "them",
+              "colorize": true
+            },
+            {
+              "text": " away"
+            },
+            {
+              "text": "رميتها"
+            }
+          ]
+        },
+        {
+          "id": "card-41",
+          "type": "example",
+          "content": [
+            {
+              "text": "✗ I threw away them"
+            },
+            {
+              "text": "خطأ"
+            }
+          ]
+        },
+        {
+          "id": "card-42",
+          "content": [
+            {
+              "text": "Rule 2:",
+              "highlight": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Noun objects",
+              "colorize2": true
+            },
+            {
+              "text": " can go "
+            },
+            {
+              "text": "between OR after",
+              "colorize3": true
+            },
+            {
+              "text": " the particle"
+            },
+            {
+              "text": "قاعدة 2: "
+            },
+            {
+              "text": "الأسماء",
+              "colorize2": true
+            },
+            {
+              "text": " يمكن أن تأتي "
+            },
+            {
+              "text": "بين أو بعد",
+              "colorize3": true
+            },
+            {
+              "text": " الجزيء"
+            }
+          ]
+        },
+        {
+          "id": "card-43",
+          "type": "example",
+          "content": [
+            {
+              "text": "✓ I threw "
+            },
+            {
+              "text": "the box",
+              "colorize": true
+            },
+            {
+              "text": " away"
+            },
+            {
+              "text": "رميت الصندوق"
+            }
+          ]
+        },
+        {
+          "id": "card-44",
+          "type": "example",
+          "content": [
+            {
+              "text": "✓ I threw away "
+            },
+            {
+              "text": "the box",
+              "colorize": true
+            },
+            {
+              "text": "رميت الصندوق"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

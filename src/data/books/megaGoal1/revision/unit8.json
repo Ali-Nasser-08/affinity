@@ -1,0 +1,1469 @@
+{
+    "unit": "Mega Goal 1 - Unit 8",
+    "type": "revision",
+    "totalQuestions": 15,
+    "currentBatch": 1,
+    "sections": [
+        {
+            "section": "grammar",
+            "questions": [
+                {
+                    "id": "G1",
+                    "difficulty": 1,
+                    "arabicHint": "الجملة الشرطية: النتيجة المؤكدة (Would)",
+                    "question": "Choose the modal verb that expresses definite intention or certainty in a hypothetical result.",
+                    "prompt": "If I found a wallet on the street, I _____ return it to the owner immediately.",
+                    "options": [
+                        "would",
+                        "could",
+                        "might",
+                        "will"
+                    ],
+                    "answer": "would",
+                    "explanation": "Use 'would' when expressing a certain or definite result in imaginary conditional sentences. 'Could' and 'might' suggest only possibility or ability, not certainty."
+                },
+                {
+                    "id": "G2",
+                    "difficulty": 2,
+                    "arabicHint": "القدرة في الحالة الرئيسية (Could = would be able to)",
+                    "question": "Select the verb that expresses hypothetical ability rather than definite intention.",
+                    "prompt": "If I had wings, I _____ fly like a bird across the ocean.",
+                    "options": [
+                        "would",
+                        "could",
+                        "might",
+                        "should"
+                    ],
+                    "answer": "could",
+                    "explanation": "In the main clause, 'could' means 'would be able to,' indicating hypothetical ability. 'Would' would imply a definite action, while 'could' implies capability."
+                },
+                {
+                    "id": "G3",
+                    "difficulty": 2,
+                    "arabicHint": "الاحتمالية في الحالة الرئيسية (Might)",
+                    "question": "Choose the verb that expresses possibility rather than certainty about a hypothetical outcome.",
+                    "prompt": "If I saved enough money, I _____ buy a new phone or I might keep the old one.",
+                    "options": [
+                        "would",
+                        "will",
+                        "might",
+                        "can"
+                    ],
+                    "answer": "might",
+                    "explanation": "'Might' indicates possibility (perhaps yes, perhaps no), whereas 'would' indicates a definite hypothetical result."
+                },
+                {
+                    "id": "G4",
+                    "difficulty": 1,
+                    "arabicHint": "الأمنية في الحاضر: Wish + Past Simple",
+                    "question": "Complete the sentence to express a wish about a present situation.",
+                    "prompt": "I don't have my own room. I wish I _____ a private space to study.",
+                    "options": [
+                        "have",
+                        "had",
+                        "would have",
+                        "could have"
+                    ],
+                    "answer": "had",
+                    "explanation": "Use 'wish' + past simple to express a desire for a present situation to be different. Do not use 'would' when the subject of wish and the subject of the verb are the same."
+                },
+                {
+                    "id": "G5",
+                    "difficulty": 2,
+                    "arabicHint": "الأمنية للقدرة (Wish + Could)",
+                    "question": "Choose the correct form to express a wish about lacking ability in the present.",
+                    "prompt": "I can't drive legally yet. I wish I _____ take the car to school.",
+                    "options": [
+                        "can",
+                        "could",
+                        "would",
+                        "should"
+                    ],
+                    "answer": "could",
+                    "explanation": "Use 'wish' + 'could' when regretting that you don't have the ability to do something in the present."
+                },
+                {
+                    "id": "G6",
+                    "difficulty": 2,
+                    "arabicHint": "الأمنية للتغيير في المستقبل (Wish + Would)",
+                    "question": "Select the verb used to wish for a change in someone else's behavior or a future situation.",
+                    "prompt": "My roommate never cleans the kitchen. I wish he _____ help with the housework.",
+                    "options": [
+                        "will",
+                        "would",
+                        "could",
+                        "did"
+                    ],
+                    "answer": "would",
+                    "explanation": "Use 'wish' + 'would' to express desire for someone else to change their behavior or for a future situation to be different."
+                },
+                {
+                    "id": "G7",
+                    "difficulty": 2,
+                    "arabicHint": "القدرة في الفقرة الشرطية (If + Could)",
+                    "question": "Choose the correct verb for the if-clause to express hypothetical ability in the condition itself.",
+                    "prompt": "_____ speak three languages fluently, I would work as a tour guide.",
+                    "options": [
+                        "If I can",
+                        "If I could",
+                        "If I would",
+                        "If I will"
+                    ],
+                    "answer": "If I could",
+                    "explanation": "'Could' in the if-clause means 'if someone were able to.' It describes hypothetical ability in the condition, not the result."
+                },
+                {
+                    "id": "G8",
+                    "difficulty": 2,
+                    "arabicHint": "were لجميع الضمائر في الإنجليزية الرسمية",
+                    "question": "Select the grammatically correct form for formal English in imaginary conditionals.",
+                    "prompt": "If I _____ the principal, I would change the school schedule.",
+                    "options": [
+                        "am",
+                        "was",
+                        "were",
+                        "be"
+                    ],
+                    "answer": "were",
+                    "explanation": "In formal English, use 'were' for all subjects (I/he/she/it) in imaginary conditionals (subjunctive mood), though 'was' is accepted in informal speech."
+                },
+                {
+                    "id": "G9",
+                    "difficulty": 1,
+                    "arabicHint": "النفي في الأمنيات (Wish + didn't)",
+                    "question": "Complete the negative wish about a current unwanted situation.",
+                    "prompt": "I have to work tomorrow morning. I wish I _____ have to wake up so early.",
+                    "options": [
+                        "don't",
+                        "didn't",
+                        "won't",
+                        "wouldn't"
+                    ],
+                    "answer": "didn't",
+                    "explanation": "For negative wishes about present facts, use 'wish' + past simple negative (didn't). 'Wouldn't' is used for future/behavior wishes, not present facts."
+                },
+                {
+                    "id": "G10",
+                    "difficulty": 3,
+                    "arabicHint": "الفرق بين التأكد والقدرة (اختر التأكد)",
+                    "question": "Choose the verb that expresses definite intention, not merely hypothetical ability.",
+                    "prompt": "If we won the competition, we _____ celebrate at the best restaurant for sure.",
+                    "options": [
+                        "could",
+                        "might",
+                        "would",
+                        "should"
+                    ],
+                    "answer": "would",
+                    "explanation": "'Would' expresses definite intention or certainty about a hypothetical action. 'Could' only indicates that the action is possible or that you have the ability to do it."
+                },
+                {
+                    "id": "G11",
+                    "difficulty": 3,
+                    "arabicHint": "الفرق بين الاحتمال والتأكد (اختر الاحتمال)",
+                    "question": "Select the verb that indicates possibility among several options, not definite intention.",
+                    "prompt": "If I met a famous actor, I _____ ask for an autograph, or I might just take a photo.",
+                    "options": [
+                        "would",
+                        "will",
+                        "might",
+                        "shall"
+                    ],
+                    "answer": "might",
+                    "explanation": "'Might' indicates that something is only one possible option. 'Would' would imply a definite planned action in this hypothetical scenario."
+                },
+                {
+                    "id": "G12",
+                    "difficulty": 1,
+                    "arabicHint": "اختصار would: 'd",
+                    "question": "Select the correct contraction used in imaginary conditional sentences.",
+                    "prompt": "If I lived near the beach, _____ go swimming every weekend.",
+                    "options": [
+                        "I'll",
+                        "I'd",
+                        "I'm",
+                        "I've"
+                    ],
+                    "answer": "I'd",
+                    "explanation": "'I'd' is the contraction of 'I would.' Contractions are commonly used in both spoken and written imaginary conditionals with all subjects."
+                },
+                {
+                    "id": "G13",
+                    "difficulty": 3,
+                    "arabicHint": "Could بمعنى القدرة على النتيجة (would be able to)",
+                    "question": "Choose the verb that specifically means 'would be able to' in this hypothetical result.",
+                    "prompt": "If we practiced harder, we _____ beat the champion team.",
+                    "options": [
+                        "would",
+                        "could",
+                        "might",
+                        "should"
+                    ],
+                    "answer": "could",
+                    "explanation": "Here 'could' means 'would be able to' - it expresses that the hypothetical condition would give us the capability to achieve this result, whereas 'would' simply predicts the result itself."
+                },
+                {
+                    "id": "G14",
+                    "difficulty": 2,
+                    "arabicHint": "was في اللغة العامية مع الضمير I",
+                    "question": "Choose the form commonly used in informal spoken English with 'I wish'.",
+                    "prompt": "I wish I _____ taller so I could reach the top shelf.",
+                    "options": [
+                        "am",
+                        "was",
+                        "were",
+                        "be"
+                    ],
+                    "answer": "was",
+                    "explanation": "While 'were' is formally correct for all subjects, 'was' is commonly used with 'I' in informal spoken English when expressing wishes about the present."
+                },
+                {
+                    "id": "G15",
+                    "difficulty": 3,
+                    "arabicHint": "حذف If وقلب الفاعل (الأسلوب الرسمي)",
+                    "question": "Select the correct inverted form that omits 'if' in this formal conditional sentence.",
+                    "prompt": "_____ in your position, I would accept the scholarship immediately.",
+                    "options": [
+                        "Was I",
+                        "Were I",
+                        "If I be",
+                        "Am I"
+                    ],
+                    "answer": "Were I",
+                    "explanation": "In very formal English, we can omit 'if' and invert the subject and 'were' (Were I = If I were). This inversion is not used with 'was.'"
+                },
+                {
+                    "id": "G16",
+                    "difficulty": 1,
+                    "arabicHint": "الاسم المعدود: يمكن العد وله مفرد وجمع",
+                    "question": "Identify which noun is count and can be used with both 'a' and a plural form.",
+                    "prompt": "Which of these is a count noun?",
+                    "options": [
+                        "money",
+                        "information",
+                        "advice",
+                        "coin"
+                    ],
+                    "answer": "coin",
+                    "explanation": "Count nouns like 'coin' can be counted (a coin, two coins). Noncount nouns like money, information, and advice cannot be counted and have no plural form."
+                },
+                {
+                    "id": "G17",
+                    "difficulty": 1,
+                    "arabicHint": "الاسم غير المعدود: لا يمكن العد ولا يستخدم معه a/an",
+                    "question": "Select the noncount noun that cannot be used with 'a' or made plural.",
+                    "prompt": "Which word is a noncount noun?",
+                    "options": [
+                        "sweater",
+                        "wish",
+                        "rice",
+                        "prize"
+                    ],
+                    "answer": "rice",
+                    "explanation": "Rice is a noncount noun. We cannot say 'a rice' or 'rices.' We must say 'some rice' or 'a bowl of rice.' The other options are count nouns with singular and plural forms."
+                },
+                {
+                    "id": "G18",
+                    "difficulty": 1,
+                    "arabicHint": "Some في الجمل المثبتة",
+                    "question": "Choose the correct quantity word for this affirmative statement.",
+                    "prompt": "There is _____ pollution in big cities.",
+                    "options": [
+                        "any",
+                        "some",
+                        "no",
+                        "a"
+                    ],
+                    "answer": "some",
+                    "explanation": "We use 'some' in affirmative statements with noncount nouns (pollution) and plural nouns. 'Any' is used for negatives and questions."
+                },
+                {
+                    "id": "G19",
+                    "difficulty": 1,
+                    "arabicHint": "Any في الجمل المنفية",
+                    "question": "Select the correct word for this negative sentence.",
+                    "prompt": "There aren't _____ sport facilities in this neighborhood.",
+                    "options": [
+                        "some",
+                        "any",
+                        "no",
+                        "a"
+                    ],
+                    "answer": "any",
+                    "explanation": "In negative statements, we use 'any' with plural and noncount nouns. 'No' would create a double negative with 'not' or 'n't."
+                },
+                {
+                    "id": "G20",
+                    "difficulty": 1,
+                    "arabicHint": "Any في الأسئلة",
+                    "question": "Choose the correct word to complete this question.",
+                    "prompt": "Is there _____ crime in your area?",
+                    "options": [
+                        "some",
+                        "any",
+                        "no",
+                        "a"
+                    ],
+                    "answer": "any",
+                    "explanation": "We use 'any' in questions with plural and noncount nouns. Use 'some' only in questions when offering something or expecting a 'yes' answer."
+                },
+                {
+                    "id": "G21",
+                    "difficulty": 2,
+                    "arabicHint": "No لإعطاء معنى النفي في جملة مثبتة = not any",
+                    "question": "Select the phrase that uses 'no' to give a negative meaning in an affirmative sentence.",
+                    "prompt": "There _____ recycling facilities at the school last year.",
+                    "options": [
+                        "isn't any",
+                        "is no",
+                        "are no",
+                        "are some"
+                    ],
+                    "answer": "are no",
+                    "explanation": "'No' + noun in an affirmative sentence gives a negative meaning equal to 'not any.' Since 'facilities' is plural, we use 'are no' (There are no facilities = There aren't any facilities)."
+                },
+                {
+                    "id": "G22",
+                    "difficulty": 2,
+                    "arabicHint": "الاسم غير المعدود يأخذ فعلاً مفرداً",
+                    "question": "Choose the correct singular verb to agree with this noncount noun.",
+                    "prompt": "The information about prices _____ very helpful.",
+                    "options": [
+                        "is",
+                        "are",
+                        "were",
+                        "be"
+                    ],
+                    "answer": "is",
+                    "explanation": "Noncount nouns like 'information' (and news, advice, money) always take a singular verb, even though they may end in -s or refer to many things."
+                },
+                {
+                    "id": "G23",
+                    "difficulty": 2,
+                    "arabicHint": "How many للأسماء المعدودة الجمع",
+                    "question": "Select the correct question phrase for this plural count noun.",
+                    "prompt": "_____ Saudi riyals does this thobe cost?",
+                    "options": [
+                        "How much",
+                        "How many",
+                        "How long",
+                        "How far"
+                    ],
+                    "answer": "How many",
+                    "explanation": "Use 'How many' with plural count nouns (riyals) that can be counted individually. Use 'How much' with noncount nouns."
+                },
+                {
+                    "id": "G24",
+                    "difficulty": 2,
+                    "arabicHint": "How much للأسماء غير المعدودة",
+                    "question": "Choose the correct question phrase for this noncount noun.",
+                    "prompt": "_____ money do you need to buy the gold bracelet?",
+                    "options": [
+                        "How many",
+                        "How much",
+                        "How often",
+                        "How old"
+                    ],
+                    "answer": "How much",
+                    "explanation": "Use 'How much' with noncount nouns (money) that cannot be counted individually. Use 'How many' only with plural count nouns."
+                },
+                {
+                    "id": "G25",
+                    "difficulty": 2,
+                    "arabicHint": "الأسماء غير المعدودة لا تأتي مع a/an ولا تأخذ s",
+                    "question": "Identify the grammatically correct form of this noncount noun.",
+                    "prompt": "Can you give me _____ about good stores?",
+                    "options": [
+                        "an advice",
+                        "advices",
+                        "advice",
+                        "some advices"
+                    ],
+                    "answer": "advice",
+                    "explanation": "Advice is a noncount noun. It cannot use 'a/an' and has no plural form (-s). We can say 'some advice' or just 'advice,' but never 'an advice' or 'advices.'"
+                },
+                {
+                    "id": "G26",
+                    "difficulty": 1,
+                    "arabicHint": "جمع الاسم المعدود المنتهي بـ sh (يضاف es)",
+                    "question": "Select the correct plural form of this count noun.",
+                    "prompt": "If I had three _____, I would buy a car, a house, and travel the world.",
+                    "options": [
+                        "wishs",
+                        "wishes",
+                        "wishess",
+                        "wish"
+                    ],
+                    "answer": "wishes",
+                    "explanation": "Count nouns ending in -sh, -ch, -s, -x, or -z add -es to form the plural (wish → wishes), not just -s."
+                },
+                {
+                    "id": "G27",
+                    "difficulty": 2,
+                    "arabicHint": "Some في العروض والأسئلة التي نتوقع الإيجاب فيها",
+                    "question": "Choose the correct word for this offer expecting a positive response.",
+                    "prompt": "Would you like _____ tea with your dates?",
+                    "options": [
+                        "any",
+                        "some",
+                        "no",
+                        "many"
+                    ],
+                    "answer": "some",
+                    "explanation": "Although this is a question, we use 'some' (not 'any') in polite offers and requests when we expect the answer might be yes."
+                },
+                {
+                    "id": "G28",
+                    "difficulty": 2,
+                    "arabicHint": "There is مع المفرد و There are مع الجمع",
+                    "question": "Select the correct 'there' structure for this plural noun.",
+                    "prompt": "_____ some excellent discounts on cotton thobes today.",
+                    "options": [
+                        "There is",
+                        "There are",
+                        "There be",
+                        "There isn't"
+                    ],
+                    "answer": "There are",
+                    "explanation": "Use 'There are' with plural count nouns (discounts). Use 'There is' with singular count nouns and all noncount nouns."
+                },
+                {
+                    "id": "G29",
+                    "difficulty": 2,
+                    "arabicHint": "توافق الفعل مع المفرد والجمع في الأسئلة عن السعر",
+                    "question": "Choose the correct verb form for this shopping question about a singular item.",
+                    "prompt": "How much _____ this wool sweater?",
+                    "options": [
+                        "is",
+                        "are",
+                        "do",
+                        "does"
+                    ],
+                    "answer": "is",
+                    "explanation": "With singular count nouns (sweater), use 'is' in price questions. Use 'are' with plural nouns (How much are these sandals?)."
+                },
+                {
+                    "id": "G30",
+                    "difficulty": 3,
+                    "arabicHint": "الفرق بين استخدام No و Not any",
+                    "question": "Identify which sentence correctly transforms the negative meaning using 'no' instead of 'not any'.",
+                    "prompt": "Which sentence means the same as 'There isn't any cash in my wallet'?",
+                    "options": [
+                        "There is no cash in my wallet.",
+                        "There are no cash in my wallet.",
+                        "There is some cash in my wallet.",
+                        "There are any cash in my wallet."
+                    ],
+                    "answer": "There is no cash in my wallet.",
+                    "explanation": "'No' + noun gives a negative meaning in an affirmative sentence structure. 'There is no cash' = 'There isn't any cash.' Since 'cash' is noncount (singular), we use 'is no.'"
+                },
+                {
+                    "id": "G31",
+                    "difficulty": 2,
+                    "arabicHint": "الأمنية للقدرة الحالية (Wish + Could)",
+                    "question": "Complete the wish expressing regret about lacking a present ability.",
+                    "prompt": "I don't know how to swim. I wish I _____ dive into the pool.",
+                    "options": [
+                        "can",
+                        "could",
+                        "would",
+                        "will"
+                    ],
+                    "answer": "could",
+                    "explanation": "Use 'wish' + 'could' to express regret about not having a specific ability right now. 'Would' is used for future changes or others' behavior, not your own abilities."
+                },
+                {
+                    "id": "G32",
+                    "difficulty": 2,
+                    "arabicHint": "القدرة في النتيجة (Could = would be able to)",
+                    "question": "Choose the modal that expresses hypothetical ability rather than definite intention.",
+                    "prompt": "If I had a library card, I _____ borrow books every weekend.",
+                    "options": [
+                        "would",
+                        "could",
+                        "might",
+                        "should"
+                    ],
+                    "answer": "could",
+                    "explanation": "'Could' in the main clause means 'would be able to.' It indicates that the condition would give you the capability, whereas 'would' suggests you definitely would perform the action."
+                },
+                {
+                    "id": "G33",
+                    "difficulty": 1,
+                    "arabicHint": "الأمنية للحالة الحالية (Wish + Past Simple)",
+                    "question": "Express a wish about a present situation that you want to be different.",
+                    "prompt": "I live far from school. I wish I _____ closer to the campus.",
+                    "options": [
+                        "live",
+                        "lived",
+                        "would live",
+                        "can live"
+                    ],
+                    "answer": "lived",
+                    "explanation": "Use 'wish' + past simple to express desire for a present situation to be different. Do not use 'would' when the subject of 'wish' and the verb are the same person."
+                },
+                {
+                    "id": "G34",
+                    "difficulty": 2,
+                    "arabicHint": "الاحتمالية (Might) مقابل التأكد (Would)",
+                    "question": "Select the verb that expresses possibility among several options, not definite intention.",
+                    "prompt": "If I won a trip to Europe, I _____ visit Paris first, or I might go to Rome.",
+                    "options": [
+                        "would",
+                        "will",
+                        "might",
+                        "shall"
+                    ],
+                    "answer": "might",
+                    "explanation": "'Might' indicates this is only one possible choice. Using 'would' would imply a definite decision to visit Paris, excluding other options."
+                },
+                {
+                    "id": "G35",
+                    "difficulty": 2,
+                    "arabicHint": "القدرة في فقرة الشرط (If + Could)",
+                    "question": "Choose the correct verb for the if-clause to express hypothetical ability.",
+                    "prompt": "_____ afford a new phone, I would buy the latest model.",
+                    "options": [
+                        "If I can",
+                        "If I could",
+                        "If I would",
+                        "If I will"
+                    ],
+                    "answer": "If I could",
+                    "explanation": "'Could' in the if-clause means 'if someone were able to.' It establishes the hypothetical ability that must exist for the result to happen."
+                },
+                {
+                    "id": "G36",
+                    "difficulty": 2,
+                    "arabicHint": "الأمنية لتغيير سلوك الآخرين (Wish + Would)",
+                    "question": "Select the correct form to wish for a change in another person's behavior.",
+                    "prompt": "My brother never wakes up for Fajr prayer. I wish he _____ get up early.",
+                    "options": [
+                        "is",
+                        "was",
+                        "would",
+                        "could"
+                    ],
+                    "answer": "would",
+                    "explanation": "Use 'wish' + 'would' when you want someone else to change their behavior or habits. 'Could' would only mean you want him to have the ability, not the willingness."
+                },
+                {
+                    "id": "G37",
+                    "difficulty": 1,
+                    "arabicHint": "اختصار Would في الجمل الشرطية",
+                    "question": "Complete the sentence with the correct contraction for the hypothetical result.",
+                    "prompt": "If I saw a sale at the mall, _____ buy new shoes immediately.",
+                    "options": [
+                        "I'll",
+                        "I'd",
+                        "I'm",
+                        "I've"
+                    ],
+                    "answer": "I'd",
+                    "explanation": "'I'd' is the contraction of 'I would,' which is used in the main clause to show the definite hypothetical result of the condition."
+                },
+                {
+                    "id": "G38",
+                    "difficulty": 3,
+                    "arabicHint": "حذف If مع Were (الأسلوب الرسمي)",
+                    "question": "Choose the formal inverted structure that omits 'if' entirely.",
+                    "prompt": "_____ in your position, I would accept that job offer.",
+                    "options": [
+                        "Was I",
+                        "Were I",
+                        "If I be",
+                        "Am I"
+                    ],
+                    "answer": "Were I",
+                    "explanation": "In very formal English, omit 'if' and invert: 'Were I' = 'If I were.' This inversion only works with 'were,' not with 'was.'"
+                },
+                {
+                    "id": "G39",
+                    "difficulty": 2,
+                    "arabicHint": "الأمنية السلبية للضرورة (Wish + didn't have to)",
+                    "question": "Complete the wish about wanting to avoid a present obligation.",
+                    "prompt": "I have to study for exams tonight. I wish I _____ to study so hard.",
+                    "options": [
+                        "don't have",
+                        "didn't have",
+                        "wouldn't have",
+                        "won't have"
+                    ],
+                    "answer": "didn't have",
+                    "explanation": "For present obligations you wish didn't exist, use 'wish' + past simple negative (didn't have to). 'Wouldn't have' is used for future refusals, not present facts."
+                },
+                {
+                    "id": "G40",
+                    "difficulty": 3,
+                    "arabicHint": "التأكد (Would) مقابل القدرة (Could)",
+                    "question": "Select the modal expressing definite hypothetical intention, not merely ability.",
+                    "prompt": "If I became class president, I _____ organize more sports activities for sure.",
+                    "options": [
+                        "could",
+                        "might",
+                        "would",
+                        "can"
+                    ],
+                    "answer": "would",
+                    "explanation": "'Would' expresses a definite plan or intention in the hypothetical scenario. 'Could' only indicates you would possess the ability to organize them."
+                },
+                {
+                    "id": "G41",
+                    "difficulty": 1,
+                    "arabicHint": "التسوق: الرد على عرض المساعدة",
+                    "question": "Choose the polite and appropriate response to the shop assistant.",
+                    "prompt": "Assistant: 'Can I help you, sir?' Customer: '_____'",
+                    "options": [
+                        "Yes, please. I'm looking for a cotton thobe.",
+                        "No, you cannot help me.",
+                        "Why do you ask?",
+                        "I don't want your help."
+                    ],
+                    "answer": "Yes, please. I'm looking for a cotton thobe.",
+                    "explanation": "The standard polite response is 'Yes, please' followed by stating what you're looking for. Direct negative responses are considered rude."
+                },
+                {
+                    "id": "G42",
+                    "difficulty": 2,
+                    "arabicHint": "السؤال عن المواد (مصنوع من)",
+                    "question": "Select the correct question word to ask about clothing material.",
+                    "prompt": "Customer: '_____' Assistant: 'They are made from wool.'",
+                    "options": [
+                        "What are these pants made from?",
+                        "Where are these pants made from?",
+                        "Who are these pants made from?",
+                        "When are these pants made from?"
+                    ],
+                    "answer": "What are these pants made from?",
+                    "explanation": "Use 'What... made from?' to ask about materials. 'Made from' is used when the original material has been transformed (like wool into fabric)."
+                },
+                {
+                    "id": "G43",
+                    "difficulty": 1,
+                    "arabicHint": "How much مع المفرد / How many مع الجمع",
+                    "question": "Choose the correct question form for this singular clothing item.",
+                    "prompt": "Customer: '_____' Assistant: 'It's 209 riyals.'",
+                    "options": [
+                        "How much is this dress?",
+                        "How much are this dress?",
+                        "How many is this dress?",
+                        "How much these dress?"
+                    ],
+                    "answer": "How much is this dress?",
+                    "explanation": "Use 'How much is' with singular count nouns (dress) and noncount nouns. Use 'How much are' only with plural nouns."
+                },
+                {
+                    "id": "G44",
+                    "difficulty": 2,
+                    "arabicHint": "Some في العروض المتوقع فيها الإيجاب",
+                    "question": "Select the correct word for this polite offer expecting a positive response.",
+                    "prompt": "Shop assistant: 'Would you like _____ tea while you browse?'",
+                    "options": [
+                        "any",
+                        "some",
+                        "no",
+                        "many"
+                    ],
+                    "answer": "some",
+                    "explanation": "In polite offers where we expect the answer might be yes, we use 'some' rather than 'any,' even though it is grammatically a question."
+                },
+                {
+                    "id": "G45",
+                    "difficulty": 2,
+                    "arabicHint": "الأسماء غير المعدودة مع الفعل المفرد",
+                    "question": "Choose the correct singular verb to agree with this noncount noun.",
+                    "prompt": "The advice my counselor gave me _____ very helpful.",
+                    "options": [
+                        "is",
+                        "are",
+                        "were",
+                        "be"
+                    ],
+                    "answer": "is",
+                    "explanation": "Noncount nouns like 'advice,' 'information,' 'news,' and 'money' always take singular verbs, even though they may end in -s or seem plural in meaning."
+                },
+                {
+                    "id": "G46",
+                    "difficulty": 1,
+                    "arabicHint": "جمع الاسم المعدود المنتهي بـ z",
+                    "question": "Select the correct plural form to use with a number.",
+                    "prompt": "The competition awards four _____ to the best students.",
+                    "options": [
+                        "prize",
+                        "prizes",
+                        "prizies",
+                        "prize's"
+                    ],
+                    "answer": "prizes",
+                    "explanation": "Regular count nouns add -s or -es to form the plural. 'Prize' simply adds -s (prizes). The plural form is required after numbers greater than one."
+                },
+                {
+                    "id": "G47",
+                    "difficulty": 2,
+                    "arabicHint": "No = Not any (تحويل الجملة المنفية)",
+                    "question": "Rewrite the sentence using 'no' to maintain the same negative meaning.",
+                    "prompt": "There isn't any discount on gold bracelets. = There _____ discount on gold bracelets.",
+                    "options": [
+                        "is no",
+                        "are no",
+                        "is any",
+                        "isn't no"
+                    ],
+                    "answer": "is no",
+                    "explanation": "'There is no' = 'There isn't any.' Since 'discount' is singular in this context, we use 'is no.' Avoid double negatives like 'isn't no.'"
+                },
+                {
+                    "id": "G48",
+                    "difficulty": 1,
+                    "arabicHint": "مفردات الخصم (Discount)",
+                    "question": "Choose the correct word to complete the sentence about reduced prices.",
+                    "prompt": "This store offers a 15% _____ on all sandals today.",
+                    "options": [
+                        "discount",
+                        "sale",
+                        "cheap",
+                        "half"
+                    ],
+                    "answer": "discount",
+                    "explanation": "A 'discount' is a specific reduction in price (e.g., 15% off). We say 'a 15% discount,' not 'a 15% sale.'"
+                },
+                {
+                    "id": "G49",
+                    "difficulty": 1,
+                    "arabicHint": "السؤال عن المقاس (Size)",
+                    "question": "Select the natural question asking about clothing size.",
+                    "prompt": "Shop assistant: '_____' Customer: 'I'd like to try a large.'",
+                    "options": [
+                        "What size are you?",
+                        "How big are you?",
+                        "What is your weight?",
+                        "How tall are you?"
+                    ],
+                    "answer": "What size are you?",
+                    "explanation": "In shopping contexts for clothes, 'What size are you?' is the standard question. Sizes refer to small, medium, large, etc."
+                },
+                {
+                    "id": "G50",
+                    "difficulty": 2,
+                    "arabicHint": "Any في السؤال الحقيقي (لا نعرف الجواب)",
+                    "question": "Choose the correct word for this genuine question where the answer is unknown.",
+                    "prompt": "Do you have _____ leather shoes in size 42?",
+                    "options": [
+                        "some",
+                        "any",
+                        "no",
+                        "many"
+                    ],
+                    "answer": "any",
+                    "explanation": "In real questions where we don't know if the answer is yes or no, use 'any.' Reserve 'some' for offers and requests where we expect or hope for a 'yes' answer."
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "questions": [
+                {
+                    "id": "V1",
+                    "difficulty": 1,
+                    "arabicHint": "جزيرة مهجورة / نائية",
+                    "prompt": "If you were stranded on a _____, you would have no neighbors or shops nearby.",
+                    "options": [
+                        "desert island",
+                        "big city",
+                        "shopping mall",
+                        "stadium"
+                    ],
+                    "answer": "desert island",
+                    "explanation": "A desert island is a small remote island with no people living on it, perfect for the hypothetical scenario of complete isolation."
+                },
+                {
+                    "id": "V2",
+                    "difficulty": 1,
+                    "arabicHint": "البقاء على تواصل",
+                    "prompt": "Even when studying abroad, it is important to _____ with your family back home.",
+                    "options": [
+                        "keep in touch",
+                        "split up",
+                        "give up",
+                        "turn around"
+                    ],
+                    "answer": "keep in touch",
+                    "explanation": "To keep in touch means to continue communicating with someone regularly so you do not lose contact with them."
+                },
+                {
+                    "id": "V3",
+                    "difficulty": 2,
+                    "arabicHint": "لقاء عن قرب (غالباً مع كائن غريب)",
+                    "prompt": "The science fiction movie showed a _____ between the astronaut and an alien creature.",
+                    "options": [
+                        "close encounter",
+                        "distant meeting",
+                        "phone call",
+                        "planned appointment"
+                    ],
+                    "answer": "close encounter",
+                    "explanation": "A close encounter means meeting someone or something unexpectedly, often used to describe meetings with extraterrestrial beings."
+                },
+                {
+                    "id": "V4",
+                    "difficulty": 1,
+                    "arabicHint": "كائن فضائي",
+                    "prompt": "An _____ is a being that comes from a planet other than Earth.",
+                    "options": [
+                        "extraterrestrial",
+                        "astronaut",
+                        "pilot",
+                        "tourist"
+                    ],
+                    "answer": "extraterrestrial",
+                    "explanation": "Extraterrestrial refers to any creature or life form originating from outside planet Earth."
+                },
+                {
+                    "id": "V5",
+                    "difficulty": 2,
+                    "arabicHint": "طوال العام (دون توقف)",
+                    "prompt": "The weather in that tropical country stays warm _____.",
+                    "options": [
+                        "whole year round",
+                        "only in summer",
+                        "during weekends",
+                        "at midnight"
+                    ],
+                    "answer": "whole year round",
+                    "explanation": "The phrase 'whole year round' means continuously throughout all twelve months of the year without seasonal changes."
+                },
+                {
+                    "id": "V6",
+                    "difficulty": 1,
+                    "arabicHint": "رائع / ممتاز (غير رسمي)",
+                    "prompt": "The view from the mountain top was absolutely _____.",
+                    "options": [
+                        "fabulous",
+                        "terrible",
+                        "boring",
+                        "invisible"
+                    ],
+                    "answer": "fabulous",
+                    "explanation": "Fabulous means extremely good, wonderful, or amazing. It is often used in informal contexts to show enthusiasm."
+                },
+                {
+                    "id": "V7",
+                    "difficulty": 2,
+                    "arabicHint": "تقاسم / يقسم (الجائزة)",
+                    "prompt": "The two winners decided to _____ the cash prize equally between them.",
+                    "options": [
+                        "split",
+                        "hide",
+                        "lose",
+                        "spend"
+                    ],
+                    "answer": "split",
+                    "explanation": "To split something means to divide it into separate parts or shares, often between two or more people."
+                },
+                {
+                    "id": "V8",
+                    "difficulty": 1,
+                    "arabicHint": "شخصية تاريخية مهمة",
+                    "prompt": "Many students admire Nelson Mandela as a _____ who changed history.",
+                    "options": [
+                        "historical figure",
+                        "future prediction",
+                        "modern building",
+                        "current trend"
+                    ],
+                    "answer": "historical figure",
+                    "explanation": "A historical figure is a famous person who lived in the past and had an important impact on history."
+                },
+                {
+                    "id": "V9",
+                    "difficulty": 1,
+                    "arabicHint": "إمبراطورية (دولة كبيرة)",
+                    "prompt": "The Roman _____ controlled large parts of Europe and Asia long ago.",
+                    "options": [
+                        "empire",
+                        "village",
+                        "classroom",
+                        "island"
+                    ],
+                    "answer": "empire",
+                    "explanation": "An empire is a large group of countries or territories ruled by a single leader or powerful government."
+                },
+                {
+                    "id": "V10",
+                    "difficulty": 2,
+                    "arabicHint": "الفقر (نقص المال)",
+                    "prompt": "The charity works hard to fight _____ in poor communities.",
+                    "options": [
+                        "poverty",
+                        "wealth",
+                        "happiness",
+                        "education"
+                    ],
+                    "answer": "poverty",
+                    "explanation": "Poverty is the state of being extremely poor, without enough money or resources to meet basic needs."
+                },
+                {
+                    "id": "V11",
+                    "difficulty": 3,
+                    "arabicHint": "محسن كبير (يعطي المال للخير)",
+                    "prompt": "A _____ is someone who donates large amounts of money to help others and support good causes.",
+                    "options": [
+                        "philanthropist",
+                        "criminal",
+                        "stranger",
+                        "customer"
+                    ],
+                    "answer": "philanthropist",
+                    "explanation": "A philanthropist is a wealthy person who uses their money to help those in need and support charitable organizations."
+                },
+                {
+                    "id": "V12",
+                    "difficulty": 1,
+                    "arabicHint": "جائزة / مكافأة رسمية",
+                    "prompt": "The scientist received a prestigious _____ for his discovery in medicine.",
+                    "options": [
+                        "award",
+                        "punishment",
+                        "bill",
+                        "complaint"
+                    ],
+                    "answer": "award",
+                    "explanation": "An award is a prize or honor given to recognize someone's outstanding achievements in a particular field."
+                },
+                {
+                    "id": "V13",
+                    "difficulty": 3,
+                    "arabicHint": "الحائزون على الجوائز (مصطلح رسمي)",
+                    "prompt": "The Nobel Prize _____ gave speeches about their important research.",
+                    "options": [
+                        "laureates",
+                        "students",
+                        "audience",
+                        "judges"
+                    ],
+                    "answer": "laureates",
+                    "explanation": "Laureates are people who have been awarded a prestigious prize or honor, particularly in academic, scientific, or artistic fields."
+                },
+                {
+                    "id": "V14",
+                    "difficulty": 2,
+                    "arabicHint": "ميدالية كبيرة (من الذهب)",
+                    "prompt": "The champion received a gold _____ to wear around his neck during the ceremony.",
+                    "options": [
+                        "medallion",
+                        "coin",
+                        "button",
+                        "ring"
+                    ],
+                    "answer": "medallion",
+                    "explanation": "A medallion is a large medal, usually decorative and made of precious metal, worn around the neck as a symbol of honor."
+                },
+                {
+                    "id": "V15",
+                    "difficulty": 1,
+                    "arabicHint": "تختلف / تتنوع",
+                    "prompt": "Students' opinions about the best sport _____; some like football, while others prefer basketball.",
+                    "options": [
+                        "vary",
+                        "agree",
+                        "disappear",
+                        "copy"
+                    ],
+                    "answer": "vary",
+                    "explanation": "To vary means to be different or to change from one situation to another. If opinions vary, people have different ideas about something."
+                },
+                {
+                    "id": "V16",
+                    "difficulty": 1,
+                    "arabicHint": "يشعر بالوحدة",
+                    "prompt": "Living far from family and friends can make a person feel _____ sometimes.",
+                    "options": [
+                        "lonely",
+                        "crowded",
+                        "noisy",
+                        "famous"
+                    ],
+                    "answer": "lonely",
+                    "explanation": "Lonely describes the sad feeling of being alone and wishing for company or friends nearby."
+                },
+                {
+                    "id": "V17",
+                    "difficulty": 2,
+                    "arabicHint": "ينفع / يفيد",
+                    "prompt": "This new medicine will _____ humanity by curing a dangerous disease.",
+                    "options": [
+                        "benefit",
+                        "harm",
+                        "ignore",
+                        "confuse"
+                    ],
+                    "answer": "benefit",
+                    "explanation": "To benefit means to help someone or to give them an advantage. When something benefits mankind, it helps all people."
+                },
+                {
+                    "id": "V18",
+                    "difficulty": 1,
+                    "arabicHint": "البشرية (جميع الناس)",
+                    "prompt": "The invention of electricity was a great gift to _____.",
+                    "options": [
+                        "mankind",
+                        "animals",
+                        "plants",
+                        "machines"
+                    ],
+                    "answer": "mankind",
+                    "explanation": "Mankind refers to all human beings collectively, considered as a single group or species."
+                },
+                {
+                    "id": "V19",
+                    "difficulty": 2,
+                    "arabicHint": "مواجهة / لقاء (قد يكون مفاجئاً)",
+                    "prompt": "His _____ with a famous writer at the airport was completely unexpected.",
+                    "options": [
+                        "encounter",
+                        "appointment",
+                        "interview",
+                        "graduation"
+                    ],
+                    "answer": "encounter",
+                    "explanation": "An encounter is a meeting, especially one that happens by chance or unexpectedly rather than being planned in advance."
+                },
+                {
+                    "id": "V20",
+                    "difficulty": 1,
+                    "arabicHint": "التقنيات / التكنولوجيا",
+                    "prompt": "Modern _____ like smartphones have changed how we communicate daily.",
+                    "options": [
+                        "technologies",
+                        "books",
+                        "trees",
+                        "foods"
+                    ],
+                    "answer": "technologies",
+                    "explanation": "Technologies refer to modern scientific methods, skills, and devices used in industry or daily life."
+                },
+                {
+                    "id": "V21",
+                    "difficulty": 2,
+                    "arabicHint": "جائزة مالية (لا تخلط مع السعر)",
+                    "prompt": "The cash _____ for the competition winner was 750,000 riyals.",
+                    "options": [
+                        "prize",
+                        "price",
+                        "cost",
+                        "bill"
+                    ],
+                    "answer": "prize",
+                    "explanation": "A prize is money or something valuable given to the winner of a competition. Do not confuse with 'price,' which is what you pay to buy something."
+                },
+                {
+                    "id": "V22",
+                    "difficulty": 2,
+                    "arabicHint": "الاستمرار في العلاقة",
+                    "prompt": "Old classmates often use social media to _____ with each other.",
+                    "options": [
+                        "keep in touch",
+                        "split apart",
+                        "fall down",
+                        "turn off"
+                    ],
+                    "answer": "keep in touch",
+                    "explanation": "The phrasal verb 'keep in touch' means to maintain communication with someone so that you continue to know what is happening in their life."
+                },
+                {
+                    "id": "V23",
+                    "difficulty": 2,
+                    "arabicHint": "شهادة رسمية",
+                    "prompt": "Winners of the academic competition received a handwritten _____ proving their achievement.",
+                    "options": [
+                        "certificate",
+                        "letter",
+                        "contract",
+                        "ticket"
+                    ],
+                    "answer": "certificate",
+                    "explanation": "A certificate is an official document stating that you have completed a course or achieved something noteworthy."
+                },
+                {
+                    "id": "V24",
+                    "difficulty": 2,
+                    "arabicHint": "يتقاسم / يشارك",
+                    "prompt": "The two Egyptian scholars decided to _____ the award for their joint research project.",
+                    "options": [
+                        "share",
+                        "hide",
+                        "waste",
+                        "return"
+                    ],
+                    "answer": "share",
+                    "explanation": "To share means to divide something between two or more people so that each person gets a portion of it."
+                },
+                {
+                    "id": "V25",
+                    "difficulty": 1,
+                    "arabicHint": "تغيير / تحويل",
+                    "prompt": "Many people wish they could _____ their appearance, but Hameed is happy the way he is.",
+                    "options": [
+                        "change",
+                        "keep",
+                        "destroy",
+                        "ignore"
+                    ],
+                    "answer": "change",
+                    "explanation": "To change means to make something different. Some people would change how they look if they could, while others are satisfied with their current appearance."
+                },
+                {
+                    "id": "V26",
+                    "difficulty": 1,
+                    "arabicHint": "صوف (مادة طبيعية)",
+                    "prompt": "Which material comes from sheep and keeps you warm in winter?",
+                    "options": [
+                        "wool",
+                        "cotton",
+                        "polyester",
+                        "leather"
+                    ],
+                    "answer": "wool",
+                    "explanation": "Wool is a natural fiber obtained from sheep and is commonly used to make warm clothing like sweaters."
+                },
+                {
+                    "id": "V27",
+                    "difficulty": 1,
+                    "arabicHint": "جلد (مادة من الحيوانات)",
+                    "prompt": "Expensive shoes and bags are often made of _____, which comes from animal skin.",
+                    "options": [
+                        "leather",
+                        "cotton",
+                        "plastic",
+                        "paper"
+                    ],
+                    "answer": "leather",
+                    "explanation": "Leather is a durable material made from the skin of animals, typically cows, used for shoes, bags, and jackets."
+                },
+                {
+                    "id": "V28",
+                    "difficulty": 2,
+                    "arabicHint": "ذهب / فضة (معادن ثمينة)",
+                    "prompt": "A wedding ring is usually made of _____ or silver because these metals are valuable and do not rust.",
+                    "options": [
+                        "gold",
+                        "wood",
+                        "glass",
+                        "rubber"
+                    ],
+                    "answer": "gold",
+                    "explanation": "Gold is a precious yellow metal used to make expensive jewelry like bracelets and rings. It is often paired with silver in the options."
+                },
+                {
+                    "id": "V29",
+                    "difficulty": 1,
+                    "arabicHint": "ثوب (الزي التقليدي السعودي)",
+                    "prompt": "Many Saudi men wear a white _____ to work or special occasions.",
+                    "options": [
+                        "thobe",
+                        "sweater",
+                        "dress",
+                        "sandals"
+                    ],
+                    "answer": "thobe",
+                    "explanation": "A thobe is the traditional long white garment worn by men in Saudi Arabia and other Gulf countries."
+                },
+                {
+                    "id": "V30",
+                    "difficulty": 1,
+                    "arabicHint": "نعل / خف (حذاء مفتوح)",
+                    "prompt": "People wear _____ on their feet in hot weather to stay cool.",
+                    "options": [
+                        "sandals",
+                        "gloves",
+                        "hats",
+                        "scarves"
+                    ],
+                    "answer": "sandals",
+                    "explanation": "Sandals are open shoes that expose most of the foot, making them ideal for hot weather."
+                },
+                {
+                    "id": "V31",
+                    "difficulty": 2,
+                    "arabicHint": "سوار / خلخال (مجوهرات للمعصم)",
+                    "prompt": "She received a beautiful silver _____ for her birthday that she wears on her wrist.",
+                    "options": [
+                        "bracelet",
+                        "belt",
+                        "necktie",
+                        "shoelace"
+                    ],
+                    "answer": "bracelet",
+                    "explanation": "A bracelet is a piece of jewelry worn around the wrist, often made of metal like gold or silver."
+                },
+                {
+                    "id": "V32",
+                    "difficulty": 2,
+                    "arabicHint": "قسم / يقسم (المال)",
+                    "prompt": "If I won a million riyals, I would _____ the money into three parts: one for family, one for travel, and one for savings.",
+                    "options": [
+                        "divide",
+                        "hide",
+                        "lose",
+                        "burn"
+                    ],
+                    "answer": "divide",
+                    "explanation": "To divide means to separate something into parts or portions. You divide money when you split it among different uses or people."
+                },
+                {
+                    "id": "V33",
+                    "difficulty": 1,
+                    "arabicHint": "جائزة مالية نقدية",
+                    "prompt": "The winner of the competition received a large _____ of money as a reward.",
+                    "options": [
+                        "cash",
+                        "debt",
+                        "bill",
+                        "tax"
+                    ],
+                    "answer": "cash",
+                    "explanation": "Cash refers to money in the form of coins or notes. A 'cash prize' is money awarded to the winner of a game or competition."
+                },
+                {
+                    "id": "V34",
+                    "difficulty": 2,
+                    "arabicHint": "يخطط / يدبر",
+                    "prompt": "Before traveling, you should _____ your trip carefully to avoid problems.",
+                    "options": [
+                        "plan out",
+                        "forget about",
+                        "ignore",
+                        "cancel"
+                    ],
+                    "answer": "plan out",
+                    "explanation": "To plan out means to organize or arrange all the details of something in advance. If you have something 'all planned out,' you know exactly what you will do."
+                },
+                {
+                    "id": "V35",
+                    "difficulty": 2,
+                    "arabicHint": "يستمتع كثيراً (تعبير غير رسمي)",
+                    "prompt": "At the wedding party, everyone danced and laughed all night; they really _____!",
+                    "options": [
+                        "had a ball",
+                        "felt sick",
+                        "got lost",
+                        "missed the bus"
+                    ],
+                    "answer": "had a ball",
+                    "explanation": "The idiom 'have a ball' means to have a very enjoyable time or to enjoy yourself very much."
+                },
+                {
+                    "id": "V36",
+                    "difficulty": 1,
+                    "arabicHint": "وجهة / مكان تقصده",
+                    "prompt": "If you could choose any _____ for your vacation, would you pick the beach or the mountains?",
+                    "options": [
+                        "destination",
+                        "problem",
+                        "solution",
+                        "accident"
+                    ],
+                    "answer": "destination",
+                    "explanation": "A destination is the place where someone or something is going. When you travel, your destination is the end point of your journey."
+                },
+                {
+                    "id": "V37",
+                    "difficulty": 2,
+                    "arabicHint": "رأيي / في نظري",
+                    "prompt": "_____, the best way to learn English is to practice speaking every day.",
+                    "options": [
+                        "To me",
+                        "To you",
+                        "To him",
+                        "To her"
+                    ],
+                    "answer": "To me",
+                    "explanation": "The phrase 'to me' is used to introduce a personal opinion. It means 'in my opinion' or 'from my point of view.'"
+                },
+                {
+                    "id": "V38",
+                    "difficulty": 1,
+                    "arabicHint": "خبرة / تجربة عملية",
+                    "prompt": "You need more work _____ before you can apply for a manager position.",
+                    "options": [
+                        "experience",
+                        "money",
+                        "sleep",
+                        "clothes"
+                    ],
+                    "answer": "experience",
+                    "explanation": "Experience is the knowledge or skill you get from doing a job or activity over a period of time."
+                },
+                {
+                    "id": "V39",
+                    "difficulty": 2,
+                    "arabicHint": "مواصلات عامة (باصات - قطارات)",
+                    "prompt": "Buses and trains are examples of _____ that help people move around the city.",
+                    "options": [
+                        "public transportation",
+                        "private cars",
+                        "bicycles",
+                        "airplanes"
+                    ],
+                    "answer": "public transportation",
+                    "explanation": "Public transportation refers to shared vehicles like buses and trains that transport many people along set routes."
+                },
+                {
+                    "id": "V40",
+                    "difficulty": 2,
+                    "arabicHint": "إعادة التدوير (منشآت)",
+                    "prompt": "The city needs more _____ to process plastic and paper waste properly.",
+                    "options": [
+                        "recycling facilities",
+                        "shopping malls",
+                        "parking lots",
+                        "restaurants"
+                    ],
+                    "answer": "recycling facilities",
+                    "explanation": "Recycling facilities are special centers or plants where waste materials are processed to be reused instead of being thrown away."
+                },
+                {
+                    "id": "V41",
+                    "difficulty": 1,
+                    "arabicHint": "تلوث (الهواء - الماء)",
+                    "prompt": "Factories and cars cause air _____ that makes the sky dirty and harms health.",
+                    "options": [
+                        "pollution",
+                        "beauty",
+                        "freshness",
+                        "silence"
+                    ],
+                    "answer": "pollution",
+                    "explanation": "Pollution is the process of making air, water, or land dirty and dangerous, usually with chemicals or waste."
+                },
+                {
+                    "id": "V42",
+                    "difficulty": 2,
+                    "arabicHint": "مرافق رياضية (ملاعب - صالات)",
+                    "prompt": "Our neighborhood needs more _____ like football fields and swimming pools.",
+                    "options": [
+                        "sport facilities",
+                        "libraries",
+                        "hospitals",
+                        "offices"
+                    ],
+                    "answer": "sport facilities",
+                    "explanation": "Sport facilities are places and equipment designed for athletic activities and exercise, such as stadiums, gyms, and courts."
+                },
+                {
+                    "id": "V43",
+                    "difficulty": 2,
+                    "arabicHint": "الإسكان / السكن (غالي الثمن)",
+                    "prompt": "Many young people cannot afford to buy a house because of _____ prices in big cities.",
+                    "options": [
+                        "expensive housing",
+                        "cheap food",
+                        "free education",
+                        "low taxes"
+                    ],
+                    "answer": "expensive housing",
+                    "explanation": "Housing refers to homes and places to live. When housing is expensive, it costs a lot of money to rent or buy a home."
+                },
+                {
+                    "id": "V44",
+                    "difficulty": 2,
+                    "arabicHint": "عربة التسوق",
+                    "prompt": "In the supermarket, you push a _____ to carry your items before paying.",
+                    "options": [
+                        "shopping cart",
+                        "bicycle",
+                        "motorcycle",
+                        "suitcase"
+                    ],
+                    "answer": "shopping cart",
+                    "explanation": "A shopping cart is a wheeled basket used in supermarkets to hold groceries while customers select items from the shelves."
+                },
+                {
+                    "id": "V45",
+                    "difficulty": 2,
+                    "arabicHint": "بقعة / لطخة (على الملابس)",
+                    "prompt": "Be careful with coffee; if you spill it on your white shirt, it will leave an ugly brown _____.",
+                    "options": [
+                        "stain",
+                        "button",
+                        "pocket",
+                        "sleeve"
+                    ],
+                    "answer": "stain",
+                    "explanation": "A stain is a mark or spot that is difficult to remove, often caused by spilling food, drink, or other substances on fabric."
+                },
+                {
+                    "id": "V46",
+                    "difficulty": 2,
+                    "arabicHint": "يغش (في الامتحان)",
+                    "prompt": "It is wrong to _____ by looking at your friend's paper during a test.",
+                    "options": [
+                        "cheat",
+                        "study",
+                        "sleep",
+                        "read"
+                    ],
+                    "answer": "cheat",
+                    "explanation": "To cheat means to act dishonestly to gain an advantage, such as copying answers during an exam instead of doing your own work."
+                },
+                {
+                    "id": "V47",
+                    "difficulty": 1,
+                    "arabicHint": "يعيد (شيء مقترض)",
+                    "prompt": "When you borrow a book from the library, you must _____ it on time.",
+                    "options": [
+                        "return",
+                        "keep",
+                        "sell",
+                        "lose"
+                    ],
+                    "answer": "return",
+                    "explanation": "To return means to give something back to the person or place you borrowed it from."
+                },
+                {
+                    "id": "V48",
+                    "difficulty": 2,
+                    "arabicHint": "جمارك / ضرائب",
+                    "prompt": "The president decides how much _____ people must pay to the government.",
+                    "options": [
+                        "taxes",
+                        "salaries",
+                        "gifts",
+                        "prizes"
+                    ],
+                    "answer": "taxes",
+                    "explanation": "Taxes are amounts of money that citizens and businesses must pay to the government to fund public services."
+                },
+                {
+                    "id": "V49",
+                    "difficulty": 2,
+                    "arabicHint": "هذا الشخص (غير رسمي)",
+                    "prompt": "I met _____ at the mall yesterday who told me an amazing story.",
+                    "options": [
+                        "this guy",
+                        "the president",
+                        "the building",
+                        "the weather"
+                    ],
+                    "answer": "this guy",
+                    "explanation": "In informal English, 'this guy' is a casual way to refer to 'this person' or 'this man' when telling a story."
+                },
+                {
+                    "id": "V50",
+                    "difficulty": 2,
+                    "arabicHint": "سؤال تأكيدي (للتعجب)",
+                    "question": "Identify the echo question used to express disbelief or confirm what was heard.",
+                    "prompt": "A: I wouldn't know what to do with a million dollars. B: _____?",
+                    "options": [
+                        "You wouldn't know what to do with so much money",
+                        "What is your name",
+                        "Where are you going",
+                        "How are you today"
+                    ],
+                    "answer": "You wouldn't know what to do with so much money",
+                    "explanation": "An echo question repeats part of what someone said to show surprise or disbelief. Here, repeating 'You wouldn't know...?' shows shock at the statement."
+                }
+            ]
+        }
+    ]
+}

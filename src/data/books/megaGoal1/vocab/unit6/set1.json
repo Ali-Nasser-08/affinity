@@ -1,0 +1,508 @@
+{
+    "unit": "Mega Goal 1 - Unit 6: Take My Advice?",
+    "type": "misc",
+    "setTitle": "Reading: Advice & Healthy Choices",
+    "words": [
+        {
+            "word": "you'd better",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Strong advice suggesting "
+                },
+                {
+                    "text": "something is necessary",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "important to avoid problems",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "من الأفضل أن / يجدر بك أن",
+            "synonyms": [
+                "you should really",
+                "it would be wise to"
+            ],
+            "example": [
+                {
+                    "text": "You "
+                },
+                {
+                    "text": "you'd better",
+                    "colorize": true
+                },
+                {
+                    "text": " stay away from fast food if you want to stay healthy."
+                }
+            ],
+            "tips": "Short for 'you had better'. Stronger than 'should'—implies negative consequences if ignored. Often used for warnings: 'You'd better hurry!'"
+        },
+        {
+            "word": "ought to",
+            "wordType": "modal phrase",
+            "definition": [
+                {
+                    "text": "Formal way to give "
+                },
+                {
+                    "text": "advice or recommendation",
+                    "highlight": true
+                },
+                {
+                    "text": " based on "
+                },
+                {
+                    "text": "what is right or expected",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ينبغي أن / من المفروض أن",
+            "synonyms": [
+                "should",
+                "it would be good to"
+            ],
+            "example": [
+                {
+                    "text": "You "
+                },
+                {
+                    "text": "ought to",
+                    "colorize": true
+                },
+                {
+                    "text": " take up a sport to stay fit."
+                }
+            ],
+            "tips": "More formal than 'should'. Often used for moral/social obligations. Always followed by base verb (ought to exercise, not 'ought exercising')."
+        },
+        {
+            "word": "turn down",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "refuse politely",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "say no to an offer",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يرفض / يرفض بلطف",
+            "synonyms": [
+                "decline",
+                "reject",
+                "say no to"
+            ],
+            "example": [
+                {
+                    "text": "In the case of peer pressure, just "
+                },
+                {
+                    "text": "turn down",
+                    "colorize": true
+                },
+                {
+                    "text": " the junk food."
+                }
+            ],
+            "tips": "Turn down an invitation/offer/request. Not the same as 'turn off' (switch off). Can also mean to lower volume: 'turn down the music'."
+        },
+        {
+            "word": "put off",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "postpone or delay",
+                    "highlight": true
+                },
+                {
+                    "text": " doing something, often "
+                },
+                {
+                    "text": "because you don't want to do it",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يؤجل / يماطل",
+            "synonyms": [
+                "postpone",
+                "delay",
+                "procrastinate"
+            ],
+            "example": [
+                {
+                    "text": "I know I should exercise, but I keep "
+                },
+                {
+                    "text": "putting it off",
+                    "colorize": true
+                },
+                {
+                    "text": "."
+                }
+            ],
+            "tips": "Put off + noun/gerund (put off exercise/putting off exercising). Common procrastination phrase. Not the same as 'put on' (wear clothes)."
+        },
+        {
+            "word": "take up",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "start a new activity",
+                    "highlight": true
+                },
+                {
+                    "text": ", hobby, or "
+                },
+                {
+                    "text": "interest regularly",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يبدأ / يمارس (نشاط جديد)",
+            "synonyms": [
+                "start doing",
+                "begin",
+                "take on"
+            ],
+            "example": [
+                {
+                    "text": "You "
+                },
+                {
+                    "text": "ought to take up",
+                    "colorize": true
+                },
+                {
+                    "text": " a sport to improve your fitness."
+                }
+            ],
+            "tips": "Take up swimming/painting/yoga. Not the same as 'take over' (assume control). Can also mean 'occupy space/time': 'This desk takes up too much room.'"
+        },
+        {
+            "word": "work out",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "exercise physically",
+                    "highlight": true
+                },
+                {
+                    "text": ", especially to "
+                },
+                {
+                    "text": "improve fitness or strength",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يتمرن / يمارس الرياضة",
+            "synonyms": [
+                "exercise",
+                "train",
+                "do physical activity"
+            ],
+            "example": [
+                {
+                    "text": "You could "
+                },
+                {
+                    "text": "work out",
+                    "colorize": true
+                },
+                {
+                    "text": " with me if you like."
+                }
+            ],
+            "tips": "Work out at the gym/park. Can also mean 'to solve a problem': 'We worked out a solution.' Context determines meaning."
+        },
+        {
+            "word": "peer pressure",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "Influence from "
+                },
+                {
+                    "text": "people your own age",
+                    "highlight": true
+                },
+                {
+                    "text": " that makes you "
+                },
+                {
+                    "text": "do things you might not choose alone",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ضغط الأقران",
+            "synonyms": [
+                "social pressure from friends",
+                "group influence"
+            ],
+            "example": [
+                {
+                    "text": "Younger people eat junk food because of "
+                },
+                {
+                    "text": "peer pressure",
+                    "colorize": true
+                },
+                {
+                    "text": "."
+                }
+            ],
+            "tips": "Can be positive (friends encouraging study) or negative (pressuring to smoke). Learning to say 'no' builds self-confidence."
+        },
+        {
+            "word": "self-worth",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Your "
+                },
+                {
+                    "text": "belief in your own value",
+                    "highlight": true
+                },
+                {
+                    "text": " and "
+                },
+                {
+                    "text": "importance as a person",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "تقدير الذات / القيمة الذاتية",
+            "synonyms": [
+                "self-esteem",
+                "self-respect",
+                "personal value"
+            ],
+            "example": [
+                {
+                    "text": "Keep your principles and your sense of "
+                },
+                {
+                    "text": "self-worth",
+                    "colorize": true
+                },
+                {
+                    "text": "—you deserve healthy food."
+                }
+            ],
+            "tips": "Strong self-worth helps resist negative peer pressure. Not the same as 'selfishness'—it's about respecting yourself, not ignoring others."
+        },
+        {
+            "word": "principles",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Strong "
+                },
+                {
+                    "text": "moral beliefs",
+                    "highlight": true
+                },
+                {
+                    "text": " that guide your "
+                },
+                {
+                    "text": "behavior and decisions",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مبادئ / قيم أخلاقية",
+            "synonyms": [
+                "values",
+                "standards",
+                "ethics"
+            ],
+            "example": [
+                {
+                    "text": "You should keep your "
+                },
+                {
+                    "text": "principles",
+                    "colorize": true
+                },
+                {
+                    "text": " even when friends pressure you to do something unhealthy."
+                }
+            ],
+            "tips": "Principles are personal rules you live by. 'Stand by your principles' = don't compromise your values even when it's difficult."
+        },
+        {
+            "word": "nutritious",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Containing "
+                },
+                {
+                    "text": "substances that help",
+                    "highlight": true
+                },
+                {
+                    "text": " your body "
+                },
+                {
+                    "text": "grow and stay healthy",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مغذي / غني بالعناصر الغذائية",
+            "synonyms": [
+                "healthy",
+                "wholesome",
+                "good for you"
+            ],
+            "example": [
+                {
+                    "text": "You deserve healthy and "
+                },
+                {
+                    "text": "nutritious",
+                    "colorize": true
+                },
+                {
+                    "text": " food—not junk food."
+                }
+            ],
+            "tips": "Nutritious ≠ tasty (some nutritious food isn't delicious). Related: nutrition (noun), nutrient (vitamin/mineral that nourishes)."
+        },
+        {
+            "word": "appetite",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "natural desire",
+                    "highlight": true
+                },
+                {
+                    "text": " to "
+                },
+                {
+                    "text": "eat food when hungry",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "شهية",
+            "synonyms": [
+                "hunger",
+                "craving for food"
+            ],
+            "example": [
+                {
+                    "text": "Anorexia affects people's "
+                },
+                {
+                    "text": "appetite",
+                    "colorize": true
+                },
+                {
+                    "text": " because of emotional problems."
+                }
+            ],
+            "tips": "Lose your appetite = stop feeling hungry (often when sick). Healthy appetite = normal desire to eat. Not the same as 'appetizer' (starter food)."
+        },
+        {
+            "word": "awareness-raising",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Designed to "
+                },
+                {
+                    "text": "increase knowledge",
+                    "highlight": true
+                },
+                {
+                    "text": " and "
+                },
+                {
+                    "text": "understanding about an issue",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "توعوي / يهدف لزيادة الوعي",
+            "synonyms": [
+                "educational campaign",
+                "consciousness-raising"
+            ],
+            "example": [
+                {
+                    "text": "There are many "
+                },
+                {
+                    "text": "awareness-raising",
+                    "colorize": true
+                },
+                {
+                    "text": " campaigns to prevent eating disorders."
+                }
+            ],
+            "tips": "Hyphenated compound adjective. Always comes before noun: 'awareness-raising campaign' (not 'campaign awareness-raising')."
+        },
+        {
+            "word": "put off",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "(In the context of driving) To "
+                },
+                {
+                    "text": "discourage or prevent",
+                    "highlight": true
+                },
+                {
+                    "text": " someone from "
+                },
+                {
+                    "text": "doing something dangerous",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يمنع / يثني عن",
+            "synonyms": [
+                "deter",
+                "discourage"
+            ],
+            "example": [
+                {
+                    "text": "Seat belts should "
+                },
+                {
+                    "text": "put off",
+                    "colorize": true
+                },
+                {
+                    "text": " people from taking driving risks."
+                }
+            ],
+            "tips": "Different meaning from 'postpone'! Context matters: 'put off smoking' = discourage; 'put off quitting' = delay. Pay attention to surrounding words."
+        }
+    ]
+}

@@ -1,0 +1,1644 @@
+{
+    "unit": "Mega Goal 1",
+    "lesson": "Unit 8",
+    "type": "Form, Meaning, and Function",
+    "clusters": [
+        {
+            "clusterId": "cluster-1",
+            "title": "Imaginary Conditionals: Basic Form",
+            "cards": [
+                {
+                    "id": "card-1",
+                    "content": [
+                        {
+                            "text": "Imaginary Conditionals",
+                            "highlight": true
+                        },
+                        {
+                            "text": " for Present Situations",
+                            "highlight": true
+                        },
+                        {
+                            "text": "الجمل الشرطية الخيالية للمواقف الحالية"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-2",
+                    "content": [
+                        {
+                            "text": "We use this structure to describe "
+                        },
+                        {
+                            "text": "unreal or imaginary situations",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " happening now or generally"
+                        },
+                        {
+                            "text": "نستخدم هذا التركيب لوصف "
+                        },
+                        {
+                            "text": "مواقف غير حقيقية أو خيالية",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " تحدث الآن أو بشكل عام"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-3",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "If",
+                            "badge": true,
+                            "translation": "إذا"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "subject",
+                            "badge2": true,
+                            "translation": "الفاعل"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "simple past verb",
+                            "badge3": true,
+                            "translation": "فعل ماضي بسيط"
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "subject",
+                            "badge": true,
+                            "translation": "الفاعل"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "would",
+                            "badge2": true
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "base verb",
+                            "badge3": true,
+                            "translation": "فعل مجرد"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-4",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "If I "
+                        },
+                        {
+                            "text": "had",
+                            "colorize": true
+                        },
+                        {
+                            "text": " a faster internet connection, I "
+                        },
+                        {
+                            "text": "would reply",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " to emails instantly"
+                        },
+                        {
+                            "text": "لو "
+                        },
+                        {
+                            "text": "كان لدي",
+                            "colorize": true
+                        },
+                        {
+                            "text": " اتصال إنترنت أسرع، "
+                        },
+                        {
+                            "text": "سأرد",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " على الرسائل الإلكترونية فوراً"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-5",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "If she "
+                        },
+                        {
+                            "text": "knew",
+                            "colorize": true
+                        },
+                        {
+                            "text": " your phone number, she "
+                        },
+                        {
+                            "text": "would message",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " you right now"
+                        },
+                        {
+                            "text": "لو "
+                        },
+                        {
+                            "text": "عرفت",
+                            "colorize": true
+                        },
+                        {
+                            "text": " رقم هاتفك، "
+                        },
+                        {
+                            "text": "سترسل لك",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " رسالة الآن"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-6",
+                    "content": [
+                        {
+                            "text": "Important: The simple past here does NOT refer to past time — it shows the situation is "
+                        },
+                        {
+                            "text": "unreal or imaginary",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "مهم: الماضي البسيط هنا لا يشير إلى الزمن الماضي — بل يظهر أن الموقف "
+                        },
+                        {
+                            "text": "خيالي أو غير حقيقي",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-7",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "If I "
+                        },
+                        {
+                            "text": "spoke",
+                            "colorize": true
+                        },
+                        {
+                            "text": " five languages, I "
+                        },
+                        {
+                            "text": "would work",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " as a translator"
+                        },
+                        {
+                            "text": "لو "
+                        },
+                        {
+                            "text": "تكلمت",
+                            "colorize": true
+                        },
+                        {
+                            "text": " خمس لغات، "
+                        },
+                        {
+                            "text": "سأعمل",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " مترجماً"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-8",
+                    "content": [
+                        {
+                            "text": "✗ : If I ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "will have",
+                            "colorize": true
+                        },
+                        {
+                            "text": " time, I would help you"
+                        },
+                        {
+                            "text": "✗ خطأ: إذا ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "will have",
+                            "colorize": true
+                        },
+                        {
+                            "text": " وقت، سأساعدك"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-2",
+            "title": "Would Contractions",
+            "cards": [
+                {
+                    "id": "card-9",
+                    "content": [
+                        {
+                            "text": "Would",
+                            "highlight": true
+                        },
+                        {
+                            "text": " Contractions",
+                            "highlight": true
+                        },
+                        {
+                            "text": "اختصارات Would"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-10",
+                    "content": [
+                        {
+                            "text": "Would contracts to ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "'d",
+                            "colorize": true
+                        },
+                        {
+                            "text": " with ALL subjects (I, you, he, she, we, they)"
+                        },
+                        {
+                            "text": "تختصر would إلى ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "'d",
+                            "colorize": true
+                        },
+                        {
+                            "text": " مع جميع الضمائر (أنا، أنت، هو، هي، نحن، هم)"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-11",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "I",
+                            "badge": true,
+                            "translation": "أنا"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "'d",
+                            "badge2": true,
+                            "translation": "سـ"
+                        },
+                        {
+                            "text": " = "
+                        },
+                        {
+                            "text": "I would",
+                            "badge3": true,
+                            "translation": "أنا سأ"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-12",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "you",
+                            "badge": true,
+                            "translation": "أنت"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "'d",
+                            "badge2": true,
+                            "translation": "سـ"
+                        },
+                        {
+                            "text": " = "
+                        },
+                        {
+                            "text": "you would",
+                            "badge3": true,
+                            "translation": "أنت سـ"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-13",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "he/she/it",
+                            "badge": true,
+                            "translation": "هو/هي"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "'d",
+                            "badge2": true,
+                            "translation": "سـ"
+                        },
+                        {
+                            "text": " = "
+                        },
+                        {
+                            "text": "he/she/it would",
+                            "badge3": true,
+                            "translation": "هو/هي سـ"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-14",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "we/they",
+                            "badge": true,
+                            "translation": "نحن/هم"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "'d",
+                            "badge2": true,
+                            "translation": "سـ"
+                        },
+                        {
+                            "text": " = "
+                        },
+                        {
+                            "text": "we/they would",
+                            "badge3": true,
+                            "translation": "نحن/هم سـ"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-15",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "If my phone "
+                        },
+                        {
+                            "text": "had",
+                            "colorize": true
+                        },
+                        {
+                            "text": " better battery life, I "
+                        },
+                        {
+                            "text": "'d check",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " messages more often"
+                        },
+                        {
+                            "text": "لو كانت بطارية هاتفي "
+                        },
+                        {
+                            "text": "أفضل",
+                            "colorize": true
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "سأفحص",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " الرسائل أكثر"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-16",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "They "
+                        },
+                        {
+                            "text": "'d respond",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " faster if they "
+                        },
+                        {
+                            "text": "had",
+                            "colorize": true
+                        },
+                        {
+                            "text": " notification sounds enabled"
+                        },
+                        {
+                            "text": "هم "
+                        },
+                        {
+                            "text": "سيستجيبون",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " أسرع لو "
+                        },
+                        {
+                            "text": "كان لديهم",
+                            "colorize": true
+                        },
+                        {
+                            "text": " أصوات إشعارات مفعلة"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-3",
+            "title": "Might in Conditionals",
+            "cards": [
+                {
+                    "id": "card-17",
+                    "content": [
+                        {
+                            "text": "Might",
+                            "highlight": true
+                        },
+                        {
+                            "text": " for Possibility",
+                            "highlight": true
+                        },
+                        {
+                            "text": "Might للإمكانيات"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-18",
+                    "content": [
+                        {
+                            "text": "We replace "
+                        },
+                        {
+                            "text": "would ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "with "
+                        },
+                        {
+                            "text": "might ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "to show the result is "
+                        },
+                        {
+                            "text": "possible but not certain",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "نستبدل would بـ ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "might",
+                            "colorize": true
+                        },
+                        {
+                            "text": " لإظهار أن النتيجة "
+                        },
+                        {
+                            "text": "محتملة لكن غير مؤكدة",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-19",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "If",
+                            "badge": true,
+                            "translation": "إذا"
+                        },
+                        {
+                            "text": " + condition, "
+                        },
+                        {
+                            "text": "subject",
+                            "badge2": true,
+                            "translation": "الفاعل"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "might",
+                            "badge3": true,
+                            "translation": "ربما"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "base verb",
+                            "badge": true,
+                            "translation": "فعل مجرد"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-20",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "If I "
+                        },
+                        {
+                            "text": "had",
+                            "colorize": true
+                        },
+                        {
+                            "text": " extra storage space, I "
+                        },
+                        {
+                            "text": "might save",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " more photos on my phone"
+                        },
+                        {
+                            "text": "لو "
+                        },
+                        {
+                            "text": "كان لدي",
+                            "colorize": true
+                        },
+                        {
+                            "text": " مساحة تخزين إضافية، "
+                        },
+                        {
+                            "text": "ربما أحفظ",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " المزيد من الصور على هاتفي"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-21",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "If she "
+                        },
+                        {
+                            "text": "remembered",
+                            "colorize": true
+                        },
+                        {
+                            "text": " my birthday, she "
+                        },
+                        {
+                            "text": "might send",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " me a message"
+                        },
+                        {
+                            "text": "لو "
+                        },
+                        {
+                            "text": "تذكّرت",
+                            "colorize": true
+                        },
+                        {
+                            "text": " عيد ميلادي، "
+                        },
+                        {
+                            "text": "ربما ترسل لي",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " رسالة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-22",
+                    "content": [
+                        {
+                            "text": "Compare: ",
+                            "highlight": true
+                        },
+                        {
+                            "text": "would",
+                            "colorize": true
+                        },
+                        {
+                            "text": " = likely to happen \n"
+                        },
+                        {
+                            "text": "might",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " = possible but uncertain"
+                        },
+                        {
+                            "text": "قارن: ",
+                            "highlight": true
+                        },
+                        {
+                            "text": "would",
+                            "colorize": true
+                        },
+                        {
+                            "text": " = من المرجح أن يحدث / "
+                        },
+                        {
+                            "text": "might",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " = ممكن لكن غير مؤكد"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-23",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "If I "
+                        },
+                        {
+                            "text": "had",
+                            "colorize": true
+                        },
+                        {
+                            "text": " time, I "
+                        },
+                        {
+                            "text": "would call",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " you (I probably will)"
+                        },
+                        {
+                            "text": "لو "
+                        },
+                        {
+                            "text": "كان لدي",
+                            "colorize": true
+                        },
+                        {
+                            "text": " وقت، "
+                        },
+                        {
+                            "text": "سأتصل بك",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " (من المرجح أن أفعل)"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-24",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "If I "
+                        },
+                        {
+                            "text": "had",
+                            "colorize": true
+                        },
+                        {
+                            "text": " time, I "
+                        },
+                        {
+                            "text": "might call",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " you (maybe, maybe not)"
+                        },
+                        {
+                            "text": "لو "
+                        },
+                        {
+                            "text": "كان لدي",
+                            "colorize": true
+                        },
+                        {
+                            "text": " وقت، "
+                        },
+                        {
+                            "text": "ربما أتصل بك",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " (ربما نعم، ربما لا)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-4",
+            "title": "Could in Conditionals",
+            "cards": [
+                {
+                    "id": "card-25",
+                    "content": [
+                        {
+                            "text": "Could",
+                            "highlight": true
+                        },
+                        {
+                            "text": " for Ability",
+                            "highlight": true
+                        },
+                        {
+                            "text": "Could للقدرة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-26",
+                    "content": [
+                        {
+                            "text": "In the "
+                        },
+                        {
+                            "text": "if-clause, ",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "could ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "means "
+                        },
+                        {
+                            "text": "if someone were able to",
+                            "colorize": true
+                        },
+                        {
+                            "text": "في "
+                        },
+                        {
+                            "text": "الجملة الشرطية",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " could ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "تعني "
+                        },
+                        {
+                            "text": "لو استطاع شخص ما ",
+                            "colorize": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-27",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "If I "
+                        },
+                        {
+                            "text": "could type",
+                            "colorize": true
+                        },
+                        {
+                            "text": " faster, I'd finish this email sooner"
+                        },
+                        {
+                            "text": "لو "
+                        },
+                        {
+                            "text": "استطعت الكتابة",
+                            "colorize": true
+                        },
+                        {
+                            "text": " أسرع، سأنتهي من هذا البريد الإلكتروني عاجلاً"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-28",
+                    "content": [
+                        {
+                            "text": "In the "
+                        },
+                        {
+                            "text": "main clause, ",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "could ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "means "
+                        },
+                        {
+                            "text": "would be able to ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "في "
+                        },
+                        {
+                            "text": "الجملة الرئيسية ",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " could  ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "تعني انه "
+                        },
+                        {
+                            "text": "سيكون قادراً على",
+                            "colorize": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-29",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "If we "
+                        },
+                        {
+                            "text": "had",
+                            "colorize": true
+                        },
+                        {
+                            "text": " stable Wi-Fi, we "
+                        },
+                        {
+                            "text": "could join",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " the video call"
+                        },
+                        {
+                            "text": "لو "
+                        },
+                        {
+                            "text": "كان لدينا",
+                            "colorize": true
+                        },
+                        {
+                            "text": " واي فاي مستقر، "
+                        },
+                        {
+                            "text": "لاستطعنا الانضمام",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " إلى المكالمة المرئية"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-30",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "If my phone "
+                        },
+                        {
+                            "text": "had",
+                            "colorize": true
+                        },
+                        {
+                            "text": " unlimited data, I "
+                        },
+                        {
+                            "text": "could stream",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " movies anywhere"
+                        },
+                        {
+                            "text": "لو كان هاتفي "
+                        },
+                        {
+                            "text": "يحتوي على",
+                            "colorize": true
+                        },
+                        {
+                            "text": " بيانات غير محدودة، "
+                        },
+                        {
+                            "text": "لاستطعت مشاهدة",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " الأفلام في أي مكان"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-31",
+                    "content": [
+                        {
+                            "text": "Remember:",
+                            "highlight": true
+                        },
+                        {
+                            "text": "Remember: Could already contains the meaning of ability."
+                        },
+                        {
+                            "text": " Don't add be able to",
+                            "colorize": true
+                        },
+                        {
+                            "text": "تذكّر:",
+                            "highlight": true
+                        },
+                        {
+                            "text": "Could تحتوي بالفعل على معنى القدرة. "
+                        },
+                        {
+                            "text": "لا تضف be able to ",
+                            "colorize": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-32",
+                    "content": [
+                        {
+                            "text": "✗ : If I had time, I could "
+                        },
+                        {
+                            "text": "be able to",
+                            "colorize": true
+                        },
+                        {
+                            "text": " help you"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-5",
+            "title": "Wish for Present Situations",
+            "cards": [
+                {
+                    "id": "card-33",
+                    "content": [
+                        {
+                            "text": "Wish",
+                            "highlight": true
+                        },
+                        {
+                            "text": " for Present Situations",
+                            "highlight": true
+                        },
+                        {
+                            "text": "Wish للمواقف الحالية"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-34",
+                    "content": [
+                        {
+                            "text": "We use"
+                        },
+                        {
+                            "text": " wish ",
+                            "colorize": true
+                        },
+                        {
+                            "text": " to express "
+                        },
+                        {
+                            "text": "desires for situations that are not true now",
+                            "colorize": true
+                        },
+                        {
+                            "text": "نستخدم"
+                        },
+                        {
+                            "text": " wish ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "للتعبير عن "
+                        },
+                        {
+                            "text": "رغبات لمواقف غير حقيقية",
+                            "colorize": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-35",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "subject",
+                            "badge": true,
+                            "translation": "الفاعل"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "wish",
+                            "badge2": true,
+                            "translation": "أتمنى"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "subject",
+                            "badge3": true,
+                            "translation": "الفاعل"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "simple past verb",
+                            "badge": true,
+                            "translation": "فعل ماضي بسيط"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-36",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "I don't have a smartphone. → I "
+                        },
+                        {
+                            "text": "wish",
+                            "colorize": true
+                        },
+                        {
+                            "text": " I "
+                        },
+                        {
+                            "text": "had",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " a smartphone"
+                        },
+                        {
+                            "text": "ليس لدي هاتف ذكي. → "
+                        },
+                        {
+                            "text": "أتمنى",
+                            "colorize": true
+                        },
+                        {
+                            "text": " لو "
+                        },
+                        {
+                            "text": "كان لدي",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " هاتف ذكي"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-37",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "I can't send voice messages. → I "
+                        },
+                        {
+                            "text": "wish",
+                            "colorize": true
+                        },
+                        {
+                            "text": " I "
+                        },
+                        {
+                            "text": "could send",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " voice messages"
+                        },
+                        {
+                            "text": "لا أستطيع إرسال رسائل صوتية. ← "
+                        },
+                        {
+                            "text": "أتمنى",
+                            "colorize": true
+                        },
+                        {
+                            "text": " لو "
+                        },
+                        {
+                            "text": "استطعت إرسال",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " رسائل صوتية"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-38",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "My inbox is full. → I "
+                        },
+                        {
+                            "text": "wish",
+                            "colorize": true
+                        },
+                        {
+                            "text": " my inbox "
+                        },
+                        {
+                            "text": "wasn't",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " full"
+                        },
+                        {
+                            "text": "صندوق واردي ممتلئ. ← "
+                        },
+                        {
+                            "text": "أتمنى",
+                            "colorize": true
+                        },
+                        {
+                            "text": " لو أن صندوق واردي "
+                        },
+                        {
+                            "text": "ليس",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " ممتلئاً"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-39",
+                    "content": [
+                        {
+                            "text": "Note: After wish, we use "
+                        },
+                        {
+                            "text": "were",
+                            "colorize": true
+                        },
+                        {
+                            "text": " for all subjects in formal English "
+                        },
+                        {
+                            "text": "(I/he/she/it were)",
+                            "colorize": true
+                        },
+                        {
+                            "text": "ملاحظة: بعد wish، نستخدم ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "were",
+                            "colorize": true
+                        },
+                        {
+                            "text": " لجميع الضمائر في الإنجليزية الرسمية (أنا/هو/هي/هو كانت)"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-40",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "I wish I "
+                        },
+                        {
+                            "text": "were",
+                            "colorize": true
+                        },
+                        {
+                            "text": " better at typing on my phone (formal)"
+                        },
+                        {
+                            "text": "أتمنى لو "
+                        },
+                        {
+                            "text": "كنت",
+                            "colorize": true
+                        },
+                        {
+                            "text": " أفضل في الكتابة على هاتفي (رسمي)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-6",
+            "title": "Wish for Future Actions",
+            "cards": [
+                {
+                    "id": "card-41",
+                    "content": [
+                        {
+                            "text": "Wish",
+                            "highlight": true
+                        },
+                        {
+                            "text": " for Future Actions",
+                            "highlight": true
+                        },
+                        {
+                            "text": "Wish للأفعال المستقبلية"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-42",
+                    "content": [
+                        {
+                            "text": "We use "
+                        },
+                        {
+                            "text": "wish + would",
+                            "colorize": true
+                        },
+                        {
+                            "text": " to express desire for "
+                        },
+                        {
+                            "text": "someone else's future action",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "نستخدم "
+                        },
+                        {
+                            "text": "wish + would",
+                            "colorize": true
+                        },
+                        {
+                            "text": " للتعبير عن "
+                        },
+                        {
+                            "text": "رغبة في فعل مستقبلي لشخص آخر",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-43",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "subject",
+                            "badge": true,
+                            "translation": "الفاعل"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "wish",
+                            "badge2": true,
+                            "translation": "أتمنى"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "subject",
+                            "badge3": true,
+                            "translation": "الفاعل"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "would",
+                            "badge": true
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "base verb",
+                            "badge2": true,
+                            "translation": "فعل مجرد"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-44",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "My friend never replies quickly. → I "
+                        },
+                        {
+                            "text": "wish",
+                            "colorize": true
+                        },
+                        {
+                            "text": " my friend "
+                        },
+                        {
+                            "text": "would reply",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " faster"
+                        },
+                        {
+                            "text": "صديقي لا يرد أبداً بسرعة. ← "
+                        },
+                        {
+                            "text": "أتمنى",
+                            "colorize": true
+                        },
+                        {
+                            "text": " لو أن صديقي "
+                        },
+                        {
+                            "text": "يرد",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " أسرع"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-45",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "My brother won't share his charger. → I "
+                        },
+                        {
+                            "text": "wish",
+                            "colorize": true
+                        },
+                        {
+                            "text": " my brother "
+                        },
+                        {
+                            "text": "would share",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " his charger"
+                        },
+                        {
+                            "text": "أخي لن يشارك شاحنه. ← "
+                        },
+                        {
+                            "text": "أتمنى",
+                            "colorize": true
+                        },
+                        {
+                            "text": " لو أن أخي "
+                        },
+                        {
+                            "text": "يشارك",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " شاحنه"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-46",
+                    "content": [
+                        {
+                            "text": "Important:",
+                            "highlight": true
+                        },
+                        {
+                            "text": "We don't use would after I/you/we/they",
+                            "colorize": true
+                        },
+                        {
+                            "text": " in the wish clause for our own actions"
+                        },
+                        {
+                            "text": "مهم: ",
+                            "highlight": true
+                        },
+                        {
+                            "text": "لا نستخدم would بعد I/you/we/they",
+                            "colorize": true
+                        },
+                        {
+                            "text": " في جملة wish لأفعالنا الخاصة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-47",
+                    "content": [
+                        {
+                            "text": "✗ : I wish I ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "would have",
+                            "colorize": true
+                        },
+                        {
+                            "text": " more free time"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-48",
+                    "content": [
+                        {
+                            "text": "✓ CORRECT: I wish I ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "had",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " more free time"
+                        },
+                        {
+                            "text": "✓ صحيح: أتمنى لو ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "كان لدي",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " وقت فراغ أكثر"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-49",
+                    "content": [
+                        {
+                            "text": "Informal note: In spoken English, many people use "
+                        },
+                        {
+                            "text": "was",
+                            "colorize": true
+                        },
+                        {
+                            "text": " instead of "
+                        },
+                        {
+                            "text": "were",
+                            "colorize": true
+                        },
+                        {
+                            "text": " with I"
+                        },
+                        {
+                            "text": "ملاحظة غير رسمية: في الإنجليزية المحكية، يستخدم كثير من الناس "
+                        },
+                        {
+                            "text": "was",
+                            "colorize": true
+                        },
+                        {
+                            "text": " بدلاً من "
+                        },
+                        {
+                            "text": "were",
+                            "colorize": true
+                        },
+                        {
+                            "text": " مع I"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-50",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "I wish I "
+                        },
+                        {
+                            "text": "was",
+                            "colorize": true
+                        },
+                        {
+                            "text": " better at video calls (informal spoken English)"
+                        },
+                        {
+                            "text": "أتمنى لو "
+                        },
+                        {
+                            "text": "كنت",
+                            "colorize": true
+                        },
+                        {
+                            "text": " أفضل في المكالمات المرئية (محكي غير رسمي)"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

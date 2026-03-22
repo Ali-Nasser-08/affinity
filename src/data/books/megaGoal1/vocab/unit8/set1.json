@@ -1,0 +1,550 @@
+{
+    "unit": "Mega Goal 1 - Unit 8: Wishful Thinking",
+    "type": "reading",
+    "setTitle": "Reading: What People Are Saying",
+    "words": [
+        {
+            "word": "universe",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "All of "
+                },
+                {
+                    "text": "space and everything in it",
+                    "highlight": true
+                },
+                {
+                    "text": ", including "
+                },
+                {
+                    "text": "planets, stars, galaxies, and matter",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "الكون",
+            "synonyms": [
+                "cosmos",
+                "outer space",
+                "the cosmos"
+            ],
+            "example": [
+                {
+                    "text": "Scientists study the "
+                },
+                {
+                    "text": "universe",
+                    "colorize": true
+                },
+                {
+                    "text": " to understand how it began and how it continues to expand"
+                }
+            ],
+            "tips": "Do not confuse with 'world' (Earth). The universe includes everything that exists, not just our planet."
+        },
+        {
+            "word": "vary",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To be "
+                },
+                {
+                    "text": "different from one another",
+                    "highlight": true
+                },
+                {
+                    "text": "; to "
+                },
+                {
+                    "text": "change in form or character",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يختلف / يتنوع",
+            "synonyms": [
+                "differ",
+                "change",
+                "be diverse"
+            ],
+            "example": [
+                {
+                    "text": "People’s opinions about food really "
+                },
+                {
+                    "text": "vary",
+                    "colorize": true
+                },
+                {
+                    "text": ", some enjoy spicy dishes while others prefer mild flavors"
+                }
+            ],
+            "tips": "Common pattern: 'vary from X to Y' or 'vary depending on...'. Not the same as 'very' (adverb meaning extremely)."
+        },
+        {
+            "word": "keep in touch",
+            "wordType": "phrasal verb phrase",
+            "definition": [
+                {
+                    "text": "To maintain "
+                },
+                {
+                    "text": "regular contact or communication",
+                    "highlight": true
+                },
+                {
+                    "text": " with someone over "
+                },
+                {
+                    "text": "time and distance",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يظل على تواصل",
+            "synonyms": [
+                "stay connected",
+                "remain in contact"
+            ],
+            "example": [
+                {
+                    "text": "Even though my best friend moved abroad, we "
+                },
+                {
+                    "text": "keep in touch",
+                    "colorize": true
+                },
+                {
+                    "text": " by video calling every weekend"
+                }
+            ],
+            "tips": "Very common expression for friendships/relationships. Often used with 'with': keep in touch with friends. Opposite: lose touch."
+        },
+        {
+            "word": "encounter",
+            "wordType": "noun/verb",
+            "definition": [
+                {
+                    "text": "An unexpected or "
+                },
+                {
+                    "text": "chance meeting",
+                    "highlight": true
+                },
+                {
+                    "text": " with someone or something, often "
+                },
+                {
+                    "text": "surprising or unusual",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "لقاء غير متوقع / مصادفة",
+            "synonyms": [
+                "meeting",
+                "run-in",
+                "confrontation"
+            ],
+            "example": [
+                {
+                    "text": "During our hike, we had a surprising "
+                },
+                {
+                    "text": "encounter",
+                    "colorize": true
+                },
+                {
+                    "text": " with a family of deer near the waterfall"
+                }
+            ],
+            "tips": "As verb: 'encounter a problem' = face unexpectedly. 'Close encounter' is a famous phrase from sci-fi (Close Encounters of the Third Kind)."
+        },
+        {
+            "word": "extraterrestrial",
+            "wordType": "noun/adjective",
+            "definition": [
+                {
+                    "text": "A being or object that comes from "
+                },
+                {
+                    "text": "outside planet Earth",
+                    "highlight": true
+                },
+                {
+                    "text": "; often shortened to "
+                },
+                {
+                    "text": "'ET' or 'alien'",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "كائن فضائي",
+            "synonyms": [
+                "alien",
+                "space being"
+            ],
+            "example": [
+                {
+                    "text": "Scientists use powerful telescopes hoping to find evidence of "
+                },
+                {
+                    "text": "extraterrestrial",
+                    "colorize": true
+                },
+                {
+                    "text": " life somewhere in our galaxy"
+                }
+            ],
+            "tips": "Prefix 'extra-' means 'outside/beyond'. Terrestrial = relating to Earth (like 'terrain'). Often abbreviated as ET in casual speech."
+        },
+        {
+            "word": "fabulous",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Extremely "
+                },
+                {
+                    "text": "good, impressive, or enjoyable",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "wonderful beyond ordinary",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "رائع جدًا / مذهل",
+            "synonyms": [
+                "amazing",
+                "fantastic",
+                "excellent"
+            ],
+            "example": [
+                {
+                    "text": "She wore a "
+                },
+                {
+                    "text": "fabulous",
+                    "colorize": true
+                },
+                {
+                    "text": " emerald-green dress to the party that everyone admired"
+                }
+            ],
+            "tips": "Stronger than 'good' or 'nice'. Originally meant 'mythical' (like fables), now means 'amazing'. Common in informal enthusiastic speech."
+        },
+        {
+            "word": "historical figure",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A person who lived in the past and is "
+                },
+                {
+                    "text": "remembered for important actions",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "influence on history",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "شخصية تاريخية",
+            "synonyms": [
+                "famous person from history",
+                "historical personality"
+            ],
+            "example": [
+                {
+                    "text": "Marie Curie remains one of the most respected "
+                },
+                {
+                    "text": "historical figures",
+                    "colorize": true
+                },
+                {
+                    "text": " in science for her groundbreaking work on radioactivity"
+                }
+            ],
+            "tips": "Not the same as 'historic figure' (though often confused). 'Historical' = related to history; 'historic' = important in history."
+        },
+        {
+            "word": "whole year round",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "During "
+                },
+                {
+                    "text": "every season",
+                    "highlight": true
+                },
+                {
+                    "text": " of the year; "
+                },
+                {
+                    "text": "continuously throughout the year",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "طوال السنة",
+            "synonyms": [
+                "all year long",
+                "year-round",
+                "throughout the year"
+            ],
+            "example": [
+                {
+                    "text": "The botanical garden stays open the "
+                },
+                {
+                    "text": "whole year round",
+                    "colorize": true
+                },
+                {
+                    "text": ", offering different flowers in every season"
+                }
+            ],
+            "tips": "Often written as compound adjective before nouns: 'year-round sunshine'. Means no bad seasons – consistently good conditions."
+        },
+        {
+            "word": "philanthropist",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A person who "
+                },
+                {
+                    "text": "donates money and time",
+                    "highlight": true
+                },
+                {
+                    "text": " to help others and "
+                },
+                {
+                    "text": "improve society",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "محسن / فاعل خير",
+            "synonyms": [
+                "charity donor",
+                "humanitarian",
+                "benefactor"
+            ],
+            "example": [
+                {
+                    "text": "The famous tech billionaire became a generous "
+                },
+                {
+                    "text": "philanthropist",
+                    "colorize": true
+                },
+                {
+                    "text": " after donating millions to build schools in rural areas"
+                }
+            ],
+            "tips": "From Greek: 'philos' (love) + 'anthropos' (humanity) = lover of humanity. Not the same as 'philosopher' (lover of wisdom)."
+        },
+        {
+            "word": "laureate",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A person who has been "
+                },
+                {
+                    "text": "honored with an award",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "prize for achievement",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حائز على جائزة / فائز",
+            "synonyms": [
+                "prize winner",
+                "award recipient"
+            ],
+            "example": [
+                {
+                    "text": "The young poet became a Nobel "
+                },
+                {
+                    "text": "laureate",
+                    "colorize": true
+                },
+                {
+                    "text": " after publishing her moving collection about peace"
+                }
+            ],
+            "tips": "Formal term used for prestigious awards (Nobel laureate, Pulitzer laureate). Comes from ancient tradition of crowning winners with laurel leaves."
+        },
+        {
+            "word": "medallion",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "large decorative medal",
+                    "highlight": true
+                },
+                {
+                    "text": ", usually made of "
+                },
+                {
+                    "text": "precious metal like gold",
+                    "highlight2": true
+                },
+                {
+                    "text": " and given as an honor"
+                }
+            ],
+            "arabicMeaning": "قلادة معدنية / ميدالية كبيرة",
+            "synonyms": [
+                "commemorative medal",
+                "ornamental medal"
+            ],
+            "example": [
+                {
+                    "text": "The Olympic champion proudly wore the gold "
+                },
+                {
+                    "text": "medallion",
+                    "colorize": true
+                },
+                {
+                    "text": " around her neck during the victory ceremony"
+                }
+            ],
+            "tips": "Different from regular 'medal' – medallions are larger, often worn around the neck on a ribbon. Also: decorative medallion on buildings/walls."
+        },
+        {
+            "word": "certificate",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "An official document that "
+                },
+                {
+                    "text": "proves you achieved",
+                    "highlight": true
+                },
+                {
+                    "text": " something or "
+                },
+                {
+                    "text": "completed a course",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "شهادة",
+            "synonyms": [
+                "diploma",
+                "credential",
+                "official document"
+            ],
+            "example": [
+                {
+                    "text": "After finishing the advanced cooking class, she received a beautifully framed "
+                },
+                {
+                    "text": "certificate",
+                    "colorize": true
+                },
+                {
+                    "text": " signed by the head chef"
+                }
+            ],
+            "tips": "Often signed by important people. 'Certificate of achievement', 'birth certificate', 'certificate of appreciation'. Not the same as 'certification' (the process)."
+        },
+        {
+            "word": "cash prize",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "An award given in the form of "
+                },
+                {
+                    "text": "money you can spend immediately",
+                    "highlight": true
+                },
+                {
+                    "text": ", not goods, services, or "
+                },
+                {
+                    "text": "future payments",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "جائزة نقدية",
+            "synonyms": [
+                "monetary award",
+                "money prize"
+            ],
+            "example": [
+                {
+                    "text": "The winner of the photography contest received a "
+                },
+                {
+                    "text": "cash prize",
+                    "colorize": true
+                },
+                {
+                    "text": " of 5,000 riyals to buy new camera equipment"
+                }
+            ],
+            "tips": "Emphasizes you receive actual money (not a scholarship to be used later, or a physical object). 'Cash' distinguishes it from other prize types."
+        },
+        {
+            "word": "wish",
+            "wordType": "noun/verb",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "desire or hope",
+                    "highlight": true
+                },
+                {
+                    "text": " for something that may be "
+                },
+                {
+                    "text": "difficult or impossible",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "تمنّي / أمنية",
+            "synonyms": [
+                "desire",
+                "hope",
+                "dream"
+            ],
+            "example": [
+                {
+                    "text": "Every birthday, she closes her eyes and makes a silent "
+                },
+                {
+                    "text": "wish",
+                    "colorize": true
+                },
+                {
+                    "text": " before blowing out the candles"
+                }
+            ],
+            "tips": "Key grammar: 'wish + past tense' for present/future unreal situations (I wish I had money). Different from 'hope' (realistic possibility) vs 'wish' (often unrealistic)."
+        }
+    ]
+}

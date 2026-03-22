@@ -1,0 +1,479 @@
+{
+    "unit": "Mega Goal 1 - Unit 11: Life's Regrets",
+    "type": "speaking",
+    "setTitle": "Conversation & Real Talk",
+    "words": [
+        {
+            "word": "breathing down someone's neck",
+            "wordType": "idiom",
+            "definition": [
+                {
+                    "text": "Watching or supervising someone very closely in an "
+                },
+                {
+                    "text": "annoying or pressuring way",
+                    "highlight": true
+                },
+                {
+                    "text": "; making someone feel constantly "
+                },
+                {
+                    "text": "monitored or controlled",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُراقب بدقة مزعجة / يُضايق",
+            "synonyms": [
+                "hovering over",
+                "micromanaging",
+                "watching like a hawk"
+            ],
+            "example": [
+                {
+                    "text": "My new manager kept "
+                },
+                {
+                    "text": "breathing down my neck",
+                    "colorize": true
+                },
+                {
+                    "text": " during my first week, checking every email I sent before I could hit 'send'"
+                }
+            ],
+            "tips": "Vivid idiom describing uncomfortable supervision. Not literal breathing! Often used to complain about bosses, parents, or overly controlling people."
+        },
+        {
+            "word": "go out into the world",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To leave the safety of home or school and begin "
+                },
+                {
+                    "text": "independent adult life",
+                    "highlight": true
+                },
+                {
+                    "text": "; to "
+                },
+                {
+                    "text": "face real-life challenges",
+                    "highlight2": true
+                },
+                {
+                    "text": " on your own"
+                }
+            ],
+            "arabicMeaning": "الانخراط في الحياة / مواجهة العالم",
+            "synonyms": [
+                "enter the real world",
+                "strike out on your own",
+                "begin adult life"
+            ],
+            "example": [
+                {
+                    "text": "After graduation, she was excited but nervous to "
+                },
+                {
+                    "text": "go out into the world",
+                    "colorize": true
+                },
+                {
+                    "text": " and find her first apartment and job"
+                }
+            ],
+            "tips": "Metaphorical expression about transitioning to independence. Often used when young adults leave home for work/study. Implies both opportunity and challenge."
+        },
+        {
+            "word": "have one's mind set on",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To be completely "
+                },
+                {
+                    "text": "determined or focused",
+                    "highlight": true
+                },
+                {
+                    "text": " on achieving a particular goal or "
+                },
+                {
+                    "text": "outcome",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُصمّم على / يُركّز على",
+            "synonyms": [
+                "be determined to",
+                "be fixed on",
+                "have one's heart set on"
+            ],
+            "example": [
+                {
+                    "text": "Ever since childhood, he "
+                },
+                {
+                    "text": "had his mind set on",
+                    "colorize": true
+                },
+                {
+                    "text": " becoming a doctor, and nothing could change his ambition"
+                }
+            ],
+            "tips": "Shows strong determination. Often used when plans later change unexpectedly ('I had my mind set on med school until I discovered engineering')."
+        },
+        {
+            "word": "As for me",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Used to shift the topic of conversation to "
+                },
+                {
+                    "text": "yourself",
+                    "highlight": true
+                },
+                {
+                    "text": " after discussing someone or something "
+                },
+                {
+                    "text": "else",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "أما أنا",
+            "synonyms": [
+                "Regarding me",
+                "Speaking for myself",
+                "In my case"
+            ],
+            "example": [
+                {
+                    "text": "\"My brother loves spicy food.\" \""
+                },
+                {
+                    "text": "As for me",
+                    "colorize": true
+                },
+                {
+                    "text": ", I can't handle anything hotter than black pepper.\""
+                }
+            ],
+            "tips": "Smooth transition phrase in conversations. More natural than 'And me...' which sounds incomplete. Often shortened to 'As for...' before nouns ('As for dinner, I'm not hungry')."
+        },
+        {
+            "word": "You mean",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Used to "
+                },
+                {
+                    "text": "check understanding",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "clarify what someone just said",
+                    "highlight2": true
+                },
+                {
+                    "text": "; asking for confirmation"
+                }
+            ],
+            "arabicMeaning": "هل تقصد؟",
+            "synonyms": [
+                "Do you mean",
+                "Are you saying",
+                "So you're saying"
+            ],
+            "example": [
+                {
+                    "text": "\"I think we should postpone the meeting.\" \""
+                },
+                {
+                    "text": "You mean",
+                    "colorize": true
+                },
+                {
+                    "text": " cancel it completely, or just move it to next week?\""
+                }
+            ],
+            "tips": "Very common in natural conversation for verification. Can sound slightly skeptical depending on tone. More casual than 'Could you clarify what you mean?'"
+        },
+        {
+            "word": "immature",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Not fully developed emotionally; behaving in a "
+                },
+                {
+                    "text": "childish or irresponsible way",
+                    "highlight": true
+                },
+                {
+                    "text": " despite being old enough to "
+                },
+                {
+                    "text": "know better",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "غير ناضج",
+            "synonyms": [
+                "childish",
+                "juvenile",
+                "irresponsible"
+            ],
+            "example": [
+                {
+                    "text": "Refusing to apologize after hurting someone's feelings is an "
+                },
+                {
+                    "text": "immature",
+                    "colorize": true
+                },
+                {
+                    "text": " reaction that damages friendships"
+                }
+            ],
+            "tips": "Opposite: mature. Not the same as 'young' (age) vs. 'immature' (behavior inappropriate for age). Often used as criticism: 'That was immature of you.'"
+        },
+        {
+            "word": "opportunity",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A favorable set of circumstances that makes it possible to "
+                },
+                {
+                    "text": "do something desirable",
+                    "highlight": true
+                },
+                {
+                    "text": "; a "
+                },
+                {
+                    "text": "chance to succeed or improve",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "فرصة",
+            "synonyms": [
+                "chance",
+                "opening",
+                "possibility"
+            ],
+            "example": [
+                {
+                    "text": "Moving to a new city gave her the "
+                },
+                {
+                    "text": "opportunity",
+                    "colorize": true
+                },
+                {
+                    "text": " to reinvent herself and pursue a career in art"
+                }
+            ],
+            "tips": "Often paired with verbs: seize/grab an opportunity, miss an opportunity, create an opportunity. NOT 'do an opportunity' (common error)."
+        },
+        {
+            "word": "responsibilities",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Duties or tasks that you are "
+                },
+                {
+                    "text": "required or expected to handle",
+                    "highlight": true
+                },
+                {
+                    "text": "; obligations that come with "
+                },
+                {
+                    "text": "roles or positions",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مسؤوليات",
+            "synonyms": [
+                "duties",
+                "obligations",
+                "commitments"
+            ],
+            "example": [
+                {
+                    "text": "Becoming a parent brings many new "
+                },
+                {
+                    "text": "responsibilities",
+                    "colorize": true
+                },
+                {
+                    "text": " — feeding, protecting, and guiding a child 24 hours a day"
+                }
+            ],
+            "tips": "Always plural when referring to life/work duties. Singular 'responsibility' often means 'blame' ('Who takes responsibility for this mistake?') or a single duty."
+        },
+        {
+            "word": "master's degree",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "An advanced academic qualification earned after completing "
+                },
+                {
+                    "text": "specialized study",
+                    "highlight": true
+                },
+                {
+                    "text": " beyond a bachelor's degree, typically taking "
+                },
+                {
+                    "text": "one to two years",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "درجة الماجستير",
+            "synonyms": [
+                "graduate degree",
+                "postgraduate qualification"
+            ],
+            "example": [
+                {
+                    "text": "She earned her "
+                },
+                {
+                    "text": "master's degree",
+                    "colorize": true
+                },
+                {
+                    "text": " in environmental science to qualify for senior research positions"
+                }
+            ],
+            "tips": "Always possessive form with apostrophe ('master's', not 'masters'). American English: 'master's degree'. British English sometimes uses 'MA' (Master of Arts) or 'MSc' (Master of Science) specifically."
+        },
+        {
+            "word": "career",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A person's lifelong journey through "
+                },
+                {
+                    "text": "professional work",
+                    "highlight": true
+                },
+                {
+                    "text": "; a chosen occupation pursued over many years with "
+                },
+                {
+                    "text": "growth and development",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مهنة / مسار وظيفي",
+            "synonyms": [
+                "profession",
+                "vocation",
+                "professional path"
+            ],
+            "example": [
+                {
+                    "text": "He changed his "
+                },
+                {
+                    "text": "career",
+                    "colorize": true
+                },
+                {
+                    "text": " at age 40, leaving banking to become a teacher because he wanted more meaningful work"
+                }
+            ],
+            "tips": "NOT the same as 'job' (a specific position you hold). You have one career but many jobs within it. 'Career' implies long-term professional identity."
+        },
+        {
+            "word": "missed opportunity",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A chance to do something beneficial that you "
+                },
+                {
+                    "text": "failed to take",
+                    "highlight": true
+                },
+                {
+                    "text": " at the right "
+                },
+                {
+                    "text": "moment",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "فرصة ضائعة",
+            "synonyms": [
+                "lost chance",
+                "overlooked opportunity"
+            ],
+            "example": [
+                {
+                    "text": "Not learning to code in my twenties was a major "
+                },
+                {
+                    "text": "missed opportunity",
+                    "colorize": true
+                },
+                {
+                    "text": " that limited my career options later in life"
+                }
+            ],
+            "tips": "Common source of life regrets. Different from 'failure' (you tried and didn't succeed) vs. 'missed opportunity' (you never tried at all)."
+        },
+        {
+            "word": "it's never too late",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "A reassuring expression meaning you can still "
+                },
+                {
+                    "text": "start or change something",
+                    "highlight": true
+                },
+                {
+                    "text": " successfully even if you feel you "
+                },
+                {
+                    "text": "should have begun earlier",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "لم يفت الأوان بعد",
+            "synonyms": [
+                "you can still start",
+                "there's still time",
+                "better late than never"
+            ],
+            "example": [
+                {
+                    "text": "At sixty-five, she decided to learn piano. Her teacher told her, \""
+                },
+                {
+                    "text": "It's never too late",
+                    "colorize": true
+                },
+                {
+                    "text": " to discover a passion—you might even enjoy it more with life experience.\""
+                }
+            ],
+            "tips": "Encouraging phrase often used to counter regret. Related idiom: 'better late than never' (doing something late is better than not doing it at all)."
+        }
+    ]
+}

@@ -1,0 +1,886 @@
+{
+    "unit": "Mega Goal 1 - Unit 2: Careers and Skills",
+    "type": "vocabulary_box",
+    "setTitle": "End of Unit Vocabulary",
+    "words": [
+        {
+            "word": "end up",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To finally "
+                },
+                {
+                    "text": "arrive at",
+                    "highlight": true
+                },
+                {
+                    "text": " a place or "
+                },
+                {
+                    "text": "situation, often by chance",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ينتهي به المطاف",
+            "synonyms": [
+                "finish up",
+                "wind up"
+            ],
+            "example": [
+                {
+                    "text": "I studied art but I "
+                },
+                {
+                    "text": "ended up",
+                    "colorize": true
+                },
+                {
+                    "text": " working as a teacher."
+                }
+            ],
+            "tips": "Often shows unexpected results. 'End up + -ing' (ended up working) or 'end up + place' (ended up in Paris)."
+        },
+        {
+            "word": "reliable",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Someone you can "
+                },
+                {
+                    "text": "trust to do",
+                    "highlight": true
+                },
+                {
+                    "text": " what they "
+                },
+                {
+                    "text": "promise or should do",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "موثوق",
+            "synonyms": [
+                "dependable",
+                "trustworthy"
+            ],
+            "example": [
+                {
+                    "text": "Good staff members are "
+                },
+                {
+                    "text": "reliable",
+                    "colorize": true
+                },
+                {
+                    "text": " and always arrive on time."
+                }
+            ],
+            "tips": "Important workplace quality. Opposite: unreliable. 'Reliable information' = facts you can trust."
+        },
+        {
+            "word": "initiative",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The ability to "
+                },
+                {
+                    "text": "start doing things",
+                    "highlight": true
+                },
+                {
+                    "text": " without "
+                },
+                {
+                    "text": "being told what to do",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "المبادرة",
+            "synonyms": [
+                "self-starting",
+                "proactivity"
+            ],
+            "example": [
+                {
+                    "text": "Employers like workers who show "
+                },
+                {
+                    "text": "initiative",
+                    "colorize": true
+                },
+                {
+                    "text": " and solve problems on their own."
+                }
+            ],
+            "tips": "Shows responsibility. 'Take the initiative' = be the first to act. Valued more than just following orders."
+        },
+        {
+            "word": "animation",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Moving pictures "
+                },
+                {
+                    "text": "created by drawing",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "computer technology",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "رسوم متحركة",
+            "synonyms": [
+                "cartoons",
+                "animated film"
+            ],
+            "example": [
+                {
+                    "text": "She wants to study "
+                },
+                {
+                    "text": "animation",
+                    "colorize": true
+                },
+                {
+                    "text": " and work for a movie studio."
+                }
+            ],
+            "tips": "Animators create each frame. Modern animation uses computers (CGI), but hand-drawn animation still exists."
+        },
+        {
+            "word": "talk someone out of it",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To persuade someone "
+                },
+                {
+                    "text": "not to do",
+                    "highlight": true
+                },
+                {
+                    "text": " something "
+                },
+                {
+                    "text": "they planned to do",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يثني شخصاً عن فعل شيء",
+            "synonyms": [
+                "dissuade",
+                "convince not to"
+            ],
+            "example": [
+                {
+                    "text": "My friend wanted to quit his job, but I "
+                },
+                {
+                    "text": "talked him out of it",
+                    "colorize": true
+                },
+                {
+                    "text": "."
+                }
+            ],
+            "tips": "Talk OUT OF (not 'talk from'). Opposite: 'talk into' (persuade to do something). Requires good communication skills."
+        },
+        {
+            "word": "qualification",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A certificate or "
+                },
+                {
+                    "text": "degree that shows",
+                    "highlight": true
+                },
+                {
+                    "text": " you have the "
+                },
+                {
+                    "text": "skills for a job",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مؤهل",
+            "synonyms": [
+                "certification",
+                "credential"
+            ],
+            "example": [
+                {
+                    "text": "A university degree is a necessary "
+                },
+                {
+                    "text": "qualification",
+                    "colorize": true
+                },
+                {
+                    "text": " for this position."
+                }
+            ],
+            "tips": "Different jobs need different qualifications. Some jobs value experience more than paper qualifications."
+        },
+        {
+            "word": "bored to death",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Extremely "
+                },
+                {
+                    "text": "bored",
+                    "highlight": true
+                },
+                {
+                    "text": "; feeling "
+                },
+                {
+                    "text": "no interest at all",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ضجر شديد / ملل مميت",
+            "synonyms": [
+                "extremely bored",
+                "fed up"
+            ],
+            "example": [
+                {
+                    "text": "Doing the same task "
+                },
+                {
+                    "text": "day in and day out",
+                    "colorize": false
+                },
+                {
+                    "text": " makes me feel "
+                },
+                {
+                    "text": "bored to death",
+                    "colorize": true
+                },
+                {
+                    "text": "."
+                }
+            ],
+            "tips": "Exaggeration for effect—no one actually dies from boredom! Very common casual expression."
+        },
+        {
+            "word": "day in and day out",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Happening "
+                },
+                {
+                    "text": "every single day",
+                    "highlight": true
+                },
+                {
+                    "text": " without "
+                },
+                {
+                    "text": "change or break",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يومياً / يوماً بعد يوم",
+            "synonyms": [
+                "day after day",
+                "constantly"
+            ],
+            "example": [
+                {
+                    "text": "Working in a factory "
+                },
+                {
+                    "text": "day in and day out",
+                    "colorize": true
+                },
+                {
+                    "text": " can become tiring."
+                }
+            ],
+            "tips": "Emphasizes monotony/repetition. Often has negative feeling (boring routine). Similar to 'day after day'."
+        },
+        {
+            "word": "hands-on",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Learning or working by "
+                },
+                {
+                    "text": "actually doing",
+                    "highlight": true
+                },
+                {
+                    "text": " things yourself, not "
+                },
+                {
+                    "text": "just reading or watching",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "عملي / تطبيقي",
+            "synonyms": [
+                "practical",
+                "experiential"
+            ],
+            "example": [
+                {
+                    "text": "This course offers "
+                },
+                {
+                    "text": "hands-on",
+                    "colorize": true
+                },
+                {
+                    "text": " experience with real tools and materials."
+                }
+            ],
+            "tips": "Hyphenated adjective. 'Hands-on learner' = learns by doing. Opposite: 'theoretical' or 'lecture-based'."
+        },
+        {
+            "word": "sculptor",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "An artist who "
+                },
+                {
+                    "text": "makes sculptures",
+                    "highlight": true
+                },
+                {
+                    "text": " by shaping "
+                },
+                {
+                    "text": "clay, stone, or metal",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "نحات",
+            "synonyms": [
+                "carver"
+            ],
+            "example": [
+                {
+                    "text": "The famous "
+                },
+                {
+                    "text": "sculptor",
+                    "colorize": true
+                },
+                {
+                    "text": " created statues for museums around the world."
+                }
+            ],
+            "tips": "Sculptor = person. Sculpture = the artwork they create. Different from painter (uses brushes) or photographer."
+        },
+        {
+            "word": "expand",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To become "
+                },
+                {
+                    "text": "larger or wider",
+                    "highlight": true
+                },
+                {
+                    "text": ", or to "
+                },
+                {
+                    "text": "make something larger",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يتوسع / يوسع",
+            "synonyms": [
+                "grow",
+                "increase in size"
+            ],
+            "example": [
+                {
+                    "text": "The company plans to "
+                },
+                {
+                    "text": "expand",
+                    "colorize": true
+                },
+                {
+                    "text": " its business to other countries."
+                }
+            ],
+            "tips": "Expand a business/mind/knowledge. Can be physical (expand a room) or abstract (expand your vocabulary)."
+        },
+        {
+            "word": "integrity",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Being "
+                },
+                {
+                    "text": "honest and having",
+                    "highlight": true
+                },
+                {
+                    "text": " strong "
+                },
+                {
+                    "text": "moral principles",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "نزاهة / شرف",
+            "synonyms": [
+                "honesty",
+                "principled behavior"
+            ],
+            "example": [
+                {
+                    "text": "A leader must have "
+                },
+                {
+                    "text": "integrity",
+                    "colorize": true
+                },
+                {
+                    "text": " to earn people's trust."
+                }
+            ],
+            "tips": "Doing the right thing even when no one is watching. Employers value integrity more than many technical skills."
+        },
+        {
+            "word": "visualize",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To form a "
+                },
+                {
+                    "text": "picture in your mind",
+                    "highlight": true
+                },
+                {
+                    "text": " of something "
+                },
+                {
+                    "text": "before it exists",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يتصور / يتخيل بصرياً",
+            "synonyms": [
+                "imagine clearly",
+                "picture mentally"
+            ],
+            "example": [
+                {
+                    "text": "Before drawing, the artist could "
+                },
+                {
+                    "text": "visualize",
+                    "colorize": true
+                },
+                {
+                    "text": " the entire painting in her mind."
+                }
+            ],
+            "tips": "Important skill for designers, architects, and athletes. 'Visual learner' = learns better with pictures than words."
+        },
+        {
+            "word": "crucial",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Extremely "
+                },
+                {
+                    "text": "important",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "necessary",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حاسم / بالغ الأهمية",
+            "synonyms": [
+                "critical",
+                "essential",
+                "vital"
+            ],
+            "example": [
+                {
+                    "text": "Good communication is "
+                },
+                {
+                    "text": "crucial",
+                    "colorize": true
+                },
+                {
+                    "text": " for successful teamwork."
+                }
+            ],
+            "tips": "Stronger than 'important'. Crucial moment/decision/skill = one that will decide success or failure."
+        },
+        {
+            "word": "staff",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "All the "
+                },
+                {
+                    "text": "people who work",
+                    "highlight": true
+                },
+                {
+                    "text": " for a "
+                },
+                {
+                    "text": "company or organization",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "طاقم العمل / الموظفون",
+            "synonyms": [
+                "employees",
+                "workers",
+                "team"
+            ],
+            "example": [
+                {
+                    "text": "The museum "
+                },
+                {
+                    "text": "staff",
+                    "colorize": true
+                },
+                {
+                    "text": " includes guides, cleaners, and security guards."
+                }
+            ],
+            "tips": "Uncountable noun (no 'staffs' for people). 'Staff meeting' = meeting with all workers. Different from 'stuff' (things)."
+        },
+        {
+            "word": "sociable",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Enjoying "
+                },
+                {
+                    "text": "spending time",
+                    "highlight": true
+                },
+                {
+                    "text": " with other people; "
+                },
+                {
+                    "text": "friendly and outgoing",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "اجتماعي",
+            "synonyms": [
+                "friendly",
+                "outgoing",
+                "extroverted"
+            ],
+            "example": [
+                {
+                    "text": "Salespeople need to be "
+                },
+                {
+                    "text": "sociable",
+                    "colorize": true
+                },
+                {
+                    "text": " to connect with customers."
+                }
+            ],
+            "tips": "Sociable person = likes parties/groups. Not the same as 'social' (relating to society) though related. Opposite: shy or antisocial."
+        },
+        {
+            "word": "work ethic",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A strong belief that "
+                },
+                {
+                    "text": "hard work is valuable",
+                    "highlight": true
+                },
+                {
+                    "text": " and that you should "
+                },
+                {
+                    "text": "do your job well",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "أخلاقيات العمل",
+            "synonyms": [
+                "strong work habits",
+                "dedication to work"
+            ],
+            "example": [
+                {
+                    "text": "She has an excellent "
+                },
+                {
+                    "text": "work ethic",
+                    "colorize": true
+                },
+                {
+                    "text": "—she never complains and always finishes tasks on time."
+                }
+            ],
+            "tips": "Not about working long hours—it's about attitude: responsibility, punctuality, and pride in your work."
+        },
+        {
+            "word": "animator",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A person who "
+                },
+                {
+                    "text": "creates animation",
+                    "highlight": true
+                },
+                {
+                    "text": " by making "
+                },
+                {
+                    "text": "drawings or computer images move",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "رسام رسوم متحركة",
+            "synonyms": [
+                "animation artist"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "animator",
+                    "colorize": true
+                },
+                {
+                    "text": " spent months creating characters for the new film."
+                }
+            ],
+            "tips": "Modern animators use software like Maya or Blender. Still need strong drawing skills and understanding of movement."
+        },
+        {
+            "word": "teamwork skills",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "The ability to "
+                },
+                {
+                    "text": "work well with others",
+                    "highlight": true
+                },
+                {
+                    "text": " to "
+                },
+                {
+                    "text": "achieve shared goals",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مهارات العمل الجماعي",
+            "synonyms": [
+                "collaboration skills",
+                "ability to cooperate"
+            ],
+            "example": [
+                {
+                    "text": "Employers often say "
+                },
+                {
+                    "text": "teamwork skills",
+                    "colorize": true
+                },
+                {
+                    "text": " are more important than technical knowledge."
+                }
+            ],
+            "tips": "Includes listening, sharing ideas, respecting others, and compromising. Not just 'being friendly'—it's productive cooperation."
+        },
+        {
+            "word": "stuck",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Unable to "
+                },
+                {
+                    "text": "move or continue",
+                    "highlight": true
+                },
+                {
+                    "text": " forward; "
+                },
+                {
+                    "text": "trapped in a situation",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "عالق",
+            "synonyms": [
+                "trapped",
+                "unable to progress"
+            ],
+            "example": [
+                {
+                    "text": "I felt "
+                },
+                {
+                    "text": "stuck",
+                    "colorize": true
+                },
+                {
+                    "text": " in a boring job with no chance for promotion."
+                }
+            ],
+            "tips": "Stuck in traffic/job/routine. Can be physical (car stuck in mud) or emotional/mental (feeling stuck in life)."
+        },
+        {
+            "word": "experiment",
+            "wordType": "verb/noun",
+            "definition": [
+                {
+                    "text": "To try something new "
+                },
+                {
+                    "text": "to see what happens",
+                    "highlight": true
+                },
+                {
+                    "text": ", especially in "
+                },
+                {
+                    "text": "science or art",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُجَرّب / تجربة",
+            "synonyms": [
+                "try out",
+                "test"
+            ],
+            "example": [
+                {
+                    "text": "Artists often "
+                },
+                {
+                    "text": "experiment",
+                    "colorize": true
+                },
+                {
+                    "text": " with different colors and materials."
+                }
+            ],
+            "tips": "Experiment WITH something (colors, techniques). Scientists do experiments to test ideas. Failure in experiments is normal and useful!"
+        },
+        {
+            "word": "showroom",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A large room where "
+                },
+                {
+                    "text": "products are displayed",
+                    "highlight": true
+                },
+                {
+                    "text": " for "
+                },
+                {
+                    "text": "customers to see and try",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "صالة عرض",
+            "synonyms": [
+                "display room",
+                "exhibition space"
+            ],
+            "example": [
+                {
+                    "text": "The car "
+                },
+                {
+                    "text": "showroom",
+                    "colorize": true
+                },
+                {
+                    "text": " had shiny new vehicles arranged under bright lights."
+                }
+            ],
+            "tips": "Common for cars, furniture, and electronics. Different from 'warehouse' (storage) or 'workshop' (where things are made)."
+        },
+        {
+            "word": "luckily",
+            "wordType": "adverb",
+            "definition": [
+                {
+                    "text": "By good fortune; "
+                },
+                {
+                    "text": "in a way that ",
+                    "highlight": true
+                },
+                {
+                    "text": "avoids problems",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "لحسن الحظ",
+            "synonyms": [
+                "fortunately",
+                "thankfully"
+            ],
+            "example": [
+                {
+                    "text": "I forgot my wallet, but "
+                },
+                {
+                    "text": "luckily",
+                    "colorize": true
+                },
+                {
+                    "text": " my friend had money."
+                }
+            ],
+            "tips": "Used to highlight a positive turn in an otherwise negative situation. Opposite: 'unluckily' or 'unfortunately'."
+        }
+    ]
+}

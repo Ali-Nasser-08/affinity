@@ -1,0 +1,1160 @@
+{
+  "unit": "Mega Goal 1",
+  "lesson": "Unit 2",
+  "type": "Form, Meaning, and Function",
+  "clusters": [
+    {
+      "clusterId": "cluster-1",
+      "title": "Simple Past Tense - Forms",
+      "cards": [
+        {
+          "id": "card-1",
+          "content": [
+            {
+              "text": "Simple Past Tense",
+              "highlight": true
+            },
+            {
+              "text": " - Affirmative, Negative, Questions"
+            },
+            {
+              "text": "الماضي البسيط - الإثبات، النفي، الأسئلة",
+              "translation": "الماضي البسيط - الإثبات، النفي، الأسئلة"
+            }
+          ]
+        },
+        {
+          "id": "card-1b",
+          "type": "structure",
+          "content": [
+            {
+              "text": "Affirmative:",
+              "colorize2": true
+            },
+            {
+              "text": "Subject",
+              "badge": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "Verb (past)",
+              "badge2": true,
+              "translation": "الفعل (الماضي)"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "I/You/He/She/We/They",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "worked",
+              "colorize2": true
+            },
+            {
+              "text": " yesterday"
+            },
+            {
+              "text": "أنا/أنت/هي/هم ",
+              "colorize": true
+            },
+            {
+              "text": "عملوا",
+              "colorize2": true
+            },
+            {
+              "text": " بالأمس"
+            }
+          ],
+          "wide": true
+        },
+        {
+          "id": "card-1c",
+          "type": "structure",
+          "content": [
+            {
+              "text": "Negative:",
+              "colorize2": true
+            },
+            {
+              "text": "Subject",
+              "badge": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "didn't",
+              "badge2": true,
+              "translation": "لم"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "base verb",
+              "badge3": true,
+              "translation": "فعل مجرد"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "I/You/He/She/We/They",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "didn't ",
+              "colorize2": true
+            },
+            {
+              "text": "work",
+              "colorize3": true
+            },
+            {
+              "text": "لم ",
+              "colorize2": true
+            },
+            {
+              "text": "يعملوا",
+              "colorize3": true
+            }
+          ],
+          "wide": true
+        },
+        {
+          "id": "card-1d",
+          "type": "structure",
+          "content": [
+            {
+              "text": "Questions:",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Did",
+              "badge": true,
+              "translation": "هل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "Subject",
+              "badge2": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "base verb",
+              "badge3": true,
+              "translation": "فعل مجرد"
+            },
+            {
+              "text": " + ?"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "Did",
+              "colorize": true
+            },
+            {
+              "text": " you/he/she ",
+              "colorize2": true
+            },
+            {
+              "text": "work",
+              "colorize3": true
+            },
+            {
+              "text": "?"
+            },
+            {
+              "text": "هل ",
+              "colorize": true
+            },
+            {
+              "text": "عملت/عمل؟",
+              "colorize2": true
+            }
+          ],
+          "wide": true
+        },
+        {
+          "id": "card-2",
+          "type": "structure",
+          "content": [
+            {
+              "text": "Short Answers:",
+              "colorize2": true
+            },
+            {
+              "text": " No, "
+            },
+            {
+              "text": "I/you/he/she/we/they ",
+              "colorize": true
+            },
+            {
+              "text": "did",
+              "colorize2": true
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "No, "
+            },
+            {
+              "text": "I/you/he/she/we/they ",
+              "colorize": true
+            },
+            {
+              "text": "didn't",
+              "colorize2": true
+            },
+            {
+              "text": "إجابات قصيرة",
+              "translation": "إجابات قصيرة"
+            }
+          ],
+          "wide": true
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-2",
+      "title": "Time Expressions for the Past",
+      "cards": [
+        {
+          "id": "card-3",
+          "content": [
+            {
+              "text": "Time Expressions",
+              "highlight": true
+            },
+            {
+              "text": " for Simple Past"
+            },
+            {
+              "text": "تعبيرات زمنية للماضي البسيط",
+              "translation": "تعبيرات زمنية للماضي البسيط"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "content": [
+            {
+              "text": "Use: "
+            },
+            {
+              "text": "yesterday, last night/week/month/year, ago",
+              "colorize": true
+            },
+            {
+              "text": "استخدم: ",
+              "textAr": "استخدم: "
+            },
+            {
+              "text": "أمس، الليلة الماضية/الأسبوع/الشهر/السنة، منذ",
+              "colorize": true
+            }
+          ]
+        },
+        {
+          "id": "card-5",
+          "type": "example",
+          "content": [
+            {
+              "text": "Q: What "
+            },
+            {
+              "text": "did",
+              "colorize": true
+            },
+            {
+              "text": " you ",
+              "colorize2": true
+            },
+            {
+              "text": "do ",
+              "colorize3": true
+            },
+            {
+              "text": "last night",
+              "colorize3": true
+            },
+            {
+              "text": "?"
+            },
+            {
+              "text": "س: ماذا "
+            },
+            {
+              "text": "فعلت ",
+              "colorize3": true
+            },
+            {
+              "text": "الليلة الماضية",
+              "colorize3": true
+            },
+            {
+              "text": "؟"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "example",
+          "content": [
+            {
+              "text": "A: "
+            },
+            {
+              "text": "I ",
+              "colorize": true
+            },
+            {
+              "text": "watched",
+              "colorize2": true
+            },
+            {
+              "text": " a TV documentary about global warming"
+            },
+            {
+              "text": "ج: "
+            },
+            {
+              "text": "شاهدتُ",
+              "colorize2": true
+            },
+            {
+              "text": " فيلماً وثائقياً عن الاحتباس الحراري"
+            }
+          ]
+        },
+        {
+          "id": "card-7",
+          "type": "example",
+          "content": [
+            {
+              "text": "Q: Where "
+            },
+            {
+              "text": "did",
+              "colorize": true
+            },
+            {
+              "text": " you ",
+              "colorize2": true
+            },
+            {
+              "text": "go ",
+              "colorize3": true
+            },
+            {
+              "text": "yesterday",
+              "colorize3": true
+            },
+            {
+              "text": "? A: "
+            },
+            {
+              "text": "We ",
+              "colorize": true
+            },
+            {
+              "text": "visited",
+              "colorize2": true
+            },
+            {
+              "text": " the Roman baths"
+            },
+            {
+              "text": "س: أين "
+            },
+            {
+              "text": "ذهبت ",
+              "colorize3": true
+            },
+            {
+              "text": "أمس",
+              "colorize3": true
+            },
+            {
+              "text": "؟ ج: "
+            },
+            {
+              "text": "زرنا",
+              "colorize": true
+            },
+            {
+              "text": " الحمامات الرومانية"
+            }
+          ]
+        },
+        {
+          "id": "card-8",
+          "type": "example",
+          "content": [
+            {
+              "text": "Q: When "
+            },
+            {
+              "text": "did",
+              "colorize": true
+            },
+            {
+              "text": " you ",
+              "colorize2": true
+            },
+            {
+              "text": "visit",
+              "colorize3": true
+            },
+            {
+              "text": " Pakistan? A: "
+            },
+            {
+              "text": "I ",
+              "colorize": true
+            },
+            {
+              "text": "went ",
+              "colorize2": true
+            },
+            {
+              "text": "last month",
+              "colorize3": true
+            },
+            {
+              "text": "متى "
+            },
+            {
+              "text": "زرت ",
+              "colorize3": true
+            },
+            {
+              "text": "باكستان؟ "
+            },
+            {
+              "text": "ذهبتُ ",
+              "colorize": true
+            },
+            {
+              "text": "الشهر الماضي",
+              "colorize3": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-3",
+      "title": "Past Progressive - Forms",
+      "cards": [
+        {
+          "id": "card-9",
+          "content": [
+            {
+              "text": "Past Progressive Tense",
+              "highlight": true
+            },
+            {
+              "text": " - Affirmative, Negative, Questions"
+            },
+            {
+              "text": "الماضي المستمرة - الإثبات، النفي، الأسئلة",
+              "translation": "الماضي المستمرة - الإثبات، النفي، الأسئلة"
+            }
+          ]
+        },
+        {
+          "id": "card-9b",
+          "type": "structure",
+          "content": [
+            {
+              "text": "Affirmative:",
+              "colorize2": true
+            },
+            {
+              "text": "Subject",
+              "badge": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "was/were",
+              "badge2": true,
+              "translation": "كان/كانوا"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "Verb-ing",
+              "badge3": true,
+              "translation": "فعل + ing"
+            },
+            {
+              "text": "كان يفعل/كانوا يفعلون",
+              "translation": "كان يفعل/كانوا يفعلون"
+            }
+          ],
+          "wide": true
+        },
+        {
+          "id": "card-9c",
+          "type": "structure",
+          "content": [
+            {
+              "text": "I/He/She/It",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "was",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "sleeping",
+              "colorize3": true
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "We/You/They",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "were",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "sleeping",
+              "colorize3": true
+            },
+            {
+              "text": "هو ",
+              "colorize": true
+            },
+            {
+              "text": "كان ",
+              "colorize2": true
+            },
+            {
+              "text": "نائماً",
+              "colorize3": true
+            },
+            {
+              "text": " | "
+            },
+            {
+              "text": "هم ",
+              "colorize": true
+            },
+            {
+              "text": "كانوا ",
+              "colorize2": true
+            },
+            {
+              "text": "نائمين",
+              "colorize3": true
+            }
+          ],
+          "wide": true
+        },
+        {
+          "id": "card-10",
+          "type": "structure",
+          "content": [
+            {
+              "text": "Negative:",
+              "colorize2": true
+            },
+            {
+              "text": "Subject",
+              "badge": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "wasn't/weren't",
+              "badge2": true,
+              "translation": "لم يكن/لم يكونوا"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "Verb-ing",
+              "badge3": true,
+              "translation": "فعل + ing"
+            },
+            {
+              "text": "لم يكن يفعل",
+              "translation": "لم يكن يفعل"
+            }
+          ],
+          "wide": true
+        },
+        {
+          "id": "card-10b",
+          "type": "structure",
+          "content": [
+            {
+              "text": "I/He/She/It",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "wasn't",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "sleeping",
+              "colorize3": true
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "We/You/They",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "weren't",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "sleeping",
+              "colorize3": true
+            },
+            {
+              "text": "هو ",
+              "colorize": true
+            },
+            {
+              "text": "لم يكن ",
+              "colorize2": true
+            },
+            {
+              "text": "نائماً",
+              "colorize3": true
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "لم يكونوا ",
+              "colorize2": true
+            },
+            {
+              "text": "نائمين",
+              "colorize3": true
+            }
+          ],
+          "wide": true
+        },
+        {
+          "id": "card-11",
+          "type": "structure",
+          "content": [
+            {
+              "text": "Questions:",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Was/Were",
+              "badge": true,
+              "translation": "هل كان"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "Subject",
+              "badge2": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "Verb-ing",
+              "badge3": true,
+              "translation": "فعل+ing"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "?",
+              "badge": true
+            },
+            {
+              "text": "هل كان يفعل؟",
+              "translation": "هل كان يفعل؟"
+            }
+          ],
+          "wide": true
+        },
+        {
+          "id": "card-11b",
+          "type": "structure",
+          "content": [
+            {
+              "text": "Was",
+              "colorize": true
+            },
+            {
+              "text": " I/he/she/it ",
+              "colorize2": true
+            },
+            {
+              "text": "sleeping",
+              "colorize3": true
+            },
+            {
+              "text": "?"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "Were",
+              "colorize": true
+            },
+            {
+              "text": " we/you/they ",
+              "colorize2": true
+            },
+            {
+              "text": "sleeping",
+              "colorize3": true
+            },
+            {
+              "text": "?"
+            },
+            {
+              "text": "هل كان ",
+              "colorize": true
+            },
+            {
+              "text": "نائماً؟",
+              "colorize3": true
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "هل كانوا ",
+              "colorize": true
+            },
+            {
+              "text": "نائمين؟",
+              "colorize3": true
+            }
+          ],
+          "wide": true
+        },
+        {
+          "id": "card-12",
+          "type": "structure",
+          "content": [
+            {
+              "text": "Short Answers:",
+              "colorize2": true
+            },
+            {
+              "text": " Yes, "
+            },
+            {
+              "text": "I/he/she/it ",
+              "colorize": true
+            },
+            {
+              "text": "was",
+              "colorize2": true
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "No, "
+            },
+            {
+              "text": "I/he/she/it ",
+              "colorize": true
+            },
+            {
+              "text": "wasn't",
+              "colorize2": true
+            },
+            {
+              "text": "نعم ",
+              "textAr": "نعم "
+            },
+            {
+              "text": "كان",
+              "colorize2": true
+            },
+            {
+              "text": " / لا "
+            },
+            {
+              "text": "لم يكن",
+              "colorize2": true
+            }
+          ],
+          "wide": true
+        },
+        {
+          "id": "card-12b",
+          "type": "structure",
+          "content": [
+            {
+              "text": "Yes, "
+            },
+            {
+              "text": "we/you/they ",
+              "colorize": true
+            },
+            {
+              "text": "were",
+              "colorize2": true
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "No, "
+            },
+            {
+              "text": "we/you/they ",
+              "colorize": true
+            },
+            {
+              "text": "weren't",
+              "colorize2": true
+            },
+            {
+              "text": "نعم ",
+              "textAr": "نعم "
+            },
+            {
+              "text": "كانوا",
+              "colorize2": true
+            },
+            {
+              "text": " / لا "
+            },
+            {
+              "text": "لم يكونوا",
+              "colorize2": true
+            }
+          ],
+          "wide": true
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-4",
+      "title": "Past Progressive + When + Simple Past",
+      "cards": [
+        {
+          "id": "card-13",
+          "content": [
+            {
+              "text": "Past Progressive",
+              "highlight": true
+            },
+            {
+              "text": " + ",
+              "highlight": true
+            },
+            {
+              "text": "when",
+              "highlight": true
+            },
+            {
+              "text": " + ",
+              "highlight": true
+            },
+            {
+              "text": "Simple Past",
+              "highlight": true
+            },
+            {
+              "text": "دمج الماضي المستمر + عندما + الماضي البسيط",
+              "translation": "دمج الماضي المستمر + عندما + الماضي البسيط"
+            }
+          ]
+        },
+        {
+          "id": "card-13b",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Subject",
+              "badge": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "was/were + Verb-ing",
+              "badge": true,
+              "translation": "كان/كانوا + فعل ing"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "when",
+              "badge2": true,
+              "translation": "عندما"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "Simple Past",
+              "badge3": true,
+              "translation": "الماضي البسيط"
+            },
+            {
+              "text": "عندما حدث شيء أثناء حدوث شيء آخر",
+              "translation": "عندما حدث شيء أثناء حدوث شيء آخر"
+            }
+          ]
+        },
+        {
+          "id": "card-14",
+          "content": [
+            {
+              "text": "Use "
+            },
+            {
+              "text": "when",
+              "colorize2": true
+            },
+            {
+              "text": " to show a "
+            },
+            {
+              "text": "longer continuous action",
+              "colorize": true
+            },
+            {
+              "text": "\ninterrupted by a "
+            },
+            {
+              "text": "shorter action",
+              "colorize3": true
+            },
+            {
+              "text": "استخدم ",
+              "textAr": "استخدم "
+            },
+            {
+              "text": "'عندما'",
+              "colorize2": true
+            },
+            {
+              "text": " لبيان "
+            },
+            {
+              "text": "حدث طويل مستمر",
+              "colorize": true
+            },
+            {
+              "text": " قطعه "
+            },
+            {
+              "text": "حدث أقصر",
+              "colorize3": true
+            }
+          ]
+        },
+        {
+          "id": "card-15",
+          "type": "example",
+          "content": [
+            {
+              "text": "Hans ",
+              "colorize": true
+            },
+            {
+              "text": "was walking",
+              "colorize": true
+            },
+            {
+              "text": " to college "
+            },
+            {
+              "text": "when",
+              "colorize2": true
+            },
+            {
+              "text": " he ",
+              "colorize3": true
+            },
+            {
+              "text": "saw",
+              "colorize3": true
+            },
+            {
+              "text": " Saud"
+            },
+            {
+              "text": "كان هانز يمشي",
+              "colorize": true
+            },
+            {
+              "text": " إلى الكلية "
+            },
+            {
+              "text": "عندما",
+              "colorize2": true
+            },
+            {
+              "text": " رأى ",
+              "colorize3": true
+            },
+            {
+              "text": "سعود"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-5",
+      "title": "Non-Progressive Verbs",
+      "cards": [
+        {
+          "id": "card-16",
+          "content": [
+            {
+              "text": "Important Note:",
+              "highlight": true
+            },
+            {
+              "text": " Non-Progressive Verbs"
+            },
+            {
+              "text": "الأفعال غير المستمرة",
+              "translation": "الأفعال غير المستمرة"
+            }
+          ]
+        },
+        {
+          "id": "card-17",
+          "content": [
+            {
+              "text": "Do "
+            },
+            {
+              "text": "NOT use",
+              "colorize2": true
+            },
+            {
+              "text": " progressive tenses with these verbs:",
+              "translation": "لا تستخدم الأزمنة المستمرة مع هذه الأفعال"
+            }
+          ]
+        },
+        {
+          "id": "card-18",
+          "content": [
+            {
+              "text": "like, love, want, see, smell, taste, hear",
+              "colorize": true
+            },
+            {
+              "text": "يحب، يريد، يرى، يشم، يتذوق، يسمع",
+              "colorize": true
+            }
+          ]
+        },
+        {
+          "id": "card-19",
+          "type": "example",
+          "content": [
+            {
+              "text": "✓ I "
+            },
+            {
+              "text": "like",
+              "colorize": true
+            },
+            {
+              "text": " coffee\n✗ I am liking coffee"
+            },
+            {
+              "text": "أنا "
+            },
+            {
+              "text": "أحب",
+              "colorize": true
+            },
+            {
+              "text": " القهوة (صحيح)\nأنا أحب القهوة (خطأ)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

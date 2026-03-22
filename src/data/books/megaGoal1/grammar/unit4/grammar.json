@@ -1,0 +1,985 @@
+{
+  "unit": "Mega Goal 1",
+  "lesson": "Unit 4",
+  "clusters": [
+    {
+      "clusterId": "cluster-1",
+      "title": "The Passive Voice",
+      "cards": [
+        {
+          "id": "card-1",
+          "content": [
+            {
+              "text": "The Passive Voice",
+              "highlight": true
+            },
+            {
+              "text": "المبني للمجهول"
+            }
+          ]
+        },
+        {
+          "id": "card-2",
+          "content": [
+            {
+              "text": "The passive focuses on "
+            },
+            {
+              "text": "the action itself",
+              "colorize2": true
+            },
+            {
+              "text": " rather than "
+            },
+            {
+              "text": "who performed it",
+              "colorize2": true
+            },
+            {
+              "text": "المبني للمجهول يركز على "
+            },
+            {
+              "text": "الفعل نفسه",
+              "colorize2": true
+            },
+            {
+              "text": " بدلاً من "
+            },
+            {
+              "text": "من قام به",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": " "
+            },
+            {
+              "text": "be",
+              "badge": true,
+              "translation": "فعل مساعد"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "past participle",
+              "badge2": true,
+              "translation": "التصريف الثالث"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-2",
+      "title": "Passive in Different Tenses",
+      "cards": [
+        {
+          "id": "card-4",
+          "content": [
+            {
+              "text": "Passive in Different Tenses",
+              "highlight": true
+            },
+            {
+              "text": "المبني للمجهول في أزمنة مختلفة"
+            }
+          ]
+        },
+        {
+          "id": "card-5",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Simple Present:",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "am/is/are",
+              "badge": true,
+              "translation": "فعل مساعد"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "past participle",
+              "badge2": true,
+              "translation": "التصريف الثالث"
+            }
+          ]
+        },
+        {
+          "id": "card-5b",
+          "type": "example",
+          "content": [
+            {
+              "text": "These phones "
+            },
+            {
+              "text": "are",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "manufactured",
+              "colorize2": true
+            },
+            {
+              "text": " in Korea"
+            },
+            {
+              "text": "هذه الهواتف "
+            },
+            {
+              "text": "تُصنع",
+              "colorize2": true
+            },
+            {
+              "text": " في كوريا"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Simple Past:",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "was/were",
+              "badge": true,
+              "translation": "فعل مساعد"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "past participle",
+              "badge2": true,
+              "translation": "التصريف الثالث"
+            }
+          ]
+        },
+        {
+          "id": "card-6b",
+          "type": "example",
+          "content": [
+            {
+              "text": "The laptop "
+            },
+            {
+              "text": "was",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "designed",
+              "colorize2": true
+            },
+            {
+              "text": " in Sweden"
+            },
+            {
+              "text": "الحاسوب المحمول "
+            },
+            {
+              "text": "صُمم",
+              "colorize2": true
+            },
+            {
+              "text": " في السويد"
+            }
+          ]
+        },
+        {
+          "id": "card-7",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Present Perfect:",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "has/have been",
+              "badge": true,
+              "translation": "فعل مساعد"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "past participle",
+              "badge2": true,
+              "translation": "التصريف الثالث"
+            }
+          ]
+        },
+        {
+          "id": "card-7b",
+          "type": "example",
+          "content": [
+            {
+              "text": "These apps "
+            },
+            {
+              "text": "have been",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "downloaded",
+              "colorize2": true
+            },
+            {
+              "text": " millions of times"
+            },
+            {
+              "text": "هذه التطبيقات "
+            },
+            {
+              "text": "تم",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "تنزيلها",
+              "colorize2": true
+            },
+            {
+              "text": " ملايين المرات"
+            }
+          ]
+        },
+        {
+          "id": "card-8",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Future:",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "will be",
+              "badge": true,
+              "translation": "سوف يكون"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "past participle",
+              "badge2": true,
+              "translation": "التصريف الثالث"
+            }
+          ]
+        },
+        {
+          "id": "card-8b",
+          "type": "example",
+          "content": [
+            {
+              "text": "Electric vehicles "
+            },
+            {
+              "text": "will be",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "sold",
+              "colorize2": true
+            },
+            {
+              "text": " everywhere next year"
+            },
+            {
+              "text": "السيارات الكهربائية "
+            },
+            {
+              "text": "سوف",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "تُباع",
+              "colorize2": true
+            },
+            {
+              "text": " في كل مكان العام القادم"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-3",
+      "title": "Passive with 'by' Phrase",
+      "cards": [
+        {
+          "id": "card-9",
+          "content": [
+            {
+              "text": "Showing the Doer with 'by'",
+              "highlight": true
+            },
+            {
+              "text": "إظهار الفاعل بـ 'by'"
+            }
+          ]
+        },
+        {
+          "id": "card-10",
+          "content": [
+            {
+              "text": "Add "
+            },
+            {
+              "text": "by + noun",
+              "colorize": true
+            },
+            {
+              "text": " after the passive when you want to mention "
+            },
+            {
+              "text": "who did the action",
+              "colorize2": true
+            },
+            {
+              "text": "أضف "
+            },
+            {
+              "text": "by + اسم",
+              "colorize": true
+            },
+            {
+              "text": " بعد المبني للمجهول عندما تريد ذكر "
+            },
+            {
+              "text": "من قام بالفعل",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-11",
+          "type": "example",
+          "content": [
+            {
+              "text": "The novel was written "
+            },
+            {
+              "text": "by a famous author",
+              "colorize": true
+            },
+            {
+              "text": "الرواية كُتبت "
+            },
+            {
+              "text": "بواسطة مؤلف مشهور",
+              "colorize": true
+            }
+          ]
+        },
+        {
+          "id": "card-12",
+          "type": "example",
+          "content": [
+            {
+              "text": "This building was constructed "
+            },
+            {
+              "text": "by skilled engineers",
+              "colorize": true
+            },
+            {
+              "text": "هذا المبنى بُني "
+            },
+            {
+              "text": "بواسطة مهندسين ماهرين",
+              "colorize": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-4",
+      "title": "Comparison of Adjectives",
+      "cards": [
+        {
+          "id": "card-13",
+          "content": [
+            {
+              "text": "Comparison of Adjectives",
+              "highlight": true
+            },
+            {
+              "text": "مقارنة الصفات"
+            }
+          ]
+        },
+        {
+          "id": "card-14",
+          "content": [
+            {
+              "text": "When comparing "
+            },
+            {
+              "text": "two or more items",
+              "colorize2": true
+            },
+            {
+              "text": ", change the adjective form"
+            },
+            {
+              "text": "عند مقارنة "
+            },
+            {
+              "text": "عنصرين أو أكثر",
+              "colorize2": true
+            },
+            {
+              "text": "، غيّر شكل الصفة"
+            }
+          ]
+        },
+        {
+          "id": "card-15",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Comparative (for 2 things):",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "adjective + -er",
+              "badge": true,
+              "translation": "صفة + er"
+            },
+            {
+              "text": " or "
+            },
+            {
+              "text": "more + adjective",
+              "badge2": true,
+              "translation": "more + صفة"
+            }
+          ]
+        },
+        {
+          "id": "card-15b",
+          "type": "example",
+          "content": [
+            {
+              "text": "This phone is "
+            },
+            {
+              "text": "faster",
+              "colorize": true
+            },
+            {
+              "text": " than my old one"
+            },
+            {
+              "text": "هذا الهاتف "
+            },
+            {
+              "text": "أسرع",
+              "colorize": true
+            },
+            {
+              "text": " من هاتفي القديم"
+            }
+          ]
+        },
+        {
+          "id": "card-16",
+          "type": "example",
+          "content": [
+            {
+              "text": "The new model is "
+            },
+            {
+              "text": "more efficient",
+              "colorize2": true
+            },
+            {
+              "text": " than the previous one"
+            },
+            {
+              "text": "الطراز الجديد "
+            },
+            {
+              "text": "أكثر كفاءة",
+              "colorize2": true
+            },
+            {
+              "text": " من السابق"
+            }
+          ]
+        },
+        {
+          "id": "card-17",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Superlative (for 3+ things):",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "the + adjective + -est",
+              "badge": true,
+              "translation": "the + صفة + est"
+            },
+            {
+              "text": " or "
+            },
+            {
+              "text": "the most + adjective",
+              "badge2": true,
+              "translation": "the most + صفة"
+            }
+          ]
+        },
+        {
+          "id": "card-17b",
+          "type": "example",
+          "content": [
+            {
+              "text": "This is "
+            },
+            {
+              "text": "the fastest",
+              "colorize": true
+            },
+            {
+              "text": " train in the country"
+            },
+            {
+              "text": "هذا "
+            },
+            {
+              "text": "الأسرع",
+              "colorize": true
+            },
+            {
+              "text": " قطار في البلاد"
+            }
+          ]
+        },
+        {
+          "id": "card-18",
+          "type": "example",
+          "content": [
+            {
+              "text": "It's "
+            },
+            {
+              "text": "the most advanced",
+              "colorize2": true
+            },
+            {
+              "text": " technology available"
+            },
+            {
+              "text": "إنها "
+            },
+            {
+              "text": "الأكثر تقدماً",
+              "colorize2": true
+            },
+            {
+              "text": " من التقنيات المتاحة"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-5",
+      "title": "Showing Similarity with 'as...as'",
+      "cards": [
+        {
+          "id": "card-19",
+          "content": [
+            {
+              "text": "Similarities with 'as...as'",
+              "highlight": true
+            },
+            {
+              "text": "التشابه باستخدام 'as...as'"
+            }
+          ]
+        },
+        {
+          "id": "card-20",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Equal comparison:",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "as",
+              "badge": true,
+              "translation": "كـ"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "adjective",
+              "badge2": true,
+              "translation": "صفة"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "as",
+              "badge3": true,
+              "translation": "كـ"
+            }
+          ]
+        },
+        {
+          "id": "card-20b",
+          "type": "example",
+          "content": [
+            {
+              "text": "This tablet is "
+            },
+            {
+              "text": "as",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "light",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "as",
+              "colorize3": true
+            },
+            {
+              "text": " a notebook"
+            },
+            {
+              "text": "هذا الجهاز اللوحي "
+            },
+            {
+              "text": "خفيف مثل",
+              "colorize2": true
+            },
+            {
+              "text": " دفتر الملاحظات"
+            }
+          ]
+        },
+        {
+          "id": "card-21",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Not equal:",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "not as",
+              "badge": true,
+              "translation": "ليس كـ"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "adjective",
+              "badge2": true,
+              "translation": "صفة"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "as",
+              "badge3": true,
+              "translation": "كـ"
+            }
+          ]
+        },
+        {
+          "id": "card-21b",
+          "type": "example",
+          "content": [
+            {
+              "text": "The old version is "
+            },
+            {
+              "text": "not as",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "powerful",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "as",
+              "colorize3": true
+            },
+            {
+              "text": " the new one"
+            },
+            {
+              "text": "النسخة القديمة "
+            },
+            {
+              "text": "ليست قوية مثل",
+              "colorize2": true
+            },
+            {
+              "text": " الجديدة"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-6",
+      "title": "Comparing with Sense Verbs",
+      "cards": [
+        {
+          "id": "card-22",
+          "content": [
+            {
+              "text": "Comparisons with Sense Verbs",
+              "highlight": true
+            },
+            {
+              "text": "المقارنات باستخدام أفعال الحواس"
+            }
+          ]
+        },
+        {
+          "id": "card-23",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Structure:",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "look/smell/sound/taste/feel",
+              "badge": true,
+              "translation": "فعل حاسة"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "like",
+              "badge2": true,
+              "translation": "مثل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "noun",
+              "badge3": true,
+              "translation": "اسم"
+            }
+          ]
+        },
+        {
+          "id": "card-24",
+          "type": "example",
+          "content": [
+            {
+              "text": "The electric car "
+            },
+            {
+              "text": "looks",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "like",
+              "colorize2": true
+            },
+            {
+              "text": " a spaceship"
+            },
+            {
+              "text": "السيارة الكهربائية "
+            },
+            {
+              "text": "تبدو",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "مثل",
+              "colorize2": true
+            },
+            {
+              "text": " سفينة فضاء"
+            }
+          ]
+        },
+        {
+          "id": "card-25",
+          "type": "example",
+          "content": [
+            {
+              "text": "That "
+            },
+            {
+              "text": "sounds",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "like",
+              "colorize2": true
+            },
+            {
+              "text": " an excellent plan"
+            },
+            {
+              "text": "هذا "
+            },
+            {
+              "text": "يبدو",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "مثل",
+              "colorize2": true
+            },
+            {
+              "text": " خطة ممتازة"
+            }
+          ]
+        },
+        {
+          "id": "card-26",
+          "type": "example",
+          "content": [
+            {
+              "text": "This fabric "
+            },
+            {
+              "text": "feels",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "like",
+              "colorize2": true
+            },
+            {
+              "text": " silk"
+            },
+            {
+              "text": "هذا القماش "
+            },
+            {
+              "text": "يبدو ملمسه",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "مثل",
+              "colorize2": true
+            },
+            {
+              "text": " الحرير"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

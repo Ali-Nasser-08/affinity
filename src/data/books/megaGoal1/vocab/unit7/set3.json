@@ -1,0 +1,464 @@
+{
+    "unit": "Mega Goal 1 - Unit 8: Social Situations",
+    "type": "misc",
+    "setTitle": "Speaking & Real Talk",
+    "words": [
+        {
+            "word": "No way!",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "A strong expression of "
+                },
+                {
+                    "text": "disbelief or refusal",
+                    "highlight": true
+                },
+                {
+                    "text": "; showing you "
+                },
+                {
+                    "text": "cannot accept something",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مستحيل! / لا يمكن!",
+            "synonyms": [
+                "Absolutely not!",
+                "No chance!"
+            ],
+            "example": [
+                {
+                    "text": "\"I can't come to your party.\" \""
+                },
+                {
+                    "text": "No way!",
+                    "colorize": true
+                },
+                {
+                    "text": " You have to be there!\""
+                }
+            ],
+            "tips": "Very informal—use with friends only. Shows strong emotion. Not appropriate in formal situations or with elders."
+        },
+        {
+            "word": "let someone down",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "disappoint someone",
+                    "highlight": true
+                },
+                {
+                    "text": " who was "
+                },
+                {
+                    "text": "counting on you",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يخيّب أمل شخص / يُخيّب ظنّه",
+            "synonyms": [
+                "disappoint",
+                "fail someone"
+            ],
+            "example": [
+                {
+                    "text": "I can't skip my uncle's wedding—I would "
+                },
+                {
+                    "text": "let my family down",
+                    "colorize": true
+                },
+                {
+                    "text": "."
+                }
+            ],
+            "tips": "Always 'let DOWN' (not 'let off' or 'let out'). Shows you care about others' feelings. Opposite: 'come through for someone'."
+        },
+        {
+            "word": "Of course",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Used to say "
+                },
+                {
+                    "text": "yes definitely",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "without any doubt",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "بالتأكيد / طبعاً",
+            "synonyms": [
+                "certainly",
+                "definitely",
+                "sure"
+            ],
+            "example": [
+                {
+                    "text": "\"Can you help me study?\" \""
+                },
+                {
+                    "text": "Of course",
+                    "colorize": true
+                },
+                {
+                    "text": ", I'd be happy to.\""
+                }
+            ],
+            "tips": "Polite and friendly agreement. More enthusiastic than 'yes'. Can also show something is obvious: 'Of course you should apologize!'"
+        },
+        {
+            "word": "be straight",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To be "
+                },
+                {
+                    "text": "completely honest",
+                    "highlight": true
+                },
+                {
+                    "text": " and "
+                },
+                {
+                    "text": "direct without hiding feelings",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يكون صريحاً / واضحاً",
+            "synonyms": [
+                "be honest",
+                "be direct",
+                "tell the truth"
+            ],
+            "example": [
+                {
+                    "text": "\"I need you to "
+                },
+                {
+                    "text": "be straight",
+                    "colorize": true
+                },
+                {
+                    "text": " with me—do you really like my presentation?\""
+                }
+            ],
+            "tips": "Informal expression. 'Straight talk' = honest conversation. Different from 'straight' meaning not curved or sexual orientation."
+        },
+        {
+            "word": "make it",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "arrive successfully",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "be able to attend",
+                    "highlight2": true
+                },
+                {
+                    "text": " an event"
+                }
+            ],
+            "arabicMeaning": "يصل / يتمكّن من الحضور",
+            "synonyms": [
+                "show up",
+                "get there",
+                "attend"
+            ],
+            "example": [
+                {
+                    "text": "I'm sorry—I won't be able to "
+                },
+                {
+                    "text": "make it",
+                    "colorize": true
+                },
+                {
+                    "text": " to your graduation party."
+                }
+            ],
+            "tips": "Very common in casual English. 'Make it to' + place/event. Opposite: 'not make it' = fail to arrive/attend."
+        },
+        {
+            "word": "call up",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "phone someone",
+                    "highlight": true
+                },
+                {
+                    "text": " (especially in American English)",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يتصل هاتفيّاً",
+            "synonyms": [
+                "call",
+                "phone",
+                "ring (British)"
+            ],
+            "example": [
+                {
+                    "text": "I'm "
+                },
+                {
+                    "text": "calling you up",
+                    "colorize": true
+                },
+                {
+                    "text": " to explain why I can't come to your party."
+                }
+            ],
+            "tips": "More casual than 'call'. 'Call up' = initiate a phone call. Not the same as 'call on' (visit) or 'call off' (cancel)."
+        },
+        {
+            "word": "refuse",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "say no firmly",
+                    "highlight": true
+                },
+                {
+                    "text": " and "
+                },
+                {
+                    "text": "not accept something",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يرفض",
+            "synonyms": [
+                "reject",
+                "decline firmly"
+            ],
+            "example": [
+                {
+                    "text": "I "
+                },
+                {
+                    "text": "refuse",
+                    "colorize": true
+                },
+                {
+                    "text": " to accept that you're not coming to my graduation!"
+                }
+            ],
+            "tips": "Stronger than 'decline'. Refuse + noun (refuse an offer) OR refuse to + verb (refuse to go). Shows determination."
+        },
+        {
+            "word": "insist on",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To demand something "
+                },
+                {
+                    "text": "strongly and firmly",
+                    "highlight": true
+                },
+                {
+                    "text": " without "
+                },
+                {
+                    "text": "accepting 'no' as an answer",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُصرّ على",
+            "synonyms": [
+                "demand",
+                "strongly urge"
+            ],
+            "example": [
+                {
+                    "text": "He "
+                },
+                {
+                    "text": "insists on",
+                    "colorize": true
+                },
+                {
+                    "text": " your coming to his graduation party."
+                }
+            ],
+            "tips": "Insist ON + noun/gerund (insist on your coming / insist on leaving). Shows strong expectation. Can sound pushy if overused."
+        },
+        {
+            "word": "sneak out",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To leave a place "
+                },
+                {
+                    "text": "quietly and secretly",
+                    "highlight": true
+                },
+                {
+                    "text": " so nobody ",
+                    "highlight2": true
+                },
+                {
+                    "text": "notices"
+                }
+            ],
+            "arabicMeaning": "يخرج خلسة / يتسلل للخروج",
+            "synonyms": [
+                "slip out",
+                "creep out"
+            ],
+            "example": [
+                {
+                    "text": "\"Just "
+                },
+                {
+                    "text": "sneak out",
+                    "colorize": true
+                },
+                {
+                    "text": " after dinner ends—you won't be missed!\""
+                }
+            ],
+            "tips": "Often implies doing something you shouldn't (sneaking out of class). Can be playful among friends or serious (sneaking out of a dangerous place)."
+        },
+        {
+            "word": "walk out",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To leave a place "
+                },
+                {
+                    "text": "suddenly",
+                    "highlight": true
+                },
+                {
+                    "text": " often in an ",
+                    "highlight2": true
+                },
+                {
+                    "text": "angry or rude way"
+                }
+            ],
+            "arabicMeaning": "يخرج فجأة (غالباً باستياء)",
+            "synonyms": [
+                "storm out",
+                "leave abruptly"
+            ],
+            "example": [
+                {
+                    "text": "I can't just "
+                },
+                {
+                    "text": "walk out",
+                    "colorize": true
+                },
+                {
+                    "text": " of my uncle's wedding dinner—that would be very rude."
+                }
+            ],
+            "tips": "Walking out shows disrespect or anger. Common in arguments ('He walked out during our fight'). Not the same as 'walk out on someone' (abandon them)."
+        },
+        {
+            "word": "graduation",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The ceremony when you "
+                },
+                {
+                    "text": "receive your diploma",
+                    "highlight": true
+                },
+                {
+                    "text": " after "
+                },
+                {
+                    "text": "finishing school or university",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "تخرّج",
+            "synonyms": [
+                "commencement (US)",
+                "graduation ceremony"
+            ],
+            "example": [
+                {
+                    "text": "Abdullah has been planning his "
+                },
+                {
+                    "text": "graduation",
+                    "colorize": true
+                },
+                {
+                    "text": " party for months."
+                }
+            ],
+            "tips": "Graduation = the event/ceremony. Graduate = the person finishing school OR the verb (to graduate from university)."
+        },
+        {
+            "word": "for ages",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "For a "
+                },
+                {
+                    "text": "very long time",
+                    "highlight": true
+                },
+                {
+                    "text": " (informal expression)",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "منذ زمن طويل جداً",
+            "synonyms": [
+                "for a long time",
+                "for forever (exaggerated)"
+            ],
+            "example": [
+                {
+                    "text": "I've been planning this event "
+                },
+                {
+                    "text": "for ages",
+                    "colorize": true
+                },
+                {
+                    "text": "—you have to come!"
+                }
+            ],
+            "tips": "Casual/informal. Not literal—means 'a noticeably long time'. British English uses this more than American English."
+        }
+    ]
+}

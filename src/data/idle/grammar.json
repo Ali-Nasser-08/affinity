@@ -1,0 +1,67 @@
+{
+    "sentences": [
+        {
+            "segments": [
+                {
+                    "text": "She "
+                },
+                {
+                    "text": "has lived",
+                    "name": "Present Perfect"
+                },
+                {
+                    "text": " in Paris since 2010."
+                }
+            ]
+        },
+        {
+            "segments": [
+                {
+                    "text": "If I "
+                },
+                {
+                    "text": "had known",
+                    "name": "Past Perfect"
+                },
+                {
+                    "text": ", I "
+                },
+                {
+                    "text": "would have helped",
+                    "name": "Third Conditional Result"
+                },
+                {
+                    "text": " you."
+                }
+            ]
+        },
+        {
+            "segments": [
+                {
+                    "text": "By the time we "
+                },
+                {
+                    "text": "arrive",
+                    "name": "Present Simple"
+                },
+                {
+                    "text": ", they "
+                },
+                {
+                    "text": "will have finished",
+                    "name": "Future Perfect"
+                },
+                {
+                    "text": " eating, so they "
+                },
+                {
+                    "text": "might be",
+                    "name": "Modal Verb"
+                },
+                {
+                    "text": " full."
+                }
+            ]
+        }
+    ]
+}

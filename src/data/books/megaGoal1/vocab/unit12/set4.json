@@ -1,0 +1,552 @@
+{
+    "unit": "Mega Goal 1 - Unit 12: Reporting What People Say",
+    "type": "reading",
+    "setTitle": "Reading: Quotes, Quotes",
+    "words": [
+        {
+            "word": "primary",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Most important or fundamental; "
+                },
+                {
+                    "text": "coming first in rank or significance",
+                    "highlight": true
+                },
+                {
+                    "text": " before other considerations or "
+                },
+                {
+                    "text": "secondary goals",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "أساسي / رئيسي",
+            "synonyms": [
+                "main",
+                "principal",
+                "foremost"
+            ],
+            "example": [
+                {
+                    "text": "Her "
+                },
+                {
+                    "text": "primary",
+                    "colorize": true
+                },
+                {
+                    "text": " concern when buying a car was safety, not how fast it could go"
+                }
+            ],
+            "tips": "Often used with 'goal', 'objective', 'purpose', or 'reason'. Not the same as 'prime' (which can mean 'best quality' or 'first in time') though sometimes interchangeable."
+        },
+        {
+            "word": "exemplary",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Outstandingly good and worthy of being "
+                },
+                {
+                    "text": "imitated as a model",
+                    "highlight": true
+                },
+                {
+                    "text": "; serving as an excellent "
+                },
+                {
+                    "text": "example for others",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مثالي / يُحتذى به",
+            "synonyms": [
+                "model",
+                "ideal",
+                "commendable"
+            ],
+            "example": [
+                {
+                    "text": "The student received an award for her "
+                },
+                {
+                    "text": "exemplary",
+                    "colorize": true
+                },
+                {
+                    "text": " behavior and consistent kindness toward classmates"
+                }
+            ],
+            "tips": "Stronger than 'good'—implies others should follow this example. Often used in formal contexts: exemplary conduct, exemplary leadership, exemplary citizenship."
+        },
+        {
+            "word": "endeavor",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A serious, determined attempt or effort to achieve something difficult; a "
+                },
+                {
+                    "text": "purposeful undertaking",
+                    "highlight": true
+                },
+                {
+                    "text": " requiring "
+                },
+                {
+                    "text": "dedication and persistence",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مجهود / محاولة جادة",
+            "synonyms": [
+                "effort",
+                "undertaking",
+                "striving"
+            ],
+            "example": [
+                {
+                    "text": "Learning a new language as an adult is a challenging "
+                },
+                {
+                    "text": "endeavor",
+                    "colorize": true
+                },
+                {
+                    "text": " that requires daily practice and patience"
+                }
+            ],
+            "tips": "More formal than 'effort' or 'attempt'. Often paired with adjectives: noble endeavor, difficult endeavor, lifelong endeavor. Verb form: endeavor (to try hard)."
+        },
+        {
+            "word": "govern",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To officially rule, control, or administer a country, state, or organization; to "
+                },
+                {
+                    "text": "exercise authority",
+                    "highlight": true
+                },
+                {
+                    "text": " and make decisions that affect "
+                },
+                {
+                    "text": "people's lives",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يحكم",
+            "synonyms": [
+                "rule",
+                "administer",
+                "lead"
+            ],
+            "example": [
+                {
+                    "text": "Democratically elected leaders are expected to "
+                },
+                {
+                    "text": "govern",
+                    "colorize": true
+                },
+                {
+                    "text": " in the best interests of all citizens, not just their supporters"
+                }
+            ],
+            "tips": "Not just for countries—can govern organizations, committees, or even emotions ('govern your temper'). Noun form: government, governor."
+        },
+        {
+            "word": "vision",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The ability to imagine and plan for the future with wisdom and insight; a clear "
+                },
+                {
+                    "text": "mental picture",
+                    "highlight": true
+                },
+                {
+                    "text": " of what could or should "
+                },
+                {
+                    "text": "be achieved",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "رؤية / بصيرة",
+            "synonyms": [
+                "foresight",
+                "imagination",
+                "strategic insight"
+            ],
+            "example": [
+                {
+                    "text": "The company's founder had a bold "
+                },
+                {
+                    "text": "vision",
+                    "colorize": true
+                },
+                {
+                    "text": " to connect every person on Earth through the internet—long before smartphones existed"
+                }
+            ],
+            "tips": "Different from physical 'eyesight'. Often used in leadership/business contexts: 'vision statement', 'visionary leader'. Not the same as 'dream' (less practical) or 'goal' (more specific)."
+        },
+        {
+            "word": "formal education",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "Structured learning that takes place in schools, colleges, or universities with "
+                },
+                {
+                    "text": "certified teachers",
+                    "highlight": true
+                },
+                {
+                    "text": " set curricula, and "
+                },
+                {
+                    "text": "official qualifications",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "تعليم رسمي",
+            "synonyms": [
+                "academic schooling",
+                "institutional learning"
+            ],
+            "example": [
+                {
+                    "text": "Although he never completed high school, he gained extensive knowledge through reading and life experience—proving that "
+                },
+                {
+                    "text": "formal education",
+                    "colorize": true
+                },
+                {
+                    "text": " isn't the only path to wisdom"
+                }
+            ],
+            "tips": "Contrasts with 'informal learning' (self-taught, life experience) or 'non-formal education' (workshops, community programs). Not the same as 'education' alone (which can include all types)."
+        },
+        {
+            "word": "content",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Feeling satisfied and at peace with what one has; not wanting more or different circumstances; "
+                },
+                {
+                    "text": "peacefully accepting",
+                    "highlight": true
+                },
+                {
+                    "text": " one's current "
+                },
+                {
+                    "text": "situation",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "راضٍ / مُقتنع",
+            "synonyms": [
+                "satisfied",
+                "happy",
+                "at peace"
+            ],
+            "example": [
+                {
+                    "text": "Despite earning a modest salary, she felt completely "
+                },
+                {
+                    "text": "content",
+                    "colorize": true
+                },
+                {
+                    "text": " with her simple life, loving family, and meaningful work"
+                }
+            ],
+            "tips": "Pronounced con-TENT (not CON-tent like 'table of contents'). Often used with 'with': content with life, content with little. Opposite: discontented, dissatisfied."
+        },
+        {
+            "word": "necessary",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Required to be done, achieved, or present; essential or indispensable for a particular "
+                },
+                {
+                    "text": "purpose or outcome",
+                    "highlight": true
+                },
+                {
+                    "text": "; something that "
+                },
+                {
+                    "text": "cannot be done without",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ضروري",
+            "synonyms": [
+                "essential",
+                "required",
+                "indispensable"
+            ],
+            "example": [
+                {
+                    "text": "Regular exercise is not just helpful for health—it's absolutely "
+                },
+                {
+                    "text": "necessary",
+                    "colorize": true
+                },
+                {
+                    "text": " for maintaining strength and mobility as we age"
+                }
+            ],
+            "tips": "Stronger than 'important'—implies something won't work or succeed without it. Common phrase: 'make yourself necessary' = become indispensable to others."
+        },
+        {
+            "word": "complain",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To express dissatisfaction, annoyance, or discomfort about something; to "
+                },
+                {
+                    "text": "voice grievances",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "unhappiness",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يَشتكي",
+            "synonyms": [
+                "grumble",
+                "protest",
+                "object"
+            ],
+            "example": [
+                {
+                    "text": "Instead of constantly "
+                },
+                {
+                    "text": "complaining",
+                    "colorize": true
+                },
+                {
+                    "text": " about the noisy neighbors, she decided to politely introduce herself and discuss the issue"
+                }
+            ],
+            "tips": "Pattern: complain about + noun/gerund ('complain about the noise'). NOT 'complain of' (archaic/formal medical usage only). Noun form: complaint."
+        },
+        {
+            "word": "pitied",
+            "wordType": "verb (past tense)",
+            "definition": [
+                {
+                    "text": "Felt sympathy and sorrow for someone experiencing misfortune or suffering; to feel "
+                },
+                {
+                    "text": "compassion mixed with sadness",
+                    "highlight": true
+                },
+                {
+                    "text": " for another's "
+                },
+                {
+                    "text": "difficult situation",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "أشفق عليه / رثى له",
+            "synonyms": [
+                "felt sorry for",
+                "sympathized with",
+                "compassionated"
+            ],
+            "example": [
+                {
+                    "text": "When she lost her job during the pandemic, her friends didn't just "
+                },
+                {
+                    "text": "pity",
+                    "colorize": true
+                },
+                {
+                    "text": " her—they helped her update her resume and introduced her to potential employers"
+                }
+            ],
+            "tips": "Can feel negative—being pitied sometimes feels demeaning. Better to show empathy (understanding feelings) than pity (looking down with sorrow). Adjective: pitiful (deserving pity) vs. pitiable (arousing pity)."
+        },
+        {
+            "word": "aspect",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A particular part, feature, or element of something larger; one "
+                },
+                {
+                    "text": "dimension or angle",
+                    "highlight": true
+                },
+                {
+                    "text": " of a complex "
+                },
+                {
+                    "text": "situation or topic",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "جانب / ناحية",
+            "synonyms": [
+                "feature",
+                "facet",
+                "dimension"
+            ],
+            "example": [
+                {
+                    "text": "When evaluating a job offer, consider every "
+                },
+                {
+                    "text": "aspect",
+                    "colorize": true
+                },
+                {
+                    "text": " — salary, location, work culture, growth opportunities—not just the starting pay"
+                }
+            ],
+            "tips": "Often used in plural: 'all aspects of life'. Common collocations: every aspect, important aspect, different aspects. Not the same as 'respect' (though 'in this respect' = 'in this aspect')."
+        },
+        {
+            "word": "graduate",
+            "wordType": "verb/noun",
+            "definition": [
+                {
+                    "text": "To successfully complete a course of study at a school, college, or university and receive a "
+                },
+                {
+                    "text": "degree or diploma",
+                    "highlight": true
+                },
+                {
+                    "text": "; also the person who has "
+                },
+                {
+                    "text": "completed such studies",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يتخرّج / خرّيج",
+            "synonyms": [
+                "complete studies",
+                "earn a degree",
+                "alumnus/alumna"
+            ],
+            "example": [
+                {
+                    "text": "She will "
+                },
+                {
+                    "text": "graduate",
+                    "colorize": true
+                },
+                {
+                    "text": " with honors next spring after four years of dedicated study in biomedical engineering"
+                }
+            ],
+            "tips": "Verb pattern: graduate from [institution] ('graduate from Harvard'). NOT 'graduate college' without 'from' (common error). Noun: graduate student = someone pursuing advanced degrees (master's/PhD)."
+        },
+        {
+            "word": "commissioner",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A person given official authority to "
+                },
+                {
+                    "text": "oversee a government department",
+                    "highlight": true
+                },
+                {
+                    "text": ", organization, or "
+                },
+                {
+                    "text": "special investigation",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مفوّض / مُفوَّض حكومي",
+            "synonyms": [
+                "official",
+                "administrator",
+                "director"
+            ],
+            "example": [
+                {
+                    "text": "The police "
+                },
+                {
+                    "text": "commissioner",
+                    "colorize": true
+                },
+                {
+                    "text": " held a press conference to address community concerns about rising crime rates"
+                }
+            ],
+            "tips": "Government/business title. Different from 'committee member' (part of a group) vs. 'commissioner' (individual with authority). Often appointed, not elected."
+        },
+        {
+            "word": "archaeologist",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A scientist who studies human history and prehistory by "
+                },
+                {
+                    "text": "excavating sites",
+                    "highlight": true
+                },
+                {
+                    "text": " and analyzing artifacts, structures, and "
+                },
+                {
+                    "text": "physical remains",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "عالِم آثار",
+            "synonyms": [
+                "excavator",
+                "historical researcher",
+                "antiquities scholar"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "archaeologist",
+                    "colorize": true
+                },
+                {
+                    "text": " carefully brushed dust from the 3,000-year-old pottery shard, hoping it would reveal clues about ancient trade routes"
+                }
+            ],
+            "tips": "Not the same as 'paleontologist' (studies fossils/dinosaurs) or 'anthropologist' (studies human cultures broadly). Archaeology focuses specifically on material remains of past human societies."
+        }
+    ]
+}

@@ -1,0 +1,1116 @@
+{
+  "unit": "Mega Goal 1",
+  "lesson": "Unit 5",
+  "type": "Form, Meaning, and Function",
+  "clusters": [
+    {
+      "clusterId": "cluster-1",
+      "title": "Modal Auxiliaries - Must and Should",
+      "cards": [
+        {
+          "id": "card-1",
+          "content": [
+            {
+              "text": "Modal Auxiliaries",
+              "highlight": true
+            },
+            {
+              "text": ": Must and Should"
+            },
+            {
+              "text": "الأفعال الناقصة: Must و Should"
+            }
+          ]
+        },
+        {
+          "id": "card-2",
+          "content": [
+            {
+              "text": "Must",
+              "colorize": true
+            },
+            {
+              "text": " expresses "
+            },
+            {
+              "text": "requirements and regulations",
+              "colorize2": true
+            },
+            {
+              "text": "Must",
+              "colorize": true
+            },
+            {
+              "text": " تعبّر عن "
+            },
+            {
+              "text": "المتطلبات والأنظمة",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "example",
+          "content": [
+            {
+              "text": "Students "
+            },
+            {
+              "text": "must",
+              "colorize": true
+            },
+            {
+              "text": " wear uniforms at school"
+            },
+            {
+              "text": "الطلاب "
+            },
+            {
+              "text": "يجب أن",
+              "colorize": true
+            },
+            {
+              "text": " يرتدوا الزي المدرسي"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "example",
+          "content": [
+            {
+              "text": "You "
+            },
+            {
+              "text": "must not",
+              "colorize": true
+            },
+            {
+              "text": " use your phone during the exam"
+            },
+            {
+              "text": "يجب أن "
+            },
+            {
+              "text": "لا",
+              "colorize": true
+            },
+            {
+              "text": " تستخدم هاتفك أثناء الاختبار"
+            }
+          ]
+        },
+        {
+          "id": "card-5",
+          "content": [
+            {
+              "text": "Should",
+              "colorize": true
+            },
+            {
+              "text": " offers "
+            },
+            {
+              "text": "suggestions and recommendations",
+              "colorize2": true
+            },
+            {
+              "text": "Should",
+              "colorize": true
+            },
+            {
+              "text": " تقدم "
+            },
+            {
+              "text": "الاقتراحات والتوصيات",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "example",
+          "content": [
+            {
+              "text": "You "
+            },
+            {
+              "text": "should",
+              "colorize": true
+            },
+            {
+              "text": " drink more water daily"
+            },
+            {
+              "text": "يجب أن "
+            },
+            {
+              "text": "تشرب",
+              "colorize": true
+            },
+            {
+              "text": " المزيد من الماء يومياً"
+            }
+          ]
+        },
+        {
+          "id": "card-7",
+          "type": "example",
+          "content": [
+            {
+              "text": "He "
+            },
+            {
+              "text": "shouldn't",
+              "colorize": true
+            },
+            {
+              "text": " stay up so late"
+            },
+            {
+              "text": "لا "
+            },
+            {
+              "text": "ينبغي له",
+              "colorize": true
+            },
+            {
+              "text": " أن يسهر كثيراً"
+            }
+          ]
+        },
+        {
+          "id": "card-8",
+          "content": [
+            {
+              "text": "Note:",
+              "highlight": true
+            },
+            {
+              "text": " Must is "
+            },
+            {
+              "text": "more forceful",
+              "colorize3": true
+            },
+            {
+              "text": " than should and has a "
+            },
+            {
+              "text": "more official tone",
+              "colorize3": true
+            },
+            {
+              "text": "ملاحظة: Must "
+            },
+            {
+              "text": "أقوى",
+              "colorize3": true
+            },
+            {
+              "text": " من should وله "
+            },
+            {
+              "text": "نبرة أكثر رسمية",
+              "colorize3": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-2",
+      "title": "Adverbs of Manner",
+      "cards": [
+        {
+          "id": "card-9",
+          "content": [
+            {
+              "text": "Adverbs of Manner",
+              "highlight": true
+            },
+            {
+              "text": "ظروف الطريقة"
+            }
+          ]
+        },
+        {
+          "id": "card-10",
+          "content": [
+            {
+              "text": "Adverbs of manner describe "
+            },
+            {
+              "text": "how an action is performed",
+              "colorize2": true
+            },
+            {
+              "text": "ظروف الطريقة تصف "
+            },
+            {
+              "text": "كيف يتم تنفيذ الفعل",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-11",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Formation: "
+            },
+            {
+              "text": "adjective",
+              "badge": true,
+              "translation": "صفة"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "-ly",
+              "badge2": true,
+              "translation": "-ly"
+            },
+            {
+              "text": " = "
+            },
+            {
+              "text": "adverb",
+              "badge3": true,
+              "translation": "ظرف"
+            }
+          ]
+        },
+        {
+          "id": "card-12",
+          "type": "example",
+          "content": [
+            {
+              "text": "Q: How did she speak?"
+            },
+            {
+              "text": "س: كيف تحدثت؟"
+            }
+          ]
+        },
+        {
+          "id": "card-13",
+          "type": "example",
+          "content": [
+            {
+              "text": "A: She spoke "
+            },
+            {
+              "text": "quietly",
+              "colorize": true
+            },
+            {
+              "text": "ج: تحدثت "
+            },
+            {
+              "text": "بهدوء",
+              "colorize": true
+            }
+          ]
+        },
+        {
+          "id": "card-14",
+          "type": "example",
+          "content": [
+            {
+              "text": "Q: How did he answer?"
+            },
+            {
+              "text": "س: كيف أجاب؟"
+            }
+          ]
+        },
+        {
+          "id": "card-15",
+          "type": "example",
+          "content": [
+            {
+              "text": "A: He answered "
+            },
+            {
+              "text": "confidently",
+              "colorize": true
+            },
+            {
+              "text": "ج: أجاب "
+            },
+            {
+              "text": "بثقة",
+              "colorize": true
+            }
+          ]
+        },
+        {
+          "id": "card-16",
+          "content": [
+            {
+              "text": "Special Rule:",
+              "highlight": true
+            },
+            {
+              "text": " Adjectives ending in "
+            },
+            {
+              "text": "l",
+              "colorize3": true
+            },
+            {
+              "text": " double the l before adding -ly"
+            },
+            {
+              "text": "قاعدة خاصة: الصفات التي تنتهي بـ"
+            },
+            {
+              "text": "l",
+              "colorize3": true
+            },
+            {
+              "text": " تضاعف الـ l قبل إضافة -ly"
+            }
+          ]
+        },
+        {
+          "id": "card-17",
+          "type": "example",
+          "content": [
+            {
+              "text": "careful → "
+            },
+            {
+              "text": "carefully",
+              "colorize": true
+            },
+            {
+              "text": "حذر → "
+            },
+            {
+              "text": "بحذر",
+              "colorize": true
+            }
+          ]
+        },
+        {
+          "id": "card-18",
+          "type": "example",
+          "content": [
+            {
+              "text": "successful → "
+            },
+            {
+              "text": "successfully",
+              "colorize": true
+            },
+            {
+              "text": "ناجح → "
+            },
+            {
+              "text": "بنجاح",
+              "colorize": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-3",
+      "title": "Adjectives and Adverbs with Same Form",
+      "cards": [
+        {
+          "id": "card-19",
+          "content": [
+            {
+              "text": "Same Form Adjectives and Adverbs",
+              "highlight": true
+            },
+            {
+              "text": "صفات وظروف بنفس الشكل"
+            }
+          ]
+        },
+        {
+          "id": "card-20",
+          "content": [
+            {
+              "text": "Note:",
+              "highlight": true
+            },
+            {
+              "text": " Some words have "
+            },
+            {
+              "text": "identical adjective and adverb forms",
+              "colorize2": true
+            },
+            {
+              "text": "ملاحظة: بعض الكلمات لها "
+            },
+            {
+              "text": "أشكال متطابقة كصفة وظرف",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-21",
+          "type": "example",
+          "content": [
+            {
+              "text": "He's a "
+            },
+            {
+              "text": "fast",
+              "colorize": true
+            },
+            {
+              "text": " runner. (adjective)"
+            },
+            {
+              "text": "هو عداء "
+            },
+            {
+              "text": "سريع",
+              "colorize": true
+            },
+            {
+              "text": " (صفة)"
+            }
+          ]
+        },
+        {
+          "id": "card-22",
+          "type": "example",
+          "content": [
+            {
+              "text": "He runs "
+            },
+            {
+              "text": "fast",
+              "colorize": true
+            },
+            {
+              "text": ". (adverb)"
+            },
+            {
+              "text": "هو يجري "
+            },
+            {
+              "text": "بسرعة",
+              "colorize": true
+            },
+            {
+              "text": " (ظرف)"
+            }
+          ]
+        },
+        {
+          "id": "card-23",
+          "type": "example",
+          "content": [
+            {
+              "text": "She's a "
+            },
+            {
+              "text": "hard",
+              "colorize": true
+            },
+            {
+              "text": " worker. (adjective)"
+            },
+            {
+              "text": "هي عاملة "
+            },
+            {
+              "text": "مجتهدة",
+              "colorize": true
+            },
+            {
+              "text": " (صفة)"
+            }
+          ]
+        },
+        {
+          "id": "card-24",
+          "type": "example",
+          "content": [
+            {
+              "text": "She works "
+            },
+            {
+              "text": "hard",
+              "colorize": true
+            },
+            {
+              "text": ". (adverb)"
+            },
+            {
+              "text": "هي تعمل "
+            },
+            {
+              "text": "بجد",
+              "colorize": true
+            },
+            {
+              "text": " (ظرف)"
+            }
+          ]
+        },
+        {
+          "id": "card-25",
+          "content": [
+            {
+              "text": "Exception:",
+              "highlight": true
+            },
+            {
+              "text": " The adverb form of "
+            },
+            {
+              "text": "good",
+              "colorize": true
+            },
+            {
+              "text": " is "
+            },
+            {
+              "text": "well",
+              "colorize2": true
+            },
+            {
+              "text": "استثناء: شكل الظرف من "
+            },
+            {
+              "text": "good",
+              "colorize": true
+            },
+            {
+              "text": " هو "
+            },
+            {
+              "text": "well",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-26",
+          "type": "example",
+          "content": [
+            {
+              "text": "He's a "
+            },
+            {
+              "text": "good",
+              "colorize": true
+            },
+            {
+              "text": " swimmer. (adjective)"
+            },
+            {
+              "text": "هو سباح "
+            },
+            {
+              "text": "جيد",
+              "colorize": true
+            },
+            {
+              "text": " (صفة)"
+            }
+          ]
+        },
+        {
+          "id": "card-27",
+          "type": "example",
+          "content": [
+            {
+              "text": "He swims "
+            },
+            {
+              "text": "well",
+              "colorize2": true
+            },
+            {
+              "text": ". (adverb)"
+            },
+            {
+              "text": "هو يسبح "
+            },
+            {
+              "text": "بشكل جيد",
+              "colorize2": true
+            },
+            {
+              "text": " (ظرف)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-4",
+      "title": "Prepositions of Place",
+      "cards": [
+        {
+          "id": "card-28",
+          "content": [
+            {
+              "text": "Prepositions of Place",
+              "highlight": true
+            },
+            {
+              "text": "حروف الجر للمكان"
+            }
+          ]
+        },
+        {
+          "id": "card-29",
+          "type": "example",
+          "content": [
+            {
+              "text": "The library is "
+            },
+            {
+              "text": "across from",
+              "colorize": true
+            },
+            {
+              "text": " the hospital"
+            },
+            {
+              "text": "المكتبة "
+            },
+            {
+              "text": "مقابل",
+              "colorize": true
+            },
+            {
+              "text": " المستشفى"
+            }
+          ]
+        },
+        {
+          "id": "card-30",
+          "type": "example",
+          "content": [
+            {
+              "text": "The cafe is "
+            },
+            {
+              "text": "between",
+              "colorize": true
+            },
+            {
+              "text": " the pharmacy and the bakery"
+            },
+            {
+              "text": "المقهى "
+            },
+            {
+              "text": "بين",
+              "colorize": true
+            },
+            {
+              "text": " الصيدلية والمخبز"
+            }
+          ]
+        },
+        {
+          "id": "card-31",
+          "type": "example",
+          "content": [
+            {
+              "text": "The supermarket is "
+            },
+            {
+              "text": "next to",
+              "colorize": true
+            },
+            {
+              "text": " the mall"
+            },
+            {
+              "text": "السوبر ماركت "
+            },
+            {
+              "text": "بجانب",
+              "colorize": true
+            },
+            {
+              "text": " المركز التجاري"
+            }
+          ]
+        },
+        {
+          "id": "card-32",
+          "type": "example",
+          "content": [
+            {
+              "text": "The taxi stand is "
+            },
+            {
+              "text": "on the corner",
+              "colorize": true
+            },
+            {
+              "text": "موقف التاكسي "
+            },
+            {
+              "text": "على الزاوية",
+              "colorize": true
+            }
+          ]
+        },
+        {
+          "id": "card-33",
+          "type": "example",
+          "content": [
+            {
+              "text": "The theater is "
+            },
+            {
+              "text": "near",
+              "colorize": true
+            },
+            {
+              "text": " the university"
+            },
+            {
+              "text": "المسرح "
+            },
+            {
+              "text": "قريب من",
+              "colorize": true
+            },
+            {
+              "text": " الجامعة"
+            }
+          ]
+        },
+        {
+          "id": "card-34",
+          "type": "example",
+          "content": [
+            {
+              "text": "The stadium is "
+            },
+            {
+              "text": "far from",
+              "colorize": true
+            },
+            {
+              "text": " downtown"
+            },
+            {
+              "text": "الملعب "
+            },
+            {
+              "text": "بعيد عن",
+              "colorize": true
+            },
+            {
+              "text": " وسط المدينة"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-5",
+      "title": "Prepositions for Where We Live",
+      "cards": [
+        {
+          "id": "card-35",
+          "content": [
+            {
+              "text": "Describing Where We Live",
+              "highlight": true
+            },
+            {
+              "text": "وصف مكان السكن"
+            }
+          ]
+        },
+        {
+          "id": "card-36",
+          "content": [
+            {
+              "text": "Use "
+            },
+            {
+              "text": "in",
+              "colorize": true
+            },
+            {
+              "text": " for "
+            },
+            {
+              "text": "cities",
+              "colorize2": true
+            },
+            {
+              "text": "استخدم "
+            },
+            {
+              "text": "in",
+              "colorize": true
+            },
+            {
+              "text": " لـ"
+            },
+            {
+              "text": "المدن",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-37",
+          "type": "example",
+          "content": [
+            {
+              "text": "I live "
+            },
+            {
+              "text": "in",
+              "colorize": true
+            },
+            {
+              "text": " Riyadh"
+            },
+            {
+              "text": "أعيش "
+            },
+            {
+              "text": "في",
+              "colorize": true
+            },
+            {
+              "text": " الرياض"
+            }
+          ]
+        },
+        {
+          "id": "card-38",
+          "content": [
+            {
+              "text": "Use "
+            },
+            {
+              "text": "on",
+              "colorize": true
+            },
+            {
+              "text": " for "
+            },
+            {
+              "text": "floors and streets",
+              "colorize2": true
+            },
+            {
+              "text": "استخدم "
+            },
+            {
+              "text": "on",
+              "colorize": true
+            },
+            {
+              "text": " لـ"
+            },
+            {
+              "text": "الطوابق والشوارع",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-39",
+          "type": "example",
+          "content": [
+            {
+              "text": "I live "
+            },
+            {
+              "text": "on",
+              "colorize": true
+            },
+            {
+              "text": " the fifth floor"
+            },
+            {
+              "text": "أعيش "
+            },
+            {
+              "text": "في",
+              "colorize": true
+            },
+            {
+              "text": " الطابق الخامس"
+            }
+          ]
+        },
+        {
+          "id": "card-40",
+          "type": "example",
+          "content": [
+            {
+              "text": "I live "
+            },
+            {
+              "text": "on",
+              "colorize": true
+            },
+            {
+              "text": " King Fahd Road"
+            },
+            {
+              "text": "أعيش "
+            },
+            {
+              "text": "في",
+              "colorize": true
+            },
+            {
+              "text": " طريق الملك فهد"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-6",
+      "title": "Imperatives for Directions",
+      "cards": [
+        {
+          "id": "card-41",
+          "content": [
+            {
+              "text": "Imperatives for Directions",
+              "highlight": true
+            },
+            {
+              "text": "الأمر لإعطاء الاتجاهات"
+            }
+          ]
+        },
+        {
+          "id": "card-42",
+          "type": "example",
+          "content": [
+            {
+              "text": "Turn left",
+              "colorize": true
+            },
+            {
+              "text": " / "
+            },
+            {
+              "text": "Take a left",
+              "colorize": true
+            },
+            {
+              "text": "انعطف يساراً",
+              "colorize": true
+            },
+            {
+              "text": " / "
+            },
+            {
+              "text": "خذ اليسار",
+              "colorize": true
+            }
+          ]
+        },
+        {
+          "id": "card-43",
+          "type": "example",
+          "content": [
+            {
+              "text": "Turn right",
+              "colorize": true
+            },
+            {
+              "text": " / "
+            },
+            {
+              "text": "Take a right",
+              "colorize": true
+            },
+            {
+              "text": "انعطف يميناً",
+              "colorize": true
+            },
+            {
+              "text": " / "
+            },
+            {
+              "text": "خذ اليمين",
+              "colorize": true
+            }
+          ]
+        },
+        {
+          "id": "card-44",
+          "type": "example",
+          "content": [
+            {
+              "text": "Go straight",
+              "colorize": true
+            },
+            {
+              "text": "امش مباشرة",
+              "colorize": true
+            }
+          ]
+        },
+        {
+          "id": "card-45",
+          "type": "example",
+          "content": [
+            {
+              "text": "Continue",
+              "colorize": true
+            },
+            {
+              "text": " for two blocks"
+            },
+            {
+              "text": "استمر",
+              "colorize": true
+            },
+            {
+              "text": " لمسافة مبنيين"
+            }
+          ]
+        },
+        {
+          "id": "card-46",
+          "type": "example",
+          "content": [
+            {
+              "text": "Cross",
+              "colorize": true
+            },
+            {
+              "text": " the street at the intersection"
+            },
+            {
+              "text": "اعبر",
+              "colorize": true
+            },
+            {
+              "text": " الشارع عند التقاطع"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

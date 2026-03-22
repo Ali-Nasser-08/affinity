@@ -1,0 +1,576 @@
+{
+    "unit": "Mega Goal 1 - Unit 7: You've Got Mail",
+    "type": "grammar_focus",
+    "setTitle": "Connectors & Preposition Patterns",
+    "words": [
+        {
+            "word": "although",
+            "wordType": "conjunction",
+            "definition": [
+                {
+                    "text": "Used to connect ideas where the second part is "
+                },
+                {
+                    "text": "surprising",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "unexpected",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "على الرغم من أن",
+            "synonyms": [
+                "even though",
+                "though"
+            ],
+            "example": [
+                {
+                    "text": ""
+                },
+                {
+                    "text": "Although",
+                    "colorize": true
+                },
+                {
+                    "text": " Joseph Henry demonstrated the electromagnet, Samuel Morse invented the practical telegraph system."
+                }
+            ],
+            "tips": "Although = even though (same meaning). Always followed by a subject + verb. Never use 'but' after 'although' in the same clause."
+        },
+        {
+            "word": "because",
+            "wordType": "conjunction",
+            "definition": [
+                {
+                    "text": "Used to give the "
+                },
+                {
+                    "text": "reason",
+                    "highlight": true
+                },
+                {
+                    "text": " for something; "
+                },
+                {
+                    "text": "answers 'why?'",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "لأن",
+            "synonyms": [
+                "since",
+                "as"
+            ],
+            "example": [
+                {
+                    "text": "Morse's system succeeded "
+                },
+                {
+                    "text": "because",
+                    "colorize": true
+                },
+                {
+                    "text": " it was practical and commercially feasible."
+                }
+            ],
+            "tips": "Because explains cause. Don't confuse with 'because of' (followed by noun only: 'because of the rain')."
+        },
+        {
+            "word": "during",
+            "wordType": "preposition",
+            "definition": [
+                {
+                    "text": "Throughout the time that "
+                },
+                {
+                    "text": "something happens",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "at some point in a period",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "أثناء / خلال",
+            "synonyms": [
+                "throughout",
+                "while (something is happening)"
+            ],
+            "example": [
+                {
+                    "text": "Morse worked as a professor "
+                },
+                {
+                    "text": "during",
+                    "colorize": true
+                },
+                {
+                    "text": " 1835 when he proved signals could be transmitted by wire."
+                }
+            ],
+            "tips": "During + noun ONLY (during the meeting). Not 'during when' or 'during that'. For actions, use 'while' + subject + verb."
+        },
+        {
+            "word": "as soon as",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Immediately at the moment "
+                },
+                {
+                    "text": "something happens",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "without any delay",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حالما / بمجرد أن",
+            "synonyms": [
+                "the moment that",
+                "right after"
+            ],
+            "example": [
+                {
+                    "text": "Please email me "
+                },
+                {
+                    "text": "as soon as",
+                    "colorize": true
+                },
+                {
+                    "text": " you make your final travel arrangements."
+                }
+            ],
+            "tips": "As soon as + present tense (not future) when talking about the future: 'I'll call you as soon as I arrive' (not 'will arrive')."
+        },
+        {
+            "word": "in spite of",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Without being stopped by; "
+                },
+                {
+                    "text": "ignoring a difficulty",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "problem",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "رغم / على الرغم من",
+            "synonyms": [
+                "despite"
+            ],
+            "example": [
+                {
+                    "text": "The telegraph system succeeded "
+                },
+                {
+                    "text": "in spite of",
+                    "colorize": true
+                },
+                {
+                    "text": " initial indifference from the public."
+                }
+            ],
+            "tips": "Always followed by a noun/gerund (in spite of the rain / in spite of being tired). 'Despite' means the same but is slightly more formal."
+        },
+        {
+            "word": "but",
+            "wordType": "conjunction",
+            "definition": [
+                {
+                    "text": "Used to connect ideas that are "
+                },
+                {
+                    "text": "opposite or different",
+                    "highlight": true
+                },
+                {
+                    "text": "; shows "
+                },
+                {
+                    "text": "contrast",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "لكن / ولكن",
+            "synonyms": [
+                "however (more formal)",
+                "yet"
+            ],
+            "example": [
+                {
+                    "text": "The system was demonstrated in 1838, "
+                },
+                {
+                    "text": "but",
+                    "colorize": true
+                },
+                {
+                    "text": " it was received rather indifferently."
+                }
+            ],
+            "tips": "But = simple contrast. However = more formal contrast (usually starts a new sentence). Never use 'although... but' together—choose one."
+        },
+        {
+            "word": "telegraph",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "An early system for sending "
+                },
+                {
+                    "text": "messages over long distances",
+                    "highlight": true
+                },
+                {
+                    "text": " using "
+                },
+                {
+                    "text": "electrical signals",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "جهاز تلغراف",
+            "synonyms": [
+                "wire communication system"
+            ],
+            "example": [
+                {
+                    "text": "Samuel Morse invented a practical "
+                },
+                {
+                    "text": "telegraph",
+                    "colorize": true
+                },
+                {
+                    "text": " system that changed global communication."
+                }
+            ],
+            "tips": "Tele = far, graph = write. 'Telegram' = the actual message sent by telegraph. Replaced by telephone and internet."
+        },
+        {
+            "word": "demonstrated",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "Showed how something works "
+                },
+                {
+                    "text": "by giving proof",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "a clear example",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "أظهر / بيّن",
+            "synonyms": [
+                "showed",
+                "proved",
+                "displayed"
+            ],
+            "example": [
+                {
+                    "text": "Joseph Henry "
+                },
+                {
+                    "text": "demonstrated",
+                    "colorize": true
+                },
+                {
+                    "text": " the potential of the electromagnet for communication."
+                }
+            ],
+            "tips": "Demonstrate + noun (demonstrate skill) OR demonstrate that + clause (demonstrate that it works). Past tense: demonstrated."
+        },
+        {
+            "word": "transmitted",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "Sent or passed something "
+                },
+                {
+                    "text": "from one place",
+                    "highlight": true
+                },
+                {
+                    "text": " to "
+                },
+                {
+                    "text": "another",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "نُقل / أُرسِل",
+            "synonyms": [
+                "sent",
+                "broadcast",
+                "passed along"
+            ],
+            "example": [
+                {
+                    "text": "Morse proved that signals could be "
+                },
+                {
+                    "text": "transmitted",
+                    "colorize": true
+                },
+                {
+                    "text": " by wire over long distances."
+                }
+            ],
+            "tips": "Transmit signals/information/data. Past tense: transmitted. Related: transmission (noun)."
+        },
+        {
+            "word": "funding",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Money that is "
+                },
+                {
+                    "text": "provided",
+                    "highlight": true
+                },
+                {
+                    "text": " for a "
+                },
+                {
+                    "text": "project or business",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "تمويل",
+            "synonyms": [
+                "financial support",
+                "money provided"
+            ],
+            "example": [
+                {
+                    "text": "Congress finally approved "
+                },
+                {
+                    "text": "funding",
+                    "colorize": true
+                },
+                {
+                    "text": " of $30,000 for the telegraph line construction."
+                }
+            ],
+            "tips": "Uncountable noun (no plural). 'Get funding' = receive money. 'Seek funding' = look for money sources."
+        },
+        {
+            "word": "approved",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "Officially "
+                },
+                {
+                    "text": "agreed to allow",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "accept something",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "وافَق على / صادق على",
+            "synonyms": [
+                "accepted",
+                "authorized",
+                "gave permission for"
+            ],
+            "example": [
+                {
+                    "text": "The government "
+                },
+                {
+                    "text": "approved",
+                    "colorize": true
+                },
+                {
+                    "text": " the project after several years of waiting."
+                }
+            ],
+            "tips": "Approve OF someone/something (opinion). Approve something (official permission). Past tense: approved."
+        },
+        {
+            "word": "era",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A distinct period of time in history with "
+                },
+                {
+                    "text": "special characteristics",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "important changes",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "عصر / حقبة",
+            "synonyms": [
+                "age",
+                "period",
+                "time"
+            ],
+            "example": [
+                {
+                    "text": "The telegraph began a new "
+                },
+                {
+                    "text": "era",
+                    "colorize": true
+                },
+                {
+                    "text": " in fast, long-distance communication."
+                }
+            ],
+            "tips": "Era = significant historical period (Victorian era, digital era). Not used for short time periods like 'this week' or 'last summer'."
+        },
+        {
+            "word": "interested in",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Feeling curiosity or desire to "
+                },
+                {
+                    "text": "learn about",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "be involved with something",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مهتم بـ",
+            "synonyms": [
+                "curious about"
+            ],
+            "example": [
+                {
+                    "text": "I'm "
+                },
+                {
+                    "text": "interested in",
+                    "colorize": true
+                },
+                {
+                    "text": " learning how the telegraph system worked."
+                }
+            ],
+            "tips": "ALWAYS 'interested IN' (never 'interested on/at'). Followed by noun or gerund: interested in history / interested in studying."
+        },
+        {
+            "word": "looking forward to",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Feeling happy and excited about "
+                },
+                {
+                    "text": "something that will happen",
+                    "highlight": true
+                },
+                {
+                    "text": " in the ",
+                    "highlight2": true
+                },
+                {
+                    "text": "future"
+                }
+            ],
+            "arabicMeaning": "يتطلع إلى",
+            "synonyms": [
+                "eagerly awaiting"
+            ],
+            "example": [
+                {
+                    "text": "I'm "
+                },
+                {
+                    "text": "looking forward to",
+                    "colorize": true
+                },
+                {
+                    "text": " visiting the communication museum next week."
+                }
+            ],
+            "tips": "ALWAYS followed by noun/gerund (looking forward to the trip / looking forward to seeing you). NOT 'to + verb' (wrong: looking forward to see you)."
+        },
+        {
+            "word": "used to",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Familiar or comfortable with something because of "
+                },
+                {
+                    "text": "past experience",
+                    "highlight": true
+                },
+                {
+                    "text": "; the opposite is ",
+                    "highlight2": true
+                },
+                {
+                    "text": "'not used to'"
+                }
+            ],
+            "arabicMeaning": "مُعتاد على",
+            "synonyms": [
+                "accustomed to"
+            ],
+            "example": [
+                {
+                    "text": "I'm "
+                },
+                {
+                    "text": "used to",
+                    "colorize": true
+                },
+                {
+                    "text": " sending emails, but my grandfather still prefers letters."
+                }
+            ],
+            "tips": "ALWAYS 'used to + noun/gerund' (used to noise / used to working late). NOT the same as 'used to + verb' (past habit: 'I used to smoke'). Context shows the meaning!"
+        }
+    ]
+}

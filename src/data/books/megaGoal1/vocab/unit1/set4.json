@@ -1,0 +1,300 @@
+{
+  "unit": "Mega Goal 1 - Unit 1",
+  "type": "misc",
+  "setTitle": "Speaking & Real Talk",
+  "words": [
+    {
+      "word": "in fact",
+      "wordType": "phrase",
+      "definition": [
+        {
+          "text": "Used to "
+        },
+        {
+          "text": "add information",
+          "highlight": true
+        },
+        {
+          "text": ", often "
+        },
+        {
+          "text": "surprising or unexpected details",
+          "highlight2": true
+        },
+        {
+          "text": " that strengthen or clarify what was just said"
+        }
+      ],
+      "arabicMeaning": "في الواقع / في الحقيقة",
+      "synonyms": [
+        "actually",
+        "as a matter of fact",
+        "to tell the truth"
+      ],
+      "example": [
+        {
+          "text": "I thought the exam would be difficult. "
+        },
+        {
+          "text": "In fact",
+          "colorize": true
+        },
+        {
+          "text": ", it was quite easy"
+        }
+      ],
+      "tips": "Use 'in fact' when the information you're adding is unexpected or contradicts what someone might assume"
+    },
+    {
+      "word": "you see",
+      "wordType": "phrase",
+      "definition": [
+        {
+          "text": "Used to "
+        },
+        {
+          "text": "explain or clarify",
+          "highlight": true
+        },
+        {
+          "text": " something, often providing "
+        },
+        {
+          "text": "additional context or reasoning",
+          "highlight2": true
+        },
+        {
+          "text": " to help the listener understand"
+        }
+      ],
+      "arabicMeaning": "كما تعلم / أتفهم",
+      "synonyms": [
+        "you know",
+        "you understand",
+        "that is"
+      ],
+      "example": [
+        {
+          "text": "I can work in Germany legally. "
+        },
+        {
+          "text": "You see",
+          "colorize": true
+        },
+        {
+          "text": ", I have a German passport because of my grandparents"
+        }
+      ],
+      "tips": "'You see' helps introduce an explanation for something you just mentioned. It makes your reasoning clearer."
+    },
+    {
+      "word": "by the way",
+      "wordType": "phrase",
+      "definition": [
+        {
+          "text": "Used to "
+        },
+        {
+          "text": "introduce a new topic",
+          "highlight": true
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "mention something unrelated",
+          "highlight2": true
+        },
+        {
+          "text": " to the current conversation"
+        }
+      ],
+      "arabicMeaning": "بالمناسبة / على فكرة",
+      "synonyms": [
+        "incidentally",
+        "speaking of which",
+        "anyway"
+      ],
+      "example": [
+        {
+          "text": "We should meet for coffee sometime. "
+        },
+        {
+          "text": "By the way",
+          "colorize": true
+        },
+        {
+          "text": ", did you finish the project?"
+        }
+      ],
+      "tips": "Use this when changing topics or adding something you just remembered. It's a smooth conversation transition."
+    },
+    {
+      "word": "fit in",
+      "wordType": "phrasal verb",
+      "definition": [
+        {
+          "text": "To "
+        },
+        {
+          "text": "be accepted",
+          "highlight": true
+        },
+        {
+          "text": " as part of a group; to feel "
+        },
+        {
+          "text": "comfortable and belong",
+          "highlight2": true
+        },
+        {
+          "text": " in a social situation or environment"
+        }
+      ],
+      "arabicMeaning": "ينسجم / يتأقلم اجتماعياً",
+      "synonyms": [
+        "blend in",
+        "belong",
+        "adapt socially"
+      ],
+      "example": [
+        {
+          "text": "When I moved to a new school, it took time to make friends and "
+        },
+        {
+          "text": "fit in",
+          "colorize": true
+        },
+        {
+          "text": " with the other students"
+        }
+      ],
+      "tips": "'Fit in' is about social belonging and acceptance, not just physical space. It describes feeling part of a community."
+    },
+    {
+      "word": "lost touch with",
+      "wordType": "phrasal verb",
+      "definition": [
+        {
+          "text": "To "
+        },
+        {
+          "text": "no longer communicate",
+          "highlight": true
+        },
+        {
+          "text": " or have "
+        },
+        {
+          "text": "contact with someone",
+          "highlight2": true
+        },
+        {
+          "text": " you once knew well"
+        }
+      ],
+      "arabicMeaning": "فقد التواصل مع / انقطع عن",
+      "synonyms": [
+        "lose contact with",
+        "drift apart from"
+      ],
+      "example": [
+        {
+          "text": "After moving abroad, I "
+        },
+        {
+          "text": "lost touch with",
+          "colorize": true
+        },
+        {
+          "text": " many of my childhood friends"
+        }
+      ],
+      "tips": "The opposite is 'stay in touch' or 'keep in touch' = maintain contact. 'Lost touch' implies it happened gradually."
+    },
+    {
+      "word": "quite a bit",
+      "wordType": "phrase",
+      "definition": [
+        {
+          "text": "A "
+        },
+        {
+          "text": "considerable amount",
+          "highlight": true
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "fairly much",
+          "highlight2": true
+        },
+        {
+          "text": "; more than a little but not extremely"
+        }
+      ],
+      "arabicMeaning": "كثيراً / إلى حد كبير",
+      "synonyms": [
+        "a lot",
+        "considerably",
+        "fairly much"
+      ],
+      "example": [
+        {
+          "text": "Do you miss your hometown? Yes, "
+        },
+        {
+          "text": "quite a bit",
+          "colorize": true
+        },
+        {
+          "text": ", especially during holidays"
+        }
+      ],
+      "tips": "'Quite a bit' is stronger than 'a little' but softer than 'very much'. It's moderate emphasis."
+    },
+    {
+      "word": "reunification",
+      "wordType": "noun",
+      "definition": [
+        {
+          "text": "The process of "
+        },
+        {
+          "text": "bringing together",
+          "highlight": true
+        },
+        {
+          "text": " parts that were "
+        },
+        {
+          "text": "previously separated",
+          "highlight2": true
+        },
+        {
+          "text": ", especially of a country or territory"
+        }
+      ],
+      "arabicMeaning": "إعادة التوحيد",
+      "synonyms": [
+        "reuniting",
+        "coming together",
+        "reintegration"
+      ],
+      "example": [
+        {
+          "text": "German "
+        },
+        {
+          "text": "reunification",
+          "colorize": true
+        },
+        {
+          "text": " in 1990 brought East and West Germany together after decades of division"
+        }
+      ],
+      "tips": "The verb is 'reunify' = to unite again. Famous example: German reunification after the fall of the Berlin Wall."
+    }
+  ]
+}

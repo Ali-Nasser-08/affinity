@@ -1,0 +1,975 @@
+{
+  "unit": "Mega Goal 1",
+  "lesson": "Unit 3",
+  "type": "Form, Meaning, and Function",
+  "clusters": [
+    {
+      "clusterId": "cluster-1",
+      "title": "Present Perfect Progressive vs Simple",
+      "cards": [
+        {
+          "id": "card-1",
+          "content": [
+            {
+              "text": "Present Perfect: Continuous and Simple Forms",
+              "highlight": true
+            },
+            {
+              "text": "الحاضر التام: المستمر والبسيط"
+            }
+          ]
+        },
+        {
+          "id": "card-2",
+          "content": [
+            {
+              "text": "Both forms describe actions that "
+            },
+            {
+              "text": "started in the past",
+              "colorize2": true
+            },
+            {
+              "text": " and "
+            },
+            {
+              "text": "continue to now",
+              "colorize2": true
+            },
+            {
+              "text": "كلا الزمنين يتحدثان عن موقف "
+            },
+            {
+              "text": "بدأ في الماضي",
+              "colorize2": true
+            },
+            {
+              "text": " و "
+            },
+            {
+              "text": "يستمر حتى الحاضر ",
+              "colorize2": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-2",
+      "title": "Present Perfect Progressive",
+      "cards": [
+        {
+          "id": "card-3",
+          "content": [
+            {
+              "text": "The Continuous Present Perfect",
+              "highlight": true
+            },
+            {
+              "text": "الحاضر التام المستمر"
+            }
+          ]
+        },
+        {
+          "id": "card-3b",
+          "type": "structure",
+          "content": [
+            {
+              "text": "Subject",
+              "badge": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "has/have",
+              "badge2": true,
+              "translation": "مساعد"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "been",
+              "badge3": true,
+              "translation": "كان"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "Verb-ing",
+              "badge3": true,
+              "translation": "فعل + ing"
+            }
+          ],
+          "wide": true
+        },
+        {
+          "id": "card-3c",
+          "type": "structure",
+          "content": [
+            {
+              "text": "Use "
+            },
+            {
+              "text": "has",
+              "badge": true
+            },
+            {
+              "text": " with "
+            },
+            {
+              "text": "he/she/it",
+              "colorize2": true
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "have",
+              "badge2": true
+            },
+            {
+              "text": " with "
+            },
+            {
+              "text": "I/you/we/they",
+              "colorize2": true
+            }
+          ],
+          "wide": true
+        },
+        {
+          "id": "card-4",
+          "content": [
+            {
+              "text": "Use this for actions that are "
+            },
+            {
+              "text": "happening right now",
+              "colorize2": true
+            },
+            {
+              "text": " and "
+            },
+            {
+              "text": "will likely continue",
+              "colorize2": true
+            },
+            {
+              "text": "استخدمه للفعل الذي "
+            },
+            {
+              "text": "يحدث الآن",
+              "colorize2": true
+            },
+            {
+              "text": " و"
+            },
+            {
+              "text": "سيستمر على الأرجح",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-5",
+          "type": "example",
+          "content": [
+            {
+              "text": "Sarah "
+            },
+            {
+              "text": "has been reading",
+              "colorize": true
+            },
+            {
+              "text": " a book "
+            },
+            {
+              "text": "for two hours",
+              "colorize3": true
+            },
+            {
+              "text": "حنان "
+            },
+            {
+              "text": "تقرأ",
+              "colorize": true
+            },
+            {
+              "text": " كتابًا "
+            },
+            {
+              "text": "منذ ساعتين",
+              "colorize3": true
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "example",
+          "content": [
+            {
+              "text": "Q: How long "
+            },
+            {
+              "text": "have",
+              "colorize2": true
+            },
+            {
+              "text": " you "
+            },
+            {
+              "text": "been reading",
+              "colorize": true
+            },
+            {
+              "text": " that book?"
+            },
+            {
+              "text": "س: منذ متى وأنت "
+            },
+            {
+              "text": "تقرأ",
+              "colorize": true
+            },
+            {
+              "text": " ذلك الكتاب؟"
+            }
+          ]
+        },
+        {
+          "id": "card-7",
+          "type": "example",
+          "content": [
+            {
+              "text": "Khalid "
+            },
+            {
+              "text": "has been playing",
+              "colorize": true
+            },
+            {
+              "text": " football "
+            },
+            {
+              "text": "since he was ten",
+              "colorize3": true
+            },
+            {
+              "text": "سعيد "
+            },
+            {
+              "text": "يلعب",
+              "colorize": true
+            },
+            {
+              "text": " كرة القدم "
+            },
+            {
+              "text": "منذ أن كان في العاشرة",
+              "colorize3": true
+            }
+          ]
+        },
+        {
+          "id": "card-8",
+          "type": "example",
+          "content": [
+            {
+              "text": "Q: How long "
+            },
+            {
+              "text": "have",
+              "colorize2": true
+            },
+            {
+              "text": " you "
+            },
+            {
+              "text": "been playing",
+              "colorize": true
+            },
+            {
+              "text": " football?"
+            },
+            {
+              "text": "س: منذ متى وأنت "
+            },
+            {
+              "text": "تلعب",
+              "colorize": true
+            },
+            {
+              "text": " كرة القدم؟"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-3",
+      "title": "Present Perfect Simple",
+      "cards": [
+        {
+          "id": "card-9",
+          "content": [
+            {
+              "text": "The Simple Present Perfect",
+              "highlight": true
+            },
+            {
+              "text": "الحاضر التام البسيط"
+            }
+          ]
+        },
+        {
+          "id": "card-9b",
+          "type": "structure",
+          "content": [
+            {
+              "text": "Subject",
+              "badge": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "has/have",
+              "badge2": true,
+              "translation": "مساعد"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "Past Participle",
+              "badge3": true,
+              "translation": "التصريف الثالث"
+            }
+          ],
+          "wide": true
+        },
+        {
+          "id": "card-10",
+          "content": [
+            {
+              "text": "Use this to talk about "
+            },
+            {
+              "text": "how many times",
+              "colorize2": true
+            },
+            {
+              "text": " or "
+            },
+            {
+              "text": "how long",
+              "colorize2": true
+            },
+            {
+              "text": " something has happened by now"
+            },
+            {
+              "text": "استخدمه للتحدث عن "
+            },
+            {
+              "text": "عدد المرات",
+              "colorize2": true
+            },
+            {
+              "text": " أو "
+            },
+            {
+              "text": "المدة",
+              "colorize2": true
+            },
+            {
+              "text": " التي تم فيها عمل شيء حتى هذه النقطة"
+            }
+          ]
+        },
+        {
+          "id": "card-11",
+          "content": [
+            {
+              "text": "The action "
+            },
+            {
+              "text": "isn't happening now",
+              "colorize2": true
+            },
+            {
+              "text": " and "
+            },
+            {
+              "text": "may not continue",
+              "colorize2": true
+            },
+            {
+              "text": "الفعل "
+            },
+            {
+              "text": "لا يحدث في هذه اللحظة",
+              "colorize2": true
+            },
+            {
+              "text": " وقد "
+            },
+            {
+              "text": "لا يستمر",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-13",
+          "type": "example",
+          "content": [
+            {
+              "text": "Q: How many pages "
+            },
+            {
+              "text": "have",
+              "colorize2": true
+            },
+            {
+              "text": " you "
+            },
+            {
+              "text": "read",
+              "colorize": true
+            },
+            {
+              "text": "?"
+            },
+            {
+              "text": "س: كم صفحة "
+            },
+            {
+              "text": "قرأت",
+              "colorize": true
+            },
+            {
+              "text": "؟"
+            }
+          ]
+        },
+        {
+          "id": "card-12",
+          "type": "example",
+          "content": [
+            {
+              "text": "She "
+            },
+            {
+              "text": "has read",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "thirty pages",
+              "colorize3": true
+            },
+            {
+              "text": "هي "
+            },
+            {
+              "text": "قرأت",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "30 صفحة",
+              "colorize3": true
+            }
+          ]
+        },
+        {
+          "id": "card-15",
+          "type": "example",
+          "content": [
+            {
+              "text": "Q: How many teams "
+            },
+            {
+              "text": "have",
+              "colorize2": true
+            },
+            {
+              "text": " you "
+            },
+            {
+              "text": "played",
+              "colorize": true
+            },
+            {
+              "text": " for?"
+            },
+            {
+              "text": "س: لكم فريق "
+            },
+            {
+              "text": "لعبت",
+              "colorize": true
+            },
+            {
+              "text": "؟"
+            }
+          ]
+        },
+        {
+          "id": "card-14",
+          "type": "example",
+          "content": [
+            {
+              "text": "He "
+            },
+            {
+              "text": "has played",
+              "colorize": true
+            },
+            {
+              "text": " for "
+            },
+            {
+              "text": "three different teams",
+              "colorize3": true
+            },
+            {
+              "text": "هو "
+            },
+            {
+              "text": "لعب",
+              "colorize": true
+            },
+            {
+              "text": " لـ"
+            },
+            {
+              "text": "ثلاثة فرق مختلفة",
+              "colorize3": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-4",
+      "title": "Time Expressions: Since and For",
+      "cards": [
+        {
+          "id": "card-16",
+          "content": [
+            {
+              "text": "Important Note:",
+              "highlight": true
+            },
+            {
+              "text": " Time Words with the Continuous Form"
+            },
+            {
+              "text": "ملاحظة مهمة: التعبيرات الزمنية مع الحاضر التام المستمر"
+            }
+          ]
+        },
+        {
+          "id": "card-17",
+          "content": [
+            {
+              "text": "This form often uses "
+            },
+            {
+              "text": "since",
+              "colorize": true
+            },
+            {
+              "text": " and "
+            },
+            {
+              "text": "for",
+              "colorize": true
+            },
+            {
+              "text": " to show "
+            },
+            {
+              "text": "how long",
+              "colorize2": true
+            },
+            {
+              "text": " the action has been happening"
+            },
+            {
+              "text": "الحاضر التام المستمر غالباً يستخدم "
+            },
+            {
+              "text": "منذ",
+              "colorize": true
+            },
+            {
+              "text": " و"
+            },
+            {
+              "text": "لمدة",
+              "colorize": true
+            },
+            {
+              "text": " لإظهار "
+            },
+            {
+              "text": "طول المدة الزمنية",
+              "colorize2": true
+            },
+            {
+              "text": " التي يحدث فيها الفعل"
+            }
+          ]
+        },
+        {
+          "id": "card-18",
+          "content": [
+            {
+              "text": "Use "
+            },
+            {
+              "text": "since",
+              "colorize": true
+            },
+            {
+              "text": " for a "
+            },
+            {
+              "text": "specific starting point",
+              "colorize2": true
+            },
+            {
+              "text": " (when it began)"
+            },
+            {
+              "text": "استخدم "
+            },
+            {
+              "text": "منذ",
+              "colorize": true
+            },
+            {
+              "text": " لـ"
+            },
+            {
+              "text": "نقطة زمنية محددة",
+              "colorize2": true
+            },
+            {
+              "text": " (متى بدأ)"
+            }
+          ]
+        },
+        {
+          "id": "card-19",
+          "type": "example",
+          "content": [
+            {
+              "text": "I have been studying "
+            },
+            {
+              "text": "since",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "nine in the morning",
+              "colorize2": true
+            },
+            {
+              "text": "أدرس "
+            },
+            {
+              "text": "منذ",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "الساعة 9 صباحاً",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-20",
+          "type": "example",
+          "content": [
+            {
+              "text": "She has been working here "
+            },
+            {
+              "text": "since",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "the year 2020",
+              "colorize2": true
+            },
+            {
+              "text": "هي تعمل هنا "
+            },
+            {
+              "text": "منذ",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "عام 2020",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-21",
+          "content": [
+            {
+              "text": "Use "
+            },
+            {
+              "text": "for",
+              "colorize": true
+            },
+            {
+              "text": " to show a "
+            },
+            {
+              "text": "length of time",
+              "colorize2": true
+            },
+            {
+              "text": " (the duration)"
+            },
+            {
+              "text": "استخدم "
+            },
+            {
+              "text": "For",
+              "colorize": true
+            },
+            {
+              "text": " لـ"
+            },
+            {
+              "text": "فترة زمنية",
+              "colorize2": true
+            },
+            {
+              "text": " (المدة)"
+            }
+          ]
+        },
+        {
+          "id": "card-22",
+          "type": "example",
+          "content": [
+            {
+              "text": "I have been studying "
+            },
+            {
+              "text": "for",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "three hours",
+              "colorize2": true
+            },
+            {
+              "text": "أدرس "
+            },
+            {
+              "text": "لمدة",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "ثلاث ساعات",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-23",
+          "type": "example",
+          "content": [
+            {
+              "text": "They have been living there "
+            },
+            {
+              "text": "for",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "two years",
+              "colorize2": true
+            },
+            {
+              "text": "هم يعيشون هناك "
+            },
+            {
+              "text": "لمدة",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "سنتين",
+              "colorize2": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-5",
+      "title": "Comparison Table",
+      "cards": [
+        {
+          "id": "card-24",
+          "content": [
+            {
+              "text": "Key Differences",
+              "highlight": true
+            },
+            {
+              "text": "الفروقات الأساسية"
+            }
+          ]
+        },
+        {
+          "id": "card-25",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Continuous",
+              "badge": true
+            },
+            {
+              "text": ": Focus on the "
+            },
+            {
+              "text": "ongoing action and duration",
+              "colorize": true
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "Simple",
+              "badge2": true
+            },
+            {
+              "text": ": Focus on "
+            },
+            {
+              "text": "finished actions and results",
+              "colorize2": true
+            },
+            {
+              "text": "التركيز على المدة/الفعل المستمر",
+              "colorize": true
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "التركيز على الإنجاز/النتائج",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-26",
+          "type": "example",
+          "content": [
+            {
+              "text": "Continuous",
+              "badge": true
+            },
+            {
+              "text": ": I "
+            },
+            {
+              "text": "have been writing",
+              "colorize": true
+            },
+            {
+              "text": " for an hour (still writing)"
+            },
+            {
+              "text": "أنا "
+            },
+            {
+              "text": "أكتب",
+              "colorize": true
+            },
+            {
+              "text": " منذ ساعة (ما زلت أكتب)"
+            }
+          ]
+        },
+        {
+          "id": "card-27",
+          "type": "example",
+          "content": [
+            {
+              "text": "Simple",
+              "badge2": true
+            },
+            {
+              "text": ": I "
+            },
+            {
+              "text": "have written",
+              "colorize2": true
+            },
+            {
+              "text": " five pages (completed)"
+            },
+            {
+              "text": "أنا "
+            },
+            {
+              "text": "كتبت",
+              "colorize2": true
+            },
+            {
+              "text": " خمس صفحات (أنجزت)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

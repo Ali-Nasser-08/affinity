@@ -1,0 +1,1596 @@
+{
+    "unit": "Mega Goal 1",
+    "lesson": "Unit 11",
+    "type": "Form, Meaning, and Function",
+    "clusters": [
+        {
+            "clusterId": "cluster-1",
+            "title": "Present Perfect vs Simple Past",
+            "cards": [
+                {
+                    "id": "card-1",
+                    "content": [
+                        {
+                            "text": "Present Perfect",
+                            "highlight": true
+                        },
+                        {
+                            "text": " vs "
+                        },
+                        {
+                            "text": "Simple Past",
+                            "highlight": true
+                        },
+                        {
+                            "text": "الحاضر التام مقابل الماضي البسيط"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-2",
+                    "content": [
+                        {
+                            "text": "Use "
+                        },
+                        {
+                            "text": "present perfect",
+                            "colorize": true
+                        },
+                        {
+                            "text": " when the "
+                        },
+                        {
+                            "text": "exact time is not specified",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " or is not important"
+                        },
+                        {
+                            "text": "استخدم "
+                        },
+                        {
+                            "text": "الحاضر التام",
+                            "colorize": true
+                        },
+                        {
+                            "text": " عندما "
+                        },
+                        {
+                            "text": "الوقت المحدد غير مذكور",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " أو غير مهم"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-3",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Have you ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "visited",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " the new museum?"
+                        },
+                        {
+                            "text": "هل ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "زرت",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " المتحف الجديد؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-4",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Yes, I ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "have visited",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " it"
+                        },
+                        {
+                            "text": "نعم، ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "زرته",
+                            "colorize3": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-5",
+                    "content": [
+                        {
+                            "text": "Use "
+                        },
+                        {
+                            "text": "simple past",
+                            "colorize": true
+                        },
+                        {
+                            "text": " when the "
+                        },
+                        {
+                            "text": "exact time is mentioned",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "استخدم "
+                        },
+                        {
+                            "text": "الماضي البسيط",
+                            "colorize": true
+                        },
+                        {
+                            "text": " عندما "
+                        },
+                        {
+                            "text": "الوقت المحدد مذكور",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-6",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "When "
+                        },
+                        {
+                            "text": "did",
+                            "colorize": true
+                        },
+                        {
+                            "text": " the company "
+                        },
+                        {
+                            "text": "launch",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " the new product?"
+                        },
+                        {
+                            "text": "متى "
+                        },
+                        {
+                            "text": "أطلقت",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " الشركة المنتج الجديد؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-7",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "They "
+                        },
+                        {
+                            "text": "launched",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " it "
+                        },
+                        {
+                            "text": "in 2020",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "أطلقوه ",
+                            "colorize3": true
+                        },
+                        {
+                            "text": "في 2020",
+                            "colorize2": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-2",
+            "title": "Time Expressions: Ago, For, Since",
+            "cards": [
+                {
+                    "id": "card-8",
+                    "content": [
+                        {
+                            "text": "Ago, For, Since",
+                            "highlight": true
+                        },
+                        {
+                            "text": "تعبيرات الوقت: Ago و For و Since"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-9",
+                    "content": [
+                        {
+                            "text": "Use "
+                        },
+                        {
+                            "text": "simple past",
+                            "colorize": true
+                        },
+                        {
+                            "text": " with specific time expressions"
+                        },
+                        {
+                            "text": "استخدم "
+                        },
+                        {
+                            "text": "الماضي البسيط",
+                            "colorize": true
+                        },
+                        {
+                            "text": " مع تعبيرات الوقت المحددة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-10",
+                    "content": [
+                        {
+                            "text": "Time words: "
+                        },
+                        {
+                            "text": "yesterday",
+                            "colorize": true
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "ago",
+                            "colorize2": true
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "last week/month/year",
+                            "colorize": true
+                        },
+                        {
+                            "text": "كلمات الوقت: "
+                        },
+                        {
+                            "text": "أمس",
+                            "colorize": true
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "منذ (ago)",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "الأسبوع/الشهر/السنة الماضية",
+                            "colorize": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-11",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "A major earthquake "
+                        },
+                        {
+                            "text": "struck",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " the region "
+                        },
+                        {
+                            "text": "in 1995",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "ضرب ",
+                            "colorize3": true
+                        },
+                        {
+                            "text": "زلزال كبير المنطقة "
+                        },
+                        {
+                            "text": "في 1995",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-12",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "We "
+                        },
+                        {
+                            "text": "traveled",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " to Paris "
+                        },
+                        {
+                            "text": "two years ago",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "سافرنا ",
+                            "colorize3": true
+                        },
+                        {
+                            "text": "إلى باريس "
+                        },
+                        {
+                            "text": "منذ سنتين",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-13",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "She "
+                        },
+                        {
+                            "text": "didn't attend",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " the meeting "
+                        },
+                        {
+                            "text": "yesterday",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "لم تحضر ",
+                            "colorize3": true
+                        },
+                        {
+                            "text": "الاجتماع "
+                        },
+                        {
+                            "text": "أمس",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-14",
+                    "content": [
+                        {
+                            "text": "Use "
+                        },
+                        {
+                            "text": "present perfect",
+                            "colorize": true
+                        },
+                        {
+                            "text": " with "
+                        },
+                        {
+                            "text": "for",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " to show "
+                        },
+                        {
+                            "text": "duration",
+                            "highlight": true
+                        },
+                        {
+                            "text": "استخدم "
+                        },
+                        {
+                            "text": "الحاضر التام",
+                            "colorize": true
+                        },
+                        {
+                            "text": " مع "
+                        },
+                        {
+                            "text": "for",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " لإظهار "
+                        },
+                        {
+                            "text": "المدة",
+                            "highlight": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-15",
+                    "content": [
+                        {
+                            "text": "For",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " + period of time: "
+                        },
+                        {
+                            "text": "for two hours, for a week, for many years",
+                            "colorize": true
+                        },
+                        {
+                            "text": "For",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " + فترة زمنية: "
+                        },
+                        {
+                            "text": "لساعتين، لأسبوع، لسنوات عديدة",
+                            "colorize": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-16",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "He ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "has worked",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " as an engineer "
+                        },
+                        {
+                            "text": "for ten years",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "عمل ",
+                            "colorize3": true
+                        },
+                        {
+                            "text": "كمهندس "
+                        },
+                        {
+                            "text": "لعشر سنوات",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-17",
+                    "content": [
+                        {
+                            "text": "Use "
+                        },
+                        {
+                            "text": "present perfect",
+                            "colorize": true
+                        },
+                        {
+                            "text": " with "
+                        },
+                        {
+                            "text": "since",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " to show "
+                        },
+                        {
+                            "text": "starting point",
+                            "highlight": true
+                        },
+                        {
+                            "text": "استخدم "
+                        },
+                        {
+                            "text": "الحاضر التام",
+                            "colorize": true
+                        },
+                        {
+                            "text": " مع "
+                        },
+                        {
+                            "text": "since",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " لإظهار "
+                        },
+                        {
+                            "text": "نقطة البداية",
+                            "highlight": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-18",
+                    "content": [
+                        {
+                            "text": "Since",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " + specific point in time: "
+                        },
+                        {
+                            "text": "since Monday, since last April, since 2015",
+                            "colorize": true
+                        },
+                        {
+                            "text": "Since",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " + نقطة زمنية محددة: "
+                        },
+                        {
+                            "text": "منذ الاثنين، منذ أبريل الماضي، منذ 2015",
+                            "colorize": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-19",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "We ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "have lived",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " in Riyadh "
+                        },
+                        {
+                            "text": "since August",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "عشنا ",
+                            "colorize3": true
+                        },
+                        {
+                            "text": "في الرياض "
+                        },
+                        {
+                            "text": "منذ أغسطس",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-20",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "We ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "haven't used",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " our bicycles "
+                        },
+                        {
+                            "text": "for a long time",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "لم نستخدم ",
+                            "colorize3": true
+                        },
+                        {
+                            "text": "دراجاتنا "
+                        },
+                        {
+                            "text": "لفترة طويلة",
+                            "colorize2": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-3",
+            "title": "Expressing Ability: Can and Could",
+            "cards": [
+                {
+                    "id": "card-21",
+                    "content": [
+                        {
+                            "text": "Expressing Ability",
+                            "highlight": true
+                        },
+                        {
+                            "text": " with Can and Could"
+                        },
+                        {
+                            "text": "التعبير عن القدرة بـ Can و Could"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-22",
+                    "content": [
+                        {
+                            "text": "Use "
+                        },
+                        {
+                            "text": "can",
+                            "colorize": true
+                        },
+                        {
+                            "text": " to express "
+                        },
+                        {
+                            "text": "present ability",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "استخدم "
+                        },
+                        {
+                            "text": "can",
+                            "colorize": true
+                        },
+                        {
+                            "text": " للتعبير عن "
+                        },
+                        {
+                            "text": "القدرة الحالية",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-23",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Can",
+                            "colorize": true
+                        },
+                        {
+                            "text": " this machine "
+                        },
+                        {
+                            "text": "translate",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " documents for me?"
+                        },
+                        {
+                            "text": "هل ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "تستطيع",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " هذه الآلة ترجمة المستندات لي؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-24",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "No, it "
+                        },
+                        {
+                            "text": "can't",
+                            "colorize": true
+                        },
+                        {
+                            "text": ". You "
+                        },
+                        {
+                            "text": "can",
+                            "colorize": true
+                        },
+                        {
+                            "text": " do it manually!"
+                        },
+                        {
+                            "text": "لا، "
+                        },
+                        {
+                            "text": "لا تستطيع",
+                            "colorize": true
+                        },
+                        {
+                            "text": ". "
+                        },
+                        {
+                            "text": "يمكنك",
+                            "colorize": true
+                        },
+                        {
+                            "text": " القيام بذلك يدوياً!"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-25",
+                    "content": [
+                        {
+                            "text": "Use "
+                        },
+                        {
+                            "text": "could",
+                            "colorize": true
+                        },
+                        {
+                            "text": " to express "
+                        },
+                        {
+                            "text": "past ability",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "استخدم "
+                        },
+                        {
+                            "text": "could",
+                            "colorize": true
+                        },
+                        {
+                            "text": " للتعبير عن "
+                        },
+                        {
+                            "text": "القدرة في الماضي",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-26",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Could",
+                            "colorize": true
+                        },
+                        {
+                            "text": " people "
+                        },
+                        {
+                            "text": "communicate",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " globally before the internet was invented?"
+                        },
+                        {
+                            "text": "هل ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "كان الناس قادرين على التواصل",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " عالمياً قبل اختراع الإنترنت؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-27",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Yes, they "
+                        },
+                        {
+                            "text": "could",
+                            "colorize": true
+                        },
+                        {
+                            "text": ". They "
+                        },
+                        {
+                            "text": "communicated",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " by letters and telegrams"
+                        },
+                        {
+                            "text": "نعم، "
+                        },
+                        {
+                            "text": "كانوا قادرين",
+                            "colorize": true
+                        },
+                        {
+                            "text": ". "
+                        },
+                        {
+                            "text": "تواصلوا",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " بالرسائل والبرقيات"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-4",
+            "title": "Expressing Permission: May and Can",
+            "cards": [
+                {
+                    "id": "card-28",
+                    "content": [
+                        {
+                            "text": "Expressing Permission",
+                            "highlight": true
+                        },
+                        {
+                            "text": " with May and Can"
+                        },
+                        {
+                            "text": "التعبير عن الإذن بـ May و Can"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-29",
+                    "content": [
+                        {
+                            "text": "Use "
+                        },
+                        {
+                            "text": "may",
+                            "colorize": true
+                        },
+                        {
+                            "text": " and "
+                        },
+                        {
+                            "text": "can",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " to "
+                        },
+                        {
+                            "text": "ask for or give permission",
+                            "highlight": true
+                        },
+                        {
+                            "text": "استخدم "
+                        },
+                        {
+                            "text": "may",
+                            "colorize": true
+                        },
+                        {
+                            "text": " و "
+                        },
+                        {
+                            "text": "can",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " لـ"
+                        },
+                        {
+                            "text": "طلب أو منح الإذن",
+                            "highlight": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-30",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "May",
+                            "colorize": true
+                        },
+                        {
+                            "text": " I "
+                        },
+                        {
+                            "text": "leave",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " the classroom early today?"
+                        },
+                        {
+                            "text": "هل ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "يمكنني مغادرة",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " الفصل مبكراً اليوم؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-31",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Yes, you "
+                        },
+                        {
+                            "text": "may",
+                            "colorize": true
+                        },
+                        {
+                            "text": " / No, you "
+                        },
+                        {
+                            "text": "may not",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "نعم، "
+                        },
+                        {
+                            "text": "يمكنك",
+                            "colorize": true
+                        },
+                        {
+                            "text": " / لا، "
+                        },
+                        {
+                            "text": "لا يمكنك",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-32",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Can",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " I "
+                        },
+                        {
+                            "text": "have",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " another cup of tea?"
+                        },
+                        {
+                            "text": "هل ",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "يمكنني الحصول على",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " كوب آخر من الشاي؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-33",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Yes, you "
+                        },
+                        {
+                            "text": "can",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " / No, you "
+                        },
+                        {
+                            "text": "can't",
+                            "colorize": true
+                        },
+                        {
+                            "text": "نعم، "
+                        },
+                        {
+                            "text": "يمكنك",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " / لا، "
+                        },
+                        {
+                            "text": "لا يمكنك",
+                            "colorize": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-5",
+            "title": "Making Polite Requests: Can and Could",
+            "cards": [
+                {
+                    "id": "card-34",
+                    "content": [
+                        {
+                            "text": "Making Polite Requests",
+                            "highlight": true
+                        },
+                        {
+                            "text": " with Can and Could"
+                        },
+                        {
+                            "text": "تقديم الطلبات المهذبة بـ Can و Could"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-35",
+                    "content": [
+                        {
+                            "text": "Use "
+                        },
+                        {
+                            "text": "can",
+                            "colorize": true
+                        },
+                        {
+                            "text": " and "
+                        },
+                        {
+                            "text": "could",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " to make polite requests. "
+                        },
+                        {
+                            "text": "Could",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " is "
+                        },
+                        {
+                            "text": "more formal",
+                            "highlight": true
+                        },
+                        {
+                            "text": "استخدم "
+                        },
+                        {
+                            "text": "can",
+                            "colorize": true
+                        },
+                        {
+                            "text": " و "
+                        },
+                        {
+                            "text": "could",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " لتقديم طلبات مهذبة. "
+                        },
+                        {
+                            "text": "Could",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "أكثر رسمية",
+                            "highlight": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-36",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Could",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " you "
+                        },
+                        {
+                            "text": "complete",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " this survey, please?"
+                        },
+                        {
+                            "text": "هل ",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "يمكنك إكمال",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " هذا الاستبيان، من فضلك؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-37",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Yes, of course / Certainly"
+                        },
+                        {
+                            "text": "نعم، بالطبع / بالتأكيد"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-38",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Can",
+                            "colorize": true
+                        },
+                        {
+                            "text": " you "
+                        },
+                        {
+                            "text": "help",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " me with this task?"
+                        },
+                        {
+                            "text": "هل ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "يمكنك مساعدتي",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " في هذه المهمة؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-39",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Sure / Not now. I'm busy"
+                        },
+                        {
+                            "text": "بالتأكيد / ليس الآن. أنا مشغول"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-40",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Could",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " you "
+                        },
+                        {
+                            "text": "close",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " the door?"
+                        },
+                        {
+                            "text": "هل ",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "يمكنك إغلاق",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " الباب؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-41",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Certainly / Sorry, I can't"
+                        },
+                        {
+                            "text": "بالتأكيد / آسف، لا أستطيع"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-6",
+            "title": "If with Past Perfect and Would Be Able",
+            "cards": [
+                {
+                    "id": "card-42",
+                    "content": [
+                        {
+                            "text": "Conditionals",
+                            "highlight": true
+                        },
+                        {
+                            "text": " - Ability and Missed Opportunities"
+                        },
+                        {
+                            "text": "الشرطية - القدرة والفرص الضائعة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-43",
+                    "content": [
+                        {
+                            "text": "Use "
+                        },
+                        {
+                            "text": "if + past perfect",
+                            "colorize": true
+                        },
+                        {
+                            "text": " with "
+                        },
+                        {
+                            "text": "would be able to",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " to talk about "
+                        },
+                        {
+                            "text": "present ability",
+                            "highlight": true
+                        },
+                        {
+                            "text": " based on past conditions"
+                        },
+                        {
+                            "text": "استخدم "
+                        },
+                        {
+                            "text": "if + الماضي التام",
+                            "colorize": true
+                        },
+                        {
+                            "text": " مع "
+                        },
+                        {
+                            "text": "would be able to",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " للحديث عن "
+                        },
+                        {
+                            "text": "القدرة الحالية",
+                            "highlight": true
+                        },
+                        {
+                            "text": " بناءً على ظروف ماضية"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-44",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "If + ",
+                            "badge": true,
+                            "translation": "إذا"
+                        },
+                        {
+                            "text": "past perfect",
+                            "badge2": true,
+                            "translation": "ماضي تام"
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "would be able to",
+                            "badge3": true,
+                            "translation": "سيكون قادراً على"
+                        },
+                        {
+                            "text": " + verb",
+                            "badge": true,
+                            "translation": "فعل"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-45",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "If I ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "had learned",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " programming, I "
+                        },
+                        {
+                            "text": "would be able to",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " create my own app"
+                        },
+                        {
+                            "text": "لو ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "تعلمت",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " البرمجة، "
+                        },
+                        {
+                            "text": "لكنت قادراً على",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " إنشاء تطبيقي الخاص"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-46",
+                    "content": [
+                        {
+                            "text": "Use "
+                        },
+                        {
+                            "text": "if + past perfect",
+                            "colorize": true
+                        },
+                        {
+                            "text": " with "
+                        },
+                        {
+                            "text": "would have been able to",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " to talk about "
+                        },
+                        {
+                            "text": "past ability",
+                            "highlight": true
+                        },
+                        {
+                            "text": " and missed opportunities"
+                        },
+                        {
+                            "text": "استخدم "
+                        },
+                        {
+                            "text": "if + الماضي التام",
+                            "colorize": true
+                        },
+                        {
+                            "text": " مع "
+                        },
+                        {
+                            "text": "would have been able to",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " للحديث عن "
+                        },
+                        {
+                            "text": "القدرة الماضية",
+                            "highlight": true
+                        },
+                        {
+                            "text": " والفرص الضائعة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-47",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "If + ",
+                            "badge": true,
+                            "translation": "إذا"
+                        },
+                        {
+                            "text": "past perfect",
+                            "badge2": true,
+                            "translation": "ماضي تام"
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "would have been able to",
+                            "badge3": true,
+                            "translation": "كان سيكون قادراً على"
+                        },
+                        {
+                            "text": " + verb",
+                            "badge": true,
+                            "translation": "فعل"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-48",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "If Dr. Khan ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "had discovered",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " the vaccine earlier, doctors "
+                        },
+                        {
+                            "text": "would have been able to",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " save more lives during the epidemic"
+                        },
+                        {
+                            "text": "لو ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "اكتشف",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " الدكتور خان اللقاح مبكراً، "
+                        },
+                        {
+                            "text": "لكان الأطباء قادرين على",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " إنقاذ المزيد من الأرواح خلال الوباء"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-49",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "If they ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "had invented",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " solar panels sooner, we "
+                        },
+                        {
+                            "text": "would have been able to",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " reduce pollution decades ago"
+                        },
+                        {
+                            "text": "لو ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "اخترعوا",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " الألواح الشمسية مبكراً، "
+                        },
+                        {
+                            "text": "لكنا قادرين على",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " تقليل التلوث منذ عقود"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,511 @@
+{
+    "unit": "Mega Goal 1 - Unit 5: Did You Hurt Yourself?",
+    "type": "misc",
+    "setTitle": "Miscellaneous From The Unit",
+    "words": [
+        {
+            "word": "crash into",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "collide violently",
+                    "highlight": true
+                },
+                {
+                    "text": " with "
+                },
+                {
+                    "text": "another vehicle or object",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يصطدم بـ",
+            "synonyms": [
+                "smash into",
+                "ram into",
+                "collide with"
+            ],
+            "example": [
+                {
+                    "text": "A speeding car "
+                },
+                {
+                    "text": "crashed into",
+                    "colorize": true
+                },
+                {
+                    "text": " us at the intersection."
+                }
+            ],
+            "tips": "Crash = violent collision (not gentle bump). Always 'crash INTO' something. Different from 'crash' alone (plane crash, computer crash)."
+        },
+        {
+            "word": "intersection",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A place where "
+                },
+                {
+                    "text": "two or more roads cross",
+                    "highlight": true
+                },
+                {
+                    "text": " and vehicles may "
+                },
+                {
+                    "text": "meet from different directions",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "تقاطع طرق",
+            "synonyms": [
+                "crossroads",
+                "junction"
+            ],
+            "example": [
+                {
+                    "text": "The accident happened at a busy "
+                },
+                {
+                    "text": "intersection",
+                    "colorize": true
+                },
+                {
+                    "text": " during morning rush hour."
+                }
+            ],
+            "tips": "High-risk location for accidents. Drivers must watch for cross-traffic. In some countries called 'junction' or 'crossroads'."
+        },
+        {
+            "word": "dashboard",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "control panel",
+                    "highlight": true
+                },
+                {
+                    "text": " in front of the driver containing "
+                },
+                {
+                    "text": "instruments and controls",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "لوحة القيادة",
+            "synonyms": [
+                "instrument panel"
+            ],
+            "example": [
+                {
+                    "text": "Even with a seatbelt, he hit his face on the "
+                },
+                {
+                    "text": "dashboard",
+                    "colorize": true
+                },
+                {
+                    "text": " during the collision."
+                }
+            ],
+            "tips": "Dashboard airbags deploy to protect drivers. Modern dashboards include speedometer, fuel gauge, and warning lights."
+        },
+        {
+            "word": "unconscious",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Not "
+                },
+                {
+                    "text": "awake or aware",
+                    "highlight": true
+                },
+                {
+                    "text": " of what is happening around you; "
+                },
+                {
+                    "text": "temporarily without consciousness",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "فاقد للوعي",
+            "synonyms": [
+                "knocked out",
+                "in a faint",
+                "out cold"
+            ],
+            "example": [
+                {
+                    "text": "He was "
+                },
+                {
+                    "text": "unconscious",
+                    "colorize": true
+                },
+                {
+                    "text": " for several minutes after the impact."
+                }
+            ],
+            "tips": "Prefix 'un-' = not. Opposite of conscious. Different from 'unaware' (you can be awake but unaware of something specific)."
+        },
+        {
+            "word": "cautious",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Being "
+                },
+                {
+                    "text": "careful to avoid danger",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "potential problems",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حذر / وقور",
+            "synonyms": [
+                "careful",
+                "wary",
+                "prudent"
+            ],
+            "example": [
+                {
+                    "text": "After the accident, he became a very "
+                },
+                {
+                    "text": "cautious",
+                    "colorize": true
+                },
+                {
+                    "text": " driver who always follows speed limits."
+                }
+            ],
+            "tips": "Cautious ≠ cowardly. It's smart safety behavior. Related: caution (noun), cautiously (adverb). 'Exercise caution' = be careful."
+        },
+        {
+            "word": "scarred",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Having "
+                },
+                {
+                    "text": "permanent marks on skin",
+                    "highlight": true
+                },
+                {
+                    "text": " left after a "
+                },
+                {
+                    "text": "wound has healed",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مُتندّب / عليه ندوب",
+            "synonyms": [
+                "marked",
+                "disfigured (severely)"
+            ],
+            "example": [
+                {
+                    "text": "He was afraid he would be "
+                },
+                {
+                    "text": "scarred",
+                    "colorize": true
+                },
+                {
+                    "text": " for life after the glass shattered on his face."
+                }
+            ],
+            "tips": "Scar (noun) = the mark itself. Scar (verb) = to mark with scars. Emotional scars = psychological trauma that leaves lasting effects."
+        },
+        {
+            "word": "speeding",
+            "wordType": "adjective/verb",
+            "definition": [
+                {
+                    "text": "Driving "
+                },
+                {
+                    "text": "faster than the legal limit",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "faster than conditions allow",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يتجاوز السرعة المسموحة",
+            "synonyms": [
+                "driving too fast",
+                "exceeding the speed limit"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "speeding",
+                    "colorize": true
+                },
+                {
+                    "text": " car lost control on the wet road."
+                }
+            ],
+            "tips": "Speeding is a major cause of accidents. 'Speeding ticket' = fine from police. Not the same as 'fast driving' on a racetrack where it's permitted."
+        },
+        {
+            "word": "fortunately",
+            "wordType": "adverb",
+            "definition": [
+                {
+                    "text": "Used to express that "
+                },
+                {
+                    "text": "something good happened",
+                    "highlight": true
+                },
+                {
+                    "text": " in an "
+                },
+                {
+                    "text": "otherwise bad situation",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "لحسن الحظ",
+            "synonyms": [
+                "luckily",
+                "thankfully"
+            ],
+            "example": [
+                {
+                    "text": "I was, "
+                },
+                {
+                    "text": "fortunately",
+                    "colorize": true
+                },
+                {
+                    "text": ", wearing my seatbelt during the crash."
+                }
+            ],
+            "tips": "Often used at the start or middle of a sentence to highlight a positive element in negative news. Opposite: 'unfortunately'."
+        },
+        {
+            "word": "scared to death",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Extremely "
+                },
+                {
+                    "text": "frightened",
+                    "highlight": true
+                },
+                {
+                    "text": "; feeling "
+                },
+                {
+                    "text": "intense fear",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مرعوب جداً / خائف حتى الموت",
+            "synonyms": [
+                "terrified",
+                "petrified",
+                "frozen with fear"
+            ],
+            "example": [
+                {
+                    "text": "I was 15 and "
+                },
+                {
+                    "text": "scared to death",
+                    "colorize": true
+                },
+                {
+                    "text": " after waking up in the ambulance."
+                }
+            ],
+            "tips": "Hyperbolic expression—no one actually dies from fear here. Similar expressions: 'scared stiff', 'scared out of my mind'."
+        },
+        {
+            "word": "thrown into",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To be "
+                },
+                {
+                    "text": "forcefully moved",
+                    "highlight": true
+                },
+                {
+                    "text": " and "
+                },
+                {
+                    "text": "hit against something",
+                    "highlight2": true
+                },
+                {
+                    "text": " due to sudden impact"
+                }
+            ],
+            "arabicMeaning": "يُلقى بقوة نحو",
+            "synonyms": [
+                "hurled into",
+                "propelled into"
+            ],
+            "example": [
+                {
+                    "text": "The collision "
+                },
+                {
+                    "text": "threw us into",
+                    "colorize": true
+                },
+                {
+                    "text": " a telephone pole."
+                }
+            ],
+            "tips": "Passive experience—you don't throw yourself; the force of impact throws you. Shows lack of control during accidents."
+        },
+        {
+            "word": "seatbelt",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "safety strap",
+                    "highlight": true
+                },
+                {
+                    "text": " that "
+                },
+                {
+                    "text": "secures a person to their seat",
+                    "highlight2": true
+                },
+                {
+                    "text": " in a vehicle during sudden stops"
+                }
+            ],
+            "arabicMeaning": "حزام الأمان",
+            "synonyms": [
+                "safety belt"
+            ],
+            "example": [
+                {
+                    "text": "Always wear your "
+                },
+                {
+                    "text": "seatbelt",
+                    "colorize": true
+                },
+                {
+                    "text": "—it can save your life in a crash."
+                }
+            ],
+            "tips": "Seatbelt use reduces death risk by 45-60%. 'Click it or ticket' = common safety slogan. Never place belt under arm—that's dangerous!"
+        },
+        {
+            "word": "ambulance",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A special "
+                },
+                {
+                    "text": "vehicle equipped",
+                    "highlight": true
+                },
+                {
+                    "text": " to "
+                },
+                {
+                    "text": "transport injured or sick people",
+                    "highlight2": true
+                },
+                {
+                    "text": " to hospital"
+                }
+            ],
+            "arabicMeaning": "سيارة إسعاف",
+            "synonyms": [
+                "emergency vehicle"
+            ],
+            "example": [
+                {
+                    "text": "Paramedics placed the injured teenager in the "
+                },
+                {
+                    "text": "ambulance",
+                    "colorize": true
+                },
+                {
+                    "text": " and rushed him to the hospital."
+                }
+            ],
+            "tips": "Ambulances have sirens and flashing lights to move through traffic quickly. Call emergency number (911/999/112) to request one."
+        },
+        {
+            "word": "likely to",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Having a "
+                },
+                {
+                    "text": "high probability",
+                    "highlight": true
+                },
+                {
+                    "text": " of "
+                },
+                {
+                    "text": "happening or being true",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "على الأرجح / من المرجح أن",
+            "synonyms": [
+                "probably going to",
+                "expected to"
+            ],
+            "example": [
+                {
+                    "text": "Without treatment, he was "
+                },
+                {
+                    "text": "likely to",
+                    "colorize": true
+                },
+                {
+                    "text": " have scars on his face for life."
+                }
+            ],
+            "tips": "Structure: subject + be + likely to + verb. 'It is likely that...' = alternative structure. Not 100% certain—just probable."
+        }
+    ]
+}

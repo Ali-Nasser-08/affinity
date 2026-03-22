@@ -1,0 +1,1343 @@
+{
+    "unit": "Mega Goal 1 - Unit 1: Global Issues",
+    "type": "vocabulary_box",
+    "setTitle": "End of Unit Vocabulary",
+    "words": [
+        {
+            "word": "global warming",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "The gradual "
+                },
+                {
+                    "text": "increase in Earth's temperature",
+                    "highlight": true
+                },
+                {
+                    "text": " caused by "
+                },
+                {
+                    "text": "pollution and greenhouse gases",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "الاحتباس الحراري",
+            "synonyms": [
+                "climate change",
+                "rising temperatures"
+            ],
+            "example": [
+                {
+                    "text": "Scientists warn that "
+                },
+                {
+                    "text": "global warming",
+                    "colorize": true
+                },
+                {
+                    "text": " will cause sea levels to rise."
+                }
+            ],
+            "tips": "Caused mainly by burning fossil fuels (oil, coal). Different from 'global cooling' (temperature decrease)."
+        },
+        {
+            "word": "fit in",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To feel "
+                },
+                {
+                    "text": "comfortable and accepted",
+                    "highlight": true
+                },
+                {
+                    "text": " in a "
+                },
+                {
+                    "text": "group or situation",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يندمج / يتأقلم",
+            "synonyms": [
+                "belong",
+                "blend in"
+            ],
+            "example": [
+                {
+                    "text": "It took me months to "
+                },
+                {
+                    "text": "fit in",
+                    "colorize": true
+                },
+                {
+                    "text": " at my new school."
+                }
+            ],
+            "tips": "Fit IN (not 'fit on' or 'fit at'). Social skill important when moving to new places or joining new groups."
+        },
+        {
+            "word": "infrastructure",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The basic "
+                },
+                {
+                    "text": "systems and structures",
+                    "highlight": true
+                },
+                {
+                    "text": " of a society: "
+                },
+                {
+                    "text": "roads, electricity, water, internet",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "بنية تحتية",
+            "synonyms": [
+                "public works",
+                "basic facilities"
+            ],
+            "example": [
+                {
+                    "text": "After the war, the country needed to rebuild its "
+                },
+                {
+                    "text": "infrastructure",
+                    "colorize": true
+                },
+                {
+                    "text": "."
+                }
+            ],
+            "tips": "Pronounced in-FRAS-truhk-cher. Strong infrastructure = strong economy. Weak infrastructure = daily problems for citizens."
+        },
+        {
+            "word": "poverty",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The condition of "
+                },
+                {
+                    "text": "having very little money",
+                    "highlight": true
+                },
+                {
+                    "text": " and "
+                },
+                {
+                    "text": "not enough resources",
+                    "highlight2": true
+                },
+                {
+                    "text": " to live well"
+                }
+            ],
+            "arabicMeaning": "فقر",
+            "synonyms": [
+                "destitution",
+                "being poor"
+            ],
+            "example": [
+                {
+                    "text": "Many charities work to reduce "
+                },
+                {
+                    "text": "poverty",
+                    "colorize": true
+                },
+                {
+                    "text": " in developing countries."
+                }
+            ],
+            "tips": "Extreme poverty = less than $2 per day. Not the same as 'being broke' (temporary lack of money)."
+        },
+        {
+            "word": "by the way",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Used to "
+                },
+                {
+                    "text": "introduce a new topic",
+                    "highlight": true
+                },
+                {
+                    "text": " that is "
+                },
+                {
+                    "text": "related but not the main subject",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "بالمناسبة",
+            "synonyms": [
+                "incidentally",
+                "speaking of which"
+            ],
+            "example": [
+                {
+                    "text": "\"I finished my homework.\" \""
+                },
+                {
+                    "text": "By the way",
+                    "colorize": true
+                },
+                {
+                    "text": ", did you hear about the school trip?\""
+                }
+            ],
+            "tips": "Casual conversation phrase. Abbreviated as 'BTW' in texting. Not for formal writing/speeches."
+        },
+        {
+            "word": "unemployment",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The situation of "
+                },
+                {
+                    "text": "not having a job",
+                    "highlight": true
+                },
+                {
+                    "text": " when you "
+                },
+                {
+                    "text": "want and need to work",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "بطالة",
+            "synonyms": [
+                "joblessness"
+            ],
+            "example": [
+                {
+                    "text": "High "
+                },
+                {
+                    "text": "unemployment",
+                    "colorize": true
+                },
+                {
+                    "text": " makes it difficult for young people to start their careers."
+                }
+            ],
+            "tips": "Unemployment RATE = percentage of jobless people in the workforce. Different from 'not working' (students/retirees choose not to work)."
+        },
+        {
+            "word": "citizen",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A person who "
+                },
+                {
+                    "text": "belongs to a country",
+                    "highlight": true
+                },
+                {
+                    "text": " by "
+                },
+                {
+                    "text": "birth or legal permission",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مواطن",
+            "synonyms": [
+                "national",
+                "resident (with rights)"
+            ],
+            "example": [
+                {
+                    "text": "Every "
+                },
+                {
+                    "text": "citizen",
+                    "colorize": true
+                },
+                {
+                    "text": " has the right to vote in elections."
+                }
+            ],
+            "tips": "Citizen ≠ resident (tourists/residents may not be citizens). Citizens have rights AND responsibilities (voting, taxes, jury duty)."
+        },
+        {
+            "word": "take for granted",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To not "
+                },
+                {
+                    "text": "appreciate something",
+                    "highlight": true
+                },
+                {
+                    "text": " because you "
+                },
+                {
+                    "text": "expect it to always be there",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يأخذ شيئاً كأمر مسلّم به",
+            "synonyms": [
+                "not appreciate",
+                "assume will always exist"
+            ],
+            "example": [
+                {
+                    "text": "Don't "
+                },
+                {
+                    "text": "take for granted",
+                    "colorize": true
+                },
+                {
+                    "text": " clean water—we're lucky to have it."
+                }
+            ],
+            "tips": "Often used as warning: 'You'll miss it when it's gone.' Common things we take for granted: health, family, electricity, fresh water."
+        },
+        {
+            "word": "currency",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "money system",
+                    "highlight": true
+                },
+                {
+                    "text": " used in a "
+                },
+                {
+                    "text": "particular country",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "عملة",
+            "synonyms": [
+                "money",
+                "cash (national type)"
+            ],
+            "example": [
+                {
+                    "text": "The Saudi "
+                },
+                {
+                    "text": "currency",
+                    "colorize": true
+                },
+                {
+                    "text": " is the riyal (SAR)."
+                }
+            ],
+            "tips": "Currency exchange = changing money from one country to another. Digital currencies (Bitcoin) are new types of money."
+        },
+        {
+            "word": "endangered species",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "Animals or plants that "
+                },
+                {
+                    "text": "might disappear forever",
+                    "highlight": true
+                },
+                {
+                    "text": " because there are "
+                },
+                {
+                    "text": "very few left",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "أنواع مهددة بالانقراض",
+            "synonyms": [
+                "threatened species"
+            ],
+            "example": [
+                {
+                    "text": "The giant panda is an "
+                },
+                {
+                    "text": "endangered species",
+                    "colorize": true
+                },
+                {
+                    "text": " protected by international law."
+                }
+            ],
+            "tips": "Causes: habitat loss, hunting, pollution, climate change. 'Extinct' = already gone forever (like dinosaurs)."
+        },
+        {
+            "word": "obtain",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "get or acquire",
+                    "highlight": true
+                },
+                {
+                    "text": " something you "
+                },
+                {
+                    "text": "need or want",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يحصل على",
+            "synonyms": [
+                "get",
+                "acquire",
+                "secure"
+            ],
+            "example": [
+                {
+                    "text": "Students must "
+                },
+                {
+                    "text": "obtain",
+                    "colorize": true
+                },
+                {
+                    "text": " a visa before studying abroad."
+                }
+            ],
+            "tips": "More formal than 'get'. Often used for official things: obtain permission, obtain information, obtain results."
+        },
+        {
+            "word": "traffic",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Vehicles "
+                },
+                {
+                    "text": "moving on roads",
+                    "highlight": true
+                },
+                {
+                    "text": ", or the "
+                },
+                {
+                    "text": "congestion caused by too many vehicles",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مرور / زحمة سير",
+            "synonyms": [
+                "cars on the road",
+                "congestion"
+            ],
+            "example": [
+                {
+                    "text": "There was heavy "
+                },
+                {
+                    "text": "traffic",
+                    "colorize": true
+                },
+                {
+                    "text": " on the highway this morning."
+                }
+            ],
+            "tips": "Always uncountable (no 'traffics'). 'Traffic jam' = complete stop. 'Rush hour' = worst traffic times (morning/evening)."
+        },
+        {
+            "word": "fresh water",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "Water that "
+                },
+                {
+                    "text": "does not contain salt",
+                    "highlight": true
+                },
+                {
+                    "text": " and is "
+                },
+                {
+                    "text": "safe to drink",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مياه عذبة",
+            "synonyms": [
+                "drinking water",
+                "potable water"
+            ],
+            "example": [
+                {
+                    "text": "Less than 3% of Earth's water is "
+                },
+                {
+                    "text": "fresh water",
+                    "colorize": true
+                },
+                {
+                    "text": "."
+                }
+            ],
+            "tips": "Most fresh water is frozen in glaciers or underground. Rivers/lakes contain only a tiny fraction. Essential for human survival."
+        },
+        {
+            "word": "in fact",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Used to "
+                },
+                {
+                    "text": "add information",
+                    "highlight": true
+                },
+                {
+                    "text": " that "
+                },
+                {
+                    "text": "emphasizes or corrects",
+                    "highlight2": true
+                },
+                {
+                    "text": " what was just said"
+                }
+            ],
+            "arabicMeaning": "في الواقع / في الحقيقة",
+            "synonyms": [
+                "actually",
+                "as a matter of fact"
+            ],
+            "example": [
+                {
+                    "text": "\"I thought you disliked science.\" \"No, "
+                },
+                {
+                    "text": "in fact",
+                    "colorize": true
+                },
+                {
+                    "text": ", it's my favorite subject.\""
+                }
+            ],
+            "tips": "Adds emphasis or surprise. More formal than 'actually'. Often used to correct a misunderstanding politely."
+        },
+        {
+            "word": "government",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The group of people who "
+                },
+                {
+                    "text": "control and make decisions",
+                    "highlight": true
+                },
+                {
+                    "text": " for a "
+                },
+                {
+                    "text": "country or region",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حكومة",
+            "synonyms": [
+                "administration",
+                "ruling body"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "government",
+                    "colorize": true
+                },
+                {
+                    "text": " built new schools in rural areas."
+                }
+            ],
+            "tips": "Government provides services: schools, hospitals, roads, security. Citizens pay taxes to fund the government."
+        },
+        {
+            "word": "satellite",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "An object that "
+                },
+                {
+                    "text": "orbits Earth",
+                    "highlight": true
+                },
+                {
+                    "text": " to "
+                },
+                {
+                    "text": "send signals for TV, weather, or GPS",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "قنّاص / قمر صناعي",
+            "synonyms": [
+                "orbiter",
+                "spacecraft (in orbit)"
+            ],
+            "example": [
+                {
+                    "text": "Weather "
+                },
+                {
+                    "text": "satellites",
+                    "colorize": true
+                },
+                {
+                    "text": " help predict storms before they reach land."
+                }
+            ],
+            "tips": "Natural satellite = moon. Artificial/man-made satellites = human-built objects in space. GPS uses 24+ satellites."
+        },
+        {
+            "word": "establish",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "start or create",
+                    "highlight": true
+                },
+                {
+                    "text": " something that will "
+                },
+                {
+                    "text": "continue to exist",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يؤسس / ينشئ",
+            "synonyms": [
+                "set up",
+                "found",
+                "create"
+            ],
+            "example": [
+                {
+                    "text": "The United Nations was "
+                },
+                {
+                    "text": "established",
+                    "colorize": true
+                },
+                {
+                    "text": " in 1945 to promote peace."
+                }
+            ],
+            "tips": "Establish a business/school/law. More formal than 'start'. Often used for official or permanent things."
+        },
+        {
+            "word": "you see",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Used when "
+                },
+                {
+                    "text": "explaining something",
+                    "highlight": true
+                },
+                {
+                    "text": " to "
+                },
+                {
+                    "text": "check if the listener understands",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "كما ترى / تفهم؟",
+            "synonyms": [
+                "do you understand?",
+                "as you can see"
+            ],
+            "example": [
+                {
+                    "text": "\"We need to leave early because the roads get busy—"
+                },
+                {
+                    "text": "you see",
+                    "colorize": true
+                },
+                {
+                    "text": "?\""
+                }
+            ],
+            "tips": "Spoken English filler phrase. Not used in formal writing. Similar to 'you know' but specifically checks understanding."
+        },
+        {
+            "word": "reunification",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The act of "
+                },
+                {
+                    "text": "bringing together again",
+                    "highlight": true
+                },
+                {
+                    "text": " parts that were "
+                },
+                {
+                    "text": "previously separated",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "توحيد / لمّ الشمل",
+            "synonyms": [
+                "reunite",
+                "rejoin"
+            ],
+            "example": [
+                {
+                    "text": "German "
+                },
+                {
+                    "text": "reunification",
+                    "colorize": true
+                },
+                {
+                    "text": " happened in 1990 after the Berlin Wall fell."
+                }
+            ],
+            "tips": "Re- prefix = again. Common with countries (Vietnam, Germany) or families separated by war/migration."
+        },
+        {
+            "word": "natural disaster",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A major harmful event "
+                },
+                {
+                    "text": "caused by nature",
+                    "highlight": true
+                },
+                {
+                    "text": " such as "
+                },
+                {
+                    "text": "earthquakes, floods, or hurricanes",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "كارثة طبيعية",
+            "synonyms": [
+                "act of God",
+                "catastrophe"
+            ],
+            "example": [
+                {
+                    "text": "Japan has strong buildings to survive "
+                },
+                {
+                    "text": "natural disasters",
+                    "colorize": true
+                },
+                {
+                    "text": " like earthquakes."
+                }
+            ],
+            "tips": "Not caused by humans (unlike 'man-made disasters' like oil spills). Impossible to prevent, but preparation saves lives."
+        },
+        {
+            "word": "biologist",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A scientist who "
+                },
+                {
+                    "text": "studies living things",
+                    "highlight": true
+                },
+                {
+                    "text": " such as "
+                },
+                {
+                    "text": "animals, plants, and microorganisms",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "عالم أحياء",
+            "synonyms": [
+                "life scientist"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "biologist",
+                    "colorize": true
+                },
+                {
+                    "text": " studied how pollution affects coral reefs."
+                }
+            ],
+            "tips": "Biology = study of life. Specializations: marine biologist, microbiologist, wildlife biologist."
+        },
+        {
+            "word": "launch",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "start or send out",
+                    "highlight": true
+                },
+                {
+                    "text": " something important "
+                },
+                {
+                    "text": "for the first time",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يطلق",
+            "synonyms": [
+                "send into space",
+                "introduce (product)",
+                "begin (project)"
+            ],
+            "example": [
+                {
+                    "text": "NASA will "
+                },
+                {
+                    "text": "launch",
+                    "colorize": true
+                },
+                {
+                    "text": " a new satellite next month."
+                }
+            ],
+            "tips": "Launch a rocket/satellite/product/campaign. Can be literal (space) or figurative (business project)."
+        },
+        {
+            "word": "security",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The state of being "
+                },
+                {
+                    "text": "safe and protected",
+                    "highlight": true
+                },
+                {
+                    "text": " from "
+                },
+                {
+                    "text": "danger, crime, or threats",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "أمن",
+            "synonyms": [
+                "safety",
+                "protection"
+            ],
+            "example": [
+                {
+                    "text": "Airport "
+                },
+                {
+                    "text": "security",
+                    "colorize": true
+                },
+                {
+                    "text": " checks all bags before flights."
+                }
+            ],
+            "tips": "National security = protecting a country. Personal security = protecting yourself. Cybersecurity = protecting computers/data."
+        },
+        {
+            "word": "lose touch",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To stop "
+                },
+                {
+                    "text": "communicating regularly",
+                    "highlight": true
+                },
+                {
+                    "text": " with someone and "
+                },
+                {
+                    "text": "become less close",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يفقد الاتصال / ينقطع التواصل",
+            "synonyms": [
+                "stop keeping in contact",
+                "drift apart"
+            ],
+            "example": [
+                {
+                    "text": "I "
+                },
+                {
+                    "text": "lost touch",
+                    "colorize": true
+                },
+                {
+                    "text": " with my childhood friends after we moved to different cities."
+                }
+            ],
+            "tips": "Lose touch WITH someone (always needs 'with'). Happens naturally when people move away or get busy. Social media helps prevent this."
+        },
+        {
+            "word": "economy",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The system of "
+                },
+                {
+                    "text": "money, trade, and industry",
+                    "highlight": true
+                },
+                {
+                    "text": " in a "
+                },
+                {
+                    "text": "country or region",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "اقتصاد",
+            "synonyms": [
+                "economic system",
+                "financial system"
+            ],
+            "example": [
+                {
+                    "text": "Tourism is an important part of Egypt's "
+                },
+                {
+                    "text": "economy",
+                    "colorize": true
+                },
+                {
+                    "text": "."
+                }
+            ],
+            "tips": "Strong economy = jobs, growth. Weak economy = unemployment, recession. 'Economist' = expert who studies economies."
+        },
+        {
+            "word": "transmission",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The act of "
+                },
+                {
+                    "text": "sending something",
+                    "highlight": true
+                },
+                {
+                    "text": " from one place "
+                },
+                {
+                    "text": "to another",
+                    "highlight2": true
+                },
+                {
+                    "text": " (signals, diseases, power)"
+                }
+            ],
+            "arabicMeaning": "إرسال / نقل",
+            "synonyms": [
+                "broadcasting (signals)",
+                "spreading (disease)"
+            ],
+            "example": [
+                {
+                    "text": "The radio station stopped "
+                },
+                {
+                    "text": "transmission",
+                    "colorize": true
+                },
+                {
+                    "text": " during the storm."
+                }
+            ],
+            "tips": "TV/radio transmission = broadcasting signals. Disease transmission = spreading illness. Car transmission = gear system (different meaning!)."
+        },
+        {
+            "word": "pollution",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Harmful substances in the "
+                },
+                {
+                    "text": "environment",
+                    "highlight": true
+                },
+                {
+                    "text": " that "
+                },
+                {
+                    "text": "damage air, water, or land",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "تلوث",
+            "synonyms": [
+                "contamination"
+            ],
+            "example": [
+                {
+                    "text": "Factory waste causes water "
+                },
+                {
+                    "text": "pollution",
+                    "colorize": true
+                },
+                {
+                    "text": " in rivers."
+                }
+            ],
+            "tips": "Types: air pollution, water pollution, noise pollution, light pollution. Reducing plastic use helps decrease pollution."
+        },
+        {
+            "word": "exploration",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The act of "
+                },
+                {
+                    "text": "traveling to discover",
+                    "highlight": true
+                },
+                {
+                    "text": " new places or "
+                },
+                {
+                    "text": "learn about unknown areas",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "استكشاف",
+            "synonyms": [
+                "discovery",
+                "investigation"
+            ],
+            "example": [
+                {
+                    "text": "Space "
+                },
+                {
+                    "text": "exploration",
+                    "colorize": true
+                },
+                {
+                    "text": " helps us understand the universe."
+                }
+            ],
+            "tips": "Explorers = people who explore (Columbus, astronauts). Modern exploration includes deep sea and space—not just land."
+        },
+        {
+            "word": "terrorism",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The use of "
+                },
+                {
+                    "text": "violence and fear",
+                    "highlight": true
+                },
+                {
+                    "text": " by groups to "
+                },
+                {
+                    "text": "achieve political goals",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "إرهاب",
+            "synonyms": [
+                "violent extremism"
+            ],
+            "example": [
+                {
+                    "text": "Countries work together to fight "
+                },
+                {
+                    "text": "terrorism",
+                    "colorize": true
+                },
+                {
+                    "text": " and keep citizens safe."
+                }
+            ],
+            "tips": "Targets civilians (ordinary people) to create fear. Different from war (army vs. army) or crime (for money)."
+        },
+        {
+            "word": "federation",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A group of "
+                },
+                {
+                    "text": "states or organizations",
+                    "highlight": true
+                },
+                {
+                    "text": " that join together ",
+                    "highlight2": true
+                },
+                {
+                    "text": "but keep some independence"
+                }
+            ],
+            "arabicMeaning": "اتحاد / فيدرالية",
+            "synonyms": [
+                "union of states",
+                "alliance"
+            ],
+            "example": [
+                {
+                    "text": "The United Arab Emirates is a "
+                },
+                {
+                    "text": "federation",
+                    "colorize": true
+                },
+                {
+                    "text": " of seven emirates."
+                }
+            ],
+            "tips": "Federations share power: central government handles defense/money; local governments handle schools/roads."
+        },
+        {
+            "word": "initiate",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "start or begin",
+                    "highlight": true
+                },
+                {
+                    "text": " something "
+                },
+                {
+                    "text": "formally or officially",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يبدأ / يُشَرّع",
+            "synonyms": [
+                "begin",
+                "start",
+                "launch"
+            ],
+            "example": [
+                {
+                    "text": "The teacher will "
+                },
+                {
+                    "text": "initiate",
+                    "colorize": true
+                },
+                {
+                    "text": " a discussion about climate change."
+                }
+            ],
+            "tips": "More formal than 'start'. Often used for projects, conversations, or official processes. Noun form: 'initiative' = new plan/project."
+        },
+        {
+            "word": "disease",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "An illness that "
+                },
+                {
+                    "text": "affects the body",
+                    "highlight": true
+                },
+                {
+                    "text": " and "
+                },
+                {
+                    "text": "makes people sick",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مرض",
+            "synonyms": [
+                "illness",
+                "sickness"
+            ],
+            "example": [
+                {
+                    "text": "Vaccines help prevent serious "
+                },
+                {
+                    "text": "diseases",
+                    "colorize": true
+                },
+                {
+                    "text": " like measles and polio."
+                }
+            ],
+            "tips": "Infectious diseases spread between people (flu). Non-infectious diseases don't spread (diabetes). Prevention is better than cure."
+        },
+        {
+            "word": "globalization",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The process of "
+                },
+                {
+                    "text": "worlds becoming more connected",
+                    "highlight": true
+                },
+                {
+                    "text": " through "
+                },
+                {
+                    "text": "trade, technology, and culture",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "عولمة",
+            "synonyms": [
+                "worldwide integration"
+            ],
+            "example": [
+                {
+                    "text": "The internet has speeded up "
+                },
+                {
+                    "text": "globalization",
+                    "colorize": true
+                },
+                {
+                    "text": " by connecting people everywhere."
+                }
+            ],
+            "tips": "Positive: cultural exchange, economic growth. Negative: loss of local traditions, job competition. A major force in modern life."
+        },
+        {
+            "word": "affect",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "influence or change",
+                    "highlight": true
+                },
+                {
+                    "text": " someone or something ",
+                    "highlight2": true
+                },
+                {
+                    "text": "in an important way"
+                }
+            ],
+            "arabicMeaning": "يؤثر على",
+            "synonyms": [
+                "influence",
+                "impact"
+            ],
+            "example": [
+                {
+                    "text": "Pollution can "
+                },
+                {
+                    "text": "affect",
+                    "colorize": true
+                },
+                {
+                    "text": " people's health for years."
+                }
+            ],
+            "tips": "Affect = verb (action). Effect = noun (result). Easy mistake: 'The pollution affected his health' (verb) vs. 'The effect was serious' (noun)."
+        },
+        {
+            "word": "overpopulation",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "When there are "
+                },
+                {
+                    "text": "too many people",
+                    "highlight": true
+                },
+                {
+                    "text": " in an area for the ",
+                    "highlight2": true
+                },
+                {
+                    "text": "available resources"
+                }
+            ],
+            "arabicMeaning": "اكتظاظ سكاني",
+            "synonyms": [
+                "excessive population"
+            ],
+            "example": [
+                {
+                    "text": "Some cities face problems like traffic and housing shortages because of "
+                },
+                {
+                    "text": "overpopulation",
+                    "colorize": true
+                },
+                {
+                    "text": "."
+                }
+            ],
+            "tips": "Causes strain on water, food, housing, and jobs. Not the same as 'high population'—it's about resources vs. people ratio."
+        }
+    ]
+}

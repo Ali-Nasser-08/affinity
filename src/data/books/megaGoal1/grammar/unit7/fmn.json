@@ -1,0 +1,1267 @@
+{
+    "unit": "Mega Goal 1",
+    "lesson": "Unit 7",
+    "type": "Form, Meaning, and Function",
+    "clusters": [
+        {
+            "clusterId": "cluster-1",
+            "title": "Used To for Past Habits",
+            "cards": [
+                {
+                    "id": "card-1",
+                    "content": [
+                        {
+                            "text": "Used To",
+                            "highlight": true
+                        },
+                        {
+                            "text": " for Past Habits and States",
+                            "highlight": true
+                        },
+                        {
+                            "text": "Used To للعادات والحالات الماضية"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-2",
+                    "content": [
+                        {
+                            "text": "We use "
+                        },
+                        {
+                            "text": "used to",
+                            "colorize": true
+                        },
+                        {
+                            "text": " for actions or situations that happened regularly before but "
+                        },
+                        {
+                            "text": "no longer happen now",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "نستخدم "
+                        },
+                        {
+                            "text": "used to",
+                            "colorize": true
+                        },
+                        {
+                            "text": " للأفعال أو المواقف التي كانت تحدث بانتظام سابقاً لكنها "
+                        },
+                        {
+                            "text": "لم تعد تحدث الآن",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-3",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "Subject",
+                            "badge": true,
+                            "translation": "الفاعل"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "used to",
+                            "badge2": true,
+                            "translation": "كان"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "base verb",
+                            "badge3": true,
+                            "translation": "فعل مجرد"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-4",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "My grandfather "
+                        },
+                        {
+                            "text": "used to deliver",
+                            "colorize": true
+                        },
+                        {
+                            "text": " letters by bicycle"
+                        },
+                        {
+                            "text": "كان جدي "
+                        },
+                        {
+                            "text": "يوزع",
+                            "colorize": true
+                        },
+                        {
+                            "text": " الرسائل بالدراجة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-5",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Our town "
+                        },
+                        {
+                            "text": "used to have",
+                            "colorize": true
+                        },
+                        {
+                            "text": " only one post office"
+                        },
+                        {
+                            "text": "كانت مدينتنا "
+                        },
+                        {
+                            "text": "تضم",
+                            "colorize": true
+                        },
+                        {
+                            "text": " مكتباً بريدياً واحداً"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-6",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "Did",
+                            "badge": true,
+                            "translation": "هل"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "subject",
+                            "badge2": true,
+                            "translation": "الفاعل"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "use to",
+                            "badge3": true,
+                            "translation": "يستخدم"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "base verb",
+                            "badge": true,
+                            "translation": "فعل مجرد"
+                        },
+                        {
+                            "text": " ?"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-7",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Q: "
+                        },
+                        {
+                            "text": "Did",
+                            "colorize": true
+                        },
+                        {
+                            "text": " you "
+                        },
+                        {
+                            "text": "use to write",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " letters by hand?"
+                        },
+                        {
+                            "text": "س: "
+                        },
+                        {
+                            "text": "هل",
+                            "colorize": true
+                        },
+                        {
+                            "text": " كنت "
+                        },
+                        {
+                            "text": "تكتب",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " رسائل بخط اليد؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-8",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "A: Yes, I did. I filled many notebooks with letters"
+                        },
+                        {
+                            "text": "ج: نعم. ملأت العديد من الدفاتر بالرسائل"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-2",
+            "title": "Used To versus Would",
+            "cards": [
+                {
+                    "id": "card-9",
+                    "content": [
+                        {
+                            "text": "Used To",
+                            "highlight": true
+                        },
+                        {
+                            "text": " versus ",
+                            "highlight": true
+                        },
+                        {
+                            "text": "Would",
+                            "highlight": true
+                        },
+                        {
+                            "text": "Used To مقابل Would"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-10",
+                    "content": [
+                        {
+                            "text": "Both describe repeated past actions, but "
+                        },
+                        {
+                            "text": "would cannot describe states",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "كلاهما يصف الأفعال المتكررة في الماضي، لكن "
+                        },
+                        {
+                            "text": "لا يمكن لـ would وصف الحالات",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-11",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "✓ Every morning the postman "
+                        },
+                        {
+                            "text": "would deliver",
+                            "colorize": true
+                        },
+                        {
+                            "text": " mail on his bicycle"
+                        },
+                        {
+                            "text": "✓ كل صباح كان ساعي البريد "
+                        },
+                        {
+                            "text": "يوزع",
+                            "colorize": true
+                        },
+                        {
+                            "text": " البريد بدراجته"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-12",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "✓ That village "
+                        },
+                        {
+                            "text": "used to have",
+                            "colorize": true
+                        },
+                        {
+                            "text": " no telephone service"
+                        },
+                        {
+                            "text": "✓ كانت تلك القرية "
+                        },
+                        {
+                            "text": "تفتقر إلى",
+                            "colorize": true
+                        },
+                        {
+                            "text": " خدمة الهاتف"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-13",
+                    "content": [
+                        {
+                            "text": "✗ : That village ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "would have",
+                            "colorize": true
+                        },
+                        {
+                            "text": " no telephone service"
+                        },
+                        {
+                            "text": "✗ : تلك القرية ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "would have",
+                            "colorize": true
+                        },
+                        {
+                            "text": " no telephone service"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-14",
+                    "content": [
+                        {
+                            "text": "Remember:",
+                            "highlight": true
+                        },
+                        {
+                            "text": " would",
+                            "colorize": true
+                        },
+                        {
+                            "text": " works only with action verbs. ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "used to",
+                            "colorize": true
+                        },
+                        {
+                            "text": " works with both"
+                        },
+                        {
+                            "text": "تذكّر:",
+                            "highlight": true
+                        },
+                        {
+                            "text": " would ",
+                            "colorize": true
+                        },
+                        {
+                            "text": " يعمل فقط مع أفعال الحدث. ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "used to",
+                            "colorize": true
+                        },
+                        {
+                            "text": " يعمل مع كليهما"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-3",
+            "title": "Information Questions with Used To",
+            "cards": [
+                {
+                    "id": "card-15",
+                    "content": [
+                        {
+                            "text": "Information Questions",
+                            "highlight": true
+                        },
+                        {
+                            "text": " with Used To",
+                            "highlight": true
+                        },
+                        {
+                            "text": "أسئلة المعلومات مع Used To"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-16",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "Question word",
+                            "badge": true,
+                            "translation": "أداة الاستفهام"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "Did",
+                            "badge2": true,
+                            "translation": "هل"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "subject",
+                            "badge3": true,
+                            "translation": "الفاعل"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "use to",
+                            "badge": true,
+                            "translation": "يستخدم"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "base verb",
+                            "badge2": true,
+                            "translation": "فعل مجرد"
+                        },
+                        {
+                            "text": " ?"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-17",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Q: "
+                        },
+                        {
+                            "text": "How",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "did",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " people "
+                        },
+                        {
+                            "text": "use to send",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " urgent messages before phones?"
+                        },
+                        {
+                            "text": "س: "
+                        },
+                        {
+                            "text": "كيف",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "كان",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " الناس "
+                        },
+                        {
+                            "text": "يرسلون",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " الرسائل العاجلة قبل الهواتف؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-18",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "A: They used carrier pigeons or telegrams"
+                        },
+                        {
+                            "text": "ج: كانوا يستخدمون الحمام الزاجل أو التلغراف"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-19",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Q: "
+                        },
+                        {
+                            "text": "What",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "did",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " you "
+                        },
+                        {
+                            "text": "use to do",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " before checking email each day?"
+                        },
+                        {
+                            "text": "س: "
+                        },
+                        {
+                            "text": "ماذا",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "كنت",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "تفعل",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " قبل فحص البريد الإلكتروني يومياً؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-20",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "A: I used to sort paper mail into piles first"
+                        },
+                        {
+                            "text": "ج: كنت أفرز البريد الورقي إلى أكوام أولاً"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-4",
+            "title": "There Is and There Are",
+            "cards": [
+                {
+                    "id": "card-21",
+                    "content": [
+                        {
+                            "text": "There Is",
+                            "highlight": true
+                        },
+                        {
+                            "text": " and ",
+                            "highlight": true
+                        },
+                        {
+                            "text": "There Are",
+                            "highlight": true
+                        },
+                        {
+                            "text": "There Is و There Are"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-22",
+                    "content": [
+                        {
+                            "text": "We use these phrases to say something "
+                        },
+                        {
+                            "text": "exists or is present",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "نستخدم هذه العبارات للقول بأن شيئاً ما "
+                        },
+                        {
+                            "text": "موجود أو حاضر",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-23",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "There is",
+                            "badge": true,
+                            "translation": "يوجد"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "singular noun",
+                            "badge2": true,
+                            "translation": "اسم مفرد"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-24",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "There is",
+                            "colorize": true
+                        },
+                        {
+                            "text": " an unread message in your inbox"
+                        },
+                        {
+                            "text": "يوجد",
+                            "colorize": true
+                        },
+                        {
+                            "text": " رسالة غير مقروءة في صندوق الوارد"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-25",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "There are",
+                            "badge": true,
+                            "translation": "توجد"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "plural noun",
+                            "badge2": true,
+                            "translation": "اسم جمع"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-26",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "There are",
+                            "colorize": true
+                        },
+                        {
+                            "text": " three unread emails waiting"
+                        },
+                        {
+                            "text": "توجد",
+                            "colorize": true
+                        },
+                        {
+                            "text": " ثلاث رسائل إلكترونية غير مقروءة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-27",
+                    "content": [
+                        {
+                            "text": "Tip: Check the ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "noun after the verb",
+                            "colorize": true
+                        },
+                        {
+                            "text": " to choose is or are"
+                        },
+                        {
+                            "text": "تلميح: تحقق من ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "الاسم بعد الفعل",
+                            "colorize": true
+                        },
+                        {
+                            "text": " لاختيار is أو are"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-5",
+            "title": "Plural Nouns",
+            "cards": [
+                {
+                    "id": "card-28",
+                    "content": [
+                        {
+                            "text": "Plural Nouns",
+                            "highlight": true
+                        },
+                        {
+                            "text": "جمع الأسماء"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-29",
+                    "content": [
+                        {
+                            "text": "Most nouns add "
+                        },
+                        {
+                            "text": "-s",
+                            "colorize": true
+                        },
+                        {
+                            "text": " for plural"
+                        },
+                        {
+                            "text": "تضيف معظم الأسماء "
+                        },
+                        {
+                            "text": "-s",
+                            "colorize": true
+                        },
+                        {
+                            "text": " للجمع"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-30",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "stamp → ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "stamps",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "طابع → ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "طوابع",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-31",
+                    "content": [
+                        {
+                            "text": "Nouns ending in -s, -sh, -ch, -x, or -z add "
+                        },
+                        {
+                            "text": "-es",
+                            "colorize": true
+                        },
+                        {
+                            "text": "الأسـماء المنتهية بـ -s, -sh, -ch, -x, أو -z تضيف "
+                        },
+                        {
+                            "text": "-es",
+                            "colorize": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-32",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "box → ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "boxes",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "صندوق → ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "صناديق",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-33",
+                    "content": [
+                        {
+                            "text": "Nouns ending in consonant + -y change y to i and add "
+                        },
+                        {
+                            "text": "-es",
+                            "colorize": true
+                        },
+                        {
+                            "text": "الأسـماء المنتهية بساكن + -y تغيّر y إلى i وتضيف "
+                        },
+                        {
+                            "text": "-es",
+                            "colorize": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-34",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "reply → ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "replies",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "رد → ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "ردود",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-35",
+                    "content": [
+                        {
+                            "text": "Exception: Nouns with vowel + -y just add "
+                        },
+                        {
+                            "text": "-s",
+                            "colorize": true
+                        },
+                        {
+                            "text": "استثناء: الأسماء بحرف علة + -y تضيف فقط "
+                        },
+                        {
+                            "text": "-s",
+                            "colorize": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-36",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "key → ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "keys",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "مفتاح → ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "مفاتيح",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-37",
+                    "content": [
+                        {
+                            "text": "Some nouns ending in -f or -fe change to "
+                        },
+                        {
+                            "text": "-ves",
+                            "colorize": true
+                        },
+                        {
+                            "text": "بعض الأسماء المنتهية بـ -f أو -fe تغيّر إلى "
+                        },
+                        {
+                            "text": "-ves",
+                            "colorize": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-38",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "leaf → ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "leaves",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "ورقة → ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "أوراق",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-39",
+                    "content": [
+                        {
+                            "text": "Irregular plurals",
+                            "highlight": true
+                        },
+                        {
+                            "text": " follow no pattern and must be memorized"
+                        },
+                        {
+                            "text": "الجمع غير المنتظم",
+                            "highlight": true
+                        },
+                        {
+                            "text": " لا يتبع نمطاً ويجب حفظه"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-40",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "man → ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "men",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "رجل → ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "رجال",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-41",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "child → ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "children",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "طفل → ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "أطفال",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-42",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "tooth → ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "teeth",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "سن → ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "أسنان",
+                            "colorize2": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-6",
+            "title": "Definite Article: The",
+            "cards": [
+                {
+                    "id": "card-43",
+                    "content": [
+                        {
+                            "text": "Definite Article",
+                            "highlight": true
+                        },
+                        {
+                            "text": ": The",
+                            "highlight": true
+                        },
+                        {
+                            "text": "أداة التعريف: The"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-44",
+                    "content": [
+                        {
+                            "text": "We use "
+                        },
+                        {
+                            "text": "the",
+                            "colorize": true
+                        },
+                        {
+                            "text": " when speaker and listener both know "
+                        },
+                        {
+                            "text": "exactly which thing",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " is meant"
+                        },
+                        {
+                            "text": "نستخدم "
+                        },
+                        {
+                            "text": "the",
+                            "colorize": true
+                        },
+                        {
+                            "text": " عندما يعرف المتكلم والمستمع "
+                        },
+                        {
+                            "text": "بالضبط أي شيء",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " المقصود"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-45",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Please read "
+                        },
+                        {
+                            "text": "the",
+                            "colorize": true
+                        },
+                        {
+                            "text": " email ",
+                            "colorize": true
+                        },
+                        {
+                            "text": " I sent this morning"
+                        },
+                        {
+                            "text": "من فضلك اقرأ "
+                        },
+                        {
+                            "text": "البريد الإلكتروني",
+                            "colorize": true
+                        },
+                        {
+                            "text": " الذي أرسلته هذا الصباح"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-46",
+                    "content": [
+                        {
+                            "text": "We also use ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "the",
+                            "colorize": true
+                        },
+                        {
+                            "text": " before ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "unique things",
+                            "colorize": true
+                        },
+                        {
+                            "text": " that exist as only one"
+                        },
+                        {
+                            "text": "نستخدم أيضاً ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "the",
+                            "colorize": true
+                        },
+                        {
+                            "text": " قبل ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "الأشياء الفريدة",
+                            "colorize": true
+                        },
+                        {
+                            "text": " التي توجد كواحدة فقط"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-47",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "the Internet",
+                            "colorize": true
+                        },
+                        {
+                            "text": "الإنترنت"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-48",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "the sun",
+                            "colorize": true
+                        },
+                        {
+                            "text": "الشمس"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-49",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "the Holy Qur'an",
+                            "colorize": true
+                        },
+                        {
+                            "text": "القرآن الكريم"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-50",
+                    "content": [
+                        {
+                            "text": "Important: ",
+                            "highlight": true
+                        },
+                        {
+                            "text": "the",
+                            "colorize": true
+                        },
+                        {
+                            "text": " works with both singular and plural nouns"
+                        },
+                        {
+                            "text": "مهم: ",
+                            "highlight": true
+                        },
+                        {
+                            "text": "the",
+                            "colorize": true
+                        },
+                        {
+                            "text": " تعمل مع المفرد والجمع معاً"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

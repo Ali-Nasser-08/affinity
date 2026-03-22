@@ -1,0 +1,1217 @@
+{
+  "unit": "Mega Goal 1",
+  "lesson": "Unit X",
+  "type": "Form, Meaning, and Function",
+  "clusters": [
+    {
+      "clusterId": "cluster-1",
+      "title": "Demonstrative Pronouns",
+      "cards": [
+        {
+          "id": "card-1",
+          "content": [
+            {
+              "text": "Demonstrative Pronouns",
+              "highlight": true
+            },
+            {
+              "text": "الضمائر الإشارية"
+            }
+          ]
+        },
+        {
+          "id": "card-2",
+          "content": [
+            {
+              "text": "Use demonstrative pronouns to "
+            },
+            {
+              "text": "point to objects",
+              "colorize2": true
+            },
+            {
+              "text": " and show their "
+            },
+            {
+              "text": "distance",
+              "colorize2": true
+            },
+            {
+              "text": " from you"
+            },
+            {
+              "text": "تُستخدم الضمائر الإشارية للإشارة إلى الأشياء وتحديد قربها أو بعدها عن المتكلّم"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Near (singular)",
+              "badge": true,
+              "translation": "مفرد قريب"
+            },
+            {
+              "text": " → "
+            },
+            {
+              "text": "This",
+              "badge2": true,
+              "translation": "هَـذَا / هَـذِه"
+            },
+            {
+              "text": " | Far (singular) → "
+            },
+            {
+              "text": "That",
+              "badge3": true,
+              "translation": "ذَلِكَ / تِلْكَ"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Near (plural)",
+              "badge": true,
+              "translation": "جمع قريب"
+            },
+            {
+              "text": " → "
+            },
+            {
+              "text": "These",
+              "badge2": true,
+              "translation": "هَـؤُلَاءِ"
+            },
+            {
+              "text": " | Far (plural) → "
+            },
+            {
+              "text": "Those",
+              "badge3": true,
+              "translation": "أُولَـٰئِكَ"
+            }
+          ]
+        },
+        {
+          "id": "card-5",
+          "type": "example",
+          "content": [
+            {
+              "text": "I like "
+            },
+            {
+              "text": "this",
+              "colorize": true
+            },
+            {
+              "text": " phone here"
+            },
+            {
+              "text": "أحبُّ "
+            },
+            {
+              "text": "هذا",
+              "colorize": true
+            },
+            {
+              "text": " الهاتف هنا"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "example",
+          "content": [
+            {
+              "text": "Do you see "
+            },
+            {
+              "text": "that",
+              "colorize": true
+            },
+            {
+              "text": " building over there?"
+            },
+            {
+              "text": "هل ترى "
+            },
+            {
+              "text": "ذلك",
+              "colorize": true
+            },
+            {
+              "text": " المبنى هناك؟"
+            }
+          ]
+        },
+        {
+          "id": "card-7",
+          "type": "example",
+          "content": [
+            {
+              "text": "Are "
+            },
+            {
+              "text": "these",
+              "colorize": true
+            },
+            {
+              "text": " your keys?"
+            },
+            {
+              "text": "هل "
+            },
+            {
+              "text": "هذه",
+              "colorize": true
+            },
+            {
+              "text": " مفاتيحك؟"
+            }
+          ]
+        },
+        {
+          "id": "card-8",
+          "type": "example",
+          "content": [
+            {
+              "text": "I prefer "
+            },
+            {
+              "text": "those",
+              "colorize": true
+            },
+            {
+              "text": " shoes in the window"
+            },
+            {
+              "text": "أُفضّل "
+            },
+            {
+              "text": "تلك",
+              "colorize": true
+            },
+            {
+              "text": " الأحذية في النافذة"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-2",
+      "title": "Imperatives",
+      "cards": [
+        {
+          "id": "card-9",
+          "content": [
+            {
+              "text": "Imperatives",
+              "highlight": true
+            },
+            {
+              "text": "صيغة الأمر"
+            }
+          ]
+        },
+        {
+          "id": "card-10",
+          "content": [
+            {
+              "text": "Use the imperative form for "
+            },
+            {
+              "text": "commands",
+              "colorize2": true
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "instructions",
+              "colorize2": true
+            },
+            {
+              "text": ", and "
+            },
+            {
+              "text": "advice",
+              "colorize2": true
+            },
+            {
+              "text": "تُستخدم صيغة الأمر لإعطاء الأوامر والتعليمات والنصائح"
+            }
+          ]
+        },
+        {
+          "id": "card-11",
+          "type": "example",
+          "content": [
+            {
+              "text": "Please",
+              "colorize": true
+            },
+            {
+              "text": " sit down"
+            },
+            {
+              "text": "من فضلك "
+            },
+            {
+              "text": "اجلس",
+              "colorize": true
+            }
+          ]
+        },
+        {
+          "id": "card-12",
+          "type": "example",
+          "content": [
+            {
+              "text": "Open",
+              "colorize": true
+            },
+            {
+              "text": " your books to page 10"
+            },
+            {
+              "text": "افتحوا ",
+              "colorize": true
+            },
+            {
+              "text": "كتبكم"
+            },
+            {
+              "text": " على الصفحة 10"
+            }
+          ]
+        },
+        {
+          "id": "card-13",
+          "type": "example",
+          "content": [
+            {
+              "text": "Don't forget",
+              "colorize": true
+            },
+            {
+              "text": " to call me"
+            },
+            {
+              "text": "لا "
+            },
+            {
+              "text": "تَنْسَ",
+              "colorize": true
+            },
+            {
+              "text": " أن تتصل بي"
+            }
+          ]
+        },
+        {
+          "id": "card-14",
+          "content": [
+            {
+              "text": "Tip:",
+              "highlight": true
+            },
+            {
+              "text": " Add "
+            },
+            {
+              "text": "please",
+              "colorize2": true
+            },
+            {
+              "text": " to make imperatives more polite and friendly"
+            },
+            {
+              "text": "نصيحة: أضف \"من فضلك\" لجعل الأمر أكثر لباقة"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-3",
+      "title": "Indefinite Articles",
+      "cards": [
+        {
+          "id": "card-15",
+          "content": [
+            {
+              "text": "Indefinite Articles",
+              "highlight": true
+            },
+            {
+              "text": "حروف التنكير"
+            }
+          ]
+        },
+        {
+          "id": "card-16",
+          "content": [
+            {
+              "text": "Use "
+            },
+            {
+              "text": "a",
+              "colorize": true
+            },
+            {
+              "text": " and "
+            },
+            {
+              "text": "an",
+              "colorize": true
+            },
+            {
+              "text": " before singular nouns when referring to "
+            },
+            {
+              "text": "non-specific",
+              "colorize2": true
+            },
+            {
+              "text": " items"
+            },
+            {
+              "text": "تُستخدم حروف التنكير قبل الأسماء المفردة عند الإشارة إلى شيء غير معيّن"
+            }
+          ]
+        },
+        {
+          "id": "card-17",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "a",
+              "badge": true,
+              "translation": "للسكون"
+            },
+            {
+              "text": " + consonant sound",
+              "colorize": true
+            },
+            {
+              "text": " | "
+            },
+            {
+              "text": "an",
+              "badge2": true,
+              "translation": "للحركة"
+            },
+            {
+              "text": " + vowel sound",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-18",
+          "type": "example",
+          "content": [
+            {
+              "text": "a",
+              "colorize": true
+            },
+            {
+              "text": " book"
+            },
+            {
+              "text": "كتابٌ"
+            }
+          ]
+        },
+        {
+          "id": "card-19",
+          "type": "example",
+          "content": [
+            {
+              "text": "an",
+              "colorize": true
+            },
+            {
+              "text": " apple"
+            },
+            {
+              "text": "تفاحةٌ"
+            }
+          ]
+        },
+        {
+          "id": "card-20",
+          "type": "example",
+          "content": [
+            {
+              "text": "a",
+              "colorize": true
+            },
+            {
+              "text": " university (sounds like 'y')"
+            },
+            {
+              "text": "جامعةٌ"
+            }
+          ]
+        },
+        {
+          "id": "card-21",
+          "type": "example",
+          "content": [
+            {
+              "text": "an",
+              "colorize": true
+            },
+            {
+              "text": " hour (silent 'h')"
+            },
+            {
+              "text": "ساعةٌ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-4",
+      "title": "Possessive Adjectives and Pronouns",
+      "cards": [
+        {
+          "id": "card-22",
+          "content": [
+            {
+              "text": "Possessive Adjectives vs Pronouns",
+              "highlight": true
+            },
+            {
+              "text": "الضمائر الملكية المتصلة والمنفصلة"
+            }
+          ]
+        },
+        {
+          "id": "card-23",
+          "content": [
+            {
+              "text": "Possessive adjectives"
+            },
+            {
+              "text": " come before a noun",
+              "colorize2": true
+            },
+            {
+              "text": ". Possessive pronouns"
+            },
+            {
+              "text": " replace the noun",
+              "colorize2": true
+            },
+            {
+              "text": "الضمائر المتصلة تسبق الاسم، والمنفصلة تحل محله"
+            }
+          ]
+        },
+        {
+          "id": "card-24",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Adjective",
+              "badge": true,
+              "translation": "متصل"
+            },
+            {
+              "text": " → "
+            },
+            {
+              "text": "Pronoun",
+              "badge2": true,
+              "translation": "منفصل"
+            }
+          ]
+        },
+        {
+          "id": "card-25",
+          "type": "example",
+          "content": [
+            {
+              "text": "my",
+              "colorize": true
+            },
+            {
+              "text": " → "
+            },
+            {
+              "text": "mine",
+              "colorize": true
+            }
+          ]
+        },
+        {
+          "id": "card-26",
+          "type": "example",
+          "content": [
+            {
+              "text": "your",
+              "colorize": true
+            },
+            {
+              "text": " → "
+            },
+            {
+              "text": "yours",
+              "colorize": true
+            }
+          ]
+        },
+        {
+          "id": "card-27",
+          "type": "example",
+          "content": [
+            {
+              "text": "his",
+              "colorize": true
+            },
+            {
+              "text": " → "
+            },
+            {
+              "text": "his",
+              "colorize": true
+            }
+          ]
+        },
+        {
+          "id": "card-28",
+          "type": "example",
+          "content": [
+            {
+              "text": "her",
+              "colorize": true
+            },
+            {
+              "text": " → "
+            },
+            {
+              "text": "hers",
+              "colorize": true
+            }
+          ]
+        },
+        {
+          "id": "card-29",
+          "type": "example",
+          "content": [
+            {
+              "text": "our",
+              "colorize": true
+            },
+            {
+              "text": " → "
+            },
+            {
+              "text": "ours",
+              "colorize": true
+            }
+          ]
+        },
+        {
+          "id": "card-30",
+          "type": "example",
+          "content": [
+            {
+              "text": "their",
+              "colorize": true
+            },
+            {
+              "text": " → "
+            },
+            {
+              "text": "theirs",
+              "colorize": true
+            }
+          ]
+        },
+        {
+          "id": "card-31",
+          "type": "example",
+          "content": [
+            {
+              "text": "This is "
+            },
+            {
+              "text": "my",
+              "colorize": true
+            },
+            {
+              "text": " phone. The phone is "
+            },
+            {
+              "text": "mine",
+              "colorize2": true
+            },
+            {
+              "text": "هذا "
+            },
+            {
+              "text": "هاتفي",
+              "colorize": true
+            },
+            {
+              "text": ". الهاتف "
+            },
+            {
+              "text": "لي",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-32",
+          "type": "example",
+          "content": [
+            {
+              "text": "It's "
+            },
+            {
+              "text": "his",
+              "colorize": true
+            },
+            {
+              "text": " cell phone. It's "
+            },
+            {
+              "text": "his",
+              "colorize2": true
+            },
+            {
+              "text": "إنه "
+            },
+            {
+              "text": "هاتفه",
+              "colorize": true
+            },
+            {
+              "text": ". إنه "
+            },
+            {
+              "text": "له",
+              "colorize2": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-5",
+      "title": "Whose Questions",
+      "cards": [
+        {
+          "id": "card-33",
+          "content": [
+            {
+              "text": "Whose",
+              "highlight": true
+            },
+            {
+              "text": "Questions about Ownership"
+            },
+            {
+              "text": "الاستفسار عن الملكية"
+            }
+          ]
+        },
+        {
+          "id": "card-34",
+          "content": [
+            {
+              "text": "Use "
+            },
+            {
+              "text": "whose",
+              "colorize": true
+            },
+            {
+              "text": " to ask about "
+            },
+            {
+              "text": "ownership",
+              "colorize2": true
+            },
+            {
+              "text": " or who something belongs to"
+            },
+            {
+              "text": "تُستخدم \"لِمَن\" للسؤال عن صاحب الشيء"
+            }
+          ]
+        },
+        {
+          "id": "card-35",
+          "type": "example",
+          "content": [
+            {
+              "text": "Whose",
+              "colorize": true
+            },
+            {
+              "text": " credit card is this?"
+            },
+            {
+              "text": "لِمَنْ ",
+              "colorize": true
+            },
+            {
+              "text": "هذه البطاقة؟"
+            }
+          ]
+        },
+        {
+          "id": "card-36",
+          "type": "example",
+          "content": [
+            {
+              "text": "It's "
+            },
+            {
+              "text": "mine",
+              "colorize": true
+            },
+            {
+              "text": ". It belongs to "
+            },
+            {
+              "text": "me",
+              "colorize2": true
+            },
+            {
+              "text": "إنها ",
+              "colorize": true
+            },
+            {
+              "text": "لي",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-37",
+          "type": "example",
+          "content": [
+            {
+              "text": "Whose",
+              "colorize": true
+            },
+            {
+              "text": " shopping bags are these?"
+            },
+            {
+              "text": "لِمَنْ ",
+              "colorize": true
+            },
+            {
+              "text": "هذه الأكياس؟"
+            }
+          ]
+        },
+        {
+          "id": "card-38",
+          "type": "example",
+          "content": [
+            {
+              "text": "They're "
+            },
+            {
+              "text": "hers",
+              "colorize": true
+            },
+            {
+              "text": "."
+            },
+            {
+              "text": "They belong to ",
+              "colorize2": true
+            },
+            {
+              "text": "that lady",
+              "colorize2": true
+            },
+            {
+              "text": "إنها ",
+              "colorize": true
+            },
+            {
+              "text": "لها",
+              "colorize2": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-6",
+      "title": "One and Ones",
+      "cards": [
+        {
+          "id": "card-39",
+          "content": [
+            {
+              "text": "Using One and Ones",
+              "highlight": true
+            },
+            {
+              "text": "الضمير البديل (للمفرد والجمع)"
+            }
+          ]
+        },
+        {
+          "id": "card-40",
+          "content": [
+            {
+              "text": "Use "
+            },
+            {
+              "text": "one",
+              "colorize": true
+            },
+            {
+              "text": " (singular) and "
+            },
+            {
+              "text": "ones",
+              "colorize": true
+            },
+            {
+              "text": " (plural) to "
+            },
+            {
+              "text": "replace nouns",
+              "colorize2": true
+            },
+            {
+              "text": " and avoid repetition"
+            },
+            {
+              "text": "يُستخدم الضمير البديل لاستبدال الأسماء وتجنب التكرار"
+            }
+          ]
+        },
+        {
+          "id": "card-41",
+          "type": "example",
+          "content": [
+            {
+              "text": "Q: Which coat do you like?"
+            },
+            {
+              "text": "س: أيُّ معطف تُفضّل؟"
+            }
+          ]
+        },
+        {
+          "id": "card-42",
+          "type": "example",
+          "content": [
+            {
+              "text": "A: The green ",
+              "colorize": true
+            },
+            {
+              "text": "one",
+              "colorize": true
+            },
+            {
+              "text": " (replaces coat)"
+            },
+            {
+              "text": "ج: الأخضر"
+            }
+          ]
+        },
+        {
+          "id": "card-43",
+          "type": "example",
+          "content": [
+            {
+              "text": "Q: Which boots do you prefer?"
+            },
+            {
+              "text": "س: أيُّ جزم تُفضّل؟"
+            }
+          ]
+        },
+        {
+          "id": "card-44",
+          "type": "example",
+          "content": [
+            {
+              "text": "A: The leather ",
+              "colorize": true
+            },
+            {
+              "text": "ones",
+              "colorize": true
+            },
+            {
+              "text": " (replaces boots)"
+            },
+            {
+              "text": "ج: الجلدية"
+            }
+          ]
+        },
+        {
+          "id": "card-45",
+          "content": [
+            {
+              "text": "Note:",
+              "highlight": true
+            },
+            {
+              "text": " Use ",
+              "colorize": true
+            },
+            {
+              "text": "one",
+              "colorize": true
+            },
+            {
+              "text": " for singular nouns and ",
+              "colorize": true
+            },
+            {
+              "text": "ones",
+              "colorize": true
+            },
+            {
+              "text": " for plural nouns"
+            },
+            {
+              "text": "ملاحظة: واحد للمفرد، وجمع للجمع"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-7",
+      "title": "Too and Enough",
+      "cards": [
+        {
+          "id": "card-46",
+          "content": [
+            {
+              "text": "Too and Enough",
+              "highlight": true
+            },
+            {
+              "text": "الفرق بين \"جداً\" و\"بما يكفي\""
+            }
+          ]
+        },
+        {
+          "id": "card-47",
+          "content": [
+            {
+              "text": "Too",
+              "colorize": true
+            },
+            {
+              "text": " means "
+            },
+            {
+              "text": "more than necessary",
+              "colorize": true
+            },
+            {
+              "text": " (excessive). ",
+              "colorize": true
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "Enough",
+              "colorize2": true
+            },
+            {
+              "text": " means "
+            },
+            {
+              "text": "sufficient",
+              "colorize2": true
+            },
+            {
+              "text": " or the right amount",
+              "colorize2": true
+            },
+            {
+              "text": "\"جداً\" تعني أكثر من اللازم، و\"بما يكفي\" تعني بالقدر الكافي"
+            }
+          ]
+        },
+        {
+          "id": "card-48",
+          "type": "example",
+          "content": [
+            {
+              "text": "This jacket is "
+            },
+            {
+              "text": "too",
+              "colorize": true
+            },
+            {
+              "text": " small",
+              "colorize": true
+            },
+            {
+              "text": " for me"
+            },
+            {
+              "text": "هذا المعطف "
+            },
+            {
+              "text": "ضيّقٌ جداً",
+              "colorize": true
+            },
+            {
+              "text": " عليّ"
+            }
+          ]
+        },
+        {
+          "id": "card-49",
+          "type": "example",
+          "content": [
+            {
+              "text": "The shoes are "
+            },
+            {
+              "text": "too",
+              "colorize": true
+            },
+            {
+              "text": " big",
+              "colorize": true
+            },
+            {
+              "text": "الأحذية "
+            },
+            {
+              "text": "واسعةٌ جداً",
+              "colorize": true
+            }
+          ]
+        },
+        {
+          "id": "card-50",
+          "type": "example",
+          "content": [
+            {
+              "text": "The jacket is"
+            },
+            {
+              "text": " not big ",
+              "colorize2": true
+            },
+            {
+              "text": "enough",
+              "colorize2": true
+            },
+            {
+              "text": " for me"
+            },
+            {
+              "text": "المعطف ليس"
+            },
+            {
+              "text": " واسعاً ",
+              "colorize2": true
+            },
+            {
+              "text": "بما يكفي",
+              "colorize2": true
+            },
+            {
+              "text": " لي"
+            }
+          ]
+        },
+        {
+          "id": "card-51",
+          "type": "example",
+          "content": [
+            {
+              "text": "The shoes are"
+            },
+            {
+              "text": " not small ",
+              "colorize2": true
+            },
+            {
+              "text": "enough",
+              "colorize2": true
+            },
+            {
+              "text": "الأحذية ليست"
+            },
+            {
+              "text": " ضيّقةً ",
+              "colorize2": true
+            },
+            {
+              "text": "بما يكفي",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-52",
+          "content": [
+            {
+              "text": "Pattern:",
+              "highlight": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "too",
+              "colorize": true
+            },
+            {
+              "text": " + adjective",
+              "colorize": true
+            },
+            {
+              "text": " | "
+            },
+            {
+              "text": "adjective + ",
+              "colorize2": true
+            },
+            {
+              "text": "enough",
+              "colorize2": true
+            },
+            {
+              "text": "النمط: جداً + صفة | صفة + بما يكفي"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

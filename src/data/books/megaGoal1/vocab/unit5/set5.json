@@ -1,0 +1,684 @@
+{
+    "unit": "Mega Goal 1 - Unit 5: Did You Hurt Yourself?",
+    "type": "vocabulary_box",
+    "setTitle": "End of Unit Vocabulary",
+    "words": [
+        {
+            "word": "cautious",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Being "
+                },
+                {
+                    "text": "careful to avoid danger",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "potential problems",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حذر",
+            "synonyms": [
+                "careful",
+                "wary",
+                "prudent"
+            ],
+            "example": [
+                {
+                    "text": "Always be "
+                },
+                {
+                    "text": "cautious",
+                    "colorize": true
+                },
+                {
+                    "text": " when crossing a busy intersection."
+                }
+            ],
+            "tips": "Cautious drivers have fewer accidents. Not the same as 'cowardly'—caution is smart safety behavior."
+        },
+        {
+            "word": "intersection",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A place where "
+                },
+                {
+                    "text": "two or more roads cross",
+                    "highlight": true
+                },
+                {
+                    "text": " and vehicles may "
+                },
+                {
+                    "text": "meet from different directions",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "تقاطع طرق",
+            "synonyms": [
+                "crossroads",
+                "junction"
+            ],
+            "example": [
+                {
+                    "text": "The accident happened at a busy "
+                },
+                {
+                    "text": "intersection",
+                    "colorize": true
+                },
+                {
+                    "text": " during rush hour."
+                }
+            ],
+            "tips": "High-risk location for accidents. Always slow down and check all directions before entering."
+        },
+        {
+            "word": "sprain",
+            "wordType": "verb/noun",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "stretch or tear",
+                    "highlight": true
+                },
+                {
+                    "text": " ligaments around a "
+                },
+                {
+                    "text": "joint like an ankle or wrist",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُخلع / خلع",
+            "synonyms": [
+                "twist (injury)",
+                "strain"
+            ],
+            "example": [
+                {
+                    "text": "She "
+                },
+                {
+                    "text": "sprained",
+                    "colorize": true
+                },
+                {
+                    "text": " her ankle when she slipped on the icy sidewalk."
+                }
+            ],
+            "tips": "Sprain = ligaments (connect bone to bone). Strain = muscles/tendons. RICE method helps: Rest, Ice, Compression, Elevation."
+        },
+        {
+            "word": "fracture",
+            "wordType": "noun/verb",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "break in a bone",
+                    "highlight": true
+                },
+                {
+                    "text": ", either "
+                },
+                {
+                    "text": "complete or partial",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "كسر (عظام)",
+            "synonyms": [
+                "broken bone",
+                "crack (in bone)"
+            ],
+            "example": [
+                {
+                    "text": "He suffered a wrist "
+                },
+                {
+                    "text": "fracture",
+                    "colorize": true
+                },
+                {
+                    "text": " after falling off his bicycle."
+                }
+            ],
+            "tips": "Fracture = medical term for broken bone. Hairline fracture = small crack. Compound fracture = bone breaks through skin—very serious."
+        },
+        {
+            "word": "unconscious",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Not "
+                },
+                {
+                    "text": "awake or aware",
+                    "highlight": true
+                },
+                {
+                    "text": " of what is happening; "
+                },
+                {
+                    "text": "temporarily without consciousness",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "فاقد للوعي",
+            "synonyms": [
+                "knocked out",
+                "out cold"
+            ],
+            "example": [
+                {
+                    "text": "After hitting his head, he was "
+                },
+                {
+                    "text": "unconscious",
+                    "colorize": true
+                },
+                {
+                    "text": " for several minutes."
+                }
+            ],
+            "tips": "Call emergency services if someone is unconscious. Don't move them—wait for medical help to avoid spinal injury."
+        },
+        {
+            "word": "helmet",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A hard protective "
+                },
+                {
+                    "text": "covering for the head",
+                    "highlight": true
+                },
+                {
+                    "text": " worn during "
+                },
+                {
+                    "text": "sports or dangerous activities",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "خوذة",
+            "synonyms": [
+                "protective headgear"
+            ],
+            "example": [
+                {
+                    "text": "Always wear a "
+                },
+                {
+                    "text": "helmet",
+                    "colorize": true
+                },
+                {
+                    "text": " when riding a bicycle or motorcycle."
+                }
+            ],
+            "tips": "Helmets reduce head injury risk by 60-80%. Must fit properly—snug but not tight. Replace after any serious impact."
+        },
+        {
+            "word": "knee pad",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "Protective cushion worn on the "
+                },
+                {
+                    "text": "knees",
+                    "highlight": true
+                },
+                {
+                    "text": " to "
+                },
+                {
+                    "text": "prevent injury from falls",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "واقي ركبة",
+            "synonyms": [
+                "knee protector"
+            ],
+            "example": [
+                {
+                    "text": "Skateboarders wear "
+                },
+                {
+                    "text": "knee pads",
+                    "colorize": true
+                },
+                {
+                    "text": " to avoid scrapes and bruises when they fall."
+                }
+            ],
+            "tips": "Essential safety gear for skating, rollerblading, and volleyball. Made of foam or hard plastic with soft lining."
+        },
+        {
+            "word": "shock",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A sudden "
+                },
+                {
+                    "text": "physical or emotional reaction",
+                    "highlight": true
+                },
+                {
+                    "text": " to a "
+                },
+                {
+                    "text": "surprising or traumatic event",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "صدمة",
+            "synonyms": [
+                "trauma",
+                "stunned reaction"
+            ],
+            "example": [
+                {
+                    "text": "After the accident, he was in "
+                },
+                {
+                    "text": "shock",
+                    "colorize": true
+                },
+                {
+                    "text": " and couldn't speak for several minutes."
+                }
+            ],
+            "tips": "Medical shock = dangerous drop in blood flow (different meaning). Emotional shock after accidents is normal—takes time to recover."
+        },
+        {
+            "word": "risk",
+            "wordType": "noun/verb",
+            "definition": [
+                {
+                    "text": "The possibility of "
+                },
+                {
+                    "text": "something bad happening",
+                    "highlight": true
+                },
+                {
+                    "text": " when you "
+                },
+                {
+                    "text": "take a chance",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مخاطرة / خطر",
+            "synonyms": [
+                "danger",
+                "hazard",
+                "chance of harm"
+            ],
+            "example": [
+                {
+                    "text": "Driving without a seatbelt increases your "
+                },
+                {
+                    "text": "risk",
+                    "colorize": true
+                },
+                {
+                    "text": " of serious injury in a crash."
+                }
+            ],
+            "tips": "Take a risk = do something dangerous. At risk = in danger. Risk assessment = thinking about dangers before acting."
+        },
+        {
+            "word": "aggressive",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Behaving in a "
+                },
+                {
+                    "text": "forceful or angry way",
+                    "highlight": true
+                },
+                {
+                    "text": " that can "
+                },
+                {
+                    "text": "cause danger to others",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "عدواني",
+            "synonyms": [
+                "hostile",
+                "confrontational"
+            ],
+            "example": [
+                {
+                    "text": "Aggressive driving—like tailgating or yelling—makes roads unsafe for everyone."
+                }
+            ],
+            "tips": "Aggressive drivers cause many accidents. Stay calm and give them space—don't react with anger."
+        },
+        {
+            "word": "severe",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Very "
+                },
+                {
+                    "text": "serious or intense",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "requiring immediate attention",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "شديد / خطير",
+            "synonyms": [
+                "serious",
+                "critical",
+                "bad"
+            ],
+            "example": [
+                {
+                    "text": "He suffered "
+                },
+                {
+                    "text": "severe",
+                    "colorize": true
+                },
+                {
+                    "text": " injuries and needed surgery right away."
+                }
+            ],
+            "tips": "Severe pain/injury/weather. Stronger than 'bad' or 'serious'. Opposite: mild or minor."
+        },
+        {
+            "word": "fog",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A cloud of tiny water drops near the ground that "
+                },
+                {
+                    "text": "reduces visibility",
+                    "highlight": true
+                },
+                {
+                    "text": " and makes "
+                },
+                {
+                    "text": "driving dangerous",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ضباب",
+            "synonyms": [
+                "mist"
+            ],
+            "example": [
+                {
+                    "text": "Drive slowly with headlights on when there is thick "
+                },
+                {
+                    "text": "fog",
+                    "colorize": true
+                },
+                {
+                    "text": " on the road."
+                }
+            ],
+            "tips": "Foggy conditions cause many accidents. Use low beams (not high beams—they reflect back and make visibility worse)."
+        },
+        {
+            "word": "snowstorm",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A heavy fall of snow with "
+                },
+                {
+                    "text": "strong winds",
+                    "highlight": true
+                },
+                {
+                    "text": " that makes "
+                },
+                {
+                    "text": "travel difficult or impossible",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "عاصفة ثلجية",
+            "synonyms": [
+                "blizzard",
+                "heavy snowfall"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "snowstorm",
+                    "colorize": true
+                },
+                {
+                    "text": " closed schools and airports for two days."
+                }
+            ],
+            "tips": "Stay indoors during snowstorms. If driving is necessary, carry emergency supplies: blanket, food, water, phone charger."
+        },
+        {
+            "word": "distracted",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Not paying full attention because your "
+                },
+                {
+                    "text": "mind is on something else",
+                    "highlight": true
+                },
+                {
+                    "text": ", making "
+                },
+                {
+                    "text": "accidents more likely",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مشتت الذهن",
+            "synonyms": [
+                "inattentive",
+                "not focused"
+            ],
+            "example": [
+                {
+                    "text": "Texting while driving makes you "
+                },
+                {
+                    "text": "distracted",
+                    "colorize": true
+                },
+                {
+                    "text": " and increases crash risk by 23 times."
+                }
+            ],
+            "tips": "Main distractions: phones, eating, loud music, passengers. Put your phone away while driving—it can wait."
+        },
+        {
+            "word": "scar",
+            "wordType": "noun/verb",
+            "definition": [
+                {
+                    "text": "A mark left on the skin after a "
+                },
+                {
+                    "text": "wound has healed",
+                    "highlight": true
+                },
+                {
+                    "text": "; a "
+                },
+                {
+                    "text": "permanent reminder of injury",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ندبة",
+            "synonyms": [
+                "mark",
+                "cicatrix"
+            ],
+            "example": [
+                {
+                    "text": "He has a small "
+                },
+                {
+                    "text": "scar",
+                    "colorize": true
+                },
+                {
+                    "text": " on his knee from when he fell off his bike as a child."
+                }
+            ],
+            "tips": "Scars fade over time but rarely disappear completely. Keeping wounds clean helps minimize scarring."
+        },
+        {
+            "word": "I guess",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Expression showing "
+                },
+                {
+                    "text": "you're not totally sure",
+                    "highlight": true
+                },
+                {
+                    "text": " about a "
+                },
+                {
+                    "text": "statement or assumption",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "أعتقد / على ما أظن",
+            "synonyms": [
+                "I suppose",
+                "probably"
+            ],
+            "example": [
+                {
+                    "text": "\"Will you be okay?\" \"Yeah, "
+                },
+                {
+                    "text": "I guess",
+                    "colorize": true
+                },
+                {
+                    "text": ", but I should see a doctor to be safe.\""
+                }
+            ],
+            "tips": "Shows uncertainty or reluctant agreement. More casual than 'I think'. Can sound unconfident—use carefully in serious situations."
+        },
+        {
+            "word": "look at it this way",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "A phrase used to "
+                },
+                {
+                    "text": "suggest a different perspective",
+                    "highlight": true
+                },
+                {
+                    "text": " that might be "
+                },
+                {
+                    "text": "more positive or helpful",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "انظر إلى الأمر من هذه الزاوية",
+            "synonyms": [
+                "think of it differently",
+                "consider this angle"
+            ],
+            "example": [
+                {
+                    "text": ""
+                },
+                {
+                    "text": "Look at it this way",
+                    "colorize": true
+                },
+                {
+                    "text": "—at least you learned to be more careful for next time."
+                }
+            ],
+            "tips": "Used to comfort someone or reframe a negative situation. Helpful phrase for giving advice or emotional support."
+        },
+        {
+            "word": "stuck in",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Unable to "
+                },
+                {
+                    "text": "move or get out",
+                    "highlight": true
+                },
+                {
+                    "text": " of a "
+                },
+                {
+                    "text": "place or situation",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "عالق في",
+            "synonyms": [
+                "trapped in",
+                "unable to escape"
+            ],
+            "example": [
+                {
+                    "text": "After the accident, he was "
+                },
+                {
+                    "text": "stuck in",
+                    "colorize": true
+                },
+                {
+                    "text": " the car until rescuers arrived with special tools."
+                }
+            ],
+            "tips": "Can be literal (stuck in traffic) or figurative (stuck in a boring job). In accidents, 'stuck' often means trapped by wreckage—requires rescue."
+        }
+    ]
+}

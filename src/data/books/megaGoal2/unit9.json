@@ -1,0 +1,1815 @@
+{
+    "unit": "Unit 9: Beauty Is Only Skin Deep",
+    "grammarMCQ": [
+        {
+            "q": "I think _____ beauty is about what is inside.",
+            "opts": [
+                "that",
+                "which",
+                "who",
+                "where"
+            ],
+            "ans": "that"
+        },
+        {
+            "q": "I noticed _____ she didn't put on makeup.",
+            "opts": [
+                "that",
+                "those",
+                "these",
+                "which"
+            ],
+            "ans": "that"
+        },
+        {
+            "q": "Do you think _____ products make people look better?",
+            "opts": [
+                "that",
+                "what",
+                "where",
+                "who"
+            ],
+            "ans": "that"
+        },
+        {
+            "q": "She doesn't seem aware _____ her dress is out of style.",
+            "opts": [
+                "that",
+                "which",
+                "who",
+                "what"
+            ],
+            "ans": "that"
+        },
+        {
+            "q": "Are you sure _____ these are not tested on animals?",
+            "opts": [
+                "that",
+                "what",
+                "which",
+                "who"
+            ],
+            "ans": "that"
+        },
+        {
+            "q": "It is a fact _____ beauty products are popular.",
+            "opts": [
+                "that",
+                "which",
+                "who",
+                "what"
+            ],
+            "ans": "that"
+        },
+        {
+            "q": "It is obvious _____ many products contain chemicals.",
+            "opts": [
+                "that",
+                "what",
+                "which",
+                "who"
+            ],
+            "ans": "that"
+        },
+        {
+            "q": "It is surprising _____ toothbrushes are recent.",
+            "opts": [
+                "that",
+                "which",
+                "who",
+                "what"
+            ],
+            "ans": "that"
+        },
+        {
+            "q": "I couldn't believe _____ you told him.",
+            "opts": [
+                "that",
+                "which",
+                "who",
+                "what"
+            ],
+            "ans": "that"
+        },
+        {
+            "q": "We hope _____ you get better quickly.",
+            "opts": [
+                "that",
+                "which",
+                "who",
+                "what"
+            ],
+            "ans": "that"
+        },
+        {
+            "q": "I suspect _____ he is lying.",
+            "opts": [
+                "that",
+                "which",
+                "who",
+                "what"
+            ],
+            "ans": "that"
+        },
+        {
+            "q": "She complained _____ it was too cold.",
+            "opts": [
+                "that",
+                "which",
+                "who",
+                "what"
+            ],
+            "ans": "that"
+        },
+        {
+            "q": "The police believe _____ he escaped.",
+            "opts": [
+                "that",
+                "which",
+                "who",
+                "what"
+            ],
+            "ans": "that"
+        },
+        {
+            "q": "I'm amazed _____ he drove all the way.",
+            "opts": [
+                "that",
+                "which",
+                "who",
+                "what"
+            ],
+            "ans": "that"
+        },
+        {
+            "q": "He is disappointed _____ he didn't get the job.",
+            "opts": [
+                "that",
+                "which",
+                "who",
+                "what"
+            ],
+            "ans": "that"
+        },
+        {
+            "q": "I'm glad _____ summer is here.",
+            "opts": [
+                "that",
+                "which",
+                "who",
+                "what"
+            ],
+            "ans": "that"
+        },
+        {
+            "q": "It is unlikely _____ he will come.",
+            "opts": [
+                "that",
+                "which",
+                "who",
+                "what"
+            ],
+            "ans": "that"
+        },
+        {
+            "q": "The jacket is stained. It needs to be _____.",
+            "opts": [
+                "dry-cleaned",
+                "dry-cleaning",
+                "dry-clean",
+                "dry-cleans"
+            ],
+            "ans": "dry-cleaned"
+        },
+        {
+            "q": "The zipper is broken. It needs to be _____.",
+            "opts": [
+                "replaced",
+                "replacing",
+                "replace",
+                "replaces"
+            ],
+            "ans": "replaced"
+        },
+        {
+            "q": "The mirror is cracked. It needs to be _____.",
+            "opts": [
+                "fixed",
+                "fixing",
+                "fix",
+                "fixes"
+            ],
+            "ans": "fixed"
+        },
+        {
+            "q": "The shirt is torn. It needs to be _____.",
+            "opts": [
+                "sewn",
+                "sewing",
+                "sew",
+                "sews"
+            ],
+            "ans": "sewn"
+        },
+        {
+            "q": "The knife is dull. It needs to be _____.",
+            "opts": [
+                "sharpened",
+                "sharpening",
+                "sharpen",
+                "sharpens"
+            ],
+            "ans": "sharpened"
+        },
+        {
+            "q": "I'm going to _____ my hair cut tomorrow.",
+            "opts": [
+                "have",
+                "has",
+                "had",
+                "having"
+            ],
+            "ans": "have"
+        },
+        {
+            "q": "I _____ my car repaired yesterday.",
+            "opts": [
+                "had",
+                "have",
+                "has",
+                "having"
+            ],
+            "ans": "had"
+        },
+        {
+            "q": "She is _____ her nails painted right now.",
+            "opts": [
+                "getting",
+                "get",
+                "got",
+                "gotten"
+            ],
+            "ans": "getting"
+        },
+        {
+            "q": "We need to _____ the house painted.",
+            "opts": [
+                "get",
+                "got",
+                "getting",
+                "gets"
+            ],
+            "ans": "get"
+        },
+        {
+            "q": "The _____ zipper was annoying.",
+            "opts": [
+                "broken",
+                "breaking",
+                "break",
+                "broke"
+            ],
+            "ans": "broken"
+        },
+        {
+            "q": "He threw away the _____ mirror.",
+            "opts": [
+                "cracked",
+                "cracking",
+                "crack",
+                "cracks"
+            ],
+            "ans": "cracked"
+        },
+        {
+            "q": "The technician fixed the _____ computer.",
+            "opts": [
+                "damaged",
+                "damaging",
+                "damage",
+                "damages"
+            ],
+            "ans": "damaged"
+        },
+        {
+            "q": "She sewed the _____ sleeve.",
+            "opts": [
+                "torn",
+                "tearing",
+                "tear",
+                "tears"
+            ],
+            "ans": "torn"
+        },
+        {
+            "q": "Companies _____ beauty products make money.",
+            "opts": [
+                "selling",
+                "sold",
+                "sell",
+                "sells"
+            ],
+            "ans": "selling"
+        },
+        {
+            "q": "People _____ early will get seats.",
+            "opts": [
+                "arriving",
+                "arrived",
+                "arrive",
+                "arrives"
+            ],
+            "ans": "arriving"
+        },
+        {
+            "q": "The jewelry _____ last week was found.",
+            "opts": [
+                "stolen",
+                "stealing",
+                "steal",
+                "steals"
+            ],
+            "ans": "stolen"
+        },
+        {
+            "q": "The industry _____ around beauty is huge.",
+            "opts": [
+                "built",
+                "building",
+                "build",
+                "builds"
+            ],
+            "ans": "built"
+        },
+        {
+            "q": "_____ working out, he saw a friend.",
+            "opts": [
+                "While",
+                "During",
+                "Since",
+                "For"
+            ],
+            "ans": "While"
+        },
+        {
+            "q": "_____ exercising, have a checkup.",
+            "opts": [
+                "Before",
+                "After",
+                "While",
+                "On"
+            ],
+            "ans": "Before"
+        },
+        {
+            "q": "_____ arriving, give your name.",
+            "opts": [
+                "On",
+                "In",
+                "At",
+                "To"
+            ],
+            "ans": "On"
+        },
+        {
+            "q": "_____ of going to the gym, he played football.",
+            "opts": [
+                "Instead",
+                "Inspite",
+                "Because",
+                "Although"
+            ],
+            "ans": "Instead"
+        },
+        {
+            "q": "The train _____ on Platform 3 is late.",
+            "opts": [
+                "arriving",
+                "arrived",
+                "arrive",
+                "arrives"
+            ],
+            "ans": "arriving"
+        },
+        {
+            "q": "The doctor _____ out lives nearby.",
+            "opts": [
+                "called",
+                "calling",
+                "call",
+                "calls"
+            ],
+            "ans": "called"
+        },
+        {
+            "q": "The news was _____.",
+            "opts": [
+                "disappointing",
+                "disappointed",
+                "disappoint",
+                "disappoints"
+            ],
+            "ans": "disappointing"
+        },
+        {
+            "q": "I was _____ by the news.",
+            "opts": [
+                "disappointed",
+                "disappointing",
+                "disappoint",
+                "disappoints"
+            ],
+            "ans": "disappointed"
+        },
+        {
+            "q": "The game was _____.",
+            "opts": [
+                "exciting",
+                "excited",
+                "excite",
+                "excites"
+            ],
+            "ans": "exciting"
+        },
+        {
+            "q": "We were _____ by the game.",
+            "opts": [
+                "excited",
+                "exciting",
+                "excite",
+                "excites"
+            ],
+            "ans": "excited"
+        },
+        {
+            "q": "The _____ child was crying.",
+            "opts": [
+                "frightened",
+                "frightening",
+                "frighten",
+                "frightens"
+            ],
+            "ans": "frightened"
+        },
+        {
+            "q": "The movie was _____.",
+            "opts": [
+                "frightening",
+                "frightened",
+                "frighten",
+                "frightens"
+            ],
+            "ans": "frightening"
+        },
+        {
+            "q": "I am _____ in history.",
+            "opts": [
+                "interested",
+                "interesting",
+                "interest",
+                "interests"
+            ],
+            "ans": "interested"
+        },
+        {
+            "q": "History is _____.",
+            "opts": [
+                "interesting",
+                "interested",
+                "interest",
+                "interests"
+            ],
+            "ans": "interesting"
+        },
+        {
+            "q": "I'll have my car _____.",
+            "opts": [
+                "washed",
+                "washing",
+                "wash",
+                "washes"
+            ],
+            "ans": "washed"
+        },
+        {
+            "q": "She got her dress _____.",
+            "opts": [
+                "cleaned",
+                "cleaning",
+                "clean",
+                "cleans"
+            ],
+            "ans": "cleaned"
+        }
+    ],
+    "fillInBlank": [
+        {
+            "s": "I think _____ beauty is on the inside.",
+            "a": "that"
+        },
+        {
+            "s": "I noticed _____ she wasn't wearing makeup.",
+            "a": "that"
+        },
+        {
+            "s": "I suspect _____ he is lying.",
+            "a": "that"
+        },
+        {
+            "s": "It is true _____ beauty varies by culture.",
+            "a": "that"
+        },
+        {
+            "s": "It is obvious _____ he is happy.",
+            "a": "that"
+        },
+        {
+            "s": "She is afraid _____ she will fail.",
+            "a": "that"
+        },
+        {
+            "s": "I am amazed _____ you came.",
+            "a": "that"
+        },
+        {
+            "s": "The jacket needs to be _____ (clean).",
+            "a": "cleaned"
+        },
+        {
+            "s": "The zipper needs to be _____ (replace).",
+            "a": "replaced"
+        },
+        {
+            "s": "I will _____ my hair cut.",
+            "a": "have"
+        },
+        {
+            "s": "She is _____ her nails done.",
+            "a": "getting"
+        },
+        {
+            "s": "The _____ mirror was dangerous. (broken)",
+            "a": "broken"
+        },
+        {
+            "s": "The _____ shirt looked old. (torn)",
+            "a": "torn"
+        },
+        {
+            "s": "Companies _____ products make money. (sell)",
+            "a": "selling"
+        },
+        {
+            "s": "The jewelry _____ yesterday was found. (steal)",
+            "a": "stolen"
+        },
+        {
+            "s": "_____ working out, I saw her.",
+            "a": "While"
+        },
+        {
+            "s": "_____ exercising, drink water.",
+            "a": "Before"
+        },
+        {
+            "s": "_____ of studying, he watched TV.",
+            "a": "Instead"
+        },
+        {
+            "s": "The news was _____ (disappoint).",
+            "a": "disappointing"
+        },
+        {
+            "s": "I was _____ (disappoint).",
+            "a": "disappointed"
+        },
+        {
+            "s": "The game was _____ (excite).",
+            "a": "exciting"
+        },
+        {
+            "s": "We were _____ (excite).",
+            "a": "excited"
+        },
+        {
+            "s": "The movie was _____ (bore).",
+            "a": "boring"
+        },
+        {
+            "s": "I was _____ (bore).",
+            "a": "bored"
+        },
+        {
+            "s": "Ancient Egyptians used _____ element iodine.",
+            "a": "poisonous"
+        },
+        {
+            "s": "Lipstick was a _____ stick.",
+            "a": "solid"
+        },
+        {
+            "s": "Romans soaked clothes in _____.",
+            "a": "perfume"
+        },
+        {
+            "s": "Nail polish represents _____ class.",
+            "a": "social"
+        },
+        {
+            "s": "Ancient Chinese used beeswax and _____.",
+            "a": "gelatin"
+        },
+        {
+            "s": "Lower ranking women wore _____ colors.",
+            "a": "pale"
+        },
+        {
+            "s": "Men's grooming went in and _____ of style.",
+            "a": "out"
+        },
+        {
+            "s": "Beauty is only _____ deep.",
+            "a": "skin"
+        },
+        {
+            "s": "The Greeks believed in _____.",
+            "a": "proportion"
+        },
+        {
+            "s": "Symmetry is _____ to beauty.",
+            "a": "key"
+        },
+        {
+            "s": "Babies stare at _____ objects.",
+            "a": "symmetrical"
+        },
+        {
+            "s": "Standards of beauty _____ by culture.",
+            "a": "vary"
+        },
+        {
+            "s": "Elizabethan women plucked their _____.",
+            "a": "hair"
+        },
+        {
+            "s": "Chinese women practiced foot _____.",
+            "a": "binding"
+        },
+        {
+            "s": "European women used to bind their _____.",
+            "a": "waists"
+        },
+        {
+            "s": "A _____ figure was once attractive.",
+            "a": "plump"
+        },
+        {
+            "s": "Thin is _____.",
+            "a": "in"
+        },
+        {
+            "s": "Men are joining _____ more often.",
+            "a": "gyms"
+        },
+        {
+            "s": "It brings _____ far more benefits.",
+            "a": "out"
+        },
+        {
+            "s": "Money can't buy _____.",
+            "a": "happiness"
+        },
+        {
+            "s": "He did a _____ take.",
+            "a": "double"
+        },
+        {
+            "s": "I'm not going to _____ around the bush.",
+            "a": "beat"
+        },
+        {
+            "s": "It's _____ the house.",
+            "a": "on"
+        },
+        {
+            "s": "She started _____ that it was a game.",
+            "a": "hallucinating"
+        },
+        {
+            "s": "The body went into _____.",
+            "a": "hibernation"
+        },
+        {
+            "s": "He made a full _____.",
+            "a": "recovery"
+        }
+    ],
+    "oddOneOut": [
+        {
+            "w": [
+                "synthetic",
+                "natural",
+                "artificial",
+                "man-made"
+            ],
+            "a": "natural"
+        },
+        {
+            "w": [
+                "privileged",
+                "wealthy",
+                "rich",
+                "poor"
+            ],
+            "a": "poor"
+        },
+        {
+            "w": [
+                "appealing",
+                "attractive",
+                "ugly",
+                "charming"
+            ],
+            "a": "ugly"
+        },
+        {
+            "w": [
+                "extract",
+                "remove",
+                "insert",
+                "pull out"
+            ],
+            "a": "insert"
+        },
+        {
+            "w": [
+                "obsession",
+                "passion",
+                "fascination",
+                "indifference"
+            ],
+            "a": "indifference"
+        },
+        {
+            "w": [
+                "cosmetics",
+                "makeup",
+                "beauty products",
+                "tools"
+            ],
+            "a": "tools"
+        },
+        {
+            "w": [
+                "famine",
+                "hunger",
+                "starvation",
+                "feast"
+            ],
+            "a": "feast"
+        },
+        {
+            "w": [
+                "plump",
+                "chubby",
+                "thin",
+                "fat"
+            ],
+            "a": "thin"
+        },
+        {
+            "w": [
+                "symmetry",
+                "balance",
+                "proportion",
+                "chaos"
+            ],
+            "a": "chaos"
+        },
+        {
+            "w": [
+                "instinctive",
+                "learned",
+                "natural",
+                "innate"
+            ],
+            "a": "learned"
+        },
+        {
+            "w": [
+                "vary",
+                "change",
+                "differ",
+                "stay"
+            ],
+            "a": "stay"
+        },
+        {
+            "w": [
+                "ideal",
+                "perfect",
+                "model",
+                "flawed"
+            ],
+            "a": "flawed"
+        },
+        {
+            "w": [
+                "detectable",
+                "noticeable",
+                "visible",
+                "hidden"
+            ],
+            "a": "hidden"
+        },
+        {
+            "w": [
+                "disoriented",
+                "confused",
+                "lost",
+                "focused"
+            ],
+            "a": "focused"
+        },
+        {
+            "w": [
+                "exhilarating",
+                "boring",
+                "exciting",
+                "thrilling"
+            ],
+            "a": "boring"
+        },
+        {
+            "w": [
+                "haggard",
+                "fresh",
+                "worn",
+                "tired"
+            ],
+            "a": "fresh"
+        },
+        {
+            "w": [
+                "intact",
+                "whole",
+                "broken",
+                "undamaged"
+            ],
+            "a": "broken"
+        },
+        {
+            "w": [
+                "startling",
+                "surprising",
+                "shocking",
+                "expected"
+            ],
+            "a": "expected"
+        },
+        {
+            "w": [
+                "vibrant",
+                "dull",
+                "bright",
+                "lively"
+            ],
+            "a": "dull"
+        },
+        {
+            "w": [
+                "thriving",
+                "dying",
+                "flourishing",
+                "growing"
+            ],
+            "a": "dying"
+        },
+        {
+            "w": [
+                "ambitious",
+                "lazy",
+                "determined",
+                "aspiring"
+            ],
+            "a": "lazy"
+        },
+        {
+            "w": [
+                "mend",
+                "fix",
+                "repair",
+                "break"
+            ],
+            "a": "break"
+        },
+        {
+            "w": [
+                "sew",
+                "stitch",
+                "mend",
+                "tear"
+            ],
+            "a": "tear"
+        },
+        {
+            "w": [
+                "sharpen",
+                "dull",
+                "hone",
+                "whet"
+            ],
+            "a": "dull"
+        },
+        {
+            "w": [
+                "ancient",
+                "old",
+                "antique",
+                "modern"
+            ],
+            "a": "modern"
+        },
+        {
+            "w": [
+                "poisonous",
+                "toxic",
+                "deadly",
+                "harmless"
+            ],
+            "a": "harmless"
+        },
+        {
+            "w": [
+                "expensive",
+                "costly",
+                "pricey",
+                "cheap"
+            ],
+            "a": "cheap"
+        },
+        {
+            "w": [
+                "common",
+                "rare",
+                "usual",
+                "widespread"
+            ],
+            "a": "rare"
+        },
+        {
+            "w": [
+                "formula",
+                "recipe",
+                "method",
+                "chaos"
+            ],
+            "a": "chaos"
+        },
+        {
+            "w": [
+                "rotate",
+                "turn",
+                "spin",
+                "stop"
+            ],
+            "a": "stop"
+        },
+        {
+            "w": [
+                "fragrant",
+                "smelly",
+                "aromatic",
+                "odorless"
+            ],
+            "a": "odorless"
+        },
+        {
+            "w": [
+                "royal",
+                "regal",
+                "noble",
+                "common"
+            ],
+            "a": "common"
+        },
+        {
+            "w": [
+                "commander",
+                "leader",
+                "chief",
+                "follower"
+            ],
+            "a": "follower"
+        },
+        {
+            "w": [
+                "varnish",
+                "paint",
+                "polish",
+                "remover"
+            ],
+            "a": "remover"
+        },
+        {
+            "w": [
+                "trace",
+                "track",
+                "follow",
+                "ignore"
+            ],
+            "a": "ignore"
+        },
+        {
+            "w": [
+                "sample",
+                "example",
+                "specimen",
+                "entirety"
+            ],
+            "a": "entirety"
+        },
+        {
+            "w": [
+                "shipment",
+                "delivery",
+                "cargo",
+                "origin"
+            ],
+            "a": "origin"
+        },
+        {
+            "w": [
+                "psychological",
+                "mental",
+                "emotional",
+                "physical"
+            ],
+            "a": "physical"
+        },
+        {
+            "w": [
+                "empower",
+                "enable",
+                "allow",
+                "prevent"
+            ],
+            "a": "prevent"
+        },
+        {
+            "w": [
+                "sustainable",
+                "lasting",
+                "temporary",
+                "enduring"
+            ],
+            "a": "temporary"
+        },
+        {
+            "w": [
+                "integral",
+                "essential",
+                "vital",
+                "optional"
+            ],
+            "a": "optional"
+        },
+        {
+            "w": [
+                "logistical",
+                "organizational",
+                "strategic",
+                "random"
+            ],
+            "a": "random"
+        },
+        {
+            "w": [
+                "privatization",
+                "nationalization",
+                "ownership",
+                "sale"
+            ],
+            "a": "nationalization"
+        },
+        {
+            "w": [
+                "transparent",
+                "clear",
+                "opaque",
+                "see-through"
+            ],
+            "a": "opaque"
+        },
+        {
+            "w": [
+                "accountable",
+                "responsible",
+                "answerable",
+                "blameless"
+            ],
+            "a": "blameless"
+        },
+        {
+            "w": [
+                "fiscal",
+                "financial",
+                "monetary",
+                "emotional"
+            ],
+            "a": "emotional"
+        },
+        {
+            "w": [
+                "visualize",
+                "imagine",
+                "picture",
+                "ignore"
+            ],
+            "a": "ignore"
+        },
+        {
+            "w": [
+                "vivid",
+                "clear",
+                "bright",
+                "faded"
+            ],
+            "a": "faded"
+        },
+        {
+            "w": [
+                "scraps",
+                "pieces",
+                "bits",
+                "whole"
+            ],
+            "a": "whole"
+        },
+        {
+            "w": [
+                "struggle",
+                "fight",
+                "battle",
+                "surrender"
+            ],
+            "a": "surrender"
+        }
+    ],
+    "translateToArabic": [
+        {
+            "en": "Beauty is only skin deep.",
+            "ar": "الجمال جمال الروح (الجمال سطحي فقط)."
+        },
+        {
+            "en": "Hairbrushes were used by the wealthy.",
+            "ar": "استخدم الأثرياء فرش الشعر."
+        },
+        {
+            "en": "Ancient Egyptians used animal hair brushes.",
+            "ar": "استخدم المصريون القدماء فرش شعر من شعر الحيوانات."
+        },
+        {
+            "en": "The bristles were stitched by hand.",
+            "ar": "تم خياطة الشعيرات باليد."
+        },
+        {
+            "en": "Synthentic materials like nylon were used.",
+            "ar": "تم استخدام مواد اصطناعية مثل النايلون."
+        },
+        {
+            "en": "Cleopatra had a recipe for lipstick.",
+            "ar": "كان لدى كليوباترا وصفة لأحمر الشفاه."
+        },
+        {
+            "en": "Lipstick was made from ants and beetles.",
+            "ar": "صُنع أحمر الشفاه من النمل والخنافس."
+        },
+        {
+            "en": "Rotating lipstick in a tube was invented.",
+            "ar": "تم اختراع أحمر الشفاه الدوار في أنبوب."
+        },
+        {
+            "en": "Ancient Egyptians tried to hide body odor.",
+            "ar": "حاول المصريون القدماء إخفاء رائحة الجسم."
+        },
+        {
+            "en": "They put perfume in their baths.",
+            "ar": "وضعوا العطر في حماماتهم."
+        },
+        {
+            "en": "Nail polish represented social class.",
+            "ar": "مثل طلاء الأظافر الطبقة الاجتماعية."
+        },
+        {
+            "en": "Royal colors were gold and silver.",
+            "ar": "كانت الألوان الملكية هي الذهب والفضة."
+        },
+        {
+            "en": "Modern nail polish is similar to car varnish.",
+            "ar": "أحمر الشفاه الحديث مشابه لطلاء السيارات."
+        },
+        {
+            "en": "I think that beauty is inside.",
+            "ar": "أعتقد أن الجمال في الداخل."
+        },
+        {
+            "en": "I noticed she didn't put on makeup.",
+            "ar": "لاحظت أنها لم تضع مكياجاً."
+        },
+        {
+            "en": "He decided that he would go.",
+            "ar": "قرر أنه سيذهب."
+        },
+        {
+            "en": "She fears that she will fail.",
+            "ar": "هي تخشى أن تفشل."
+        },
+        {
+            "en": "I forgot that you were coming.",
+            "ar": "نسيت أنك قادم."
+        },
+        {
+            "en": "I hope that you get better.",
+            "ar": "آمل أن تتحسن."
+        },
+        {
+            "en": "She doesn't seem aware that it's old.",
+            "ar": "لا تبدو مدركة أنه قديم."
+        },
+        {
+            "en": "I am glad that you are here.",
+            "ar": "أنا سعيد لأنك هنا."
+        },
+        {
+            "en": "It is a fact that water is wet.",
+            "ar": "إنها حقيقة أن الماء رطب."
+        },
+        {
+            "en": "It is obvious that he is tired.",
+            "ar": "من الواضح أنه متعب."
+        },
+        {
+            "en": "The jacket needs to be dry-cleaned.",
+            "ar": "السترة تحتاج إلى تنظيف جاف."
+        },
+        {
+            "en": "The zipper needs to be replaced.",
+            "ar": "السحاب يحتاج إلى استبدال."
+        },
+        {
+            "en": "I will have my hair cut.",
+            "ar": "سأقص شعري."
+        },
+        {
+            "en": "I got my car repaired.",
+            "ar": "أصلحت سيارتي."
+        },
+        {
+            "en": "The mirror was cracked.",
+            "ar": "كانت المرآة مكسورة (مشروخة)."
+        },
+        {
+            "en": "The shirt was torn.",
+            "ar": "كان القميص ممزقاً."
+        },
+        {
+            "en": "People arriving early get seats.",
+            "ar": "الأشخاص الذين يصلون مبكراً يحصلون على مقاعد."
+        },
+        {
+            "en": "The jewelry stolen last week was found.",
+            "ar": "تم العثور على المجوهرات المسروقة الأسبوع الماضي."
+        },
+        {
+            "en": "While working out, he saw a friend.",
+            "ar": "أثناء التمرين، رأى صديقاً."
+        },
+        {
+            "en": "Before exercising, have a checkup.",
+            "ar": "قبل التمرين، قم بفحص طبي."
+        },
+        {
+            "en": "Instead of going to the gym, he played.",
+            "ar": "بدلاً من الذهاب إلى الصالة الرياضية، لعب."
+        },
+        {
+            "en": "The Greeks thought proportion was key.",
+            "ar": "اعتقد الإغريق أن التناسب هو المفتاح."
+        },
+        {
+            "en": "Symmetry relates to beauty.",
+            "ar": "التماثل (التناظر) يرتبط بالجمال."
+        },
+        {
+            "en": "Ideally, the face is symmetrical.",
+            "ar": "من الناحية المثالية، الوجه متماثل."
+        },
+        {
+            "en": "Babies stare at symmetrical objects.",
+            "ar": "يحدق الأطفال في الأشياء المتماثلة."
+        },
+        {
+            "en": "Standards of beauty vary by culture.",
+            "ar": "معايير الجمال تختلف حسب الثقافة."
+        },
+        {
+            "en": "They plucked their hair to look elegant.",
+            "ar": "نتفوا شعرهم ليبدوا أنيقين."
+        },
+        {
+            "en": "Foot binding was practiced in China.",
+            "ar": "مورس ربط القدم في الصين."
+        },
+        {
+            "en": "Women used to bind their waists.",
+            "ar": "اعتادت النساء ربط خصورهن."
+        },
+        {
+            "en": "A plump figure was considered attractive.",
+            "ar": "كان الجسم الممتلئ يعتبر جذاباً."
+        },
+        {
+            "en": "Thin is in.",
+            "ar": "النحافة هي الموضة."
+        },
+        {
+            "en": "The male form was the original standard.",
+            "ar": "كان الشكل الذكري هو المعيار الأصلي."
+        },
+        {
+            "en": "Beauty brings more benefits.",
+            "ar": "الجمال يجلب فوائد أكثر."
+        },
+        {
+            "en": "Wealth ensures a comfortable life.",
+            "ar": "الثروة تضمن حياة مريحة."
+        },
+        {
+            "en": "Money is important for well-being.",
+            "ar": "المال مهم للرفاهية."
+        },
+        {
+            "en": "He did a double take.",
+            "ar": "نظر مرة أخرى بدهشة."
+        },
+        {
+            "en": "I'm not going to beat around the bush.",
+            "ar": "لن أدور حول الموضوع."
+        }
+    ],
+    "translateToEnglish": [
+        {
+            "ar": "الجمال جمال الروح",
+            "en": "Beauty is only skin deep."
+        },
+        {
+            "ar": "استخدم الأثرياء الفرش",
+            "en": "Hairbrushes were used by the wealthy."
+        },
+        {
+            "ar": "مصنوعة من ريش الشيهم",
+            "en": "Made of porcupine quills."
+        },
+        {
+            "ar": "تم خياطة الشعيرات باليد",
+            "en": "The bristles were stitched by hand."
+        },
+        {
+            "ar": "مواد اصطناعية مثل النايلون",
+            "en": "Synthetic materials like nylon."
+        },
+        {
+            "ar": "عنصر سام يسمى اليود",
+            "en": "Poisonous element iodine."
+        },
+        {
+            "ar": "وصفة كليوباترا لأحمر الشفاه",
+            "en": "Cleopatra's recipe for lipstick."
+        },
+        {
+            "ar": "صُنع من الخنافس المطحونة",
+            "en": "Made from crushed beetles."
+        },
+        {
+            "ar": "أحمر الشفاه الدوار في أنبوب",
+            "en": "Rotating lipstick in a tube."
+        },
+        {
+            "ar": "حاولوا إخفاء رائحة الجسم",
+            "en": "They tried to hide body odor."
+        },
+        {
+            "ar": "وضعوا العطر على حيواناتهم الأليفة",
+            "en": "They put perfume on their pets."
+        },
+        {
+            "ar": "أول مزيل عرق بعلامة تجارية",
+            "en": "The first trademarked deodorant."
+        },
+        {
+            "ar": "طلاء الأظافر يمثل الطبقة الاجتماعية",
+            "en": "Nail polish represented social class."
+        },
+        {
+            "ar": "الألوان الملكية كانت الذهب والفضة",
+            "en": "Royal colors were gold and silver."
+        },
+        {
+            "ar": "صبغوا أظافرهم بالحناء",
+            "en": "They stained their nails with henna."
+        },
+        {
+            "ar": "مشابه لطلاء السيارات",
+            "en": "Similar to car varnish."
+        },
+        {
+            "ar": "أعتقد أن الجمال في الداخل",
+            "en": "I think that beauty is inside."
+        },
+        {
+            "ar": "لاحظت أنها لم تضع مكياج",
+            "en": "I noticed that she didn't put on makeup."
+        },
+        {
+            "ar": "هل تعتقد أنها تبدو أفضل؟",
+            "en": "Do you think that she looks better?"
+        },
+        {
+            "ar": "لم تدرك أنه قديم",
+            "en": "She wasn't aware that it was old."
+        },
+        {
+            "ar": "هل أنت متأكد أنه آمن؟",
+            "en": "Are you sure that it is safe?"
+        },
+        {
+            "ar": "من الواضح أنه يحتوي على مواد كيميائية",
+            "en": "It is obvious that it contains chemicals."
+        },
+        {
+            "ar": "من الغريب أنهم فعلوا ذلك",
+            "en": "It is strange that they did that."
+        },
+        {
+            "ar": "السترة تحتاج لتنظيف جاف",
+            "en": "The jacket needs to be dry-cleaned."
+        },
+        {
+            "ar": "السحاب يحتاج لاستبدال",
+            "en": "The zipper needs to be replaced."
+        },
+        {
+            "ar": "سأقص شعري",
+            "en": "I will have my hair cut."
+        },
+        {
+            "ar": "أصلحت سيارتي",
+            "en": "I got my car repaired."
+        },
+        {
+            "ar": "كانت المرآة مكسورة",
+            "en": "The mirror was cracked."
+        },
+        {
+            "ar": "كان القميص ممزقاً",
+            "en": "The shirt was torn."
+        },
+        {
+            "ar": "الأشخاص الواصلون مبكراً",
+            "en": "People arriving early."
+        },
+        {
+            "ar": "المجوهرات المسروقة وجدت",
+            "en": "The stolen jewelry was found."
+        },
+        {
+            "ar": "أثناء التمرين رأى صديقاً",
+            "en": "While working out, he saw a friend."
+        },
+        {
+            "ar": "قبل التمرين افحص نفسك",
+            "en": "Before exercising, have a checkup."
+        },
+        {
+            "ar": "بدلاً من الذهاب، لعب",
+            "en": "Instead of going, he played."
+        },
+        {
+            "ar": "التناسب مفتاح الجمال",
+            "en": "Proportion is the key to beauty."
+        },
+        {
+            "ar": "الوجه المثالي متماثل",
+            "en": "The ideal face is symmetrical."
+        },
+        {
+            "ar": "هذا رد فعل غريزي",
+            "en": "This is an instinctive response."
+        },
+        {
+            "ar": "المعايير تختلف حسب الثقافة",
+            "en": "Standards vary by culture."
+        },
+        {
+            "ar": "نتفوا شعرهم",
+            "en": "They plucked their hair."
+        },
+        {
+            "ar": "ربط القدم في الصين",
+            "en": "Foot binding in China."
+        },
+        {
+            "ar": "ربطوا خصورهم",
+            "en": "They bound their waists."
+        },
+        {
+            "ar": "الجسم الممتلئ كان جذاباً",
+            "en": "A plump figure was attractive."
+        },
+        {
+            "ar": "المجاعة كانت منتشرة",
+            "en": "Famine was widespread."
+        },
+        {
+            "ar": "النحافة هي الموضة الآن",
+            "en": "Thin is in now."
+        },
+        {
+            "ar": "الشكل الذكري كان المعيار",
+            "en": "The male form was the standard."
+        },
+        {
+            "ar": "الجمال يجلب الفوائد",
+            "en": "Beauty brings benefits."
+        },
+        {
+            "ar": "المال ليس كل شيء",
+            "en": "Money is not everything."
+        },
+        {
+            "ar": "نظر مرة أخرى بدهشة",
+            "en": "He did a double take."
+        },
+        {
+            "ar": "لن أدور حول الموضوع",
+            "en": "I won't beat around the bush."
+        },
+        {
+            "ar": "على حساب المحل (مجاني)",
+            "en": "On the house."
+        }
+    ],
+    "vocabulary": [
+        {
+            "w": "synthetic",
+            "d": "made by chemicals, not natural",
+            "ex": "Nylon is synthetic."
+        },
+        {
+            "w": "privileged",
+            "d": "having special advantages",
+            "ex": "Only the privileged used brushes."
+        },
+        {
+            "w": "appealing",
+            "d": "attractive or interesting",
+            "ex": "The idea was appealing."
+        },
+        {
+            "w": "extract",
+            "d": "to take out",
+            "ex": "Dye extracted from seaweed."
+        },
+        {
+            "w": "obsession",
+            "d": "idea that fills the mind",
+            "ex": "Obsession with smell."
+        },
+        {
+            "w": "famine",
+            "d": "extreme scarcity of food",
+            "ex": "Famine was widespread."
+        },
+        {
+            "w": "plump",
+            "d": "slightly fat",
+            "ex": "A plump figure."
+        },
+        {
+            "w": "symmetry",
+            "d": "balanced proportions",
+            "ex": "Face symmetry."
+        },
+        {
+            "w": "instinctive",
+            "d": "natural, not learned",
+            "ex": "An instinctive response."
+        },
+        {
+            "w": "vary",
+            "d": "to differ",
+            "ex": "Standards vary."
+        },
+        {
+            "w": "ideal",
+            "d": "perfect example",
+            "ex": "The ideal face."
+        },
+        {
+            "w": "detectable",
+            "d": "can be found",
+            "ex": "No detectable pulse."
+        },
+        {
+            "w": "disoriented",
+            "d": "confused",
+            "ex": "She was disoriented."
+        },
+        {
+            "w": "exhilarating",
+            "d": "making one feel very happy",
+            "ex": "An exhilarating experience."
+        },
+        {
+            "w": "haggard",
+            "d": "looking exhausted",
+            "ex": "Thin and haggard."
+        },
+        {
+            "w": "intact",
+            "d": "undamaged",
+            "ex": "Surprisingly intact."
+        },
+        {
+            "w": "startling",
+            "d": "surprising",
+            "ex": "A startling discovery."
+        },
+        {
+            "w": "vibrant",
+            "d": "full of energy",
+            "ex": "A vibrant society."
+        },
+        {
+            "w": "thriving",
+            "d": "prospering",
+            "ex": "A thriving economy."
+        },
+        {
+            "w": "ambitious",
+            "d": "having strong desire for success",
+            "ex": "Ambitious plans."
+        },
+        {
+            "w": "mend",
+            "d": "to repair",
+            "ex": "Mend the clothes."
+        },
+        {
+            "w": "sew",
+            "d": "technique to stitch cloth",
+            "ex": "Sew the tear."
+        },
+        {
+            "w": "sharpen",
+            "d": "make sharp",
+            "ex": "Sharpen the knife."
+        },
+        {
+            "w": "ancient",
+            "d": "very old",
+            "ex": "Ancient Egypt."
+        },
+        {
+            "w": "poisonous",
+            "d": "toxic",
+            "ex": "Poisonous element."
+        },
+        {
+            "w": "expensive",
+            "d": "costing a lot",
+            "ex": "Quite expensive."
+        },
+        {
+            "w": "common",
+            "d": "occurring often",
+            "ex": "Extremely common."
+        },
+        {
+            "w": "formula",
+            "d": "method or recipe",
+            "ex": "The formula for beauty."
+        },
+        {
+            "w": "rotate",
+            "d": "turn around a center",
+            "ex": "Rotating lipstick."
+        },
+        {
+            "w": "fragrant",
+            "d": "having a pleasant smell",
+            "ex": "Fragrant perfume."
+        },
+        {
+            "w": "royal",
+            "d": "related to a king/queen",
+            "ex": "Royal colors."
+        },
+        {
+            "w": "commander",
+            "d": "leader",
+            "ex": "Military commander."
+        },
+        {
+            "w": "varnish",
+            "d": "protective finish",
+            "ex": "Car varnish."
+        },
+        {
+            "w": "trace",
+            "d": "find the origin",
+            "ex": "Traced back to Egypt."
+        },
+        {
+            "w": "sample",
+            "d": "small part of something",
+            "ex": "Skin sample."
+        },
+        {
+            "w": "shipment",
+            "d": "goods sent together",
+            "ex": "Shipment of tomatoes."
+        },
+        {
+            "w": "psychological",
+            "d": "related to the mind",
+            "ex": "Psychological well-being."
+        },
+        {
+            "w": "empower",
+            "d": "give power to",
+            "ex": "Empower families."
+        },
+        {
+            "w": "sustainable",
+            "d": "able to be maintained",
+            "ex": "Sustainable environment."
+        },
+        {
+            "w": "integral",
+            "d": "essential part",
+            "ex": "Integral part."
+        },
+        {
+            "w": "logistical",
+            "d": "organization of moving things",
+            "ex": "Logistical hub."
+        },
+        {
+            "w": "privatization",
+            "d": "transfer to private ownership",
+            "ex": "Privatization of assets."
+        },
+        {
+            "w": "transparent",
+            "d": "easy to perceive/honest",
+            "ex": "Transparent government."
+        },
+        {
+            "w": "accountable",
+            "d": "responsible",
+            "ex": "Accountable for actions."
+        },
+        {
+            "w": "fiscal",
+            "d": "related to government money",
+            "ex": "Fiscal management."
+        },
+        {
+            "w": "visualize",
+            "d": "form a mental image",
+            "ex": "Visualize the future."
+        },
+        {
+            "w": "vivid",
+            "d": "producing powerful feelings",
+            "ex": "Vivid descriptions."
+        },
+        {
+            "w": "scraps",
+            "d": "small pieces",
+            "ex": "Scraps of material."
+        },
+        {
+            "w": "struggle",
+            "d": "make forceful effort",
+            "ex": "Struggle to survive."
+        },
+        {
+            "w": "beat around the bush",
+            "d": "speak indirectly",
+            "ex": "Don't beat around the bush."
+        }
+    ]
+}

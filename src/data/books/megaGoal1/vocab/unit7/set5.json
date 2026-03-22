@@ -1,0 +1,496 @@
+{
+    "unit": "Mega Goal 1 - Unit 6: From Smoke Signals to Email",
+    "type": "writing",
+    "setTitle": "Real-World Email: Brian",
+    "words": [
+        {
+            "word": "attach",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "add a digital file",
+                    "highlight": true
+                },
+                {
+                    "text": " (photo, document) to an "
+                },
+                {
+                    "text": "email before sending",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُرفق",
+            "synonyms": [
+                "include as a file",
+                "add to email"
+            ],
+            "example": [
+                {
+                    "text": "I'm going to "
+                },
+                {
+                    "text": "attach",
+                    "colorize": true
+                },
+                {
+                    "text": " the group photo to my email"
+                }
+            ],
+            "tips": "Noun form: attachment. Always double-check you actually attached the file before hitting 'send' – a very common mistake!"
+        },
+        {
+            "word": "get used to",
+            "wordType": "phrasal verb phrase",
+            "definition": [
+                {
+                    "text": "To gradually become "
+                },
+                {
+                    "text": "comfortable or familiar",
+                    "highlight": true
+                },
+                {
+                    "text": " with a new "
+                },
+                {
+                    "text": "situation or routine",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يتعوّد",
+            "synonyms": [
+                "adjust to",
+                "become accustomed to"
+            ],
+            "example": [
+                {
+                    "text": "Everyone is trying to "
+                },
+                {
+                    "text": "get used to",
+                    "colorize": true
+                },
+                {
+                    "text": " waking up early after summer break"
+                }
+            ],
+            "tips": "Always followed by a noun OR -ing verb: 'get used to school' or 'get used to waking up early'. Never + base verb."
+        },
+        {
+            "word": "come along",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "join someone",
+                    "highlight": true
+                },
+                {
+                    "text": " who is going somewhere; to "
+                },
+                {
+                    "text": "go together as a group",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ينضم / يرافق",
+            "synonyms": [
+                "join us",
+                "come with"
+            ],
+            "example": [
+                {
+                    "text": "I wish you could "
+                },
+                {
+                    "text": "come along",
+                    "colorize": true
+                },
+                {
+                    "text": " on our desert trip this weekend"
+                }
+            ],
+            "tips": "Friendly, casual invitation. Sounds more spontaneous than 'Would you like to join us?'"
+        },
+        {
+            "word": "get down to",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To finally start "
+                },
+                {
+                    "text": "focusing seriously",
+                    "highlight": true
+                },
+                {
+                    "text": " on an important task after "
+                },
+                {
+                    "text": "relaxing or delaying",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يشرع في العمل بجد",
+            "synonyms": [
+                "start seriously",
+                "settle down to"
+            ],
+            "example": [
+                {
+                    "text": "Time to stop chatting and "
+                },
+                {
+                    "text": "get down to",
+                    "colorize": true
+                },
+                {
+                    "text": " homework"
+                }
+            ],
+            "tips": "Followed by noun OR -ing verb: 'get down to work' or 'get down to studying'. Signals a shift from fun to responsibility."
+        },
+        {
+            "word": "get organized",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To arrange your things, time, or plans in a "
+                },
+                {
+                    "text": "tidy and efficient way",
+                    "highlight": true
+                },
+                {
+                    "text": " so you can "
+                },
+                {
+                    "text": "work or study effectively",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُنظّم نفسه",
+            "synonyms": [
+                "get your act together",
+                "prepare properly"
+            ],
+            "example": [
+                {
+                    "text": "After vacation, I need to "
+                },
+                {
+                    "text": "get organized",
+                    "colorize": true
+                },
+                {
+                    "text": " with my notebooks and schedule"
+                }
+            ],
+            "tips": "Very common expression at the start of school terms or new projects. Describes the process of becoming orderly."
+        },
+        {
+            "word": "give my best",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "A warm, polite way to "
+                },
+                {
+                    "text": "send greetings",
+                    "highlight": true
+                },
+                {
+                    "text": " to someone's "
+                },
+                {
+                    "text": "family or friends",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "أُبلِغ تحياتي",
+            "synonyms": [
+                "send my regards",
+                "say hello to"
+            ],
+            "example": [
+                {
+                    "text": "Please "
+                },
+                {
+                    "text": "give my best",
+                    "colorize": true
+                },
+                {
+                    "text": " to your parents"
+                }
+            ],
+            "tips": "Common closing phrase in letters/emails to friends. More personal than 'regards' but less formal than 'yours sincerely'."
+        },
+        {
+            "word": "compliment",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To say something "
+                },
+                {
+                    "text": "kind or admiring",
+                    "highlight": true
+                },
+                {
+                    "text": " about someone to "
+                },
+                {
+                    "text": "praise them",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُثني على / يمدح",
+            "synonyms": [
+                "praise",
+                "say something nice about"
+            ],
+            "example": [
+                {
+                    "text": "My teacher "
+                },
+                {
+                    "text": "complimented",
+                    "colorize": true
+                },
+                {
+                    "text": " me on my English improvement"
+                }
+            ],
+            "tips": "NOT 'complement' (which means 'to complete'). Spelling trick: 'I' like receiving compliments! Both 'compliment' and 'praise' have positive meanings."
+        },
+        {
+            "word": "promise",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To make a "
+                },
+                {
+                    "text": "serious commitment",
+                    "highlight": true
+                },
+                {
+                    "text": " that you will definitely "
+                },
+                {
+                    "text": "do something",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يعد / يُعاهد",
+            "synonyms": [
+                "vow",
+                "assure",
+                "guarantee"
+            ],
+            "example": [
+                {
+                    "text": "My father "
+                },
+                {
+                    "text": "promised",
+                    "colorize": true
+                },
+                {
+                    "text": " to let me drive the jeep in the desert"
+                }
+            ],
+            "tips": "Followed by 'to + verb': promise to help, promise to come. Breaking a promise = not keeping your word (considered rude/untrustworthy)."
+        },
+        {
+            "word": "cool",
+            "wordType": "adjective (informal)",
+            "definition": [
+                {
+                    "text": "Excellent, impressive, or "
+                },
+                {
+                    "text": "fun in a relaxed way",
+                    "highlight": true
+                },
+                {
+                    "text": "; something that feels "
+                },
+                {
+                    "text": "good or exciting",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "رائع / ممتع",
+            "synonyms": [
+                "awesome",
+                "great",
+                "sweet"
+            ],
+            "example": [
+                {
+                    "text": "He said I can drive the jeep. Isn't that "
+                },
+                {
+                    "text": "cool",
+                    "colorize": true
+                },
+                {
+                    "text": "?"
+                }
+            ],
+            "tips": "Very common informal adjective among young people. NOT about temperature here. Can also mean 'calm/confident' ('Stay cool under pressure')."
+        },
+        {
+            "word": "Guess what?",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "A conversational phrase used to "
+                },
+                {
+                    "text": "introduce surprising or exciting news",
+                    "highlight": true
+                },
+                {
+                    "text": "; invites the listener to "
+                },
+                {
+                    "text": "show curiosity",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "خمن ماذا؟ / توقّع",
+            "synonyms": [
+                "You won't believe this",
+                "Listen to this"
+            ],
+            "example": [
+                {
+                    "text": ""
+                },
+                {
+                    "text": "Guess what?",
+                    "colorize": true
+                },
+                {
+                    "text": " My dad said I can drive the jeep in the desert!"
+                }
+            ],
+            "tips": "Always followed by exciting/surprising information. Very common in casual speech and informal writing. Creates anticipation."
+        },
+        {
+            "word": "P.S.",
+            "wordType": "abbreviation",
+            "definition": [
+                {
+                    "text": "Stands for 'postscript'; an "
+                },
+                {
+                    "text": "extra message added",
+                    "highlight": true
+                },
+                {
+                    "text": " after the main body of a letter or email, usually "
+                },
+                {
+                    "text": "after the signature",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "تذييل / ما بعد الكتابة",
+            "synonyms": [
+                "postscript",
+                "afterthought"
+            ],
+            "example": [
+                {
+                    "text": "P.S. My teacher complimented me on my English!"
+                }
+            ],
+            "tips": "From Latin 'post scriptum' (written after). Used for afterthoughts, extra details, or lighthearted additions. Still common even in digital communication."
+        },
+        {
+            "word": "desert",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A large, dry area of land with "
+                },
+                {
+                    "text": "little rain and few plants",
+                    "highlight": true
+                },
+                {
+                    "text": "; often covered with "
+                },
+                {
+                    "text": "sand or rocks",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "صحراء",
+            "synonyms": [
+                "arid land",
+                "dry wilderness"
+            ],
+            "example": [
+                {
+                    "text": "We'll drive to the "
+                },
+                {
+                    "text": "desert",
+                    "colorize": true
+                },
+                {
+                    "text": " with my cousins and spend the night there"
+                }
+            ],
+            "tips": "NOT 'dessert' (the sweet food after dinner)! Spelling trick: A desert is dry with one 's'; dessert is sweet with two 's's (you want seconds!)."
+        },
+        {
+            "word": "etc.",
+            "wordType": "abbreviation",
+            "definition": [
+                {
+                    "text": "Short for Latin 'et cetera' meaning "
+                },
+                {
+                    "text": "'and other things'",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "'and so on'",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "إلخ",
+            "synonyms": [
+                "and so on",
+                "and the rest"
+            ],
+            "example": [
+                {
+                    "text": "School, homework, chores, "
+                },
+                {
+                    "text": "etc.",
+                    "colorize": true
+                },
+                {
+                    "text": ""
+                }
+            ],
+            "tips": "Pronounced 'et cetera' (not 'excetera'). Use sparingly in formal writing. Always preceded by a comma. Never start a sentence with etc."
+        }
+    ]
+}

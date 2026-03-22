@@ -1,0 +1,407 @@
+{
+    "unit": 1,
+    "batch": 1,
+    "total_questions_in_batch": 20,
+    "questions": [
+        {
+            "id": 1,
+            "type": "grammar",
+            "question": "Historians usually ___ records of important historical events to preserve them for future generations.",
+            "options": [
+                "keep",
+                "keeps",
+                "are keeping",
+                "kept"
+            ],
+            "correct_answer": "keep",
+            "difficulty": 1,
+            "arabic_hint": "استخدم المضارع البسيط مع الجمع للحقائق العامة",
+            "ui_flags": {
+                "underline": true,
+                "bold": false,
+                "highlight": false,
+                "colorize": false
+            }
+        },
+        {
+            "id": 2,
+            "type": "vocabulary",
+            "question": "The dirty smoke coming from factories contributes significantly to air ___ in major cities.",
+            "options": [
+                "economy",
+                "pollution",
+                "security",
+                "globalization"
+            ],
+            "correct_answer": "pollution",
+            "difficulty": 1,
+            "arabic_hint": "تلوث الهواء ناتج عن الدخان",
+            "ui_flags": {
+                "underline": false,
+                "bold": true,
+                "highlight": false,
+                "colorize": false
+            }
+        },
+        {
+            "id": 3,
+            "type": "grammar",
+            "question": "The king ___ the capital city over a century ago to unify the region.",
+            "options": [
+                "conquers",
+                "is conquering",
+                "conquered",
+                "has conquered"
+            ],
+            "correct_answer": "conquered",
+            "difficulty": 2,
+            "arabic_hint": "استخدم الماضي البسيط مع عبارة وقت محددة في الماضي",
+            "ui_flags": {
+                "underline": true,
+                "bold": false,
+                "highlight": false,
+                "colorize": false
+            }
+        },
+        {
+            "id": 4,
+            "type": "vocabulary",
+            "question": "When many people are able to work and earn money, the rate of ___ decreases.",
+            "options": [
+                "unemployment",
+                "traffic",
+                "fresh water",
+                "diseases"
+            ],
+            "correct_answer": "unemployment",
+            "difficulty": 1,
+            "arabic_hint": "البطالة تقل عندما يجد الناس عملاً",
+            "ui_flags": {
+                "underline": false,
+                "bold": true,
+                "highlight": false,
+                "colorize": false
+            }
+        },
+        {
+            "id": 5,
+            "type": "grammar",
+            "question": "Look at the news feed; the world ___ rapidly nowadays due to technology.",
+            "options": [
+                "changes",
+                "is changing",
+                "changed",
+                "change"
+            ],
+            "correct_answer": "is changing",
+            "difficulty": 2,
+            "arabic_hint": "استخدم المضارع المستمر للتغيرات الحالية",
+            "ui_flags": {
+                "underline": true,
+                "bold": false,
+                "highlight": false,
+                "colorize": false
+            }
+        },
+        {
+            "id": 6,
+            "type": "vocabulary",
+            "question": "Rising temperatures and melting ice caps are serious signs of ___.",
+            "options": [
+                "global warming",
+                "traffic",
+                "economy",
+                "security"
+            ],
+            "correct_answer": "global warming",
+            "difficulty": 1,
+            "arabic_hint": "الاحتباس الحراري يسبب ذوبان الجليد",
+            "ui_flags": {
+                "underline": false,
+                "bold": true,
+                "highlight": false,
+                "colorize": false
+            }
+        },
+        {
+            "id": 7,
+            "type": "grammar",
+            "question": "He usually ___ coffee in the morning, but today he ___ tea instead.",
+            "options": [
+                "drinks / is drinking",
+                "is drinking / drinks",
+                "drank / drank",
+                "drink / is drinking"
+            ],
+            "correct_answer": "drinks / is drinking",
+            "difficulty": 2,
+            "arabic_hint": "العادة تستخدم المضارع البسيط، والوقت الحالي تستخدم المستمر",
+            "ui_flags": {
+                "underline": true,
+                "bold": false,
+                "highlight": false,
+                "colorize": false
+            }
+        },
+        {
+            "id": 8,
+            "type": "vocabulary",
+            "question": "Governments work hard to maintain national ___ and protect citizens from violence.",
+            "options": [
+                "poverty",
+                "security",
+                "pollution",
+                "overpopulation"
+            ],
+            "correct_answer": "security",
+            "difficulty": 1,
+            "arabic_hint": "الأمن يحمي المواطنين من العنف",
+            "ui_flags": {
+                "underline": false,
+                "bold": true,
+                "highlight": false,
+                "colorize": false
+            }
+        },
+        {
+            "id": 9,
+            "type": "grammar",
+            "question": "They ___ a new infrastructure system last decade to support the growing population.",
+            "options": [
+                "build",
+                "are building",
+                "built",
+                "have built"
+            ],
+            "correct_answer": "built",
+            "difficulty": 2,
+            "arabic_hint": "استخدم الماضي البسيط لانتهاء الفعل في الماضي",
+            "ui_flags": {
+                "underline": true,
+                "bold": false,
+                "highlight": false,
+                "colorize": false
+            }
+        },
+        {
+            "id": 10,
+            "type": "vocabulary",
+            "question": "Oil revenues helped develop a thriving ___ in the Gulf region.",
+            "options": [
+                "disease",
+                "economy",
+                "traffic",
+                "disaster"
+            ],
+            "correct_answer": "economy",
+            "difficulty": 1,
+            "arabic_hint": "الاقتصاد يزدهر بسبب عوائد النفط",
+            "ui_flags": {
+                "underline": false,
+                "bold": true,
+                "highlight": false,
+                "colorize": false
+            }
+        },
+        {
+            "id": 11,
+            "type": "grammar",
+            "question": "Water ___ at 100 degrees Celsius; this is a scientific fact.",
+            "options": [
+                "boil",
+                "boils",
+                "is boiling",
+                "boiled"
+            ],
+            "correct_answer": "boils",
+            "difficulty": 1,
+            "arabic_hint": "المضارع البسيط للحقائق العلمية",
+            "ui_flags": {
+                "underline": true,
+                "bold": false,
+                "highlight": false,
+                "colorize": false
+            }
+        },
+        {
+            "id": 12,
+            "type": "vocabulary",
+            "question": "Lack of money for basic needs like food and shelter is known as ___.",
+            "options": [
+                "globalization",
+                "poverty",
+                "security",
+                "economy"
+            ],
+            "correct_answer": "poverty",
+            "difficulty": 1,
+            "arabic_hint": "الفقر هو عدم وجود مال للاحتياجات الأساسية",
+            "ui_flags": {
+                "underline": false,
+                "bold": true,
+                "highlight": false,
+                "colorize": false
+            }
+        },
+        {
+            "id": 13,
+            "type": "grammar",
+            "question": "Please be quiet, I ___ my revision for the unit test right now.",
+            "options": [
+                "do",
+                "did",
+                "am doing",
+                "does"
+            ],
+            "correct_answer": "am doing",
+            "difficulty": 1,
+            "arabic_hint": "استخدم المضارع المستمر مع 'الآن'",
+            "ui_flags": {
+                "underline": true,
+                "bold": false,
+                "highlight": false,
+                "colorize": false
+            }
+        },
+        {
+            "id": 14,
+            "type": "vocabulary",
+            "question": "Too many people living in one city can cause ___ and strain resources.",
+            "options": [
+                "fresh water",
+                "overpopulation",
+                "species",
+                "currency"
+            ],
+            "correct_answer": "overpopulation",
+            "difficulty": 2,
+            "arabic_hint": "الزيادة السكانية تسبب ضغطًا على الموارد",
+            "ui_flags": {
+                "underline": false,
+                "bold": true,
+                "highlight": false,
+                "colorize": false
+            }
+        },
+        {
+            "id": 15,
+            "type": "grammar",
+            "question": "We ___ a documentary about space exploration last night.",
+            "options": [
+                "watch",
+                "are watching",
+                "watched",
+                "have watched"
+            ],
+            "correct_answer": "watched",
+            "difficulty": 1,
+            "arabic_hint": "استخدم الماضي البسيط مع 'last night'",
+            "ui_flags": {
+                "underline": true,
+                "bold": false,
+                "highlight": false,
+                "colorize": false
+            }
+        },
+        {
+            "id": 16,
+            "type": "vocabulary",
+            "question": "Animals that might disappear forever are called ___ species.",
+            "options": [
+                "endangered",
+                "global",
+                "natural",
+                "commercial"
+            ],
+            "correct_answer": "endangered",
+            "difficulty": 2,
+            "arabic_hint": "الأنواع المهددة بالانقراض قد تختفي",
+            "ui_flags": {
+                "underline": false,
+                "bold": true,
+                "highlight": false,
+                "colorize": false
+            }
+        },
+        {
+            "id": 17,
+            "type": "grammar",
+            "question": "She ___ in Riyadh normally, but she ___ in Jeddah this month for work.",
+            "options": [
+                "lives / is staying",
+                "is living / stays",
+                "lived / stayed",
+                "live / are staying"
+            ],
+            "correct_answer": "lives / is staying",
+            "difficulty": 3,
+            "arabic_hint": "الوضع الدائم مضارع بسيط، والمؤقت مضارع مستمر",
+            "ui_flags": {
+                "underline": true,
+                "bold": false,
+                "highlight": false,
+                "colorize": false
+            }
+        },
+        {
+            "id": 18,
+            "type": "vocabulary",
+            "question": "The process of businesses operating internationally is called ___.",
+            "options": [
+                "pollution",
+                "globalization",
+                "terrorism",
+                "poverty"
+            ],
+            "correct_answer": "globalization",
+            "difficulty": 2,
+            "arabic_hint": "العولمة هي عمل الشركات دوليًا",
+            "ui_flags": {
+                "underline": false,
+                "bold": true,
+                "highlight": false,
+                "colorize": false
+            }
+        },
+        {
+            "id": 19,
+            "type": "grammar",
+            "question": "He ___ his keys this morning, so he couldn't enter the house.",
+            "options": [
+                "loses",
+                "is losing",
+                "lost",
+                "has lost"
+            ],
+            "correct_answer": "lost",
+            "difficulty": 2,
+            "arabic_hint": "حدث انتهى في وقت محدد هذا الصباح",
+            "ui_flags": {
+                "underline": true,
+                "bold": false,
+                "highlight": false,
+                "colorize": false
+            }
+        },
+        {
+            "id": 20,
+            "type": "vocabulary",
+            "question": "Earthquakes and floods are examples of ___ that can change lives.",
+            "options": [
+                "natural disasters",
+                "traffic problems",
+                "economic issues",
+                "communication tools"
+            ],
+            "correct_answer": "natural disasters",
+            "difficulty": 1,
+            "arabic_hint": "الزلازل والفيضانات كوارث طبيعية",
+            "ui_flags": {
+                "underline": false,
+                "bold": false,
+                "highlight": true,
+                "colorize": true
+            }
+        }
+    ]
+}

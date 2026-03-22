@@ -1,0 +1,461 @@
+{
+  "unit": "",
+  "type": "misc",
+  "setTitle": "Dream Jobs",
+  "words": [
+    {
+      "word": "sculptor",
+      "wordType": "noun",
+      "definition": [
+        {
+          "text": "An artist who "
+        },
+        {
+          "text": "creates three-dimensional art",
+          "highlight": true
+        },
+        {
+          "text": " by "
+        },
+        {
+          "text": "carving, modeling, or shaping",
+          "highlight2": true
+        },
+        {
+          "text": " materials like clay, stone, metal, or wood"
+        }
+      ],
+      "arabicMeaning": "نحات",
+      "synonyms": [
+        "carver",
+        "modeler",
+        "artist"
+      ],
+      "example": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "sculptor",
+          "colorize": true
+        },
+        {
+          "text": " spent six months creating a life-size bronze statue for the city park"
+        }
+      ],
+      "tips": "The art form is 'sculpture' (noun). Sculptors work in 3D, unlike painters who work in 2D."
+    },
+    {
+      "word": "daily grind",
+      "wordType": "noun phrase (idiom)",
+      "definition": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "boring, repetitive routine",
+          "highlight": true
+        },
+        {
+          "text": " of everyday work or life; the "
+        },
+        {
+          "text": "monotonous tasks",
+          "highlight2": true
+        },
+        {
+          "text": " you do regularly"
+        }
+      ],
+      "arabicMeaning": "الروتين اليومي الممل",
+      "synonyms": [
+        "routine",
+        "monotony",
+        "rat race",
+        "everyday routine"
+      ],
+      "example": [
+        {
+          "text": "After years of the "
+        },
+        {
+          "text": "daily grind",
+          "colorize": true
+        },
+        {
+          "text": " in my office job, I decided to try something more creative"
+        }
+      ],
+      "tips": "'Grind' suggests something repetitive and tiring, like grinding grain. Always negative connotation!"
+    },
+    {
+      "word": "visualization",
+      "wordType": "noun",
+      "definition": [
+        {
+          "text": "The act of "
+        },
+        {
+          "text": "forming mental images",
+          "highlight": true
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "creating visual representations",
+          "highlight2": true
+        },
+        {
+          "text": " of ideas or concepts"
+        }
+      ],
+      "arabicMeaning": "التصور / التخيل البصري",
+      "synonyms": [
+        "mental imaging",
+        "picturing",
+        "conceptualization"
+      ],
+      "example": [
+        {
+          "text": "Designers use "
+        },
+        {
+          "text": "visualization",
+          "colorize": true
+        },
+        {
+          "text": " software to show clients what the final product will look like"
+        }
+      ],
+      "tips": "The verb is 'visualize' = to picture something in your mind. Important skill in design, planning, and creativity."
+    },
+    {
+      "word": "end up",
+      "wordType": "phrasal verb",
+      "definition": [
+        {
+          "text": "To "
+        },
+        {
+          "text": "finally be",
+          "highlight": true
+        },
+        {
+          "text": " in a particular situation or place, often "
+        },
+        {
+          "text": "unexpectedly or unplanned",
+          "highlight2": true
+        }
+      ],
+      "arabicMeaning": "ينتهي به الأمر / يصبح في النهاية",
+      "synonyms": [
+        "finish as",
+        "wind up",
+        "turn out to be"
+      ],
+      "example": [
+        {
+          "text": "I studied biology but "
+        },
+        {
+          "text": "ended up",
+          "colorize": true
+        },
+        {
+          "text": " working as a photographer"
+        }
+      ],
+      "tips": "Often suggests the result was different from the original plan. Can be positive or negative."
+    },
+    {
+      "word": "craft",
+      "wordType": "verb",
+      "definition": [
+        {
+          "text": "To "
+        },
+        {
+          "text": "make or create skillfully",
+          "highlight": true
+        },
+        {
+          "text": " by hand; to produce something with "
+        },
+        {
+          "text": "careful attention and skill",
+          "highlight2": true
+        }
+      ],
+      "arabicMeaning": "يصنع بمهارة / يبدع",
+      "synonyms": [
+        "create skillfully",
+        "shape",
+        "fashion",
+        "construct"
+      ],
+      "example": [
+        {
+          "text": "The artist spends months "
+        },
+        {
+          "text": "crafting",
+          "colorize": true
+        },
+        {
+          "text": " each sculpture from marble"
+        }
+      ],
+      "tips": "As a noun, 'craft' means a skilled trade or handmade work. 'Craft' emphasizes skill and care in making."
+    },
+    {
+      "word": "come off",
+      "wordType": "phrasal verb",
+      "definition": [
+        {
+          "text": "To "
+        },
+        {
+          "text": "leave or emerge from",
+          "highlight": true
+        },
+        {
+          "text": " a place; in manufacturing, to "
+        },
+        {
+          "text": "be produced or completed",
+          "highlight2": true
+        }
+      ],
+      "arabicMeaning": "يخرج من / ينتج",
+      "synonyms": [
+        "emerge from",
+        "be produced",
+        "roll off"
+      ],
+      "example": [
+        {
+          "text": "The latest smartphones "
+        },
+        {
+          "text": "came off",
+          "colorize": true
+        },
+        {
+          "text": " the assembly line this morning"
+        }
+      ],
+      "tips": "In 'come off the showroom floor' = newly produced/available. Can also mean 'succeed' (the plan came off well)."
+    },
+    {
+      "word": "sterile",
+      "wordType": "adjective",
+      "definition": [
+        {
+          "text": "Completely "
+        },
+        {
+          "text": "clean and free from bacteria",
+          "highlight": true
+        },
+        {
+          "text": "; also can mean "
+        },
+        {
+          "text": "lacking warmth or character",
+          "highlight2": true
+        }
+      ],
+      "arabicMeaning": "معقم / خالٍ من الجراثيم",
+      "synonyms": [
+        "sanitized",
+        "germ-free",
+        "antiseptic",
+        "clinical"
+      ],
+      "example": [
+        {
+          "text": "Laboratories maintain "
+        },
+        {
+          "text": "sterile",
+          "colorize": true
+        },
+        {
+          "text": " environments to prevent contamination of experiments"
+        }
+      ],
+      "tips": "Two meanings: (1) medical/scientific - free from germs, (2) metaphorical - cold and unwelcoming (sterile office)."
+    },
+    {
+      "word": "constantly",
+      "wordType": "adverb",
+      "definition": [
+        {
+          "text": "Happening "
+        },
+        {
+          "text": "continuously or very frequently",
+          "highlight": true
+        },
+        {
+          "text": "; "
+        },
+        {
+          "text": "all the time",
+          "highlight2": true
+        },
+        {
+          "text": " without stopping"
+        }
+      ],
+      "arabicMeaning": "باستمرار / دائماً",
+      "synonyms": [
+        "continuously",
+        "always",
+        "perpetually",
+        "ceaselessly"
+      ],
+      "example": [
+        {
+          "text": "She is "
+        },
+        {
+          "text": "constantly",
+          "colorize": true
+        },
+        {
+          "text": " checking her phone for messages"
+        }
+      ],
+      "tips": "The adjective is 'constant' = never stopping. Stronger than 'often' - implies no breaks."
+    },
+    {
+      "word": "portray",
+      "wordType": "verb",
+      "definition": [
+        {
+          "text": "To "
+        },
+        {
+          "text": "represent or depict",
+          "highlight": true
+        },
+        {
+          "text": " something in art, writing, or performance; to "
+        },
+        {
+          "text": "show or describe",
+          "highlight2": true
+        },
+        {
+          "text": " in a particular way"
+        }
+      ],
+      "arabicMeaning": "يصور / يمثل",
+      "synonyms": [
+        "depict",
+        "represent",
+        "illustrate",
+        "show"
+      ],
+      "example": [
+        {
+          "text": "The actor brilliantly "
+        },
+        {
+          "text": "portrayed",
+          "colorize": true
+        },
+        {
+          "text": " the emotions of a father losing his child"
+        }
+      ],
+      "tips": "Common in arts/media. The noun is 'portrayal' = a representation or depiction of something."
+    },
+    {
+      "word": "convincing",
+      "wordType": "adjective",
+      "definition": [
+        {
+          "text": "Able to "
+        },
+        {
+          "text": "make people believe",
+          "highlight": true
+        },
+        {
+          "text": " something is true or real; "
+        },
+        {
+          "text": "believable and persuasive",
+          "highlight2": true
+        }
+      ],
+      "arabicMeaning": "مقنع",
+      "synonyms": [
+        "believable",
+        "persuasive",
+        "credible",
+        "plausible"
+      ],
+      "example": [
+        {
+          "text": "The special effects were so "
+        },
+        {
+          "text": "convincing",
+          "colorize": true
+        },
+        {
+          "text": " that the audience believed the dinosaurs were real"
+        }
+      ],
+      "tips": "The verb is 'convince' = to persuade someone. A convincing performance makes you believe it's real."
+    },
+    {
+      "word": "crucial",
+      "wordType": "adjective",
+      "definition": [
+        {
+          "text": "Extremely "
+        },
+        {
+          "text": "important or essential",
+          "highlight": true
+        },
+        {
+          "text": "; "
+        },
+        {
+          "text": "absolutely necessary",
+          "highlight2": true
+        },
+        {
+          "text": " for success"
+        }
+      ],
+      "arabicMeaning": "حاسم / بالغ الأهمية",
+      "synonyms": [
+        "essential",
+        "critical",
+        "vital",
+        "key"
+      ],
+      "example": [
+        {
+          "text": "Good communication skills are "
+        },
+        {
+          "text": "crucial",
+          "colorize": true
+        },
+        {
+          "text": " for anyone working in customer service"
+        }
+      ],
+      "tips": "Stronger than 'important' - suggests something cannot succeed without this element. Very common in academic/professional contexts."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "affinity-english",
+    "private": true,
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "vite --port 8080",
+        "build": "vite build",
+        "preview": "vite preview",
+        "test": "vitest run",
+        "test:ui": "vitest --ui",
+        "test:coverage": "vitest run --coverage",
+        "test:e2e": "playwright test",
+        "test:e2e:ui": "playwright test --ui"
+    },
+    "dependencies": {
+        "@supabase/supabase-js": "^2.99.2",
+        "crypto-js": "^4.2.0",
+        "framer-motion": "^10.16.4",
+        "html2canvas": "^1.4.1",
+        "jspdf": "^4.2.0",
+        "jspdf-autotable": "^5.0.7",
+        "jszip": "^3.10.1",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    },
+    "devDependencies": {
+        "@playwright/test": "^1.58.2",
+        "@testing-library/dom": "^10.4.1",
+        "@testing-library/jest-dom": "^6.9.1",
+        "@testing-library/react": "^16.3.2",
+        "@vitejs/plugin-react": "^4.2.0",
+        "@vitest/coverage-v8": "^4.1.0",
+        "@vitest/ui": "^4.1.0",
+        "happy-dom": "^20.8.4",
+        "jsdom": "^29.0.0",
+        "vite": "^5.0.0",
+        "vitest": "^4.1.0"
+    }
+}

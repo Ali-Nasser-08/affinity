@@ -1,0 +1,468 @@
+{
+    "unit": "Mega Goal 1 - Unit 8: Wishful Thinking",
+    "type": "misc",
+    "setTitle": "Miscellaneous",
+    "words": [
+        {
+            "word": "however",
+            "wordType": "conjunction/adverb",
+            "definition": [
+                {
+                    "text": "Used to introduce a "
+                },
+                {
+                    "text": "contrast or opposite idea",
+                    "highlight": true
+                },
+                {
+                    "text": "; shows that what follows "
+                },
+                {
+                    "text": "contradicts the previous statement",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مع ذلك / ولكن",
+            "synonyms": [
+                "but",
+                "nevertheless",
+                "on the other hand"
+            ],
+            "example": [
+                {
+                    "text": "The apartment has a beautiful view; "
+                },
+                {
+                    "text": "however",
+                    "colorize": true
+                },
+                {
+                    "text": ", the rent is far too expensive for my budget"
+                }
+            ],
+            "tips": "More formal than 'but'. Usually set off with commas or semicolons. Never start a sentence with 'but' in formal writing—use 'however' instead."
+        },
+        {
+            "word": "pollution",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Harmful substances that "
+                },
+                {
+                    "text": "contaminate the environment",
+                    "highlight": true
+                },
+                {
+                    "text": ", especially air, water, or "
+                },
+                {
+                    "text": "land",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "تلوث",
+            "synonyms": [
+                "contamination",
+                "environmental damage"
+            ],
+            "example": [
+                {
+                    "text": "Heavy "
+                },
+                {
+                    "text": "pollution",
+                    "colorize": true
+                },
+                {
+                    "text": " from factories has made the river unsafe for swimming"
+                }
+            ],
+            "tips": "Often specified by type: air pollution, water pollution, noise pollution. Verb form: pollute. Adjective: polluted."
+        },
+        {
+            "word": "garbage",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Unwanted waste material that is "
+                },
+                {
+                    "text": "thrown away",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "rubbish or trash",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "قمامة / نفايات",
+            "synonyms": [
+                "trash (American)",
+                "rubbish (British)",
+                "waste"
+            ],
+            "example": [
+                {
+                    "text": "Please take the kitchen "
+                },
+                {
+                    "text": "garbage",
+                    "colorize": true
+                },
+                {
+                    "text": " outside before it starts to smell"
+                }
+            ],
+            "tips": "American English prefers 'garbage' or 'trash'; British English uses 'rubbish'. 'Litter' = garbage carelessly dropped in public places (not in bins)."
+        },
+        {
+            "word": "recycling facilities",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "Places or systems designed to "
+                },
+                {
+                    "text": "process used materials",
+                    "highlight": true
+                },
+                {
+                    "text": " so they can be "
+                },
+                {
+                    "text": "made into new products",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مرافق إعادة التدوير",
+            "synonyms": [
+                "recycling centers",
+                "recycling programs"
+            ],
+            "example": [
+                {
+                    "text": "Our neighborhood finally built modern "
+                },
+                {
+                    "text": "recycling facilities",
+                    "colorize": true
+                },
+                {
+                    "text": " where we can separate paper, plastic, and glass"
+                }
+            ],
+            "tips": "'Facilities' is plural even when referring to one location. Recycling reduces landfill waste and conserves natural resources."
+        },
+        {
+            "word": "public transportation",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "Shared vehicles like buses, trains, or trams that "
+                },
+                {
+                    "text": "carry many people",
+                    "highlight": true
+                },
+                {
+                    "text": " along fixed routes for a "
+                },
+                {
+                    "text": "small fare",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "وسائل النقل العام",
+            "synonyms": [
+                "public transit",
+                "mass transit"
+            ],
+            "example": [
+                {
+                    "text": "Using "
+                },
+                {
+                    "text": "public transportation",
+                    "colorize": true
+                },
+                {
+                    "text": " instead of driving alone helps reduce traffic congestion"
+                }
+            ],
+            "tips": "British spelling: 'transport'. American spelling: 'transportation'. Never 'public transportations' (uncountable noun)."
+        },
+        {
+            "word": "subway system",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "An underground railway network that moves people "
+                },
+                {
+                    "text": "quickly beneath a city",
+                    "highlight": true
+                },
+                {
+                    "text": "; called "
+                },
+                {
+                    "text": "'the Tube' in London",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "نظام المترو",
+            "synonyms": [
+                "underground railway",
+                "metro system"
+            ],
+            "example": [
+                {
+                    "text": "Tokyo's efficient "
+                },
+                {
+                    "text": "subway system",
+                    "colorize": true
+                },
+                {
+                    "text": " carries over eight million passengers every single day"
+                }
+            ],
+            "tips": "American English: subway. British English: underground or Tube. Not the same as 'subway' the sandwich chain!"
+        },
+        {
+            "word": "downtown",
+            "wordType": "noun/adverb",
+            "definition": [
+                {
+                    "text": "The central, usually busiest part of a "
+                },
+                {
+                    "text": "city where businesses",
+                    "highlight": true
+                },
+                {
+                    "text": " and shops are located; the "
+                },
+                {
+                    "text": "city center",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "وسط المدينة",
+            "synonyms": [
+                "city center",
+                "central business district"
+            ],
+            "example": [
+                {
+                    "text": "Let's meet "
+                },
+                {
+                    "text": "downtown",
+                    "colorize": true
+                },
+                {
+                    "text": " near the main square at 3 p.m."
+                }
+            ],
+            "tips": "American English term. British English uses 'city centre'. Can be noun ('I work downtown') or adverb ('Let's go downtown')."
+        },
+        {
+            "word": "complain",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To express "
+                },
+                {
+                    "text": "dissatisfaction or annoyance",
+                    "highlight": true
+                },
+                {
+                    "text": " about something; to "
+                },
+                {
+                    "text": "say negative things",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يَشتكي",
+            "synonyms": [
+                "grumble",
+                "protest",
+                "object"
+            ],
+            "example": [
+                {
+                    "text": "My neighbor constantly "
+                },
+                {
+                    "text": "complains",
+                    "colorize": true
+                },
+                {
+                    "text": " about the noise even when we're just talking quietly"
+                }
+            ],
+            "tips": "Pattern: complain about + noun/gerund ('complain about the noise'). NOT 'complain of' (archaic/formal medical usage only). Noun form: complaint."
+        },
+        {
+            "word": "nowhere",
+            "wordType": "adverb",
+            "definition": [
+                {
+                    "text": "Not in or to "
+                },
+                {
+                    "text": "any place",
+                    "highlight": true
+                },
+                {
+                    "text": "; the opposite of "
+                },
+                {
+                    "text": "'everywhere'",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "لا مكان / ليس في أي مكان",
+            "synonyms": [
+                "not anywhere",
+                "no place"
+            ],
+            "example": [
+                {
+                    "text": "I've looked "
+                },
+                {
+                    "text": "nowhere",
+                    "colorize": true
+                },
+                {
+                    "text": " else for my keys—they've completely disappeared!"
+                }
+            ],
+            "tips": "Always one word (not 'no where'). Used with 'there is/are': 'There is nowhere to park.' NOT used with 'not': 'I didn't go nowhere' ❌ (double negative)."
+        },
+        {
+            "word": "I suppose",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Used to express "
+                },
+                {
+                    "text": "reluctant agreement",
+                    "highlight": true
+                },
+                {
+                    "text": " or a "
+                },
+                {
+                    "text": "weakly held opinion",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "أفترض / على ما أظن (بتردد)",
+            "synonyms": [
+                "I guess",
+                "I assume",
+                "probably"
+            ],
+            "example": [
+                {
+                    "text": "\"Do we have to attend the meeting?\" \""
+                },
+                {
+                    "text": "I suppose",
+                    "colorize": true
+                },
+                {
+                    "text": " so—it's probably required.\""
+                }
+            ],
+            "tips": "Shows hesitation or lack of enthusiasm. More formal than 'I guess'. Often used when accepting something you don't really want to accept."
+        },
+        {
+            "word": "traffic",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Vehicles moving along roads; "
+                },
+                {
+                    "text": "congestion caused by too many cars",
+                    "highlight": true
+                },
+                {
+                    "text": " in one area at the same "
+                },
+                {
+                    "text": "time",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ازدحام مروري / حركة السير",
+            "synonyms": [
+                "congestion",
+                "gridlock",
+                "heavy flow of vehicles"
+            ],
+            "example": [
+                {
+                    "text": "Friday evening "
+                },
+                {
+                    "text": "traffic",
+                    "colorize": true
+                },
+                {
+                    "text": " on the highway was so bad we arrived two hours late"
+                }
+            ],
+            "tips": "Uncountable noun—never 'traffics'. Adjective form: 'heavy traffic', 'light traffic'. NOT related to illegal trade (that's a different meaning of 'traffic')."
+        },
+        {
+            "word": "wish + past perfect",
+            "wordType": "grammar pattern",
+            "definition": [
+                {
+                    "text": "Used to express "
+                },
+                {
+                    "text": "regret about the past",
+                    "highlight": true
+                },
+                {
+                    "text": "; describes something you "
+                },
+                {
+                    "text": "want to change but cannot",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "التمني عن الماضي (أتمنى لو...)",
+            "synonyms": [
+                "regret pattern",
+                "past unreal conditional"
+            ],
+            "example": [
+                {
+                    "text": "I "
+                },
+                {
+                    "text": "wish I hadn't eaten",
+                    "colorize": true
+                },
+                {
+                    "text": " so much cake—I feel sick now"
+                }
+            ],
+            "tips": "Structure: wish + subject + had + past participle. Shows the action already happened and cannot be undone. Different from 'wish + past simple' (present/future regrets)."
+        }
+    ]
+}

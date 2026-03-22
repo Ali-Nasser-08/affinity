@@ -1,0 +1,548 @@
+{
+    "unit": "Mega Goal 1 - Unit 11: Life's Regrets",
+    "type": "misc",
+    "setTitle": "Miscellaneous",
+    "words": [
+        {
+            "word": "should have",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Used to express regret about something you "
+                },
+                {
+                    "text": "did not do",
+                    "highlight": true
+                },
+                {
+                    "text": " in the past but "
+                },
+                {
+                    "text": "wish you had done",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "كان يجب أن (في الماضي)",
+            "synonyms": [
+                "ought to have",
+                "it would have been better to"
+            ],
+            "example": [
+                {
+                    "text": "I "
+                },
+                {
+                    "text": "should have",
+                    "colorize": true
+                },
+                {
+                    "text": " studied harder for that exam instead of watching movies all night"
+                }
+            ],
+            "tips": "Always followed by past participle (should have studied, should have gone). Shows personal regret about a missed opportunity or wrong choice."
+        },
+        {
+            "word": "shouldn't have",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Used to express regret about something you "
+                },
+                {
+                    "text": "did in the past",
+                    "highlight": true
+                },
+                {
+                    "text": " but now "
+                },
+                {
+                    "text": "wish you hadn't done",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "كان يجب ألاّ (في الماضي)",
+            "synonyms": [
+                "ought not to have",
+                "it would have been better not to"
+            ],
+            "example": [
+                {
+                    "text": "I "
+                },
+                {
+                    "text": "shouldn't have",
+                    "colorize": true
+                },
+                {
+                    "text": " eaten that third piece of cake—I've had a stomachache all evening"
+                }
+            ],
+            "tips": "Shows regret about an action you took. Contraction: shouldn't have (never 'shouldn't of'—a common error)."
+        },
+        {
+            "word": "lend",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To give something temporarily to someone else with the expectation that they will "
+                },
+                {
+                    "text": "return it later",
+                    "highlight": true
+                },
+                {
+                    "text": "; the opposite of "
+                },
+                {
+                    "text": "'borrow'",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُقرض / يُعير",
+            "synonyms": [
+                "loan (verb)",
+                "give temporarily"
+            ],
+            "example": [
+                {
+                    "text": "My neighbor "
+                },
+                {
+                    "text": "lent",
+                    "colorize": true
+                },
+                {
+                    "text": " me her ladder so I could fix the gutter on my roof"
+                }
+            ],
+            "tips": "CRUCIAL distinction: YOU lend TO someone (you give). YOU borrow FROM someone (you receive). 'Can you lend me money?' ✅ NOT 'Can you borrow me money?' ❌"
+        },
+        {
+            "word": "pay back",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To return money that you "
+                },
+                {
+                    "text": "borrowed from someone",
+                    "highlight": true
+                },
+                {
+                    "text": "; to "
+                },
+                {
+                    "text": "repay a debt",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُعيد المال / يسدّد",
+            "synonyms": [
+                "repay",
+                "return the money"
+            ],
+            "example": [
+                {
+                    "text": "I "
+                },
+                {
+                    "text": "paid back",
+                    "colorize": true
+                },
+                {
+                    "text": " the $50 my sister lent me as soon as I got my paycheck"
+                }
+            ],
+            "tips": "Separable phrasal verb: 'pay me back' or 'pay back the money'. Not the same as 'pay off' (to completely eliminate a large debt like a mortgage)."
+        },
+        {
+            "word": "lock oneself out",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To accidentally close and lock a door behind you while "
+                },
+                {
+                    "text": "outside",
+                    "highlight": true
+                },
+                {
+                    "text": ", leaving yourself unable to "
+                },
+                {
+                    "text": "get back inside",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُغلق الباب على نفسه خارج المنزل",
+            "synonyms": [
+                "get locked out",
+                "shut oneself out"
+            ],
+            "example": [
+                {
+                    "text": "She "
+                },
+                {
+                    "text": "locked herself out",
+                    "colorize": true
+                },
+                {
+                    "text": " of her apartment while taking out the trash and had to call her landlord at midnight"
+                }
+            ],
+            "tips": "Common embarrassing situation! 'Lock someone out' = prevent them from entering (intentional or accidental). Reflexive form 'lock oneself out' emphasizes it was your own mistake."
+        },
+        {
+            "word": "pajamas",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Loose-fitting clothes worn for "
+                },
+                {
+                    "text": "sleeping",
+                    "highlight": true
+                },
+                {
+                    "text": " or relaxing at "
+                },
+                {
+                    "text": "home",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "بيجاما / ملابس نوم",
+            "synonyms": [
+                "sleepwear",
+                "nightclothes"
+            ],
+            "example": [
+                {
+                    "text": "He was still in his comfortable cotton "
+                },
+                {
+                    "text": "pajamas",
+                    "colorize": true
+                },
+                {
+                    "text": " when the doorbell rang at 8 a.m."
+                }
+            ],
+            "tips": "Always plural in form (even for one set). American spelling: pajamas. British spelling: pyjamas. Never 'pajama' as singular noun (though 'pajama pants' is acceptable for just the bottom part)."
+        },
+        {
+            "word": "dent",
+            "wordType": "noun/verb",
+            "definition": [
+                {
+                    "text": "A small hollow or depression made by impact on a hard surface like metal, without "
+                },
+                {
+                    "text": "breaking through",
+                    "highlight": true
+                },
+                {
+                    "text": "; also the verb meaning to "
+                },
+                {
+                    "text": "create such a mark",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "خدش / انبعاج (في المعدن)",
+            "synonyms": [
+                "ding",
+                "depression"
+            ],
+            "example": [
+                {
+                    "text": "He accidentally backed his car into a shopping cart and left a small "
+                },
+                {
+                    "text": "dent",
+                    "colorize": true
+                },
+                {
+                    "text": " on the rear door"
+                }
+            ],
+            "tips": "Common car damage. Different from 'scratch' (surface mark) or 'crack' (split that goes through material). Verb: 'to dent the fender'."
+        },
+        {
+            "word": "parking lot",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "An outdoor area designated for "
+                },
+                {
+                    "text": "leaving vehicles temporarily",
+                    "highlight": true
+                },
+                {
+                    "text": " while people shop, work, or "
+                },
+                {
+                    "text": "visit a location",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مكان انتظار السيارات",
+            "synonyms": [
+                "car park (British)",
+                "parking area"
+            ],
+            "example": [
+                {
+                    "text": "We circled the mall's "
+                },
+                {
+                    "text": "parking lot",
+                    "colorize": true
+                },
+                {
+                    "text": " three times before finally finding an empty space near the entrance"
+                }
+            ],
+            "tips": "American English: parking lot. British English: car park. Not the same as 'parking garage' (multi-level covered structure) or 'driveway' (private home access)."
+        },
+        {
+            "word": "wallet",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A small folding case, usually made of leather, used to carry "
+                },
+                {
+                    "text": "cash, credit cards",
+                    "highlight": true
+                },
+                {
+                    "text": ", and "
+                },
+                {
+                    "text": "identification",
+                    "highlight2": true
+                },
+                {
+                    "text": " in a pocket"
+                }
+            ],
+            "arabicMeaning": "محفظة نقود",
+            "synonyms": [
+                "billfold (American)",
+                "purse (for men—British)"
+            ],
+            "example": [
+                {
+                    "text": "He patted his back pocket in panic when he realized he'd left his "
+                },
+                {
+                    "text": "wallet",
+                    "colorize": true
+                },
+                {
+                    "text": " at the restaurant"
+                }
+            ],
+            "tips": "Men typically carry wallets in pockets; women often carry purses/handbags (which may contain a smaller wallet inside). NOT the same as 'purse' in American English (which means handbag)."
+        },
+        {
+            "word": "garbage",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Unwanted waste material that is "
+                },
+                {
+                    "text": "thrown away",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "rubbish or trash",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "قمامة / نفايات",
+            "synonyms": [
+                "trash (American)",
+                "rubbish (British)",
+                "waste"
+            ],
+            "example": [
+                {
+                    "text": "Don't forget to take the kitchen "
+                },
+                {
+                    "text": "garbage",
+                    "colorize": true
+                },
+                {
+                    "text": " outside before it starts to smell in the heat"
+                }
+            ],
+            "tips": "American English prefers 'garbage' or 'trash'; British English uses 'rubbish'. 'Litter' = garbage carelessly dropped in public places (not in bins)."
+        },
+        {
+            "word": "rush",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To move or act with "
+                },
+                {
+                    "text": "great speed and urgency",
+                    "highlight": true
+                },
+                {
+                    "text": ", often without "
+                },
+                {
+                    "text": "careful thought",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يَهرع / يَعْجَل",
+            "synonyms": [
+                "hurry",
+                "dash",
+                "race"
+            ],
+            "example": [
+                {
+                    "text": "She had to "
+                },
+                {
+                    "text": "rush",
+                    "colorize": true
+                },
+                {
+                    "text": " to catch the last train home after her meeting ran late"
+                }
+            ],
+            "tips": "Often implies careless haste that leads to mistakes ('He rushed his homework and made many errors'). Noun form: a rush (sudden movement) or rush hour (busy traffic time)."
+        },
+        {
+            "word": "realize",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To become fully aware of something suddenly; to "
+                },
+                {
+                    "text": "understand a fact",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "situation clearly",
+                    "highlight2": true
+                },
+                {
+                    "text": " for the first time"
+                }
+            ],
+            "arabicMeaning": "يُدرك / يتفطّن",
+            "synonyms": [
+                "become aware of",
+                "recognize",
+                "understand suddenly"
+            ],
+            "example": [
+                {
+                    "text": "Halfway through his speech, he suddenly "
+                },
+                {
+                    "text": "realized",
+                    "colorize": true
+                },
+                {
+                    "text": " he was reading from the wrong notes"
+                }
+            ],
+            "tips": "American spelling: realize. British spelling: realise. NOT 'realize' meaning 'make real' (that's a different, rare meaning). Common error: 'I didn't realize' (correct) vs. 'I didn't realized' (incorrect)."
+        },
+        {
+            "word": "fancy restaurant",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "An elegant, expensive dining establishment with "
+                },
+                {
+                    "text": "formal atmosphere",
+                    "highlight": true
+                },
+                {
+                    "text": ", high-quality food, and "
+                },
+                {
+                    "text": "higher prices",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مطعم فاخر",
+            "synonyms": [
+                "upscale restaurant",
+                "fine dining establishment"
+            ],
+            "example": [
+                {
+                    "text": "They celebrated their anniversary at a "
+                },
+                {
+                    "text": "fancy restaurant",
+                    "colorize": true
+                },
+                {
+                    "text": " where the waiter wore a tuxedo and each course arrived on porcelain plates"
+                }
+            ],
+            "tips": "British English uses 'fancy' more commonly than American English for this meaning. Americans might say 'nice restaurant' or 'upscale place'. Opposite: casual diner, fast food place."
+        },
+        {
+            "word": "check",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "In American English: the paper slip showing the "
+                },
+                {
+                    "text": "total amount owed",
+                    "highlight": true
+                },
+                {
+                    "text": " for food and drinks at a "
+                },
+                {
+                    "text": "restaurant",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "فاتورة المطعم",
+            "synonyms": [
+                "bill (British/American)",
+                "tab"
+            ],
+            "example": [
+                {
+                    "text": "After finishing dessert, she signaled to the waiter that they were ready for the "
+                },
+                {
+                    "text": "check",
+                    "colorize": true
+                },
+                {
+                    "text": ""
+                }
+            ],
+            "tips": "American English: 'check'. British English: 'bill'. NEVER say 'bill' in American restaurants (technically understood but sounds foreign). Verb form: 'to check' has many unrelated meanings (examine, verify)."
+        }
+    ]
+}

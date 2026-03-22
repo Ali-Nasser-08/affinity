@@ -1,0 +1,1660 @@
+{
+    "unit": "Mega Goal 1",
+    "lesson": "Unit 7",
+    "type": "Form, Meaning, and Function",
+    "clusters": [
+        {
+            "clusterId": "cluster-1",
+            "title": "Prepositions Followed by Gerunds",
+            "cards": [
+                {
+                    "id": "card-1",
+                    "content": [
+                        {
+                            "text": "Prepositions Followed by Gerunds",
+                            "highlight": true
+                        },
+                        {
+                            "text": "حروف الجر يتبعها المصدر المؤول"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-2",
+                    "content": [
+                        {
+                            "text": "Prepositions can be followed by three types of objects: "
+                        },
+                        {
+                            "text": "nouns",
+                            "colorize": true
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "pronouns",
+                            "colorize": true
+                        },
+                        {
+                            "text": ", or "
+                        },
+                        {
+                            "text": "gerunds",
+                            "colorize": true
+                        },
+                        {
+                            "text": " (verb + -ing)"
+                        },
+                        {
+                            "text": "يمكن أن يتبع حروف الجر ثلاثة أنواع من المفعول به: "
+                        },
+                        {
+                            "text": "أسماء",
+                            "colorize": true
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "ضمائر",
+                            "colorize": true
+                        },
+                        {
+                            "text": "، أو "
+                        },
+                        {
+                            "text": "مصدر مؤول",
+                            "colorize": true
+                        },
+                        {
+                            "text": " (فعل + ing-)"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-3",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "He apologized to "
+                        },
+                        {
+                            "text": "Dr. Ahmed",
+                            "colorize": true
+                        },
+                        {
+                            "text": " (noun)"
+                        },
+                        {
+                            "text": "اعتذر لـ"
+                        },
+                        {
+                            "text": "الدكتور أحمد",
+                            "colorize": true
+                        },
+                        {
+                            "text": " (اسم)"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-4",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "She apologized to "
+                        },
+                        {
+                            "text": "him",
+                            "colorize": true
+                        },
+                        {
+                            "text": " (pronoun)"
+                        },
+                        {
+                            "text": "اعتذرت لـ"
+                        },
+                        {
+                            "text": "هو",
+                            "colorize": true
+                        },
+                        {
+                            "text": " (ضمير)"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-5",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "They apologized for "
+                        },
+                        {
+                            "text": "arriving",
+                            "colorize": true
+                        },
+                        {
+                            "text": " late (gerund)"
+                        },
+                        {
+                            "text": "اعتذروا عن "
+                        },
+                        {
+                            "text": "الوصول",
+                            "colorize": true
+                        },
+                        {
+                            "text": " المتأخر (مصدر مؤول)"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-6",
+                    "content": [
+                        {
+                            "text": "Many common verbs are "
+                        },
+                        {
+                            "text": "typically paired",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " with specific prepositions before a gerund"
+                        },
+                        {
+                            "text": "العديد من الأفعال الشائعة "
+                        },
+                        {
+                            "text": "تُقترن عادة",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " بحروف جر محددة قبل المصدر المؤول"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-7",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "Verb",
+                            "badge": true,
+                            "translation": "فعل"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "preposition",
+                            "badge2": true,
+                            "translation": "حرف جر"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "gerund (-ing)",
+                            "badge3": true,
+                            "translation": "مصدر مؤول"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-8",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "She "
+                        },
+                        {
+                            "text": "apologized for",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "missing",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " the meeting"
+                        },
+                        {
+                            "text": "اعتذرت عن "
+                        },
+                        {
+                            "text": "تغيبها",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " عن الاجتماع"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-9",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "We "
+                        },
+                        {
+                            "text": "look forward to",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "visiting",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " our family in Jeddah"
+                        },
+                        {
+                            "text": "نتطلع إلى "
+                        },
+                        {
+                            "text": "زيارة",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " عائلتنا في جدة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-10",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "He "
+                        },
+                        {
+                            "text": "insists on",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "finishing",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " the project today"
+                        },
+                        {
+                            "text": "يصر على "
+                        },
+                        {
+                            "text": "إنهاء",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " المشروع اليوم"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-11",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "They "
+                        },
+                        {
+                            "text": "succeeded in",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "passing",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " the difficult exam"
+                        },
+                        {
+                            "text": "نجحوا في "
+                        },
+                        {
+                            "text": "اجتياز",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " الامتحان الصعب"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-12",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Layla "
+                        },
+                        {
+                            "text": "decided against",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "changing",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " her major"
+                        },
+                        {
+                            "text": "قررت ليلى "
+                        },
+                        {
+                            "text": "عدم تغيير",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " تخصصها"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-13",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "I "
+                        },
+                        {
+                            "text": "asked about",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "applying",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " for the scholarship"
+                        },
+                        {
+                            "text": "سألت عن "
+                        },
+                        {
+                            "text": "التقديم",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " للمنحة الدراسية"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-2",
+            "title": "Adjectives + Prepositions + Gerunds",
+            "cards": [
+                {
+                    "id": "card-14",
+                    "content": [
+                        {
+                            "text": "Adjectives Followed by Prepositions and Gerunds",
+                            "highlight": true
+                        },
+                        {
+                            "text": "الصفات يتبعها حرف جر ومصدر مؤول"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-15",
+                    "content": [
+                        {
+                            "text": "Certain adjectives express feelings or states that naturally connect to actions using "
+                        },
+                        {
+                            "text": "preposition + gerund",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "بعض الصفات تعبر عن مشاعر أو حالات ترتبط طبيعياً بالأفعال باستخدام "
+                        },
+                        {
+                            "text": "حرف جر + مصدر مؤول",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-16",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "Subject",
+                            "badge": true,
+                            "translation": "فاعل"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "be + adjective",
+                            "badge2": true,
+                            "translation": "يكون + صفة"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "preposition + gerund",
+                            "badge3": true,
+                            "translation": "حرف جر + مصدر مؤول"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-17",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "I'm "
+                        },
+                        {
+                            "text": "tired of",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "waiting",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " in long lines"
+                        },
+                        {
+                            "text": "أنا "
+                        },
+                        {
+                            "text": "متعب من",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "الانتظار",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " في طوابير طويلة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-18",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "She's "
+                        },
+                        {
+                            "text": "afraid of",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "flying",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " on airplanes"
+                        },
+                        {
+                            "text": "هي "
+                        },
+                        {
+                            "text": "خائفة من",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "السفر جواً",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-19",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "He's "
+                        },
+                        {
+                            "text": "interested in",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "learning",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " Arabic calligraphy"
+                        },
+                        {
+                            "text": "هو "
+                        },
+                        {
+                            "text": "مهتم بـ",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "تعلم",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " الخط العربي"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-20",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "We're "
+                        },
+                        {
+                            "text": "excited about",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "traveling",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " to Morocco next month"
+                        },
+                        {
+                            "text": "نحن "
+                        },
+                        {
+                            "text": "متحمسون لـ",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "السفر",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " إلى المغرب الشهر القادم"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-21",
+                    "content": [
+                        {
+                            "text": "Note:",
+                            "highlight": true
+                        },
+                        {
+                            "text": " The phrase "
+                        },
+                        {
+                            "text": "'be used to'",
+                            "colorize": true
+                        },
+                        {
+                            "text": " means 'be accustomed to' and is followed by a noun or gerund"
+                        },
+                        {
+                            "text": "ملاحظة: العبارة "
+                        },
+                        {
+                            "text": "'be used to'",
+                            "colorize": true
+                        },
+                        {
+                            "text": " تعني 'يتعود على' وتتبع باسم أو مصدر مؤول"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-22",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "I'm "
+                        },
+                        {
+                            "text": "used to",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "drinking",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " Arabic coffee every morning"
+                        },
+                        {
+                            "text": "أنا "
+                        },
+                        {
+                            "text": "متعود على",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "شرب",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " القهوة العربية كل صباح"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-3",
+            "title": "Although, Even Though, In Spite Of",
+            "cards": [
+                {
+                    "id": "card-23",
+                    "content": [
+                        {
+                            "text": "Although, Even Though, and In Spite Of",
+                            "highlight": true
+                        },
+                        {
+                            "text": "Although و Even Though و In Spite Of"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-24",
+                    "content": [
+                        {
+                            "text": "These expressions show "
+                        },
+                        {
+                            "text": "contrast or unexpected results",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " between two ideas"
+                        },
+                        {
+                            "text": "هذه التعبيرات تُظهر "
+                        },
+                        {
+                            "text": "التباين أو النتائج غير المتوقعة",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " بين فكرتين"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-25",
+                    "content": [
+                        {
+                            "text": "Although",
+                            "colorize": true
+                        },
+                        {
+                            "text": " and "
+                        },
+                        {
+                            "text": "even though",
+                            "colorize": true
+                        },
+                        {
+                            "text": " are followed by a "
+                        },
+                        {
+                            "text": "complete clause",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " (subject + verb)"
+                        },
+                        {
+                            "text": "Although",
+                            "colorize": true
+                        },
+                        {
+                            "text": " و "
+                        },
+                        {
+                            "text": "even though",
+                            "colorize": true
+                        },
+                        {
+                            "text": " يتبعان "
+                        },
+                        {
+                            "text": "جملة كاملة",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " (فاعل + فعل)"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-26",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "Although / Even though",
+                            "badge": true,
+                            "translation": "رغم أن"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "subject + verb",
+                            "badge2": true,
+                            "translation": "فاعل + فعل"
+                        },
+                        {
+                            "text": " + main clause"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-27",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Although",
+                            "colorize": true
+                        },
+                        {
+                            "text": " it was raining heavily, we "
+                        },
+                        {
+                            "text": "enjoyed",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " our picnic in the park"
+                        },
+                        {
+                            "text": "رغم أن",
+                            "colorize": true
+                        },
+                        {
+                            "text": " المطر كان غزيراً، "
+                        },
+                        {
+                            "text": "استمتعنا",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " بنزهتنا في الحديقة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-28",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "She went to work "
+                        },
+                        {
+                            "text": "even though",
+                            "colorize": true
+                        },
+                        {
+                            "text": " she "
+                        },
+                        {
+                            "text": "felt",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " sick"
+                        },
+                        {
+                            "text": "ذهبت إلى العمل "
+                        },
+                        {
+                            "text": "رغم أنها",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "شعرت",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " بالمرض"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-29",
+                    "content": [
+                        {
+                            "text": "In spite of",
+                            "colorize": true
+                        },
+                        {
+                            "text": " (and "
+                        },
+                        {
+                            "text": "despite",
+                            "colorize": true
+                        },
+                        {
+                            "text": ") are followed by a "
+                        },
+                        {
+                            "text": "noun or gerund",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " فقط"
+                        },
+                        {
+                            "text": "In spite of",
+                            "colorize": true
+                        },
+                        {
+                            "text": " (و"
+                        },
+                        {
+                            "text": "despite",
+                            "colorize": true
+                        },
+                        {
+                            "text": ") يتبعان "
+                        },
+                        {
+                            "text": "اسماً أو مصدراً مؤول",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " فقط"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-30",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "In spite of / Despite",
+                            "badge": true,
+                            "translation": "رغم"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "noun / gerund",
+                            "badge2": true,
+                            "translation": "اسم / مصدر مؤول"
+                        },
+                        {
+                            "text": " + main clause"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-31",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "In spite of",
+                            "colorize": true
+                        },
+                        {
+                            "text": " the heavy "
+                        },
+                        {
+                            "text": "traffic",
+                            "colorize2": true
+                        },
+                        {
+                            "text": ", he arrived at the mosque on time for prayer"
+                        },
+                        {
+                            "text": "رغم",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "الازدحام المروري",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " الشديد، وصل إلى المسجد في الوقت المحدد للصلاة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-32",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "She completed her degree "
+                        },
+                        {
+                            "text": "in spite of",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "working",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " full-time"
+                        },
+                        {
+                            "text": "أكملت دراستها "
+                        },
+                        {
+                            "text": "رغم",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "عملها",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " بدوام كامل"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-4",
+            "title": "Time Conjunctions: Present for Future",
+            "cards": [
+                {
+                    "id": "card-33",
+                    "content": [
+                        {
+                            "text": "Time Conjunctions: Present Tense for Future Meaning",
+                            "highlight": true
+                        },
+                        {
+                            "text": "حروف العطف الزمنية: المضارع للدلالة على المستقبل"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-34",
+                    "content": [
+                        {
+                            "text": "With time conjunctions like "
+                        },
+                        {
+                            "text": "as soon as",
+                            "colorize": true
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "when",
+                            "colorize": true
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "after",
+                            "colorize": true
+                        },
+                        {
+                            "text": ", and "
+                        },
+                        {
+                            "text": "before",
+                            "colorize": true
+                        },
+                        {
+                            "text": ", we use the "
+                        },
+                        {
+                            "text": "present tense",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " even when talking about future events"
+                        },
+                        {
+                            "text": "مع حروف العطف الزمنية مثل "
+                        },
+                        {
+                            "text": "as soon as",
+                            "colorize": true
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "when",
+                            "colorize": true
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "after",
+                            "colorize": true
+                        },
+                        {
+                            "text": "، و"
+                        },
+                        {
+                            "text": "before",
+                            "colorize": true
+                        },
+                        {
+                            "text": "، نستخدم "
+                        },
+                        {
+                            "text": "زمن المضارع",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " حتى عند الحديث عن أحداث مستقبلية"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-35",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "Future action",
+                            "badge": true,
+                            "translation": "فعل مستقبلي"
+                        },
+                        {
+                            "text": " + time conjunction + "
+                        },
+                        {
+                            "text": "present tense verb",
+                            "badge2": true,
+                            "translation": "فعل مضارع"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-36",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "I'll message you "
+                        },
+                        {
+                            "text": "as soon as",
+                            "colorize": true
+                        },
+                        {
+                            "text": " I "
+                        },
+                        {
+                            "text": "arrive",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " at the airport"
+                        },
+                        {
+                            "text": "سأرسل لك رسالة "
+                        },
+                        {
+                            "text": "فور ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "وصولي",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " إلى المطار"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-37",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "She "
+                        },
+                        {
+                            "text": "will call",
+                            "colorize": true
+                        },
+                        {
+                            "text": " you "
+                        },
+                        {
+                            "text": "when",
+                            "colorize": true
+                        },
+                        {
+                            "text": " she "
+                        },
+                        {
+                            "text": "finishes",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " her meeting"
+                        },
+                        {
+                            "text": "ستتصل "
+                        },
+                        {
+                            "text": "بك",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "عندما",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "تنهي",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " اجتماعها"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-38",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "We "
+                        },
+                        {
+                            "text": "won't start",
+                            "colorize": true
+                        },
+                        {
+                            "text": " dinner "
+                        },
+                        {
+                            "text": "until",
+                            "colorize": true
+                        },
+                        {
+                            "text": " everyone "
+                        },
+                        {
+                            "text": "comes",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " back"
+                        },
+                        {
+                            "text": "لن نبدأ",
+                            "colorize": true
+                        },
+                        {
+                            "text": " العشاء "
+                        },
+                        {
+                            "text": "حتى",
+                            "colorize": true
+                        },
+                        {
+                            "text": " يعود الجميع"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-39",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "They "
+                        },
+                        {
+                            "text": "will travel",
+                            "colorize": true
+                        },
+                        {
+                            "text": " to Egypt "
+                        },
+                        {
+                            "text": "after",
+                            "colorize": true
+                        },
+                        {
+                            "text": " they "
+                        },
+                        {
+                            "text": "get",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " their visas"
+                        },
+                        {
+                            "text": "سيسافرون",
+                            "colorize": true
+                        },
+                        {
+                            "text": " إلى مصر "
+                        },
+                        {
+                            "text": "بعد",
+                            "colorize": true
+                        },
+                        {
+                            "text": " حصولهم على تأشيراتهم"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-5",
+            "title": "So... (That) for Results",
+            "cards": [
+                {
+                    "id": "card-40",
+                    "content": [
+                        {
+                            "text": "So... (That) to Express Results and Degree",
+                            "highlight": true
+                        },
+                        {
+                            "text": "So... (That) للتعبير عن النتائج والدرجة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-41",
+                    "content": [
+                        {
+                            "text": "Use "
+                        },
+                        {
+                            "text": "so",
+                            "colorize": true
+                        },
+                        {
+                            "text": " with adjectives or with "
+                        },
+                        {
+                            "text": "many/much/few/little",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " to show an extreme degree that causes a result"
+                        },
+                        {
+                            "text": "استخدم "
+                        },
+                        {
+                            "text": "so",
+                            "colorize": true
+                        },
+                        {
+                            "text": " مع الصفات أو مع "
+                        },
+                        {
+                            "text": "many/much/few/little",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " لإظهار درجة شديدة تسبب نتيجة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-42",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "so",
+                            "badge": true,
+                            "translation": "شديد / كثير"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "adjective / many/much/few/little",
+                            "badge2": true,
+                            "translation": "صفة / كثير/قليل"
+                        },
+                        {
+                            "text": " (+ "
+                        },
+                        {
+                            "text": "that",
+                            "badge3": true,
+                            "translation": "أن"
+                        },
+                        {
+                            "text": ") + result clause"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-43",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "The weather was "
+                        },
+                        {
+                            "text": "so",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "hot",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " ("
+                        },
+                        {
+                            "text": "that",
+                            "colorize3": true
+                        },
+                        {
+                            "text": ") we decided to stay indoors"
+                        },
+                        {
+                            "text": "كان الطقس "
+                        },
+                        {
+                            "text": "شديد",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "الحرارة",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " ("
+                        },
+                        {
+                            "text": "حتى أن",
+                            "colorize3": true
+                        },
+                        {
+                            "text": ") قررنا البقاء في الداخل"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-44",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "There were "
+                        },
+                        {
+                            "text": "so",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "many",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " people at the festival ("
+                        },
+                        {
+                            "text": "that",
+                            "colorize3": true
+                        },
+                        {
+                            "text": ") we couldn't find seats"
+                        },
+                        {
+                            "text": "كان هناك "
+                        },
+                        {
+                            "text": "كثير",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "من الناس",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " في المهرجان ("
+                        },
+                        {
+                            "text": "حتى أن",
+                            "colorize3": true
+                        },
+                        {
+                            "text": ") لم نستطع إيجاد مقاعد"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-45",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "He has "
+                        },
+                        {
+                            "text": "so",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "little",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " free time ("
+                        },
+                        {
+                            "text": "that",
+                            "colorize3": true
+                        },
+                        {
+                            "text": ") he rarely sees his friends"
+                        },
+                        {
+                            "text": "لديه "
+                        },
+                        {
+                            "text": "قليل",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "من الوقت الحر",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " ("
+                        },
+                        {
+                            "text": "حتى أن",
+                            "colorize3": true
+                        },
+                        {
+                            "text": ") نادراً ما يرى أصدقاءه"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-46",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "The lecture was "
+                        },
+                        {
+                            "text": "so",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "boring",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " ("
+                        },
+                        {
+                            "text": "that",
+                            "colorize3": true
+                        },
+                        {
+                            "text": ") several students fell asleep"
+                        },
+                        {
+                            "text": "كانت المحاضرة "
+                        },
+                        {
+                            "text": "شديدة",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "الملل",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " ("
+                        },
+                        {
+                            "text": "حتى أن",
+                            "colorize3": true
+                        },
+                        {
+                            "text": ") نام عدة طلاب"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-47",
+                    "content": [
+                        {
+                            "text": "Note:",
+                            "highlight": true
+                        },
+                        {
+                            "text": " The word "
+                        },
+                        {
+                            "text": "'that'",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " is often omitted in informal speech but the meaning remains the same"
+                        },
+                        {
+                            "text": "ملاحظة: كلمة "
+                        },
+                        {
+                            "text": "'that'",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " غالباً ما تُحذف في الكلام غير الرسمي لكن المعنى يبقى نفسه"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

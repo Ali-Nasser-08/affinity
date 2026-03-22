@@ -1,0 +1,393 @@
+{
+    "unit": "Mega Goal 1 - Unit 8: Wishful Thinking",
+    "type": "speaking",
+    "setTitle": "Speaking & Real Talk",
+    "words": [
+        {
+            "word": "this guy / this person",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "An informal way to refer to "
+                },
+                {
+                    "text": "someone recently mentioned",
+                    "highlight": true
+                },
+                {
+                    "text": "; 'this guy' is casual (male or unspecified), "
+                },
+                {
+                    "text": "'this person' is neutral/formal",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "هذا الشخص / هذا الرجل",
+            "synonyms": [
+                "this individual",
+                "that person I mentioned"
+            ],
+            "example": [
+                {
+                    "text": "I saw an interview with "
+                },
+                {
+                    "text": "this guy",
+                    "colorize": true
+                },
+                {
+                    "text": " who climbed Mount Everest without oxygen"
+                }
+            ],
+            "tips": "'This guy' is very common in casual speech but avoid in formal writing. Use 'this person' when gender is unknown or for neutrality."
+        },
+        {
+            "word": "to me",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Used to introduce a "
+                },
+                {
+                    "text": "personal opinion or perspective",
+                    "highlight": true
+                },
+                {
+                    "text": "; emphasizes that the statement reflects "
+                },
+                {
+                    "text": "your own viewpoint",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "في رأيي / بالنسبة لي",
+            "synonyms": [
+                "in my opinion",
+                "from my perspective"
+            ],
+            "example": [
+                {
+                    "text": "That movie was boring—"
+                },
+                {
+                    "text": "to me",
+                    "colorize": true
+                },
+                {
+                    "text": ", anyway. My friends loved it though"
+                }
+            ],
+            "tips": "Often placed at the beginning or end of a sentence to soften opinions. Shows subjectivity: 'To me, pineapple belongs on pizza' = personal taste, not fact."
+        },
+        {
+            "word": "You wouldn't know...?",
+            "wordType": "rhetorical phrase",
+            "definition": [
+                {
+                    "text": "A surprised or "
+                },
+                {
+                    "text": "disbelieving question",
+                    "highlight": true
+                },
+                {
+                    "text": " implying the listener "
+                },
+                {
+                    "text": "obviously would know",
+                    "highlight2": true
+                },
+                {
+                    "text": " the answer"
+                }
+            ],
+            "arabicMeaning": "ألن تعرف...؟ (سؤال بلاغي يعبّر عن الدهشة)",
+            "synonyms": [
+                "Surely you'd know...",
+                "You must know..."
+            ],
+            "example": [
+                {
+                    "text": "\"You wouldn't know",
+                    "colorize": true
+                },
+                {
+                    "text": " where the party is? You're the one who organized it!\""
+                }
+            ],
+            "tips": "Rhetorical—speaker doesn't expect a real answer. Shows surprise that someone lacks obvious knowledge. Tone can be playful or slightly critical depending on context."
+        },
+        {
+            "word": "have a ball",
+            "wordType": "idiom",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "enjoy yourself immensely",
+                    "highlight": true
+                },
+                {
+                    "text": "; to "
+                },
+                {
+                    "text": "have a wonderful, exciting time",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يستمتع كثيرًا / يقضي وقتًا ممتعًا",
+            "synonyms": [
+                "have a blast",
+                "have a great time",
+                "enjoy oneself"
+            ],
+            "example": [
+                {
+                    "text": "We "
+                },
+                {
+                    "text": "had a ball",
+                    "colorize": true
+                },
+                {
+                    "text": " at the amusement park—rode every roller coaster twice!"
+                }
+            ],
+            "tips": "Very informal, cheerful idiom. 'Ball' here has nothing to do with sports—it comes from 'ball' meaning a formal dance party (where people had fun)."
+        },
+        {
+            "word": "participate",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "take part or join in",
+                    "highlight": true
+                },
+                {
+                    "text": " an activity, event, or "
+                },
+                {
+                    "text": "program",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يشارك",
+            "synonyms": [
+                "take part",
+                "join in",
+                "get involved"
+            ],
+            "example": [
+                {
+                    "text": "Over 200 students will "
+                },
+                {
+                    "text": "participate",
+                    "colorize": true
+                },
+                {
+                    "text": " in the school's science fair next week"
+                }
+            ],
+            "tips": "Always followed by 'in': participate in (something). More formal than 'join' or 'take part'. Noun form: participation."
+        },
+        {
+            "word": "divide",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "separate something into parts",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "groups",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يقسم / يوزع",
+            "synonyms": [
+                "split",
+                "separate",
+                "share out"
+            ],
+            "example": [
+                {
+                    "text": "The teacher asked us to "
+                },
+                {
+                    "text": "divide",
+                    "colorize": true
+                },
+                {
+                    "text": " into groups of four for the project"
+                }
+            ],
+            "tips": "Common pattern: divide something into X parts/groups. Math context: 12 divided by 3 equals 4. Opposite: combine/unite."
+        },
+        {
+            "word": "third",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "One of "
+                },
+                {
+                    "text": "three equal parts",
+                    "highlight": true
+                },
+                {
+                    "text": " of something; "
+                },
+                {
+                    "text": "1/3 of a whole",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ثلث",
+            "synonyms": [
+                "one-third",
+                "33 percent"
+            ],
+            "example": [
+                {
+                    "text": "She drank a "
+                },
+                {
+                    "text": "third",
+                    "colorize": true
+                },
+                {
+                    "text": " of the juice box before lunch"
+                }
+            ],
+            "tips": "Ordinal number (third place) vs. fraction (one third). As fraction: often 'a third' or 'one third'. Plural: thirds (two thirds of the cake)."
+        },
+        {
+            "word": "dreamed of",
+            "wordType": "verb phrase",
+            "definition": [
+                {
+                    "text": "To have "
+                },
+                {
+                    "text": "strongly desired something",
+                    "highlight": true
+                },
+                {
+                    "text": " for a long time; to "
+                },
+                {
+                    "text": "imagine achieving it",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حلم بـ / تمنى",
+            "synonyms": [
+                "longed for",
+                "wished for",
+                "fantasized about"
+            ],
+            "example": [
+                {
+                    "text": "He's always "
+                },
+                {
+                    "text": "dreamed of",
+                    "colorize": true
+                },
+                {
+                    "text": " becoming a pilot since he was a little boy"
+                }
+            ],
+            "tips": "Pattern: dream of + -ing verb OR dream of + noun. NOT 'dream to + verb'. Past tense: dreamed/dreamt (both correct)."
+        },
+        {
+            "word": "exactly",
+            "wordType": "adverb",
+            "definition": [
+                {
+                    "text": "In a "
+                },
+                {
+                    "text": "precise or accurate way",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "completely correct",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "بالضبط / تمامًا",
+            "synonyms": [
+                "precisely",
+                "accurately",
+                "just right"
+            ],
+            "example": [
+                {
+                    "text": "I don't know the address, but I live "
+                },
+                {
+                    "text": "exactly",
+                    "colorize": true
+                },
+                {
+                    "text": " two blocks from the main square"
+                }
+            ],
+            "tips": "Often used to strongly agree: 'A: It's too expensive. B: Exactly!' Also emphasizes precision: 'at exactly 3:00 PM'."
+        },
+        {
+            "word": "crazy",
+            "wordType": "adjective (informal)",
+            "definition": [
+                {
+                    "text": "Used informally to mean "
+                },
+                {
+                    "text": "very foolish or unreasonable",
+                    "highlight": true
+                },
+                {
+                    "text": "; not "
+                },
+                {
+                    "text": "sensible",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مجنون (بمعنى غير معقول)",
+            "synonyms": [
+                "foolish",
+                "ridiculous",
+                "unreasonable"
+            ],
+            "example": [
+                {
+                    "text": "It would be "
+                },
+                {
+                    "text": "crazy",
+                    "colorize": true
+                },
+                {
+                    "text": " to go hiking in this storm without proper gear"
+                }
+            ],
+            "tips": "Informal usage meaning 'foolish'—not clinical 'mentally ill'. Very common in casual speech: 'That's crazy expensive!' Also means 'enthusiastic': 'I'm crazy about jazz music.'"
+        }
+    ]
+}

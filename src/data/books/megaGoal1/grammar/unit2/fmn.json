@@ -1,0 +1,1545 @@
+{
+  "unit": "Mega Goal 1",
+  "lesson": "Unit 3",
+  "type": "Form, Meaning, and Function",
+  "clusters": [
+    {
+      "clusterId": "cluster-1",
+      "title": "Simple Present Tense - Forms",
+      "cards": [
+        {
+          "id": "card-1",
+          "content": [
+            {
+              "text": "The Simple Present",
+              "highlight": true
+            },
+            {
+              "text": " - Positive and Negative Forms"
+            },
+            {
+              "text": "الحاضر البسيط - الإثبات والنفي"
+            }
+          ]
+        },
+        {
+          "id": "card-2",
+          "content": [
+            {
+              "text": "We use this tense for facts that are "
+            },
+            {
+              "text": "always true",
+              "colorize2": true
+            },
+            {
+              "text": " or actions that "
+            },
+            {
+              "text": "happen regularly",
+              "colorize2": true
+            },
+            {
+              "text": "استخدم الحاضر البسيط للتحدث عن أشياء "
+            },
+            {
+              "text": "صحيحة بشكل عام",
+              "colorize2": true
+            },
+            {
+              "text": " أو "
+            },
+            {
+              "text": "تحدث طوال الوقت",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Positive:",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Subject",
+              "badge": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "Main Verb",
+              "badge2": true,
+              "translation": "الفعل المجرد"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "I/You/We/They",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "work",
+              "colorize2": true
+            },
+            {
+              "text": " in an office"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Positive (he/she/it):",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Subject",
+              "badge": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "Verb + s/es",
+              "badge2": true,
+              "translation": "الفعل + s/es"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "He/She",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "works",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-5",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Negative:",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Subject",
+              "badge": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "don't",
+              "badge2": true,
+              "translation": "لا"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "base verb",
+              "badge3": true,
+              "translation": "الفعل المجرد"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "We",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "don't",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "work",
+              "colorize3": true
+            },
+            {
+              "text": " in an office"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Negative (he/she/it):",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Subject",
+              "badge": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "doesn't",
+              "badge2": true,
+              "translation": "لا"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "base verb",
+              "badge3": true,
+              "translation": "الفعل المجرد"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "He/She",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "doesn't",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "work",
+              "colorize3": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-2",
+      "title": "Time Expressions for the Present",
+      "cards": [
+        {
+          "id": "card-7",
+          "content": [
+            {
+              "text": "Time Words",
+              "highlight": true
+            },
+            {
+              "text": " for the Present Tense"
+            },
+            {
+              "text": "التعبيرات الزمنية للحاضر"
+            }
+          ]
+        },
+        {
+          "id": "card-8",
+          "content": [
+            {
+              "text": "These words help us talk about our "
+            },
+            {
+              "text": "daily routines",
+              "colorize2": true
+            },
+            {
+              "text": " and regular "
+            },
+            {
+              "text": "habits",
+              "colorize2": true
+            },
+            {
+              "text": "يمكننا استخدام التعبيرات الزمنية للتحدث عن "
+            },
+            {
+              "text": "الروتين",
+              "colorize2": true
+            },
+            {
+              "text": " أو "
+            },
+            {
+              "text": "العادات",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-9",
+          "type": "example",
+          "content": [
+            {
+              "text": "He "
+            },
+            {
+              "text": "works",
+              "colorize": true
+            },
+            {
+              "text": " at the hospital "
+            },
+            {
+              "text": "from Sunday to Thursday",
+              "colorize3": true
+            },
+            {
+              "text": "هو "
+            },
+            {
+              "text": "يعمل",
+              "colorize": true
+            },
+            {
+              "text": " في المستشفى "
+            },
+            {
+              "text": "من الأحد إلى الخميس",
+              "colorize3": true
+            }
+          ]
+        },
+        {
+          "id": "card-10",
+          "type": "example",
+          "content": [
+            {
+              "text": "He "
+            },
+            {
+              "text": "works",
+              "colorize": true
+            },
+            {
+              "text": " at the hospital "
+            },
+            {
+              "text": "on weekdays",
+              "colorize3": true
+            },
+            {
+              "text": "هو "
+            },
+            {
+              "text": "يعمل",
+              "colorize": true
+            },
+            {
+              "text": " في المستشفى "
+            },
+            {
+              "text": "في أيام الأسبوع",
+              "colorize3": true
+            }
+          ]
+        },
+        {
+          "id": "card-11",
+          "type": "example",
+          "content": [
+            {
+              "text": "He "
+            },
+            {
+              "text": "doesn't work",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "on the weekend",
+              "colorize3": true
+            },
+            {
+              "text": "هو "
+            },
+            {
+              "text": "لا يعمل ",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "في عطلة نهاية الأسبوع",
+              "colorize3": true
+            }
+          ]
+        },
+        {
+          "id": "card-12",
+          "type": "example",
+          "content": [
+            {
+              "text": "When he's free, he "
+            },
+            {
+              "text": "plays",
+              "colorize": true
+            },
+            {
+              "text": " football"
+            },
+            {
+              "text": "في وقت فراغه، هو "
+            },
+            {
+              "text": "يلعب",
+              "colorize": true
+            },
+            {
+              "text": " كرة القدم"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-3",
+      "title": "Wh- Questions in Simple Present",
+      "cards": [
+        {
+          "id": "card-13",
+          "content": [
+            {
+              "text": "Question Words",
+              "highlight": true
+            },
+            {
+              "text": " in the Simple Present"
+            },
+            {
+              "text": "أسئلة الاستفهام في الحاضر البسيط"
+            }
+          ]
+        },
+        {
+          "id": "card-14",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Question Word",
+              "badge": true,
+              "translation": "أداة استفهام"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "does",
+              "badge2": true,
+              "translation": "مساعد"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "he/she",
+              "badge3": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "base verb",
+              "badge3": true,
+              "translation": "الفعل المجرد"
+            },
+            {
+              "text": " + ?"
+            }
+          ]
+        },
+        {
+          "id": "card-15",
+          "type": "example",
+          "content": [
+            {
+              "text": "Q: "
+            },
+            {
+              "text": "Where",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "does",
+              "colorize2": true
+            },
+            {
+              "text": " he/she "
+            },
+            {
+              "text": "work",
+              "colorize3": true
+            },
+            {
+              "text": "?"
+            },
+            {
+              "text": "س: "
+            },
+            {
+              "text": "أين ",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "يعمل",
+              "colorize3": true
+            },
+            {
+              "text": "/تعمل؟"
+            }
+          ]
+        },
+        {
+          "id": "card-16",
+          "type": "example",
+          "content": [
+            {
+              "text": "A: He/She "
+            },
+            {
+              "text": "works",
+              "colorize": true
+            },
+            {
+              "text": " in a hospital"
+            },
+            {
+              "text": "ج: هو/هي "
+            },
+            {
+              "text": "يعمل/تعمل",
+              "colorize": true
+            },
+            {
+              "text": " في مستشفى"
+            }
+          ]
+        },
+        {
+          "id": "card-17",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Question Word",
+              "badge": true,
+              "translation": "أداة استفهام"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "do",
+              "badge2": true,
+              "translation": "مساعد"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "you/they",
+              "badge3": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "base verb",
+              "badge3": true,
+              "translation": "الفعل المجرد"
+            },
+            {
+              "text": " + ?"
+            }
+          ]
+        },
+        {
+          "id": "card-18",
+          "type": "example",
+          "content": [
+            {
+              "text": "Q: "
+            },
+            {
+              "text": "Where",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "do",
+              "colorize2": true
+            },
+            {
+              "text": " you/they "
+            },
+            {
+              "text": "work",
+              "colorize3": true
+            },
+            {
+              "text": "?"
+            },
+            {
+              "text": "س: "
+            },
+            {
+              "text": "أين ",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "تعمل ",
+              "colorize3": true
+            },
+            {
+              "text": "/يعملون؟"
+            }
+          ]
+        },
+        {
+          "id": "card-19",
+          "type": "example",
+          "content": [
+            {
+              "text": "A: I/They "
+            },
+            {
+              "text": "work",
+              "colorize": true
+            },
+            {
+              "text": " in an office"
+            },
+            {
+              "text": "ج: أنا/هم "
+            },
+            {
+              "text": "أعمل/يعملون",
+              "colorize": true
+            },
+            {
+              "text": " في مكتب"
+            }
+          ]
+        },
+        {
+          "id": "card-20",
+          "type": "example",
+          "content": [
+            {
+              "text": "Q: "
+            },
+            {
+              "text": "What",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "do",
+              "colorize2": true
+            },
+            {
+              "text": " you "
+            },
+            {
+              "text": "do",
+              "colorize3": true
+            },
+            {
+              "text": "?"
+            },
+            {
+              "text": "س: "
+            },
+            {
+              "text": "ماذا",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "تعمل",
+              "colorize3": true
+            },
+            {
+              "text": "؟"
+            }
+          ]
+        },
+        {
+          "id": "card-21",
+          "type": "example",
+          "content": [
+            {
+              "text": "A: I'm a salesperson"
+            },
+            {
+              "text": "ج: أنا مندوب مبيعات"
+            }
+          ]
+        },
+        {
+          "id": "card-22",
+          "content": [
+            {
+              "text": "Note:",
+              "highlight": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "What do you do?",
+              "colorize": true
+            },
+            {
+              "text": " usually means "
+            },
+            {
+              "text": "What's your job?",
+              "colorize2": true
+            },
+            {
+              "text": "ملاحظة: "
+            },
+            {
+              "text": "ماذا تعمل؟",
+              "colorize": true
+            },
+            {
+              "text": " عادة تعني "
+            },
+            {
+              "text": "ما هي وظيفتك؟",
+              "colorize2": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-4",
+      "title": "Prepositions of Time for the Present",
+      "cards": [
+        {
+          "id": "card-23",
+          "content": [
+            {
+              "text": "Time Prepositions",
+              "highlight": true
+            },
+            {
+              "text": " for the Present"
+            },
+            {
+              "text": "حروف الجر الزمنية للحاضر"
+            }
+          ]
+        },
+        {
+          "id": "card-24",
+          "content": [
+            {
+              "text": "Use "
+            },
+            {
+              "text": "at",
+              "colorize": true
+            },
+            {
+              "text": " for "
+            },
+            {
+              "text": "exact times",
+              "colorize2": true
+            },
+            {
+              "text": "استخدم "
+            },
+            {
+              "text": "at",
+              "colorize": true
+            },
+            {
+              "text": " لـ"
+            },
+            {
+              "text": "أوقات محددة",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-25",
+          "type": "example",
+          "content": [
+            {
+              "text": "at",
+              "colorize": true
+            },
+            {
+              "text": " three o'clock, "
+            },
+            {
+              "text": "at",
+              "colorize": true
+            },
+            {
+              "text": " noon, "
+            },
+            {
+              "text": "at",
+              "colorize": true
+            },
+            {
+              "text": " midnight, "
+            },
+            {
+              "text": "at",
+              "colorize": true
+            },
+            {
+              "text": " night"
+            },
+            {
+              "text": " الساعة الثالثة، "
+            },
+            {
+              "text": " الظهر، "
+            },
+            {
+              "text": " منتصف الليل، "
+            },
+            {
+              "text": " الليل"
+            }
+          ]
+        },
+        {
+          "id": "card-26",
+          "content": [
+            {
+              "text": "Use "
+            },
+            {
+              "text": "in",
+              "colorize": true
+            },
+            {
+              "text": " for "
+            },
+            {
+              "text": "times of day",
+              "colorize2": true
+            },
+            {
+              "text": "تستخدم "
+            },
+            {
+              "text": "in",
+              "colorize": true
+            },
+            {
+              "text": " لـ"
+            },
+            {
+              "text": "أجزاء من اليوم",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-27",
+          "type": "example",
+          "content": [
+            {
+              "text": "in",
+              "colorize": true
+            },
+            {
+              "text": " the morning, "
+            },
+            {
+              "text": "in",
+              "colorize": true
+            },
+            {
+              "text": " the afternoon, "
+            },
+            {
+              "text": "in",
+              "colorize": true
+            },
+            {
+              "text": " the evening"
+            },
+            {
+              "text": " الصباح، "
+            },
+            {
+              "text": " بعد الظهر، "
+            },
+            {
+              "text": " المساء"
+            }
+          ]
+        },
+        {
+          "id": "card-28",
+          "content": [
+            {
+              "text": "Use "
+            },
+            {
+              "text": "on",
+              "colorize": true
+            },
+            {
+              "text": " for "
+            },
+            {
+              "text": "days and dates",
+              "colorize2": true
+            },
+            {
+              "text": "تستخدم "
+            },
+            {
+              "text": "on",
+              "colorize": true
+            },
+            {
+              "text": " لـ"
+            },
+            {
+              "text": "الأيام والتواريخ",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-29",
+          "type": "example",
+          "content": [
+            {
+              "text": "on",
+              "colorize": true
+            },
+            {
+              "text": " Thursday, "
+            },
+            {
+              "text": "on",
+              "colorize": true
+            },
+            {
+              "text": " weekdays, "
+            },
+            {
+              "text": "on",
+              "colorize": true
+            },
+            {
+              "text": " Saturday morning, "
+            },
+            {
+              "text": "on",
+              "colorize": true
+            },
+            {
+              "text": " the weekend"
+            },
+            {
+              "text": " الخميس، "
+            },
+            {
+              "text": " أيام الأسبوع، "
+            },
+            {
+              "text": " صباح السبت، "
+            },
+            {
+              "text": " عطلة نهاية الأسبوع"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-5",
+      "title": "Relative Pronouns: Who, That, Which",
+      "cards": [
+        {
+          "id": "card-30",
+          "content": [
+            {
+              "text": "Relative Pronouns",
+              "highlight": true
+            },
+            {
+              "text": ": Who, That, Which"
+            },
+            {
+              "text": "الضمائر الموصولة: Who, That, Which"
+            }
+          ]
+        },
+        {
+          "id": "card-31",
+          "content": [
+            {
+              "text": "These words give us "
+            },
+            {
+              "text": "more details",
+              "colorize2": true
+            },
+            {
+              "text": " about a "
+            },
+            {
+              "text": "person or thing",
+              "colorize2": true
+            },
+            {
+              "text": " we mention"
+            },
+            {
+              "text": "الجمل الموصولة تضيف "
+            },
+            {
+              "text": "معلومات",
+              "colorize2": true
+            },
+            {
+              "text": " عن "
+            },
+            {
+              "text": "اسم",
+              "colorize2": true
+            },
+            {
+              "text": " في الجملة الرئيسية"
+            }
+          ]
+        },
+        {
+          "id": "card-32",
+          "content": [
+            {
+              "text": "Use "
+            },
+            {
+              "text": "who",
+              "colorize": true
+            },
+            {
+              "text": " or "
+            },
+            {
+              "text": "that",
+              "colorize": true
+            },
+            {
+              "text": " for "
+            },
+            {
+              "text": "people",
+              "colorize2": true
+            },
+            {
+              "text": "تستخدم "
+            },
+            {
+              "text": "who/that",
+              "colorize": true
+            },
+            {
+              "text": " لـ"
+            },
+            {
+              "text": "الأشخاص",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-33",
+          "type": "example",
+          "content": [
+            {
+              "text": "The woman was talking to the clients. She was friendly."
+            },
+            {
+              "text": "المرأة كانت تتحدث مع العملاء. كانت ودودة."
+            }
+          ]
+        },
+        {
+          "id": "card-34",
+          "type": "example",
+          "content": [
+            {
+              "text": "The woman "
+            },
+            {
+              "text": "who/that",
+              "colorize": true
+            },
+            {
+              "text": " was talking to the clients was friendly"
+            },
+            {
+              "text": "المرأة "
+            },
+            {
+              "text": "التي",
+              "colorize": true
+            },
+            {
+              "text": " كانت تتحدث مع العملاء كانت ودودة"
+            }
+          ]
+        },
+        {
+          "id": "card-35",
+          "content": [
+            {
+              "text": "Use "
+            },
+            {
+              "text": "that",
+              "colorize": true
+            },
+            {
+              "text": " or "
+            },
+            {
+              "text": "which",
+              "colorize": true
+            },
+            {
+              "text": " for "
+            },
+            {
+              "text": "things and animals",
+              "colorize2": true
+            },
+            {
+              "text": "تستخدم "
+            },
+            {
+              "text": "that/which",
+              "colorize": true
+            },
+            {
+              "text": " لـ"
+            },
+            {
+              "text": "الأشياء والحيوانات",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-36",
+          "type": "example",
+          "content": [
+            {
+              "text": "The computer company is making a good profit. It is called Easy Surf."
+            },
+            {
+              "text": "شركة الكمبيوتر تحقق ربحًا جيدًا. اسمها Easy Surf."
+            }
+          ]
+        },
+        {
+          "id": "card-37",
+          "type": "example",
+          "content": [
+            {
+              "text": "The computer company "
+            },
+            {
+              "text": "that/which",
+              "colorize": true
+            },
+            {
+              "text": " is making a good profit is called Easy Surf"
+            },
+            {
+              "text": "شركة الكمبيوتر "
+            },
+            {
+              "text": "التي",
+              "colorize": true
+            },
+            {
+              "text": " تحقق ربحًا جيدًا تسمى Easy Surf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-6",
+      "title": "Past Progressive with While",
+      "cards": [
+        {
+          "id": "card-38",
+          "content": [
+            {
+              "text": "Past Continuous with While",
+              "highlight": true
+            },
+            {
+              "text": "الماضي المستمر مع بينما"
+            }
+          ]
+        },
+        {
+          "id": "card-39",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Subject",
+              "badge": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "was/were + Verb-ing",
+              "badge2": true,
+              "translation": "كان + فعل ing"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "while",
+              "badge3": true,
+              "translation": "بينما"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "Subject + was/were + Verb-ing",
+              "badge2": true,
+              "translation": "الفاعل + كان + فعل ing"
+            }
+          ]
+        },
+        {
+          "id": "card-40",
+          "content": [
+            {
+              "text": "Use "
+            },
+            {
+              "text": "while",
+              "colorize3": true
+            },
+            {
+              "text": " to show "
+            },
+            {
+              "text": "two things happening together",
+              "colorize2": true
+            },
+            {
+              "text": " in the past"
+            },
+            {
+              "text": "استخدم "
+            },
+            {
+              "text": "بينما",
+              "colorize3": true
+            },
+            {
+              "text": " للتحدث عن "
+            },
+            {
+              "text": "فعلين يحدثان في نفس الوقت",
+              "colorize2": true
+            },
+            {
+              "text": " في الماضي"
+            }
+          ]
+        },
+        {
+          "id": "card-41",
+          "type": "example",
+          "content": [
+            {
+              "text": "Mohammed "
+            },
+            {
+              "text": "was working",
+              "colorize": true
+            },
+            {
+              "text": " on the computer "
+            },
+            {
+              "text": "while",
+              "colorize3": true
+            },
+            {
+              "text": " his brother "
+            },
+            {
+              "text": "was talking",
+              "colorize2": true
+            },
+            {
+              "text": " on the phone"
+            },
+            {
+              "text": "محمد "
+            },
+            {
+              "text": "كان يعمل",
+              "colorize": true
+            },
+            {
+              "text": " على الكمبيوتر "
+            },
+            {
+              "text": "بينما",
+              "colorize3": true
+            },
+            {
+              "text": " أخوه "
+            },
+            {
+              "text": "كان يتحدث",
+              "colorize2": true
+            },
+            {
+              "text": " على الهاتف"
+            }
+          ]
+        },
+        {
+          "id": "card-42",
+          "type": "example",
+          "content": [
+            {
+              "text": "While",
+              "colorize3": true
+            },
+            {
+              "text": " you "
+            },
+            {
+              "text": "were working",
+              "colorize": true
+            },
+            {
+              "text": " at the photography studio, I "
+            },
+            {
+              "text": "was studying",
+              "colorize2": true
+            },
+            {
+              "text": " graphic design at college"
+            },
+            {
+              "text": "بينما",
+              "colorize3": true
+            },
+            {
+              "text": " كنت "
+            },
+            {
+              "text": "تعمل",
+              "colorize": true
+            },
+            {
+              "text": " في استوديو التصوير، كنت "
+            },
+            {
+              "text": "أدرس",
+              "colorize2": true
+            },
+            {
+              "text": " التصميم الجرافيكي في الكلية"
+            }
+          ]
+        },
+        {
+          "id": "card-43",
+          "type": "example",
+          "content": [
+            {
+              "text": "They "
+            },
+            {
+              "text": "were waiting",
+              "colorize": true
+            },
+            {
+              "text": " for their father at the office "
+            },
+            {
+              "text": "while",
+              "colorize3": true
+            },
+            {
+              "text": " their father "
+            },
+            {
+              "text": "was waiting",
+              "colorize2": true
+            },
+            {
+              "text": " for them at home"
+            },
+            {
+              "text": "هم "
+            },
+            {
+              "text": "كانوا ينتظرون",
+              "colorize": true
+            },
+            {
+              "text": " والدهم في المكتب "
+            },
+            {
+              "text": "بينما",
+              "colorize3": true
+            },
+            {
+              "text": " والدهم "
+            },
+            {
+              "text": "كان ينتظرهم",
+              "colorize2": true
+            },
+            {
+              "text": " في المنزل"
+            }
+          ]
+        },
+        {
+          "id": "card-44",
+          "type": "example",
+          "content": [
+            {
+              "text": "While",
+              "colorize3": true
+            },
+            {
+              "text": " she "
+            },
+            {
+              "text": "was talking",
+              "colorize": true
+            },
+            {
+              "text": " with her sister downstairs, her mother "
+            },
+            {
+              "text": "was looking",
+              "colorize2": true
+            },
+            {
+              "text": " for her upstairs"
+            },
+            {
+              "text": "بينما",
+              "colorize3": true
+            },
+            {
+              "text": " كانت "
+            },
+            {
+              "text": "تتحدث",
+              "colorize": true
+            },
+            {
+              "text": " مع أختها في الطابق السفلي، كانت والدتها "
+            },
+            {
+              "text": "تبحث",
+              "colorize2": true
+            },
+            {
+              "text": " عنها في الطابق العلوي"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

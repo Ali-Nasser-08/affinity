@@ -1,0 +1,2402 @@
+[
+    {
+        "word": "Innovation",
+        "ar": "ابتكار",
+        "ja": "革新",
+        "fr": "Innovation",
+        "ko": "혁신",
+        "es": "Innovación"
+    },
+    {
+        "word": "Technology",
+        "ar": "تكنولوجيا",
+        "ja": "技術",
+        "fr": "Technologie",
+        "ko": "기술",
+        "es": "Tecnología"
+    },
+    {
+        "word": "Communication",
+        "ar": "تواصل",
+        "ja": "通信",
+        "fr": "Communication",
+        "ko": "의사소통",
+        "es": "Comunicación"
+    },
+    {
+        "word": "Language",
+        "ar": "لغة",
+        "ja": "言語",
+        "fr": "Langue",
+        "ko": "언어",
+        "es": "Idioma"
+    },
+    {
+        "word": "Translate",
+        "ar": "يترجم",
+        "ja": "翻訳する",
+        "fr": "Traduire",
+        "ko": "번역하다",
+        "es": "Traducir"
+    },
+    {
+        "word": "History",
+        "ar": "تاريخ",
+        "ja": "歴史",
+        "fr": "Histoire",
+        "ko": "역사",
+        "es": "Historia"
+    },
+    {
+        "word": "Discovery",
+        "ar": "اكتشاف",
+        "ja": "発見",
+        "fr": "Découverte",
+        "ko": "발견",
+        "es": "Descubrimiento"
+    },
+    {
+        "word": "Treasure",
+        "ar": "كنز",
+        "ja": "宝物",
+        "fr": "Trésor",
+        "ko": "보물",
+        "es": "Tesoro"
+    },
+    {
+        "word": "Beauty",
+        "ar": "جمال",
+        "ja": "美",
+        "fr": "Beauté",
+        "ko": "아름다움",
+        "es": "Belleza"
+    },
+    {
+        "word": "Culture",
+        "ar": "ثقافة",
+        "ja": "文化",
+        "fr": "Culture",
+        "ko": "문화",
+        "es": "Cultura"
+    },
+    {
+        "word": "Travel",
+        "ar": "سفر",
+        "ja": "旅行",
+        "fr": "Voyage",
+        "ko": "여행",
+        "es": "Viaje"
+    },
+    {
+        "word": "Adventure",
+        "ar": "مغامرة",
+        "ja": "冒険",
+        "fr": "Aventure",
+        "ko": "모험",
+        "es": "Aventura"
+    },
+    {
+        "word": "Mystery",
+        "ar": "غموض",
+        "ja": "謎",
+        "fr": "Mystère",
+        "ko": "미스터리",
+        "es": "Misterio"
+    },
+    {
+        "word": "Future",
+        "ar": "مستقبل",
+        "ja": "未来",
+        "fr": "Futur",
+        "ko": "미래",
+        "es": "Futuro"
+    },
+    {
+        "word": "Past",
+        "ar": "ماضي",
+        "ja": "過去",
+        "fr": "Passé",
+        "ko": "과거",
+        "es": "Pasado"
+    },
+    {
+        "word": "Present",
+        "ar": "حاضر",
+        "ja": "現在",
+        "fr": "Présent",
+        "ko": "현재",
+        "es": "Presente"
+    },
+    {
+        "word": "Global",
+        "ar": "عالمي",
+        "ja": "世界的",
+        "fr": "Mondial",
+        "ko": "세계적인",
+        "es": "Global"
+    },
+    {
+        "word": "Connection",
+        "ar": "اتصال",
+        "ja": "接続",
+        "fr": "Connexion",
+        "ko": "연결",
+        "es": "Conexión"
+    },
+    {
+        "word": "Respect",
+        "ar": "احترام",
+        "ja": "尊敬",
+        "fr": "Respect",
+        "ko": "존경",
+        "es": "Respeto"
+    },
+    {
+        "word": "Tradition",
+        "ar": "تقليد",
+        "ja": "伝統",
+        "fr": "Tradition",
+        "ko": "전통",
+        "es": "Tradición"
+    },
+    {
+        "word": "Modern",
+        "ar": "حديث",
+        "ja": "現代の",
+        "fr": "Moderne",
+        "ko": "현대적인",
+        "es": "Moderno"
+    },
+    {
+        "word": "Success",
+        "ar": "نجاح",
+        "ja": "成功",
+        "fr": "Succès",
+        "ko": "성공",
+        "es": "Éxito"
+    },
+    {
+        "word": "Failure",
+        "ar": "فشل",
+        "ja": "失敗",
+        "fr": "Échec",
+        "ko": "실패",
+        "es": "Fracaso"
+    },
+    {
+        "word": "Challenge",
+        "ar": "تحدي",
+        "ja": "挑戦",
+        "fr": "Défi",
+        "ko": "도전",
+        "es": "Desafío"
+    },
+    {
+        "word": "Solution",
+        "ar": "حل",
+        "ja": "解決策",
+        "fr": "Solution",
+        "ko": "해결책",
+        "es": "Solución"
+    },
+    {
+        "word": "Problem",
+        "ar": "مشكلة",
+        "ja": "問題",
+        "fr": "Problème",
+        "ko": "문제",
+        "es": "Problema"
+    },
+    {
+        "word": "Knowledge",
+        "ar": "معرفة",
+        "ja": "知識",
+        "fr": "Connaissance",
+        "ko": "지식",
+        "es": "Conocimiento"
+    },
+    {
+        "word": "Wisdom",
+        "ar": "حكمة",
+        "ja": "知恵",
+        "fr": "Sagesse",
+        "ko": "지혜",
+        "es": "Sabiduría"
+    },
+    {
+        "word": "Learning",
+        "ar": "تعلم",
+        "ja": "学習",
+        "fr": "Apprentissage",
+        "ko": "학습",
+        "es": "Aprendizaje"
+    },
+    {
+        "word": "Student",
+        "ar": "طالب",
+        "ja": "学生",
+        "fr": "Étudiant",
+        "ko": "학생",
+        "es": "Estudiante"
+    },
+    {
+        "word": "Teacher",
+        "ar": "معلم",
+        "ja": "先生",
+        "fr": "Enseignant",
+        "ko": "선생님",
+        "es": "Profesor"
+    },
+    {
+        "word": "School",
+        "ar": "مدرسة",
+        "ja": "学校",
+        "fr": "École",
+        "ko": "학교",
+        "es": "Escuela"
+    },
+    {
+        "word": "University",
+        "ar": "جامعة",
+        "ja": "大学",
+        "fr": "Université",
+        "ko": "대학교",
+        "es": "Universidad"
+    },
+    {
+        "word": "Career",
+        "ar": "مهنة",
+        "ja": "経歴",
+        "fr": "Carrière",
+        "ko": "경력",
+        "es": "Carrera"
+    },
+    {
+        "word": "Job",
+        "ar": "وظيفة",
+        "ja": "仕事",
+        "fr": "Emploi",
+        "ko": "직업",
+        "es": "Trabajo"
+    },
+    {
+        "word": "Money",
+        "ar": "مال",
+        "ja": "お金",
+        "fr": "Argent",
+        "ko": "돈",
+        "es": "Dinero"
+    },
+    {
+        "word": "Economy",
+        "ar": "اقتصاد",
+        "ja": "経済",
+        "fr": "Économie",
+        "ko": "경제",
+        "es": "Economía"
+    },
+    {
+        "word": "Society",
+        "ar": "مجتمع",
+        "ja": "社会",
+        "fr": "Société",
+        "ko": "사회",
+        "es": "Sociedad"
+    },
+    {
+        "word": "Friendship",
+        "ar": "صداقة",
+        "ja": "友情",
+        "fr": "Amitié",
+        "ko": "우정",
+        "es": "Amistad"
+    },
+    {
+        "word": "Family",
+        "ar": "عائلة",
+        "ja": "家族",
+        "fr": "Famille",
+        "ko": "가족",
+        "es": "Familia"
+    },
+    {
+        "word": "Love",
+        "ar": "حب",
+        "ja": "愛",
+        "fr": "Amour",
+        "ko": "사랑",
+        "es": "Amor"
+    },
+    {
+        "word": "Peace",
+        "ar": "سلام",
+        "ja": "平和",
+        "fr": "Paix",
+        "ko": "평화",
+        "es": "Paz"
+    },
+    {
+        "word": "War",
+        "ar": "حرب",
+        "ja": "戦争",
+        "fr": "Guerre",
+        "ko": "전쟁",
+        "es": "Guerra"
+    },
+    {
+        "word": "Health",
+        "ar": "صحة",
+        "ja": "健康",
+        "fr": "Santé",
+        "ko": "건강",
+        "es": "Salud"
+    },
+    {
+        "word": "Environment",
+        "ar": "بيئة",
+        "ja": "環境",
+        "fr": "Environnement",
+        "ko": "환경",
+        "es": "Medio ambiente"
+    },
+    {
+        "word": "Nature",
+        "ar": "طبيعة",
+        "ja": "自然",
+        "fr": "Nature",
+        "ko": "자연",
+        "es": "Naturaleza"
+    },
+    {
+        "word": "Art",
+        "ar": "فن",
+        "ja": "芸術",
+        "fr": "Art",
+        "ko": "예술",
+        "es": "Arte"
+    },
+    {
+        "word": "Science",
+        "ar": "علوم",
+        "ja": "科学",
+        "fr": "Science",
+        "ko": "과학",
+        "es": "Ciencia"
+    },
+    {
+        "word": "Math",
+        "ar": "رياضيات",
+        "ja": "数学",
+        "fr": "Mathématiques",
+        "ko": "수학",
+        "es": "Matemáticas"
+    },
+    {
+        "word": "Book",
+        "ar": "كتاب",
+        "ja": "本",
+        "fr": "Livre",
+        "ko": "책",
+        "es": "Libro"
+    },
+    {
+        "word": "Planet",
+        "ar": "كوكب",
+        "ja": "惑星",
+        "fr": "Planète",
+        "ko": "행성",
+        "es": "Planeta"
+    },
+    {
+        "word": "Star",
+        "ar": "نجم",
+        "ja": "星",
+        "fr": "Étoile",
+        "ko": "별",
+        "es": "Estrella"
+    },
+    {
+        "word": "Galaxy",
+        "ar": "مجرة",
+        "ja": "銀河",
+        "fr": "Galaxie",
+        "ko": "은하",
+        "es": "Galaxia"
+    },
+    {
+        "word": "Ocean",
+        "ar": "محيط",
+        "ja": "海",
+        "fr": "Océan",
+        "ko": "대양",
+        "es": "Océano"
+    },
+    {
+        "word": "Mountain",
+        "ar": "جبل",
+        "ja": "山",
+        "fr": "Montagne",
+        "ko": "산",
+        "es": "Montaña"
+    },
+    {
+        "word": "River",
+        "ar": "نهر",
+        "ja": "川",
+        "fr": "Rivière",
+        "ko": "강",
+        "es": "Río"
+    },
+    {
+        "word": "Forest",
+        "ar": "غابة",
+        "ja": "森",
+        "fr": "Forêt",
+        "ko": "숲",
+        "es": "Bosque"
+    },
+    {
+        "word": "Desert",
+        "ar": "صحراء",
+        "ja": "砂漠",
+        "fr": "Désert",
+        "ko": "사막",
+        "es": "Desierto"
+    },
+    {
+        "word": "Island",
+        "ar": "جزيرة",
+        "ja": "島",
+        "fr": "Île",
+        "ko": "섬",
+        "es": "Isla"
+    },
+    {
+        "word": "Vehicle",
+        "ar": "مركبة",
+        "ja": "乗り物",
+        "fr": "Véhicule",
+        "ko": "차량",
+        "es": "Vehículo"
+    },
+    {
+        "word": "Engine",
+        "ar": "محرك",
+        "ja": "エンジン",
+        "fr": "Moteur",
+        "ko": "엔진",
+        "es": "Motor"
+    },
+    {
+        "word": "Computer",
+        "ar": "حاسوب",
+        "ja": "コンピュータ",
+        "fr": "Ordinateur",
+        "ko": "컴퓨터",
+        "es": "Computadora"
+    },
+    {
+        "word": "Internet",
+        "ar": "إنترنت",
+        "ja": "インターネット",
+        "fr": "Internet",
+        "ko": "인터넷",
+        "es": "Internet"
+    },
+    {
+        "word": "Robot",
+        "ar": "روبوت",
+        "ja": "ロボット",
+        "fr": "Robot",
+        "ko": "로봇",
+        "es": "Robot"
+    },
+    {
+        "word": "Software",
+        "ar": "برمجيات",
+        "ja": "ソフトウェア",
+        "fr": "Logiciel",
+        "ko": "소프트웨어",
+        "es": "Software"
+    },
+    {
+        "word": "Data",
+        "ar": "بيانات",
+        "ja": "データ",
+        "fr": "Données",
+        "ko": "데이터",
+        "es": "Datos"
+    },
+    {
+        "word": "Network",
+        "ar": "شبكة",
+        "ja": "ネットワーク",
+        "fr": "Réseau",
+        "ko": "네트워크",
+        "es": "Red"
+    },
+    {
+        "word": "Security",
+        "ar": "أمن",
+        "ja": "セキュリティ",
+        "fr": "Sécurité",
+        "ko": "보안",
+        "es": "Seguridad"
+    },
+    {
+        "word": "Privacy",
+        "ar": "خصوصية",
+        "ja": "プライバシー",
+        "fr": "Vie privée",
+        "ko": "개인 정보",
+        "es": "Privacidad"
+    },
+    {
+        "word": "Law",
+        "ar": "قانون",
+        "ja": "法律",
+        "fr": "Loi",
+        "ko": "법",
+        "es": "Ley"
+    },
+    {
+        "word": "Justice",
+        "ar": "عدالة",
+        "ja": "正義",
+        "fr": "Justice",
+        "ko": "정의",
+        "es": "Justicia"
+    },
+    {
+        "word": "Government",
+        "ar": "حكومة",
+        "ja": "政府",
+        "fr": "Gouvernement",
+        "ko": "정부",
+        "es": "Gobierno"
+    },
+    {
+        "word": "Policy",
+        "ar": "سياسة",
+        "ja": "政策",
+        "fr": "Politique",
+        "ko": "정책",
+        "es": "Política"
+    },
+    {
+        "word": "Business",
+        "ar": "عمل تجاري",
+        "ja": "ビジネス",
+        "fr": "Affaires",
+        "ko": "사업",
+        "es": "Negocio"
+    },
+    {
+        "word": "Marketing",
+        "ar": "تسويق",
+        "ja": "マーケティング",
+        "fr": "Marketing",
+        "ko": "마케팅",
+        "es": "Marketing"
+    },
+    {
+        "word": "Strategy",
+        "ar": "استراتيجية",
+        "ja": "戦略",
+        "fr": "Stratégie",
+        "ko": "전략",
+        "es": "Estrategia"
+    },
+    {
+        "word": "Project",
+        "ar": "مشروع",
+        "ja": "プロジェクト",
+        "fr": "Projet",
+        "ko": "프로젝트",
+        "es": "Proyecto"
+    },
+    {
+        "word": "Team",
+        "ar": "فريق",
+        "ja": "チーム",
+        "fr": "Équipe",
+        "ko": "팀",
+        "es": "Equipo"
+    },
+    {
+        "word": "Leader",
+        "ar": "قائد",
+        "ja": "リーダー",
+        "fr": "Chef",
+        "ko": "리더",
+        "es": "Líder"
+    },
+    {
+        "word": "Skill",
+        "ar": "مهارة",
+        "ja": "スキル",
+        "fr": "Compétence",
+        "ko": "기술",
+        "es": "Habilidad"
+    },
+    {
+        "word": "Talent",
+        "ar": "موهبة",
+        "ja": "才能",
+        "fr": "Talent",
+        "ko": "재능",
+        "es": "Talento"
+    },
+    {
+        "word": "Emotion",
+        "ar": "عاطفة",
+        "ja": "感情",
+        "fr": "Émotion",
+        "ko": "감정",
+        "es": "Emoción"
+    },
+    {
+        "word": "Memory",
+        "ar": "ذاكرة",
+        "ja": "記憶",
+        "fr": "Mémoire",
+        "ko": "기억",
+        "es": "Memoria"
+    },
+    {
+        "word": "Dream",
+        "ar": "حلم",
+        "ja": "夢",
+        "fr": "Rêve",
+        "ko": "꿈",
+        "es": "Sueño"
+    },
+    {
+        "word": "Imagination",
+        "ar": "خيال",
+        "ja": "想像力",
+        "fr": "Imagination",
+        "ko": "상상력",
+        "es": "Imaginación"
+    },
+    {
+        "word": "Creativity",
+        "ar": "إبداع",
+        "ja": "創造性",
+        "fr": "Créativité",
+        "ko": "창의성",
+        "es": "Creatividad"
+    },
+    {
+        "word": "Music",
+        "ar": "موسيقى",
+        "ja": "音楽",
+        "fr": "Musique",
+        "ko": "음악",
+        "es": "Música"
+    },
+    {
+        "word": "Dance",
+        "ar": "رقص",
+        "ja": "ダンス",
+        "fr": "Danse",
+        "ko": "춤",
+        "es": "Danza"
+    },
+    {
+        "word": "Sport",
+        "ar": "رياضة",
+        "ja": "スポーツ",
+        "fr": "Sport",
+        "ko": "스포츠",
+        "es": "Deporte"
+    },
+    {
+        "word": "Game",
+        "ar": "لعبة",
+        "ja": "ゲーム",
+        "fr": "Jeu",
+        "ko": "게임",
+        "es": "Juego"
+    },
+    {
+        "word": "Food",
+        "ar": "طعام",
+        "ja": "食べ物",
+        "fr": "Nourriture",
+        "ko": "음식",
+        "es": "Comida"
+    },
+    {
+        "word": "Water",
+        "ar": "ماء",
+        "ja": "水",
+        "fr": "Eau",
+        "ko": "물",
+        "es": "Agua"
+    },
+    {
+        "word": "Air",
+        "ar": "هواء",
+        "ja": "空気",
+        "fr": "Air",
+        "ko": "공기",
+        "es": "Aire"
+    },
+    {
+        "word": "Fire",
+        "ar": "نار",
+        "ja": "火",
+        "fr": "Feu",
+        "ko": "불",
+        "es": "Fuego"
+    },
+    {
+        "word": "Earth",
+        "ar": "أرض",
+        "ja": "地球",
+        "fr": "Terre",
+        "ko": "지구",
+        "es": "Tierra"
+    },
+    {
+        "word": "Space",
+        "ar": "فضاء",
+        "ja": "宇宙",
+        "fr": "Espace",
+        "ko": "우주",
+        "es": "Espacio"
+    },
+    {
+        "word": "Energy",
+        "ar": "طاقة",
+        "ja": "エネルギー",
+        "fr": "Énergie",
+        "ko": "에너지",
+        "es": "Energía"
+    },
+    {
+        "word": "Power",
+        "ar": "قوة",
+        "ja": "力",
+        "fr": "Pouvoir",
+        "ko": "힘",
+        "es": "Poder"
+    },
+    {
+        "word": "Freedom",
+        "ar": "حرية",
+        "ja": "自由",
+        "fr": "Liberté",
+        "ko": "자유",
+        "es": "Libertad"
+    },
+    {
+        "word": "Happiness",
+        "ar": "سعادة",
+        "ja": "幸福",
+        "fr": "Bonheur",
+        "ko": "행복",
+        "es": "Felicidad"
+    },
+    {
+        "word": "Library",
+        "ar": "مكتبة",
+        "ja": "図書館",
+        "fr": "Bibliothèque",
+        "ko": "도서관",
+        "es": "Biblioteca"
+    },
+    {
+        "word": "Museum",
+        "ar": "متحف",
+        "ja": "博物館",
+        "fr": "Musée",
+        "ko": "박물관",
+        "es": "Museo"
+    },
+    {
+        "word": "Hospital",
+        "ar": "مستشفى",
+        "ja": "病院",
+        "fr": "Hôpital",
+        "ko": "병원",
+        "es": "Hospital"
+    },
+    {
+        "word": "Airport",
+        "ar": "مطار",
+        "ja": "空港",
+        "fr": "Aéroport",
+        "ko": "공항",
+        "es": "Aeropuerto"
+    },
+    {
+        "word": "Station",
+        "ar": "محطة",
+        "ja": "駅",
+        "fr": "Gare",
+        "ko": "역",
+        "es": "Estación"
+    },
+    {
+        "word": "Hotel",
+        "ar": "فندق",
+        "ja": "ホテル",
+        "fr": "Hôtel",
+        "ko": "호텔",
+        "es": "Hotel"
+    },
+    {
+        "word": "Restaurant",
+        "ar": "مطعم",
+        "ja": "レストラン",
+        "fr": "Restaurant",
+        "ko": "식당",
+        "es": "Restaurante"
+    },
+    {
+        "word": "Cinema",
+        "ar": "سينما",
+        "ja": "映画館",
+        "fr": "Cinéma",
+        "ko": "영화관",
+        "es": "Cine"
+    },
+    {
+        "word": "Theater",
+        "ar": "مسرح",
+        "ja": "劇場",
+        "fr": "Théâtre",
+        "ko": "극장",
+        "es": "Teatro"
+    },
+    {
+        "word": "Market",
+        "ar": "سوق",
+        "ja": "市場",
+        "fr": "Marché",
+        "ko": "시장",
+        "es": "Mercado"
+    },
+    {
+        "word": "Doctor",
+        "ar": "طبيب",
+        "ja": "医者",
+        "fr": "Médecin",
+        "ko": "의사",
+        "es": "Doctor"
+    },
+    {
+        "word": "Nurse",
+        "ar": "ممرضة",
+        "ja": "看護師",
+        "fr": "Infirmière",
+        "ko": "간호사",
+        "es": "Enfermera"
+    },
+    {
+        "word": "Police",
+        "ar": "شرطة",
+        "ja": "警察",
+        "fr": "Police",
+        "ko": "경찰",
+        "es": "Policía"
+    },
+    {
+        "word": "Firefighter",
+        "ar": "رجل إطفاء",
+        "ja": "消防士",
+        "fr": "Pompier",
+        "ko": "소방관",
+        "es": "Bombero"
+    },
+    {
+        "word": "Engineer",
+        "ar": "مهندس",
+        "ja": "エンジニア",
+        "fr": "Ingénieur",
+        "ko": "기술자",
+        "es": "Ingeniero"
+    },
+    {
+        "word": "Scientist",
+        "ar": "عالم",
+        "ja": "科学者",
+        "fr": "Scientifique",
+        "ko": "과학자",
+        "es": "Científico"
+    },
+    {
+        "word": "Artist",
+        "ar": "فنان",
+        "ja": "芸術家",
+        "fr": "Artiste",
+        "ko": "예술가",
+        "es": "Artista"
+    },
+    {
+        "word": "Musician",
+        "ar": "موسيقي",
+        "ja": "音楽家",
+        "fr": "Musicien",
+        "ko": "음악가",
+        "es": "Músico"
+    },
+    {
+        "word": "Writer",
+        "ar": "كاتب",
+        "ja": "作家",
+        "fr": "Écrivain",
+        "ko": "작가",
+        "es": "Escritor"
+    },
+    {
+        "word": "Actor",
+        "ar": "ممثل",
+        "ja": "俳優",
+        "fr": "Acteur",
+        "ko": "배우",
+        "es": "Actor"
+    },
+    {
+        "word": "Breakfast",
+        "ar": "إفطار",
+        "ja": "朝食",
+        "fr": "Petit déjeuner",
+        "ko": "아침 식사",
+        "es": "Desayuno"
+    },
+    {
+        "word": "Lunch",
+        "ar": "غداء",
+        "ja": "昼食",
+        "fr": "Déjeuner",
+        "ko": "점심 식사",
+        "es": "Almuerzo"
+    },
+    {
+        "word": "Dinner",
+        "ar": "عشاء",
+        "ja": "夕食",
+        "fr": "Dîner",
+        "ko": "저녁 식사",
+        "es": "Cena"
+    },
+    {
+        "word": "Snack",
+        "ar": "وجبة خفيفة",
+        "ja": "おやつ",
+        "fr": "Goûter",
+        "ko": "간식",
+        "es": "Merienda"
+    },
+    {
+        "word": "Drink",
+        "ar": "مشروب",
+        "ja": "飲み物",
+        "fr": "Boisson",
+        "ko": "음료",
+        "es": "Bebida"
+    },
+    {
+        "word": "Fruit",
+        "ar": "فاكهة",
+        "ja": "果物",
+        "fr": "Fruit",
+        "ko": "과일",
+        "es": "Fruta"
+    },
+    {
+        "word": "Vegetable",
+        "ar": "خضار",
+        "ja": "野菜",
+        "fr": "Légume",
+        "ko": "채소",
+        "es": "Vegetal"
+    },
+    {
+        "word": "Meat",
+        "ar": "لحم",
+        "ja": "肉",
+        "fr": "Viande",
+        "ko": "고기",
+        "es": "Carne"
+    },
+    {
+        "word": "Bread",
+        "ar": "خبز",
+        "ja": "パン",
+        "fr": "Pain",
+        "ko": "빵",
+        "es": "Pan"
+    },
+    {
+        "word": "Rice",
+        "ar": "أرز",
+        "ja": "ご飯",
+        "fr": "Riz",
+        "ko": "밥",
+        "es": "Arroz"
+    },
+    {
+        "word": "Morning",
+        "ar": "صباح",
+        "ja": "朝",
+        "fr": "Matin",
+        "ko": "아침",
+        "es": "Mañana"
+    },
+    {
+        "word": "Afternoon",
+        "ar": "ظهيرة",
+        "ja": "午後",
+        "fr": "Après-midi",
+        "ko": "오후",
+        "es": "Tarde"
+    },
+    {
+        "word": "Evening",
+        "ar": "مساء",
+        "ja": "夕方",
+        "fr": "Soir",
+        "ko": "저녁",
+        "es": "Noche"
+    },
+    {
+        "word": "Night",
+        "ar": "ليل",
+        "ja": "夜",
+        "fr": "Nuit",
+        "ko": "밤",
+        "es": "Noche"
+    },
+    {
+        "word": "Day",
+        "ar": "يوم",
+        "ja": "日",
+        "fr": "Jour",
+        "ko": "날",
+        "es": "Día"
+    },
+    {
+        "word": "Week",
+        "ar": "أسبوع",
+        "ja": "週",
+        "fr": "Semaine",
+        "ko": "주",
+        "es": "Semana"
+    },
+    {
+        "word": "Month",
+        "ar": "شهر",
+        "ja": "月",
+        "fr": "Mois",
+        "ko": "달",
+        "es": "Mes"
+    },
+    {
+        "word": "Year",
+        "ar": "سنة",
+        "ja": "年",
+        "fr": "Année",
+        "ko": "년",
+        "es": "Año"
+    },
+    {
+        "word": "Century",
+        "ar": "قرن",
+        "ja": "世紀",
+        "fr": "Siècle",
+        "ko": "세기",
+        "es": "Siglo"
+    },
+    {
+        "word": "Time",
+        "ar": "وقت",
+        "ja": "時間",
+        "fr": "Temps",
+        "ko": "시간",
+        "es": "Tiempo"
+    },
+    {
+        "word": "Red",
+        "ar": "أحمر",
+        "ja": "赤",
+        "fr": "Rouge",
+        "ko": "빨간색",
+        "es": "Rojo"
+    },
+    {
+        "word": "Blue",
+        "ar": "أزرق",
+        "ja": "青",
+        "fr": "Bleu",
+        "ko": "파란색",
+        "es": "Azul"
+    },
+    {
+        "word": "Green",
+        "ar": "أخضر",
+        "ja": "緑",
+        "fr": "Vert",
+        "ko": "초록색",
+        "es": "Verde"
+    },
+    {
+        "word": "Yellow",
+        "ar": "أصفر",
+        "ja": "黄色",
+        "fr": "Jaune",
+        "ko": "노란색",
+        "es": "Amarillo"
+    },
+    {
+        "word": "Black",
+        "ar": "أسود",
+        "ja": "黒",
+        "fr": "Noir",
+        "ko": "검은색",
+        "es": "Negro"
+    },
+    {
+        "word": "White",
+        "ar": "أبيض",
+        "ja": "白",
+        "fr": "Blanc",
+        "ko": "흰색",
+        "es": "Blanco"
+    },
+    {
+        "word": "Sun",
+        "ar": "شمس",
+        "ja": "太陽",
+        "fr": "Soleil",
+        "ko": "태양",
+        "es": "Sol"
+    },
+    {
+        "word": "Moon",
+        "ar": "قمر",
+        "ja": "月",
+        "fr": "Lune",
+        "ko": "달",
+        "es": "Luna"
+    },
+    {
+        "word": "Rain",
+        "ar": "مطر",
+        "ja": "雨",
+        "fr": "Pluie",
+        "ko": "비",
+        "es": "Lluvia"
+    },
+    {
+        "word": "Snow",
+        "ar": "ثلج",
+        "ja": "雪",
+        "fr": "Neige",
+        "ko": "눈",
+        "es": "Nieve"
+    },
+    {
+        "word": "Wind",
+        "ar": "رياح",
+        "ja": "風",
+        "fr": "Vent",
+        "ko": "바람",
+        "es": "Viento"
+    },
+    {
+        "word": "Cloud",
+        "ar": "سحابة",
+        "ja": "雲",
+        "fr": "Nuage",
+        "ko": "구름",
+        "es": "Nube"
+    },
+    {
+        "word": "Storm",
+        "ar": "عاصفة",
+        "ja": "嵐",
+        "fr": "Tempête",
+        "ko": "폭풍",
+        "es": "Tormenta"
+    },
+    {
+        "word": "Thunder",
+        "ar": "رعد",
+        "ja": "雷",
+        "fr": "Tonnerre",
+        "ko": "천둥",
+        "es": "Trueno"
+    },
+    {
+        "word": "Lightning",
+        "ar": "برق",
+        "ja": "稲妻",
+        "fr": "Foudre",
+        "ko": "번개",
+        "es": "Rayo"
+    },
+    {
+        "word": "Spring",
+        "ar": "ربيع",
+        "ja": "春",
+        "fr": "Printemps",
+        "ko": "봄",
+        "es": "Primavera"
+    },
+    {
+        "word": "Summer",
+        "ar": "صيف",
+        "ja": "夏",
+        "fr": "Été",
+        "ko": "여름",
+        "es": "Verano"
+    },
+    {
+        "word": "Autumn",
+        "ar": "خريف",
+        "ja": "秋",
+        "fr": "Automne",
+        "ko": "가을",
+        "es": "Otoño"
+    },
+    {
+        "word": "Winter",
+        "ar": "شتاء",
+        "ja": "冬",
+        "fr": "Hiver",
+        "ko": "겨울",
+        "es": "Invierno"
+    },
+    {
+        "word": "Garden",
+        "ar": "حديقة",
+        "ja": "庭",
+        "fr": "Jardin",
+        "ko": "정원",
+        "es": "Jardín"
+    },
+    {
+        "word": "Park",
+        "ar": "منتزه",
+        "ja": "公園",
+        "fr": "Parc",
+        "ko": "공원",
+        "es": "Parque"
+    },
+    {
+        "word": "City",
+        "ar": "مدينة",
+        "ja": "都市",
+        "fr": "Ville",
+        "ko": "도시",
+        "es": "Ciudad"
+    },
+    {
+        "word": "Village",
+        "ar": "قرية",
+        "ja": "村",
+        "fr": "Village",
+        "ko": "마을",
+        "es": "Pueblo"
+    },
+    {
+        "word": "Street",
+        "ar": "شارع",
+        "ja": "通り",
+        "fr": "Rue",
+        "ko": "거리",
+        "es": "Calle"
+    },
+    {
+        "word": "Road",
+        "ar": "طريق",
+        "ja": "道路",
+        "fr": "Route",
+        "ko": "길",
+        "es": "Carretera"
+    },
+    {
+        "word": "Bridge",
+        "ar": "جسر",
+        "ja": "橋",
+        "fr": "Pont",
+        "ko": "다리",
+        "es": "Puente"
+    },
+    {
+        "word": "Building",
+        "ar": "مبنى",
+        "ja": "建物",
+        "fr": "Bâtiment",
+        "ko": "건물",
+        "es": "Edificio"
+    },
+    {
+        "word": "House",
+        "ar": "منزل",
+        "ja": "家",
+        "fr": "Maison",
+        "ko": "집",
+        "es": "Casa"
+    },
+    {
+        "word": "Apartment",
+        "ar": "شقة",
+        "ja": "アパート",
+        "fr": "Appartement",
+        "ko": "아파트",
+        "es": "Apartamento"
+    },
+    {
+        "word": "Room",
+        "ar": "غرفة",
+        "ja": "部屋",
+        "fr": "Chambre",
+        "ko": "방",
+        "es": "Habitación"
+    },
+    {
+        "word": "Kitchen",
+        "ar": "مطبخ",
+        "ja": "台所",
+        "fr": "Cuisine",
+        "ko": "주방",
+        "es": "Cocina"
+    },
+    {
+        "word": "Bathroom",
+        "ar": "حمام",
+        "ja": "浴室",
+        "fr": "Salle de bain",
+        "ko": "욕실",
+        "es": "Baño"
+    },
+    {
+        "word": "Window",
+        "ar": "نافذة",
+        "ja": "窓",
+        "fr": "Fenêtre",
+        "ko": "창문",
+        "es": "Ventana"
+    },
+    {
+        "word": "Door",
+        "ar": "باب",
+        "ja": "ドア",
+        "fr": "Porte",
+        "ko": "문",
+        "es": "Puerta"
+    },
+    {
+        "word": "Table",
+        "ar": "طاولة",
+        "ja": "テーブル",
+        "fr": "Table",
+        "ko": "테이블",
+        "es": "Mesa"
+    },
+    {
+        "word": "Chair",
+        "ar": "كرسي",
+        "ja": "椅子",
+        "fr": "Chaise",
+        "ko": "의자",
+        "es": "Silla"
+    },
+    {
+        "word": "Bed",
+        "ar": "سرير",
+        "ja": "ベッド",
+        "fr": "Lit",
+        "ko": "침대",
+        "es": "Cama"
+    },
+    {
+        "word": "Phone",
+        "ar": "هاتف",
+        "ja": "電話",
+        "fr": "Téléphone",
+        "ko": "전화",
+        "es": "Teléfono"
+    },
+    {
+        "word": "Clock",
+        "ar": "ساعة",
+        "ja": "時計",
+        "fr": "Horloge",
+        "ko": "시계",
+        "es": "Reloj"
+    },
+    {
+        "word": "Money",
+        "ar": "نقود",
+        "ja": "お金",
+        "fr": "Argent",
+        "ko": "돈",
+        "es": "Dinero"
+    },
+    {
+        "word": "Wallet",
+        "ar": "محفظة",
+        "ja": "財布",
+        "fr": "Portefeuille",
+        "ko": "지갑",
+        "es": "Cartera"
+    },
+    {
+        "word": "Bag",
+        "ar": "حقيبة",
+        "ja": "鞄",
+        "fr": "Sac",
+        "ko": "가방",
+        "es": "Bolsa"
+    },
+    {
+        "word": "Clothes",
+        "ar": "ملابس",
+        "ja": "服",
+        "fr": "Vêtements",
+        "ko": "옷",
+        "es": "Ropa"
+    },
+    {
+        "word": "Shoe",
+        "ar": "حذاء",
+        "ja": "靴",
+        "fr": "Chaussure",
+        "ko": "신발",
+        "es": "Zapato"
+    },
+    {
+        "word": "Hat",
+        "ar": "قبعة",
+        "ja": "帽子",
+        "fr": "Chapeau",
+        "ko": "모자",
+        "es": "Sombrero"
+    },
+    {
+        "word": "Glasses",
+        "ar": "نظارات",
+        "ja": "眼鏡",
+        "fr": "Lunettes",
+        "ko": "안경",
+        "es": "Gafas"
+    },
+    {
+        "word": "Mirror",
+        "ar": "مرآة",
+        "ja": "鏡",
+        "fr": "Miroir",
+        "ko": "거울",
+        "es": "Espejo"
+    },
+    {
+        "word": "Picture",
+        "ar": "صورة",
+        "ja": "写真",
+        "fr": "Image",
+        "ko": "사진",
+        "es": "Imagen"
+    },
+    {
+        "word": "Camera",
+        "ar": "كاميرا",
+        "ja": "カメラ",
+        "fr": "Caméra",
+        "ko": "카메라",
+        "es": "Cámara"
+    },
+    {
+        "word": "Radio",
+        "ar": "راديو",
+        "ja": "ラジオ",
+        "fr": "Radio",
+        "ko": "라디오",
+        "es": "Radio"
+    },
+    {
+        "word": "Television",
+        "ar": "تلفاز",
+        "ja": "テレビ",
+        "fr": "Télévision",
+        "ko": "텔레비전",
+        "es": "Televisión"
+    },
+    {
+        "word": "Newspaper",
+        "ar": "جريدة",
+        "ja": "新聞",
+        "fr": "Journal",
+        "ko": "신문",
+        "es": "Periódico"
+    },
+    {
+        "word": "Magazine",
+        "ar": "مجلة",
+        "ja": "雑誌",
+        "fr": "Magazine",
+        "ko": "잡지",
+        "es": "Revista"
+    },
+    {
+        "word": "Letter",
+        "ar": "رسالة",
+        "ja": "手紙",
+        "fr": "Lettre",
+        "ko": "편지",
+        "es": "Carta"
+    },
+    {
+        "word": "Box",
+        "ar": "صندوق",
+        "ja": "箱",
+        "fr": "Boîte",
+        "ko": "상자",
+        "es": "Caja"
+    },
+    {
+        "word": "Tool",
+        "ar": "أداة",
+        "ja": "道具",
+        "fr": "Outil",
+        "ko": "도구",
+        "es": "Herramienta"
+    },
+    {
+        "word": "Key",
+        "ar": "مفتاح",
+        "ja": "鍵",
+        "fr": "Clé",
+        "ko": "열쇠",
+        "es": "Llave"
+    },
+    {
+        "word": "Lock",
+        "ar": "قفل",
+        "ja": "錠",
+        "fr": "Serrure",
+        "ko": "자물쇠",
+        "es": "Cerradura"
+    },
+    {
+        "word": "Map",
+        "ar": "خريطة",
+        "ja": "地図",
+        "fr": "Carte",
+        "ko": "지도",
+        "es": "Mapa"
+    },
+    {
+        "word": "Flag",
+        "ar": "علم",
+        "ja": "旗",
+        "fr": "Drapeau",
+        "ko": "깃발",
+        "es": "Bandera"
+    },
+    {
+        "word": "Circle",
+        "ar": "دائرة",
+        "ja": "円",
+        "fr": "Cercle",
+        "ko": "원",
+        "es": "Círculo"
+    },
+    {
+        "word": "Square",
+        "ar": "مربع",
+        "ja": "正方形",
+        "fr": "Carré",
+        "ko": "정사각형",
+        "es": "Cuadrado"
+    },
+    {
+        "word": "Triangle",
+        "ar": "مثلث",
+        "ja": "三角形",
+        "fr": "Triangle",
+        "ko": "삼각형",
+        "es": "Triángulo"
+    },
+    {
+        "word": "Line",
+        "ar": "خط",
+        "ja": "線",
+        "fr": "Ligne",
+        "ko": "선",
+        "es": "Línea"
+    },
+    {
+        "word": "Point",
+        "ar": "نقطة",
+        "ja": "点",
+        "fr": "Point",
+        "ko": "점",
+        "es": "Punto"
+    },
+    {
+        "word": "Angle",
+        "ar": "زاوية",
+        "ja": "角度",
+        "fr": "Angle",
+        "ko": "각도",
+        "es": "Ángulo"
+    },
+    {
+        "word": "Number",
+        "ar": "رقم",
+        "ja": "数",
+        "fr": "Nombre",
+        "ko": "숫자",
+        "es": "Número"
+    },
+    {
+        "word": "Letter",
+        "ar": "حرف",
+        "ja": "文字",
+        "fr": "Lettre",
+        "ko": "글자",
+        "es": "Letra"
+    },
+    {
+        "word": "Word",
+        "ar": "كلمة",
+        "ja": "単語",
+        "fr": "Mot",
+        "ko": "단어",
+        "es": "Palabra"
+    },
+    {
+        "word": "Sentence",
+        "ar": "جملة",
+        "ja": "文",
+        "fr": "Phrase",
+        "ko": "문장",
+        "es": "Oración"
+    },
+    {
+        "word": "Page",
+        "ar": "صفحة",
+        "ja": "ページ",
+        "fr": "Page",
+        "ko": "페이지",
+        "es": "Página"
+    },
+    {
+        "word": "Paper",
+        "ar": "ورقة",
+        "ja": "紙",
+        "fr": "Papier",
+        "ko": "종이",
+        "es": "Papel"
+    },
+    {
+        "word": "Pen",
+        "ar": "قلم",
+        "ja": "ペン",
+        "fr": "Stylo",
+        "ko": "펜",
+        "es": "Bolígrafo"
+    },
+    {
+        "word": "Pencil",
+        "ar": "قلم رصاص",
+        "ja": "鉛筆",
+        "fr": "Crayon",
+        "ko": "연필",
+        "es": "Lápiz"
+    },
+    {
+        "word": "Color",
+        "ar": "لون",
+        "ja": "色",
+        "fr": "Couleur",
+        "ko": "색깔",
+        "es": "Color"
+    },
+    {
+        "word": "Light",
+        "ar": "ضوء",
+        "ja": "光",
+        "fr": "Lumière",
+        "ko": "빛",
+        "es": "Luz"
+    },
+    {
+        "word": "Dark",
+        "ar": "ظلام",
+        "ja": "闇",
+        "fr": "Sombre",
+        "ko": "어둠",
+        "es": "Oscuridad"
+    },
+    {
+        "word": "Sound",
+        "ar": "صوت",
+        "ja": "音",
+        "fr": "Son",
+        "ko": "소리",
+        "es": "Sonido"
+    },
+    {
+        "word": "Noise",
+        "ar": "ضجيج",
+        "ja": "騒音",
+        "fr": "Bruit",
+        "ko": "소음",
+        "es": "Ruido"
+    },
+    {
+        "word": "Smell",
+        "ar": "رائحة",
+        "ja": "匂い",
+        "fr": "Odeur",
+        "ko": "냄새",
+        "es": "Olor"
+    },
+    {
+        "word": "Taste",
+        "ar": "تذوق",
+        "ja": "味",
+        "fr": "Goût",
+        "ko": "맛",
+        "es": "Gusto"
+    },
+    {
+        "word": "Touch",
+        "ar": "لمس",
+        "ja": "手触り",
+        "fr": "Toucher",
+        "ko": "촉감",
+        "es": "Tacto"
+    },
+    {
+        "word": "Soft",
+        "ar": "ناعم",
+        "ja": "柔らかい",
+        "fr": "Doux",
+        "ko": "부드러운",
+        "es": "Suave"
+    },
+    {
+        "word": "Hard",
+        "ar": "صلب",
+        "ja": "硬い",
+        "fr": "Dur",
+        "ko": "딱딱한",
+        "es": "Duro"
+    },
+    {
+        "word": "Hot",
+        "ar": "حار",
+        "ja": "暑い",
+        "fr": "Chaud",
+        "ko": "뜨거운",
+        "es": "Caliente"
+    },
+    {
+        "word": "Cold",
+        "ar": "بارد",
+        "ja": "寒い",
+        "fr": "Froid",
+        "ko": "추운",
+        "es": "Frío"
+    },
+    {
+        "word": "Fast",
+        "ar": "سريع",
+        "ja": "速い",
+        "fr": "Rapide",
+        "ko": "빠른",
+        "es": "Rápido"
+    },
+    {
+        "word": "Slow",
+        "ar": "بطيء",
+        "ja": "遅い",
+        "fr": "Lent",
+        "ko": "느린",
+        "es": "Lento"
+    },
+    {
+        "word": "High",
+        "ar": "عالي",
+        "ja": "高い",
+        "fr": "Haut",
+        "ko": "높은",
+        "es": "Alto"
+    },
+    {
+        "word": "Low",
+        "ar": "منخفض",
+        "ja": "低い",
+        "fr": "Bas",
+        "ko": "낮은",
+        "es": "Bajo"
+    },
+    {
+        "word": "Left",
+        "ar": "يسار",
+        "ja": "左",
+        "fr": "Gauche",
+        "ko": "왼쪽",
+        "es": "Izquierda"
+    },
+    {
+        "word": "Right",
+        "ar": "يمين",
+        "ja": "右",
+        "fr": "Droite",
+        "ko": "오른쪽",
+        "es": "Derecha"
+    },
+    {
+        "word": "Up",
+        "ar": "فوق",
+        "ja": "上",
+        "fr": "Haut",
+        "ko": "위",
+        "es": "Arriba"
+    },
+    {
+        "word": "Down",
+        "ar": "تحت",
+        "ja": "下",
+        "fr": "Bas",
+        "ko": "아래",
+        "es": "Abajo"
+    },
+    {
+        "word": "Near",
+        "ar": "قريب",
+        "ja": "近い",
+        "fr": "Près",
+        "ko": "가까운",
+        "es": "Cerca"
+    },
+    {
+        "word": "Far",
+        "ar": "بعيد",
+        "ja": "遠い",
+        "fr": "Loin",
+        "ko": "멀리",
+        "es": "Lejos"
+    },
+    {
+        "word": "Big",
+        "ar": "كبير",
+        "ja": "大きい",
+        "fr": "Grand",
+        "ko": "큰",
+        "es": "Grande"
+    },
+    {
+        "word": "Small",
+        "ar": "صغير",
+        "ja": "小さい",
+        "fr": "Petit",
+        "ko": "작은",
+        "es": "Pequeño"
+    },
+    {
+        "word": "New",
+        "ar": "جديد",
+        "ja": "新しい",
+        "fr": "Nouveau",
+        "ko": "새로운",
+        "es": "Nuevo"
+    },
+    {
+        "word": "Old",
+        "ar": "قديم",
+        "ja": "古い",
+        "fr": "Vieux",
+        "ko": "오래된",
+        "es": "Viejo"
+    },
+    {
+        "word": "Good",
+        "ar": "جيد",
+        "ja": "良い",
+        "fr": "Bon",
+        "ko": "좋은",
+        "es": "Bueno"
+    },
+    {
+        "word": "Bad",
+        "ar": "سيء",
+        "ja": "悪い",
+        "fr": "Mauvais",
+        "ko": "나쁜",
+        "es": "Malo"
+    },
+    {
+        "word": "Clean",
+        "ar": "نظيف",
+        "ja": "清潔な",
+        "fr": "Propre",
+        "ko": "깨끗한",
+        "es": "Limpio"
+    },
+    {
+        "word": "Dirty",
+        "ar": "قذر",
+        "ja": "汚い",
+        "fr": "Sale",
+        "ko": "더러운",
+        "es": "Sucio"
+    },
+    {
+        "word": "Happy",
+        "ar": "سعيد",
+        "ja": "幸せな",
+        "fr": "Heureux",
+        "ko": "행복한",
+        "es": "Feliz"
+    },
+    {
+        "word": "Sad",
+        "ar": "حزين",
+        "ja": "悲しい",
+        "fr": "Triste",
+        "ko": "슬픈",
+        "es": "Triste"
+    },
+    {
+        "word": "Angry",
+        "ar": "غاضب",
+        "ja": "怒って",
+        "fr": "En colère",
+        "ko": "화난",
+        "es": "Enojado"
+    },
+    {
+        "word": "Tired",
+        "ar": "متعب",
+        "ja": "疲れた",
+        "fr": "Fatigué",
+        "ko": "피곤한",
+        "es": "Cansado"
+    },
+    {
+        "word": "Hungry",
+        "ar": "جائع",
+        "ja": "空腹の",
+        "fr": "Affamé",
+        "ko": "배고픈",
+        "es": "Hambriento"
+    },
+    {
+        "word": "Thirsty",
+        "ar": "عطشان",
+        "ja": "喉が渇いた",
+        "fr": "Assoiffé",
+        "ko": "목마른",
+        "es": "Sediento"
+    },
+    {
+        "word": "Animal",
+        "ar": "حيوان",
+        "ja": "動物",
+        "fr": "Animal",
+        "ko": "동물",
+        "es": "Animal"
+    },
+    {
+        "word": "Cat",
+        "ar": "قطة",
+        "ja": "猫",
+        "fr": "Chat",
+        "ko": "고양이",
+        "es": "Gato"
+    },
+    {
+        "word": "Dog",
+        "ar": "كلب",
+        "ja": "犬",
+        "fr": "Chien",
+        "ko": "개",
+        "es": "Perro"
+    },
+    {
+        "word": "Bird",
+        "ar": "طائر",
+        "ja": "鳥",
+        "fr": "Oiseau",
+        "ko": "새",
+        "es": "Pájaro"
+    },
+    {
+        "word": "Fish",
+        "ar": "سمكة",
+        "ja": "魚",
+        "fr": "Poisson",
+        "ko": "물고기",
+        "es": "Pez"
+    },
+    {
+        "word": "Horse",
+        "ar": "حصان",
+        "ja": "馬",
+        "fr": "Cheval",
+        "ko": "말",
+        "es": "Caballo"
+    },
+    {
+        "word": "Cow",
+        "ar": "بقرة",
+        "ja": "牛",
+        "fr": "Vache",
+        "ko": "소",
+        "es": "Vaca"
+    },
+    {
+        "word": "Sheep",
+        "ar": "خروف",
+        "ja": "羊",
+        "fr": "Mouton",
+        "ko": "양",
+        "es": "Oveja"
+    },
+    {
+        "word": "Chicken",
+        "ar": "دجاجة",
+        "ja": "鶏",
+        "fr": "Poulet",
+        "ko": "닭",
+        "es": "Pollo"
+    },
+    {
+        "word": "Pig",
+        "ar": "خنزير",
+        "ja": "豚",
+        "fr": "Cochon",
+        "ko": "돼지",
+        "es": "Cerdo"
+    },
+    {
+        "word": "Ball",
+        "ar": "كرة",
+        "ja": "ボール",
+        "fr": "Balle",
+        "ko": "공",
+        "es": "Pelota"
+    },
+    {
+        "word": "Toy",
+        "ar": "لعبة",
+        "ja": "おもちゃ",
+        "fr": "Jouet",
+        "ko": "장난감",
+        "es": "Juguete"
+    },
+    {
+        "word": "Doll",
+        "ar": "دمية",
+        "ja": "人形",
+        "fr": "Poupée",
+        "ko": "인형",
+        "es": "Muñeca"
+    },
+    {
+        "word": "Puzzle",
+        "ar": "لغز",
+        "ja": "パズル",
+        "fr": "Puzzle",
+        "ko": "퍼즐",
+        "es": "Rompecabezas"
+    },
+    {
+        "word": "Song",
+        "ar": "أغنية",
+        "ja": "歌",
+        "fr": "Chanson",
+        "ko": "노래",
+        "es": "Canción"
+    },
+    {
+        "word": "Movie",
+        "ar": "فيلم",
+        "ja": "映画",
+        "fr": "Film",
+        "ko": "영화",
+        "es": "Película"
+    },
+    {
+        "word": "Paint",
+        "ar": "يرسم (بالطلاء)",
+        "ja": "描く",
+        "fr": "Peindre",
+        "ko": "그리다",
+        "es": "Pintar"
+    },
+    {
+        "word": "Draw",
+        "ar": "يرسم (بقلم)",
+        "ja": "描く",
+        "fr": "Dessiner",
+        "ko": "그리다",
+        "es": "Dibujar"
+    },
+    {
+        "word": "Walk",
+        "ar": "يمشي",
+        "ja": "歩く",
+        "fr": "Marcher",
+        "ko": "걷다",
+        "es": "Caminar"
+    },
+    {
+        "word": "Run",
+        "ar": "يجري",
+        "ja": "走る",
+        "fr": "Courir",
+        "ko": "달리다",
+        "es": "Correr"
+    },
+    {
+        "word": "Jump",
+        "ar": "يقفز",
+        "ja": "飛ぶ",
+        "fr": "Sauter",
+        "ko": "점프하다",
+        "es": "Saltar"
+    },
+    {
+        "word": "Sleep",
+        "ar": "ينام",
+        "ja": "寝る",
+        "fr": "Dormir",
+        "ko": "자다",
+        "es": "Dormir"
+    },
+    {
+        "word": "Wake",
+        "ar": "يستيقظ",
+        "ja": "起きる",
+        "fr": "Se réveiller",
+        "ko": "깨다",
+        "es": "Despertar"
+    },
+    {
+        "word": "Eat",
+        "ar": "يأكل",
+        "ja": "食べる",
+        "fr": "Manger",
+        "ko": "먹다",
+        "es": "Comer"
+    },
+    {
+        "word": "Drink",
+        "ar": "يشرب",
+        "ja": "飲む",
+        "fr": "Boire",
+        "ko": "마시다",
+        "es": "Beber"
+    },
+    {
+        "word": "Cook",
+        "ar": "يطبخ",
+        "ja": "料理する",
+        "fr": "Cuisiner",
+        "ko": "요리하다",
+        "es": "Cocinar"
+    },
+    {
+        "word": "Read",
+        "ar": "يقرأ",
+        "ja": "読む",
+        "fr": "Lire",
+        "ko": "읽다",
+        "es": "Leer"
+    },
+    {
+        "word": "Write",
+        "ar": "يكتب",
+        "ja": "書く",
+        "fr": "Écrire",
+        "ko": "쓰다",
+        "es": "Escribir"
+    },
+    {
+        "word": "Listen",
+        "ar": "يستمع",
+        "ja": "聞く",
+        "fr": "Écouter",
+        "ko": "듣다",
+        "es": "Escuchar"
+    },
+    {
+        "word": "Speak",
+        "ar": "يتحدث",
+        "ja": "話す",
+        "fr": "Parler",
+        "ko": "말하다",
+        "es": "Hablar"
+    },
+    {
+        "word": "Think",
+        "ar": "يفكر",
+        "ja": "考える",
+        "fr": "Penser",
+        "ko": "생각하다",
+        "es": "Pensar"
+    },
+    {
+        "word": "Know",
+        "ar": "يعرف",
+        "ja": "知る",
+        "fr": "Savoir",
+        "ko": "알다",
+        "es": "Saber"
+    },
+    {
+        "word": "Understand",
+        "ar": "يفهم",
+        "ja": "理解する",
+        "fr": "Comprendre",
+        "ko": "이해하다",
+        "es": "Entender"
+    },
+    {
+        "word": "Believe",
+        "ar": "يصدق / يؤمن",
+        "ja": "信じる",
+        "fr": "Croire",
+        "ko": "믿다",
+        "es": "Creer"
+    },
+    {
+        "word": "Hope",
+        "ar": "يأمل",
+        "ja": "望む",
+        "fr": "Espérer",
+        "ko": "희망하다",
+        "es": "Esperar"
+    },
+    {
+        "word": "Laugh",
+        "ar": "يضحك",
+        "ja": "笑う",
+        "fr": "Rire",
+        "ko": "웃다",
+        "es": "Reír"
+    },
+    {
+        "word": "Cry",
+        "ar": "يبكي",
+        "ja": "泣く",
+        "fr": "Pleurer",
+        "ko": "울다",
+        "es": "Llorar"
+    },
+    {
+        "word": "Smile",
+        "ar": "يبتسم",
+        "ja": "微笑む",
+        "fr": "Sourire",
+        "ko": "미소 짓다",
+        "es": "Sonreír"
+    },
+    {
+        "word": "Shout",
+        "ar": "يصرخ",
+        "ja": "叫ぶ",
+        "fr": "Crier",
+        "ko": "소리치다",
+        "es": "Gritar"
+    },
+    {
+        "word": "Whisper",
+        "ar": "يهمز",
+        "ja": "ささやく",
+        "fr": "Chuchoter",
+        "ko": "속삭이다",
+        "es": "Susurrar"
+    },
+    {
+        "word": "Work",
+        "ar": "يعمل",
+        "ja": "働く",
+        "fr": "Travailler",
+        "ko": "일하다",
+        "es": "Trabajar"
+    },
+    {
+        "word": "Play",
+        "ar": "يلعب",
+        "ja": "遊ぶ",
+        "fr": "Jouer",
+        "ko": "놀다",
+        "es": "Jugar"
+    },
+    {
+        "word": "Learn",
+        "ar": "يتعلم",
+        "ja": "学ぶ",
+        "fr": "Apprendre",
+        "ko": "배우다",
+        "es": "Aprender"
+    },
+    {
+        "word": "Teach",
+        "ar": "يعلم",
+        "ja": "教える",
+        "fr": "Enseigner",
+        "ko": "가르치다",
+        "es": "Enseñar"
+    },
+    {
+        "word": "Buy",
+        "ar": "يشتري",
+        "ja": "買う",
+        "fr": "Acheter",
+        "ko": "사다",
+        "es": "Comprar"
+    },
+    {
+        "word": "Sell",
+        "ar": "يبيع",
+        "ja": "売る",
+        "fr": "Vendre",
+        "ko": "팔다",
+        "es": "Vender"
+    },
+    {
+        "word": "Give",
+        "ar": "يعطي",
+        "ja": "与える",
+        "fr": "Donner",
+        "ko": "주다",
+        "es": "Dar"
+    },
+    {
+        "word": "Take",
+        "ar": "يأخذ",
+        "ja": "取る",
+        "fr": "Prendre",
+        "ko": "받다",
+        "es": "Tomar"
+    },
+    {
+        "word": "Friend",
+        "ar": "صديق",
+        "ja": "友達",
+        "fr": "Ami",
+        "ko": "친구",
+        "es": "Amigo"
+    },
+    {
+        "word": "Enemy",
+        "ar": "عدو",
+        "ja": "敵",
+        "fr": "Ennemi",
+        "ko": "적",
+        "es": "Enemigo"
+    }
+]

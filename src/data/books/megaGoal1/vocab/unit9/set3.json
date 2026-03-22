@@ -1,0 +1,503 @@
+{
+    "unit": "Mega Goal 1 - Unit 9: Complaints Complaints",
+    "type": "speaking",
+    "setTitle": "Speaking & Real Talk",
+    "words": [
+        {
+            "word": "Yes, please, if you could.",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "A very "
+                },
+                {
+                    "text": "polite way to accept an offer",
+                    "highlight": true
+                },
+                {
+                    "text": " of help; softens the request by making it "
+                },
+                {
+                    "text": "conditional and courteous",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "نعم من فضلك، إن أمكنك",
+            "synonyms": [
+                "Yes, thank you, if it's not too much trouble",
+                "I'd appreciate that"
+            ],
+            "example": [
+                {
+                    "text": "\"Would you like me to carry those bags for you?\" \""
+                },
+                {
+                    "text": "Yes, please, if you could.",
+                    "colorize": true
+                },
+                {
+                    "text": "\""
+                }
+            ],
+            "tips": "More polite than a simple 'yes'—shows respect and consideration. Common in customer service interactions and formal situations."
+        },
+        {
+            "word": "It sounds like",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Used to express an "
+                },
+                {
+                    "text": "assumption or conclusion",
+                    "highlight": true
+                },
+                {
+                    "text": " based on what someone has just "
+                },
+                {
+                    "text": "described or said",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يبدو أن / يبدو كأنه",
+            "synonyms": [
+                "That seems like",
+                "I'm guessing that"
+            ],
+            "example": [
+                {
+                    "text": "\"The engine is making a grinding noise and smoke is coming out.\" \""
+                },
+                {
+                    "text": "It sounds like",
+                    "colorize": true
+                },
+                {
+                    "text": " you need a new transmission.\""
+                }
+            ],
+            "tips": "Shows you're listening and making an educated guess. Not definitive—leaves room for correction ('It sounds like X, but maybe I'm wrong')."
+        },
+        {
+            "word": "wide-cut",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Clothing that is "
+                },
+                {
+                    "text": "cut generously",
+                    "highlight": true
+                }
+            ],
+            "arabicMeaning": "واسع القَصّة",
+            "synonyms": [
+                "loose-cut",
+                "relaxed fit"
+            ],
+            "example": [
+                {
+                    "text": "These "
+                },
+                {
+                    "text": "wide-cut",
+                    "colorize": true
+                },
+                {
+                    "text": " trousers are comfortable for long flights because they don't feel tight"
+                }
+            ],
+            "tips": "Fashion term describing silhouette/fit. Opposite: slim-cut, skinny, fitted. 'Cut' here refers to the pattern shape, not scissors."
+        },
+        {
+            "word": "faded",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Having lost "
+                },
+                {
+                    "text": "brightness or color intensity",
+                    "highlight": true
+                },
+                {
+                    "text": " through washing, sun exposure, or "
+                },
+                {
+                    "text": "intentional distressing",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "باهت / مُبيّض",
+            "synonyms": [
+                "washed-out",
+                "bleached",
+                "distressed"
+            ],
+            "example": [
+                {
+                    "text": "She prefers buying vintage t-shirts with naturally "
+                },
+                {
+                    "text": "faded",
+                    "colorize": true
+                },
+                {
+                    "text": " graphics that look soft and worn"
+                }
+            ],
+            "tips": "Can be intentional (fashionable) or unintentional (damage from sun/washing). Not the same as 'fade' as a verb (to gradually disappear)."
+        },
+        {
+            "word": "loose-fitting",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Clothing that hangs "
+                },
+                {
+                    "text": "away from the body",
+                    "highlight": true
+                },
+                {
+                    "text": " and feels "
+                },
+                {
+                    "text": "comfortable and not tight",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "فضفاض",
+            "synonyms": [
+                "baggy",
+                "relaxed fit",
+                "not tight"
+            ],
+            "example": [
+                {
+                    "text": "Many students prefer "
+                },
+                {
+                    "text": "loose-fitting",
+                    "colorize": true
+                },
+                {
+                    "text": " clothes on hot days because they are more comfortable"
+                }
+            ],
+            "tips": "Used to describe comfortable clothing that is designed to allow easy movement. It does not suggest anything inappropriate."
+        },
+        {
+            "word": "in style",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Currently "
+                },
+                {
+                    "text": "fashionable or popular",
+                    "highlight": true
+                },
+                {
+                    "text": "; following the "
+                },
+                {
+                    "text": "latest trends",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "عصرِي / رائج",
+            "synonyms": [
+                "trendy",
+                "fashionable",
+                "in fashion"
+            ],
+            "example": [
+                {
+                    "text": "Platform shoes were completely out of style for years, but now they're suddenly "
+                },
+                {
+                    "text": "in style",
+                    "colorize": true
+                },
+                {
+                    "text": " again among teenagers"
+                }
+            ],
+            "tips": "Opposite: 'out of style' or 'outdated'. 'Style' here is uncountable—never 'in styles'. Related: 'stylish' (adjective describing a person/item)."
+        },
+        {
+            "word": "flimsy",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Made of "
+                },
+                {
+                    "text": "thin, weak material",
+                    "highlight": true
+                },
+                {
+                    "text": " that seems likely to "
+                },
+                {
+                    "text": "tear, break, or collapse easily",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ضعيف / رقيق جدًا",
+            "synonyms": [
+                "feeble",
+                "fragile",
+                "insubstantial"
+            ],
+            "example": [
+                {
+                    "text": "The cheap umbrella was so "
+                },
+                {
+                    "text": "flimsy",
+                    "colorize": true
+                },
+                {
+                    "text": " that a light breeze turned it inside out and snapped two ribs"
+                }
+            ],
+            "tips": "Strong complaint word implying poor quality construction. Often used for cheap products that fail quickly. Not the same as 'lightweight' (which can be positive)."
+        },
+        {
+            "word": "lightweight",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Weighing very "
+                },
+                {
+                    "text": "little; not heavy",
+                    "highlight": true
+                },
+                {
+                    "text": " — often a "
+                },
+                {
+                    "text": "positive quality",
+                    "highlight2": true
+                },
+                {
+                    "text": " in clothing and gear"
+                }
+            ],
+            "arabicMeaning": "خفيف الوزن",
+            "synonyms": [
+                "light",
+                "not heavy"
+            ],
+            "example": [
+                {
+                    "text": "These "
+                },
+                {
+                    "text": "lightweight",
+                    "colorize": true
+                },
+                {
+                    "text": " hiking boots saved my energy during the ten-kilometer mountain trek"
+                }
+            ],
+            "tips": "Generally positive (comfortable, portable) unlike 'flimsy' (negative, poorly made). Context matters: 'lightweight champion' = sports category; 'lightweight argument' = weak reasoning."
+        },
+        {
+            "word": "latest trend",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "The most recent "
+                },
+                {
+                    "text": "popular style or fashion",
+                    "highlight": true
+                },
+                {
+                    "text": " that many people are currently "
+                },
+                {
+                    "text": "adopting",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "أحدث موضة",
+            "synonyms": [
+                "current fashion",
+                "newest craze"
+            ],
+            "example": [
+                {
+                    "text": "Oversized blazers became the "
+                },
+                {
+                    "text": "latest trend",
+                    "colorize": true
+                },
+                {
+                    "text": " after several celebrities wore them on red carpets last month"
+                }
+            ],
+            "tips": "Trends change quickly—what's 'latest' today may be outdated in months. Not the same as 'classic' (timeless styles that never go out of fashion)."
+        },
+        {
+            "word": "torn",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Ripped or "
+                },
+                {
+                    "text": "split apart",
+                    "highlight": true
+                },
+                {
+                    "text": " with visible "
+                },
+                {
+                    "text": "openings in the fabric",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ممزّق",
+            "synonyms": [
+                "ripped",
+                "shredded"
+            ],
+            "example": [
+                {
+                    "text": "The rescue dog arrived at the shelter with a "
+                },
+                {
+                    "text": "torn",
+                    "colorize": true
+                },
+                {
+                    "text": " ear that needed stitches from a fight with another animal"
+                }
+            ],
+            "tips": "From irregular verb 'tear → tore → torn'. Different from 'worn' (thinned by use) or 'hole' (missing material without torn edges)."
+        },
+        {
+            "word": "falling apart",
+            "wordType": "phrasal verb phrase",
+            "definition": [
+                {
+                    "text": "Breaking into pieces or "
+                },
+                {
+                    "text": "disintegrating",
+                    "highlight": true
+                },
+                {
+                    "text": " due to poor quality, age, or "
+                },
+                {
+                    "text": "excessive wear",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يتفتت / ينهار",
+            "synonyms": [
+                "coming apart",
+                "disintegrating",
+                "falling to pieces"
+            ],
+            "example": [
+                {
+                    "text": "After three years of daily use, the cheap sofa was literally "
+                },
+                {
+                    "text": "falling apart",
+                    "colorize": true
+                },
+                {
+                    "text": " — springs were poking through and the arms were wobbly"
+                }
+            ],
+            "tips": "Strong complaint expression implying complete failure of construction. Can be literal (physical disintegration) or figurative ('My schedule is falling apart')."
+        },
+        {
+            "word": "washer",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A machine that "
+                },
+                {
+                    "text": "cleans clothes using water",
+                    "highlight": true
+                },
+                {
+                    "text": " and detergent; short for "
+                },
+                {
+                    "text": "'washing machine'",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "غسالة ملابس",
+            "synonyms": [
+                "washing machine",
+                "laundry machine"
+            ],
+            "example": [
+                {
+                    "text": "Always check pockets before putting clothes in the "
+                },
+                {
+                    "text": "washer",
+                    "colorize": true
+                },
+                {
+                    "text": " — I once ruined three shirts because I forgot my phone was in my jeans"
+                }
+            ],
+            "tips": "American English: 'washer' (noun) vs. 'wash' (verb). British English often says 'washing machine' in full. Not the same as 'dishwasher' (for dishes) or 'dryer' (removes moisture after washing)."
+        },
+        {
+            "word": "return",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To take a purchased item back to the store to "
+                },
+                {
+                    "text": "exchange it or get a refund",
+                    "highlight": true
+                },
+                {
+                    "text": " because of "
+                },
+                {
+                    "text": "defects or dissatisfaction",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يرد / يسترجع",
+            "synonyms": [
+                "take back",
+                "exchange",
+                "get a refund for"
+            ],
+            "example": [
+                {
+                    "text": "I need to "
+                },
+                {
+                    "text": "return",
+                    "colorize": true
+                },
+                {
+                    "text": " these shoes—the heel broke off the first time I wore them"
+                }
+            ],
+            "tips": "Stores have 'return policies' specifying time limits and requirements (receipt needed, tags attached). 'Return' implies the item is defective or unwanted—not just trying on clothes."
+        }
+    ]
+}

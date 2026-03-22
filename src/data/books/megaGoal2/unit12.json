@@ -1,0 +1,1756 @@
+{
+    "unit": "Unit 12: Lost and Found",
+    "grammarMCQ": [
+        {
+            "q": "This is the city _____ I was born.",
+            "opts": [
+                "where",
+                "when",
+                "which",
+                "who"
+            ],
+            "ans": "where"
+        },
+        {
+            "q": "That was the day _____ we met.",
+            "opts": [
+                "when",
+                "where",
+                "which",
+                "who"
+            ],
+            "ans": "when"
+        },
+        {
+            "q": "I know a man _____ car was stolen.",
+            "opts": [
+                "whose",
+                "who",
+                "whom",
+                "that"
+            ],
+            "ans": "whose"
+        },
+        {
+            "q": "The house _____ roof is red is mine.",
+            "opts": [
+                "whose",
+                "which",
+                "where",
+                "who"
+            ],
+            "ans": "whose"
+        },
+        {
+            "q": "If I could, I _____ help you.",
+            "opts": [
+                "would",
+                "will",
+                "can",
+                "shall"
+            ],
+            "ans": "would"
+        },
+        {
+            "q": "If I _____ known, I would have come.",
+            "opts": [
+                "had",
+                "have",
+                "has",
+                "having"
+            ],
+            "ans": "had"
+        },
+        {
+            "q": "I wish I _____ seen it.",
+            "opts": [
+                "had",
+                "have",
+                "has",
+                "was"
+            ],
+            "ans": "had"
+        },
+        {
+            "q": "It looks _____ if it is going to rain.",
+            "opts": [
+                "as",
+                "like",
+                "so",
+                "that"
+            ],
+            "ans": "as"
+        },
+        {
+            "q": "He talks as _____ he knows everything.",
+            "opts": [
+                "though",
+                "if",
+                "that",
+                "like"
+            ],
+            "ans": "though"
+        },
+        {
+            "q": "It is high _____ you went to bed.",
+            "opts": [
+                "time",
+                "hour",
+                "moment",
+                "day"
+            ],
+            "ans": "time"
+        },
+        {
+            "q": "Not only _____ he late, but he forgot his book.",
+            "opts": [
+                "was",
+                "is",
+                "were",
+                "are"
+            ],
+            "ans": "was"
+        },
+        {
+            "q": "No _____ had we arrived than it rained.",
+            "opts": [
+                "sooner",
+                "later",
+                "matter",
+                "longer"
+            ],
+            "ans": "sooner"
+        },
+        {
+            "q": "Little _____ he know the truth.",
+            "opts": [
+                "did",
+                "does",
+                "do",
+                "done"
+            ],
+            "ans": "did"
+        },
+        {
+            "q": "Never _____ I seen such a thing.",
+            "opts": [
+                "have",
+                "has",
+                "had",
+                "having"
+            ],
+            "ans": "have"
+        },
+        {
+            "q": "Seldom _____ we go out now.",
+            "opts": [
+                "do",
+                "did",
+                "does",
+                "done"
+            ],
+            "ans": "do"
+        },
+        {
+            "q": "Under no _____ should you open it.",
+            "opts": [
+                "circumstances",
+                "account",
+                "way",
+                "time"
+            ],
+            "ans": "circumstances"
+        },
+        {
+            "q": "On no _____ must you tell him.",
+            "opts": [
+                "account",
+                "circumstances",
+                "way",
+                "time"
+            ],
+            "ans": "account"
+        },
+        {
+            "q": "The teacher _____ class I take is nice.",
+            "opts": [
+                "whose",
+                "who",
+                "whom",
+                "which"
+            ],
+            "ans": "whose"
+        },
+        {
+            "q": "The year _____ I graduated was 2020.",
+            "opts": [
+                "when",
+                "where",
+                "which",
+                "who"
+            ],
+            "ans": "when"
+        },
+        {
+            "q": "The park _____ we play is big.",
+            "opts": [
+                "where",
+                "when",
+                "which",
+                "who"
+            ],
+            "ans": "where"
+        },
+        {
+            "q": "This is the room in _____ it happened.",
+            "opts": [
+                "which",
+                "where",
+                "that",
+                "who"
+            ],
+            "ans": "which"
+        },
+        {
+            "q": "That is the day on _____ we met.",
+            "opts": [
+                "which",
+                "when",
+                "that",
+                "who"
+            ],
+            "ans": "which"
+        },
+        {
+            "q": "The student _____ project won is happy.",
+            "opts": [
+                "whose",
+                "who's",
+                "who",
+                "whom"
+            ],
+            "ans": "whose"
+        },
+        {
+            "q": "Do you know _____ coming to the party?",
+            "opts": [
+                "who's",
+                "whose",
+                "who",
+                "whom"
+            ],
+            "ans": "who's"
+        },
+        {
+            "q": "He acts as if he _____ rich.",
+            "opts": [
+                "were",
+                "is",
+                "was",
+                "be"
+            ],
+            "ans": "were"
+        },
+        {
+            "q": "It's about time we _____ home.",
+            "opts": [
+                "went",
+                "go",
+                "gone",
+                "going"
+            ],
+            "ans": "went"
+        },
+        {
+            "q": "If he _____ studied, he would have passed.",
+            "opts": [
+                "had",
+                "has",
+                "have",
+                "having"
+            ],
+            "ans": "had"
+        },
+        {
+            "q": "I would have called if I _____ known.",
+            "opts": [
+                "had",
+                "have",
+                "has",
+                "was"
+            ],
+            "ans": "had"
+        },
+        {
+            "q": "Not until I saw him _____ I believe it.",
+            "opts": [
+                "did",
+                "do",
+                "does",
+                "done"
+            ],
+            "ans": "did"
+        },
+        {
+            "q": "Rarely _____ he miss a class.",
+            "opts": [
+                "does",
+                "do",
+                "did",
+                "done"
+            ],
+            "ans": "does"
+        },
+        {
+            "q": "I visited the city _____ the treasure is buried.",
+            "opts": [
+                "where",
+                "when",
+                "which",
+                "who"
+            ],
+            "ans": "where"
+        },
+        {
+            "q": "Monday is the day _____ I work late.",
+            "opts": [
+                "when",
+                "where",
+                "which",
+                "who"
+            ],
+            "ans": "when"
+        },
+        {
+            "q": "The man _____ wallet I found was happy.",
+            "opts": [
+                "whose",
+                "who's",
+                "who",
+                "whom"
+            ],
+            "ans": "whose"
+        },
+        {
+            "q": "The woman _____ lost her watch is here.",
+            "opts": [
+                "who's",
+                "whose",
+                "whom",
+                "which"
+            ],
+            "ans": "who's"
+        },
+        {
+            "q": "If Carter _____ given up, he wouldn't have found it.",
+            "opts": [
+                "had",
+                "has",
+                "have",
+                "having"
+            ],
+            "ans": "had"
+        },
+        {
+            "q": "He wouldn't have found it if he _____ looked.",
+            "opts": [
+                "hadn't",
+                "hasn't",
+                "haven't",
+                "didn't"
+            ],
+            "ans": "hadn't"
+        },
+        {
+            "q": "It's high time you _____ a job.",
+            "opts": [
+                "found",
+                "find",
+                "finds",
+                "finding"
+            ],
+            "ans": "found"
+        },
+        {
+            "q": "She behaves as _____ she owns the place.",
+            "opts": [
+                "though",
+                "if",
+                "that",
+                "like"
+            ],
+            "ans": "though"
+        },
+        {
+            "q": "Not only _____ they find gold, but also silver.",
+            "opts": [
+                "did",
+                "do",
+                "does",
+                "done"
+            ],
+            "ans": "did"
+        },
+        {
+            "q": "Never _____ I been so lost.",
+            "opts": [
+                "have",
+                "had",
+                "has",
+                "having"
+            ],
+            "ans": "have"
+        },
+        {
+            "q": "Seldom _____ I seen such beauty.",
+            "opts": [
+                "have",
+                "had",
+                "has",
+                "having"
+            ],
+            "ans": "have"
+        },
+        {
+            "q": "Little _____ they know what was coming.",
+            "opts": [
+                "did",
+                "do",
+                "does",
+                "done"
+            ],
+            "ans": "did"
+        },
+        {
+            "q": "No sooner _____ he arrived than he left.",
+            "opts": [
+                "had",
+                "has",
+                "have",
+                "was"
+            ],
+            "ans": "had"
+        },
+        {
+            "q": "On no account _____ you leave.",
+            "opts": [
+                "should",
+                "would",
+                "could",
+                "might"
+            ],
+            "ans": "should"
+        },
+        {
+            "q": "Under no circumstances _____ you touch it.",
+            "opts": [
+                "must",
+                "can",
+                "may",
+                "will"
+            ],
+            "ans": "must"
+        }
+    ],
+    "fillInBlank": [
+        {
+            "s": "This is the place _____ I live.",
+            "a": "where"
+        },
+        {
+            "s": "I remember the time _____ we promised.",
+            "a": "when"
+        },
+        {
+            "s": "The man _____ car is blue is my dad.",
+            "a": "whose"
+        },
+        {
+            "s": "If I _____ known, I would have told you.",
+            "a": "had"
+        },
+        {
+            "s": "It looks _____ if it's going to snow.",
+            "a": "as"
+        },
+        {
+            "s": "He acts as _____ he is the boss.",
+            "a": "though"
+        },
+        {
+            "s": "It's about _____ you started working.",
+            "a": "time"
+        },
+        {
+            "s": "Not _____ did he win, but he set a record.",
+            "a": "only"
+        },
+        {
+            "s": "No _____ had I sat down than the phone rang.",
+            "a": "sooner"
+        },
+        {
+            "s": "Little _____ she know about the surprise.",
+            "a": "did"
+        },
+        {
+            "s": "Never _____ I seen such a huge crowd.",
+            "a": "have"
+        },
+        {
+            "s": "On no _____ should you enter.",
+            "a": "account"
+        },
+        {
+            "s": "Under no _____ must you tell.",
+            "a": "circumstances"
+        },
+        {
+            "s": "The boy _____ bike was stolen is crying.",
+            "a": "whose"
+        },
+        {
+            "s": "Do you know _____ key this is?",
+            "a": "whose"
+        },
+        {
+            "s": "That is the house in _____ I grew up.",
+            "a": "which"
+        },
+        {
+            "s": "The day on _____ we met was rainy.",
+            "a": "which"
+        },
+        {
+            "s": "If he _____ checked, he would have seen it.",
+            "a": "had"
+        },
+        {
+            "s": "I wish I _____ gone to the party.",
+            "a": "had"
+        },
+        {
+            "s": "She talks as if she _____ a queen.",
+            "a": "were"
+        },
+        {
+            "s": "It's high time he _____ a decision.",
+            "a": "made"
+        },
+        {
+            "s": "Seldom _____ we see him these days.",
+            "a": "do"
+        },
+        {
+            "s": "Rarely _____ she complain.",
+            "a": "does"
+        },
+        {
+            "s": "Not until yesterday _____ I know.",
+            "a": "did"
+        },
+        {
+            "s": "Moctezuma was an Aztec _____.",
+            "a": "emperor"
+        },
+        {
+            "s": "Cortés was a Spanish _____.",
+            "a": "invader"
+        },
+        {
+            "s": "Tutankhamun was a boy _____.",
+            "a": "pharaoh"
+        },
+        {
+            "s": "His tomb is in the Valley of the _____.",
+            "a": "Kings"
+        },
+        {
+            "s": "Carter found the _____ door.",
+            "a": "sealed"
+        },
+        {
+            "s": "The Amber Room was made of _____.",
+            "a": "amber"
+        },
+        {
+            "s": "It was given to Tsar _____ the Great.",
+            "a": "Peter"
+        },
+        {
+            "s": "The Nazis took the room in _____.",
+            "a": "crates"
+        },
+        {
+            "s": "It may be buried in salt _____.",
+            "a": "mines"
+        },
+        {
+            "s": "The document was the Declaration of _____.",
+            "a": "Independence"
+        },
+        {
+            "s": "He bought it at a _____ market.",
+            "a": "flea"
+        },
+        {
+            "s": "The painting was by Jackson _____.",
+            "a": "Pollock"
+        },
+        {
+            "s": "She bought it at a _____ shop.",
+            "a": "thrift"
+        },
+        {
+            "s": "Terry Herbert used a metal _____.",
+            "a": "detector"
+        },
+        {
+            "s": "He found Anglo-Saxon _____.",
+            "a": "gold"
+        },
+        {
+            "s": "It included swords and _____.",
+            "a": "weapons"
+        },
+        {
+            "s": "What is _____ you? (bothering)",
+            "a": "eating"
+        },
+        {
+            "s": "I'm down in the _____ (sad).",
+            "a": "dumps"
+        },
+        {
+            "s": "He hit the _____ (angry).",
+            "a": "roof"
+        },
+        {
+            "s": "Don't get _____ out of shape (upset).",
+            "a": "bent"
+        },
+        {
+            "s": "Vanished into _____ air.",
+            "a": "thin"
+        },
+        {
+            "s": "I _____ not going. (regret)",
+            "a": "regret"
+        },
+        {
+            "s": "What a _____! (pity)",
+            "a": "shame"
+        },
+        {
+            "s": "If _____ I had known.",
+            "a": "only"
+        },
+        {
+            "s": "Hold _____ (wait).",
+            "a": "on"
+        },
+        {
+            "s": "Let me take a _____.",
+            "a": "look"
+        }
+    ],
+    "oddOneOut": [
+        {
+            "w": [
+                "preserve",
+                "save",
+                "protect",
+                "destroy"
+            ],
+            "a": "destroy"
+        },
+        {
+            "w": [
+                "invaluable",
+                "priceless",
+                "precious",
+                "worthless"
+            ],
+            "a": "worthless"
+        },
+        {
+            "w": [
+                "notorious",
+                "famous",
+                "infamous",
+                "unknown"
+            ],
+            "a": "unknown"
+        },
+        {
+            "w": [
+                "surrender",
+                "give up",
+                "yield",
+                "fight"
+            ],
+            "a": "fight"
+        },
+        {
+            "w": [
+                "authentic",
+                "real",
+                "genuine",
+                "fake"
+            ],
+            "a": "fake"
+        },
+        {
+            "w": [
+                "ancient",
+                "modern",
+                "old",
+                "antique"
+            ],
+            "a": "modern"
+        },
+        {
+            "w": [
+                "stumble upon",
+                "find",
+                "discover",
+                "lose"
+            ],
+            "a": "lose"
+        },
+        {
+            "w": [
+                "exhibit",
+                "display",
+                "show",
+                "hide"
+            ],
+            "a": "hide"
+        },
+        {
+            "w": [
+                "king",
+                "queen",
+                "pharaoh",
+                "peasant"
+            ],
+            "a": "peasant"
+        },
+        {
+            "w": [
+                "sword",
+                "weapon",
+                "shield",
+                "flower"
+            ],
+            "a": "flower"
+        },
+        {
+            "w": [
+                "gold",
+                "silver",
+                "amber",
+                "wood"
+            ],
+            "a": "wood"
+        },
+        {
+            "w": [
+                "museum",
+                "gallery",
+                "exhibition",
+                "forest"
+            ],
+            "a": "forest"
+        },
+        {
+            "w": [
+                "archaeologist",
+                "historian",
+                "astronomer",
+                "plumber"
+            ],
+            "a": "plumber"
+        },
+        {
+            "w": [
+                "tomb",
+                "grave",
+                "burial",
+                "living room"
+            ],
+            "a": "living room"
+        },
+        {
+            "w": [
+                "jewelry",
+                "necklace",
+                "ring",
+                "shoe"
+            ],
+            "a": "shoe"
+        },
+        {
+            "w": [
+                "crate",
+                "box",
+                "container",
+                "liquid"
+            ],
+            "a": "liquid"
+        },
+        {
+            "w": [
+                "mine",
+                "cave",
+                "tunnel",
+                "sky"
+            ],
+            "a": "sky"
+        },
+        {
+            "w": [
+                "aggravated",
+                "annoyed",
+                "upset",
+                "happy"
+            ],
+            "a": "happy"
+        },
+        {
+            "w": [
+                "vanish",
+                "disappear",
+                "fade",
+                "appear"
+            ],
+            "a": "appear"
+        },
+        {
+            "w": [
+                "regret",
+                "remorse",
+                "sorrow",
+                "joy"
+            ],
+            "a": "joy"
+        },
+        {
+            "w": [
+                "appraiser",
+                "evaluator",
+                "judge",
+                "criminal"
+            ],
+            "a": "criminal"
+        },
+        {
+            "w": [
+                "thrift shop",
+                "flea market",
+                "garage sale",
+                "mall"
+            ],
+            "a": "mall"
+        },
+        {
+            "w": [
+                "painting",
+                "drawing",
+                "sketch",
+                "sculpture"
+            ],
+            "a": "sculpture"
+        },
+        {
+            "w": [
+                "ticket",
+                "luggage",
+                "suitcase",
+                "bag"
+            ],
+            "a": "ticket"
+        },
+        {
+            "w": [
+                "stress",
+                "anxiety",
+                "worry",
+                "relaxation"
+            ],
+            "a": "relaxation"
+        },
+        {
+            "w": [
+                "urgent",
+                "pressing",
+                "important",
+                "trivial"
+            ],
+            "a": "trivial"
+        },
+        {
+            "w": [
+                "carousel",
+                "conveyor",
+                "belt",
+                "floor"
+            ],
+            "a": "floor"
+        },
+        {
+            "w": [
+                "sticker",
+                "label",
+                "tag",
+                "stone"
+            ],
+            "a": "stone"
+        },
+        {
+            "w": [
+                "exhausted",
+                "tired",
+                "weary",
+                "energetic"
+            ],
+            "a": "energetic"
+        },
+        {
+            "w": [
+                "breathtaking",
+                "amazing",
+                "stunning",
+                "ugly"
+            ],
+            "a": "ugly"
+        },
+        {
+            "w": [
+                "legendary",
+                "famous",
+                "renowned",
+                "unknown"
+            ],
+            "a": "unknown"
+        },
+        {
+            "w": [
+                "extraordinary",
+                "amazing",
+                "remarkable",
+                "common"
+            ],
+            "a": "common"
+        },
+        {
+            "w": [
+                "exquisite",
+                "beautiful",
+                "lovely",
+                "ugly"
+            ],
+            "a": "ugly"
+        },
+        {
+            "w": [
+                "ethnographic",
+                "cultural",
+                "social",
+                "mathematical"
+            ],
+            "a": "mathematical"
+        },
+        {
+            "w": [
+                "monument",
+                "statue",
+                "memorial",
+                "book"
+            ],
+            "a": "book"
+        },
+        {
+            "w": [
+                "reveal",
+                "show",
+                "uncover",
+                "hide"
+            ],
+            "a": "hide"
+        },
+        {
+            "w": [
+                "record",
+                "document",
+                "note",
+                "erase"
+            ],
+            "a": "erase"
+        },
+        {
+            "w": [
+                "search",
+                "look for",
+                "hunt",
+                "ignore"
+            ],
+            "a": "ignore"
+        },
+        {
+            "w": [
+                "mask",
+                "disguise",
+                "cover",
+                "face"
+            ],
+            "a": "face"
+        },
+        {
+            "w": [
+                "invader",
+                "attacker",
+                "conqueror",
+                "defender"
+            ],
+            "a": "defender"
+        },
+        {
+            "w": [
+                "dazzling",
+                "bright",
+                "shining",
+                "dull"
+            ],
+            "a": "dull"
+        },
+        {
+            "w": [
+                "escape",
+                "flee",
+                "run away",
+                "stay"
+            ],
+            "a": "stay"
+        },
+        {
+            "w": [
+                "drain",
+                "empty",
+                "remove water",
+                "fill"
+            ],
+            "a": "fill"
+        },
+        {
+            "w": [
+                "trace",
+                "sign",
+                "clue",
+                "nothing"
+            ],
+            "a": "nothing"
+        },
+        {
+            "w": [
+                "speculation",
+                "guess",
+                "theory",
+                "fact"
+            ],
+            "a": "fact"
+        },
+        {
+            "w": [
+                "hut",
+                "shack",
+                "cabin",
+                "mansion"
+            ],
+            "a": "mansion"
+        },
+        {
+            "w": [
+                "finance",
+                "fund",
+                "pay for",
+                "steal"
+            ],
+            "a": "steal"
+        },
+        {
+            "w": [
+                "buried",
+                "covered",
+                "hidden",
+                "exposed"
+            ],
+            "a": "exposed"
+        },
+        {
+            "w": [
+                "theory",
+                "hypothesis",
+                "idea",
+                "truth"
+            ],
+            "a": "truth"
+        }
+    ],
+    "translateToArabic": [
+        {
+            "en": "Cortés collected the dazzling treasures.",
+            "ar": "جمع كورتيس الكنوز المبهرة."
+        },
+        {
+            "en": "The Aztecs refused to surrender.",
+            "ar": "رفض الأزتيك الاستسلام."
+        },
+        {
+            "en": "He escaped empty-handed.",
+            "ar": "هرب خالي الوفاض."
+        },
+        {
+            "en": "They hid the treasure.",
+            "ar": "أخفوا الكنز."
+        },
+        {
+            "en": "No one knows exactly where.",
+            "ar": "لا أحد يعرف المكان بالضبط."
+        },
+        {
+            "en": "Tutankhamun was the boy pharaoh.",
+            "ar": "كان توت عنخ آمون الفرعون الصبي."
+        },
+        {
+            "en": "His tomb is the best preserved.",
+            "ar": "مقبرته هي الأفضل حفظاً."
+        },
+        {
+            "en": "Carter found the sealed door.",
+            "ar": "وجد كارتر الباب المختوم."
+        },
+        {
+            "en": "They found amazing artifacts.",
+            "ar": "وجدوا قطعاً أثرية مذهلة."
+        },
+        {
+            "en": "The gold mask is famous.",
+            "ar": "القناع الذهبي مشهور."
+        },
+        {
+            "en": "The Amber Room had amber walls.",
+            "ar": "كان لغرفة العنبر جدران من العنبر."
+        },
+        {
+            "en": "It was given as a gift.",
+            "ar": "أعطيت كهدية."
+        },
+        {
+            "en": "The Nazis took it down.",
+            "ar": "فككها النازيون."
+        },
+        {
+            "en": "It has never been discovered.",
+            "ar": "لم يتم اكتشافها أبداً."
+        },
+        {
+            "en": "It is worth millions today.",
+            "ar": "إنها تساوي الملايين اليوم."
+        },
+        {
+            "en": "He bought it at a flea market.",
+            "ar": "اشتراها من سوق البراغيث (سوق المستعمل)."
+        },
+        {
+            "en": "The document was wedged inside.",
+            "ar": "كانت الوثيقة محشورة في الداخل."
+        },
+        {
+            "en": "It was an authentic copy.",
+            "ar": "كانت نسخة أصلية."
+        },
+        {
+            "en": "She found it in a thrift shop.",
+            "ar": "وجدتها في متجر خيري."
+        },
+        {
+            "en": "She thought it was ugly.",
+            "ar": "اعتقدت أنها قبيحة."
+        },
+        {
+            "en": "Experts evaluated the painting.",
+            "ar": "قيم الخبراء اللوحة."
+        },
+        {
+            "en": "He stumbled upon the treasure.",
+            "ar": "عثر على الكنز بالصدفة."
+        },
+        {
+            "en": "He used a metal detector.",
+            "ar": "استخدم جهاز كشف معادن."
+        },
+        {
+            "en": "It fun to win a prize.",
+            "ar": "من الممتع الفوز بجائزة."
+        },
+        {
+            "en": "This is the place where I live.",
+            "ar": "هذا هو المكان الذي أعيش فيه."
+        },
+        {
+            "en": "That was the day when we met.",
+            "ar": "كان ذلك اليوم الذي التقينا فيه."
+        },
+        {
+            "en": "The man whose car was stolen.",
+            "ar": "الرجل الذي سرقت سيارته."
+        },
+        {
+            "en": "I wish I had been more careful.",
+            "ar": "أتمنى لو كنت أكثر حذراً."
+        },
+        {
+            "en": "If only I hadn't lost it.",
+            "ar": "لو أنني لم أضيعه فقط."
+        },
+        {
+            "en": "He hit the roof.",
+            "ar": "غضب بشدة (طار عقله)."
+        },
+        {
+            "en": "What's eating you?",
+            "ar": "ما الذي يزعجك؟ (ما الذي يأكلك؟)"
+        },
+        {
+            "en": "I'm down in the dumps.",
+            "ar": "أشعر بالكآبة (الحزن)."
+        },
+        {
+            "en": "It vanished into thin air.",
+            "ar": "تلاشت في الهواء (اختفت تماماً)."
+        },
+        {
+            "en": "Don't get bent out of shape.",
+            "ar": "لا تنزعج (لا تغضب)."
+        },
+        {
+            "en": "That's a shame.",
+            "ar": "هذا مؤسف."
+        },
+        {
+            "en": "I regret doing that.",
+            "ar": "أنا نادم على فعل ذلك."
+        },
+        {
+            "en": "It looks as if he is rich.",
+            "ar": "يبدو وكأنه غني."
+        },
+        {
+            "en": "It's high time you studied.",
+            "ar": "حان الوقت لكي تدرس."
+        },
+        {
+            "en": "Not only did he win, but he broke a record.",
+            "ar": "لم يفز فحسب، بل حطم رقماً قياسياً."
+        },
+        {
+            "en": "No sooner had we arrived than it rained.",
+            "ar": "ما إن وصلنا حتى أمطرت."
+        },
+        {
+            "en": "Under no circumstances open the door.",
+            "ar": "لا تفتح الباب تحت أي ظرف."
+        },
+        {
+            "en": "Never have I seen such beauty.",
+            "ar": "لم أر مثل هذا الجمال أبداً."
+        },
+        {
+            "en": "The museum has ancient exhibits.",
+            "ar": "يحتوي المتحف على معروضات قديمة."
+        },
+        {
+            "en": "You can't take photos.",
+            "ar": "لا يمكنك التقاط صور."
+        },
+        {
+            "en": "I lost my luggage.",
+            "ar": "فقدت أمتعتي."
+        },
+        {
+            "en": "I waited at the carousel.",
+            "ar": "انتظرت عند السير (حزام الحقائب)."
+        },
+        {
+            "en": "I filled out a form.",
+            "ar": "ملأت استمارة."
+        },
+        {
+            "en": "The luggage was recovered.",
+            "ar": "تم استعادة الأمتعة."
+        },
+        {
+            "en": "You're a genius!",
+            "ar": "أنت عبقري!"
+        },
+        {
+            "en": "Hold on a minute.",
+            "ar": "انتظر دقيقة."
+        }
+    ],
+    "translateToEnglish": [
+        {
+            "ar": "كنز موكتيزوما.",
+            "en": "Moctezuma's treasure."
+        },
+        {
+            "ar": "كان كورتيس غزواً إسبانياً.",
+            "en": "Cortés was a Spanish invader."
+        },
+        {
+            "ar": "أخفى الأزتيك الذهب.",
+            "en": "The Aztecs hid the gold."
+        },
+        {
+            "ar": "لم يجدها أحد.",
+            "en": "No one found it."
+        },
+        {
+            "ar": "مقبرة توت عنخ آمون.",
+            "en": "Tutankhamun's tomb."
+        },
+        {
+            "ar": "وادي الملوك.",
+            "en": "The Valley of the Kings."
+        },
+        {
+            "ar": "اكتشف كارتر المقبرة.",
+            "en": "Carter discovered the tomb."
+        },
+        {
+            "ar": "كانت مليئة بالذهب.",
+            "en": "It was full of gold."
+        },
+        {
+            "ar": "غرفة العنبر.",
+            "en": "The Amber Room."
+        },
+        {
+            "ar": "سرقها النازيون.",
+            "en": "The Nazis stole it."
+        },
+        {
+            "ar": "قد تكون في منجم.",
+            "en": "It might be in a mine."
+        },
+        {
+            "ar": "وثيقة إعلان الاستقلال.",
+            "en": "The Declaration of Independence."
+        },
+        {
+            "ar": "وجدها خلف لوحة.",
+            "en": "He found it behind a painting."
+        },
+        {
+            "ar": "كانت تساوي الملايين.",
+            "en": "It was worth millions."
+        },
+        {
+            "ar": "اشترت اللوحة بخمس دولارات.",
+            "en": "She bought the painting for five dollars."
+        },
+        {
+            "ar": "اعتقدت أنها قبيحة.",
+            "en": "She thought it was ugly."
+        },
+        {
+            "ar": "مقيم فني قيمها.",
+            "en": "An appraiser evaluated it."
+        },
+        {
+            "ar": " وجد كنز الأنجلو ساكسون.",
+            "en": "He found the Anglo-Saxon treasure."
+        },
+        {
+            "ar": "استخدم جهاز كشف المعادن.",
+            "en": "He used a metal detector."
+        },
+        {
+            "ar": "هذا هو المكان الذي أعمل فيه.",
+            "en": "This is the place where I work."
+        },
+        {
+            "ar": "هذا هو اليوم الذي ولدت فيه.",
+            "en": "This is the day when I was born."
+        },
+        {
+            "ar": "الرجل الذي بيته كبير.",
+            "en": "The man whose house is big."
+        },
+        {
+            "ar": "المرأة التي فقدت حقيبتها.",
+            "en": "The woman whose bag was lost."
+        },
+        {
+            "ar": "لو كنت أعرف لساعدتك.",
+            "en": "If I had known, I would have helped you."
+        },
+        {
+            "ar": "أتمنى لو سافرت.",
+            "en": "I wish I had traveled."
+        },
+        {
+            "ar": "يبدو وكأنه دكتور.",
+            "en": "He looks as if he is a doctor."
+        },
+        {
+            "ar": "حان الوقت لتذهب.",
+            "en": "It's high time you went."
+        },
+        {
+            "ar": "لم يدرس فحسب بل نجح.",
+            "en": "Not only did he study, but he succeeded."
+        },
+        {
+            "ar": "ما إن خرج حتى سقط.",
+            "en": "No sooner had he left than he fell."
+        },
+        {
+            "ar": "لا تخبر أحداً أبداً.",
+            "en": "On no account tell anyone."
+        },
+        {
+            "ar": "لم أذهب هناك قط.",
+            "en": "Never have I gone there."
+        },
+        {
+            "ar": "نادراً ما آكل اللحم.",
+            "en": "Seldom do I eat meat."
+        },
+        {
+            "ar": "ما الذي يزعجك؟",
+            "en": "What's eating you?"
+        },
+        {
+            "ar": "أشعر بالحزن.",
+            "en": "I'm down in the dumps."
+        },
+        {
+            "ar": "إنه غاضب جداً.",
+            "en": "He hit the roof."
+        },
+        {
+            "ar": "تلاشى في الهواء.",
+            "en": "Vanished into thin air."
+        },
+        {
+            "ar": "أنا نادم.",
+            "en": "I regret it."
+        },
+        {
+            "ar": "يا له من عار.",
+            "en": "What a shame."
+        },
+        {
+            "ar": "المتحف رائع.",
+            "en": "The museum is wonderful."
+        },
+        {
+            "ar": "يحتوي على قطع أثرية.",
+            "en": "It contains artifacts."
+        },
+        {
+            "ar": "نسخة أصلية.",
+            "en": "Authentic copy."
+        },
+        {
+            "ar": "سوق المستعمل.",
+            "en": "Flea market."
+        },
+        {
+            "ar": "متجر خيري.",
+            "en": "Thrift shop."
+        },
+        {
+            "ar": "فقدت حقيبتي.",
+            "en": "I lost my suitcase."
+        },
+        {
+            "ar": "انتظرت طويلاً.",
+            "en": "I waited for a long time."
+        },
+        {
+            "en": "It was a mistake.",
+            "ar": "كان خطأ."
+        },
+        {
+            "en": "She was upset.",
+            "ar": "كانت منزعجة."
+        },
+        {
+            "en": "He found the treasure.",
+            "ar": "وجد الكنز."
+        },
+        {
+            "en": "It is priceless.",
+            "ar": "إنه لا يقدر بثمن."
+        },
+        {
+            "en": "Don't give up.",
+            "ar": "لا تستسلم."
+        }
+    ],
+    "vocabulary": [
+        {
+            "w": "preserve",
+            "d": "to keep safe",
+            "ex": "Preserve monuments."
+        },
+        {
+            "w": "invaluable",
+            "d": "extremely useful/priceless",
+            "ex": "Invaluable help."
+        },
+        {
+            "w": "notorious",
+            "d": "famous for bad reasons",
+            "ex": "Notorious criminal."
+        },
+        {
+            "w": "revenge",
+            "d": "hurting someone back",
+            "ex": "Take revenge."
+        },
+        {
+            "w": "surrender",
+            "d": "give up",
+            "ex": "Refused to surrender."
+        },
+        {
+            "w": "authentic",
+            "d": "real, genuine",
+            "ex": "Authentic painting."
+        },
+        {
+            "w": "appraiser",
+            "d": "person who values things",
+            "ex": "Professional appraiser."
+        },
+        {
+            "w": "stumble upon",
+            "d": "find by chance",
+            "ex": "Stumbled upon gold."
+        },
+        {
+            "w": "wedged",
+            "d": "stuck in a tight space",
+            "ex": "Wedged inside."
+        },
+        {
+            "w": "exhibit",
+            "d": "show in a museum",
+            "ex": "Museum exhibit."
+        },
+        {
+            "w": "tomb",
+            "d": "burial place",
+            "ex": "King's tomb."
+        },
+        {
+            "w": "artifact",
+            "d": "man-made object",
+            "ex": "Ancient artifacts."
+        },
+        {
+            "w": "excavate",
+            "d": "dig up",
+            "ex": "Excavate the site."
+        },
+        {
+            "w": "legendary",
+            "d": "famous in stories",
+            "ex": "Legendary hero."
+        },
+        {
+            "w": "breathtaking",
+            "d": "amazing",
+            "ex": "Breathtaking view."
+        },
+        {
+            "w": "exquisite",
+            "d": "very beautiful",
+            "ex": "Exquisite jewelry."
+        },
+        {
+            "w": "vanish",
+            "d": "disappear",
+            "ex": "Vanish into air."
+        },
+        {
+            "w": "regret",
+            "d": "feel sad about past",
+            "ex": "I regret it."
+        },
+        {
+            "w": "aggravated",
+            "d": "annoyed",
+            "ex": "Feeling aggravated."
+        },
+        {
+            "w": "flea market",
+            "d": "street market for old things",
+            "ex": "Shop at flea market."
+        },
+        {
+            "w": "thrift shop",
+            "d": "store selling used goods",
+            "ex": "Buy at thrift shop."
+        },
+        {
+            "w": "attic",
+            "d": "room at top of house",
+            "ex": "Stored in attic."
+        },
+        {
+            "w": "metal detector",
+            "d": "device to find metal",
+            "ex": "Use metal detector."
+        },
+        {
+            "w": "ornament",
+            "d": "decoration",
+            "ex": "Gold ornament."
+        },
+        {
+            "w": "sword",
+            "d": "weapon with blade",
+            "ex": "Sharp sword."
+        },
+        {
+            "w": "luggage",
+            "d": "bags for travel",
+            "ex": "Lost luggage."
+        },
+        {
+            "w": "carousel",
+            "d": "conveyor belt for bags",
+            "ex": "Wait at carousel."
+        },
+        {
+            "w": "sticker",
+            "d": "adhesive label",
+            "ex": "Bag sticker."
+        },
+        {
+            "w": "recover",
+            "d": "get back",
+            "ex": "Recover the item."
+        },
+        {
+            "w": "procedure",
+            "d": "official way of doing",
+            "ex": "Follow procedure."
+        },
+        {
+            "w": "theory",
+            "d": "idea explaining something",
+            "ex": "Scientific theory."
+        },
+        {
+            "w": "dazzling",
+            "d": "very bright or impressive",
+            "ex": "Dazzling treasure."
+        },
+        {
+            "w": "kidnap",
+            "d": "take someone by force",
+            "ex": "Kidnap the king."
+        },
+        {
+            "w": "drain",
+            "d": "remove liquid",
+            "ex": "Drain the lake."
+        },
+        {
+            "w": "speculation",
+            "d": "forming a theory",
+            "ex": "Pure speculation."
+        },
+        {
+            "w": "assassinate",
+            "d": "murder a famous person",
+            "ex": "Assassinated president."
+        },
+        {
+            "w": "hut",
+            "d": "small simple house",
+            "ex": "Ancient hut."
+        },
+        {
+            "w": "sealed",
+            "d": "closed securely",
+            "ex": "Sealed door."
+        },
+        {
+            "w": "craftsmanship",
+            "d": "skill in making things",
+            "ex": "Fine craftsmanship."
+        },
+        {
+            "w": "crate",
+            "d": "wooden box",
+            "ex": "Packed in crates."
+        },
+        {
+            "w": "submarine",
+            "d": "underwater ship",
+            "ex": "Soviet submarine."
+        },
+        {
+            "w": "mine",
+            "d": "tunnel for minerals",
+            "ex": "Salt mine."
+        },
+        {
+            "w": "shelter",
+            "d": "protection",
+            "ex": "Underground shelter."
+        },
+        {
+            "w": "monument",
+            "d": "structure honoring something",
+            "ex": "Historic monument."
+        },
+        {
+            "w": "extraordinary",
+            "d": "very unusual",
+            "ex": "Extraordinary find."
+        },
+        {
+            "w": "records",
+            "d": "written accounts",
+            "ex": "Keep records."
+        },
+        {
+            "w": "ethnographic",
+            "d": "about human cultures",
+            "ex": "Ethnographic museum."
+        },
+        {
+            "w": "priceless",
+            "d": "too valuable for price",
+            "ex": "Priceless art."
+        },
+        {
+            "w": "royal",
+            "d": "related to king/queen",
+            "ex": "Royal palace."
+        },
+        {
+            "w": "pharaoh",
+            "d": "ancient Egyptian ruler",
+            "ex": "King Pharaoh."
+        }
+    ]
+}

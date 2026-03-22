@@ -1,0 +1,775 @@
+{
+    "unit": "Mega Goal 1 - Unit 5: Did You Hurt Yourself?",
+    "type": "misc",
+    "setTitle": "Speaking & Real Talk",
+    "words": [
+        {
+            "word": "lucky day",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "A day of "
+                },
+                {
+                    "text": "good fortune",
+                    "highlight": true
+                },
+                {
+                    "text": " when "
+                },
+                {
+                    "text": "positive things happen",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يوم حظ سعيد",
+            "synonyms": [
+                "fortunate day",
+                "good day"
+            ],
+            "example": [
+                {
+                    "text": "You won the lottery? It's your "
+                },
+                {
+                    "text": "lucky day",
+                    "colorize": true
+                },
+                {
+                    "text": "!"
+                }
+            ],
+            "tips": "Often ironic when something bad could have been worse. 'It was your lucky day' = you were fortunate despite problems."
+        },
+        {
+            "word": "stuck in",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Caught and "
+                },
+                {
+                    "text": "unable to move out",
+                    "highlight": true
+                },
+                {
+                    "text": " of a "
+                },
+                {
+                    "text": "situation or place",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "عالق في / محاصر في",
+            "synonyms": [
+                "trapped in",
+                "confined to"
+            ],
+            "example": [
+                {
+                    "text": "He'll be "
+                },
+                {
+                    "text": "stuck in",
+                    "colorize": true
+                },
+                {
+                    "text": " bed for a week recovering from surgery"
+                }
+            ],
+            "tips": "Can be literal (stuck in traffic) or figurative (stuck in a bad job). Implies you can't leave/escape."
+        },
+        {
+            "word": "I guess",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Expression showing "
+                },
+                {
+                    "text": "you're not totally sure",
+                    "highlight": true
+                },
+                {
+                    "text": " about a "
+                },
+                {
+                    "text": "statement or assumption",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "أعتقد / على ما أظن",
+            "synonyms": [
+                "I suppose",
+                "probably",
+                "I think"
+            ],
+            "example": [
+                {
+                    "text": "You'll be okay, "
+                },
+                {
+                    "text": "I guess",
+                    "colorize": true
+                },
+                {
+                    "text": ", but you should see a doctor to be sure"
+                }
+            ],
+            "tips": "Shows uncertainty or lack of confidence. More casual than 'I think'. Can also show reluctant agreement."
+        },
+        {
+            "word": "look at it this way",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "There's a "
+                },
+                {
+                    "text": "different way to think",
+                    "highlight": true
+                },
+                {
+                    "text": " about something; "
+                },
+                {
+                    "text": "consider another perspective",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "انظر إليها من هذه الزاوية",
+            "synonyms": [
+                "think of it differently",
+                "consider this"
+            ],
+            "example": [
+                {
+                    "text": "Look at it this way",
+                    "colorize": true
+                },
+                {
+                    "text": " - at least you learned from the mistake"
+                }
+            ],
+            "tips": "Used to present a positive spin or alternative viewpoint. Helps reframe negative situations positively."
+        },
+        {
+            "word": "fall off",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "drop or tumble",
+                    "highlight": true
+                },
+                {
+                    "text": " from "
+                },
+                {
+                    "text": "something higher",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يسقط من",
+            "synonyms": [
+                "drop from",
+                "tumble from"
+            ],
+            "example": [
+                {
+                    "text": "She "
+                },
+                {
+                    "text": "fell off",
+                    "colorize": true
+                },
+                {
+                    "text": " her bicycle and scraped her knee"
+                }
+            ],
+            "tips": "Fall off a bike, fall off a ladder, fall off a horse. Different from 'fall down' (to the ground)."
+        },
+        {
+            "word": "skid",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "slide uncontrollably",
+                    "highlight": true
+                },
+                {
+                    "text": " on a "
+                },
+                {
+                    "text": "slippery surface",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ينزلق",
+            "synonyms": [
+                "slide",
+                "slip",
+                "lose traction"
+            ],
+            "example": [
+                {
+                    "text": "The car "
+                },
+                {
+                    "text": "skidded",
+                    "colorize": true
+                },
+                {
+                    "text": " on the wet road and hit the guardrail"
+                }
+            ],
+            "tips": "Skid marks = black tire marks on road. Common on wet, icy, or oily roads when braking or turning."
+        },
+        {
+            "word": "patch",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A small "
+                },
+                {
+                    "text": "area or section",
+                    "highlight": true
+                },
+                {
+                    "text": " that is "
+                },
+                {
+                    "text": "different from surroundings",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "رقعة / بقعة",
+            "synonyms": [
+                "spot",
+                "area",
+                "section"
+            ],
+            "example": [
+                {
+                    "text": "There was a "
+                },
+                {
+                    "text": "patch",
+                    "colorize": true
+                },
+                {
+                    "text": " of ice on the road that caused the accident"
+                }
+            ],
+            "tips": "A patch of oil, patch of grass, patch of blue sky. Small, distinct area. Also: patch = to repair."
+        },
+        {
+            "word": "windshield",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "front window",
+                    "highlight": true
+                },
+                {
+                    "text": " of a "
+                },
+                {
+                    "text": "car or vehicle",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "الزجاج الأمامي للسيارة",
+            "synonyms": [
+                "front window",
+                "windscreen (British)"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "windshield",
+                    "colorize": true
+                },
+                {
+                    "text": " shattered when a rock hit it on the highway"
+                }
+            ],
+            "tips": "American English: windshield. British English: windscreen. Windshield wipers = clean rain off the glass."
+        },
+        {
+            "word": "uncomfortable",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Not "
+                },
+                {
+                    "text": "physically comfortable",
+                    "highlight": true
+                },
+                {
+                    "text": "; causing "
+                },
+                {
+                    "text": "physical or mental discomfort",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "غير مريح",
+            "synonyms": [
+                "uneasy",
+                "awkward",
+                "unpleasant"
+            ],
+            "example": [
+                {
+                    "text": "The hard wooden chair was very "
+                },
+                {
+                    "text": "uncomfortable",
+                    "colorize": true
+                },
+                {
+                    "text": " to sit on for long periods"
+                }
+            ],
+            "tips": "Un- = not. Opposite of comfortable. Can mean physical discomfort or emotional awkwardness."
+        },
+        {
+            "word": "unattractive",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Not "
+                },
+                {
+                    "text": "pleasing to look at",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "not appealing",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "غير جذاب",
+            "synonyms": [
+                "unappealing",
+                "ugly",
+                "plain"
+            ],
+            "example": [
+                {
+                    "text": "Some people think safety helmets are "
+                },
+                {
+                    "text": "unattractive",
+                    "colorize": true
+                },
+                {
+                    "text": " but they can save your life"
+                }
+            ],
+            "tips": "Un- = not. Opposite of attractive. People sometimes skip safety gear because they think it looks bad."
+        },
+        {
+            "word": "squirrel",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A small "
+                },
+                {
+                    "text": "furry animal",
+                    "highlight": true
+                },
+                {
+                    "text": " with a "
+                },
+                {
+                    "text": "bushy tail",
+                    "highlight2": true
+                },
+                {
+                    "text": " that lives in trees"
+                }
+            ],
+            "arabicMeaning": "سنجاب",
+            "synonyms": [
+                "rodent"
+            ],
+            "example": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "squirrel",
+                    "colorize": true
+                },
+                {
+                    "text": " ran across the road and the driver swerved to avoid it"
+                }
+            ],
+            "tips": "Squirrels collect and store nuts. Common in parks. Can cause accidents when they run into roads unexpectedly!"
+        },
+        {
+            "word": "out of nowhere",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Appearing "
+                },
+                {
+                    "text": "suddenly and unexpectedly",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "without warning",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "فجأة / من العدم",
+            "synonyms": [
+                "suddenly",
+                "unexpectedly",
+                "without warning"
+            ],
+            "example": [
+                {
+                    "text": "The deer came "
+                },
+                {
+                    "text": "out of nowhere",
+                    "colorize": true
+                },
+                {
+                    "text": " and jumped in front of my car"
+                }
+            ],
+            "tips": "Emphasizes how unexpected something was. 'From nowhere' or 'out of the blue' mean the same thing."
+        },
+        {
+            "word": "swerve",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "turn sharply",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "change direction suddenly",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ينحرف فجأة",
+            "synonyms": [
+                "veer",
+                "dodge",
+                "turn sharply"
+            ],
+            "example": [
+                {
+                    "text": "The driver had to "
+                },
+                {
+                    "text": "swerve",
+                    "colorize": true
+                },
+                {
+                    "text": " to avoid hitting the child who ran into the street"
+                }
+            ],
+            "tips": "Usually done to avoid hitting something. Can be dangerous - might lose control or hit something else!"
+        },
+        {
+            "word": "lose your balance",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To become "
+                },
+                {
+                    "text": "unstable",
+                    "highlight": true
+                },
+                {
+                    "text": " and "
+                },
+                {
+                    "text": "unable to stay upright",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يفقد توازنه",
+            "synonyms": [
+                "become unsteady",
+                "lose stability"
+            ],
+            "example": [
+                {
+                    "text": "She "
+                },
+                {
+                    "text": "lost her balance",
+                    "colorize": true
+                },
+                {
+                    "text": " on the icy sidewalk and fell"
+                }
+            ],
+            "tips": "Balance = ability to stay steady. Lose balance → fall. Important for cycling, walking on ice, standing on one foot."
+        },
+        {
+            "word": "get off lightly",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "escape with minor consequences",
+                    "highlight": true
+                },
+                {
+                    "text": " when "
+                },
+                {
+                    "text": "it could have been worse",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ينجو بأذى بسيط",
+            "synonyms": [
+                "escape easily",
+                "be lucky"
+            ],
+            "example": [
+                {
+                    "text": "Considering how bad the crash was, you "
+                },
+                {
+                    "text": "got off lightly",
+                    "colorize": true
+                },
+                {
+                    "text": " with just a broken arm"
+                }
+            ],
+            "tips": "Means you were lucky - the punishment or injury was less severe than expected. Always comparative to what could have happened."
+        },
+        {
+            "word": "bruise",
+            "wordType": "noun/verb",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "dark mark on skin",
+                    "highlight": true
+                },
+                {
+                    "text": " caused by "
+                },
+                {
+                    "text": "impact that breaks blood vessels",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "كدمة",
+            "synonyms": [
+                "contusion",
+                "black and blue mark"
+            ],
+            "example": [
+                {
+                    "text": "He had several "
+                },
+                {
+                    "text": "bruises",
+                    "colorize": true
+                },
+                {
+                    "text": " on his arm after bumping into the table"
+                }
+            ],
+            "tips": "Bruises change color: red → purple/blue → green → yellow as they heal. Not as serious as cuts or breaks."
+        },
+        {
+            "word": "bump",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "raised swelling",
+                    "highlight": true
+                },
+                {
+                    "text": " on the skin from "
+                },
+                {
+                    "text": "hitting something",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "انتفاخ / ورم",
+            "synonyms": [
+                "lump",
+                "swelling"
+            ],
+            "example": [
+                {
+                    "text": "She got a large "
+                },
+                {
+                    "text": "bump",
+                    "colorize": true
+                },
+                {
+                    "text": " on her forehead after hitting her head on the cabinet"
+                }
+            ],
+            "tips": "Bump on head, bump on knee. Raised area from impact. As verb: 'to bump' = to hit against something."
+        },
+        {
+            "word": "that's too bad",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Expression of "
+                },
+                {
+                    "text": "sympathy or regret",
+                    "highlight": true
+                },
+                {
+                    "text": " about "
+                },
+                {
+                    "text": "unfortunate news",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يا للأسف / هذا سيء",
+            "synonyms": [
+                "that's unfortunate",
+                "I'm sorry to hear that"
+            ],
+            "example": [
+                {
+                    "text": "You failed the exam? "
+                },
+                {
+                    "text": "That's too bad",
+                    "colorize": true
+                },
+                {
+                    "text": " - better luck next time"
+                }
+            ],
+            "tips": "Shows mild sympathy. Not as strong as 'I'm so sorry'. Casual way to acknowledge bad news."
+        },
+        {
+            "word": "wheelchair",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "chair on wheels",
+                    "highlight": true
+                },
+                {
+                    "text": " used by people who "
+                },
+                {
+                    "text": "cannot walk",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "كرسي متحرك",
+            "synonyms": [
+                "mobility chair"
+            ],
+            "example": [
+                {
+                    "text": "After breaking both legs, he needed a "
+                },
+                {
+                    "text": "wheelchair",
+                    "colorize": true
+                },
+                {
+                    "text": " for six weeks"
+                }
+            ],
+            "tips": "Used temporarily (after injury) or permanently (disability). Wheelchair accessible = buildings with ramps/elevators."
+        },
+        {
+            "word": "cast",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A hard "
+                },
+                {
+                    "text": "protective covering",
+                    "highlight": true
+                },
+                {
+                    "text": " put on "
+                },
+                {
+                    "text": "broken bones",
+                    "highlight2": true
+                },
+                {
+                    "text": " to keep them immobile while healing"
+                }
+            ],
+            "arabicMeaning": "جبيرة",
+            "synonyms": [
+                "plaster cast",
+                "brace"
+            ],
+            "example": [
+                {
+                    "text": "She wore a "
+                },
+                {
+                    "text": "cast",
+                    "colorize": true
+                },
+                {
+                    "text": " on her arm for eight weeks after breaking it"
+                }
+            ],
+            "tips": "Made of plaster or fiberglass. Keeps bone still so it heals straight. Friends often sign casts with markers!"
+        }
+    ]
+}

@@ -1,0 +1,2002 @@
+{
+    "unit": "Mega Goal 1 - Unit 9: Complaints Complaints",
+    "type": "vocabulary",
+    "setTitle": "End of Unit Vocabulary",
+    "words": [
+        {
+            "word": "button",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A small fastener on clothing used to "
+                },
+                {
+                    "text": "secure openings",
+                    "highlight": true
+                },
+                {
+                    "text": " by passing through a "
+                },
+                {
+                    "text": "buttonhole",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "زر",
+            "synonyms": [
+                "fastener",
+                "closure"
+            ],
+            "example": [
+                {
+                    "text": "The shirt was unwearable because three "
+                },
+                {
+                    "text": "button",
+                    "colorize": true
+                },
+                {
+                    "text": "s were missing from the front"
+                }
+            ],
+            "tips": "Common clothing complaint. Always check buttons before purchasing—loose buttons indicate poor quality stitching."
+        },
+        {
+            "word": "complaint",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "An expression of dissatisfaction about a product, service, or "
+                },
+                {
+                    "text": "problem that needs to be resolved",
+                    "highlight": true
+                },
+                {
+                    "text": "; a formal statement of "
+                },
+                {
+                    "text": "grievance",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "شكوى",
+            "synonyms": [
+                "grievance",
+                "objection",
+                "protest"
+            ],
+            "example": [
+                {
+                    "text": "The store manager listened carefully to my "
+                },
+                {
+                    "text": "complaint",
+                    "colorize": true
+                },
+                {
+                    "text": " about the broken zipper and offered an immediate replacement"
+                }
+            ],
+            "tips": "Effective complaints state the problem clearly, provide evidence (receipts), and specify desired resolution (refund/repair)."
+        },
+        {
+            "word": "consumer",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A person who purchases goods or services for "
+                },
+                {
+                    "text": "personal use",
+                    "highlight": true
+                },
+                {
+                    "text": " rather than for business resale; an "
+                },
+                {
+                    "text": "end-user",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مستهلك",
+            "synonyms": [
+                "customer",
+                "buyer",
+                "shopper"
+            ],
+            "example": [
+                {
+                    "text": "As a responsible "
+                },
+                {
+                    "text": "consumer",
+                    "colorize": true
+                },
+                {
+                    "text": ", she always reads product reviews before making expensive purchases"
+                }
+            ],
+            "tips": "Consumer rights include safety, information, choice, and being heard. Know your rights before filing complaints."
+        },
+        {
+            "word": "dent",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A shallow depression or hollow caused by impact on a hard surface like metal, without "
+                },
+                {
+                    "text": "breaking through",
+                    "highlight": true
+                },
+                {
+                    "text": "; a "
+                },
+                {
+                    "text": "visible indentation",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "خدش / انبعاج",
+            "synonyms": [
+                "ding",
+                "depression",
+                "indentation"
+            ],
+            "example": [
+                {
+                    "text": "The delivery truck left a deep "
+                },
+                {
+                    "text": "dent",
+                    "colorize": true
+                },
+                {
+                    "text": " in my car door when the driver wasn't paying attention"
+                }
+            ],
+            "tips": "Common car/appliance complaint. Small dents may be repairable with suction tools; larger ones require professional bodywork."
+        },
+        {
+            "word": "doorknob",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The handle used to open or close a door; often round and designed to be "
+                },
+                {
+                    "text": "gripped and turned",
+                    "highlight": true
+                },
+                {
+                    "text": " to operate the "
+                },
+                {
+                    "text": "locking mechanism",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مقبض الباب",
+            "synonyms": [
+                "door handle",
+                "knob"
+            ],
+            "example": [
+                {
+                    "text": "The bathroom "
+                },
+                {
+                    "text": "doorknob",
+                    "colorize": true
+                },
+                {
+                    "text": " came off completely in my hand, trapping me inside until maintenance arrived"
+                }
+            ],
+            "tips": "Loose doorknobs are common in older buildings. Usually fixed by tightening the setscrew on the neck of the knob."
+        },
+        {
+            "word": "engine",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The machine that provides power to move a vehicle or operate machinery by converting fuel or electricity into "
+                },
+                {
+                    "text": "mechanical energy",
+                    "highlight": true
+                },
+                {
+                    "text": "; the "
+                },
+                {
+                    "text": "core power source",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "محرّك",
+            "synonyms": [
+                "motor",
+                "power unit"
+            ],
+            "example": [
+                {
+                    "text": "The car's "
+                },
+                {
+                    "text": "engine",
+                    "colorize": true
+                },
+                {
+                    "text": " began making a loud knocking noise after driving through deep floodwater"
+                }
+            ],
+            "tips": "Major repair expense. Always get written estimates from multiple mechanics before authorizing engine work."
+        },
+        {
+            "word": "fabric",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Material made by weaving, knitting, or felting fibers together to create "
+                },
+                {
+                    "text": "textiles for clothing",
+                    "highlight": true
+                },
+                {
+                    "text": ", upholstery, or "
+                },
+                {
+                    "text": "other uses",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "قماش / نسيج",
+            "synonyms": [
+                "material",
+                "textile",
+                "cloth"
+            ],
+            "example": [
+                {
+                    "text": "The expensive jacket was ruined when the cheap "
+                },
+                {
+                    "text": "fabric",
+                    "colorize": true
+                },
+                {
+                    "text": " faded unevenly after just one wash"
+                }
+            ],
+            "tips": "Check fabric content labels before buying. Natural fibers (cotton, wool) breathe better but may shrink; synthetics (polyester) resist wrinkles but trap heat."
+        },
+        {
+            "word": "faucet",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A valve controlling the release of water from a pipe; the fixture on sinks, bathtubs, or showers used to "
+                },
+                {
+                    "text": "turn water flow on and off",
+                    "highlight": true
+                },
+                {
+                    "text": " and adjust "
+                },
+                {
+                    "text": "temperature",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "صنبور",
+            "synonyms": [
+                "tap (British)",
+                "spigot"
+            ],
+            "example": [
+                {
+                    "text": "The kitchen "
+                },
+                {
+                    "text": "faucet",
+                    "colorize": true
+                },
+                {
+                    "text": " has been dripping nonstop for three days, wasting water and driving me crazy"
+                }
+            ],
+            "tips": "American English: faucet. British English: tap. Most dripping faucets are fixed by replacing a worn rubber washer inside the handle."
+        },
+        {
+            "word": "hole",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "An opening or gap in a surface where material is "
+                },
+                {
+                    "text": "missing completely",
+                    "highlight": true
+                },
+                {
+                    "text": "; a "
+                },
+                {
+                    "text": "puncture or tear-through",
+                    "highlight2": true
+                },
+                {
+                    "text": " in fabric or other material"
+                }
+            ],
+            "arabicMeaning": "ثقب",
+            "synonyms": [
+                "opening",
+                "gap",
+                "puncture"
+            ],
+            "example": [
+                {
+                    "text": "I discovered a small "
+                },
+                {
+                    "text": "hole",
+                    "colorize": true
+                },
+                {
+                    "text": " in my new jeans after sitting on a rusty nail at the park"
+                }
+            ],
+            "tips": "Different from 'tear' (ripped edges still attached) or 'stain' (discoloration without missing material). Small holes in clothing can often be invisibly mended."
+        },
+        {
+            "word": "housing",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Buildings or structures where people live; residential "
+                },
+                {
+                    "text": "accommodation",
+                    "highlight": true
+                },
+                {
+                    "text": " including apartments, houses, or "
+                },
+                {
+                    "text": "dormitories",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "سكن / مساكن",
+            "synonyms": [
+                "residence",
+                "dwelling",
+                "accommodation"
+            ],
+            "example": [
+                {
+                    "text": "The university provides affordable student "
+                },
+                {
+                    "text": "housing",
+                    "colorize": true
+                },
+                {
+                    "text": " with basic amenities, though maintenance requests are often ignored"
+                }
+            ],
+            "tips": "In complaints context: 'housing' often refers to rental properties. Tenants have rights regarding habitability (working plumbing, heat, safe structure)."
+        },
+        {
+            "word": "packaging",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Materials used to wrap, contain, or protect a product during "
+                },
+                {
+                    "text": "shipping and storage",
+                    "highlight": true
+                },
+                {
+                    "text": "; the outer covering that is "
+                },
+                {
+                    "text": "discarded after purchase",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "تغليف / تعبئة",
+            "synonyms": [
+                "wrapping",
+                "container",
+                "box"
+            ],
+            "example": [
+                {
+                    "text": "The fragile vase arrived shattered because the inadequate "
+                },
+                {
+                    "text": "packaging",
+                    "colorize": true
+                },
+                {
+                    "text": " provided no cushioning against impacts during shipping"
+                }
+            ],
+            "tips": "Excessive packaging creates waste; insufficient packaging causes damage. Take photos of damaged items inside original packaging before filing claims."
+        },
+        {
+            "word": "pipe",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A long, hollow cylinder used to transport liquids or gases; in buildings, pipes carry "
+                },
+                {
+                    "text": "water, gas",
+                    "highlight": true
+                },
+                {
+                    "text": ", or "
+                },
+                {
+                    "text": "waste through walls and under floors",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "أنبوب / مواسير",
+            "synonyms": [
+                "tube",
+                "conduit",
+                "plumbing"
+            ],
+            "example": [
+                {
+                    "text": "A frozen "
+                },
+                {
+                    "text": "pipe",
+                    "colorize": true
+                },
+                {
+                    "text": " burst in the basement during the cold snap, flooding the entire lower level"
+                }
+            ],
+            "tips": "Common housing complaint in winter. Prevent frozen pipes by letting faucets drip slightly during extreme cold and insulating exposed pipes."
+        },
+        {
+            "word": "refund",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The return of money paid for a product or service that was "
+                },
+                {
+                    "text": "defective, unsatisfactory",
+                    "highlight": true
+                },
+                {
+                    "text": ", or not as "
+                },
+                {
+                    "text": "described",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "استرداد مالي / مبلغ مُسترد",
+            "synonyms": [
+                "reimbursement",
+                "money back",
+                "repayment"
+            ],
+            "example": [
+                {
+                    "text": "After the defective headphones stopped working after two days, the store issued a full "
+                },
+                {
+                    "text": "refund",
+                    "colorize": true
+                },
+                {
+                    "text": " without requiring a receipt"
+                }
+            ],
+            "tips": "Know return policies before purchasing. Keep receipts. Some stores offer store credit instead of cash refunds—ask for your preference."
+        },
+        {
+            "word": "repair",
+            "wordType": "verb/noun",
+            "definition": [
+                {
+                    "text": "To fix something that is broken or damaged so it functions or looks "
+                },
+                {
+                    "text": "properly again",
+                    "highlight": true
+                },
+                {
+                    "text": "; the act of "
+                },
+                {
+                    "text": "restoring to working condition",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُصلح / إصلاح",
+            "synonyms": [
+                "fix",
+                "mend",
+                "restore"
+            ],
+            "example": [
+                {
+                    "text": "The technician will "
+                },
+                {
+                    "text": "repair",
+                    "colorize": true
+                },
+                {
+                    "text": " the cracked phone screen tomorrow morning for a reasonable fee"
+                }
+            ],
+            "tips": "Get written estimates before authorizing repairs. Ask if parts are new or refurbished. Some repairs cost more than replacement—do the math first."
+        },
+        {
+            "word": "retail outlet",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A physical store or location where goods are sold directly to "
+                },
+                {
+                    "text": "consumers",
+                    "highlight": true
+                },
+                {
+                    "text": " rather than to other businesses; a "
+                },
+                {
+                    "text": "brick-and-mortar shop",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "منفذ بيع تجزئة",
+            "synonyms": [
+                "store",
+                "shop",
+                "retailer"
+            ],
+            "example": [
+                {
+                    "text": "The defective blender had to be returned to the original "
+                },
+                {
+                    "text": "retail outlet",
+                    "colorize": true
+                },
+                {
+                    "text": " where it was purchased, not to any store in the chain"
+                }
+            ],
+            "tips": "Different from 'online retailer' (website-only sales). Some manufacturers require returns at original purchase location for warranty claims."
+        },
+        {
+            "word": "screen",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The display surface of electronic devices like phones, tablets, or TVs where images and text are "
+                },
+                {
+                    "text": "visibly shown",
+                    "highlight": true
+                },
+                {
+                    "text": "; also a mesh barrier that keeps "
+                },
+                {
+                    "text": "insects out of windows",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "شاشة",
+            "synonyms": [
+                "display",
+                "monitor",
+                "viewing surface"
+            ],
+            "example": [
+                {
+                    "text": "The smartphone's "
+                },
+                {
+                    "text": "screen",
+                    "colorize": true
+                },
+                {
+                    "text": " cracked when I dropped it on the tile floor, making half the display unreadable"
+                }
+            ],
+            "tips": "Most common electronics complaint. Screen protectors are cheap insurance. Check if device has 'cracked screen' coverage under warranty (usually excluded)."
+        },
+        {
+            "word": "signal",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A wave or pulse that carries information wirelessly; the strength of connection for phones, internet, or TV that allows "
+                },
+                {
+                    "text": "communication",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "data transmission",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "إشارة",
+            "synonyms": [
+                "reception",
+                "connection",
+                "bars"
+            ],
+            "example": [
+                {
+                    "text": "My phone shows zero bars of "
+                },
+                {
+                    "text": "signal",
+                    "colorize": true
+                },
+                {
+                    "text": " in my apartment, making it impossible to make calls without going to the balcony"
+                }
+            ],
+            "tips": "Weak signals cause dropped calls and slow internet. Solutions: Wi-Fi calling, signal boosters, or contacting provider about coverage gaps in your area."
+        },
+        {
+            "word": "sleeve",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The part of a garment that covers the arm, extending from the shoulder to the "
+                },
+                {
+                    "text": "wrist or elbow",
+                    "highlight": true
+                },
+                {
+                    "text": "; can be long, short, or "
+                },
+                {
+                    "text": "three-quarter length",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "كم",
+            "synonyms": [
+                "arm covering"
+            ],
+            "example": [
+                {
+                    "text": "The jacket's left "
+                },
+                {
+                    "text": "sleeve",
+                    "colorize": true
+                },
+                {
+                    "text": " was torn at the seam after catching on a door handle"
+                }
+            ],
+            "tips": "Common wear point on clothing. Reinforced seams at sleeve caps indicate better quality construction. Torn sleeves are usually repairable by a tailor."
+        },
+        {
+            "word": "stain",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A discolored mark left on fabric, carpet, or surfaces by spilled liquids, dirt, or other substances that "
+                },
+                {
+                    "text": "changes the appearance",
+                    "highlight": true
+                },
+                {
+                    "text": " without removing "
+                },
+                {
+                    "text": "material",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "بقعة",
+            "synonyms": [
+                "spot",
+                "discoloration",
+                "mark"
+            ],
+            "example": [
+                {
+                    "text": "Red wine left a stubborn "
+                },
+                {
+                    "text": "stain",
+                    "colorize": true
+                },
+                {
+                    "text": " on the white tablecloth that wouldn't come out even after professional cleaning"
+                }
+            ],
+            "tips": "Act quickly on stains—blot (don't rub!) with cold water. Different stains need different treatments: grease (dish soap), ink (alcohol), wine (salt then vinegar)."
+        },
+        {
+            "word": "technician",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A skilled worker trained to repair, maintain, or operate specialized equipment; a "
+                },
+                {
+                    "text": "practical expert",
+                    "highlight": true
+                },
+                {
+                    "text": " in a technical field like electronics, appliances, or "
+                },
+                {
+                    "text": "automotive systems",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "فني",
+            "synonyms": [
+                "repair specialist",
+                "mechanic",
+                "technologist"
+            ],
+            "example": [
+                {
+                    "text": "The appliance "
+                },
+                {
+                    "text": "technician",
+                    "colorize": true
+                },
+                {
+                    "text": " diagnosed the refrigerator problem in five minutes and fixed it with a $15 part"
+                }
+            ],
+            "tips": "Always verify technician credentials and get written estimates. Reputable technicians explain the problem and repair options before starting work."
+        },
+        {
+            "word": "warranty",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A written guarantee from a manufacturer promising to repair or replace a product if it fails due to defects within a specified "
+                },
+                {
+                    "text": "time period",
+                    "highlight": true
+                },
+                {
+                    "text": "; protection against "
+                },
+                {
+                    "text": "manufacturing flaws",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ضمان",
+            "synonyms": [
+                "guarantee",
+                "service agreement",
+                "coverage"
+            ],
+            "example": [
+                {
+                    "text": "The laptop stopped working after ten months, but thankfully it was still under "
+                },
+                {
+                    "text": "warranty",
+                    "colorize": true
+                },
+                {
+                    "text": " so the company replaced it free of charge"
+                }
+            ],
+            "tips": "Register products online to activate warranties. Keep receipts and warranty cards. 'Full warranty' covers everything; 'limited warranty' has exclusions (like accidental damage)."
+        },
+        {
+            "word": "windowpane",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A single sheet of glass set in a window frame; the transparent surface that allows light in while keeping weather "
+                },
+                {
+                    "text": "outside",
+                    "highlight": true
+                },
+                {
+                    "text": " and providing "
+                },
+                {
+                    "text": "visibility",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "زجاج النافذة",
+            "synonyms": [
+                "window glass",
+                "pane"
+            ],
+            "example": [
+                {
+                    "text": "A baseball crashed through the living room "
+                },
+                {
+                    "text": "windowpane",
+                    "colorize": true
+                },
+                {
+                    "text": " during the neighborhood kids' game, leaving a perfect circle of broken glass"
+                }
+            ],
+            "tips": "Different from 'window' (the entire structure including frame). Single-pane windows are less energy efficient than double-pane. Most home insurance covers accidental window breakage."
+        },
+        {
+            "word": "broken",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Damaged so that it no longer works or is in "
+                },
+                {
+                    "text": "separate pieces",
+                    "highlight": true
+                },
+                {
+                    "text": "; completely "
+                },
+                {
+                    "text": "non-functional",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مكسور / معطّل",
+            "synonyms": [
+                "shattered",
+                "inoperative",
+                "not working"
+            ],
+            "example": [
+                {
+                    "text": "The delivery person left my new lamp on the porch and the glass shade arrived completely "
+                },
+                {
+                    "text": "broken",
+                    "colorize": true
+                },
+                {
+                    "text": ""
+                }
+            ],
+            "tips": "Most serious condition descriptor. Different from 'cracked' (still holds together) or 'damaged' (partial impairment)."
+        },
+        {
+            "word": "cracked",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Having thin lines where the surface has "
+                },
+                {
+                    "text": "split but not separated completely",
+                    "highlight": true
+                },
+                {
+                    "text": "; especially used for "
+                },
+                {
+                    "text": "glass, ceramics, or screens",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "متشقق",
+            "synonyms": [
+                "fractured",
+                "fissured",
+                "split"
+            ],
+            "example": [
+                {
+                    "text": "I dropped my phone in the parking lot and now the screen is badly "
+                },
+                {
+                    "text": "cracked",
+                    "colorize": true
+                },
+                {
+                    "text": " from corner to corner"
+                }
+            ],
+            "tips": "Often repairable if caught early. Different from 'broken'—cracked items may still function but are weakened and unsightly."
+        },
+        {
+            "word": "damaged",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Harmed or impaired so that quality, appearance, or function is "
+                },
+                {
+                    "text": "reduced but not completely destroyed",
+                    "highlight": true
+                },
+                {
+                    "text": "; showing visible "
+                },
+                {
+                    "text": "signs of wear or injury",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "تالف",
+            "synonyms": [
+                "harmed",
+                "impaired",
+                "ruined"
+            ],
+            "example": [
+                {
+                    "text": "The sofa arrived with the armrest badly "
+                },
+                {
+                    "text": "damaged",
+                    "colorize": true
+                },
+                {
+                    "text": " — deep scratches and torn fabric from rough handling during shipping"
+                }
+            ],
+            "tips": "Broad term covering various levels of harm. More specific terms (cracked, torn, scratched) often better for precise complaints."
+        },
+        {
+            "word": "dead",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Having completely lost electrical power or charge; no longer able to "
+                },
+                {
+                    "text": "function due to lack of energy",
+                    "highlight": true
+                },
+                {
+                    "text": "; especially used for "
+                },
+                {
+                    "text": "batteries or devices",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ميت (للبطارية)",
+            "synonyms": [
+                "drained",
+                "depleted",
+                "out of power"
+            ],
+            "example": [
+                {
+                    "text": "My wireless earbuds were completely "
+                },
+                {
+                    "text": "dead",
+                    "colorize": true
+                },
+                {
+                    "text": " after just six months—no amount of charging would bring them back to life"
+                }
+            ],
+            "tips": "Primarily used for batteries/devices. Not the same as 'broken' (mechanical failure) vs. 'dead' (power failure). Often indicates end of product lifespan."
+        },
+        {
+            "word": "dripping",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Allowing liquid to fall in drops continuously; leaking water slowly but "
+                },
+                {
+                    "text": "persistently",
+                    "highlight": true
+                },
+                {
+                    "text": " from a fixture like a "
+                },
+                {
+                    "text": "faucet or pipe",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يَتقاطر / يَسرب الماء",
+            "synonyms": [
+                "leaking drops",
+                "dripping water",
+                "slow leak"
+            ],
+            "example": [
+                {
+                    "text": "The kitchen faucet has been "
+                },
+                {
+                    "text": "dripping",
+                    "colorize": true
+                },
+                {
+                    "text": " all night long—a steady plink-plink-plink that kept me awake"
+                }
+            ],
+            "tips": "Wastes significant water over time (a dripping faucet can waste hundreds of gallons monthly). Usually fixed by replacing a worn rubber washer."
+        },
+        {
+            "word": "faded",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Having lost brightness or color intensity through washing, sun exposure, or wear; appearing "
+                },
+                {
+                    "text": "washed-out",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "pale compared to original",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "باهت",
+            "synonyms": [
+                "washed-out",
+                "bleached",
+                "discolored"
+            ],
+            "example": [
+                {
+                    "text": "The expensive curtains were completely "
+                },
+                {
+                    "text": "faded",
+                    "colorize": true
+                },
+                {
+                    "text": " after one summer of direct sunlight, turning from rich blue to a dull grayish tone"
+                }
+            ],
+            "tips": "Can be intentional (distressed fashion) or unintentional damage. Check care labels—some fabrics require UV protection or gentle washing to prevent fading."
+        },
+        {
+            "word": "filthy",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Extremely dirty or unclean; covered in grime, dust, stains, or "
+                },
+                {
+                    "text": "disgusting substances",
+                    "highlight": true
+                },
+                {
+                    "text": " beyond normal "
+                },
+                {
+                    "text": "dirtiness",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "قذر جدًا",
+            "synonyms": [
+                "disgusting",
+                "grimy",
+                "squalid"
+            ],
+            "example": [
+                {
+                    "text": "The vacation rental looked clean in photos, but the bathroom tiles were absolutely "
+                },
+                {
+                    "text": "filthy",
+                    "colorize": true
+                },
+                {
+                    "text": " with hair clogged in the drain and mold growing in the corners"
+                }
+            ],
+            "tips": "Strong complaint word implying unacceptable conditions. More intense than 'dirty'—suggests health/sanitation concerns. Document with photos before reporting."
+        },
+        {
+            "word": "flat",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Having completely lost air pressure; deflated and unable to support weight or "
+                },
+                {
+                    "text": "function properly",
+                    "highlight": true
+                },
+                {
+                    "text": "; especially used for "
+                },
+                {
+                    "text": "tires or inflatable items",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مفرغ من الهواء (للإطار)",
+            "synonyms": [
+                "deflated",
+                "punctured",
+                "airless"
+            ],
+            "example": [
+                {
+                    "text": "We got a "
+                },
+                {
+                    "text": "flat",
+                    "colorize": true
+                },
+                {
+                    "text": " tire on the highway during rush hour and had to wait an hour for roadside assistance"
+                }
+            ],
+            "tips": "Caused by punctures, valve leaks, or bead separation. Always carry a spare tire and know how to change it. 'Flat' here is adjective (not noun—'a flat' is British slang for apartment)."
+        },
+        {
+            "word": "intact",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Remaining whole and undamaged; not broken, spoiled, or "
+                },
+                {
+                    "text": "altered despite potential threats",
+                    "highlight": true
+                },
+                {
+                    "text": "; completely "
+                },
+                {
+                    "text": "preserved in original condition",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "سليم / غير تالف",
+            "synonyms": [
+                "undamaged",
+                "unharmed",
+                "in one piece"
+            ],
+            "example": [
+                {
+                    "text": "Miraculously, the fragile vase arrived completely "
+                },
+                {
+                    "text": "intact",
+                    "colorize": true
+                },
+                {
+                    "text": " despite the shipping box being crushed on one side"
+                }
+            ],
+            "tips": "Useful contrast word in complaints: 'The packaging was damaged, but the product arrived intact.' Opposite of broken/damaged/cracked."
+        },
+        {
+            "word": "leaky",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Allowing liquid or gas to escape through small holes, cracks, or faulty seals; not "
+                },
+                {
+                    "text": "watertight or airtight",
+                    "highlight": true
+                },
+                {
+                    "text": " as it should be",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "متسرب",
+            "synonyms": [
+                "dripping",
+                "seeping",
+                "faulty"
+            ],
+            "example": [
+                {
+                    "text": "The upstairs bathroom has a "
+                },
+                {
+                    "text": "leaky",
+                    "colorize": true
+                },
+                {
+                    "text": " pipe that's causing water stains to spread across our living room ceiling"
+                }
+            ],
+            "tips": "Common housing complaint. 'Leaky' describes the faulty condition; 'leaking' describes the active process. Address immediately to prevent mold and structural damage."
+        },
+        {
+            "word": "loose",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Not firmly fixed in place; able to move, wobble, or come undone because it is "
+                },
+                {
+                    "text": "not tight enough",
+                    "highlight": true
+                },
+                {
+                    "text": "; lacking "
+                },
+                {
+                    "text": "secure attachment",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مترهل / غير محكم",
+            "synonyms": [
+                "wobbly",
+                "unsecured",
+                "not tight"
+            ],
+            "example": [
+                {
+                    "text": "The kitchen cabinet door became dangerously "
+                },
+                {
+                    "text": "loose",
+                    "colorize": true
+                },
+                {
+                    "text": " after months of use and now swings open unexpectedly when we open adjacent drawers"
+                }
+            ],
+            "tips": "Usually fixed by tightening screws or replacing worn parts. Safety hazard when affecting stairs, railings, or heavy furniture."
+        },
+        {
+            "word": "loose-fitting",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Cut or designed to hang away from the body without hugging curves; having "
+                },
+                {
+                    "text": "extra room",
+                    "highlight": true
+                },
+                {
+                    "text": " through hips, thighs, or torso—may be intentional style or unintended "
+                },
+                {
+                    "text": "sizing error",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "فضفاض",
+            "synonyms": [
+                "baggy",
+                "relaxed fit",
+                "oversized"
+            ],
+            "example": [
+                {
+                    "text": "I ordered a medium sweater but received an extremely "
+                },
+                {
+                    "text": "loose-fitting",
+                    "colorize": true
+                },
+                {
+                    "text": " one that looks like it would fit someone two sizes larger"
+                }
+            ],
+            "tips": "Distinguish between intentional style ('loose-fitting fashion') vs. defect ('wrong size received'). Check product descriptions before complaining—some items are designed to be oversized."
+        },
+        {
+            "word": "missing",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Not present or accounted for; absent when it should be included or attached; having "
+                },
+                {
+                    "text": "disappeared or been omitted",
+                    "highlight": true
+                },
+                {
+                    "text": " from its proper "
+                },
+                {
+                    "text": "place",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ناقص / مفقود",
+            "synonyms": [
+                "absent",
+                "not included",
+                "lost"
+            ],
+            "example": [
+                {
+                    "text": "The furniture assembly kit was unusable because three essential screws were "
+                },
+                {
+                    "text": "missing",
+                    "colorize": true
+                },
+                {
+                    "text": " from the hardware packet"
+                }
+            ],
+            "tips": "Common complaint for products with multiple parts. Always inventory contents immediately upon opening. Take photos of missing items next to packaging/label for evidence."
+        },
+        {
+            "word": "scratched",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Marked with thin, shallow cuts or grooves on the surface; damaged by something sharp dragging across it without "
+                },
+                {
+                    "text": "breaking through",
+                    "highlight": true
+                },
+                {
+                    "text": " the material—common on "
+                },
+                {
+                    "text": "glass, metal, or screens",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مخدوش",
+            "synonyms": [
+                "scraped",
+                "gouged",
+                "marked with lines"
+            ],
+            "example": [
+                {
+                    "text": "My new sunglasses were badly "
+                },
+                {
+                    "text": "scratched",
+                    "colorize": true
+                },
+                {
+                    "text": " after I accidentally dropped them lens-down on the pavement"
+                }
+            ],
+            "tips": "Different from 'cracked' (split through material) or 'dented' (indented surface). Light scratches on glass may be polished out; deep ones usually require replacement."
+        },
+        {
+            "word": "sewn",
+            "wordType": "adjective (past participle)",
+            "definition": [
+                {
+                    "text": "Joined or repaired by stitching with needle and thread; having been "
+                },
+                {
+                    "text": "mended or assembled",
+                    "highlight": true
+                },
+                {
+                    "text": " using "
+                },
+                {
+                    "text": "thread and fabric techniques",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مَخيط",
+            "synonyms": [
+                "stitched",
+                "mended",
+                "tailored"
+            ],
+            "example": [
+                {
+                    "text": "The tailor returned my jacket with the torn seam perfectly "
+                },
+                {
+                    "text": "sewn",
+                    "colorize": true
+                },
+                {
+                    "text": " using thread that matched the original color"
+                }
+            ],
+            "tips": "Past participle of 'sew' (irregular verb: sew → sewed/sewn). 'Sewn' emphasizes the completed state of being stitched. Not the same as 'sewed' (simple past tense action)."
+        },
+        {
+            "word": "stained",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Marked with a discolored spot where liquid, dirt, or other substances have penetrated the surface, changing its "
+                },
+                {
+                    "text": "appearance without removing material",
+                    "highlight": true
+                },
+                {
+                    "text": "; a "
+                },
+                {
+                    "text": "permanent or semi-permanent discoloration",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مبقّع",
+            "synonyms": [
+                "discolored",
+                "marked",
+                "spotted"
+            ],
+            "example": [
+                {
+                    "text": "The white carpet was permanently "
+                },
+                {
+                    "text": "stained",
+                    "colorize": true
+                },
+                {
+                    "text": " after red wine spilled and wasn't treated immediately"
+                }
+            ],
+            "tips": "Act quickly on fresh stains—blot (don't rub!) with cold water. Set-in stains may require professional cleaning. Some fabrics (silk, wool) need special stain treatments."
+        },
+        {
+            "word": "torn",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Ripped apart with visible separation where edges have been pulled away from each other; fabric or material that is "
+                },
+                {
+                    "text": "split open",
+                    "highlight": true
+                },
+                {
+                    "text": " with a "
+                },
+                {
+                    "text": "gap or hole",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ممزّق",
+            "synonyms": [
+                "ripped",
+                "shredded",
+                "tattered"
+            ],
+            "example": [
+                {
+                    "text": "The backpack strap was completely "
+                },
+                {
+                    "text": "torn",
+                    "colorize": true
+                },
+                {
+                    "text": " after catching on a sharp fence post during my morning run"
+                }
+            ],
+            "tips": "Different from 'hole' (missing material without torn edges) or 'worn' (thinned by use). Most torn clothing can be repaired by sewing unless severely shredded."
+        },
+        {
+            "word": "Don't worry.",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "A reassuring expression used to calm someone who is anxious, upset, or concerned; intended to "
+                },
+                {
+                    "text": "reduce stress",
+                    "highlight": true
+                },
+                {
+                    "text": " and convey that a situation is "
+                },
+                {
+                    "text": "manageable or under control",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "لا تقلق",
+            "synonyms": [
+                "It's okay",
+                "No problem",
+                "Everything will be fine"
+            ],
+            "example": [
+                {
+                    "text": "\"I'm so sorry I broke your favorite mug!\" \""
+                },
+                {
+                    "text": "Don't worry.",
+                    "colorize": true
+                },
+                {
+                    "text": " I've been meaning to replace it anyway—it had a hairline crack already.\""
+                }
+            ],
+            "tips": "Very common in customer service to de-escalate complaints. Tone matters—said sincerely it comforts; said dismissively it can anger customers further."
+        },
+        {
+            "word": "it sounds like",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Used to express an assumption or conclusion based on what someone has described; showing you're "
+                },
+                {
+                    "text": "listening carefully",
+                    "highlight": true
+                },
+                {
+                    "text": " and making an "
+                },
+                {
+                    "text": "educated guess",
+                    "highlight2": true
+                },
+                {
+                    "text": " about their situation"
+                }
+            ],
+            "arabicMeaning": "يبدو أن",
+            "synonyms": [
+                "that seems like",
+                "I'm guessing that",
+                "from what you say"
+            ],
+            "example": [
+                {
+                    "text": "\"The engine makes a grinding noise when I turn left, and smoke comes from under the hood.\" \""
+                },
+                {
+                    "text": "It sounds like",
+                    "colorize": true
+                },
+                {
+                    "text": " you might have a serious transmission problem—better get it checked today.\""
+                }
+            ],
+            "tips": "Shows empathy and active listening. Leaves room for correction ('It sounds like X, but maybe I'm misunderstanding'). Very useful in complaint resolution."
+        },
+        {
+            "word": "Yes, please, if you could.",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "An extremely polite way to accept an offer of help or service; softens the request by making it "
+                },
+                {
+                    "text": "conditional and courteous",
+                    "highlight": true
+                },
+                {
+                    "text": " rather than demanding—shows "
+                },
+                {
+                    "text": "respect and consideration",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "نعم من فضلك، إن أمكنك",
+            "synonyms": [
+                "Yes, thank you, if it's not too much trouble",
+                "I'd appreciate that"
+            ],
+            "example": [
+                {
+                    "text": "\"Would you like me to carry those heavy boxes upstairs for you?\" \""
+                },
+                {
+                    "text": "Yes, please, if you could.",
+                    "colorize": true
+                },
+                {
+                    "text": " That would be a huge help—my back has been bothering me all day.\""
+                }
+            ],
+            "tips": "More polite than a simple 'yes'—ideal for customer service interactions and formal situations. The 'if you could' makes it optional rather than demanding."
+        },
+        {
+            "word": "check",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To examine something carefully to discover its "
+                },
+                {
+                    "text": "condition or problems",
+                    "highlight": true
+                },
+                {
+                    "text": "; to "
+                },
+                {
+                    "text": "inspect for faults",
+                    "highlight2": true
+                },
+                {
+                    "text": " before they become serious"
+                }
+            ],
+            "arabicMeaning": "يتفقّد / يفحص",
+            "synonyms": [
+                "inspect",
+                "examine",
+                "look over"
+            ],
+            "example": [
+                {
+                    "text": "Before buying a used car, always "
+                },
+                {
+                    "text": "check",
+                    "colorize": true
+                },
+                {
+                    "text": " the engine, tires, and interior for hidden damage"
+                }
+            ],
+            "tips": "Essential first step in any complaint process. Document problems with photos before reporting issues to sellers or landlords."
+        },
+        {
+            "word": "crash",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To stop working suddenly and completely, especially for computers or electronic devices; to "
+                },
+                {
+                    "text": "fail unexpectedly",
+                    "highlight": true
+                },
+                {
+                    "text": " and "
+                },
+                {
+                    "text": "shut down",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يتعطّل فجأة (للجهاز)",
+            "synonyms": [
+                "freeze",
+                "shut down unexpectedly",
+                "fail"
+            ],
+            "example": [
+                {
+                    "text": "My laptop "
+                },
+                {
+                    "text": "crashed",
+                    "colorize": true
+                },
+                {
+                    "text": " in the middle of saving my important report, and I lost three hours of work"
+                }
+            ],
+            "tips": "Common electronics complaint. Always save work frequently (Ctrl+S) and enable auto-save features to minimize data loss during crashes."
+        },
+        {
+            "word": "dry-clean",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To clean clothes using "
+                },
+                {
+                    "text": "chemical solvents instead of water",
+                    "highlight": true
+                },
+                {
+                    "text": ", typically for "
+                },
+                {
+                    "text": "delicate fabrics",
+                    "highlight2": true
+                },
+                {
+                    "text": " that would shrink or lose shape in a washing machine"
+                }
+            ],
+            "arabicMeaning": "يُنظّف بالكيميائيات",
+            "synonyms": [
+                "clean professionally",
+                "chemical clean"
+            ],
+            "example": [
+                {
+                    "text": "This silk blouse label says '"
+                },
+                {
+                    "text": "dry-clean",
+                    "colorize": true
+                },
+                {
+                    "text": " only'—never put it in your washing machine or it will shrink permanently"
+                }
+            ],
+            "tips": "Always check clothing labels before washing. 'Dry-clean only' means water will damage the fabric. Many 'dry-clean' items can actually be hand-washed gently—but test first."
+        },
+        {
+            "word": "purchase",
+            "wordType": "verb/noun",
+            "definition": [
+                {
+                    "text": "To buy something; the act of acquiring goods or services by "
+                },
+                {
+                    "text": "paying money",
+                    "highlight": true
+                },
+                {
+                    "text": " in exchange; a "
+                },
+                {
+                    "text": "transaction",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يشتري / عملية شراء",
+            "synonyms": [
+                "buy",
+                "acquire",
+                "obtain"
+            ],
+            "example": [
+                {
+                    "text": "I "
+                },
+                {
+                    "text": "purchased",
+                    "colorize": true
+                },
+                {
+                    "text": " these headphones online last week, but they arrived with a cracked case"
+                }
+            ],
+            "tips": "Formal term often used in receipts, warranties, and legal contexts. Keep purchase receipts—they're essential proof when filing complaints or warranty claims."
+        },
+        {
+            "word": "refrain from",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To deliberately avoid doing something; to "
+                },
+                {
+                    "text": "hold yourself back",
+                    "highlight": true
+                },
+                {
+                    "text": " from an action, especially one that might be "
+                },
+                {
+                    "text": "tempting but unwise",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يمتنع عن",
+            "synonyms": [
+                "avoid",
+                "abstain from",
+                "desist from"
+            ],
+            "example": [
+                {
+                    "text": "When speaking to customer service, "
+                },
+                {
+                    "text": "refrain from",
+                    "colorize": true
+                },
+                {
+                    "text": " raising your voice—even if you're frustrated—to get better results"
+                }
+            ],
+            "tips": "Always followed by '-ing' verb: 'refrain from shouting', NOT 'refrain to shout'. Formal expression often seen in warnings: 'Please refrain from smoking'."
+        },
+        {
+            "word": "repaint",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To apply a fresh coat of paint over an existing surface to "
+                },
+                {
+                    "text": "cover damage",
+                    "highlight": true
+                },
+                {
+                    "text": ", change color, or "
+                },
+                {
+                    "text": "restore appearance",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُعيد طلاء",
+            "synonyms": [
+                "paint again",
+                "recoat",
+                "freshen up with paint"
+            ],
+            "example": [
+                {
+                    "text": "The landlord agreed to "
+                },
+                {
+                    "text": "repaint",
+                    "colorize": true
+                },
+                {
+                    "text": " the apartment walls after the previous tenant left large scuff marks near the doors"
+                }
+            ],
+            "tips": "Common housing complaint resolution. Proper repainting requires surface preparation (cleaning, sanding, priming) for long-lasting results—not just slapping on new paint."
+        },
+        {
+            "word": "repair",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To fix something that is broken or damaged so it works or looks "
+                },
+                {
+                    "text": "properly again",
+                    "highlight": true
+                },
+                {
+                    "text": "; to "
+                },
+                {
+                    "text": "restore to functional condition",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُصلح",
+            "synonyms": [
+                "fix",
+                "mend",
+                "restore"
+            ],
+            "example": [
+                {
+                    "text": "The store agreed to "
+                },
+                {
+                    "text": "repair",
+                    "colorize": true
+                },
+                {
+                    "text": " the broken zipper on my jacket under warranty rather than giving me a refund"
+                }
+            ],
+            "tips": "Get written estimates before authorizing repairs. Ask if parts are new or refurbished. Sometimes repair costs exceed replacement value—always compare options."
+        },
+        {
+            "word": "sew",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To join pieces of fabric together using "
+                },
+                {
+                    "text": "a needle and thread",
+                    "highlight": true
+                },
+                {
+                    "text": "; to "
+                },
+                {
+                    "text": "repair torn clothing",
+                    "highlight2": true
+                },
+                {
+                    "text": " or attach fasteners like buttons"
+                }
+            ],
+            "arabicMeaning": "يخيط",
+            "synonyms": [
+                "stitch",
+                "mend",
+                "needlework"
+            ],
+            "example": [
+                {
+                    "text": "My grandmother taught me how to "
+                },
+                {
+                    "text": "sew",
+                    "colorize": true
+                },
+                {
+                    "text": " a button back onto a shirt in under a minute using a simple cross-stitch pattern"
+                }
+            ],
+            "tips": "Basic life skill that saves money on clothing repairs. Keep a small sewing kit with needles, thread, and spare buttons. Past tense: sewed or sewn (sewn is more common as past participle: 'a sewn patch')."
+        },
+        {
+            "word": "sharpen",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To make a blade or point "
+                },
+                {
+                    "text": "more sharp or effective",
+                    "highlight": true
+                },
+                {
+                    "text": " by "
+                },
+                {
+                    "text": "grinding or honing",
+                    "highlight2": true
+                },
+                {
+                    "text": " the edge against an abrasive surface"
+                }
+            ],
+            "arabicMeaning": "يُحدّد",
+            "synonyms": [
+                "hone",
+                "whet",
+                "make sharp"
+            ],
+            "example": [
+                {
+                    "text": "You should "
+                },
+                {
+                    "text": "sharpen",
+                    "colorize": true
+                },
+                {
+                    "text": " your kitchen knives monthly—they're actually more dangerous when dull because they require more force to cut"
+                }
+            ],
+            "tips": "Applies to knives, pencils, scissors, and even skills ('sharpen your math skills'). Use a honing steel regularly to maintain edge alignment; use a whetstone for actual sharpening when blades become dull."
+        }
+    ]
+}

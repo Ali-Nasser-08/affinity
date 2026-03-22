@@ -1,0 +1,669 @@
+{
+    "unit": "Mega Goal 1 - Unit 6: Giving Advice",
+    "type": "misc",
+    "setTitle": "Reading: A Letter Seeking Advice",
+    "words": [
+        {
+            "word": "turn up",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "arrive or appear",
+                    "highlight": true
+                },
+                {
+                    "text": " at a place, especially "
+                },
+                {
+                    "text": "unexpectedly or after being expected",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يظهر / يحضر",
+            "synonyms": [
+                "show up",
+                "arrive",
+                "appear"
+            ],
+            "example": [
+                {
+                    "text": "I invited classmates during the holiday but only one "
+                },
+                {
+                    "text": "turned up",
+                    "colorize": true
+                },
+                {
+                    "text": "."
+                }
+            ],
+            "tips": "Informal/slightly casual. 'Turn up' = arrive; 'turn up the volume' = increase sound (different meaning!). No phone call to explain absence = considered rude."
+        },
+        {
+            "word": "get to know",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "gradually become familiar",
+                    "highlight": true
+                },
+                {
+                    "text": " with someone's "
+                },
+                {
+                    "text": "personality and habits",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يتعرف على / يألف",
+            "synonyms": [
+                "become acquainted with",
+                "build a relationship with"
+            ],
+            "example": [
+                {
+                    "text": "I tried to be nice and give us time to "
+                },
+                {
+                    "text": "get to know",
+                    "colorize": true
+                },
+                {
+                    "text": " each other."
+                }
+            ],
+            "tips": "Always 'get to know someone' (not 'get to know something' for facts—that's 'learn about'). Takes time and repeated interaction. Opposite: 'remain strangers'."
+        },
+        {
+            "word": "nothing has come of it",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "No "
+                },
+                {
+                    "text": "positive result or outcome",
+                    "highlight": true
+                },
+                {
+                    "text": " has happened despite "
+                },
+                {
+                    "text": "effort or waiting",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "لم يُثمر عن شيء / لم يحدث شيء جيد",
+            "synonyms": [
+                "it led to nothing",
+                "no results came from it"
+            ],
+            "example": [
+                {
+                    "text": "I tried being friendly, but "
+                },
+                {
+                    "text": "nothing has come of it",
+                    "colorize": true
+                },
+                {
+                    "text": "."
+                }
+            ],
+            "tips": "Formal/literary expression. 'Come of' = result from. Often used when hopes were disappointed after patience or effort. Not common in very casual speech."
+        },
+        {
+            "word": "give up on",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "stop trying to help",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "believe in someone/something",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ييأس من / يتوقف عن محاولة مساعدة",
+            "synonyms": [
+                "abandon hope for",
+                "stop believing in",
+                "lose faith in"
+            ],
+            "example": [
+                {
+                    "text": "I feel like "
+                },
+                {
+                    "text": "giving up on",
+                    "colorize": true
+                },
+                {
+                    "text": " everything after being excluded again."
+                }
+            ],
+            "tips": "Give up ON someone/something (requires 'on'). Different from 'give up' alone (quit a habit). Giving up on people = emotional surrender; giving up smoking = behavior change."
+        },
+        {
+            "word": "think straight",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "think clearly and logically",
+                    "highlight": true
+                },
+                {
+                    "text": " without "
+                },
+                {
+                    "text": "confusion or emotional interference",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُفكّر بوضوح / يُرتب أفكاره",
+            "synonyms": [
+                "think clearly",
+                "have a clear mind",
+                "reason logically"
+            ],
+            "example": [
+                {
+                    "text": "I can't "
+                },
+                {
+                    "text": "think straight",
+                    "colorize": true
+                },
+                {
+                    "text": " anymore with all this stress."
+                }
+            ],
+            "tips": "Usually negative: 'can't think straight' (not 'can think straight'). Caused by stress, sadness, fatigue, or overwhelm. Physical rest often needed to restore clarity."
+        },
+        {
+            "word": "concentrate",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "focus your attention",
+                    "highlight": true
+                },
+                {
+                    "text": " fully on "
+                },
+                {
+                    "text": "one thing or task",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُركّز",
+            "synonyms": [
+                "focus",
+                "pay attention",
+                "apply yourself"
+            ],
+            "example": [
+                {
+                    "text": "I've been feeling down and I can't "
+                },
+                {
+                    "text": "concentrate",
+                    "colorize": true
+                },
+                {
+                    "text": " on my schoolwork."
+                }
+            ],
+            "tips": "Concentrate ON something (always needs 'on'). Emotional distress (loneliness, sadness) directly reduces ability to concentrate. Short breaks can help restore focus."
+        },
+        {
+            "word": "drop",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "decrease suddenly",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "fall to a lower level",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ينخفض / يتراجع",
+            "synonyms": [
+                "decline",
+                "fall",
+                "go down"
+            ],
+            "example": [
+                {
+                    "text": "My grades have "
+                },
+                {
+                    "text": "dropped",
+                    "colorize": true
+                },
+                {
+                    "text": " because I can't focus on studying."
+                }
+            ],
+            "tips": "Drop + adverb (drop sharply/suddenly/quickly). Grades drop, prices drop, temperature drops. Not the same as 'drop out' (quit school entirely)."
+        },
+        {
+            "word": "gained weight",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "become heavier",
+                    "highlight": true
+                },
+                {
+                    "text": " by "
+                },
+                {
+                    "text": "adding body mass",
+                    "highlight2": true
+                },
+                {
+                    "text": " (usually fat or muscle)"
+                }
+            ],
+            "arabicMeaning": "اكتسب وزناً",
+            "synonyms": [
+                "put on weight",
+                "become heavier"
+            ],
+            "example": [
+                {
+                    "text": "I have "
+                },
+                {
+                    "text": "gained weight",
+                    "colorize": true
+                },
+                {
+                    "text": " because I get no exercise and eat when I'm sad."
+                }
+            ],
+            "tips": "Gained = past tense of 'gain'. Opposite: 'lost weight'. Emotional eating (comfort eating) commonly leads to weight gain during stressful life changes like moving schools."
+        },
+        {
+            "word": "let me",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "allow or permit someone",
+                    "highlight": true
+                },
+                {
+                    "text": " to "
+                },
+                {
+                    "text": "do something",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يسمح لي / يدعني",
+            "synonyms": [
+                "allow me",
+                "permit me",
+                "give me permission"
+            ],
+            "example": [
+                {
+                    "text": "They won't "
+                },
+                {
+                    "text": "let me",
+                    "colorize": true
+                },
+                {
+                    "text": " play football with them because I'm 'the new student'."
+                }
+            ],
+            "tips": "Let + person + base verb (let me play, not 'let me to play'). Negative: 'won't let me' = refusal of permission. Social exclusion often disguised as 'not letting' someone join."
+        },
+        {
+            "word": "tips",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Small pieces of "
+                },
+                {
+                    "text": "practical advice",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "suggestions for improvement",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "نصائح",
+            "synonyms": [
+                "advice",
+                "suggestions",
+                "recommendations"
+            ],
+            "example": [
+                {
+                    "text": "If you have any "
+                },
+                {
+                    "text": "tips",
+                    "colorize": true
+                },
+                {
+                    "text": ", please write and tell me what to do."
+                }
+            ],
+            "tips": "Always plural in this meaning ('tip' singular = end of something OR gratuity/money given to servers). 'Helpful tips', 'useful tips'. Not formal advice—more casual guidance."
+        },
+        {
+            "word": "consider",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "regard or think of someone",
+                    "highlight": true
+                },
+                {
+                    "text": " in a "
+                },
+                {
+                    "text": "particular way",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يعتبر / ينظر إلى",
+            "synonyms": [
+                "regard as",
+                "view as",
+                "see as"
+            ],
+            "example": [
+                {
+                    "text": "I'm still "
+                },
+                {
+                    "text": "considered",
+                    "colorize": true
+                },
+                {
+                    "text": " 'the new student' so I never get invited anywhere."
+                }
+            ],
+            "tips": "Consider + object + adjective/noun (consider him friendly/consider her a friend). Passive voice common: 'I am considered...' Social labels ('the new student') can become self-fulfilling prophecies."
+        },
+        {
+            "word": "on my own",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Alone; "
+                },
+                {
+                    "text": "without other people",
+                    "highlight": true
+                },
+                {
+                    "text": " for "
+                },
+                {
+                    "text": "company or help",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "وحدي / بمفردي",
+            "synonyms": [
+                "alone",
+                "by myself",
+                "without company"
+            ],
+            "example": [
+                {
+                    "text": "All I do is play video games "
+                },
+                {
+                    "text": "on my own",
+                    "colorize": true
+                },
+                {
+                    "text": "."
+                }
+            ],
+            "tips": "Emotional tone matters: 'on my own' can mean independence (positive) or loneliness (negative)—context shows which. Different from 'alone' which is more neutral/factual."
+        },
+        {
+            "word": "what to do and what not to do",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Clear guidance covering "
+                },
+                {
+                    "text": "both recommended actions",
+                    "highlight": true
+                },
+                {
+                    "text": " and "
+                },
+                {
+                    "text": "actions to avoid",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ما يجب فعله وما يجب تجنبه",
+            "synonyms": [
+                "dos and don'ts",
+                "guidelines for behavior"
+            ],
+            "example": [
+                {
+                    "text": "Please tell me "
+                },
+                {
+                    "text": "what to do and what not to do",
+                    "colorize": true
+                },
+                {
+                    "text": " in this difficult situation."
+                }
+            ],
+            "tips": "Extremely useful advice structure. 'What to do' = positive actions; 'what not to do' = pitfalls to avoid. Teachers/parents often give both types of guidance together."
+        },
+        {
+            "word": "get exercise",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "do physical activity",
+                    "highlight": true
+                },
+                {
+                    "text": " that "
+                },
+                {
+                    "text": "strengthens the body",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يتمرن / يمارس الرياضة",
+            "synonyms": [
+                "exercise",
+                "work out",
+                "be physically active"
+            ],
+            "example": [
+                {
+                    "text": "I have gained weight because I "
+                },
+                {
+                    "text": "get no exercise",
+                    "colorize": true
+                },
+                {
+                    "text": " since moving schools."
+                }
+            ],
+            "tips": "Get exercise = receive/benefit from activity (not 'do exercise' which sounds unnatural). Minimum 150 mins/week recommended for health. Social exercise (team sports) also builds friendships."
+        },
+        {
+            "word": "feel like",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To have a "
+                },
+                {
+                    "text": "desire or inclination",
+                    "highlight": true
+                },
+                {
+                    "text": " to "
+                },
+                {
+                    "text": "do something",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "أشعر برغبة في / يخطر ببالي أن",
+            "synonyms": [
+                "want to",
+                "have a desire to",
+                "be in the mood to"
+            ],
+            "example": [
+                {
+                    "text": "I "
+                },
+                {
+                    "text": "feel like",
+                    "colorize": true
+                },
+                {
+                    "text": " giving up on everything lately."
+                }
+            ],
+            "tips": "Feel like + gerund (feel like crying/giving up)—NOT 'feel like to cry'. Expresses temporary emotional state, not permanent intention. Different from 'feel as if' (used for comparisons)."
+        },
+        {
+            "word": "difficult",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Not easy; "
+                },
+                {
+                    "text": "requiring much effort",
+                    "highlight": true
+                },
+                {
+                    "text": " or causing "
+                },
+                {
+                    "text": "stress and emotional strain",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "صعب / عصيب",
+            "synonyms": [
+                "challenging",
+                "hard",
+                "tough"
+            ],
+            "example": [
+                {
+                    "text": "Moving to a different city has not been easy—it's been very "
+                },
+                {
+                    "text": "difficult",
+                    "colorize": true
+                },
+                {
+                    "text": " for all of us."
+                }
+            ],
+            "tips": "Difficult situation/person/task. More formal than 'hard'. Can describe emotional challenges (difficult year) not just physical tasks. Opposite: 'easy' or 'straightforward'."
+        },
+        {
+            "word": "turned down",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "refuse an invitation",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "offer politely",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "رفض الدعوة / رفض بلطف",
+            "synonyms": [
+                "declined",
+                "said no to",
+                "rejected politely"
+            ],
+            "example": [
+                {
+                    "text": "The rest of my classmates "
+                },
+                {
+                    "text": "turned down",
+                    "colorize": true
+                },
+                {
+                    "text": " my invitation without even calling to explain."
+                }
+            ],
+            "tips": "Turned down = past tense of 'turn down'. Social etiquette: when turning down invitations, a brief explanation ('I'm busy that day') is polite. Ghosting (no reply) is considered rude."
+        }
+    ]
+}

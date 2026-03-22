@@ -1,0 +1,866 @@
+{
+    "unit": "Mega Goal 1 - Unit 11: Life's Regrets",
+    "type": "reading",
+    "setTitle": "Reading: Life's Regrets",
+    "words": [
+        {
+            "word": "security guard",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A person employed to "
+                },
+                {
+                    "text": "protect a building, area",
+                    "highlight": true
+                },
+                {
+                    "text": ", or people by "
+                },
+                {
+                    "text": "monitoring and preventing unauthorized access",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حارس أمن",
+            "synonyms": [
+                "security officer",
+                "watchman",
+                "doorman"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "security guard",
+                    "colorize": true
+                },
+                {
+                    "text": " checked our IDs before allowing us to enter the office building"
+                }
+            ],
+            "tips": "Different from police officers—they protect private property, not enforce public laws. Often stationed at entrances, parking lots, or patrol routes."
+        },
+        {
+            "word": "hairstyle",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The particular way someone's "
+                },
+                {
+                    "text": "hair is cut, arranged",
+                    "highlight": true
+                },
+                {
+                    "text": ", or "
+                },
+                {
+                    "text": "styled",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "تصفيفة شعر",
+            "synonyms": [
+                "haircut",
+                "do (informal)",
+                "coiffure"
+            ],
+            "example": [
+                {
+                    "text": "She changed her "
+                },
+                {
+                    "text": "hairstyle",
+                    "colorize": true
+                },
+                {
+                    "text": " from long straight hair to a short curly bob and felt completely refreshed"
+                }
+            ],
+            "tips": "Compound noun (hair + style). Often modified: 'new hairstyle', 'professional hairstyle', 'unusual hairstyle'. Not the same as 'haircut' (just the cutting, not the styling)."
+        },
+        {
+            "word": "heavy load",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A large amount of weight to carry; also used metaphorically for a "
+                },
+                {
+                    "text": "difficult responsibility",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "burden to manage",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حمل ثقيل",
+            "synonyms": [
+                "heavy burden",
+                "great weight",
+                "substantial load"
+            ],
+            "example": [
+                {
+                    "text": "After his colleague quit, Ahmed had to carry a "
+                },
+                {
+                    "text": "heavy load",
+                    "colorize": true
+                },
+                {
+                    "text": " of extra work for three months until they hired a replacement"
+                }
+            ],
+            "tips": "Can be literal (physical weight) or figurative (emotional/work burden). Common expressions: 'carry a heavy load', 'shoulder a heavy load'."
+        },
+        {
+            "word": "oil well",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A deep hole drilled into the ground to "
+                },
+                {
+                    "text": "extract petroleum",
+                    "highlight": true
+                },
+                {
+                    "text": " (crude oil) from "
+                },
+                {
+                    "text": "underground reservoirs",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "بئر نفط",
+            "synonyms": [
+                "oil rig (offshore structure)",
+                "petroleum well"
+            ],
+            "example": [
+                {
+                    "text": "The small town's economy transformed overnight when workers discovered a productive "
+                },
+                {
+                    "text": "oil well",
+                    "colorize": true
+                },
+                {
+                    "text": " on the outskirts of the community"
+                }
+            ],
+            "tips": "Critical infrastructure in oil-producing regions. 'Strike oil' = discover oil. Not the same as 'oil rig' (the large platform structure, especially offshore)."
+        },
+        {
+            "word": "electric bulb",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A glass device that produces "
+                },
+                {
+                    "text": "light when electricity passes",
+                    "highlight": true
+                },
+                {
+                    "text": " through a thin wire filament or "
+                },
+                {
+                    "text": "LED components inside",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مصباح كهربائي",
+            "synonyms": [
+                "light bulb",
+                "lamp",
+                "lighting fixture"
+            ],
+            "example": [
+                {
+                    "text": "The old incandescent "
+                },
+                {
+                    "text": "electric bulb",
+                    "colorize": true
+                },
+                {
+                    "text": " burned out after ten years of faithful service and was replaced with an energy-efficient LED version"
+                }
+            ],
+            "tips": "Often shortened to 'light bulb' in everyday speech. Thomas Edison famously improved early versions. Modern bulbs use LEDs (light-emitting diodes) for efficiency."
+        },
+        {
+            "word": "invention",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Something that is "
+                },
+                {
+                    "text": "created or designed",
+                    "highlight": true
+                },
+                {
+                    "text": " for the first time by human imagination and "
+                },
+                {
+                    "text": "ingenuity",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "اختراع",
+            "synonyms": [
+                "creation",
+                "innovation",
+                "new device"
+            ],
+            "example": [
+                {
+                    "text": "The printing press was one of history's most important "
+                },
+                {
+                    "text": "inventions",
+                    "colorize": true
+                },
+                {
+                    "text": " because it made books accessible to ordinary people"
+                }
+            ],
+            "tips": "Invention = creating something new that didn't exist before. Different from 'discovery' (finding something that already existed but was unknown)."
+        },
+        {
+            "word": "discovery",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The act of finding or learning about something that "
+                },
+                {
+                    "text": "already exists",
+                    "highlight": true
+                },
+                {
+                    "text": " but was previously "
+                },
+                {
+                    "text": "unknown or hidden",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "اكتشاف",
+            "synonyms": [
+                "finding",
+                "uncovering",
+                "revelation"
+            ],
+            "example": [
+                {
+                    "text": "Archaeologists made an exciting "
+                },
+                {
+                    "text": "discovery",
+                    "colorize": true
+                },
+                {
+                    "text": " when they uncovered a 3,000-year-old tomb untouched by looters"
+                }
+            ],
+            "tips": "You discover natural phenomena (penicillin, gravity) or hidden places. You invent human-made objects (light bulb, telephone). Key distinction!"
+        },
+        {
+            "word": "wheel",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A circular object that rotates around a central axis, allowing "
+                },
+                {
+                    "text": "efficient movement",
+                    "highlight": true
+                },
+                {
+                    "text": " and "
+                },
+                {
+                    "text": "transportation",
+                    "highlight2": true
+                },
+                {
+                    "text": " — one of humanity's oldest and most important inventions"
+                }
+            ],
+            "arabicMeaning": "عجلة",
+            "synonyms": [
+                "circular roller",
+                "rotating disk"
+            ],
+            "example": [
+                {
+                    "text": "Before the "
+                },
+                {
+                    "text": "wheel",
+                    "colorize": true
+                },
+                {
+                    "text": " was invented around 3500 BCE, humans could only carry heavy loads on their backs or drag them"
+                }
+            ],
+            "tips": "Fundamental simple machine. Not just for vehicles—wheels are inside clocks, engines, and factories. Often used metaphorically: 'reinvent the wheel' = waste time creating something that already exists."
+        },
+        {
+            "word": "engine",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A machine that converts energy (fuel, electricity) into "
+                },
+                {
+                    "text": "mechanical motion",
+                    "highlight": true
+                },
+                {
+                    "text": " to power vehicles, machines, or "
+                },
+                {
+                    "text": "generators",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "محرّك",
+            "synonyms": [
+                "motor",
+                "power unit"
+            ],
+            "example": [
+                {
+                    "text": "The jet "
+                },
+                {
+                    "text": "engine",
+                    "colorize": true
+                },
+                {
+                    "text": " sucked in air at the front, compressed it, mixed it with fuel, and expelled it backward to propel the aircraft forward"
+                }
+            ],
+            "tips": "Not the same as 'motor' in precise engineering (engines use combustion; motors use electricity), but often used interchangeably in everyday speech."
+        },
+        {
+            "word": "airplane",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A powered flying vehicle with fixed wings that moves through the air by "
+                },
+                {
+                    "text": "generating lift",
+                    "highlight": true
+                },
+                {
+                    "text": " and is capable of "
+                },
+                {
+                    "text": "controlled flight",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "طائرة",
+            "synonyms": [
+                "aircraft",
+                "aeroplane (British)",
+                "plane"
+            ],
+            "example": [
+                {
+                    "text": "The Wright brothers' first successful "
+                },
+                {
+                    "text": "airplane",
+                    "colorize": true
+                },
+                {
+                    "text": " flight in 1903 lasted only 12 seconds but changed transportation forever"
+                }
+            ],
+            "tips": "American spelling: airplane. British spelling: aeroplane. Not the same as 'aircraft' (broader term including helicopters, gliders) or 'jet' (specific engine type)."
+        },
+        {
+            "word": "computer",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "An electronic device that processes information by following "
+                },
+                {
+                    "text": "instructions (programs)",
+                    "highlight": true
+                },
+                {
+                    "text": " to perform calculations, store data, and "
+                },
+                {
+                    "text": "execute tasks",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حاسوب / كمبيوتر",
+            "synonyms": [
+                "PC",
+                "processor",
+                "digital device"
+            ],
+            "example": [
+                {
+                    "text": "Modern "
+                },
+                {
+                    "text": "computers",
+                    "colorize": true
+                },
+                {
+                    "text": " can perform billions of calculations per second—far beyond human capability"
+                }
+            ],
+            "tips": "From Latin 'computare' (to calculate). Early computers filled entire rooms; now they fit in your pocket (smartphones). Not just desktops/laptops—cars, microwaves, and watches contain computers."
+        },
+        {
+            "word": "incandescent",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Producing light as a result of being heated to a very high temperature; glowing with "
+                },
+                {
+                    "text": "visible light from heat",
+                    "highlight": true
+                },
+                {
+                    "text": " — like traditional "
+                },
+                {
+                    "text": "light bulbs with filaments",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "متوهّج / مضيء بالحرارة",
+            "synonyms": [
+                "glowing",
+                "luminous from heat"
+            ],
+            "example": [
+                {
+                    "text": "Thomas Edison's "
+                },
+                {
+                    "text": "incandescent",
+                    "colorize": true
+                },
+                {
+                    "text": " light bulb used a thin carbon filament that glowed white-hot when electricity passed through it"
+                }
+            ],
+            "tips": "Most household 'incandescent bulbs' are now phased out in many countries because they waste 90% of energy as heat (not light). Replaced by LEDs and CFLs for efficiency."
+        },
+        {
+            "word": "regret",
+            "wordType": "noun/verb",
+            "definition": [
+                {
+                    "text": "A feeling of sadness, disappointment, or guilt about "
+                },
+                {
+                    "text": "something you did or failed to do",
+                    "highlight": true
+                },
+                {
+                    "text": " in the "
+                },
+                {
+                    "text": "past",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ندم",
+            "synonyms": [
+                "remorse",
+                "sorrow",
+                "disappointment"
+            ],
+            "example": [
+                {
+                    "text": "His only real "
+                },
+                {
+                    "text": "regret",
+                    "colorize": true
+                },
+                {
+                    "text": " was not spending more time with his grandparents before they passed away"
+                }
+            ],
+            "tips": "Verb pattern: regret + -ing ('I regret quitting my job') OR regret + that-clause ('I regret that I was rude'). Not the same as 'apologize' (expressing sorry to others) vs. 'regret' (personal feeling)."
+        },
+        {
+            "word": "careful",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Giving good attention to avoid "
+                },
+                {
+                    "text": "danger, mistakes",
+                    "highlight": true
+                },
+                {
+                    "text": ", or "
+                },
+                {
+                    "text": "damage",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حريص / مُنتبِه",
+            "synonyms": [
+                "cautious",
+                "attentive",
+                "watchful"
+            ],
+            "example": [
+                {
+                    "text": "Be "
+                },
+                {
+                    "text": "careful",
+                    "colorize": true
+                },
+                {
+                    "text": " when crossing this street—the drivers often speed around this corner"
+                }
+            ],
+            "tips": "Opposite: careless. Adverb form: carefully. Common phrase: 'be careful' (warning). NOT 'be carefully' (incorrect—must use adjective after 'be')."
+        },
+        {
+            "word": "avoid",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To keep away from something or someone intentionally; to "
+                },
+                {
+                    "text": "prevent yourself from doing",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "experiencing something",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يتجنب",
+            "synonyms": [
+                "steer clear of",
+                "stay away from",
+                "prevent"
+            ],
+            "example": [
+                {
+                    "text": "She always "
+                },
+                {
+                    "text": "avoids",
+                    "colorize": true
+                },
+                {
+                    "text": " making eye contact with strangers on the subway"
+                }
+            ],
+            "tips": "Followed by noun OR -ing verb: 'avoid traffic' or 'avoid driving during rush hour'. NEVER 'avoid to + verb' (common error)."
+        },
+        {
+            "word": "accident",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "An unexpected and unplanned event that causes "
+                },
+                {
+                    "text": "injury, damage",
+                    "highlight": true
+                },
+                {
+                    "text": ", or "
+                },
+                {
+                    "text": "harm",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حادث",
+            "synonyms": [
+                "mishap",
+                "collision",
+                "unfortunate incident"
+            ],
+            "example": [
+                {
+                    "text": "The driver lost control on the icy road and caused a serious "
+                },
+                {
+                    "text": "accident",
+                    "colorize": true
+                },
+                {
+                    "text": " involving three cars"
+                }
+            ],
+            "tips": "Often modified: car accident, workplace accident, freak accident (very unusual). NOT the same as 'incident' (broader term that may not involve harm)."
+        },
+        {
+            "word": "route",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A regular or chosen "
+                },
+                {
+                    "text": "path or way",
+                    "highlight": true
+                },
+                {
+                    "text": " taken to travel from one place to "
+                },
+                {
+                    "text": "another",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "طريق / مسار",
+            "synonyms": [
+                "path",
+                "direction",
+                "course"
+            ],
+            "example": [
+                {
+                    "text": "GPS apps help drivers find the fastest "
+                },
+                {
+                    "text": "route",
+                    "colorize": true
+                },
+                {
+                    "text": " to avoid traffic jams during rush hour"
+                }
+            ],
+            "tips": "Can be literal (driving route) or figurative ('route to success'). Verb form: route (to direct something along a path: 'route the call to customer service')."
+        },
+        {
+            "word": "feelings",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Emotional reactions or sensitivities that can be easily "
+                },
+                {
+                    "text": "hurt or affected",
+                    "highlight": true
+                },
+                {
+                    "text": " by words or "
+                },
+                {
+                    "text": "actions",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مشاعر",
+            "synonyms": [
+                "emotions",
+                "sensitivities",
+                "sentiments"
+            ],
+            "example": [
+                {
+                    "text": "I didn't criticize your presentation because I didn't want to hurt your "
+                },
+                {
+                    "text": "feelings",
+                    "colorize": true
+                },
+                {
+                    "text": ""
+                }
+            ],
+            "tips": "Often used in plural form when discussing emotional sensitivity ('hurt feelings'). Singular 'feeling' can mean physical sensation ('a feeling of warmth') or general emotion ('a feeling of joy')."
+        },
+        {
+            "word": "afterthought",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "An idea, consideration, or action that occurs "
+                },
+                {
+                    "text": "later than it should have",
+                    "highlight": true
+                },
+                {
+                    "text": "; something added or realized "
+                },
+                {
+                    "text": "only after the main event",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "فكرة لاحقة / تذكّر متأخر",
+            "synonyms": [
+                "late consideration",
+                "belated thought",
+                "hindsight realization"
+            ],
+            "example": [
+                {
+                    "text": "Bringing a gift to the dinner party was an "
+                },
+                {
+                    "text": "afterthought",
+                    "colorize": true
+                },
+                {
+                    "text": " — he only remembered when he was already parking his car outside the host's house"
+                }
+            ],
+            "tips": "Often has negative connotation—implies you should have thought of it earlier. Related to regret: many regrets are about things that become afterthoughts too late."
+        },
+        {
+            "word": "hindsight",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Understanding or insight about an event that comes "
+                },
+                {
+                    "text": "only after it has happened",
+                    "highlight": true
+                },
+                {
+                    "text": "; the ability to see what you "
+                },
+                {
+                    "text": "should have done differently",
+                    "highlight2": true
+                },
+                {
+                    "text": " in the past"
+                }
+            ],
+            "arabicMeaning": "نظرة رجعية / حكمة متأخرة",
+            "synonyms": [
+                "retrospective insight",
+                "20/20 hindsight"
+            ],
+            "example": [
+                {
+                    "text": "With perfect "
+                },
+                {
+                    "text": "hindsight",
+                    "colorize": true
+                },
+                {
+                    "text": ", I realize I should have invested in that startup when they first asked me"
+                }
+            ],
+            "tips": "Common expression: 'hindsight is 20/20' = it's easy to see the right choice after events unfold. Often used to acknowledge regret without self-blame."
+        },
+        {
+            "word": "missed opportunity",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A chance to do something beneficial that you "
+                },
+                {
+                    "text": "failed to take",
+                    "highlight": true
+                },
+                {
+                    "text": " at the right "
+                },
+                {
+                    "text": "moment",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "فرصة ضائعة",
+            "synonyms": [
+                "lost chance",
+                "overlooked opportunity",
+                "regrettable omission"
+            ],
+            "example": [
+                {
+                    "text": "Not applying for that scholarship was a major "
+                },
+                {
+                    "text": "missed opportunity",
+                    "colorize": true
+                },
+                {
+                    "text": " that would have changed the course of her education"
+                }
+            ],
+            "tips": "Common source of life regrets. Often paired with 'regret' ('I regret that missed opportunity'). Different from 'failure' (you tried and didn't succeed) vs. 'missed opportunity' (you never tried)."
+        },
+        {
+            "word": "break a lock",
+            "wordType": "verb phrase",
+            "definition": [
+                {
+                    "text": "To force open or damage a locking mechanism "
+                },
+                {
+                    "text": "illegally",
+                    "highlight": true
+                },
+                {
+                    "text": " in order to "
+                },
+                {
+                    "text": "gain unauthorized entry",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُكسِر قفلًا",
+            "synonyms": [
+                "force a lock",
+                "tamper with a lock",
+                "pick a lock (different method)"
+            ],
+            "example": [
+                {
+                    "text": "Someone tried to "
+                },
+                {
+                    "text": "break the lock",
+                    "colorize": true
+                },
+                {
+                    "text": " on our storage shed last weekend, but the heavy-duty padlock held strong"
+                }
+            ],
+            "tips": "Criminal activity when done without permission. 'Break in' = enter illegally (may involve breaking a lock, window, or door). Not the same as 'unlock' (using a key legitimately)."
+        }
+    ]
+}

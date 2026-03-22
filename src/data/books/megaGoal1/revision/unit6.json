@@ -1,0 +1,2661 @@
+{
+    "unit": "Mega Goal 1 - Unit 6: Health & Habits",
+    "type": "revision",
+    "totalQuestions": 100,
+    "currentBatch": 1,
+    "sections": [
+        {
+            "section": "grammar",
+            "questions": [
+                {
+                    "id": "G1",
+                    "difficulty": 1,
+                    "arabicHint": "نصيحة عامة (Should)",
+                    "question": "Choose the correct modal for advice.",
+                    "prompt": [
+                        {
+                            "text": "You look tired. You "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " get some rest."
+                        }
+                    ],
+                    "options": [
+                        "should",
+                        "must",
+                        "have to",
+                        "will"
+                    ],
+                    "answer": "should",
+                    "explanation": "Use 'should' to give general advice or recommendations."
+                },
+                {
+                    "id": "G2",
+                    "difficulty": 2,
+                    "arabicHint": "نصيحة أقوى (Ought to)",
+                    "question": "Select the modal that implies strong advice.",
+                    "prompt": [
+                        {
+                            "text": "We "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " apologize for being late."
+                        }
+                    ],
+                    "options": [
+                        "might",
+                        "could",
+                        "ought to",
+                        "may"
+                    ],
+                    "answer": "ought to",
+                    "explanation": "'Ought to' is slightly stronger than 'should' and implies moral obligation."
+                },
+                {
+                    "id": "G3",
+                    "difficulty": 3,
+                    "arabicHint": "تحذير قوي (Had better)",
+                    "question": "Choose the correct form for a strong warning.",
+                    "prompt": [
+                        {
+                            "text": "You "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " not touch that wire, or you will get shocked."
+                        }
+                    ],
+                    "options": [
+                        "should",
+                        "had better",
+                        "ought to",
+                        "might"
+                    ],
+                    "answer": "had better",
+                    "explanation": "'Had better' is used for strong advice with a negative consequence if ignored."
+                },
+                {
+                    "id": "G4",
+                    "difficulty": 2,
+                    "arabicHint": "اقتراح ممكن (Could)",
+                    "question": "Select the modal for a possible suggestion.",
+                    "prompt": [
+                        {
+                            "text": "If you are bored, you "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " read a book."
+                        }
+                    ],
+                    "options": [
+                        "must",
+                        "had better",
+                        "could",
+                        "should"
+                    ],
+                    "answer": "could",
+                    "explanation": "'Could' suggests a possibility or option rather than strong advice."
+                },
+                {
+                    "id": "G5",
+                    "difficulty": 2,
+                    "arabicHint": "أجل القرار (Put off)",
+                    "question": "Choose the phrasal verb meaning 'postpone'.",
+                    "prompt": [
+                        {
+                            "text": "They decided to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " the meeting until next Monday."
+                        }
+                    ],
+                    "options": [
+                        "put off",
+                        "put on",
+                        "put up",
+                        "put in"
+                    ],
+                    "answer": "put off",
+                    "explanation": "'Put off' means to delay or postpone an event."
+                },
+                {
+                    "id": "G6",
+                    "difficulty": 2,
+                    "arabicHint": "الإقلاع عن عادة (Give up)",
+                    "question": "Select the phrasal verb for stopping a habit.",
+                    "prompt": [
+                        {
+                            "text": "He wants to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " eating junk food."
+                        }
+                    ],
+                    "options": [
+                        "give up",
+                        "give in",
+                        "give out",
+                        "give away"
+                    ],
+                    "answer": "give up",
+                    "explanation": "'Give up' means to stop doing something regularly, like a habit."
+                },
+                {
+                    "id": "G7",
+                    "difficulty": 3,
+                    "arabicHint": "بدء هواية (Take up)",
+                    "question": "Choose the phrasal verb meaning 'start a hobby'.",
+                    "prompt": [
+                        {
+                            "text": "I plan to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " gardening this spring."
+                        }
+                    ],
+                    "options": [
+                        "take off",
+                        "take up",
+                        "take in",
+                        "take out"
+                    ],
+                    "answer": "take up",
+                    "explanation": "'Take up' means to begin a new activity or hobby."
+                },
+                {
+                    "id": "G8",
+                    "difficulty": 2,
+                    "arabicHint": "التخلص من شيء (Throw away)",
+                    "question": "Select the phrasal verb for discarding items.",
+                    "prompt": [
+                        {
+                            "text": "Please "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " this old newspaper."
+                        }
+                    ],
+                    "options": [
+                        "throw away",
+                        "throw up",
+                        "throw in",
+                        "throw off"
+                    ],
+                    "answer": "throw away",
+                    "explanation": "'Throw away' means to dispose of something you no longer want."
+                },
+                {
+                    "id": "G9",
+                    "difficulty": 3,
+                    "arabicHint": "مكان الضمير في الأفعال المركبة",
+                    "question": "Choose the correct word order with a pronoun.",
+                    "prompt": [
+                        {
+                            "text": "These shoes are old. You should "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "throw away them",
+                        "throw them away",
+                        "throw away it",
+                        "throw it away"
+                    ],
+                    "answer": "throw them away",
+                    "explanation": "Pronoun objects must go between the verb and the particle in separable phrasal verbs."
+                },
+                {
+                    "id": "G10",
+                    "difficulty": 2,
+                    "arabicHint": "رفض عرض (Turn down)",
+                    "question": "Select the phrasal verb meaning 'refuse'.",
+                    "prompt": [
+                        {
+                            "text": "She had to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " the job offer."
+                        }
+                    ],
+                    "options": [
+                        "turn up",
+                        "turn down",
+                        "turn off",
+                        "turn on"
+                    ],
+                    "answer": "turn down",
+                    "explanation": "'Turn down' means to reject or refuse an offer or request."
+                },
+                {
+                    "id": "G11",
+                    "difficulty": 2,
+                    "arabicHint": "التوافق مع الآخرين (Get along with)",
+                    "question": "Choose the phrasal verb for having a good relationship.",
+                    "prompt": [
+                        {
+                            "text": "I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " my neighbors very well."
+                        }
+                    ],
+                    "options": [
+                        "get along with",
+                        "get up with",
+                        "get down with",
+                        "get off with"
+                    ],
+                    "answer": "get along with",
+                    "explanation": "'Get along with' means to have a friendly relationship with someone."
+                },
+                {
+                    "id": "G12",
+                    "difficulty": 3,
+                    "arabicHint": "التحمل (Put up with)",
+                    "question": "Select the phrasal verb meaning 'tolerate'.",
+                    "prompt": [
+                        {
+                            "text": "I can't "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " this loud noise anymore."
+                        }
+                    ],
+                    "options": [
+                        "put up with",
+                        "put down with",
+                        "put off with",
+                        "put on with"
+                    ],
+                    "answer": "put up with",
+                    "explanation": "'Put up with' means to accept or tolerate an unpleasant situation."
+                },
+                {
+                    "id": "G13",
+                    "difficulty": 1,
+                    "arabicHint": "الكمية لغير المعدود (How much)",
+                    "question": "Choose the correct question word for non-count nouns.",
+                    "prompt": [
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " water do you drink daily?"
+                        }
+                    ],
+                    "options": [
+                        "How many",
+                        "How much",
+                        "How often",
+                        "How long"
+                    ],
+                    "answer": "How much",
+                    "explanation": "Use 'How much' for uncountable nouns like water, money, or time."
+                },
+                {
+                    "id": "G14",
+                    "difficulty": 1,
+                    "arabicHint": "الكمية للمعدود (How many)",
+                    "question": "Select the correct question word for count nouns.",
+                    "prompt": [
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " brothers do you have?"
+                        }
+                    ],
+                    "options": [
+                        "How much",
+                        "How many",
+                        "How few",
+                        "How little"
+                    ],
+                    "answer": "How many",
+                    "explanation": "Use 'How many' for plural countable nouns like brothers or cars."
+                },
+                {
+                    "id": "G15",
+                    "difficulty": 2,
+                    "arabicHint": "كمية كبيرة (A lot of)",
+                    "question": "Choose the expression for a large quantity.",
+                    "prompt": [
+                        {
+                            "text": "She has "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " friends in this city."
+                        }
+                    ],
+                    "options": [
+                        "a lot of",
+                        "much",
+                        "many",
+                        "little"
+                    ],
+                    "answer": "a lot of",
+                    "explanation": "'A lot of' can be used with both countable and uncountable nouns in affirmative sentences."
+                },
+                {
+                    "id": "G16",
+                    "difficulty": 2,
+                    "arabicHint": "كمية قليلة للمعدود (A few)",
+                    "question": "Select the expression for a small number of countable items.",
+                    "prompt": [
+                        {
+                            "text": "I have "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " questions to ask."
+                        }
+                    ],
+                    "options": [
+                        "a little",
+                        "a few",
+                        "much",
+                        "any"
+                    ],
+                    "answer": "a few",
+                    "explanation": "Use 'a few' with plural countable nouns to mean a small number."
+                },
+                {
+                    "id": "G17",
+                    "difficulty": 2,
+                    "arabicHint": "كمية قليلة لغير المعدود (A little)",
+                    "question": "Choose the expression for a small amount of uncountable noun.",
+                    "prompt": [
+                        {
+                            "text": "Can I have "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " sugar in my tea?"
+                        }
+                    ],
+                    "options": [
+                        "a few",
+                        "a little",
+                        "many",
+                        "few"
+                    ],
+                    "answer": "a little",
+                    "explanation": "Use 'a little' with uncountable nouns to mean a small amount."
+                },
+                {
+                    "id": "G18",
+                    "difficulty": 3,
+                    "arabicHint": "النفي مع Much",
+                    "question": "Select the correct quantifier for negative sentences.",
+                    "prompt": [
+                        {
+                            "text": "I don't have "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " time left."
+                        }
+                    ],
+                    "options": [
+                        "many",
+                        "much",
+                        "a few",
+                        "few"
+                    ],
+                    "answer": "much",
+                    "explanation": "Use 'much' in negative sentences with uncountable nouns."
+                },
+                {
+                    "id": "G19",
+                    "difficulty": 3,
+                    "arabicHint": "النفي مع Many",
+                    "question": "Choose the correct quantifier for negative countable nouns.",
+                    "prompt": [
+                        {
+                            "text": "There aren't "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " students in the class today."
+                        }
+                    ],
+                    "options": [
+                        "much",
+                        "many",
+                        "little",
+                        "a little"
+                    ],
+                    "answer": "many",
+                    "explanation": "Use 'many' in negative sentences with plural countable nouns."
+                },
+                {
+                    "id": "G20",
+                    "difficulty": 2,
+                    "arabicHint": "جملة زمنية مع When",
+                    "question": "Select the correct tense after 'when'.",
+                    "prompt": [
+                        {
+                            "text": "I usually drink tea "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " I feel cold."
+                        }
+                    ],
+                    "options": [
+                        "when",
+                        "where",
+                        "what",
+                        "who"
+                    ],
+                    "answer": "when",
+                    "explanation": "Use 'when' to introduce a clause about time or condition."
+                },
+                {
+                    "id": "G21",
+                    "difficulty": 3,
+                    "arabicHint": "تحذير سلبي (Had better not)",
+                    "question": "Choose the correct negative form for a strong warning.",
+                    "prompt": [
+                        {
+                            "text": "You look very sick. You "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " go to work today."
+                        }
+                    ],
+                    "options": [
+                        "had better not",
+                        "had not better",
+                        "should not",
+                        "ought not"
+                    ],
+                    "answer": "had better not",
+                    "explanation": "The negative form of 'had better' is 'had better not' without 'to'."
+                },
+                {
+                    "id": "G22",
+                    "difficulty": 2,
+                    "arabicHint": "إمكانية ضعيفة (Might)",
+                    "question": "Select the modal for a slight possibility.",
+                    "prompt": [
+                        {
+                            "text": "Take an umbrella. It "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " rain later."
+                        }
+                    ],
+                    "options": [
+                        "must",
+                        "might",
+                        "should",
+                        "ought to"
+                    ],
+                    "answer": "might",
+                    "explanation": "'Might' suggests a possibility that is not certain."
+                },
+                {
+                    "id": "G23",
+                    "difficulty": 2,
+                    "arabicHint": "بدء هواية جديدة (Take up)",
+                    "question": "Choose the phrasal verb for starting a hobby.",
+                    "prompt": [
+                        {
+                            "text": "She decided to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " painting during her free time."
+                        }
+                    ],
+                    "options": [
+                        "take off",
+                        "take up",
+                        "take in",
+                        "take out"
+                    ],
+                    "answer": "take up",
+                    "explanation": "'Take up' means to begin a new activity or hobby."
+                },
+                {
+                    "id": "G24",
+                    "difficulty": 2,
+                    "arabicHint": "السؤال عن العلاقة (Get along with)",
+                    "question": "Select the correct question form.",
+                    "prompt": [
+                        {
+                            "text": "Do you "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " your colleagues?"
+                        }
+                    ],
+                    "options": [
+                        "get along with",
+                        "get up with",
+                        "get down with",
+                        "get off with"
+                    ],
+                    "answer": "get along with",
+                    "explanation": "'Get along with' is used to ask about relationships with others."
+                },
+                {
+                    "id": "G25",
+                    "difficulty": 3,
+                    "arabicHint": "عدم التحمل (Put up with)",
+                    "question": "Choose the phrasal verb for tolerating something negative.",
+                    "prompt": [
+                        {
+                            "text": "I cannot "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " this heat anymore."
+                        }
+                    ],
+                    "options": [
+                        "put up with",
+                        "put down with",
+                        "put off with",
+                        "put on with"
+                    ],
+                    "answer": "put up with",
+                    "explanation": "'Put up with' means to tolerate an unpleasant situation."
+                },
+                {
+                    "id": "G26",
+                    "difficulty": 1,
+                    "arabicHint": "سؤال عن الكمية (غير معدود)",
+                    "question": "Select the correct question word for uncountable nouns.",
+                    "prompt": [
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " money do you need for the trip?"
+                        }
+                    ],
+                    "options": [
+                        "How many",
+                        "How much",
+                        "How often",
+                        "How long"
+                    ],
+                    "answer": "How much",
+                    "explanation": "Use 'How much' for uncountable nouns like money."
+                },
+                {
+                    "id": "G27",
+                    "difficulty": 1,
+                    "arabicHint": "سؤال عن الكمية (معدود)",
+                    "question": "Choose the correct question word for countable nouns.",
+                    "prompt": [
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " students are in the classroom?"
+                        }
+                    ],
+                    "options": [
+                        "How much",
+                        "How many",
+                        "How few",
+                        "How little"
+                    ],
+                    "answer": "How many",
+                    "explanation": "Use 'How many' for plural countable nouns like students."
+                },
+                {
+                    "id": "G28",
+                    "difficulty": 2,
+                    "arabicHint": "عدد قليل (معدود)",
+                    "question": "Select the quantifier for a small number of countable items.",
+                    "prompt": [
+                        {
+                            "text": "I have "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " ideas for the project."
+                        }
+                    ],
+                    "options": [
+                        "a little",
+                        "a few",
+                        "much",
+                        "any"
+                    ],
+                    "answer": "a few",
+                    "explanation": "Use 'a few' with plural countable nouns."
+                },
+                {
+                    "id": "G29",
+                    "difficulty": 2,
+                    "arabicHint": "كمية قليلة (غير معدود)",
+                    "question": "Choose the quantifier for a small amount of uncountable noun.",
+                    "prompt": [
+                        {
+                            "text": "Please add "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " sugar to my coffee."
+                        }
+                    ],
+                    "options": [
+                        "a few",
+                        "a little",
+                        "many",
+                        "few"
+                    ],
+                    "answer": "a little",
+                    "explanation": "Use 'a little' with uncountable nouns."
+                },
+                {
+                    "id": "G30",
+                    "difficulty": 2,
+                    "arabicHint": "النفي مع Much",
+                    "question": "Select the correct quantifier for negative uncountable nouns.",
+                    "prompt": [
+                        {
+                            "text": "I don't have "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " homework tonight."
+                        }
+                    ],
+                    "options": [
+                        "many",
+                        "much",
+                        "a few",
+                        "few"
+                    ],
+                    "answer": "much",
+                    "explanation": "Use 'much' in negative sentences with uncountable nouns."
+                },
+                {
+                    "id": "G31",
+                    "difficulty": 2,
+                    "arabicHint": "النفي مع Many",
+                    "question": "Choose the correct quantifier for negative countable nouns.",
+                    "prompt": [
+                        {
+                            "text": "There aren't "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " tickets left."
+                        }
+                    ],
+                    "options": [
+                        "much",
+                        "many",
+                        "little",
+                        "a little"
+                    ],
+                    "answer": "many",
+                    "explanation": "Use 'many' in negative sentences with plural countable nouns."
+                },
+                {
+                    "id": "G32",
+                    "difficulty": 1,
+                    "arabicHint": "كمية كبيرة (A lot of)",
+                    "question": "Select the expression for a large quantity in affirmative sentences.",
+                    "prompt": [
+                        {
+                            "text": "She has "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " experience in teaching."
+                        }
+                    ],
+                    "options": [
+                        "a lot of",
+                        "much",
+                        "many",
+                        "little"
+                    ],
+                    "answer": "a lot of",
+                    "explanation": "'A lot of' is common in affirmative sentences for both countable and uncountable nouns."
+                },
+                {
+                    "id": "G33",
+                    "difficulty": 3,
+                    "arabicHint": "جملة زمنية (When)",
+                    "question": "Choose the correct conjunction for time.",
+                    "prompt": [
+                        {
+                            "text": "Call me "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " you arrive at the station."
+                        }
+                    ],
+                    "options": [
+                        "where",
+                        "when",
+                        "what",
+                        "who"
+                    ],
+                    "answer": "when",
+                    "explanation": "Use 'when' to introduce a time clause."
+                },
+                {
+                    "id": "G34",
+                    "difficulty": 3,
+                    "arabicHint": "النصيحة السلبية (Ought not to)",
+                    "question": "Select the correct negative form of 'ought to'.",
+                    "prompt": [
+                        {
+                            "text": "You "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " eat so much fast food."
+                        }
+                    ],
+                    "options": [
+                        "ought not to",
+                        "ought to not",
+                        "don't ought to",
+                        "oughtn't"
+                    ],
+                    "answer": "ought not to",
+                    "explanation": "The negative form is 'ought not to'."
+                },
+                {
+                    "id": "G35",
+                    "difficulty": 3,
+                    "arabicHint": "التخلص من شيء (ضمير)",
+                    "question": "Choose the correct word order with a pronoun object.",
+                    "prompt": [
+                        {
+                            "text": "This milk is expired. Please "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "throw away it",
+                        "throw it away",
+                        "throw away them",
+                        "throw them away"
+                    ],
+                    "answer": "throw it away",
+                    "explanation": "Pronoun objects must go between the verb and the particle."
+                },
+                {
+                    "id": "G36",
+                    "difficulty": 2,
+                    "arabicHint": "إمكانية مستقبلية (Might)",
+                    "question": "Choose the modal expressing uncertainty.",
+                    "prompt": [
+                        {
+                            "text": "We "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " go to the beach if the weather is nice."
+                        }
+                    ],
+                    "options": [
+                        "must",
+                        "might",
+                        "should",
+                        "had better"
+                    ],
+                    "answer": "might",
+                    "explanation": "'Might' indicates a possibility that is not guaranteed."
+                },
+                {
+                    "id": "G37",
+                    "difficulty": 2,
+                    "arabicHint": "الإقلاع عن عادة (Give up)",
+                    "question": "Select the phrasal verb for quitting a habit.",
+                    "prompt": [
+                        {
+                            "text": "It is hard to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " drinking coffee."
+                        }
+                    ],
+                    "options": [
+                        "give up",
+                        "give in",
+                        "give out",
+                        "give away"
+                    ],
+                    "answer": "give up",
+                    "explanation": "'Give up' means to stop doing something permanently."
+                },
+                {
+                    "id": "G38",
+                    "difficulty": 3,
+                    "arabicHint": "رفض عرض (Turn down)",
+                    "question": "Choose the phrasal verb meaning 'reject'.",
+                    "prompt": [
+                        {
+                            "text": "He decided to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " the invitation."
+                        }
+                    ],
+                    "options": [
+                        "turn up",
+                        "turn down",
+                        "turn off",
+                        "turn on"
+                    ],
+                    "answer": "turn down",
+                    "explanation": "'Turn down' means to refuse an offer or request."
+                },
+                {
+                    "id": "G39",
+                    "difficulty": 2,
+                    "arabicHint": "تأجيل مهمة (Put off)",
+                    "question": "Select the phrasal verb for delaying something.",
+                    "prompt": [
+                        {
+                            "text": "Don't "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " your homework until the last minute."
+                        }
+                    ],
+                    "options": [
+                        "put off",
+                        "put on",
+                        "put up",
+                        "put in"
+                    ],
+                    "answer": "put off",
+                    "explanation": "'Put off' means to postpone or delay an action."
+                },
+                {
+                    "id": "G40",
+                    "difficulty": 3,
+                    "arabicHint": "تحذير قوي (Had better)",
+                    "question": "Choose the correct form for urgent advice.",
+                    "prompt": [
+                        {
+                            "text": "You "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " hurry or you will miss the bus."
+                        }
+                    ],
+                    "options": [
+                        "should",
+                        "had better",
+                        "ought to",
+                        "might"
+                    ],
+                    "answer": "had better",
+                    "explanation": "'Had better' implies a negative consequence if the advice is not followed."
+                },
+                {
+                    "id": "G41",
+                    "difficulty": 1,
+                    "arabicHint": "سؤال عن كمية غير معدودة",
+                    "question": "Select the correct question phrase.",
+                    "prompt": [
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " bread do we need for breakfast?"
+                        }
+                    ],
+                    "options": [
+                        "How many",
+                        "How much",
+                        "How often",
+                        "How long"
+                    ],
+                    "answer": "How much",
+                    "explanation": "Bread is uncountable, so use 'How much'."
+                },
+                {
+                    "id": "G42",
+                    "difficulty": 1,
+                    "arabicHint": "سؤال عن كمية معدودة",
+                    "question": "Choose the correct question phrase.",
+                    "prompt": [
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " apples are in the basket?"
+                        }
+                    ],
+                    "options": [
+                        "How much",
+                        "How many",
+                        "How few",
+                        "How little"
+                    ],
+                    "answer": "How many",
+                    "explanation": "Apples are countable, so use 'How many'."
+                },
+                {
+                    "id": "G43",
+                    "difficulty": 2,
+                    "arabicHint": "كمية كبيرة في النفي (Much)",
+                    "question": "Select the correct quantifier for negative uncountable nouns.",
+                    "prompt": [
+                        {
+                            "text": "There isn't "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " milk left in the fridge."
+                        }
+                    ],
+                    "options": [
+                        "many",
+                        "much",
+                        "a few",
+                        "few"
+                    ],
+                    "answer": "much",
+                    "explanation": "Use 'much' with uncountable nouns in negative sentences."
+                },
+                {
+                    "id": "G44",
+                    "difficulty": 2,
+                    "arabicHint": "كمية كبيرة في النفي (Many)",
+                    "question": "Choose the correct quantifier for negative countable nouns.",
+                    "prompt": [
+                        {
+                            "text": "I don't have "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " friends in this town."
+                        }
+                    ],
+                    "options": [
+                        "much",
+                        "many",
+                        "little",
+                        "a little"
+                    ],
+                    "answer": "many",
+                    "explanation": "Use 'many' with countable nouns in negative sentences."
+                },
+                {
+                    "id": "G45",
+                    "difficulty": 2,
+                    "arabicHint": "كمية صغيرة (غير معدود)",
+                    "question": "Select the quantifier for a small amount.",
+                    "prompt": [
+                        {
+                            "text": "Can you lend me "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " money?"
+                        }
+                    ],
+                    "options": [
+                        "a few",
+                        "a little",
+                        "many",
+                        "few"
+                    ],
+                    "answer": "a little",
+                    "explanation": "Money is uncountable, so use 'a little'."
+                },
+                {
+                    "id": "G46",
+                    "difficulty": 2,
+                    "arabicHint": "كمية صغيرة (معدود)",
+                    "question": "Choose the quantifier for a small number.",
+                    "prompt": [
+                        {
+                            "text": "She has "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " cousins visiting her."
+                        }
+                    ],
+                    "options": [
+                        "a little",
+                        "a few",
+                        "much",
+                        "any"
+                    ],
+                    "answer": "a few",
+                    "explanation": "Cousins are countable, so use 'a few'."
+                },
+                {
+                    "id": "G47",
+                    "difficulty": 1,
+                    "arabicHint": "كمية كبيرة (إيجابي)",
+                    "question": "Select the common expression for large quantities.",
+                    "prompt": [
+                        {
+                            "text": "They have "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " books in their library."
+                        }
+                    ],
+                    "options": [
+                        "a lot of",
+                        "much",
+                        "many",
+                        "little"
+                    ],
+                    "answer": "a lot of",
+                    "explanation": "'A lot of' is commonly used in affirmative sentences."
+                },
+                {
+                    "id": "G48",
+                    "difficulty": 3,
+                    "arabicHint": "مكان الضمير (Throw away)",
+                    "question": "Choose the correct word order with a pronoun.",
+                    "prompt": [
+                        {
+                            "text": "This paper is trash. Please "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "throw away it",
+                        "throw it away",
+                        "throw away them",
+                        "throw them away"
+                    ],
+                    "answer": "throw it away",
+                    "explanation": "Pronoun objects must be placed between the verb and the particle."
+                },
+                {
+                    "id": "G49",
+                    "difficulty": 3,
+                    "arabicHint": "التحمل والصبر (Put up with)",
+                    "question": "Select the phrasal verb meaning 'tolerate'.",
+                    "prompt": [
+                        {
+                            "text": "She refuses to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " his bad behavior."
+                        }
+                    ],
+                    "options": [
+                        "put up with",
+                        "put down with",
+                        "put off with",
+                        "put on with"
+                    ],
+                    "answer": "put up with",
+                    "explanation": "'Put up with' means to accept or endure something unpleasant."
+                },
+                {
+                    "id": "G50",
+                    "difficulty": 2,
+                    "arabicHint": "ظرف الزمن (When)",
+                    "question": "Choose the correct conjunction for time clauses.",
+                    "prompt": [
+                        {
+                            "text": "Call me "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " you finish your work."
+                        }
+                    ],
+                    "options": [
+                        "where",
+                        "when",
+                        "what",
+                        "who"
+                    ],
+                    "answer": "when",
+                    "explanation": "Use 'when' to connect actions based on time."
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "questions": [
+                {
+                    "id": "V1",
+                    "difficulty": 2,
+                    "arabicHint": "مستشار / ناصح",
+                    "question": "Choose the word for someone who gives professional advice.",
+                    "prompt": [
+                        {
+                            "text": "If you have serious problems, you should talk to a "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "counselor",
+                        "color",
+                        "colonel",
+                        "collar"
+                    ],
+                    "answer": "counselor",
+                    "explanation": "A counselor is a person trained to give guidance on personal or psychological problems."
+                },
+                {
+                    "id": "V2",
+                    "difficulty": 2,
+                    "arabicHint": "مغذي / صحي",
+                    "question": "Select the adjective for food that promotes health.",
+                    "prompt": [
+                        {
+                            "text": "Vegetables are very "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " for your body."
+                        }
+                    ],
+                    "options": [
+                        "nutritious",
+                        "numerous",
+                        "nervous",
+                        "notorious"
+                    ],
+                    "answer": "nutritious",
+                    "explanation": "Nutritious means providing nourishment essential for growth and health."
+                },
+                {
+                    "id": "V3",
+                    "difficulty": 3,
+                    "arabicHint": "ضغط الأقران",
+                    "question": "Choose the phrase for influence from friends.",
+                    "prompt": [
+                        {
+                            "text": "He started smoking due to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " from his group."
+                        }
+                    ],
+                    "options": [
+                        "peer pressure",
+                        "pear pressure",
+                        "pair pressure",
+                        "peace pressure"
+                    ],
+                    "answer": "peer pressure",
+                    "explanation": "Peer pressure is the influence from members of one's peer group."
+                },
+                {
+                    "id": "V4",
+                    "difficulty": 3,
+                    "arabicHint": "فقدان الشهية العصبي",
+                    "question": "Select the eating disorder characterized by starvation.",
+                    "prompt": [
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " is a serious condition where people avoid eating to stay thin."
+                        }
+                    ],
+                    "options": [
+                        "Anorexia",
+                        "Anesthesia",
+                        "Antibiotic",
+                        "Antarctica"
+                    ],
+                    "answer": "Anorexia",
+                    "explanation": "Anorexia is an eating disorder involving an intense fear of gaining weight."
+                },
+                {
+                    "id": "V5",
+                    "difficulty": 1,
+                    "arabicHint": "اللياقة البدنية",
+                    "question": "Choose the noun for being in good physical condition.",
+                    "prompt": [
+                        {
+                            "text": "Running every day helps improve your "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "fitness",
+                        "finesse",
+                        "fixture",
+                        "fiction"
+                    ],
+                    "answer": "fitness",
+                    "explanation": "Fitness refers to the condition of being physically fit and healthy."
+                },
+                {
+                    "id": "V6",
+                    "difficulty": 2,
+                    "arabicHint": "يتجنب",
+                    "question": "Select the verb meaning 'to stay away from'.",
+                    "prompt": [
+                        {
+                            "text": "You should "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " dangerous situations."
+                        }
+                    ],
+                    "options": [
+                        "avoid",
+                        "avoided",
+                        "allow",
+                        "afford"
+                    ],
+                    "answer": "avoid",
+                    "explanation": "Avoid means to keep away from or stop oneself from doing something."
+                },
+                {
+                    "id": "V7",
+                    "difficulty": 2,
+                    "arabicHint": "مبادئ / قيم",
+                    "question": "Choose the noun for fundamental beliefs.",
+                    "prompt": [
+                        {
+                            "text": "She never compromises her "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " even when it is difficult."
+                        }
+                    ],
+                    "options": [
+                        "principles",
+                        "principals",
+                        "princes",
+                        "prints"
+                    ],
+                    "answer": "principles",
+                    "explanation": "Principles are fundamental truths or propositions that serve as the foundation for a system of belief."
+                },
+                {
+                    "id": "V8",
+                    "difficulty": 1,
+                    "arabicHint": "طعام غير صحي",
+                    "question": "Select the term for food low in nutritional value.",
+                    "prompt": [
+                        {
+                            "text": "Chips and soda are examples of "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "junk food",
+                        "just food",
+                        "jump food",
+                        "jar food"
+                    ],
+                    "answer": "junk food",
+                    "explanation": "Junk food refers to food that is high in calories but low in nutritional value."
+                },
+                {
+                    "id": "V9",
+                    "difficulty": 2,
+                    "arabicHint": "توعية",
+                    "question": "Choose the noun for knowledge about a situation.",
+                    "prompt": [
+                        {
+                            "text": "The campaign raised "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " about the dangers of smoking."
+                        }
+                    ],
+                    "options": [
+                        "awareness",
+                        "awarness",
+                        "awful",
+                        "away"
+                    ],
+                    "answer": "awareness",
+                    "explanation": "Awareness is knowledge or perception of a situation or fact."
+                },
+                {
+                    "id": "V10",
+                    "difficulty": 2,
+                    "arabicHint": "يتدرب / يمارس رياضة",
+                    "question": "Select the phrasal verb for exercising.",
+                    "prompt": [
+                        {
+                            "text": "I plan to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " at the gym three times a week."
+                        }
+                    ],
+                    "options": [
+                        "work out",
+                        "work in",
+                        "work on",
+                        "work up"
+                    ],
+                    "answer": "work out",
+                    "explanation": "'Work out' means to exercise to improve health or fitness."
+                },
+                {
+                    "id": "V11",
+                    "difficulty": 2,
+                    "arabicHint": "التقاطعات",
+                    "question": "Choose the word for where roads cross.",
+                    "prompt": [
+                        {
+                            "text": "Be careful when driving through "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "intersections",
+                        "interactions",
+                        "interests",
+                        "interiors"
+                    ],
+                    "answer": "intersections",
+                    "explanation": "An intersection is a point where two or more roads meet."
+                },
+                {
+                    "id": "V12",
+                    "difficulty": 2,
+                    "arabicHint": "طريق / مسار",
+                    "question": "Select the word for the way to a destination.",
+                    "prompt": [
+                        {
+                            "text": "Check the map to find the best "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " to the airport."
+                        }
+                    ],
+                    "options": [
+                        "route",
+                        "root",
+                        "rote",
+                        "rough"
+                    ],
+                    "answer": "route",
+                    "explanation": "A route is a way or course taken in getting from a starting point to a destination."
+                },
+                {
+                    "id": "V13",
+                    "difficulty": 3,
+                    "arabicHint": "يراقب / يلتزم",
+                    "question": "Choose the verb meaning 'to follow rules'.",
+                    "prompt": [
+                        {
+                            "text": "Drivers must "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " the speed limit."
+                        }
+                    ],
+                    "options": [
+                        "observe",
+                        "obtain",
+                        "object",
+                        "obscure"
+                    ],
+                    "answer": "observe",
+                    "explanation": "In this context, observe means to follow or comply with a rule or law."
+                },
+                {
+                    "id": "V14",
+                    "difficulty": 1,
+                    "arabicHint": "توتر / ضغط نفسي",
+                    "question": "Select the noun for mental strain.",
+                    "prompt": [
+                        {
+                            "text": "Too much "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " can affect your health."
+                        }
+                    ],
+                    "options": [
+                        "stress",
+                        "dress",
+                        "press",
+                        "guess"
+                    ],
+                    "answer": "stress",
+                    "explanation": "Stress is a state of mental or emotional strain resulting from adverse circumstances."
+                },
+                {
+                    "id": "V15",
+                    "difficulty": 2,
+                    "arabicHint": "شهية",
+                    "question": "Choose the noun for the desire to eat.",
+                    "prompt": [
+                        {
+                            "text": "Exercise usually increases your "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "appetite",
+                        "appliance",
+                        "application",
+                        "apple"
+                    ],
+                    "answer": "appetite",
+                    "explanation": "Appetite is a natural desire to satisfy a bodily need, especially for food."
+                },
+                {
+                    "id": "V16",
+                    "difficulty": 2,
+                    "arabicHint": "يشعر بالحزن",
+                    "question": "Choose the phrase meaning 'feeling sad or depressed'.",
+                    "prompt": [
+                        {
+                            "text": "She has been "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " since she lost her job."
+                        }
+                    ],
+                    "options": [
+                        "feeling down",
+                        "feeling up",
+                        "feeling round",
+                        "feeling out"
+                    ],
+                    "answer": "feeling down",
+                    "explanation": "'Feeling down' is an idiom meaning to feel sad or depressed."
+                },
+                {
+                    "id": "V17",
+                    "difficulty": 3,
+                    "arabicHint": "أهتم بنفسي",
+                    "question": "Select the phrase meaning 'protecting my own interests'.",
+                    "prompt": [
+                        {
+                            "text": "Sometimes you need to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " instead of helping others."
+                        }
+                    ],
+                    "options": [
+                        "look out for yourself",
+                        "look up for yourself",
+                        "look after for yourself",
+                        "look in for yourself"
+                    ],
+                    "answer": "look out for yourself",
+                    "explanation": "'Look out for yourself' means to take care of one's own needs or interests."
+                },
+                {
+                    "id": "V18",
+                    "difficulty": 2,
+                    "arabicHint": "لأكون صريحاً",
+                    "question": "Choose the phrase used to introduce honesty.",
+                    "prompt": [
+                        {
+                            "text": "_____, "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " I don't think this is a good idea."
+                        }
+                    ],
+                    "options": [
+                        "To be honest",
+                        "To be honest",
+                        "To be honest",
+                        "To be honest"
+                    ],
+                    "answer": "To be honest",
+                    "explanation": "'To be honest' is used when you want to tell the truth frankly."
+                },
+                {
+                    "id": "V19",
+                    "difficulty": 2,
+                    "arabicHint": "يؤجل",
+                    "question": "Select the verb meaning 'to delay to a later time'.",
+                    "prompt": [
+                        {
+                            "text": "They decided to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " the meeting until next week."
+                        }
+                    ],
+                    "options": [
+                        "postpone",
+                        "propose",
+                        "oppose",
+                        "compose"
+                    ],
+                    "answer": "postpone",
+                    "explanation": "Postpone means to arrange for something to take place at a time later than planned."
+                },
+                {
+                    "id": "V20",
+                    "difficulty": 2,
+                    "arabicHint": "يتوقف / يقلع",
+                    "question": "Choose the verb meaning 'to cease an action'.",
+                    "prompt": [
+                        {
+                            "text": "He promised to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " smoking this year."
+                        }
+                    ],
+                    "options": [
+                        "stop",
+                        "step",
+                        "stick",
+                        "star"
+                    ],
+                    "answer": "stop",
+                    "explanation": "Stop means to come to an end or cease doing something."
+                },
+                {
+                    "id": "V21",
+                    "difficulty": 3,
+                    "arabicHint": "يتحمل",
+                    "question": "Select the verb meaning 'to endure something unpleasant'.",
+                    "prompt": [
+                        {
+                            "text": "I cannot "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " this noise any longer."
+                        }
+                    ],
+                    "options": [
+                        "tolerate",
+                        "tolerant",
+                        "tolerate",
+                        "tolerate"
+                    ],
+                    "answer": "tolerate",
+                    "explanation": "Tolerate means to allow the existence or occurrence of something without interference."
+                },
+                {
+                    "id": "V22",
+                    "difficulty": 2,
+                    "arabicHint": "يتخلص من",
+                    "question": "Choose the formal verb for 'throw away'.",
+                    "prompt": [
+                        {
+                            "text": "Please "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " of these old papers."
+                        }
+                    ],
+                    "options": [
+                        "discard",
+                        "discover",
+                        "discuss",
+                        "discount"
+                    ],
+                    "answer": "discard",
+                    "explanation": "Discard means to get rid of something as no longer useful."
+                },
+                {
+                    "id": "V23",
+                    "difficulty": 1,
+                    "arabicHint": "يبدأ",
+                    "question": "Select the verb meaning 'to commence'.",
+                    "prompt": [
+                        {
+                            "text": "They will "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " the project tomorrow."
+                        }
+                    ],
+                    "options": [
+                        "begin",
+                        "begin",
+                        "begin",
+                        "begin"
+                    ],
+                    "answer": "begin",
+                    "explanation": "Begin means to start or commence an action."
+                },
+                {
+                    "id": "V24",
+                    "difficulty": 3,
+                    "arabicHint": "لا يتفق مع",
+                    "question": "Choose the phrase meaning 'have conflict with'.",
+                    "prompt": [
+                        {
+                            "text": "He does "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " his new boss."
+                        }
+                    ],
+                    "options": [
+                        "not have a good relationship",
+                        "not have a bad relationship",
+                        "not have a new relationship",
+                        "not have a old relationship"
+                    ],
+                    "answer": "not have a good relationship",
+                    "explanation": "This phrase indicates conflict or lack of harmony between people."
+                },
+                {
+                    "id": "V25",
+                    "difficulty": 2,
+                    "arabicHint": "يقبل",
+                    "question": "Select the verb meaning 'to agree to receive'.",
+                    "prompt": [
+                        {
+                            "text": "She refused to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " the gift."
+                        }
+                    ],
+                    "options": [
+                        "accept",
+                        "except",
+                        "access",
+                        "assess"
+                    ],
+                    "answer": "accept",
+                    "explanation": "Accept means to consent to receive or undertake something offered."
+                },
+                {
+                    "id": "V26",
+                    "difficulty": 1,
+                    "arabicHint": "يملأ استمارة",
+                    "question": "Choose the phrasal verb for completing a form.",
+                    "prompt": [
+                        {
+                            "text": "Please "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " this application form."
+                        }
+                    ],
+                    "options": [
+                        "fill out",
+                        "fill in",
+                        "fill up",
+                        "fill down"
+                    ],
+                    "answer": "fill out",
+                    "explanation": "'Fill out' means to complete a form by providing required information."
+                },
+                {
+                    "id": "V27",
+                    "difficulty": 2,
+                    "arabicHint": "يستعيد / يأخذ مرة أخرى",
+                    "question": "Select the phrasal verb for retracting a statement.",
+                    "prompt": [
+                        {
+                            "text": "He had to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " what he said."
+                        }
+                    ],
+                    "options": [
+                        "take back",
+                        "take off",
+                        "take up",
+                        "take in"
+                    ],
+                    "answer": "take back",
+                    "explanation": "'Take back' means to retract or withdraw a statement."
+                },
+                {
+                    "id": "V28",
+                    "difficulty": 2,
+                    "arabicHint": "يقطع / يفصل",
+                    "question": "Choose the phrasal verb for disconnecting.",
+                    "prompt": [
+                        {
+                            "text": "The storm caused the power to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "cut off",
+                        "cut up",
+                        "cut in",
+                        "cut down"
+                    ],
+                    "answer": "cut off",
+                    "explanation": "'Cut off' means to disconnect or stop the supply of something."
+                },
+                {
+                    "id": "V29",
+                    "difficulty": 1,
+                    "arabicHint": "يرمي بعيداً",
+                    "question": "Select the phrasal verb for disposing of trash.",
+                    "prompt": [
+                        {
+                            "text": "Don't "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " that box; I need it."
+                        }
+                    ],
+                    "options": [
+                        "throw away",
+                        "throw up",
+                        "throw in",
+                        "throw off"
+                    ],
+                    "answer": "throw away",
+                    "explanation": "'Throw away' means to dispose of something."
+                },
+                {
+                    "id": "V30",
+                    "difficulty": 1,
+                    "arabicHint": "يطفئ",
+                    "question": "Choose the phrasal verb for switching off a device.",
+                    "prompt": [
+                        {
+                            "text": "Please "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " the lights when you leave."
+                        }
+                    ],
+                    "options": [
+                        "turn off",
+                        "turn on",
+                        "turn up",
+                        "turn down"
+                    ],
+                    "answer": "turn off",
+                    "explanation": "'Turn off' means to stop the operation of a device."
+                },
+                {
+                    "id": "V31",
+                    "difficulty": 2,
+                    "arabicHint": "ضغط",
+                    "question": "Select the noun for mental stress.",
+                    "prompt": [
+                        {
+                            "text": "Exams put a lot of "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " on students."
+                        }
+                    ],
+                    "options": [
+                        "pressure",
+                        "pleasure",
+                        "stress",
+                        "effort"
+                    ],
+                    "answer": "pressure",
+                    "explanation": "Pressure refers to the feeling of stressful urgency."
+                },
+                {
+                    "id": "V32",
+                    "difficulty": 2,
+                    "arabicHint": "أناني",
+                    "question": "Choose the adjective for thinking only of oneself.",
+                    "prompt": [
+                        {
+                            "text": "It was "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " of him to eat all the cake."
+                        }
+                    ],
+                    "options": [
+                        "selfish",
+                        "selfless",
+                        "self",
+                        "shelf"
+                    ],
+                    "answer": "selfish",
+                    "explanation": "Selfish means lacking consideration for others; concerned chiefly with one's own profit."
+                },
+                {
+                    "id": "V33",
+                    "difficulty": 1,
+                    "arabicHint": "متاح",
+                    "question": "Select the adjective meaning 'free to talk'.",
+                    "prompt": [
+                        {
+                            "text": "I will be "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " after 5 PM."
+                        }
+                    ],
+                    "options": [
+                        "available",
+                        "valuable",
+                        "volatile",
+                        "variable"
+                    ],
+                    "answer": "available",
+                    "explanation": "Available means able to be used or obtained; at someone's disposal."
+                },
+                {
+                    "id": "V34",
+                    "difficulty": 2,
+                    "arabicHint": "عصبي",
+                    "question": "Choose the adjective for feeling anxious.",
+                    "prompt": [
+                        {
+                            "text": "She felt "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " before the interview."
+                        }
+                    ],
+                    "options": [
+                        "nervous",
+                        "nervous",
+                        "nervous",
+                        "nervous"
+                    ],
+                    "answer": "nervous",
+                    "explanation": "Nervous means easily agitated or alarmed; anxious."
+                },
+                {
+                    "id": "V35",
+                    "difficulty": 2,
+                    "arabicHint": "مزاج",
+                    "question": "Select the noun for emotional state.",
+                    "prompt": [
+                        {
+                            "text": "He is in a bad "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " today."
+                        }
+                    ],
+                    "options": [
+                        "mood",
+                        "mode",
+                        "model",
+                        "moon"
+                    ],
+                    "answer": "mood",
+                    "explanation": "Mood is a temporary state of mind or feeling."
+                },
+                {
+                    "id": "V36",
+                    "difficulty": 2,
+                    "arabicHint": "عادة",
+                    "question": "Choose the noun for a regular practice.",
+                    "prompt": [
+                        {
+                            "text": "Breaking a bad "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " takes time and patience."
+                        }
+                    ],
+                    "options": [
+                        "habit",
+                        "habitat",
+                        "habitual",
+                        "habitue"
+                    ],
+                    "answer": "habit",
+                    "explanation": "A habit is a settled or regular practice or tendency."
+                },
+                {
+                    "id": "V37",
+                    "difficulty": 2,
+                    "arabicHint": "يقلل من",
+                    "question": "Select the phrasal verb meaning 'reduce'.",
+                    "prompt": [
+                        {
+                            "text": "The doctor advised him to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " on salt."
+                        }
+                    ],
+                    "options": [
+                        "cut down",
+                        "cut off",
+                        "cut up",
+                        "cut in"
+                    ],
+                    "answer": "cut down",
+                    "explanation": "'Cut down' means to reduce the amount or quantity of something."
+                },
+                {
+                    "id": "V38",
+                    "difficulty": 2,
+                    "arabicHint": "تدريجياً",
+                    "question": "Choose the adverb meaning 'step by step'.",
+                    "prompt": [
+                        {
+                            "text": "Changes should be made "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " rather than suddenly."
+                        }
+                    ],
+                    "options": [
+                        "gradually",
+                        "generally",
+                        "gratefully",
+                        "greatly"
+                    ],
+                    "answer": "gradually",
+                    "explanation": "Gradually means happening slowly over a period of time."
+                },
+                {
+                    "id": "V39",
+                    "difficulty": 1,
+                    "arabicHint": "مكونات",
+                    "question": "Select the noun for parts of a mixture.",
+                    "prompt": [
+                        {
+                            "text": "Read the list of "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " on the food package."
+                        }
+                    ],
+                    "options": [
+                        "ingredients",
+                        "ingrained",
+                        "ingots",
+                        "inlets"
+                    ],
+                    "answer": "ingredients",
+                    "explanation": "Ingredients are any of the foods or substances that are combined to make a dish."
+                },
+                {
+                    "id": "V40",
+                    "difficulty": 2,
+                    "arabicHint": "يصر",
+                    "question": "Choose the verb meaning 'to demand firmly'.",
+                    "prompt": [
+                        {
+                            "text": "He "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " on paying for dinner."
+                        }
+                    ],
+                    "options": [
+                        "insists",
+                        "exists",
+                        "assists",
+                        "resists"
+                    ],
+                    "answer": "insists",
+                    "explanation": "Insist means to demand something forcefully, not accepting refusal."
+                },
+                {
+                    "id": "V41",
+                    "difficulty": 2,
+                    "arabicHint": "يرفض",
+                    "question": "Select the phrasal verb meaning 'refuse'.",
+                    "prompt": [
+                        {
+                            "text": "She had to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " the invitation due to illness."
+                        }
+                    ],
+                    "options": [
+                        "turn down",
+                        "turn up",
+                        "turn off",
+                        "turn on"
+                    ],
+                    "answer": "turn down",
+                    "explanation": "'Turn down' means to reject or refuse an offer."
+                },
+                {
+                    "id": "V42",
+                    "difficulty": 2,
+                    "arabicHint": "أحياناً",
+                    "question": "Choose the adverb meaning 'sometimes but not often'.",
+                    "prompt": [
+                        {
+                            "text": "We eat dessert "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": ", not every day."
+                        }
+                    ],
+                    "options": [
+                        "occasionally",
+                        "normally",
+                        "usually",
+                        "always"
+                    ],
+                    "answer": "occasionally",
+                    "explanation": "Occasionally means at infrequent or irregular intervals."
+                },
+                {
+                    "id": "V43",
+                    "difficulty": 3,
+                    "arabicHint": "قابل للتحقيق",
+                    "question": "Select the adjective for realistic goals.",
+                    "prompt": [
+                        {
+                            "text": "Set goals that are realistic and "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "achievable",
+                        "acceptable",
+                        "adaptable",
+                        "available"
+                    ],
+                    "answer": "achievable",
+                    "explanation": "Achievable means able to be brought about successfully."
+                },
+                {
+                    "id": "V44",
+                    "difficulty": 3,
+                    "arabicHint": "إدمان",
+                    "question": "Choose the noun for compulsive dependence.",
+                    "prompt": [
+                        {
+                            "text": "Smoking can lead to a serious "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "addiction",
+                        "addition",
+                        "edition",
+                        "condition"
+                    ],
+                    "answer": "addiction",
+                    "explanation": "Addiction is the fact or condition of being addicted to a particular substance or activity."
+                },
+                {
+                    "id": "V45",
+                    "difficulty": 3,
+                    "arabicHint": "الأكل العاطفي",
+                    "question": "Select the term for eating due to emotions.",
+                    "prompt": [
+                        {
+                            "text": "Eating when you are sad is known as "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "comfort eating",
+                        "comfort breathing",
+                        "comfort leaving",
+                        "comfort weaving"
+                    ],
+                    "answer": "comfort eating",
+                    "explanation": "Comfort eating refers to consuming food to cope with negative emotions."
+                },
+                {
+                    "id": "V46",
+                    "difficulty": 1,
+                    "arabicHint": "سعرات حرارية",
+                    "question": "Choose the unit for measuring energy in food.",
+                    "prompt": [
+                        {
+                            "text": "This snack has too many "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "calories",
+                        "colors",
+                        "collars",
+                        "callers"
+                    ],
+                    "answer": "calories",
+                    "explanation": "Calories are units used to measure the energy content of food."
+                },
+                {
+                    "id": "V47",
+                    "difficulty": 2,
+                    "arabicHint": "بلا طعم",
+                    "question": "Select the adjective for food lacking flavor.",
+                    "prompt": [
+                        {
+                            "text": "The soup was "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " without any salt."
+                        }
+                    ],
+                    "options": [
+                        "bland",
+                        "blind",
+                        "blend",
+                        "band"
+                    ],
+                    "answer": "bland",
+                    "explanation": "Bland means lacking strong features or characteristics and therefore uninteresting."
+                },
+                {
+                    "id": "V48",
+                    "difficulty": 2,
+                    "arabicHint": "مغري / شهي",
+                    "question": "Choose the adjective for food that looks delicious.",
+                    "prompt": [
+                        {
+                            "text": "The smell from the kitchen was very "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "appetizing",
+                        "appetite",
+                        "apologizing",
+                        "agonizing"
+                    ],
+                    "answer": "appetizing",
+                    "explanation": "Appetizing means looking or smelling good enough to eat."
+                },
+                {
+                    "id": "V49",
+                    "difficulty": 3,
+                    "arabicHint": "توابل / إضافات",
+                    "question": "Select the noun for substances added to food.",
+                    "prompt": [
+                        {
+                            "text": "Ketchup and mustard are common "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "condiments",
+                        "commands",
+                        "comments",
+                        "commencements"
+                    ],
+                    "answer": "condiments",
+                    "explanation": "Condiments are substances such as sauces or relishes used to add flavor to food."
+                },
+                {
+                    "id": "V50",
+                    "difficulty": 2,
+                    "arabicHint": "بدائل",
+                    "question": "Choose the noun for other options.",
+                    "prompt": [
+                        {
+                            "text": "We need to find healthy "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " to sugary drinks."
+                        }
+                    ],
+                    "options": [
+                        "alternatives",
+                        "alternators",
+                        "alterations",
+                        "allocations"
+                    ],
+                    "answer": "alternatives",
+                    "explanation": "Alternatives are things that can be chosen instead of something else."
+                }
+            ]
+        }
+    ]
+}

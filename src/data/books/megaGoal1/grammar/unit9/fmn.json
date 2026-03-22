@@ -1,0 +1,1551 @@
+{
+    "unit": "Mega Goal 1",
+    "lesson": "Unit 9",
+    "type": "Form, Meaning, and Function",
+    "clusters": [
+        {
+            "clusterId": "cluster-1",
+            "title": "Present Perfect - Recently Completed Actions",
+            "cards": [
+                {
+                    "id": "card-1",
+                    "content": [
+                        {
+                            "text": "Present Perfect",
+                            "highlight": true
+                        },
+                        {
+                            "text": " - Recently Completed Actions"
+                        },
+                        {
+                            "text": "الحاضر التام - الأفعال المنجزة حديثاً"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-2",
+                    "content": [
+                        {
+                            "text": "The present perfect describes "
+                        },
+                        {
+                            "text": "actions finished a short time ago",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "الحاضر التام يصف "
+                        },
+                        {
+                            "text": "أفعالاً انتهت منذ وقت قصير",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-3",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "Questions:",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "Has/Have",
+                            "badge": true,
+                            "translation": "هل"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "subject",
+                            "badge2": true,
+                            "translation": "الفاعل"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "past participle",
+                            "badge3": true,
+                            "translation": "التصريف الثالث"
+                        },
+                        {
+                            "text": " + ?"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-3b",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Has",
+                            "colorize": true
+                        },
+                        {
+                            "text": " she ",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "finished",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " her homework?"
+                        },
+                        {
+                            "text": "هل ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "أنهت",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " واجبها؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-4",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Have",
+                            "colorize": true
+                        },
+                        {
+                            "text": " they ",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "arrived",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " at the airport?"
+                        },
+                        {
+                            "text": "هل ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "وصلوا",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " إلى المطار؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-5",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "Short Answers:",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " Yes, "
+                        },
+                        {
+                            "text": "subject + has/have",
+                            "badge": true
+                        },
+                        {
+                            "text": " / No, "
+                        },
+                        {
+                            "text": "subject + hasn't/haven't",
+                            "badge2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-5b",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Yes, she "
+                        },
+                        {
+                            "text": "has",
+                            "colorize": true
+                        },
+                        {
+                            "text": " / No, she "
+                        },
+                        {
+                            "text": "hasn't",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "نعم "
+                        },
+                        {
+                            "text": "أنهت",
+                            "colorize": true
+                        },
+                        {
+                            "text": " / لا "
+                        },
+                        {
+                            "text": "لم تنهِ",
+                            "colorize2": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-2",
+            "title": "Been vs Gone",
+            "cards": [
+                {
+                    "id": "card-6",
+                    "content": [
+                        {
+                            "text": "Been",
+                            "highlight": true
+                        },
+                        {
+                            "text": " vs ",
+                            "highlight": true
+                        },
+                        {
+                            "text": "Gone",
+                            "highlight": true
+                        },
+                        {
+                            "text": "Been مقابل Gone"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-7",
+                    "content": [
+                        {
+                            "text": "Been",
+                            "colorize": true
+                        },
+                        {
+                            "text": " = someone "
+                        },
+                        {
+                            "text": "went and came back",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "Been",
+                            "colorize": true
+                        },
+                        {
+                            "text": " = شخص "
+                        },
+                        {
+                            "text": "ذهب وعاد",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-8",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "He has "
+                        },
+                        {
+                            "text": "been",
+                            "colorize": true
+                        },
+                        {
+                            "text": " to Dubai (he's back now)"
+                        },
+                        {
+                            "text": "لقد "
+                        },
+                        {
+                            "text": "ذهب",
+                            "colorize": true
+                        },
+                        {
+                            "text": " إلى دبي (عاد الآن)"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-9",
+                    "content": [
+                        {
+                            "text": "Gone",
+                            "colorize": true
+                        },
+                        {
+                            "text": " = someone "
+                        },
+                        {
+                            "text": "left and is still away",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "Gone",
+                            "colorize": true
+                        },
+                        {
+                            "text": " = شخص "
+                        },
+                        {
+                            "text": "غادر وما زال بعيداً",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-10",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "She has "
+                        },
+                        {
+                            "text": "gone",
+                            "colorize": true
+                        },
+                        {
+                            "text": " to Dubai (she's there now)"
+                        },
+                        {
+                            "text": "لقد "
+                        },
+                        {
+                            "text": "ذهبت",
+                            "colorize": true
+                        },
+                        {
+                            "text": " إلى دبي (هي هناك الآن)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-3",
+            "title": "Present Perfect with Already, Yet, Just",
+            "cards": [
+                {
+                    "id": "card-11",
+                    "content": [
+                        {
+                            "text": "Already, Yet, Just",
+                            "highlight": true
+                        },
+                        {
+                            "text": " with Present Perfect"
+                        },
+                        {
+                            "text": "Already و Yet و Just مع الحاضر التام"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-12",
+                    "content": [
+                        {
+                            "text": "These words describe "
+                        },
+                        {
+                            "text": "when something happened",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " relative to now"
+                        },
+                        {
+                            "text": "هذه الكلمات تصف "
+                        },
+                        {
+                            "text": "متى حدث شيء",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " بالنسبة للآن"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-13",
+                    "content": [
+                        {
+                            "text": "Already",
+                            "colorize": true
+                        },
+                        {
+                            "text": " = "
+                        },
+                        {
+                            "text": "completed sooner than expected",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " (positive)"
+                        },
+                        {
+                            "text": "Already",
+                            "colorize": true
+                        },
+                        {
+                            "text": " = "
+                        },
+                        {
+                            "text": "اكتمل أسرع من المتوقع",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " (إيجابي)"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-14",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Q: Have you cleaned your room "
+                        },
+                        {
+                            "text": "yet",
+                            "colorize3": true
+                        },
+                        {
+                            "text": "?"
+                        },
+                        {
+                            "text": "س: هل نظفت غرفتك "
+                        },
+                        {
+                            "text": "بعد",
+                            "colorize3": true
+                        },
+                        {
+                            "text": "؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-15",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "A: Yes, I've "
+                        },
+                        {
+                            "text": "already",
+                            "colorize": true
+                        },
+                        {
+                            "text": " cleaned it"
+                        },
+                        {
+                            "text": "ج: نعم، "
+                        },
+                        {
+                            "text": "لقد",
+                            "colorize": true
+                        },
+                        {
+                            "text": " نظفتها"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-16",
+                    "content": [
+                        {
+                            "text": "Yet",
+                            "colorize": true
+                        },
+                        {
+                            "text": " = "
+                        },
+                        {
+                            "text": "up to this point",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " (questions and negatives)"
+                        },
+                        {
+                            "text": "Yet",
+                            "colorize": true
+                        },
+                        {
+                            "text": " = "
+                        },
+                        {
+                            "text": "حتى هذه اللحظة",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " (أسئلة ونفي)"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-17",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "A: No, I haven't cleaned it "
+                        },
+                        {
+                            "text": "yet",
+                            "colorize": true
+                        },
+                        {
+                            "text": "ج: لا، لم أنظفها "
+                        },
+                        {
+                            "text": "بعد",
+                            "colorize": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-18",
+                    "content": [
+                        {
+                            "text": "Just",
+                            "colorize": true
+                        },
+                        {
+                            "text": " = "
+                        },
+                        {
+                            "text": "very recently, a moment ago",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " (positive)"
+                        },
+                        {
+                            "text": "Just",
+                            "colorize": true
+                        },
+                        {
+                            "text": " = "
+                        },
+                        {
+                            "text": "للتو، منذ لحظة",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " (إيجابي)"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-19",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Q: Have you "
+                        },
+                        {
+                            "text": "already",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " called him?"
+                        },
+                        {
+                            "text": "س: هل اتصلت به "
+                        },
+                        {
+                            "text": "بالفعل",
+                            "colorize3": true
+                        },
+                        {
+                            "text": "؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-20",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "A: Yes, I've "
+                        },
+                        {
+                            "text": "just",
+                            "colorize": true
+                        },
+                        {
+                            "text": " called him"
+                        },
+                        {
+                            "text": "ج: نعم، "
+                        },
+                        {
+                            "text": "اتصلت به للتو",
+                            "colorize": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-4",
+            "title": "Verb + Gerund",
+            "cards": [
+                {
+                    "id": "card-21",
+                    "content": [
+                        {
+                            "text": "Verb + Gerund",
+                            "highlight": true
+                        },
+                        {
+                            "text": " (Verb-ing)"
+                        },
+                        {
+                            "text": "فعل + مصدر (فعل + ing)"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-22",
+                    "content": [
+                        {
+                            "text": "After certain verbs, use the "
+                        },
+                        {
+                            "text": "gerund form (-ing)",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "بعد أفعال معينة، استخدم "
+                        },
+                        {
+                            "text": "صيغة المصدر (-ing)",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-23",
+                    "content": [
+                        {
+                            "text": "Common verbs: "
+                        },
+                        {
+                            "text": "avoid",
+                            "colorize": true
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "enjoy",
+                            "colorize2": true
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "finish",
+                            "colorize": true
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "give up",
+                            "colorize2": true
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "hate",
+                            "colorize": true
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "imagine",
+                            "colorize2": true
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "keep",
+                            "colorize": true
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "mind",
+                            "colorize2": true
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "miss",
+                            "colorize": true
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "stop",
+                            "colorize2": true
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "suggest",
+                            "colorize": true
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "can't stand",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "أفعال شائعة: "
+                        },
+                        {
+                            "text": "يتجنب",
+                            "colorize": true
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "يستمتع",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "ينهي",
+                            "colorize": true
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "يستسلم",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "يكره",
+                            "colorize": true
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "يتخيل",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "يستمر",
+                            "colorize": true
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "يمانع",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "يفتقد",
+                            "colorize": true
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "يتوقف",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "يقترح",
+                            "colorize": true
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "لا يطيق",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-24",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "She "
+                        },
+                        {
+                            "text": "enjoys",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "reading",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " novels"
+                        },
+                        {
+                            "text": "هي "
+                        },
+                        {
+                            "text": "تستمتع بـ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "قراءة",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " الروايات"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-25",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "I "
+                        },
+                        {
+                            "text": "can't stand",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "waiting",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " in traffic"
+                        },
+                        {
+                            "text": "لا أستطيع ",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "تحمل الانتظار",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " في الزحام"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-26",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "We "
+                        },
+                        {
+                            "text": "miss",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "spending",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " time with family"
+                        },
+                        {
+                            "text": "نفتقد ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "قضاء",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " الوقت مع العائلة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-27",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "They "
+                        },
+                        {
+                            "text": "stopped",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "watching",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " TV"
+                        },
+                        {
+                            "text": "توقفوا عن ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "مشاهدة",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " التلفاز"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-5",
+            "title": "Object Pronouns",
+            "cards": [
+                {
+                    "id": "card-28",
+                    "content": [
+                        {
+                            "text": "Object Pronouns",
+                            "highlight": true
+                        },
+                        {
+                            "text": "ضمائر المفعول به"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-29",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "Singular: "
+                        },
+                        {
+                            "text": "me, you, him, her, it",
+                            "badge": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-30",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "Plural: "
+                        },
+                        {
+                            "text": "us, you, them",
+                            "badge2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-31",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "I know "
+                        },
+                        {
+                            "text": "him",
+                            "colorize": true
+                        },
+                        {
+                            "text": "أعرفه",
+                            "colorize": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-32",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "She called "
+                        },
+                        {
+                            "text": "me",
+                            "colorize": true
+                        },
+                        {
+                            "text": " yesterday"
+                        },
+                        {
+                            "text": "اتصلت ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "بي",
+                            "colorize": true
+                        },
+                        {
+                            "text": " أمس"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-33",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "They invited "
+                        },
+                        {
+                            "text": "us",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " to the party"
+                        },
+                        {
+                            "text": "دعونا",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " إلى الحفلة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-34",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "We saw "
+                        },
+                        {
+                            "text": "them",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " at the mall"
+                        },
+                        {
+                            "text": "رأيناهم",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " في المركز التجاري"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-6",
+            "title": "Need/Want/Like + Infinitive",
+            "cards": [
+                {
+                    "id": "card-35",
+                    "content": [
+                        {
+                            "text": "Need/Want/Like + Infinitive",
+                            "highlight": true
+                        },
+                        {
+                            "text": "Need/Want/Like + مصدر"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-36",
+                    "content": [
+                        {
+                            "text": "After these verbs, use the "
+                        },
+                        {
+                            "text": "full infinitive (to + base verb)",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "بعد هذه الأفعال، استخدم "
+                        },
+                        {
+                            "text": "المصدر الكامل (to + فعل مجرد)",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-37",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "need/want/like",
+                            "badge": true,
+                            "translation": "يحتاج/يريد/يحب"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "to",
+                            "badge2": true,
+                            "translation": "to"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "base verb",
+                            "badge3": true,
+                            "translation": "فعل مجرد"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-38",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "She "
+                        },
+                        {
+                            "text": "needs",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "to",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "study",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " for the exam"
+                        },
+                        {
+                            "text": "تحتاج ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "أن ",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "تدرس",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " للاختبار"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-39",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "He doesn't "
+                        },
+                        {
+                            "text": "want",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "to",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "cook",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " tonight"
+                        },
+                        {
+                            "text": "لا يريد ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "أن ",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "يطبخ",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " الليلة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-40",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "I "
+                        },
+                        {
+                            "text": "like",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "to",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "exercise",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " in the morning"
+                        },
+                        {
+                            "text": "أحب ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "أن ",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "أتمرن",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " في الصباح"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-7",
+            "title": "Imperatives and Two-Word Verbs",
+            "cards": [
+                {
+                    "id": "card-41",
+                    "content": [
+                        {
+                            "text": "Imperatives with Two-Word Verbs",
+                            "highlight": true
+                        },
+                        {
+                            "text": "الأمر مع الأفعال المركبة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-42",
+                    "content": [
+                        {
+                            "text": "Two-word verbs combine a "
+                        },
+                        {
+                            "text": "verb + particle",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "الأفعال المركبة تجمع بين "
+                        },
+                        {
+                            "text": "فعل + جزيء",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-43",
+                    "content": [
+                        {
+                            "text": "Critical Rule:",
+                            "highlight": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "Object pronouns",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " MUST come "
+                        },
+                        {
+                            "text": "between",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " verb and particle"
+                        },
+                        {
+                            "text": "قاعدة حاسمة: "
+                        },
+                        {
+                            "text": "ضمائر المفعول",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " يجب أن تأتي "
+                        },
+                        {
+                            "text": "بين",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " الفعل والجزيء"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-44",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Turn off",
+                            "colorize": true
+                        },
+                        {
+                            "text": " the lights"
+                        },
+                        {
+                            "text": "أطفئ",
+                            "colorize": true
+                        },
+                        {
+                            "text": " الأضواء"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-45",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Turn the lights "
+                        },
+                        {
+                            "text": "off",
+                            "colorize": true
+                        },
+                        {
+                            "text": "أطفئ الأضواء"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-46",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Turn "
+                        },
+                        {
+                            "text": "them",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "off",
+                            "colorize": true
+                        },
+                        {
+                            "text": " (✓ pronoun between)"
+                        },
+                        {
+                            "text": "أطفئها",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " (✓ الضمير بينهما)"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-47",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Put away",
+                            "colorize": true
+                        },
+                        {
+                            "text": " your books / Put your books "
+                        },
+                        {
+                            "text": "away",
+                            "colorize": true
+                        },
+                        {
+                            "text": "رتب",
+                            "colorize": true
+                        },
+                        {
+                            "text": " كتبك"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-48",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Put "
+                        },
+                        {
+                            "text": "them",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "away",
+                            "colorize": true
+                        },
+                        {
+                            "text": " (✓ pronoun between)"
+                        },
+                        {
+                            "text": "رتبها",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " (✓ الضمير بينهما)"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-49",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Clean up",
+                            "colorize": true
+                        },
+                        {
+                            "text": " the kitchen / Clean the kitchen "
+                        },
+                        {
+                            "text": "up",
+                            "colorize": true
+                        },
+                        {
+                            "text": "نظف",
+                            "colorize": true
+                        },
+                        {
+                            "text": " المطبخ"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-50",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Clean "
+                        },
+                        {
+                            "text": "it",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "up",
+                            "colorize": true
+                        },
+                        {
+                            "text": " (✓ pronoun between)"
+                        },
+                        {
+                            "text": "نظفه",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " (✓ الضمير بينهما)"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

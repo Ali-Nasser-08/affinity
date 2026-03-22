@@ -1,0 +1,1785 @@
+{
+    "unit": "Unit 11: Express Yourself",
+    "grammarMCQ": [
+        {
+            "q": "I know a person _____ speaks three languages.",
+            "opts": [
+                "who",
+                "which",
+                "where",
+                "when"
+            ],
+            "ans": "who"
+        },
+        {
+            "q": "Spanish is a language _____ many find easy.",
+            "opts": [
+                "that",
+                "who",
+                "where",
+                "when"
+            ],
+            "ans": "that"
+        },
+        {
+            "q": "The tutor _____ helps me is kind.",
+            "opts": [
+                "who",
+                "which",
+                "where",
+                "when"
+            ],
+            "ans": "who"
+        },
+        {
+            "q": "Words _____ have many meanings are confusing.",
+            "opts": [
+                "that",
+                "who",
+                "where",
+                "when"
+            ],
+            "ans": "that"
+        },
+        {
+            "q": "The teacher _____ I like best is Mr. Lee.",
+            "opts": [
+                "whom",
+                "which",
+                "where",
+                "when"
+            ],
+            "ans": "whom"
+        },
+        {
+            "q": "A photographer is someone _____ takes photos.",
+            "opts": [
+                "who",
+                "which",
+                "where",
+                "when"
+            ],
+            "ans": "who"
+        },
+        {
+            "q": "A hammer is something _____ pulls nails.",
+            "opts": [
+                "that",
+                "who",
+                "where",
+                "when"
+            ],
+            "ans": "that"
+        },
+        {
+            "q": "The book _____ you gave me is good.",
+            "opts": [
+                "that",
+                "who",
+                "where",
+                "when"
+            ],
+            "ans": "that"
+        },
+        {
+            "q": "The bird _____ we saw is extinct.",
+            "opts": [
+                "that",
+                "who",
+                "where",
+                "when"
+            ],
+            "ans": "that"
+        },
+        {
+            "q": "I like people _____ are friendly.",
+            "opts": [
+                "who",
+                "which",
+                "where",
+                "when"
+            ],
+            "ans": "who"
+        },
+        {
+            "q": "In the future, cars _____ run on gas.",
+            "opts": [
+                "won't",
+                "don't",
+                "doesn't",
+                "isn't"
+            ],
+            "ans": "won't"
+        },
+        {
+            "q": "Robots _____ make decisions soon.",
+            "opts": [
+                "will be able to",
+                "can",
+                "could",
+                "would"
+            ],
+            "ans": "will be able to"
+        },
+        {
+            "q": "I _____ translate it for you now.",
+            "opts": [
+                "will",
+                "am going to",
+                "go to",
+                "am"
+            ],
+            "ans": "will"
+        },
+        {
+            "q": "Ali _____ have his work translated tomorrow.",
+            "opts": [
+                "is going to",
+                "will",
+                "shall",
+                "can"
+            ],
+            "ans": "is going to"
+        },
+        {
+            "q": "By 2030, we _____ using machines.",
+            "opts": [
+                "will be",
+                "are",
+                "were",
+                "have been"
+            ],
+            "ans": "will be"
+        },
+        {
+            "q": "_____ you be working this weekend?",
+            "opts": [
+                "Will",
+                "Are",
+                "Do",
+                "have"
+            ],
+            "ans": "Will"
+        },
+        {
+            "q": "Yes, I _____ be working.",
+            "opts": [
+                "will",
+                "am",
+                "do",
+                "have"
+            ],
+            "ans": "will"
+        },
+        {
+            "q": "If I _____ foreign languages, I would travel.",
+            "opts": [
+                "knew",
+                "know",
+                "knows",
+                "knowing"
+            ],
+            "ans": "knew"
+        },
+        {
+            "q": "I wish I _____ more languages.",
+            "opts": [
+                "knew",
+                "know",
+                "knows",
+                "knowing"
+            ],
+            "ans": "knew"
+        },
+        {
+            "q": "If only I _____ on vacation.",
+            "opts": [
+                "were",
+                "am",
+                "be",
+                "been"
+            ],
+            "ans": "were"
+        },
+        {
+            "q": "If I _____ rich, I would buy a boat.",
+            "opts": [
+                "were",
+                "am",
+                "be",
+                "been"
+            ],
+            "ans": "were"
+        },
+        {
+            "q": "I wish my parents _____ let me go.",
+            "opts": [
+                "would",
+                "will",
+                "can",
+                "shall"
+            ],
+            "ans": "would"
+        },
+        {
+            "q": "A linguist is someone _____ studies languages.",
+            "opts": [
+                "who",
+                "which",
+                "where",
+                "when"
+            ],
+            "ans": "who"
+        },
+        {
+            "q": "A vegetarian is someone _____ doesn't eat meat.",
+            "opts": [
+                "who",
+                "which",
+                "where",
+                "when"
+            ],
+            "ans": "who"
+        },
+        {
+            "q": "A dictionary is something _____ gives meanings.",
+            "opts": [
+                "that",
+                "who",
+                "where",
+                "when"
+            ],
+            "ans": "that"
+        },
+        {
+            "q": "An exam is something _____ tests knowledge.",
+            "opts": [
+                "that",
+                "who",
+                "where",
+                "when"
+            ],
+            "ans": "that"
+        },
+        {
+            "q": "The food _____ I brought is gone.",
+            "opts": [
+                "that",
+                "who",
+                "where",
+                "when"
+            ],
+            "ans": "that"
+        },
+        {
+            "q": "Do you have a pen _____ I can borrow?",
+            "opts": [
+                "that",
+                "who",
+                "where",
+                "when"
+            ],
+            "ans": "that"
+        },
+        {
+            "q": "Are they _____ to take the test?",
+            "opts": [
+                "going",
+                "will",
+                "go",
+                "gone"
+            ],
+            "ans": "going"
+        },
+        {
+            "q": "I think cars _____ fly in the future.",
+            "opts": [
+                "will",
+                "are going",
+                "go",
+                "gone"
+            ],
+            "ans": "will"
+        },
+        {
+            "q": "I hope _____.",
+            "opts": [
+                "so",
+                "it",
+                "that",
+                "this"
+            ],
+            "ans": "so"
+        },
+        {
+            "q": "I guess _____.",
+            "opts": [
+                "so",
+                "it",
+                "that",
+                "this"
+            ],
+            "ans": "so"
+        },
+        {
+            "q": "The man _____ stole the wallet was caught.",
+            "opts": [
+                "who",
+                "which",
+                "where",
+                "when"
+            ],
+            "ans": "who"
+        },
+        {
+            "q": "The email _____ you sent didn't make sense.",
+            "opts": [
+                "that",
+                "who",
+                "where",
+                "when"
+            ],
+            "ans": "that"
+        },
+        {
+            "q": "We saw a film _____ was depressing.",
+            "opts": [
+                "that",
+                "who",
+                "where",
+                "when"
+            ],
+            "ans": "that"
+        },
+        {
+            "q": "The neighbor _____ lives next door is nice.",
+            "opts": [
+                "who",
+                "which",
+                "where",
+                "when"
+            ],
+            "ans": "who"
+        },
+        {
+            "q": "If I _____ choose, I would go to Paris.",
+            "opts": [
+                "could",
+                "can",
+                "will",
+                "shall"
+            ],
+            "ans": "could"
+        },
+        {
+            "q": "If we _____ more time, we would stay.",
+            "opts": [
+                "had",
+                "have",
+                "has",
+                "having"
+            ],
+            "ans": "had"
+        },
+        {
+            "q": "I wish I _____ taller.",
+            "opts": [
+                "were",
+                "am",
+                "be",
+                "been"
+            ],
+            "ans": "were"
+        },
+        {
+            "q": "If only I _____ drive.",
+            "opts": [
+                "could",
+                "can",
+                "will",
+                "shall"
+            ],
+            "ans": "could"
+        },
+        {
+            "q": "I wish it _____ rain.",
+            "opts": [
+                "wouldn't",
+                "won't",
+                "don't",
+                "doesn't"
+            ],
+            "ans": "wouldn't"
+        },
+        {
+            "q": "Wait! I _____ help you.",
+            "opts": [
+                "will",
+                "am going to",
+                "go to",
+                "am"
+            ],
+            "ans": "will"
+        },
+        {
+            "q": "Look at those clouds. It _____ rain.",
+            "opts": [
+                "is going to",
+                "will",
+                "shall",
+                "can"
+            ],
+            "ans": "is going to"
+        },
+        {
+            "q": "Someday, we _____ use phones to translate.",
+            "opts": [
+                "will",
+                "are going",
+                "go",
+                "gone"
+            ],
+            "ans": "will"
+        },
+        {
+            "q": "Speech recognition _____ get better.",
+            "opts": [
+                "is going to",
+                "will",
+                "shall",
+                "can"
+            ],
+            "ans": "is going to"
+        },
+        {
+            "q": "The restaurant _____ we ate at was bad.",
+            "opts": [
+                "that",
+                "who",
+                "where",
+                "when"
+            ],
+            "ans": "that"
+        },
+        {
+            "q": "The students _____ study hard will pass.",
+            "opts": [
+                "who",
+                "which",
+                "where",
+                "when"
+            ],
+            "ans": "who"
+        }
+    ],
+    "fillInBlank": [
+        {
+            "s": "I know a person _____ speaks three languages.",
+            "a": "who"
+        },
+        {
+            "s": "I wish I _____ more time.",
+            "a": "had"
+        },
+        {
+            "s": "If I _____ rich, I would travel.",
+            "a": "were"
+        },
+        {
+            "s": "Cars _____ run on electricity in 50 years.",
+            "a": "will"
+        },
+        {
+            "s": "I _____ translate that for you. (offer)",
+            "a": "will"
+        },
+        {
+            "s": "She is _____ to visit London. (plan)",
+            "a": "going"
+        },
+        {
+            "s": "If only I _____ speak French.",
+            "a": "could"
+        },
+        {
+            "s": "The book _____ I bought is good.",
+            "a": "that"
+        },
+        {
+            "s": "A linguist is someone _____ studies languages.",
+            "a": "who"
+        },
+        {
+            "s": "A hammer is something _____ hits nails.",
+            "a": "that"
+        },
+        {
+            "s": "I wish I _____ on vacation now.",
+            "a": "were"
+        },
+        {
+            "s": "If I _____ you, I would study.",
+            "a": "were"
+        },
+        {
+            "s": "Robots _____ be able to think.",
+            "a": "will"
+        },
+        {
+            "s": "Will you _____ working tomorrow?",
+            "a": "be"
+        },
+        {
+            "s": "The tutor _____ helps me is nice.",
+            "a": "who"
+        },
+        {
+            "s": "Words _____ have two meanings are hard.",
+            "a": "that"
+        },
+        {
+            "s": "The man _____ stole the wallet ran away.",
+            "a": "who"
+        },
+        {
+            "s": "The food _____ we ate was cold.",
+            "a": "that"
+        },
+        {
+            "s": "I _____ get the door. (decision)",
+            "a": "will"
+        },
+        {
+            "s": "It _____ going to rain.",
+            "a": "is"
+        },
+        {
+            "s": "We _____ be using computers more.",
+            "a": "will"
+        },
+        {
+            "s": "If I _____ hard, I would pass.",
+            "a": "studied"
+        },
+        {
+            "s": "I wish he _____ call me.",
+            "a": "would"
+        },
+        {
+            "s": "Language _____ we speak is English.",
+            "a": "that"
+        },
+        {
+            "s": "Person _____ called you is my brother.",
+            "a": "who"
+        },
+        {
+            "s": "Mandarin is spoken by millions in _____.",
+            "a": "China"
+        },
+        {
+            "s": "Arabic has influenced _____ languages.",
+            "a": "many"
+        },
+        {
+            "s": "English has _____ words than any other.",
+            "a": "more"
+        },
+        {
+            "s": "\"Go\" is the shortest _____ sentence.",
+            "a": "complete"
+        },
+        {
+            "s": "Dreamt is the only word ending in _____.",
+            "a": "mt"
+        },
+        {
+            "s": "No word rhymes with _____.",
+            "a": "month"
+        },
+        {
+            "s": "Esperanto was created by _____.",
+            "a": "Zamenhof"
+        },
+        {
+            "s": "Klingon was created for _____ Trek.",
+            "a": "Star"
+        },
+        {
+            "s": "Klingon is a _____ language.",
+            "a": "fictitious"
+        },
+        {
+            "s": "Esperanto was meant to be _____.",
+            "a": "neutral"
+        },
+        {
+            "s": "Zamenhof had a _____ goal.",
+            "a": "humanitarian"
+        },
+        {
+            "s": "Klingon is extremely _____ to learn.",
+            "a": "difficult"
+        },
+        {
+            "s": "Esperanto is extremely _____ to learn.",
+            "a": "simple"
+        },
+        {
+            "s": "Most invented languages have _____.",
+            "a": "disappeared"
+        },
+        {
+            "s": "English is an _____ language.",
+            "a": "international"
+        },
+        {
+            "s": "This restaurant is _____ packed. (crowded)",
+            "a": "jam"
+        },
+        {
+            "s": "I had to _____ my way through.",
+            "a": "elbow"
+        },
+        {
+            "s": "I didn't _____ that. (hear)",
+            "a": "catch"
+        },
+        {
+            "s": "Could you _____ that?",
+            "a": "repeat"
+        },
+        {
+            "s": "Pardon _____?",
+            "a": "me"
+        },
+        {
+            "s": "Let's get a _____ to eat.",
+            "a": "bite"
+        },
+        {
+            "s": "The noise is _____ loud.",
+            "a": "ridiculously"
+        },
+        {
+            "s": "He seems to be _____.",
+            "a": "familiar"
+        },
+        {
+            "s": "I can't _____ with this anymore.",
+            "a": "deal"
+        },
+        {
+            "s": "Forget _____.",
+            "a": "it"
+        }
+    ],
+    "oddOneOut": [
+        {
+            "w": [
+                "acquire",
+                "lose",
+                "gain",
+                "obtain"
+            ],
+            "a": "lose"
+        },
+        {
+            "w": [
+                "immense",
+                "tiny",
+                "huge",
+                "gigantic"
+            ],
+            "a": "tiny"
+        },
+        {
+            "w": [
+                "extinct",
+                "dead",
+                "living",
+                "gone"
+            ],
+            "a": "living"
+        },
+        {
+            "w": [
+                "solitary",
+                "alone",
+                "single",
+                "crowded"
+            ],
+            "a": "crowded"
+        },
+        {
+            "w": [
+                "consecutive",
+                "random",
+                "continuous",
+                "successive"
+            ],
+            "a": "random"
+        },
+        {
+            "w": [
+                "routinely",
+                "rarely",
+                "regularly",
+                "often"
+            ],
+            "a": "rarely"
+        },
+        {
+            "w": [
+                "currently",
+                "now",
+                "presently",
+                "formerly"
+            ],
+            "a": "formerly"
+        },
+        {
+            "w": [
+                "evolve",
+                "develop",
+                "change",
+                "stagnate"
+            ],
+            "a": "stagnate"
+        },
+        {
+            "w": [
+                "noble",
+                "honorable",
+                "shameful",
+                "good"
+            ],
+            "a": "shameful"
+        },
+        {
+            "w": [
+                "fictitious",
+                "real",
+                "fake",
+                "invented"
+            ],
+            "a": "real"
+        },
+        {
+            "w": [
+                "neutral",
+                "biased",
+                "impartial",
+                "middle"
+            ],
+            "a": "biased"
+        },
+        {
+            "w": [
+                "humanitarian",
+                "charitable",
+                "cruel",
+                "kind"
+            ],
+            "a": "cruel"
+        },
+        {
+            "w": [
+                "spectacular",
+                "amazing",
+                "wonderful",
+                "boring"
+            ],
+            "a": "boring"
+        },
+        {
+            "w": [
+                "ancient",
+                "old",
+                "historic",
+                "modern"
+            ],
+            "a": "modern"
+        },
+        {
+            "w": [
+                "peaceful",
+                "calm",
+                "noisy",
+                "quiet"
+            ],
+            "a": "noisy"
+        },
+        {
+            "w": [
+                "inexpensive",
+                "cheap",
+                "costly",
+                "low-cost"
+            ],
+            "a": "costly"
+        },
+        {
+            "w": [
+                "luxurious",
+                "simple",
+                "fancy",
+                "rich"
+            ],
+            "a": "simple"
+        },
+        {
+            "w": [
+                "exotic",
+                "foreign",
+                "unusual",
+                "native"
+            ],
+            "a": "native"
+        },
+        {
+            "w": [
+                "trek",
+                "hike",
+                "walk",
+                "drive"
+            ],
+            "a": "drive"
+        },
+        {
+            "w": [
+                "dive",
+                "swim",
+                "fly",
+                "float"
+            ],
+            "a": "fly"
+        },
+        {
+            "w": [
+                "linguist",
+                "writer",
+                "speaker",
+                "doctor"
+            ],
+            "a": "doctor"
+        },
+        {
+            "w": [
+                "Mandarin",
+                "English",
+                "Math",
+                "Spanish"
+            ],
+            "a": "Math"
+        },
+        {
+            "w": [
+                "noun",
+                "verb",
+                "adjective",
+                "comma"
+            ],
+            "a": "comma"
+        },
+        {
+            "w": [
+                "click",
+                "sound",
+                "noise",
+                "sight"
+            ],
+            "a": "sight"
+        },
+        {
+            "w": [
+                "alphabet",
+                "letters",
+                "numbers",
+                "characters"
+            ],
+            "a": "numbers"
+        },
+        {
+            "w": [
+                "bookkeeper",
+                "committee",
+                "address",
+                "pencil"
+            ],
+            "a": "pencil"
+        },
+        {
+            "w": [
+                "month",
+                "orange",
+                "silver",
+                "rhyme"
+            ],
+            "a": "rhyme"
+        },
+        {
+            "w": [
+                "esperanto",
+                "klingon",
+                "english",
+                "car"
+            ],
+            "a": "car"
+        },
+        {
+            "w": [
+                "zamenhof",
+                "okrand",
+                "bell",
+                "inventor"
+            ],
+            "a": "bell"
+        },
+        {
+            "w": [
+                "movie",
+                "tv",
+                "book",
+                "radio"
+            ],
+            "a": "book"
+        },
+        {
+            "w": [
+                "jam-packed",
+                "crowded",
+                "full",
+                "empty"
+            ],
+            "a": "empty"
+        },
+        {
+            "w": [
+                "munchies",
+                "snacks",
+                "food",
+                "drink"
+            ],
+            "a": "drink"
+        },
+        {
+            "w": [
+                "pardon",
+                "sorry",
+                "excuse me",
+                "hello"
+            ],
+            "a": "hello"
+        },
+        {
+            "w": [
+                "snoring",
+                "sleeping",
+                "running",
+                "dreaming"
+            ],
+            "a": "running"
+        },
+        {
+            "w": [
+                "elbow",
+                "push",
+                "shove",
+                "hug"
+            ],
+            "a": "hug"
+        },
+        {
+            "w": [
+                "familiar",
+                "known",
+                "recognized",
+                "strange"
+            ],
+            "a": "strange"
+        },
+        {
+            "w": [
+                "ridiculous",
+                "silly",
+                "absurd",
+                "serious"
+            ],
+            "a": "serious"
+        },
+        {
+            "w": [
+                "noise",
+                "sound",
+                "loudness",
+                "silence"
+            ],
+            "a": "silence"
+        },
+        {
+            "w": [
+                "diner",
+                "restaurant",
+                "cafe",
+                "library"
+            ],
+            "a": "library"
+        },
+        {
+            "w": [
+                "flaw",
+                "imperfection",
+                "defect",
+                "perfection"
+            ],
+            "a": "perfection"
+        },
+        {
+            "w": [
+                "barrier",
+                "obstacle",
+                "block",
+                "opening"
+            ],
+            "a": "opening"
+        },
+        {
+            "w": [
+                "guide",
+                "manual",
+                "handbook",
+                "story"
+            ],
+            "a": "story"
+        },
+        {
+            "w": [
+                "plural",
+                "singular",
+                "multiple",
+                "many"
+            ],
+            "a": "singular"
+        },
+        {
+            "w": [
+                "intentions",
+                "plans",
+                "aims",
+                "accidents"
+            ],
+            "a": "accidents"
+        },
+        {
+            "w": [
+                "novelty",
+                "newness",
+                "originality",
+                "tradition"
+            ],
+            "a": "tradition"
+        },
+        {
+            "w": [
+                "identity",
+                "self",
+                "personality",
+                "stranger"
+            ],
+            "a": "stranger"
+        },
+        {
+            "w": [
+                "regional",
+                "local",
+                "area",
+                "global"
+            ],
+            "a": "global"
+        },
+        {
+            "w": [
+                "accent",
+                "pronunciation",
+                "tone",
+                "spelling"
+            ],
+            "a": "spelling"
+        },
+        {
+            "w": [
+                "imitate",
+                "copy",
+                "mimic",
+                "create"
+            ],
+            "a": "create"
+        },
+        {
+            "w": [
+                "medium",
+                "method",
+                "means",
+                "end"
+            ],
+            "a": "end"
+        }
+    ],
+    "translateToArabic": [
+        {
+            "en": "English is the second most widely spoken language.",
+            "ar": "الإنجليزية هي ثاني أكثر لغة محكية انتشاراً."
+        },
+        {
+            "en": "Mandarin is spoken by millions in China.",
+            "ar": "يتحدث الملايين بالماندرين في الصين."
+        },
+        {
+            "en": "Arabic has influenced many languages.",
+            "ar": "أثرت اللغة العربية في العديد من اللغات."
+        },
+        {
+            "en": "Punctuation did not exist until the 15th century.",
+            "ar": "لم تكن علامات الترقيم موجودة حتى القرن الخامس عشر."
+        },
+        {
+            "en": "Go is the shortest complete sentence.",
+            "ar": "اذهب هي أقصر جملة كاملة."
+        },
+        {
+            "en": "Esperanto was created by a Polish doctor.",
+            "ar": "تم إنشاء الإسبرانتو بواسطة طبيب بولندي."
+        },
+        {
+            "en": "He wanted to break down language barriers.",
+            "ar": "أراد كسر حواجز اللغة."
+        },
+        {
+            "en": "It was meant to be a neutral language.",
+            "ar": "كان المقصود أن تكون لغة محايدة."
+        },
+        {
+            "en": "Klingon is a fictitious language.",
+            "ar": "الكلينغون لغة خيالية."
+        },
+        {
+            "en": "It was created for Star Trek.",
+            "ar": "تم إنشاؤها لستار تريك."
+        },
+        {
+            "en": "Only a few people speak Klingon fluently.",
+            "ar": "قليل من الناس فقط يتحدثون الكلينغون بطلاقة."
+        },
+        {
+            "en": "Language evolves naturally over time.",
+            "ar": "تتطور اللغة بشكل طبيعي بمرور الوقت."
+        },
+        {
+            "en": "I know a person who speaks three languages.",
+            "ar": "أعرف شخصاً يتحدث ثلاث لغات."
+        },
+        {
+            "en": "The book that you gave me is interesting.",
+            "ar": "الكتاب الذي أعطيتني إياه ممتع."
+        },
+        {
+            "en": "This restaurant is jam packed.",
+            "ar": "هذا المطعم مزدحم جداً."
+        },
+        {
+            "en": "I had to elbow my way through the crowd.",
+            "ar": "اضطررت لشق طريقي عبر الحشد."
+        },
+        {
+            "en": "I didn't catch that.",
+            "ar": "لم أسمع ذلك (لم التقط ذلك)."
+        },
+        {
+            "en": "Could you repeat that, please?",
+            "ar": "هل يمكنك تكرار ذلك من فضلك؟"
+        },
+        {
+            "en": "If I were you, I would study.",
+            "ar": "لو كنت مكانك، لدرست."
+        },
+        {
+            "en": "I wish I knew more languages.",
+            "ar": "أتمنى لو كنت أعرف المزيد من اللغات."
+        },
+        {
+            "en": "If only I had more time.",
+            "ar": "لو أن لدي المزيد من الوقت فقط."
+        },
+        {
+            "en": "Robots will produce cars.",
+            "ar": "ستنتج الروبوتات السيارات."
+        },
+        {
+            "en": "We are going to travel soon.",
+            "ar": "سنسافر قريباً."
+        },
+        {
+            "en": "Will you be working tomorrow?",
+            "ar": "هل ستعمل غداً؟"
+        },
+        {
+            "en": "He is the captain of the team.",
+            "ar": "إنه قائد الفريق."
+        },
+        {
+            "en": "What's he like?",
+            "ar": "كيف يبدو (ما هي صفاته)؟"
+        },
+        {
+            "en": "I find him a bit boring.",
+            "ar": "أجده مملاً بعض الشيء."
+        },
+        {
+            "en": "Let's get a bite to eat.",
+            "ar": "لنأكل شيئاً بسيطاً."
+        },
+        {
+            "en": "This is ridiculous.",
+            "ar": "هذا سخيف."
+        },
+        {
+            "en": "Can you deal with this?",
+            "ar": "هل يمكنك التعامل مع هذا؟"
+        },
+        {
+            "en": "Every language has its flaws.",
+            "ar": "كل لغة لها عيوبها."
+        },
+        {
+            "en": "It is a humanitarian goal.",
+            "ar": "إنه هدف إنساني."
+        },
+        {
+            "en": "There are no exceptions to the rule.",
+            "ar": "لا توجد استثناءات للقاعدة."
+        },
+        {
+            "en": "The vast majority disappeared.",
+            "ar": "اختفت الغالبية العظمى."
+        },
+        {
+            "en": "Native speakers have an accent.",
+            "ar": "المتحدثون الأصليون لديهم لهجة."
+        },
+        {
+            "en": "We need effective communicators.",
+            "ar": "نحن بحاجة لمتصلين فعالين."
+        },
+        {
+            "en": "Visit the spectacular city.",
+            "ar": "زر المدينة المذهلة."
+        },
+        {
+            "en": "See the archaeological site.",
+            "ar": "شاهد الموقع الأثري."
+        },
+        {
+            "en": "Explore the rain forest.",
+            "ar": "استكشف الغابة المطيرة."
+        },
+        {
+            "en": "Dive in the Red Sea.",
+            "ar": "غص في البحر الأحمر."
+        },
+        {
+            "en": "Trek through the mountains.",
+            "ar": "تجول (سر) عبر الجبال."
+        },
+        {
+            "en": "Discover the secrets.",
+            "ar": "اكتشف الأسرار."
+        },
+        {
+            "en": "Ancient tombs carved in rock.",
+            "ar": "مقابر قديمة منحوتة في الصخر."
+        },
+        {
+            "en": "Come face to face with wildlife.",
+            "ar": "واجه الحياة البرية وجهاً لوجه."
+        },
+        {
+            "en": "Follow the trail.",
+            "ar": "اتبع المسار."
+        },
+        {
+            "en": "Enjoy the magnificent views.",
+            "ar": "استمتع بالمناظر الرائعة."
+        },
+        {
+            "en": "It is a luxurious hotel.",
+            "ar": "إنه فندق فاخر."
+        },
+        {
+            "en": "An exotic destination.",
+            "ar": "وجهة غريبة (مدهشة)."
+        },
+        {
+            "en": "A peaceful oasis.",
+            "ar": "واحة هادئة."
+        },
+        {
+            "en": "An inexpensive trip.",
+            "ar": "رحلة غير مكلفة."
+        }
+    ],
+    "translateToEnglish": [
+        {
+            "ar": "يوجد حوالي ٧٠٠٠ لغة",
+            "en": "There are about 7,000 languages."
+        },
+        {
+            "ar": "الماندرين هي الأكثر انتشاراً",
+            "en": "Mandarin is the most widely spoken."
+        },
+        {
+            "ar": "أثرت العربية في الإنجليزية",
+            "en": "Arabic has influenced English."
+        },
+        {
+            "ar": "كلمة قهوة أصلها عربي",
+            "en": "The word coffee is of Arabic origin."
+        },
+        {
+            "ar": "لا توجد علامات ترقيم قديماً",
+            "en": "There was no punctuation in the past."
+        },
+        {
+            "ar": "الإسبرانتو لغة مخترعة",
+            "en": "Esperanto is an invented language."
+        },
+        {
+            "ar": "أسسها زامنهوف",
+            "en": "It was founded by Zamenhof."
+        },
+        {
+            "ar": "كان يريد السلام العالمي",
+            "en": "He wanted world peace."
+        },
+        {
+            "ar": "الكلينغون لغة صعبة",
+            "en": "Klingon is a difficult language."
+        },
+        {
+            "ar": "تم اختراعها لبرنامج تلفزيوني",
+            "en": "It was invented for a TV show."
+        },
+        {
+            "ar": "اللغات تتطور وتتغير",
+            "en": "Languages evolve and change."
+        },
+        {
+            "ar": "الشخص الذي اتصل هو صديقي",
+            "en": "The person who called is my friend."
+        },
+        {
+            "ar": "الشيء الذي اشتريته رخيص",
+            "en": "The thing that I bought is cheap."
+        },
+        {
+            "ar": "المطعم مزدحم جداً",
+            "en": "The restaurant is jam packed."
+        },
+        {
+            "ar": "لم أسمع ما قلت",
+            "en": "I didn't catch what you said."
+        },
+        {
+            "ar": "أعد ذلك من فضلك",
+            "en": "Repeat that please."
+        },
+        {
+            "ar": "أتمنى لو كنت غنياً",
+            "en": "I wish I were rich."
+        },
+        {
+            "ar": "لو كنت أطول",
+            "en": "If I were taller."
+        },
+        {
+            "ar": "لو أنني أستطيع السفر",
+            "en": "If only I could travel."
+        },
+        {
+            "ar": "سأساعدك",
+            "en": "I will help you."
+        },
+        {
+            "ar": "سوف تمطر",
+            "en": "It is going to rain."
+        },
+        {
+            "ar": "سنكون مسافرين غداً",
+            "en": "We will be traveling tomorrow."
+        },
+        {
+            "ar": "إنه شخص ممل",
+            "en": "He is a boring person."
+        },
+        {
+            "ar": "ما هي صفاته؟",
+            "en": "What is he like?"
+        },
+        {
+            "ar": "لنتناول وجبة خفيفة",
+            "en": "Let's get a bite."
+        },
+        {
+            "ar": "هذا ضجيج سخيف",
+            "en": "This noise is ridiculous."
+        },
+        {
+            "ar": "لا أحتمل هذا",
+            "en": "I can't deal with this."
+        },
+        {
+            "ar": "انس الأمر",
+            "en": "Forget it."
+        },
+        {
+            "ar": "كل لغة لها حدود",
+            "en": "Every language has limitations."
+        },
+        {
+            "ar": "الهدف كان شريفاً",
+            "en": "The goal was noble."
+        },
+        {
+            "ar": "بدون استثناءات",
+            "en": "With no exceptions."
+        },
+        {
+            "ar": "الأغلبية العظمى",
+            "en": "The vast majority."
+        },
+        {
+            "ar": "التواصل بين الثقافات",
+            "en": "Intercultural communication."
+        },
+        {
+            "ar": "مكان أثري",
+            "en": "Archaeological site."
+        },
+        {
+            "ar": "مناظر خلابة",
+            "en": "Spectacular views."
+        },
+        {
+            "ar": "غابات مطيرة",
+            "en": "Rain forests."
+        },
+        {
+            "ar": "الغوص في الأعماق",
+            "en": "Deep sea diving."
+        },
+        {
+            "ar": "المشي في الجبال",
+            "en": "Trekking in the mountains."
+        },
+        {
+            "ar": "اكتشاف الكنوز",
+            "en": "Discovering treasures."
+        },
+        {
+            "ar": "الواجهة البحرية",
+            "en": "The waterfront."
+        },
+        {
+            "ar": "الحياة الفطرية",
+            "en": "Wildlife."
+        },
+        {
+            "ar": "الشعب المرجانية",
+            "en": "Coral reefs."
+        },
+        {
+            "ar": "فندق فخم",
+            "en": "Luxury hotel."
+        },
+        {
+            "ar": "رحلة ممتعة",
+            "en": "An enjoyable trip."
+        },
+        {
+            "ar": "واحة في الصحراء",
+            "en": "Oasis in the desert."
+        },
+        {
+            "ar": "مباني رائعة",
+            "en": "Wonderful buildings."
+        },
+        {
+            "ar": "أنواع مختلفة من الحيوانات",
+            "en": "Different species of animals."
+        },
+        {
+            "ar": "موقع فريد",
+            "en": "Unique location."
+        },
+        {
+            "ar": "وجهة سياحية",
+            "en": "Tourist destination."
+        },
+        {
+            "ar": "تذاكر رخيصة",
+            "en": "Inexpensive tickets."
+        }
+    ],
+    "vocabulary": [
+        {
+            "w": "acquire",
+            "d": "to get or learn something",
+            "ex": "Acquire a language."
+        },
+        {
+            "w": "consecutive",
+            "d": "following in order",
+            "ex": "Three consecutive days."
+        },
+        {
+            "w": "immense",
+            "d": "huge, very large",
+            "ex": "An immense number."
+        },
+        {
+            "w": "extinct",
+            "d": "no longer existing",
+            "ex": "Become extinct."
+        },
+        {
+            "w": "solitary",
+            "d": "alone, single",
+            "ex": "One solitary word."
+        },
+        {
+            "w": "neutral",
+            "d": "not taking sides",
+            "ex": "A neutral language."
+        },
+        {
+            "w": "evolve",
+            "d": "develop gradually",
+            "ex": "Languages evolve."
+        },
+        {
+            "w": "fictitious",
+            "d": "imaginary, fake",
+            "ex": "Fictitious race."
+        },
+        {
+            "w": "routinely",
+            "d": "regularly, usually",
+            "ex": "Routinely use."
+        },
+        {
+            "w": "currently",
+            "d": "at the present time",
+            "ex": "Currently spoken."
+        },
+        {
+            "w": "unique",
+            "d": "one of a kind",
+            "ex": "Unique ecosystems."
+        },
+        {
+            "w": "noble",
+            "d": "having high moral qualities",
+            "ex": "Noble intention."
+        },
+        {
+            "w": "limitation",
+            "d": "restriction",
+            "ex": "Flaws and limitations."
+        },
+        {
+            "w": "humanitarian",
+            "d": "caring about human welfare",
+            "ex": "Humanitarian goal."
+        },
+        {
+            "w": "trademarked",
+            "d": "protected by law",
+            "ex": "Trademarked invention."
+        },
+        {
+            "w": "jam packed",
+            "d": "very crowded",
+            "ex": "Restaurant is jam packed."
+        },
+        {
+            "w": "elbow",
+            "d": "push with elbow",
+            "ex": "Elbow my way."
+        },
+        {
+            "w": "catch",
+            "d": "hear or understand",
+            "ex": "Didn't catch that."
+        },
+        {
+            "w": "munchies",
+            "d": "snacks",
+            "ex": "Get some munchies."
+        },
+        {
+            "w": "spectacular",
+            "d": "amazing to see",
+            "ex": "Spectacular city."
+        },
+        {
+            "w": "magnificent",
+            "d": "splendid, grand",
+            "ex": "Magnificent view."
+        },
+        {
+            "w": "peaceful",
+            "d": "calm, quiet",
+            "ex": "Peaceful oasis."
+        },
+        {
+            "w": "ancient",
+            "d": "very old",
+            "ex": "Ancient ruins."
+        },
+        {
+            "w": "trek",
+            "d": "long walk",
+            "ex": "Trek through mountains."
+        },
+        {
+            "w": "dive",
+            "d": "swim underwater",
+            "ex": "Dive in the sea."
+        },
+        {
+            "w": "explore",
+            "d": "travel to discover",
+            "ex": "Explore the forest."
+        },
+        {
+            "w": "linguist",
+            "d": "language expert",
+            "ex": "Created by a linguist."
+        },
+        {
+            "w": "flaw",
+            "d": "mistake, imperfection",
+            "ex": "Has its flaws."
+        },
+        {
+            "w": "barrier",
+            "d": "obstacle",
+            "ex": "Language barrier."
+        },
+        {
+            "w": "fluent",
+            "d": "speaking easily",
+            "ex": "Fluent in English."
+        },
+        {
+            "w": "accent",
+            "d": "way of pronunciation",
+            "ex": "Good accent."
+        },
+        {
+            "w": "regional",
+            "d": "relating to an area",
+            "ex": "Regional varieties."
+        },
+        {
+            "w": "communicate",
+            "d": "exchange information",
+            "ex": "Communicate well."
+        },
+        {
+            "w": "medium",
+            "d": "means of doing something",
+            "ex": "Medium of communication."
+        },
+        {
+            "w": "asset",
+            "d": "useful thing or person",
+            "ex": "Valuable asset."
+        },
+        {
+            "w": "imitate",
+            "d": "copy",
+            "ex": "Imitate speakers."
+        },
+        {
+            "w": "prerequisite",
+            "d": "requirement beforehand",
+            "ex": "Prerequisite for success."
+        },
+        {
+            "w": "novelty",
+            "d": "new or unusual thing",
+            "ex": "Spoken as a novelty."
+        },
+        {
+            "w": "exclusive",
+            "d": "restricted to few",
+            "ex": "Exclusive language."
+        },
+        {
+            "w": "validity",
+            "d": "being logically sound",
+            "ex": "Validity of the story."
+        },
+        {
+            "w": "click",
+            "d": "short sharp sound",
+            "ex": "Click languages."
+        },
+        {
+            "w": "alphabet",
+            "d": "set of letters",
+            "ex": "Largest alphabet."
+        },
+        {
+            "w": "rhyme",
+            "d": "sound the same",
+            "ex": "Rhymes with orange."
+        },
+        {
+            "w": "definition",
+            "d": "meaning of a word",
+            "ex": "More definitions."
+        },
+        {
+            "w": "equivalent",
+            "d": "equal in value",
+            "ex": "Word equivalent."
+        },
+        {
+            "w": "identify",
+            "d": "recognize",
+            "ex": "Identify words."
+        },
+        {
+            "w": "omitted",
+            "d": "left out",
+            "ex": "Can be omitted."
+        },
+        {
+            "w": "confusing",
+            "d": "unclear",
+            "ex": "Can be confusing."
+        },
+        {
+            "w": "pronounce",
+            "d": "say a word",
+            "ex": "Pronounce properly."
+        },
+        {
+            "w": "symbol",
+            "d": "representation",
+            "ex": "Symbol of a nation."
+        }
+    ]
+}

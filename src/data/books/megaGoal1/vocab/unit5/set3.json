@@ -1,0 +1,633 @@
+{
+    "unit": "Mega Goal 1 - Unit 5: Did You Hurt Yourself?",
+    "type": "misc",
+    "setTitle": "Unusual Accidents and Deaths",
+    "words": [
+        {
+            "word": "unusual",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Not "
+                },
+                {
+                    "text": "common or typical",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "strange or surprising",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "غير عادي / غريب",
+            "synonyms": [
+                "strange",
+                "uncommon",
+                "rare",
+                "out of the ordinary"
+            ],
+            "example": [
+                {
+                    "text": "The article described several "
+                },
+                {
+                    "text": "unusual",
+                    "colorize": true
+                },
+                {
+                    "text": " accidents that defied explanation."
+                }
+            ],
+            "tips": "Un- prefix means 'not'. Opposite of 'usual'. Can describe positive surprises too: 'an unusually good day'."
+        },
+        {
+            "word": "accident",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "An "
+                },
+                {
+                    "text": "unexpected event",
+                    "highlight": true
+                },
+                {
+                    "text": " that causes "
+                },
+                {
+                    "text": "damage, injury, or harm",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حادث / حادثة",
+            "synonyms": [
+                "mishap",
+                "unfortunate incident",
+                "crash"
+            ],
+            "example": [
+                {
+                    "text": "He survived the "
+                },
+                {
+                    "text": "accident",
+                    "colorize": true
+                },
+                {
+                    "text": " with only minor injuries."
+                }
+            ],
+            "tips": "'By accident' = unintentionally (opposite of 'on purpose'). Not all incidents are accidents—accidents are always unintentional."
+        },
+        {
+            "word": "bald",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Having "
+                },
+                {
+                    "text": "no hair",
+                    "highlight": true
+                },
+                {
+                    "text": " on the "
+                },
+                {
+                    "text": "head or scalp",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "أصلع",
+            "synonyms": [
+                "hairless",
+                "shaven-headed"
+            ],
+            "example": [
+                {
+                    "text": "The eagle mistook the "
+                },
+                {
+                    "text": "bald",
+                    "colorize": true
+                },
+                {
+                    "text": " playwright's head for a smooth rock."
+                }
+            ],
+            "tips": "Bald ≠ balding (losing hair gradually). Some people shave their heads intentionally; others lose hair naturally with age."
+        },
+        {
+            "word": "weave through",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "move in a zigzag pattern",
+                    "highlight": true
+                },
+                {
+                    "text": " while "
+                },
+                {
+                    "text": "passing between obstacles",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يتعرج بين / يتحرك ذهاباً وإياباً بين",
+            "synonyms": [
+                "zigzag through",
+                "navigate between",
+                "dodge through"
+            ],
+            "example": [
+                {
+                    "text": "The ostrich was seen "
+                },
+                {
+                    "text": "weaving through",
+                    "colorize": true
+                },
+                {
+                    "text": " heavy traffic on the highway."
+                }
+            ],
+            "tips": "Often used for vehicles in traffic, dancers on a floor, or animals avoiding obstacles. Requires quick, controlled movements."
+        },
+        {
+            "word": "burst into",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "suddenly explode",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "transform violently",
+                    "highlight2": true
+                },
+                {
+                    "text": " into something (flames, tears, laughter)"
+                }
+            ],
+            "arabicMeaning": "ينفجر إلى / يتحول فجأة إلى",
+            "synonyms": [
+                "erupt into",
+                "explode into"
+            ],
+            "example": [
+                {
+                    "text": "The car split in two and "
+                },
+                {
+                    "text": "burst into",
+                    "colorize": true
+                },
+                {
+                    "text": " a fireball."
+                }
+            ],
+            "tips": "Common collocations: burst into flames, burst into tears, burst into laughter. Always sudden and dramatic—not gradual."
+        },
+        {
+            "word": "recover",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "return to normal health",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "condition after illness/injury",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يتعافى / يشفى",
+            "synonyms": [
+                "heal",
+                "get better",
+                "regain health"
+            ],
+            "example": [
+                {
+                    "text": "After the explosion, he fully "
+                },
+                {
+                    "text": "recovered",
+                    "colorize": true
+                },
+                {
+                    "text": " and regained his sight."
+                }
+            ],
+            "tips": "Recover from (an illness/injury). Not the same as 'cure'—you recover yourself; doctors help cure you. Recovery takes time."
+        },
+        {
+            "word": "hurl",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "throw something forcefully",
+                    "highlight": true
+                },
+                {
+                    "text": " and "
+                },
+                {
+                    "text": "often violently",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يقذف بقوة / يرمي بعنف",
+            "synonyms": [
+                "throw violently",
+                "fling",
+                "toss forcefully"
+            ],
+            "example": [
+                {
+                    "text": "In the legend, the eagle tried to "
+                },
+                {
+                    "text": "hurl",
+                    "colorize": true
+                },
+                {
+                    "text": " the tortoise against rocks to break its shell."
+                }
+            ],
+            "tips": "Stronger than 'throw'—implies anger, force, or desperation. Often used for objects (not people): hurl a rock, hurl insults."
+        },
+        {
+            "word": "challenge",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "test someone's abilities",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "question the truth of something",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يتحدى / يختبر",
+            "synonyms": [
+                "test",
+                "dare",
+                "question"
+            ],
+            "example": [
+                {
+                    "text": "Drag racers sometimes "
+                },
+                {
+                    "text": "challenge",
+                    "colorize": true
+                },
+                {
+                    "text": " danger by driving at extreme speeds."
+                }
+            ],
+            "tips": "Challenge someone TO do something (dare them). Challenge a rule/law (dispute it). Not the same as 'difficult'—that's the adjective 'challenging'."
+        },
+        {
+            "word": "legend",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "traditional story",
+                    "highlight": true
+                },
+                {
+                    "text": " from the past that may or may not be "
+                },
+                {
+                    "text": "historically true",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "أسطورة / حكاية شعبية",
+            "synonyms": [
+                "myth",
+                "folk tale",
+                "traditional story"
+            ],
+            "example": [
+                {
+                    "text": "According to "
+                },
+                {
+                    "text": "legend",
+                    "colorize": true
+                },
+                {
+                    "text": ", Aeschylus was killed by a falling tortoise."
+                }
+            ],
+            "tips": "Legend ≠ history (legends may be exaggerated). Legend ≠ celebrity (famous person). 'Legendary' = amazingly good/famous."
+        },
+        {
+            "word": "playwright",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A person who "
+                },
+                {
+                    "text": "writes plays",
+                    "highlight": true
+                },
+                {
+                    "text": " for the "
+                },
+                {
+                    "text": "theater",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "كاتب مسرحي",
+            "synonyms": [
+                "dramatist",
+                "scriptwriter (for theater)"
+            ],
+            "example": [
+                {
+                    "text": "The ancient Greek "
+                },
+                {
+                    "text": "playwright",
+                    "colorize": true
+                },
+                {
+                    "text": " Aeschylus wrote many famous tragedies."
+                }
+            ],
+            "tips": "Not 'playwrite'! Spelling trap: playwright (like 'wheelwright'). Different from screenwriter (writes for movies/TV)."
+        },
+        {
+            "word": "tortoise",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "land-dwelling reptile",
+                    "highlight": true
+                },
+                {
+                    "text": " with a hard shell, "
+                },
+                {
+                    "text": "not adapted for swimming",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "سلحفاة برية",
+            "synonyms": [
+                "land turtle"
+            ],
+            "example": [
+                {
+                    "text": "The eagle dropped a "
+                },
+                {
+                    "text": "tortoise",
+                    "colorize": true
+                },
+                {
+                    "text": " on the playwright's head, mistaking his bald head for a rock."
+                }
+            ],
+            "tips": "Tortoise = land animal (slow, heavy shell). Turtle = water animal (streamlined shell). Terrapin = freshwater/marsh turtle. Important distinction!"
+        },
+        {
+            "word": "meteorite",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A piece of rock or metal from "
+                },
+                {
+                    "text": "outer space",
+                    "highlight": true
+                },
+                {
+                    "text": " that "
+                },
+                {
+                    "text": "survives entry through Earth's atmosphere",
+                    "highlight2": true
+                },
+                {
+                    "text": " and hits the ground"
+                }
+            ],
+            "arabicMeaning": "نيزك",
+            "synonyms": [
+                "space rock",
+                "shooting star (when visible in sky)"
+            ],
+            "example": [
+                {
+                    "text": "Manfredo Settala is the only person recorded to have been killed by a "
+                },
+                {
+                    "text": "meteorite",
+                    "colorize": true
+                },
+                {
+                    "text": " in 1680."
+                }
+            ],
+            "tips": "Meteor = streak of light in sky ('shooting star'). Meteoroid = small rock in space. Meteorite = what hits the ground. Very rare to be hit!"
+        },
+        {
+            "word": "lifeguard",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A person trained to "
+                },
+                {
+                    "text": "protect swimmers",
+                    "highlight": true
+                },
+                {
+                    "text": " and "
+                },
+                {
+                    "text": "rescue people in danger",
+                    "highlight2": true
+                },
+                {
+                    "text": " in pools or at beaches"
+                }
+            ],
+            "arabicMeaning": "منقذ / حارس سباحة",
+            "synonyms": [
+                "swim guard",
+                "pool attendant (with rescue training)"
+            ],
+            "example": [
+                {
+                    "text": "The invitation promised a "
+                },
+                {
+                    "text": "lifeguard",
+                    "colorize": true
+                },
+                {
+                    "text": " would be present at the pool party."
+                }
+            ],
+            "tips": "Lifeguards watch for danger—they don't just sit quietly. Always swim where a lifeguard is on duty. Their presence saves lives."
+        },
+        {
+            "word": "stall",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "When an engine suddenly "
+                },
+                {
+                    "text": "stops running",
+                    "highlight": true
+                },
+                {
+                    "text": " while the vehicle is "
+                },
+                {
+                    "text": "still moving",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يتوقف فجأة (المحرك)",
+            "synonyms": [
+                "cut out",
+                "die (engine)",
+                "lose power suddenly"
+            ],
+            "example": [
+                {
+                    "text": "The plane's engine "
+                },
+                {
+                    "text": "stalled",
+                    "colorize": true
+                },
+                {
+                    "text": " due to an unusual gust of wind."
+                }
+            ],
+            "tips": "Cars stall when clutch/gas pedals are misused. Planes stalling mid-air is extremely dangerous (loss of lift). Restarting isn't always possible."
+        },
+        {
+            "word": "gust",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A sudden, "
+                },
+                {
+                    "text": "brief burst",
+                    "highlight": true
+                },
+                {
+                    "text": " of "
+                },
+                {
+                    "text": "strong wind",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "نسمة قوية مفاجئة / هبة رياح",
+            "synonyms": [
+                "blast of wind",
+                "sudden breeze"
+            ],
+            "example": [
+                {
+                    "text": "An unusual "
+                },
+                {
+                    "text": "gust",
+                    "colorize": true
+                },
+                {
+                    "text": " of wind caused the plane's engine to stall."
+                }
+            ],
+            "tips": "Always 'gust of wind' (never 'gust wind'). Gusts are short—seconds, not minutes. Can knock over cyclists, blow papers away, or affect aircraft."
+        },
+        {
+            "word": "lucky escape",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "A situation where someone "
+                },
+                {
+                    "text": "avoids serious harm",
+                    "highlight": true
+                },
+                {
+                    "text": " despite being in "
+                },
+                {
+                    "text": "great danger",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "نجاة محظوظة / هروب من الموت",
+            "synonyms": [
+                "narrow escape",
+                "close call",
+                "miraculous survival"
+            ],
+            "example": [
+                {
+                    "text": "Phil couldn't believe he had such a "
+                },
+                {
+                    "text": "lucky escape",
+                    "colorize": true
+                },
+                {
+                    "text": " after his car exploded into flames."
+                }
+            ],
+            "tips": "Often used with 'such a' or 'what a': 'What a lucky escape!' Implies the outcome could easily have been fatal or much worse."
+        }
+    ]
+}

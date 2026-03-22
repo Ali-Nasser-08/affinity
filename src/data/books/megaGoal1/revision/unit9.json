@@ -1,0 +1,1418 @@
+{
+    "unit": "Mega Goal 1 - Unit 9",
+    "type": "revision",
+    "totalQuestions": 0,
+    "currentBatch": 1,
+    "sections": [
+        {
+            "section": "grammar",
+            "questions": [
+                {
+                    "id": "G1",
+                    "difficulty": 1,
+                    "arabicHint": "Need to be + التصريف الثالث (المبني للمجهول)",
+                    "prompt": "The car is making a strange noise. It needs to be ______ immediately.",
+                    "options": [
+                        "repair",
+                        "repairing",
+                        "repaired",
+                        "repairs"
+                    ],
+                    "answer": "repaired",
+                    "explanation": "We use 'needs to be' + past participle to say that someone else must do the repair. The object (car) receives the action."
+                },
+                {
+                    "id": "G2",
+                    "difficulty": 1,
+                    "arabicHint": "Need to be + Past Participle للمبني للمجهول",
+                    "prompt": "These shirts are very wrinkled. They need to be ______ before the wedding.",
+                    "options": [
+                        "iron",
+                        "ironing",
+                        "ironed",
+                        "irons"
+                    ],
+                    "answer": "ironed",
+                    "explanation": "When clothes have wrinkles, they need to be ironed (pressed with a hot iron to remove creases). The passive form shows someone else will do this."
+                },
+                {
+                    "id": "G3",
+                    "difficulty": 2,
+                    "arabicHint": "الفعل need يأخذ s مع المفرد في المضارع",
+                    "prompt": "The roof ______ to be repaired before the rainy season starts.",
+                    "options": [
+                        "need",
+                        "needs",
+                        "needing",
+                        "needed"
+                    ],
+                    "answer": "needs",
+                    "explanation": "With singular subjects (roof, car, house) in present tense, use 'needs.' With plural subjects, use 'need.'"
+                },
+                {
+                    "id": "G4",
+                    "difficulty": 2,
+                    "arabicHint": "جمع المفرد مع need بدون s",
+                    "prompt": "These old shoes ______ to be thrown away. They cannot be fixed anymore.",
+                    "options": [
+                        "need",
+                        "needs",
+                        "needing",
+                        "needed"
+                    ],
+                    "answer": "need",
+                    "explanation": "Plural nouns (shoes) use 'need' without 's.' Only singular subjects add 's' to need in present tense."
+                },
+                {
+                    "id": "G5",
+                    "difficulty": 1,
+                    "arabicHint": "Have + شيء + التصريف الثالث (الماضي البسيط)",
+                    "prompt": "I ______ my car washed at the new service station yesterday.",
+                    "options": [
+                        "had",
+                        "have",
+                        "having",
+                        "has"
+                    ],
+                    "answer": "had",
+                    "explanation": "Use 'had' (past of have) + object + past participle to indicate you arranged for someone else to do the service in the past."
+                },
+                {
+                    "id": "G6",
+                    "difficulty": 1,
+                    "arabicHint": "Get + شيء + التصريف الثالث (المستقبل)",
+                    "prompt": "We are going to ______ the air conditioning fixed before summer arrives.",
+                    "options": [
+                        "get",
+                        "getting",
+                        "got",
+                        "gets"
+                    ],
+                    "answer": "get",
+                    "explanation": "'Going to get' + object + past participle is used for future arrangements where someone else will do the work."
+                },
+                {
+                    "id": "G7",
+                    "difficulty": 2,
+                    "arabicHint": "Had + شيء + التصريف الثالث (الماضي)",
+                    "prompt": "She ______ her dress dry-cleaned for the Eid celebration last week.",
+                    "options": [
+                        "had",
+                        "has",
+                        "have",
+                        "having"
+                    ],
+                    "answer": "had",
+                    "explanation": "In the past tense, use 'had' + object + past participle to show you paid for a professional service."
+                },
+                {
+                    "id": "G8",
+                    "difficulty": 2,
+                    "arabicHint": "Have something done لطلب خدمة من الآخرين",
+                    "prompt": "You should ______ your eyes checked by a professional doctor.",
+                    "options": [
+                        "have",
+                        "make",
+                        "do",
+                        "does"
+                    ],
+                    "answer": "have",
+                    "explanation": "Use 'have' + object + past participle when arranging for a professional to provide a service. 'Make' and 'do' do not fit this structure."
+                },
+                {
+                    "id": "G9",
+                    "difficulty": 1,
+                    "arabicHint": "التصريف الثالث كصفة (مكسور)",
+                    "prompt": "The child cut his finger on the ______ glass from the window.",
+                    "options": [
+                        "break",
+                        "broke",
+                        "broken",
+                        "breaking"
+                    ],
+                    "answer": "broken",
+                    "explanation": "The past participle 'broken' functions as an adjective describing the state of the glass. It means the glass has been shattered."
+                },
+                {
+                    "id": "G10",
+                    "difficulty": 1,
+                    "arabicHint": "التصريف الثالث كصفة (متشقق)",
+                    "prompt": "Be careful! That ______ vase might leak water if you fill it.",
+                    "options": [
+                        "crack",
+                        "cracks",
+                        "cracked",
+                        "cracking"
+                    ],
+                    "answer": "cracked",
+                    "explanation": "'Cracked' is the past participle used as an adjective. It describes an object with lines or breaks on its surface that might cause leaks."
+                },
+                {
+                    "id": "G11",
+                    "difficulty": 2,
+                    "arabicHint": "Damaged كصفة للشيء التالف",
+                    "prompt": "The mechanic refused to fix the ______ bumper on the old car.",
+                    "options": [
+                        "damage",
+                        "damaged",
+                        "damaging",
+                        "damages"
+                    ],
+                    "answer": "damaged",
+                    "explanation": "Use the past participle 'damaged' as an adjective before a noun to describe something that has been harmed or broken."
+                },
+                {
+                    "id": "G12",
+                    "difficulty": 2,
+                    "arabicHint": "Torn = ممزق (التصريف الثالث من tear)",
+                    "prompt": "The tailor can easily repair this ______ sleeve on your thobe.",
+                    "options": [
+                        "tear",
+                        "tore",
+                        "torn",
+                        "tearing"
+                    ],
+                    "answer": "torn",
+                    "explanation": "'Torn' is the past participle of 'tear' (to rip). As an adjective, it describes fabric that has been ripped or split."
+                },
+                {
+                    "id": "G13",
+                    "difficulty": 2,
+                    "arabicHint": "Have something done (نحن طلبنا الإصلاح)",
+                    "prompt": "We ______ the roof repaired immediately after the heavy storm.",
+                    "options": [
+                        "had",
+                        "needed to be",
+                        "was",
+                        "have to be"
+                    ],
+                    "answer": "had",
+                    "explanation": "'We had the roof repaired' uses the causative structure (we arranged for workers to repair it). 'Needed to be' would require the roof as the subject, not 'we.'"
+                },
+                {
+                    "id": "G14",
+                    "difficulty": 2,
+                    "arabicHint": "Need to be + تصريف ثالث للمبني للمجهول",
+                    "prompt": "The TV is broken. It ______ immediately or we cannot watch the match.",
+                    "options": [
+                        "needs to be repaired",
+                        "needs to repair",
+                        "is needing repair",
+                        "had repaired"
+                    ],
+                    "answer": "needs to be repaired",
+                    "explanation": "When the object (TV) is the subject of the sentence, use 'needs to be' + past participle to form the passive."
+                },
+                {
+                    "id": "G15",
+                    "difficulty": 2,
+                    "arabicHint": "Replace = يستبدل (يحتاج لتغيير وليس إصلاح)",
+                    "prompt": "This old air conditioner cannot be fixed. It needs to be ______ with a new one.",
+                    "options": [
+                        "repair",
+                        "repaired",
+                        "replace",
+                        "replaced"
+                    ],
+                    "answer": "replaced",
+                    "explanation": "When something is too old or broken to fix, we replace it (put a new one in its place). 'Replace' is different from 'repair' (fix)."
+                },
+                {
+                    "id": "G16",
+                    "difficulty": 1,
+                    "arabicHint": "Stained = ملطخ (صفة من التصريف الثالث)",
+                    "prompt": "Your white thobe is ______ with coffee. You should take it to the dry cleaner.",
+                    "options": [
+                        "stain",
+                        "stains",
+                        "stained",
+                        "staining"
+                    ],
+                    "answer": "stained",
+                    "explanation": "'Stained' is the past participle used as an adjective, meaning marked with spots or discoloration that are difficult to remove."
+                },
+                {
+                    "id": "G17",
+                    "difficulty": 2,
+                    "arabicHint": "Get something done (الماضي - غير رسمي)",
+                    "prompt": "I ______ my hair cut yesterday, but I do not really like the new style.",
+                    "options": [
+                        "got",
+                        "got to be",
+                        "was got",
+                        "have been got"
+                    ],
+                    "answer": "got",
+                    "explanation": "'Got' is the informal past tense of 'get.' Like 'had,' it is used in the causative structure: 'got my hair cut' means a barber cut it for you."
+                },
+                {
+                    "id": "G18",
+                    "difficulty": 2,
+                    "arabicHint": "جمع المفرد مع need بدون s + to be cleaned",
+                    "prompt": "The windows are covered in dust. They ______ before the guests arrive.",
+                    "options": [
+                        "need to clean",
+                        "needs to clean",
+                        "need to be cleaned",
+                        "needs to be cleaned"
+                    ],
+                    "answer": "need to be cleaned",
+                    "explanation": "Plural subjects (windows) take 'need' without 's.' The passive form 'to be cleaned' is used because the windows receive the cleaning action."
+                },
+                {
+                    "id": "G19",
+                    "difficulty": 3,
+                    "arabicHint": "الصفة قبل الاسم (the damaged painting)",
+                    "prompt": "The museum removed the ______ painting from the wall because it was ruined in the flood.",
+                    "options": [
+                        "damaged",
+                        "was damaged",
+                        "damaging",
+                        "damages"
+                    ],
+                    "answer": "damaged",
+                    "explanation": "Place the past participle 'damaged' before the noun (painting) to act as an adjective describing its condition. Do not use 'was' here because you need an adjective, not a full verb phrase."
+                },
+                {
+                    "id": "G20",
+                    "difficulty": 2,
+                    "arabicHint": "أفعال مركبة (dry-clean) تصبح صفات مركبة",
+                    "prompt": "This silk shirt must be ______. You cannot wash it in a regular machine.",
+                    "options": [
+                        "dry-clean",
+                        "dry-cleaned",
+                        "dry-cleaning",
+                        "dry-cleans"
+                    ],
+                    "answer": "dry-cleaned",
+                    "explanation": "Compound verbs like 'dry-clean' add -ed in the past participle form (dry-cleaned) when used in passive voice or as an adjective."
+                },
+                {
+                    "id": "G21",
+                    "difficulty": 1,
+                    "arabicHint": "Fix = Repair = يصلح",
+                    "prompt": "The broken chair needs to be ______ before someone sits on it and falls.",
+                    "options": [
+                        "fix",
+                        "fixed",
+                        "fixing",
+                        "fixes"
+                    ],
+                    "answer": "fixed",
+                    "explanation": "'Fixed' means repaired or mended. In passive voice with 'needs to be,' we use the past participle form."
+                },
+                {
+                    "id": "G22",
+                    "difficulty": 1,
+                    "arabicHint": "تصريف ثالث غير قاعدي (sew -> sewn)",
+                    "prompt": "The ______ hem on my pants needs to be sewn properly.",
+                    "options": [
+                        "tear",
+                        "tore",
+                        "torn",
+                        "tearing"
+                    ],
+                    "answer": "torn",
+                    "explanation": "'Torn' (past participle of tear) describes the damaged edge of fabric. The word 'sewn' is the past participle of sew."
+                },
+                {
+                    "id": "G23",
+                    "difficulty": 3,
+                    "arabicHint": "Had something done (طلبت الخدمة من الآخرين)",
+                    "prompt": "She ______ the documents translated by a professional translator yesterday.",
+                    "options": [
+                        "had",
+                        "was",
+                        "has been",
+                        "did"
+                    ],
+                    "answer": "had",
+                    "explanation": "'Had something translated' uses the causative structure to show she arranged for the translation service, not that she did it herself."
+                },
+                {
+                    "id": "G24",
+                    "difficulty": 2,
+                    "arabicHint": "Present perfect: have/has + had + شيء + تصريف ثالث",
+                    "prompt": "I have ______ the house painted blue. Do you like the new color?",
+                    "options": [
+                        "had",
+                        "have",
+                        "has",
+                        "having"
+                    ],
+                    "answer": "had",
+                    "explanation": "In present perfect tense (have/has), use 'had' (past participle of have) + object + past participle for the causative meaning."
+                },
+                {
+                    "id": "G25",
+                    "difficulty": 3,
+                    "arabicHint": "Going to have something done (المستقبل)",
+                    "prompt": "Before we move into the new apartment, we ______ the locks changed for security.",
+                    "options": [
+                        "are going to have",
+                        "need to be",
+                        "are needing to have",
+                        "have to be have"
+                    ],
+                    "answer": "are going to have",
+                    "explanation": "Use 'going to have' + object + past participle for future arrangements. 'Need to be' would require the sentence structure to be 'the locks need to be changed,' not 'we need to be the locks.'"
+                },
+                {
+                    "id": "G26",
+                    "difficulty": 1,
+                    "arabicHint": "ضمير المفعول به (me بعد الفعل)",
+                    "prompt": "My teacher knows _____ very well because I always ask questions in class.",
+                    "options": [
+                        "I",
+                        "me",
+                        "my",
+                        "mine"
+                    ],
+                    "answer": "me",
+                    "explanation": "Use object pronoun 'me' after the verb 'knows.' Subject pronoun 'I' is used only when you are the one doing the action."
+                },
+                {
+                    "id": "G27",
+                    "difficulty": 1,
+                    "arabicHint": "ضمير المفعول به (him للمفرد المذكر)",
+                    "prompt": "My brother plays football every day. I always watch _____ when he practices.",
+                    "options": [
+                        "he",
+                        "him",
+                        "his",
+                        "himself"
+                    ],
+                    "answer": "him",
+                    "explanation": "After the verb 'watch,' use the object pronoun 'him' to refer to a male person. 'He' is only used for subjects."
+                },
+                {
+                    "id": "G28",
+                    "difficulty": 1,
+                    "arabicHint": "ضمير المفعول به الجمع (them)",
+                    "prompt": "The students submitted their homework early. The teacher graded _____ quickly.",
+                    "options": [
+                        "they",
+                        "them",
+                        "their",
+                        "theirs"
+                    ],
+                    "answer": "them",
+                    "explanation": "Use object pronoun 'them' to refer to plural things or people after the verb 'graded.'"
+                },
+                {
+                    "id": "G29",
+                    "difficulty": 2,
+                    "arabicHint": "ضمير المفعول به (us بعد حرف الجر)",
+                    "prompt": "The principal spoke to _____ about the importance of studying hard.",
+                    "options": [
+                        "we",
+                        "us",
+                        "our",
+                        "ours"
+                    ],
+                    "answer": "us",
+                    "explanation": "After the preposition 'to,' use the object pronoun 'us.' Prepositions are always followed by object pronouns, not subject pronouns."
+                },
+                {
+                    "id": "G30",
+                    "difficulty": 1,
+                    "arabicHint": "ضمير المفعول به (her للمفرد المؤنث)",
+                    "prompt": "My mother cooked a delicious meal. Everyone in the family thanked _____.",
+                    "options": [
+                        "she",
+                        "her",
+                        "hers",
+                        "him"
+                    ],
+                    "answer": "her",
+                    "explanation": "Use object pronoun 'her' after the verb 'thanked' to refer to a female person. 'She' is only for subjects."
+                },
+                {
+                    "id": "G31",
+                    "difficulty": 1,
+                    "arabicHint": "Need + to + الفعل المصدر",
+                    "prompt": "It is very hot today. We _____ drink more water to stay healthy.",
+                    "options": [
+                        "need to",
+                        "need",
+                        "needing to",
+                        "needs to"
+                    ],
+                    "answer": "need to",
+                    "explanation": "The verb 'need' is followed by the full infinitive 'to drink.' For plural subjects like 'we,' use 'need to,' not 'needs to.'"
+                },
+                {
+                    "id": "G32",
+                    "difficulty": 1,
+                    "arabicHint": "Want + to + الفعل (لا تضف ing)",
+                    "prompt": "My little sister _____ learn how to ride a bicycle this summer.",
+                    "options": [
+                        "wants to",
+                        "wants",
+                        "wanting to",
+                        "want"
+                    ],
+                    "answer": "wants to",
+                    "explanation": "Use 'wants to' + base verb for singular subjects. 'Want' requires the full infinitive with 'to,' not the -ing form."
+                },
+                {
+                    "id": "G33",
+                    "difficulty": 1,
+                    "arabicHint": "Like + to + الفعل (يفضل)",
+                    "prompt": "During the weekend, I _____ read books about history and science.",
+                    "options": [
+                        "like to",
+                        "like",
+                        "liking to",
+                        "likes"
+                    ],
+                    "answer": "like to",
+                    "explanation": "The verb 'like' is followed by the infinitive 'to read' to express enjoyment of the activity. With 'I,' use 'like,' not 'likes.'"
+                },
+                {
+                    "id": "G34",
+                    "difficulty": 2,
+                    "arabicHint": "doesn't want to + الفعل (النفي)",
+                    "prompt": "He _____ clean his room because he thinks it is already tidy.",
+                    "options": [
+                        "doesn't want to",
+                        "don't want to",
+                        "not wants to",
+                        "wants not to"
+                    ],
+                    "answer": "doesn't want to",
+                    "explanation": "For negative sentences with third person singular, use 'doesn't want to' + base verb. The word 'not' comes before 'want,' not after."
+                },
+                {
+                    "id": "G35",
+                    "difficulty": 1,
+                    "arabicHint": "ضمير المفعول بين الفعل والحرف (turn it off)",
+                    "prompt": "The light is on. Please _____ before you leave the room.",
+                    "options": [
+                        "turn off it",
+                        "turn it off",
+                        "turn them off",
+                        "turn off them"
+                    ],
+                    "answer": "turn it off",
+                    "explanation": "With two-word verbs, object pronouns like 'it' always come between the verb and the particle (turn + it + off)."
+                },
+                {
+                    "id": "G36",
+                    "difficulty": 2,
+                    "arabicHint": "ضمير الجمع بين الفعل والحرف (pick them up)",
+                    "prompt": "Your clothes are on the floor. Please _____ and put them in the wardrobe.",
+                    "options": [
+                        "pick up them",
+                        "pick them up",
+                        "pick it up",
+                        "picking them up"
+                    ],
+                    "answer": "pick them up",
+                    "explanation": "'Clothes' is plural, so use 'them.' Place the object pronoun between the verb 'pick' and the particle 'up.'"
+                },
+                {
+                    "id": "G37",
+                    "difficulty": 2,
+                    "arabicHint": "ضمير المفرد بين الفعل والحرف (put it away)",
+                    "prompt": "The book is on the table. Please _____ before dinner.",
+                    "options": [
+                        "put away it",
+                        "put it away",
+                        "put them away",
+                        "puts it away"
+                    ],
+                    "answer": "put it away",
+                    "explanation": "'Book' is singular, so use 'it.' In imperative sentences with phrasal verbs, the pronoun comes between the verb and the particle."
+                },
+                {
+                    "id": "G38",
+                    "difficulty": 2,
+                    "arabicHint": "Wash them up (الترتيب الصحيح)",
+                    "prompt": "There are dirty dishes in the sink. Please _____ before your mother comes home.",
+                    "options": [
+                        "wash up them",
+                        "wash them up",
+                        "wash it up",
+                        "washing them up"
+                    ],
+                    "answer": "wash them up",
+                    "explanation": "'Dishes' is plural, so use 'them.' The correct order is verb + pronoun + particle (wash + them + up)."
+                },
+                {
+                    "id": "G39",
+                    "difficulty": 2,
+                    "arabicHint": "Throw them away (للجمع)",
+                    "prompt": "These old papers are useless. Please _____ in the recycling bin.",
+                    "options": [
+                        "throw away them",
+                        "throw them away",
+                        "throw it away",
+                        "throws them away"
+                    ],
+                    "answer": "throw them away",
+                    "explanation": "'Papers' is plural, so use 'them.' Object pronouns always come between the verb 'throw' and the particle 'away.'"
+                },
+                {
+                    "id": "G40",
+                    "difficulty": 2,
+                    "arabicHint": "Present Perfect: has/have + التصريف الثالث",
+                    "prompt": "She _____ her homework already, so she can watch TV now.",
+                    "options": [
+                        "has finished",
+                        "have finished",
+                        "finished",
+                        "finishing"
+                    ],
+                    "answer": "has finished",
+                    "explanation": "Use present perfect (has + past participle) for recently completed actions. With third person singular, use 'has,' not 'have.'"
+                },
+                {
+                    "id": "G41",
+                    "difficulty": 2,
+                    "arabicHint": "Have/has مع الجمع (they)",
+                    "prompt": "The students _____ to the library to study for the exam.",
+                    "options": [
+                        "has gone",
+                        "have gone",
+                        "went",
+                        "going"
+                    ],
+                    "answer": "have gone",
+                    "explanation": "With plural subjects, use 'have' + past participle. 'Has' is only for he/she/it."
+                },
+                {
+                    "id": "G42",
+                    "difficulty": 3,
+                    "arabicHint": "Has gone = ذهب ولم يعد بعد",
+                    "prompt": "My father is not at home right now. He _____ to the market to buy bread.",
+                    "options": [
+                        "has been",
+                        "has gone",
+                        "went",
+                        "goes"
+                    ],
+                    "answer": "has gone",
+                    "explanation": "Use 'has gone' when someone went somewhere and is still there. Use 'has been' only if the person has already returned."
+                },
+                {
+                    "id": "G43",
+                    "difficulty": 2,
+                    "arabicHint": "Has been to = زار وعاد",
+                    "prompt": "I _____ Makkah three times in my life. It is a beautiful city.",
+                    "options": [
+                        "have been to",
+                        "have gone to",
+                        "went to",
+                        "going to"
+                    ],
+                    "answer": "have been to",
+                    "explanation": "Use 'have been to' when you visited a place and have returned. 'Have gone to' means the person is still there."
+                },
+                {
+                    "id": "G44",
+                    "difficulty": 2,
+                    "arabicHint": "Already في الجمل المثبتة",
+                    "prompt": "Don't worry about the dishes. I _____ washed them.",
+                    "options": [
+                        "already have",
+                        "have already",
+                        "yet have",
+                        "have yet"
+                    ],
+                    "answer": "have already",
+                    "explanation": "'Already' is used in positive present perfect sentences. It usually comes between 'have/has' and the past participle."
+                },
+                {
+                    "id": "G45",
+                    "difficulty": 2,
+                    "arabicHint": "Yet في الجمل المنفية (في النهاية)",
+                    "prompt": "He hasn't finished his project _____. He needs two more days.",
+                    "options": [
+                        "already",
+                        "yet",
+                        "just",
+                        "never"
+                    ],
+                    "answer": "yet",
+                    "explanation": "Use 'yet' at the end of negative sentences to show something has not happened up to now. 'Already' is for positive sentences."
+                },
+                {
+                    "id": "G46",
+                    "difficulty": 2,
+                    "arabicHint": "Yet في الأسئلة (في النهاية)",
+                    "prompt": "Have you called your grandmother _____?",
+                    "options": [
+                        "already",
+                        "yet",
+                        "just",
+                        "since"
+                    ],
+                    "answer": "yet",
+                    "explanation": "In questions, use 'yet' at the end to ask if something has happened up to this moment. 'Already' suggests you think it has happened."
+                },
+                {
+                    "id": "G47",
+                    "difficulty": 2,
+                    "arabicHint": "Just = للتو (حدث الآن)",
+                    "prompt": "Don't touch the wall! The paint _____ dried.",
+                    "options": [
+                        "just has",
+                        "has just",
+                        "yet has",
+                        "has yet"
+                    ],
+                    "answer": "has just",
+                    "explanation": "'Just' indicates the action finished very recently. Place it between 'have/has' and the past participle."
+                },
+                {
+                    "id": "G48",
+                    "difficulty": 2,
+                    "arabicHint": "Avoid + ing (تجنب)",
+                    "prompt": "You should _____ eating too much sugar to stay healthy.",
+                    "options": [
+                        "avoid",
+                        "avoiding",
+                        "avoid to",
+                        "to avoid"
+                    ],
+                    "answer": "avoid",
+                    "explanation": "The verb 'avoid' is always followed by a gerund (-ing form), not an infinitive. 'Avoid eating' is the correct structure."
+                },
+                {
+                    "id": "G49",
+                    "difficulty": 1,
+                    "arabicHint": "Enjoy + ing (الاستمتاع)",
+                    "prompt": "We really _____ playing football after school every day.",
+                    "options": [
+                        "enjoy",
+                        "enjoying",
+                        "enjoy to",
+                        "enjoys"
+                    ],
+                    "answer": "enjoy",
+                    "explanation": "Enjoy requires the gerund form (playing) after it, not the infinitive. With 'we,' use base form 'enjoy.'"
+                },
+                {
+                    "id": "G50",
+                    "difficulty": 2,
+                    "arabicHint": "Can't stand + ing (لا يحتمل)",
+                    "prompt": "My brother _____ waking up early when he has school.",
+                    "options": [
+                        "can't stand",
+                        "can't stands",
+                        "enjoy",
+                        "enjoys"
+                    ],
+                    "answer": "can't stand",
+                    "explanation": "Can't stand means to strongly dislike and is followed by the gerund (-ing form). Modal verbs like 'can' do not add 's' for third person."
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "questions": [
+                {
+                    "id": "V1",
+                    "difficulty": 1,
+                    "arabicHint": "وسخ للغاية / قذر",
+                    "prompt": "The kitchen was so _____ after the party that it took hours to clean.",
+                    "options": [
+                        "filthy",
+                        "spotless",
+                        "tiny",
+                        "empty"
+                    ],
+                    "answer": "filthy",
+                    "explanation": "Filthy means extremely dirty. It is a strong adjective used to describe walls, rooms, or clothes that need immediate cleaning."
+                },
+                {
+                    "id": "V2",
+                    "difficulty": 1,
+                    "arabicHint": "تسرب الماء (أنبوب)",
+                    "prompt": "We need a plumber immediately because there is a _____ pipe under the bathroom sink.",
+                    "options": [
+                        "leaky",
+                        "broken",
+                        "painted",
+                        "new"
+                    ],
+                    "answer": "leaky",
+                    "explanation": "A leaky pipe has holes or cracks that allow water to escape slowly. This is a common housing complaint that requires professional repair."
+                },
+                {
+                    "id": "V3",
+                    "difficulty": 1,
+                    "arabicHint": "حنفية تتقطّر",
+                    "prompt": "The _____ faucet in the bathroom keeps us awake at night with its constant dripping sound.",
+                    "options": [
+                        "dripping",
+                        "dry",
+                        "frozen",
+                        "golden"
+                    ],
+                    "answer": "dripping",
+                    "explanation": "A dripping faucet releases water drop by drop. This wastes water and indicates the washer inside needs replacement."
+                },
+                {
+                    "id": "V4",
+                    "difficulty": 1,
+                    "arabicHint": "مقبض باب معطل",
+                    "prompt": "I cannot open my bedroom door because the _____ is stuck and won't turn.",
+                    "options": [
+                        "doorknob",
+                        "window",
+                        "ceiling",
+                        "carpet"
+                    ],
+                    "answer": "doorknob",
+                    "explanation": "A doorknob is the handle you turn to open a door. When it is broken, you cannot enter or exit the room easily."
+                },
+                {
+                    "id": "V5",
+                    "difficulty": 2,
+                    "arabicHint": "ألواح أرضية مفكوكة",
+                    "prompt": "Be careful walking in the old house; the _____ might cause you to trip and fall.",
+                    "options": [
+                        "loose floorboards",
+                        "strong roof",
+                        "thick walls",
+                        "bright lights"
+                    ],
+                    "answer": "loose floorboards",
+                    "explanation": "Loose floorboards are wooden planks that are not properly fixed to the floor, creating a tripping hazard."
+                },
+                {
+                    "id": "V6",
+                    "difficulty": 2,
+                    "arabicHint": "زجاج النافذة المكسور",
+                    "prompt": "After the storm, we discovered a _____ that was letting cold air into the living room.",
+                    "options": [
+                        "broken windowpane",
+                        "open door",
+                        "turned on light",
+                        "soft pillow"
+                    ],
+                    "answer": "broken windowpane",
+                    "explanation": "A windowpane is the sheet of glass in a window. When broken, it needs immediate replacement for safety and insulation."
+                },
+                {
+                    "id": "V7",
+                    "difficulty": 1,
+                    "arabicHint": "بقعة على الملابس",
+                    "prompt": "I spilled coffee on my white shirt and now there is an ugly brown _____ on the front.",
+                    "options": [
+                        "stain",
+                        "button",
+                        "pocket",
+                        "sleeve"
+                    ],
+                    "answer": "stain",
+                    "explanation": "A stain is a discolored spot on fabric that is difficult to remove. Common stains include coffee, oil, and ink."
+                },
+                {
+                    "id": "V8",
+                    "difficulty": 1,
+                    "arabicHint": "زر مفقود",
+                    "prompt": "I cannot wear this shirt to the interview because it has a _____ and looks unprofessional.",
+                    "options": [
+                        "missing button",
+                        "extra sleeve",
+                        "new collar",
+                        "fresh iron"
+                    ],
+                    "answer": "missing button",
+                    "explanation": "A missing button means one of the buttons has fallen off the garment. This is a common clothing defect that needs sewing."
+                },
+                {
+                    "id": "V9",
+                    "difficulty": 1,
+                    "arabicHint": "ثقب في القماش",
+                    "prompt": "My socks are uncomfortable because there is a small _____ in the toe area.",
+                    "options": [
+                        "hole",
+                        "knot",
+                        "color",
+                        "pattern"
+                    ],
+                    "answer": "hole",
+                    "explanation": "A hole is an opening or gap in fabric caused by wear, tearing, or chewing by animals. It requires darning or replacement."
+                },
+                {
+                    "id": "V10",
+                    "difficulty": 1,
+                    "arabicHint": "مزق / يخيط (المصدر المؤول)",
+                    "prompt": "The tailor can fix your pants by using special thread to _____ the ripped seam.",
+                    "options": [
+                        "sew",
+                        "paint",
+                        "drive",
+                        "cook"
+                    ],
+                    "answer": "sew",
+                    "explanation": "To sew means to join pieces of fabric together using a needle and thread. Tailors sew torn clothing to repair it."
+                },
+                {
+                    "id": "V11",
+                    "difficulty": 2,
+                    "arabicHint": "تنظيف جاف (للملابس الحساسة)",
+                    "prompt": "This silk jacket cannot be washed with water. It needs to be _____.",
+                    "options": [
+                        "dry-cleaned",
+                        "painted",
+                        "baked",
+                        "frozen"
+                    ],
+                    "answer": "dry-cleaned",
+                    "explanation": "Dry-cleaning is a special cleaning process using chemicals instead of water, used for delicate fabrics like silk and wool."
+                },
+                {
+                    "id": "V12",
+                    "difficulty": 2,
+                    "arabicHint": "إصلاح الميكانيكي للسيارة",
+                    "prompt": "When my car made strange sounds, I took it to the _____ to diagnose the problem.",
+                    "options": [
+                        "mechanic",
+                        "barber",
+                        "chef",
+                        "painter"
+                    ],
+                    "answer": "mechanic",
+                    "explanation": "A mechanic is a professional who repairs and maintains vehicles. They fix engines, tires, and other car parts."
+                },
+                {
+                    "id": "V13",
+                    "difficulty": 1,
+                    "arabicHint": "زجاج أمامي مكسور (سيارة)",
+                    "prompt": "A stone hit my car on the highway and left a crack on the _____.",
+                    "options": [
+                        "windshield",
+                        "door handle",
+                        "seat belt",
+                        "radio"
+                    ],
+                    "answer": "windshield",
+                    "explanation": "The windshield is the large front window of a car. A cracked windshield is dangerous and illegal to drive with in many places."
+                },
+                {
+                    "id": "V14",
+                    "difficulty": 1,
+                    "arabicHint": "إطار منفوخ / فارغ من الهواء",
+                    "prompt": "I cannot drive to work today because my car has a _____ and I need to inflate it.",
+                    "options": [
+                        "flat tire",
+                        "full tank",
+                        "new radio",
+                        "clean seat"
+                    ],
+                    "answer": "flat tire",
+                    "explanation": "A flat tire has lost its air pressure, usually from a puncture. The car cannot be driven safely until the tire is repaired or replaced."
+                },
+                {
+                    "id": "V15",
+                    "difficulty": 2,
+                    "arabicHint": "بطارية فارغة / ميتة",
+                    "prompt": "The car wouldn't start this morning because the _____ was completely dead.",
+                    "options": [
+                        "dead battery",
+                        "leaky faucet",
+                        "broken window",
+                        "stained carpet"
+                    ],
+                    "answer": "dead battery",
+                    "explanation": "A dead battery has no electrical power left. It needs recharging or replacement to start the car engine."
+                },
+                {
+                    "id": "V16",
+                    "difficulty": 2,
+                    "arabicHint": "إطار مهترئ (بحاجة للتبديل)",
+                    "prompt": "For safety, you should replace the _____ before it bursts while driving.",
+                    "options": [
+                        "worn tire",
+                        "new mirror",
+                        "fresh paint",
+                        "clean oil"
+                    ],
+                    "answer": "worn tire",
+                    "explanation": "A worn tire has a smooth surface from extensive use. It lacks grip and is dangerous because it can slip or burst easily."
+                },
+                {
+                    "id": "V17",
+                    "difficulty": 2,
+                    "arabicHint": "رتوش / خبط في هيكل السيارة",
+                    "prompt": "After the minor accident, there was a visible _____ on the side door of my vehicle.",
+                    "options": [
+                        "dent",
+                        "shine",
+                        "color",
+                        "window"
+                    ],
+                    "answer": "dent",
+                    "explanation": "A dent is a small hollow area on a car body caused by impact. It affects the appearance but may not affect driving."
+                },
+                {
+                    "id": "V18",
+                    "difficulty": 2,
+                    "arabicHint": "ضمان (على المنتجات)",
+                    "prompt": "My new laptop stopped working, but the store will fix it for free because it is still under _____.",
+                    "options": [
+                        "warranty",
+                        "insurance",
+                        "sale",
+                        "price"
+                    ],
+                    "answer": "warranty",
+                    "explanation": "A warranty is a guarantee from the manufacturer to repair or replace a product if it breaks within a specific time period."
+                },
+                {
+                    "id": "V19",
+                    "difficulty": 1,
+                    "arabicHint": "استرداد المال",
+                    "prompt": "The dress did not fit properly, so the store gave me a full _____ instead of an exchange.",
+                    "options": [
+                        "refund",
+                        "discount",
+                        "gift",
+                        "receipt"
+                    ],
+                    "answer": "refund",
+                    "explanation": "A refund is the return of money when you return a defective or unwanted product to the store."
+                },
+                {
+                    "id": "V20",
+                    "difficulty": 2,
+                    "arabicHint": "تقني (لفحص الأجهزة)",
+                    "prompt": "The air conditioner is not cooling, so I called a _____ to inspect the internal parts.",
+                    "options": [
+                        "technician",
+                        "teacher",
+                        "driver",
+                        "farmer"
+                    ],
+                    "answer": "technician",
+                    "explanation": "A technician is a specialist who repairs electronic and mechanical equipment, such as computers and air conditioners."
+                },
+                {
+                    "id": "V21",
+                    "difficulty": 1,
+                    "arabicHint": "انقطاع الجهاز / تعطّل الكمبيوتر",
+                    "prompt": "I lost my school project when my computer suddenly _____ and turned off.",
+                    "options": [
+                        "crashed",
+                        "flew",
+                        "swam",
+                        "grew"
+                    ],
+                    "answer": "crashed",
+                    "explanation": "When a computer crashes, it stops working suddenly and unexpectedly, often causing loss of unsaved data."
+                },
+                {
+                    "id": "V22",
+                    "difficulty": 1,
+                    "arabicHint": "شكوى (ما يسجله الزبون)",
+                    "prompt": "The customer filed a formal _____ about the rude service at the restaurant.",
+                    "options": [
+                        "complaint",
+                        "compliment",
+                        "question",
+                        "gift"
+                    ],
+                    "answer": "complaint",
+                    "explanation": "A complaint is a statement that something is unsatisfactory or unacceptable. Customers make complaints about bad products or services."
+                },
+                {
+                    "id": "V23",
+                    "difficulty": 2,
+                    "arabicHint": "مستهلك (الشخص الذي يشتري)",
+                    "prompt": "As a careful _____, you should always check product reviews before buying expensive electronics.",
+                    "options": [
+                        "consumer",
+                        "producer",
+                        "seller",
+                        "manager"
+                    ],
+                    "answer": "consumer",
+                    "explanation": "A consumer is a person who buys goods or services. Consumer awareness means understanding your rights when shopping."
+                },
+                {
+                    "id": "V24",
+                    "difficulty": 2,
+                    "arabicHint": "استبدال (أخذ جديد بدلاً من المعطل)",
+                    "prompt": "Since your phone cannot be repaired, we will _____ it with a new model free of charge.",
+                    "options": [
+                        "replace",
+                        "repair",
+                        "paint",
+                        "ignore"
+                    ],
+                    "answer": "replace",
+                    "explanation": "To replace means to substitute an old or broken item with a new one. This happens when repair is impossible or too expensive."
+                },
+                {
+                    "id": "V25",
+                    "difficulty": 2,
+                    "arabicHint": "عادم السيارة (ينبعث منه الدخان)",
+                    "prompt": "The loud noise from the back of the car was caused by a hole in the _____ pipe.",
+                    "options": [
+                        "exhaust",
+                        "water",
+                        "electric",
+                        "telephone"
+                    ],
+                    "answer": "exhaust",
+                    "explanation": "The exhaust pipe is the part of a car that removes waste gases from the engine. If damaged, it makes loud noises and smells."
+                },
+                {
+                    "id": "V26",
+                    "difficulty": 1,
+                    "arabicHint": "مجفف الشعر (جهاز كهربائي)",
+                    "prompt": "You should never use this electrical appliance near water because it could cause electric shock.",
+                    "options": [
+                        "hair dryer",
+                        "refrigerator",
+                        "bookshelf",
+                        "pillow"
+                    ],
+                    "answer": "hair dryer",
+                    "explanation": "A hair dryer is an electrical device that blows hot air to dry hair. Using it near water or while sleeping is dangerous due to electrocution risk."
+                },
+                {
+                    "id": "V27",
+                    "difficulty": 1,
+                    "arabicHint": "مكواة (لإزالة التجاعيد)",
+                    "prompt": "This hot appliance is used to remove wrinkles from clothes, but it should never touch skin directly.",
+                    "options": [
+                        "iron",
+                        "microwave",
+                        "fan",
+                        "lamp"
+                    ],
+                    "answer": "iron",
+                    "explanation": "An iron is a heated tool for pressing clothes smooth. Warning labels caution against ironing garments while wearing them to avoid burns."
+                },
+                {
+                    "id": "V28",
+                    "difficulty": 1,
+                    "arabicHint": "منتصب / عمودي (وضعية الحفظ)",
+                    "prompt": "The label on the milk bottle says to keep it in a vertical position after opening.",
+                    "options": [
+                        "upright",
+                        "upside down",
+                        "sideways",
+                        "flat"
+                    ],
+                    "answer": "upright",
+                    "explanation": "Upright means in a vertical position, standing straight up. Some liquids must be stored this way to prevent spills or contamination."
+                },
+                {
+                    "id": "V29",
+                    "difficulty": 2,
+                    "arabicHint": "مقلوب رأساً على عقب",
+                    "prompt": "The dessert packaging warns not to turn the container over when opening it.",
+                    "options": [
+                        "upside down",
+                        "right side up",
+                        "sideways",
+                        "gently"
+                    ],
+                    "answer": "upside down",
+                    "explanation": "Upside down means with the top part at the bottom. Turning containers this way can cause contents to spill out unexpectedly."
+                },
+                {
+                    "id": "V30",
+                    "difficulty": 1,
+                    "arabicHint": "غطاء الاستحمام (الفندق)",
+                    "prompt": "Hotels provide a plastic cover to protect hair from water during showering.",
+                    "options": [
+                        "shower cap",
+                        "bed sheet",
+                        "towel",
+                        "slipper"
+                    ],
+                    "answer": "shower cap",
+                    "explanation": "A shower cap is a waterproof covering worn on the head to keep hair dry while bathing. It is designed for single-person use."
+                },
+                {
+                    "id": "V31",
+                    "difficulty": 1,
+                    "arabicHint": "عشاء مجمد (وجبة جاهزة)",
+                    "prompt": "This type of meal is kept in the freezer and requires heating before eating.",
+                    "options": [
+                        "frozen dinner",
+                        "fresh salad",
+                        "hot soup",
+                        "baked bread"
+                    ],
+                    "answer": "frozen dinner",
+                    "explanation": "A frozen dinner is a pre-packaged meal stored at low temperatures. Instructions usually indicate it should be cooked before serving."
+                },
+                {
+                    "id": "V32",
+                    "difficulty": 2,
+                    "arabicHint": "مفرمة اللحم (جهاز خطير)",
+                    "prompt": "This kitchen device grinds meat, but the warning says not to use it for any other purpose.",
+                    "options": [
+                        "meat grinder",
+                        "toaster",
+                        "kettle",
+                        "blender"
+                    ],
+                    "answer": "meat grinder",
+                    "explanation": "A meat grinder is a machine that minces meat into small pieces. It is dangerous to put non-food items or hands inside while operating."
+                },
+                {
+                    "id": "V33",
+                    "difficulty": 1,
+                    "arabicHint": "منحدر / ميل (أرضية مائلة)",
+                    "prompt": "You should engage the brakes on a baby stroller when stopping on an inclined surface.",
+                    "options": [
+                        "slope",
+                        "elevator",
+                        "pool",
+                        "carpet"
+                    ],
+                    "answer": "slope",
+                    "explanation": "A slope is a surface that is higher at one end than the other. Strollers can roll down slopes quickly if not secured with brakes."
+                },
+                {
+                    "id": "V34",
+                    "difficulty": 2,
+                    "arabicHint": "قَصِير وَعَرِيض (سَعَة السِّرْوَال)",
+                    "prompt": "The customer complained that the jeans were too baggy and loose around the legs.",
+                    "options": [
+                        "wide-cut",
+                        "tight",
+                        "short",
+                        "colorful"
+                    ],
+                    "answer": "wide-cut",
+                    "explanation": "Wide-cut describes clothing that is broad and loose rather than fitted. It provides more space and comfort but may look too big."
+                },
+                {
+                    "id": "V35",
+                    "difficulty": 1,
+                    "arabicHint": "باهت اللون (مُبيض)",
+                    "prompt": "The denim fabric had lost its original dark blue color after many washes.",
+                    "options": [
+                        "faded",
+                        "bright",
+                        "new",
+                        "shiny"
+                    ],
+                    "answer": "faded",
+                    "explanation": "Faded means having lost color or brightness over time. This is sometimes a fashion choice, but can also indicate poor quality."
+                },
+                {
+                    "id": "V36",
+                    "difficulty": 2,
+                    "arabicHint": "رقيق وهش (جودة ضعيفة)",
+                    "prompt": "The material was so weak and thin that it tore easily during normal use.",
+                    "options": [
+                        "flimsy",
+                        "strong",
+                        "thick",
+                        "heavy"
+                    ],
+                    "answer": "flimsy",
+                    "explanation": "Flimsy describes material that is thin, weak, and easily damaged. It suggests poor quality that will not last long."
+                },
+                {
+                    "id": "V37",
+                    "difficulty": 1,
+                    "arabicHint": "فضفاض غير ضيق (ملابس)",
+                    "prompt": "This type of clothing does not hug the body tightly and allows air to circulate.",
+                    "options": [
+                        "loose-fitting",
+                        "skinny",
+                        "tight",
+                        "elastic"
+                    ],
+                    "answer": "loose-fitting",
+                    "explanation": "Loose-fitting describes garments that are not tight against the body. They provide comfort and freedom of movement."
+                },
+                {
+                    "id": "V38",
+                    "difficulty": 2,
+                    "arabicHint": "يتفتت / يتهاوى (النسيج)",
+                    "prompt": "The old shirt was disintegrating into pieces after being washed several times.",
+                    "options": [
+                        "falling apart",
+                        "improving",
+                        "shrinking",
+                        "stretching"
+                    ],
+                    "answer": "falling apart",
+                    "explanation": "When material falls apart, it breaks into pieces or separates at the seams. This indicates the fabric is old or poorly made."
+                },
+                {
+                    "id": "V39",
+                    "difficulty": 1,
+                    "arabicHint": "صورة مشوشة (غير واضحة)",
+                    "prompt": "The television screen showed unclear, blurry images instead of a clear picture.",
+                    "options": [
+                        "fuzzy images",
+                        "high definition",
+                        "bright colors",
+                        "sharp focus"
+                    ],
+                    "answer": "fuzzy images",
+                    "explanation": "Fuzzy images are unclear or blurred pictures on a screen. They make it difficult to watch programs properly."
+                },
+                {
+                    "id": "V40",
+                    "difficulty": 2,
+                    "arabicHint": "قانون مورفي (ما يمكن أن يخطئ سيفعل)",
+                    "prompt": "This principle suggests that if something has the potential to fail, it eventually will.",
+                    "options": [
+                        "Murphy's Law",
+                        "Newton's Law",
+                        "Supply and Demand",
+                        "Golden Rule"
+                    ],
+                    "answer": "Murphy's Law",
+                    "explanation": "Murphy's Law is the adage that anything that can go wrong will go wrong. It is often cited when minor disasters occur."
+                },
+                {
+                    "id": "V41",
+                    "difficulty": 3,
+                    "arabicHint": "ذاكرة انتقائية (تتذكر السلبيات فقط)",
+                    "prompt": "Our tendency to recall negative events more easily than positive ones creates a biased view of reality.",
+                    "options": [
+                        "selective memories",
+                        "perfect memories",
+                        "lost memories",
+                        "computer backup"
+                    ],
+                    "answer": "selective memories",
+                    "explanation": "Selective memory means remembering certain things while forgetting others. People often remember complaints more than satisfied moments."
+                },
+                {
+                    "id": "V42",
+                    "difficulty": 2,
+                    "arabicHint": "احتمالية / فرصة حدوث",
+                    "prompt": "Mathematically, the chances of picking the fastest queue at the supermarket are only twenty percent.",
+                    "options": [
+                        "probability",
+                        "certainty",
+                        "impossibility",
+                        "necessity"
+                    ],
+                    "answer": "probability",
+                    "explanation": "Probability is the likelihood of something happening. It explains why we often end up in slow lines by random chance rather than bad luck."
+                },
+                {
+                    "id": "V43",
+                    "difficulty": 1,
+                    "arabicHint": "الجانب المدهون بالزبدة (التوست)",
+                    "prompt": "People once believed toast always lands on the side covered with butter when dropped.",
+                    "options": [
+                        "buttered side",
+                        "dry side",
+                        "crust edge",
+                        "center part"
+                    ],
+                    "answer": "buttered side",
+                    "explanation": "The buttered side refers to the surface of bread spread with butter. Experiments show toast lands on this side only half the time."
+                },
+                {
+                    "id": "V44",
+                    "difficulty": 2,
+                    "arabicHint": "نسخ احتياطي (لحفظ الملفات)",
+                    "prompt": "You should always save copies of important documents in case the computer crashes.",
+                    "options": [
+                        "backup",
+                        "front",
+                        "delete",
+                        "ignore"
+                    ],
+                    "answer": "backup",
+                    "explanation": "A backup is a copy of computer files stored separately. It prevents data loss if the original files are damaged or deleted."
+                },
+                {
+                    "id": "V45",
+                    "difficulty": 1,
+                    "arabicHint": "يتدحرج للأسفل (حركة السقوط)",
+                    "prompt": "Without brakes, the baby carriage will move quickly downward on the incline.",
+                    "options": [
+                        "roll down",
+                        "climb up",
+                        "stop suddenly",
+                        "float away"
+                    ],
+                    "answer": "roll down",
+                    "explanation": "To roll down means to move on wheels from a higher position to a lower one. Objects on slopes naturally roll downward due to gravity."
+                },
+                {
+                    "id": "V46",
+                    "difficulty": 1,
+                    "arabicHint": "خفيف الوزن (نسيج رقيق)",
+                    "prompt": "The salesperson explained that the thin, airy material is currently popular in fashion.",
+                    "options": [
+                        "lightweight",
+                        "heavy",
+                        "thick",
+                        "rough"
+                    ],
+                    "answer": "lightweight",
+                    "explanation": "Lightweight describes fabrics that do not weigh much. Such materials are comfortable in hot weather but may seem flimsy to some customers."
+                },
+                {
+                    "id": "V47",
+                    "difficulty": 1,
+                    "arabicHint": "موضة / اتجاه حديث",
+                    "prompt": "Faded jeans are the latest style that many young people want to wear this season.",
+                    "options": [
+                        "trend",
+                        "rule",
+                        "law",
+                        "warning"
+                    ],
+                    "answer": "trend",
+                    "explanation": "A trend is the latest fashion or popular style at a particular time. What is in trend changes from season to season."
+                },
+                {
+                    "id": "V48",
+                    "difficulty": 2,
+                    "arabicHint": "طابور الدفع (صف السوبرماركت)",
+                    "prompt": "You might feel frustrated if you choose the slowest queue at the grocery store.",
+                    "options": [
+                        "line",
+                        "door",
+                        "window",
+                        "shelf"
+                    ],
+                    "answer": "line",
+                    "explanation": "A line or queue is a row of people waiting to pay. Choosing the wrong one can cause delays when you are in a hurry."
+                },
+                {
+                    "id": "V49",
+                    "difficulty": 2,
+                    "arabicHint": "يلوم / يحمل مسؤولية",
+                    "prompt": "You cannot attribute every problem to bad luck; sometimes you must accept responsibility yourself.",
+                    "options": [
+                        "blame",
+                        "praise",
+                        "ignore",
+                        "celebrate"
+                    ],
+                    "answer": "blame",
+                    "explanation": "To blame means to hold someone responsible for something bad. It is important to recognize our own faults rather than blaming external forces."
+                },
+                {
+                    "id": "V50",
+                    "difficulty": 2,
+                    "arabicHint": "نسيج / قماش الملابس",
+                    "prompt": "The customer was unhappy with the quality of the material used to make the jeans.",
+                    "options": [
+                        "fabric",
+                        "zipper",
+                        "button",
+                        "label"
+                    ],
+                    "answer": "fabric",
+                    "explanation": "Fabric is the cloth material used to make clothing. It can vary in thickness, strength, and quality depending on the type of fiber used."
+                }
+            ]
+        }
+    ]
+}

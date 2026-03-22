@@ -1,0 +1,1182 @@
+{
+    "unit": "Mega Goal 1 - Unit 12",
+    "type": "vocabulary building",
+    "setTitle": "End of Unit Vocabulary",
+    "words": [
+        {
+            "word": "blood pressure",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "force of blood",
+                    "highlight": true
+                },
+                {
+                    "text": " pushing against "
+                },
+                {
+                    "text": "artery walls",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ضغط الدم",
+            "synonyms": [
+                "BP"
+            ],
+            "example": [
+                {
+                    "text": "High "
+                },
+                {
+                    "text": "blood pressure",
+                    "colorize": true
+                },
+                {
+                    "text": " increases risk of heart disease"
+                }
+            ],
+            "tips": "Measured as systolic/diastolic (120/80 is normal). High BP = hypertension. Low BP = hypotension. Check regularly!"
+        },
+        {
+            "word": "pumpkin seed",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "The edible "
+                },
+                {
+                    "text": "seed from inside",
+                    "highlight": true
+                },
+                {
+                    "text": " a "
+                },
+                {
+                    "text": "pumpkin",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "بذور اليقطين",
+            "synonyms": [
+                "pepita"
+            ],
+            "example": [
+                {
+                    "text": "Pumpkin seeds",
+                    "colorize": true
+                },
+                {
+                    "text": " are a healthy snack rich in nutrients"
+                }
+            ],
+            "tips": "Roasted pumpkin seeds = popular snack. High in magnesium, zinc. Also called pepitas when hulled (green)."
+        },
+        {
+            "word": "sports complex",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "facility with multiple",
+                    "highlight": true
+                },
+                {
+                    "text": " areas for "
+                },
+                {
+                    "text": "different sports",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مجمع رياضي",
+            "synonyms": [
+                "sports center",
+                "athletic complex"
+            ],
+            "example": [
+                {
+                    "text": "The new "
+                },
+                {
+                    "text": "sports complex",
+                    "colorize": true
+                },
+                {
+                    "text": " has a pool, gym, and tennis courts"
+                }
+            ],
+            "tips": "Multiple sports facilities in one location. May include gym, pool, courts, fields. Complex = group of buildings."
+        },
+        {
+            "word": "candidate",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A person "
+                },
+                {
+                    "text": "running for office",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "applying for position",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مرشح",
+            "synonyms": [
+                "nominee",
+                "applicant"
+            ],
+            "example": [
+                {
+                    "text": "Three "
+                },
+                {
+                    "text": "candidates",
+                    "colorize": true
+                },
+                {
+                    "text": " are competing in the election"
+                }
+            ],
+            "tips": "Candidacy = state of being a candidate. Presidential candidate, job candidate. Qualified candidate = meets requirements."
+        },
+        {
+            "word": "politician",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A person "
+                },
+                {
+                    "text": "active in politics",
+                    "highlight": true
+                },
+                {
+                    "text": " or holding "
+                },
+                {
+                    "text": "public office",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "سياسي",
+            "synonyms": [
+                "public official",
+                "lawmaker"
+            ],
+            "example": [
+                {
+                    "text": "Local "
+                },
+                {
+                    "text": "politicians",
+                    "colorize": true
+                },
+                {
+                    "text": " discussed the new tax proposal"
+                }
+            ],
+            "tips": "Politics = government affairs. Political = relating to politics. Career politician = professional in politics."
+        },
+        {
+            "word": "tax",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Money "
+                },
+                {
+                    "text": "paid to government",
+                    "highlight": true
+                },
+                {
+                    "text": " on "
+                },
+                {
+                    "text": "income or purchases",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ضريبة",
+            "synonyms": [
+                "levy",
+                "duty"
+            ],
+            "example": [
+                {
+                    "text": "Income "
+                },
+                {
+                    "text": "tax",
+                    "colorize": true
+                },
+                {
+                    "text": " is deducted from my paycheck"
+                }
+            ],
+            "tips": "Taxation = tax system. Taxpayer = person who pays tax. Sales tax, income tax, property tax. Death and taxes!"
+        },
+        {
+            "word": "nuisance",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Something "
+                },
+                {
+                    "text": "annoying or troublesome",
+                    "highlight": true
+                },
+                {
+                    "text": "; a "
+                },
+                {
+                    "text": "bother",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مصدر إزعاج",
+            "synonyms": [
+                "annoyance",
+                "pest",
+                "bother"
+            ],
+            "example": [
+                {
+                    "text": "Telemarketers are a "
+                },
+                {
+                    "text": "nuisance",
+                    "colorize": true
+                },
+                {
+                    "text": " when they call during dinner"
+                }
+            ],
+            "tips": "Make a nuisance of yourself = be annoying. Public nuisance = legal term for disturbing the public."
+        },
+        {
+            "word": "telemarketing",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Selling products by "
+                },
+                {
+                    "text": "phone",
+                    "highlight": true
+                },
+                {
+                    "text": " to "
+                },
+                {
+                    "text": "potential customers",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "التسويق عبر الهاتف",
+            "synonyms": [
+                "phone sales"
+            ],
+            "example": [
+                {
+                    "text": "Telemarketing",
+                    "colorize": true
+                },
+                {
+                    "text": " calls are often blocked by spam filters"
+                }
+            ],
+            "tips": "Telemarketer = person doing phone sales. Often considered annoying. Do-not-call lists block them."
+        },
+        {
+            "word": "power",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The ability to "
+                },
+                {
+                    "text": "control or influence",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "energy or strength",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "قوة / سلطة",
+            "synonyms": [
+                "authority",
+                "control",
+                "energy"
+            ],
+            "example": [
+                {
+                    "text": "The president has the "
+                },
+                {
+                    "text": "power",
+                    "colorize": true
+                },
+                {
+                    "text": " to veto laws"
+                }
+            ],
+            "tips": "Multiple meanings: political power, electric power, physical power. Powerful = having power. Empower = give power to."
+        },
+        {
+            "word": "proof",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Evidence that "
+                },
+                {
+                    "text": "shows something is true",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "genuine",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "دليل / إثبات",
+            "synonyms": [
+                "evidence",
+                "confirmation"
+            ],
+            "example": [
+                {
+                    "text": "Do you have "
+                },
+                {
+                    "text": "proof",
+                    "colorize": true
+                },
+                {
+                    "text": " of purchase?"
+                }
+            ],
+            "tips": "Prove = provide proof. Proof of identity, proof of concept. The proof is in the pudding = results show truth."
+        },
+        {
+            "word": "result",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "outcome or consequence",
+                    "highlight": true
+                },
+                {
+                    "text": " of an "
+                },
+                {
+                    "text": "action or event",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "نتيجة",
+            "synonyms": [
+                "outcome",
+                "consequence",
+                "effect"
+            ],
+            "example": [
+                {
+                    "text": "What was the "
+                },
+                {
+                    "text": "result",
+                    "colorize": true
+                },
+                {
+                    "text": " of the test?"
+                }
+            ],
+            "tips": "As verb: result from = be caused by. Result in = cause. Test results, election results, exam results."
+        },
+        {
+            "word": "bother",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "annoy or disturb",
+                    "highlight": true
+                },
+                {
+                    "text": " someone; to "
+                },
+                {
+                    "text": "make an effort",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يزعج / يتكبد عناء",
+            "synonyms": [
+                "annoy",
+                "disturb",
+                "trouble"
+            ],
+            "example": [
+                {
+                    "text": "Sorry to "
+                },
+                {
+                    "text": "bother",
+                    "colorize": true
+                },
+                {
+                    "text": " you, but could you help me?"
+                }
+            ],
+            "tips": "Don't bother = don't make the effort. Bothersome = annoying. It's no bother = happy to help."
+        },
+        {
+            "word": "complain",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "express dissatisfaction",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "annoyance",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يشتكي",
+            "synonyms": [
+                "protest",
+                "grumble",
+                "object"
+            ],
+            "example": [
+                {
+                    "text": "Customers "
+                },
+                {
+                    "text": "complained",
+                    "colorize": true
+                },
+                {
+                    "text": " about the slow service"
+                }
+            ],
+            "tips": "Complaint = expression of dissatisfaction. Complainer = person who complains often. Complain about/to someone."
+        },
+        {
+            "word": "deteriorate",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "become worse",
+                    "highlight": true
+                },
+                {
+                    "text": " in "
+                },
+                {
+                    "text": "quality or condition",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يتدهور",
+            "synonyms": [
+                "worsen",
+                "decline",
+                "degrade"
+            ],
+            "example": [
+                {
+                    "text": "His health "
+                },
+                {
+                    "text": "deteriorated",
+                    "colorize": true
+                },
+                {
+                    "text": " rapidly after the accident"
+                }
+            ],
+            "tips": "Deterioration = process of worsening. Opposite: improve. Buildings deteriorate, health deteriorates, relationships deteriorate."
+        },
+        {
+            "word": "improve",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "make or become better",
+                    "highlight": true
+                }
+            ],
+            "arabicMeaning": "يحسّن / يتحسّن",
+            "synonyms": [
+                "enhance",
+                "better",
+                "upgrade"
+            ],
+            "example": [
+                {
+                    "text": "Exercise can "
+                },
+                {
+                    "text": "improve",
+                    "colorize": true
+                },
+                {
+                    "text": " your health"
+                }
+            ],
+            "tips": "Improvement = act of improving. Self-improvement = making yourself better. Opposite: deteriorate, worsen."
+        },
+        {
+            "word": "interrupt",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "stop someone",
+                    "highlight": true
+                },
+                {
+                    "text": " while they're "
+                },
+                {
+                    "text": "speaking or doing something",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يقاطع",
+            "synonyms": [
+                "break in",
+                "disturb",
+                "cut off"
+            ],
+            "example": [
+                {
+                    "text": "Please don't "
+                },
+                {
+                    "text": "interrupt",
+                    "colorize": true
+                },
+                {
+                    "text": " me while I'm talking"
+                }
+            ],
+            "tips": "Interruption = act of interrupting. Rude to interrupt! 'Sorry to interrupt' = polite way to break in."
+        },
+        {
+            "word": "knock down",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "strike and make fall",
+                    "highlight": true
+                },
+                {
+                    "text": "; to "
+                },
+                {
+                    "text": "demolish",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يهدم / يسقط",
+            "synonyms": [
+                "demolish",
+                "tear down",
+                "topple"
+            ],
+            "example": [
+                {
+                    "text": "They will "
+                },
+                {
+                    "text": "knock down",
+                    "colorize": true
+                },
+                {
+                    "text": " the old building next week"
+                }
+            ],
+            "tips": "Knock over = make something fall. Knock out = make unconscious. Knock down prices = reduce prices."
+        },
+        {
+            "word": "lower",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "reduce or make less",
+                    "highlight": true
+                },
+                {
+                    "text": " in amount or "
+                },
+                {
+                    "text": "level",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يخفّض",
+            "synonyms": [
+                "reduce",
+                "decrease",
+                "drop"
+            ],
+            "example": [
+                {
+                    "text": "Exercise helps "
+                },
+                {
+                    "text": "lower",
+                    "colorize": true
+                },
+                {
+                    "text": " blood pressure"
+                }
+            ],
+            "tips": "Lower prices, lower volume, lower standards. Opposite: raise, increase. As adjective: lower = below."
+        },
+        {
+            "word": "persuade",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "convince someone",
+                    "highlight": true
+                },
+                {
+                    "text": " to do or "
+                },
+                {
+                    "text": "believe something",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يقنع",
+            "synonyms": [
+                "convince",
+                "influence",
+                "coax"
+            ],
+            "example": [
+                {
+                    "text": "She "
+                },
+                {
+                    "text": "persuaded",
+                    "colorize": true
+                },
+                {
+                    "text": " me to join the gym"
+                }
+            ],
+            "tips": "Persuasion = act of persuading. Persuasive = convincing. Different from 'force' - persuasion uses reasons, not threats."
+        },
+        {
+            "word": "raise",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "lift or move upward",
+                    "highlight": true
+                },
+                {
+                    "text": "; to "
+                },
+                {
+                    "text": "increase",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يرفع / يزيد",
+            "synonyms": [
+                "lift",
+                "elevate",
+                "increase"
+            ],
+            "example": [
+                {
+                    "text": "Raise",
+                    "colorize": true
+                },
+                {
+                    "text": " your hand if you have a question"
+                }
+            ],
+            "tips": "Raise prices = increase. Raise children = bring up. Raise money = collect funds. Opposite: lower."
+        },
+        {
+            "word": "reschedule",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "change the time",
+                    "highlight": true
+                },
+                {
+                    "text": " of a "
+                },
+                {
+                    "text": "planned event",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يعيد جدولة",
+            "synonyms": [
+                "postpone",
+                "change time"
+            ],
+            "example": [
+                {
+                    "text": "We need to "
+                },
+                {
+                    "text": "reschedule",
+                    "colorize": true
+                },
+                {
+                    "text": " the meeting for next week"
+                }
+            ],
+            "tips": "Re- = again. Schedule = timetable. Reschedule appointment, reschedule flight. Common when conflicts arise."
+        },
+        {
+            "word": "scan",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "examine quickly",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "convert to digital",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يمسح / يفحص",
+            "synonyms": [
+                "examine",
+                "digitize",
+                "review"
+            ],
+            "example": [
+                {
+                    "text": "Scan",
+                    "colorize": true
+                },
+                {
+                    "text": " the document and email it to me"
+                }
+            ],
+            "tips": "Two meanings: (1) look quickly, (2) make digital copy. Scanner = device that scans. CT scan, MRI scan = medical imaging."
+        },
+        {
+            "word": "annoyed",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Feeling "
+                },
+                {
+                    "text": "irritated or bothered",
+                    "highlight": true
+                }
+            ],
+            "arabicMeaning": "منزعج / مستاء",
+            "synonyms": [
+                "irritated",
+                "bothered",
+                "vexed"
+            ],
+            "example": [
+                {
+                    "text": "I was "
+                },
+                {
+                    "text": "annoyed",
+                    "colorize": true
+                },
+                {
+                    "text": " by the loud music"
+                }
+            ],
+            "tips": "Annoy = cause annoyance. Annoying = causing irritation. Less strong than angry. Mildly upset."
+        },
+        {
+            "word": "healthy",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "In "
+                },
+                {
+                    "text": "good physical condition",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "promoting health",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "صحي",
+            "synonyms": [
+                "fit",
+                "well",
+                "wholesome"
+            ],
+            "example": [
+                {
+                    "text": "Eating vegetables keeps you "
+                },
+                {
+                    "text": "healthy",
+                    "colorize": true
+                }
+            ],
+            "tips": "Health = state of being healthy. Healthful = promoting health. Healthy diet, healthy lifestyle, healthy habits."
+        },
+        {
+            "word": "powerful",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Having "
+                },
+                {
+                    "text": "great strength or influence",
+                    "highlight": true
+                }
+            ],
+            "arabicMeaning": "قوي",
+            "synonyms": [
+                "strong",
+                "mighty",
+                "influential"
+            ],
+            "example": [
+                {
+                    "text": "The president is a "
+                },
+                {
+                    "text": "powerful",
+                    "colorize": true
+                },
+                {
+                    "text": " political figure"
+                }
+            ],
+            "tips": "From 'power'. Powerfully = with power. Powerful engine, powerful speech, powerful leader."
+        },
+        {
+            "word": "pushy",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Too "
+                },
+                {
+                    "text": "aggressive in demanding",
+                    "highlight": true
+                },
+                {
+                    "text": " something; "
+                },
+                {
+                    "text": "overly forceful",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "فرضي / متطفل",
+            "synonyms": [
+                "aggressive",
+                "forceful",
+                "overbearing"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "pushy",
+                    "colorize": true
+                },
+                {
+                    "text": " salesperson made me uncomfortable"
+                }
+            ],
+            "tips": "Negative word. Push too hard = be pushy. Nobody likes pushy people! Balance persistence with respect."
+        },
+        {
+            "word": "elsewhere",
+            "wordType": "adverb",
+            "definition": [
+                {
+                    "text": "In or to "
+                },
+                {
+                    "text": "another place",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "somewhere else",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "في مكان آخر",
+            "synonyms": [
+                "somewhere else",
+                "in another place"
+            ],
+            "example": [
+                {
+                    "text": "If you can't find it here, look "
+                },
+                {
+                    "text": "elsewhere",
+                    "colorize": true
+                }
+            ],
+            "tips": "Else + where = elsewhere. Similar: nowhere, somewhere, anywhere, everywhere. More formal than 'somewhere else'."
+        },
+        {
+            "word": "hoax",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "deception or trick",
+                    "highlight": true
+                },
+                {
+                    "text": " to make people "
+                },
+                {
+                    "text": "believe something false",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "خدعة / كذبة",
+            "synonyms": [
+                "trick",
+                "fraud",
+                "deception"
+            ],
+            "example": [
+                {
+                    "text": "The bomb threat turned out to be a "
+                },
+                {
+                    "text": "hoax",
+                    "colorize": true
+                }
+            ],
+            "tips": "Often for attention or as prank. Email hoax, news hoax. Not as serious as 'fraud' which is criminal."
+        },
+        {
+            "word": "in the end",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Finally or "
+                },
+                {
+                    "text": "eventually",
+                    "highlight": true
+                },
+                {
+                    "text": "; after "
+                },
+                {
+                    "text": "everything is considered",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "في النهاية",
+            "synonyms": [
+                "finally",
+                "eventually",
+                "ultimately"
+            ],
+            "example": [
+                {
+                    "text": "We had problems, but "
+                },
+                {
+                    "text": "in the end",
+                    "colorize": true
+                },
+                {
+                    "text": " everything worked out"
+                }
+            ],
+            "tips": "Shows final result after process. Similar: at the end (specific time), in the end (conclusion after events)."
+        },
+        {
+            "word": "or anything like that",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Expression meaning "
+                },
+                {
+                    "text": "or similar things",
+                    "highlight": true
+                }
+            ],
+            "arabicMeaning": "أو أي شيء من هذا القبيل",
+            "synonyms": [
+                "or things like that",
+                "or similar"
+            ],
+            "example": [
+                {
+                    "text": "I don't want pizza "
+                },
+                {
+                    "text": "or anything like that",
+                    "colorize": true
+                }
+            ],
+            "tips": "Vague ending to show examples aren't complete list. Informal. Shows open-ended category."
+        },
+        {
+            "word": "really",
+            "wordType": "adverb",
+            "definition": [
+                {
+                    "text": "Truly or "
+                },
+                {
+                    "text": "actually",
+                    "highlight": true
+                },
+                {
+                    "text": "; used for "
+                },
+                {
+                    "text": "emphasis",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حقاً / فعلاً",
+            "synonyms": [
+                "truly",
+                "genuinely",
+                "very"
+            ],
+            "example": [
+                {
+                    "text": "I'm "
+                },
+                {
+                    "text": "really",
+                    "colorize": true
+                },
+                {
+                    "text": " tired today"
+                }
+            ],
+            "tips": "Emphasizes truth or degree. Really? = expressing surprise. Really good, really big, really important."
+        },
+        {
+            "word": "totally",
+            "wordType": "adverb",
+            "definition": [
+                {
+                    "text": "Completely or "
+                },
+                {
+                    "text": "entirely",
+                    "highlight": true
+                }
+            ],
+            "arabicMeaning": "تماماً / كلياً",
+            "synonyms": [
+                "completely",
+                "entirely",
+                "absolutely"
+            ],
+            "example": [
+                {
+                    "text": "I "
+                },
+                {
+                    "text": "totally",
+                    "colorize": true
+                },
+                {
+                    "text": " agree with you"
+                }
+            ],
+            "tips": "Very common in casual speech. Total = complete. Totally different, totally wrong, totally awesome. Strong emphasis!"
+        }
+    ]
+}

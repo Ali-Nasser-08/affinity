@@ -1,0 +1,606 @@
+{
+    "unit": "Mega Goal 1 - Unit 4: The Art of Advertising",
+    "type": "misc",
+    "setTitle": "Miscellaneous",
+    "words": [
+        {
+            "word": "substance",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A particular "
+                },
+                {
+                    "text": "type of material",
+                    "highlight": true
+                },
+                {
+                    "text": " with specific "
+                },
+                {
+                    "text": "properties or characteristics",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مادة",
+            "synonyms": [
+                "material",
+                "matter",
+                "compound"
+            ],
+            "example": [
+                {
+                    "text": "Chemists study different "
+                },
+                {
+                    "text": "substances",
+                    "colorize": true
+                },
+                {
+                    "text": " to understand their properties and uses"
+                }
+            ],
+            "tips": "Chemical substances, toxic substances, natural substances. Different from 'object' - this is the material itself."
+        },
+        {
+            "word": "precious",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Very "
+                },
+                {
+                    "text": "valuable or expensive",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "highly treasured",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ثمين / نفيس",
+            "synonyms": [
+                "valuable",
+                "costly",
+                "priceless"
+            ],
+            "example": [
+                {
+                    "text": "Gold and diamonds are "
+                },
+                {
+                    "text": "precious",
+                    "colorize": true
+                },
+                {
+                    "text": " materials used in fine jewelry"
+                }
+            ],
+            "tips": "Precious metals (gold, silver), precious stones (diamonds, rubies). Can also mean emotionally valuable (precious memories)."
+        },
+        {
+            "word": "tomb",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "burial place",
+                    "highlight": true
+                },
+                {
+                    "text": "; a structure or "
+                },
+                {
+                    "text": "chamber for the dead",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "قبر / مقبرة",
+            "synonyms": [
+                "grave",
+                "burial chamber",
+                "crypt"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "tomb",
+                    "colorize": true
+                },
+                {
+                    "text": " of Tutankhamun was discovered filled with golden treasures"
+                }
+            ],
+            "tips": "Tombs are often elaborate structures (pyramids, mausoleums). A grave is simpler, a tomb is more monumental."
+        },
+        {
+            "word": "odor",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "smell",
+                    "highlight": true
+                },
+                {
+                    "text": ", especially one that is "
+                },
+                {
+                    "text": "distinctive or unpleasant",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "رائحة",
+            "synonyms": [
+                "smell",
+                "scent",
+                "aroma"
+            ],
+            "example": [
+                {
+                    "text": "There was a strange "
+                },
+                {
+                    "text": "odor",
+                    "colorize": true
+                },
+                {
+                    "text": " coming from the refrigerator"
+                }
+            ],
+            "tips": "Usually negative or neutral. Pleasant smells = fragrance, aroma, scent. Unpleasant = odor, stench."
+        },
+        {
+            "word": "scent",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "pleasant smell",
+                    "highlight": true
+                },
+                {
+                    "text": "; a "
+                },
+                {
+                    "text": "distinctive fragrance",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "عطر / رائحة عطرة",
+            "synonyms": [
+                "fragrance",
+                "aroma",
+                "perfume"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "scent",
+                    "colorize": true
+                },
+                {
+                    "text": " of fresh flowers filled the room"
+                }
+            ],
+            "tips": "More positive than 'odor'. Scent of roses, perfume scent. Animals follow scents when tracking."
+        },
+        {
+            "word": "extravagantly",
+            "wordType": "adverb",
+            "definition": [
+                {
+                    "text": "In an "
+                },
+                {
+                    "text": "excessive or wasteful way",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "lavishly and abundantly",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "بإسراف / ببذخ",
+            "synonyms": [
+                "lavishly",
+                "excessively",
+                "wastefully"
+            ],
+            "example": [
+                {
+                    "text": "The palace was decorated "
+                },
+                {
+                    "text": "extravagantly",
+                    "colorize": true
+                },
+                {
+                    "text": " with gold, marble, and crystal chandeliers"
+                }
+            ],
+            "tips": "The adjective is 'extravagant' = spending too much. Extravagance = wastefulness. Usually implies luxury or excess."
+        },
+        {
+            "word": "banquet",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "formal meal",
+                    "highlight": true
+                },
+                {
+                    "text": " for many people, often "
+                },
+                {
+                    "text": "celebrating a special occasion",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "وليمة / مأدبة",
+            "synonyms": [
+                "feast",
+                "dinner party",
+                "reception"
+            ],
+            "example": [
+                {
+                    "text": "The wedding "
+                },
+                {
+                    "text": "banquet",
+                    "colorize": true
+                },
+                {
+                    "text": " was held in a grand ballroom with 300 guests"
+                }
+            ],
+            "tips": "More formal than 'party' or 'dinner'. Medieval banquets, award banquets, wedding banquets."
+        },
+        {
+            "word": "launch",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "introduce or start",
+                    "highlight": true
+                },
+                {
+                    "text": " something new, especially a "
+                },
+                {
+                    "text": "product or project",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يطلق / يبدأ",
+            "synonyms": [
+                "introduce",
+                "release",
+                "debut",
+                "unveil"
+            ],
+            "example": [
+                {
+                    "text": "Apple will "
+                },
+                {
+                    "text": "launch",
+                    "colorize": true
+                },
+                {
+                    "text": " its new smartphone model next month"
+                }
+            ],
+            "tips": "Common in business/advertising: product launch, launch campaign, launch event. Also: launch a rocket into space."
+        },
+        {
+            "word": "effective",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Producing the "
+                },
+                {
+                    "text": "desired result",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "successful in achieving a goal",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "فعّال / مؤثر",
+            "synonyms": [
+                "successful",
+                "efficient",
+                "productive"
+            ],
+            "example": [
+                {
+                    "text": "This medicine is very "
+                },
+                {
+                    "text": "effective",
+                    "colorize": true
+                },
+                {
+                    "text": " at reducing pain and inflammation"
+                }
+            ],
+            "tips": "Effectiveness = ability to produce results. Don't confuse with 'efficient' (doing things quickly/without waste)."
+        },
+        {
+            "word": "lotion",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A thick "
+                },
+                {
+                    "text": "liquid cream",
+                    "highlight": true
+                },
+                {
+                    "text": " applied to "
+                },
+                {
+                    "text": "skin",
+                    "highlight2": true
+                },
+                {
+                    "text": " for moisturizing or protection"
+                }
+            ],
+            "arabicMeaning": "غسول / كريم",
+            "synonyms": [
+                "cream",
+                "moisturizer",
+                "ointment"
+            ],
+            "example": [
+                {
+                    "text": "Apply sunscreen "
+                },
+                {
+                    "text": "lotion",
+                    "colorize": true
+                },
+                {
+                    "text": " before going to the beach to protect your skin"
+                }
+            ],
+            "tips": "Body lotion, hand lotion, sunscreen lotion. Thicker than liquid, thinner than cream."
+        },
+        {
+            "word": "fragrance",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "pleasant smell",
+                    "highlight": true
+                },
+                {
+                    "text": "; a sweet or "
+                },
+                {
+                    "text": "delicate scent",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "عطر / رائحة ذكية",
+            "synonyms": [
+                "scent",
+                "aroma",
+                "perfume"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "fragrance",
+                    "colorize": true
+                },
+                {
+                    "text": " of jasmine flowers filled the garden in the evening"
+                }
+            ],
+            "tips": "Always positive! Fragrance = nice smell. Perfume companies sell 'fragrances'. Fragrant = smelling nice."
+        },
+        {
+            "word": "influence",
+            "wordType": "verb/noun",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "affect or change",
+                    "highlight": true
+                },
+                {
+                    "text": " someone's "
+                },
+                {
+                    "text": "decisions or behavior",
+                    "highlight2": true
+                },
+                {
+                    "text": "; the power to have an effect"
+                }
+            ],
+            "arabicMeaning": "يؤثر / تأثير",
+            "synonyms": [
+                "affect",
+                "impact",
+                "sway",
+                "persuade"
+            ],
+            "example": [
+                {
+                    "text": "Advertising can "
+                },
+                {
+                    "text": "influence",
+                    "colorize": true
+                },
+                {
+                    "text": " consumer buying decisions significantly"
+                }
+            ],
+            "tips": "Influential = having influence. Peer influence, parental influence. Can be positive or negative."
+        },
+        {
+            "word": "device",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "piece of equipment",
+                    "highlight": true
+                },
+                {
+                    "text": " designed for a "
+                },
+                {
+                    "text": "specific purpose",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "جهاز / أداة",
+            "synonyms": [
+                "gadget",
+                "tool",
+                "apparatus",
+                "instrument"
+            ],
+            "example": [
+                {
+                    "text": "Smartphones are electronic "
+                },
+                {
+                    "text": "devices",
+                    "colorize": true
+                },
+                {
+                    "text": " that combine communication, entertainment, and productivity"
+                }
+            ],
+            "tips": "Medical devices, electronic devices, safety devices. More technical than 'thing' or 'tool'."
+        },
+        {
+            "word": "invent",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "create or design",
+                    "highlight": true
+                },
+                {
+                    "text": " something "
+                },
+                {
+                    "text": "new for the first time",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يخترع",
+            "synonyms": [
+                "create",
+                "devise",
+                "originate",
+                "develop"
+            ],
+            "example": [
+                {
+                    "text": "Alexander Graham Bell "
+                },
+                {
+                    "text": "invented",
+                    "colorize": true
+                },
+                {
+                    "text": " the telephone in 1876"
+                }
+            ],
+            "tips": "The noun is 'invention', the person is 'inventor'. Invent = create something completely new."
+        },
+        {
+            "word": "discover",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "find or learn",
+                    "highlight": true
+                },
+                {
+                    "text": " something for the "
+                },
+                {
+                    "text": "first time",
+                    "highlight2": true
+                },
+                {
+                    "text": " that already existed"
+                }
+            ],
+            "arabicMeaning": "يكتشف",
+            "synonyms": [
+                "find",
+                "uncover",
+                "detect",
+                "locate"
+            ],
+            "example": [
+                {
+                    "text": "Marie Curie "
+                },
+                {
+                    "text": "discovered",
+                    "colorize": true
+                },
+                {
+                    "text": " radioactivity through her scientific research"
+                }
+            ],
+            "tips": "Discover vs Invent: You DISCOVER things that exist (gravity, continents). You INVENT new things (lightbulb, airplane)."
+        }
+    ]
+}

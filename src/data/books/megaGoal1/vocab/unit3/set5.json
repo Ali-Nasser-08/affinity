@@ -1,0 +1,283 @@
+{
+    "unit": "Mega Goal 1 - Unit 3: A Vision of the Future",
+    "type": "misc",
+    "setTitle": "Hidden Treasure",
+    "words": [
+        {
+            "word": "treasure",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Very "
+                },
+                {
+                    "text": "valuable objects",
+                    "highlight": true
+                },
+                {
+                    "text": " such as "
+                },
+                {
+                    "text": "gold, jewels, or ancient artifacts",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "كنز",
+            "synonyms": [
+                "valuables",
+                "riches",
+                "wealth"
+            ],
+            "example": [
+                {
+                    "text": "Pirates buried their "
+                },
+                {
+                    "text": "treasure",
+                    "colorize": true
+                },
+                {
+                    "text": " on remote islands to hide it from enemies"
+                }
+            ],
+            "tips": "A treasure hunter = someone who searches for valuable things. 'Treasure' can also be a verb = to value highly."
+        },
+        {
+            "word": "pottery",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Objects made from "
+                },
+                {
+                    "text": "clay",
+                    "highlight": true
+                },
+                {
+                    "text": " and "
+                },
+                {
+                    "text": "hardened by heat",
+                    "highlight2": true
+                },
+                {
+                    "text": ", such as bowls, plates, and vases"
+                }
+            ],
+            "arabicMeaning": "فخار / خزف",
+            "synonyms": [
+                "ceramics",
+                "earthenware",
+                "china"
+            ],
+            "example": [
+                {
+                    "text": "Ancient "
+                },
+                {
+                    "text": "pottery",
+                    "colorize": true
+                },
+                {
+                    "text": " found at archaeological sites helps us understand past civilizations"
+                }
+            ],
+            "tips": "A potter = person who makes pottery. Pottery includes dishes, vases, tiles. Made on a pottery wheel."
+        },
+        {
+            "word": "tentacle",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A long, "
+                },
+                {
+                    "text": "flexible arm",
+                    "highlight": true
+                },
+                {
+                    "text": " of an animal like an "
+                },
+                {
+                    "text": "octopus or squid",
+                    "highlight2": true
+                },
+                {
+                    "text": ", used for grasping"
+                }
+            ],
+            "arabicMeaning": "مجس / ذراع الأخطبوط",
+            "synonyms": [
+                "arm",
+                "appendage"
+            ],
+            "example": [
+                {
+                    "text": "An octopus has eight "
+                },
+                {
+                    "text": "tentacles",
+                    "colorize": true
+                },
+                {
+                    "text": " that it uses to catch prey and move along the ocean floor"
+                }
+            ],
+            "tips": "Octopuses have 8 tentacles, squids have 10. Tentacles have suckers to grip things tightly."
+        },
+        {
+            "word": "shard",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "sharp piece",
+                    "highlight": true
+                },
+                {
+                    "text": " of "
+                },
+                {
+                    "text": "broken glass, pottery, or metal",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "شظية / قطعة محطمة",
+            "synonyms": [
+                "fragment",
+                "piece",
+                "splinter"
+            ],
+            "example": [
+                {
+                    "text": "Archaeologists found "
+                },
+                {
+                    "text": "shards",
+                    "colorize": true
+                },
+                {
+                    "text": " of ancient pottery scattered across the excavation site"
+                }
+            ],
+            "tips": "Shards are broken pieces with sharp edges. Glass shards, pottery shards. Be careful - they can cut you!"
+        },
+        {
+            "word": "shipwreck",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "destruction of a ship",
+                    "highlight": true
+                },
+                {
+                    "text": " at sea; also the "
+                },
+                {
+                    "text": "remains of a destroyed ship",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حطام سفينة",
+            "synonyms": [
+                "wreck",
+                "sunken ship"
+            ],
+            "example": [
+                {
+                    "text": "Divers explored the "
+                },
+                {
+                    "text": "shipwreck",
+                    "colorize": true
+                },
+                {
+                    "text": " at the bottom of the ocean looking for historical artifacts"
+                }
+            ],
+            "tips": "Ships wreck due to storms, rocks, icebergs, or battles. Famous shipwreck: the Titanic. Can be a verb too."
+        },
+        {
+            "word": "underwater",
+            "wordType": "adjective/adverb",
+            "definition": [
+                {
+                    "text": "Located or happening "
+                },
+                {
+                    "text": "beneath the surface",
+                    "highlight": true
+                },
+                {
+                    "text": " of "
+                },
+                {
+                    "text": "water",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "تحت الماء",
+            "synonyms": [
+                "submerged",
+                "subsurface"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "underwater",
+                    "colorize": true
+                },
+                {
+                    "text": " camera captured amazing footage of coral reefs and tropical fish"
+                }
+            ],
+            "tips": "Underwater exploration, underwater photography, underwater cave. Scuba divers work underwater."
+        },
+        {
+            "word": "urgent",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Requiring "
+                },
+                {
+                    "text": "immediate action",
+                    "highlight": true
+                },
+                {
+                    "text": " or attention; "
+                },
+                {
+                    "text": "very important and pressing",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "عاجل / طارئ",
+            "synonyms": [
+                "pressing",
+                "critical",
+                "immediate"
+            ],
+            "example": [
+                {
+                    "text": "The doctor received an "
+                },
+                {
+                    "text": "urgent",
+                    "colorize": true
+                },
+                {
+                    "text": " call about a patient who needed emergency surgery"
+                }
+            ],
+            "tips": "Urgency = need for speed. Urgent message, urgent matter, urgent care. More serious than 'important'."
+        }
+    ]
+}

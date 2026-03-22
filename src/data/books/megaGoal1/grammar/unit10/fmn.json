@@ -1,0 +1,1401 @@
+{
+    "unit": "Mega Goal 1",
+    "lesson": "Unit 10",
+    "type": "Form, Meaning, and Function",
+    "clusters": [
+        {
+            "clusterId": "cluster-1",
+            "title": "Independent Clauses with Coordinating Conjunctions",
+            "cards": [
+                {
+                    "id": "card-1",
+                    "content": [
+                        {
+                            "text": "Independent Clauses",
+                            "highlight": true
+                        },
+                        {
+                            "text": " with Conjunctions"
+                        },
+                        {
+                            "text": "الجمل المستقلة مع أدوات الربط"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-2",
+                    "content": [
+                        {
+                            "text": "An independent clause "
+                        },
+                        {
+                            "text": "stands alone as a complete sentence",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "الجملة المستقلة "
+                        },
+                        {
+                            "text": "تقف وحدها كجملة كاملة",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-3",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "The storm damaged the building"
+                        },
+                        {
+                            "text": "العاصفة ألحقت الضرر بالمبنى"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-4",
+                    "content": [
+                        {
+                            "text": "Join two independent clauses with: "
+                        },
+                        {
+                            "text": "and, but, or, so, yet",
+                            "colorize": true
+                        },
+                        {
+                            "text": "اربط جملتين مستقلتين بـ: "
+                        },
+                        {
+                            "text": "and, but, or, so, yet",
+                            "colorize": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-5",
+                    "content": [
+                        {
+                            "text": "Important:",
+                            "highlight": true
+                        },
+                        {
+                            "text": " Place a "
+                        },
+                        {
+                            "text": "comma before the conjunction",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " when joining clauses"
+                        },
+                        {
+                            "text": "مهم: ضع "
+                        },
+                        {
+                            "text": "فاصلة قبل أداة الربط",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " عند ربط الجمل"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-6",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "The power went out"
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "so",
+                            "colorize": true
+                        },
+                        {
+                            "text": " we used candles"
+                        },
+                        {
+                            "text": "انقطعت الكهرباء"
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "لذلك",
+                            "colorize": true
+                        },
+                        {
+                            "text": " استخدمنا الشموع"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-7",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "It was raining heavily"
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "yet",
+                            "colorize": true
+                        },
+                        {
+                            "text": " they decided to go out"
+                        },
+                        {
+                            "text": "كانت تمطر بغزارة"
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "ومع ذلك",
+                            "colorize": true
+                        },
+                        {
+                            "text": " قرروا الخروج"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-8",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "She studied hard"
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "and",
+                            "colorize": true
+                        },
+                        {
+                            "text": " she passed the exam"
+                        },
+                        {
+                            "text": "درست بجد"
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "و",
+                            "colorize": true
+                        },
+                        {
+                            "text": "نجحت في الاختبار"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-2",
+            "title": "Past Events with Time Clauses",
+            "cards": [
+                {
+                    "id": "card-9",
+                    "content": [
+                        {
+                            "text": "Time Clauses",
+                            "highlight": true
+                        },
+                        {
+                            "text": " in the Past"
+                        },
+                        {
+                            "text": "جمل الزمن في الماضي"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-10",
+                    "content": [
+                        {
+                            "text": "Time words: "
+                        },
+                        {
+                            "text": "when",
+                            "colorize": true
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "as soon as",
+                            "colorize2": true
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "before",
+                            "colorize": true
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "after",
+                            "colorize2": true
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "while",
+                            "colorize": true
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "until",
+                            "colorize2": true
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "since",
+                            "colorize": true
+                        },
+                        {
+                            "text": "كلمات الزمن: "
+                        },
+                        {
+                            "text": "عندما",
+                            "colorize": true
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "بمجرد",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "قبل",
+                            "colorize": true
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "بعد",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "بينما",
+                            "colorize": true
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "حتى",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "منذ",
+                            "colorize": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-11",
+                    "content": [
+                        {
+                            "text": "When the time clause comes first, use a "
+                        },
+                        {
+                            "text": "comma",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " after it"
+                        },
+                        {
+                            "text": "عندما تأتي جملة الزمن أولاً، استخدم "
+                        },
+                        {
+                            "text": "فاصلة",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " بعدها"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-12",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "When",
+                            "colorize": true
+                        },
+                        {
+                            "text": " she arrived home"
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "she found a package"
+                        },
+                        {
+                            "text": "عندما",
+                            "colorize": true
+                        },
+                        {
+                            "text": " وصلت إلى المنزل، وجدت طرداً"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-13",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "After",
+                            "colorize": true
+                        },
+                        {
+                            "text": " we finished dinner"
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "we watched a movie"
+                        },
+                        {
+                            "text": "بعد",
+                            "colorize": true
+                        },
+                        {
+                            "text": " أن أنهينا العشاء، شاهدنا فيلماً"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-14",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "As soon as",
+                            "colorize": true
+                        },
+                        {
+                            "text": " he heard the news"
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "he called his family"
+                        },
+                        {
+                            "text": "بمجرد",
+                            "colorize": true
+                        },
+                        {
+                            "text": " أن سمع الخبر، اتصل بعائلته"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-15",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "While",
+                            "colorize": true
+                        },
+                        {
+                            "text": " I was reading"
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "my phone rang"
+                        },
+                        {
+                            "text": "بينما",
+                            "colorize": true
+                        },
+                        {
+                            "text": " كنت أقرأ، رن هاتفي"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-3",
+            "title": "Intensifiers with Adjectives",
+            "cards": [
+                {
+                    "id": "card-16",
+                    "content": [
+                        {
+                            "text": "Expressing Enthusiasm",
+                            "highlight": true
+                        },
+                        {
+                            "text": " with Intensifiers"
+                        },
+                        {
+                            "text": "التعبير عن الحماس بالمكثفات"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-17",
+                    "content": [
+                        {
+                            "text": "Gradable Adjectives",
+                            "highlight": true
+                        },
+                        {
+                            "text": " (can be more/less)"
+                        },
+                        {
+                            "text": "صفات قابلة للتدرج (يمكن أن تكون أكثر/أقل)"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-18",
+                    "content": [
+                        {
+                            "text": "Use: "
+                        },
+                        {
+                            "text": "very, really, quite",
+                            "colorize": true
+                        },
+                        {
+                            "text": " + gradable adjectives (big, small, interesting, good)"
+                        },
+                        {
+                            "text": "استخدم: "
+                        },
+                        {
+                            "text": "very, really, quite",
+                            "colorize": true
+                        },
+                        {
+                            "text": " + صفات قابلة للتدرج"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-19",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "The movie was "
+                        },
+                        {
+                            "text": "very",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "interesting",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "الفيلم كان "
+                        },
+                        {
+                            "text": "مثيراً للاهتمام",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "جداً",
+                            "colorize": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-20",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "This room is "
+                        },
+                        {
+                            "text": "quite",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "small",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " (= a little small)"
+                        },
+                        {
+                            "text": "هذه الغرفة "
+                        },
+                        {
+                            "text": "صغيرة",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "نوعاً ما",
+                            "colorize": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-21",
+                    "content": [
+                        {
+                            "text": "Non-Gradable Adjectives",
+                            "highlight": true
+                        },
+                        {
+                            "text": " (extreme meanings)"
+                        },
+                        {
+                            "text": "صفات غير قابلة للتدرج (معانٍ قصوى)"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-22",
+                    "content": [
+                        {
+                            "text": "Use: "
+                        },
+                        {
+                            "text": "absolutely, really, quite",
+                            "colorize": true
+                        },
+                        {
+                            "text": " + non-gradable adjectives (amazing, terrifying, fascinating, massive)"
+                        },
+                        {
+                            "text": "استخدم: "
+                        },
+                        {
+                            "text": "absolutely, really, quite",
+                            "colorize": true
+                        },
+                        {
+                            "text": " + صفات غير قابلة للتدرج"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-23",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "The concert was "
+                        },
+                        {
+                            "text": "absolutely",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "amazing",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "الحفل الموسيقي كان "
+                        },
+                        {
+                            "text": "مذهلاً",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "تماماً",
+                            "colorize": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-24",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "That building is "
+                        },
+                        {
+                            "text": "quite",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "massive",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " (= completely massive)"
+                        },
+                        {
+                            "text": "ذلك المبنى "
+                        },
+                        {
+                            "text": "ضخم",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "تماماً",
+                            "colorize": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-25",
+                    "content": [
+                        {
+                            "text": "Note:",
+                            "highlight": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "Really",
+                            "colorize": true
+                        },
+                        {
+                            "text": " works with both types (means 'a lot')"
+                        },
+                        {
+                            "text": "ملاحظة: "
+                        },
+                        {
+                            "text": "Really",
+                            "colorize": true
+                        },
+                        {
+                            "text": " تعمل مع كلا النوعين (تعني 'كثيراً')"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-4",
+            "title": "Conditional Sentences - Present Facts",
+            "cards": [
+                {
+                    "id": "card-26",
+                    "content": [
+                        {
+                            "text": "Conditionals",
+                            "highlight": true
+                        },
+                        {
+                            "text": " - Present Facts"
+                        },
+                        {
+                            "text": "الشرطية - الحقائق الحاضرة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-27",
+                    "content": [
+                        {
+                            "text": "For "
+                        },
+                        {
+                            "text": "real causes and results",
+                            "colorize2": true
+                        },
+                        {
+                            "text": ", use if (or when)"
+                        },
+                        {
+                            "text": "لـ"
+                        },
+                        {
+                            "text": "الأسباب والنتائج الحقيقية",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "، استخدم if (أو when)"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-28",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "If/When + ",
+                            "badge": true,
+                            "translation": "إذا/عندما"
+                        },
+                        {
+                            "text": "simple present",
+                            "badge2": true,
+                            "translation": "حاضر بسيط"
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "simple present",
+                            "badge3": true,
+                            "translation": "حاضر بسيط"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-29",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "If",
+                            "colorize": true
+                        },
+                        {
+                            "text": " you "
+                        },
+                        {
+                            "text": "heat",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " water to 100°C, it "
+                        },
+                        {
+                            "text": "boils",
+                            "colorize3": true
+                        },
+                        {
+                            "text": "إذا",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "سخنت",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " الماء إلى 100 درجة، "
+                        },
+                        {
+                            "text": "يغلي",
+                            "colorize3": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-30",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "When",
+                            "colorize": true
+                        },
+                        {
+                            "text": " it "
+                        },
+                        {
+                            "text": "rains",
+                            "colorize2": true
+                        },
+                        {
+                            "text": ", the streets "
+                        },
+                        {
+                            "text": "get",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " wet"
+                        },
+                        {
+                            "text": "عندما",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "تمطر",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "تبتل",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " الشوارع"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-5",
+            "title": "Conditional Sentences - Future Facts",
+            "cards": [
+                {
+                    "id": "card-31",
+                    "content": [
+                        {
+                            "text": "Conditionals",
+                            "highlight": true
+                        },
+                        {
+                            "text": " - Future Facts"
+                        },
+                        {
+                            "text": "الشرطية - الحقائق المستقبلية"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-32",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "If + ",
+                            "badge": true,
+                            "translation": "إذا"
+                        },
+                        {
+                            "text": "simple present",
+                            "badge2": true,
+                            "translation": "حاضر بسيط"
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "will + base verb",
+                            "badge3": true,
+                            "translation": "سوف + فعل مجرد"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-33",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "If",
+                            "colorize": true
+                        },
+                        {
+                            "text": " you "
+                        },
+                        {
+                            "text": "study",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " hard, you "
+                        },
+                        {
+                            "text": "will pass",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " the exam"
+                        },
+                        {
+                            "text": "إذا",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "درست",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " بجد، "
+                        },
+                        {
+                            "text": "ستنجح",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " في الاختبار"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-34",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "If",
+                            "colorize": true
+                        },
+                        {
+                            "text": " she "
+                        },
+                        {
+                            "text": "doesn't hurry",
+                            "colorize2": true
+                        },
+                        {
+                            "text": ", she "
+                        },
+                        {
+                            "text": "will miss",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " the bus"
+                        },
+                        {
+                            "text": "إذا",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "لم تسرع",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "ستفوت",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " الحافلة"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-6",
+            "title": "Conditionals with May/Might",
+            "cards": [
+                {
+                    "id": "card-35",
+                    "content": [
+                        {
+                            "text": "Conditionals with ",
+                            "highlight": true
+                        },
+                        {
+                            "text": "May/Might",
+                            "highlight": true
+                        },
+                        {
+                            "text": "الشرطية مع May/Might"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-36",
+                    "content": [
+                        {
+                            "text": "Use "
+                        },
+                        {
+                            "text": "may/might",
+                            "colorize": true
+                        },
+                        {
+                            "text": " in the result to show "
+                        },
+                        {
+                            "text": "possibility, not certainty",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "استخدم "
+                        },
+                        {
+                            "text": "may/might",
+                            "colorize": true
+                        },
+                        {
+                            "text": " في النتيجة لإظهار "
+                        },
+                        {
+                            "text": "احتمالية، وليس تأكيداً",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-37",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "If + simple present, ",
+                            "badge": true
+                        },
+                        {
+                            "text": "may/might",
+                            "badge2": true,
+                            "translation": "ربما"
+                        },
+                        {
+                            "text": " + base verb",
+                            "badge3": true,
+                            "translation": "فعل مجرد"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-38",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "If",
+                            "colorize": true
+                        },
+                        {
+                            "text": " it "
+                        },
+                        {
+                            "text": "rains",
+                            "colorize2": true
+                        },
+                        {
+                            "text": ", we "
+                        },
+                        {
+                            "text": "might",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "cancel",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " the picnic"
+                        },
+                        {
+                            "text": "إذا",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "أمطرت",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "ربما",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "نلغي",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " النزهة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-39",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "If",
+                            "colorize": true
+                        },
+                        {
+                            "text": " you "
+                        },
+                        {
+                            "text": "call",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " now, she "
+                        },
+                        {
+                            "text": "may",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "answer",
+                            "colorize3": true
+                        },
+                        {
+                            "text": "إذا",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "اتصلت",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " الآن، "
+                        },
+                        {
+                            "text": "قد",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "تجيب",
+                            "colorize3": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-7",
+            "title": "Expressing Necessity and Lack of Necessity",
+            "cards": [
+                {
+                    "id": "card-40",
+                    "content": [
+                        {
+                            "text": "Necessity and Lack of Necessity",
+                            "highlight": true
+                        },
+                        {
+                            "text": "الضرورة وعدم الضرورة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-41",
+                    "content": [
+                        {
+                            "text": "Need to / Have to",
+                            "colorize": true
+                        },
+                        {
+                            "text": " = "
+                        },
+                        {
+                            "text": "necessary",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "Need to / Have to",
+                            "colorize": true
+                        },
+                        {
+                            "text": " = "
+                        },
+                        {
+                            "text": "ضروري",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-42",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "You "
+                        },
+                        {
+                            "text": "need to",
+                            "colorize": true
+                        },
+                        {
+                            "text": " bring your ID card"
+                        },
+                        {
+                            "text": "تحتاج ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "أن",
+                            "colorize": true
+                        },
+                        {
+                            "text": " تحضر بطاقة هويتك"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-43",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "We "
+                        },
+                        {
+                            "text": "have to",
+                            "colorize": true
+                        },
+                        {
+                            "text": " submit the report by Friday"
+                        },
+                        {
+                            "text": "يجب ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "علينا",
+                            "colorize": true
+                        },
+                        {
+                            "text": " تقديم التقرير يوم الجمعة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-44",
+                    "content": [
+                        {
+                            "text": "Don't need to / Needn't",
+                            "colorize": true
+                        },
+                        {
+                            "text": " = "
+                        },
+                        {
+                            "text": "not necessary",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "Don't need to / Needn't",
+                            "colorize": true
+                        },
+                        {
+                            "text": " = "
+                        },
+                        {
+                            "text": "غير ضروري",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-45",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "You "
+                        },
+                        {
+                            "text": "don't need to",
+                            "colorize": true
+                        },
+                        {
+                            "text": " dress formally"
+                        },
+                        {
+                            "text": "لا تحتاج ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "أن",
+                            "colorize": true
+                        },
+                        {
+                            "text": " ترتدي ملابس رسمية"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-46",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "You "
+                        },
+                        {
+                            "text": "needn't",
+                            "colorize": true
+                        },
+                        {
+                            "text": " worry about it"
+                        },
+                        {
+                            "text": "لا داعي ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "للقلق بشأن ذلك"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

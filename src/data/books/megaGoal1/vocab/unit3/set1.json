@@ -1,0 +1,746 @@
+{
+    "unit": "Mega Goal 1 - Unit 3: A Vision of the Future",
+    "type": "misc",
+    "setTitle": "A Vision of The Future",
+    "words": [
+        {
+            "word": "vision",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "An "
+                },
+                {
+                    "text": "imaginative idea",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "mental image",
+                    "highlight2": true
+                },
+                {
+                    "text": " of what the future could be; the ability to think about or plan the future with wisdom"
+                }
+            ],
+            "arabicMeaning": "رؤية / تصور",
+            "synonyms": [
+                "foresight",
+                "imagination",
+                "perspective",
+                "conception"
+            ],
+            "example": [
+                {
+                    "text": "The company's "
+                },
+                {
+                    "text": "vision",
+                    "colorize": true
+                },
+                {
+                    "text": " is to create a world where clean energy is accessible to everyone"
+                }
+            ],
+            "tips": "A person with vision can see possibilities others can't. Different from 'eyesight' - this is about future thinking."
+        },
+        {
+            "word": "visionary",
+            "wordType": "noun/adjective",
+            "definition": [
+                {
+                    "text": "A person who has "
+                },
+                {
+                    "text": "creative ideas",
+                    "highlight": true
+                },
+                {
+                    "text": " about what the "
+                },
+                {
+                    "text": "future will or should be like",
+                    "highlight2": true
+                },
+                {
+                    "text": "; thinking about the future with imagination"
+                }
+            ],
+            "arabicMeaning": "صاحب رؤية / بصيرة",
+            "synonyms": [
+                "forward-thinker",
+                "innovator",
+                "pioneer"
+            ],
+            "example": [
+                {
+                    "text": "Steve Jobs was a "
+                },
+                {
+                    "text": "visionary",
+                    "colorize": true
+                },
+                {
+                    "text": " who imagined how technology could change people's lives"
+                }
+            ],
+            "tips": "Visionaries predict or create the future. Famous visionaries: Jules Verne, Elon Musk, Leonardo da Vinci."
+        },
+        {
+            "word": "novel",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A long "
+                },
+                {
+                    "text": "fictional story",
+                    "highlight": true
+                },
+                {
+                    "text": " published as a "
+                },
+                {
+                    "text": "book",
+                    "highlight2": true
+                },
+                {
+                    "text": "; a work of narrative fiction"
+                }
+            ],
+            "arabicMeaning": "رواية",
+            "synonyms": [
+                "book",
+                "story",
+                "fiction work"
+            ],
+            "example": [
+                {
+                    "text": "She spent three years writing her first "
+                },
+                {
+                    "text": "novel",
+                    "colorize": true
+                },
+                {
+                    "text": " about a detective solving mysterious crimes"
+                }
+            ],
+            "tips": "A novel (noun) is a book. 'Novel' (adjective) means new/original. The person who writes novels = novelist."
+        },
+        {
+            "word": "rocket",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "spacecraft or vehicle",
+                    "highlight": true
+                },
+                {
+                    "text": " that is "
+                },
+                {
+                    "text": "propelled by burning fuel",
+                    "highlight2": true
+                },
+                {
+                    "text": " to travel into space or the sky"
+                }
+            ],
+            "arabicMeaning": "صاروخ",
+            "synonyms": [
+                "spacecraft",
+                "missile",
+                "space shuttle"
+            ],
+            "example": [
+                {
+                    "text": "NASA launched a "
+                },
+                {
+                    "text": "rocket",
+                    "colorize": true
+                },
+                {
+                    "text": " carrying supplies to the International Space Station"
+                }
+            ],
+            "tips": "Rockets can carry satellites, astronauts, or spacecraft into space. They work by burning fuel to create thrust."
+        },
+        {
+            "word": "submarine",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A vessel that can "
+                },
+                {
+                    "text": "operate underwater",
+                    "highlight": true
+                },
+                {
+                    "text": "; a ship designed to "
+                },
+                {
+                    "text": "travel beneath the ocean surface",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "غواصة",
+            "synonyms": [
+                "underwater vessel",
+                "sub"
+            ],
+            "example": [
+                {
+                    "text": "The navy "
+                },
+                {
+                    "text": "submarine",
+                    "colorize": true
+                },
+                {
+                    "text": " can stay underwater for months without surfacing"
+                }
+            ],
+            "tips": "'Sub' means under, 'marine' means sea. Submarines are used for military, research, and exploration purposes."
+        },
+        {
+            "word": "skyscraper",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A very "
+                },
+                {
+                    "text": "tall building",
+                    "highlight": true
+                },
+                {
+                    "text": " with "
+                },
+                {
+                    "text": "many floors",
+                    "highlight2": true
+                },
+                {
+                    "text": ", typically found in cities"
+                }
+            ],
+            "arabicMeaning": "ناطحة سحاب",
+            "synonyms": [
+                "high-rise",
+                "tower"
+            ],
+            "example": [
+                {
+                    "text": "The Burj Khalifa in Dubai is the world's tallest "
+                },
+                {
+                    "text": "skyscraper",
+                    "colorize": true
+                },
+                {
+                    "text": " at over 800 meters high"
+                }
+            ],
+            "tips": "Name comes from 'scraping the sky' = so tall it seems to touch the sky. Usually 40+ floors."
+        },
+        {
+            "word": "invention",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "new device, method, or process",
+                    "highlight": true
+                },
+                {
+                    "text": " created through "
+                },
+                {
+                    "text": "study and experimentation",
+                    "highlight2": true
+                },
+                {
+                    "text": "; something created for the first time"
+                }
+            ],
+            "arabicMeaning": "اختراع",
+            "synonyms": [
+                "innovation",
+                "creation",
+                "discovery"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "invention",
+                    "colorize": true
+                },
+                {
+                    "text": " of the internet changed how people communicate and access information"
+                }
+            ],
+            "tips": "The verb is 'invent' = to create something new. The person = 'inventor'. Great inventions: wheel, printing press, electricity."
+        },
+        {
+            "word": "prediction",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A statement about "
+                },
+                {
+                    "text": "what will happen",
+                    "highlight": true
+                },
+                {
+                    "text": " in the "
+                },
+                {
+                    "text": "future",
+                    "highlight2": true
+                },
+                {
+                    "text": "; a forecast based on knowledge or evidence"
+                }
+            ],
+            "arabicMeaning": "تنبؤ / توقع",
+            "synonyms": [
+                "forecast",
+                "projection",
+                "prophecy"
+            ],
+            "example": [
+                {
+                    "text": "The scientist's "
+                },
+                {
+                    "text": "prediction",
+                    "colorize": true
+                },
+                {
+                    "text": " that global temperatures would rise has proven accurate"
+                }
+            ],
+            "tips": "The verb is 'predict' = to say what will happen. Based on evidence, not just guessing. Can be right or wrong!"
+        },
+        {
+            "word": "catch on",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To become "
+                },
+                {
+                    "text": "popular or widely accepted",
+                    "highlight": true
+                },
+                {
+                    "text": "; to "
+                },
+                {
+                    "text": "gain success",
+                    "highlight2": true
+                },
+                {
+                    "text": " with the public"
+                }
+            ],
+            "arabicMeaning": "ينتشر / يلقى رواجاً",
+            "synonyms": [
+                "become popular",
+                "take off",
+                "gain acceptance"
+            ],
+            "example": [
+                {
+                    "text": "Electric cars are starting to "
+                },
+                {
+                    "text": "catch on",
+                    "colorize": true
+                },
+                {
+                    "text": " as more people become concerned about the environment"
+                }
+            ],
+            "tips": "Often used for trends, fashions, or new ideas. 'Catch on' can also mean 'understand' (He finally caught on to the joke)."
+        },
+        {
+            "word": "appliance",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "device or machine",
+                    "highlight": true
+                },
+                {
+                    "text": " designed for a "
+                },
+                {
+                    "text": "specific household task",
+                    "highlight2": true
+                },
+                {
+                    "text": ", especially in the kitchen"
+                }
+            ],
+            "arabicMeaning": "جهاز منزلي",
+            "synonyms": [
+                "device",
+                "machine",
+                "equipment"
+            ],
+            "example": [
+                {
+                    "text": "Modern kitchen "
+                },
+                {
+                    "text": "appliances",
+                    "colorize": true
+                },
+                {
+                    "text": " like dishwashers and microwaves save time on household chores"
+                }
+            ],
+            "tips": "Common appliances: refrigerator, washing machine, oven, microwave, toaster, blender. Usually electrical."
+        },
+        {
+            "word": "adventure",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "An "
+                },
+                {
+                    "text": "exciting or unusual experience",
+                    "highlight": true
+                },
+                {
+                    "text": ", often involving "
+                },
+                {
+                    "text": "risk or danger",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مغامرة",
+            "synonyms": [
+                "journey",
+                "expedition",
+                "quest"
+            ],
+            "example": [
+                {
+                    "text": "Their "
+                },
+                {
+                    "text": "adventure",
+                    "colorize": true
+                },
+                {
+                    "text": " through the Amazon rainforest lasted three weeks"
+                }
+            ],
+            "tips": "Adventure novels = exciting stories about dangerous journeys. The adjective is 'adventurous' = willing to take risks."
+        },
+        {
+            "word": "dive",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "plunge headfirst",
+                    "highlight": true
+                },
+                {
+                    "text": " into water; to "
+                },
+                {
+                    "text": "go underwater",
+                    "highlight2": true
+                },
+                {
+                    "text": " using breathing equipment"
+                }
+            ],
+            "arabicMeaning": "يغوص",
+            "synonyms": [
+                "plunge",
+                "submerge",
+                "descend"
+            ],
+            "example": [
+                {
+                    "text": "The scientists "
+                },
+                {
+                    "text": "dove",
+                    "colorize": true
+                },
+                {
+                    "text": " to explore the coral reef and study marine life"
+                }
+            ],
+            "tips": "Past tense: dove (American) or dived (British). A person who dives = diver. Scuba diving = underwater diving."
+        },
+        {
+            "word": "depths",
+            "wordType": "noun (plural)",
+            "definition": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "deepest or lowest parts",
+                    "highlight": true
+                },
+                {
+                    "text": " of something, especially the "
+                },
+                {
+                    "text": "ocean or sea",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "الأعماق",
+            "synonyms": [
+                "deep parts",
+                "bottom",
+                "abyss"
+            ],
+            "example": [
+                {
+                    "text": "Strange creatures live in the "
+                },
+                {
+                    "text": "depths",
+                    "colorize": true
+                },
+                {
+                    "text": " of the ocean where sunlight never reaches"
+                }
+            ],
+            "tips": "Singular: depth = how deep something is. Plural: depths = the deep areas. 'In the depths of winter' = the coldest part."
+        },
+        {
+            "word": "global",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Relating to the "
+                },
+                {
+                    "text": "entire world",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "worldwide",
+                    "highlight2": true
+                },
+                {
+                    "text": " in scope or application"
+                }
+            ],
+            "arabicMeaning": "عالمي",
+            "synonyms": [
+                "worldwide",
+                "international",
+                "universal"
+            ],
+            "example": [
+                {
+                    "text": "The internet created a "
+                },
+                {
+                    "text": "global",
+                    "colorize": true
+                },
+                {
+                    "text": " network connecting people from every country"
+                }
+            ],
+            "tips": "From 'globe' = the Earth. Global communication, global economy, global warming all refer to worldwide phenomena."
+        },
+        {
+            "word": "exist",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "be real",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "have actual being",
+                    "highlight2": true
+                },
+                {
+                    "text": "; to be present in the world"
+                }
+            ],
+            "arabicMeaning": "يوجد / يتواجد",
+            "synonyms": [
+                "be",
+                "occur",
+                "be present"
+            ],
+            "example": [
+                {
+                    "text": "Dinosaurs "
+                },
+                {
+                    "text": "existed",
+                    "colorize": true
+                },
+                {
+                    "text": " millions of years ago but are now extinct"
+                }
+            ],
+            "tips": "The noun is 'existence' = the state of being real. 'Non-existent' = doesn't exist at all."
+        },
+        {
+            "word": "reality",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The state of "
+                },
+                {
+                    "text": "things as they actually are",
+                    "highlight": true
+                },
+                {
+                    "text": ", not as they are "
+                },
+                {
+                    "text": "imagined or desired",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "الواقع / الحقيقة",
+            "synonyms": [
+                "actuality",
+                "truth",
+                "fact"
+            ],
+            "example": [
+                {
+                    "text": "Science fiction stories often become "
+                },
+                {
+                    "text": "reality",
+                    "colorize": true
+                },
+                {
+                    "text": " as technology advances"
+                }
+            ],
+            "tips": "The adjective is 'real' = actually existing. Virtual reality vs. actual reality. Dreams vs. reality."
+        },
+        {
+            "word": "seriously doubt",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "strongly believe something will not happen",
+                    "highlight": true
+                },
+                {
+                    "text": " or is "
+                },
+                {
+                    "text": "not true",
+                    "highlight2": true
+                },
+                {
+                    "text": "; to have major skepticism"
+                }
+            ],
+            "arabicMeaning": "يشك بشدة / يستبعد تماماً",
+            "synonyms": [
+                "strongly disbelieve",
+                "highly question"
+            ],
+            "example": [
+                {
+                    "text": "I "
+                },
+                {
+                    "text": "seriously doubt",
+                    "colorize": true
+                },
+                {
+                    "text": " that flying cars will be common within the next ten years"
+                }
+            ],
+            "tips": "'Seriously' adds emphasis = very much. This phrase expresses strong disbelief or skepticism."
+        },
+        {
+            "word": "groceries",
+            "wordType": "noun (plural)",
+            "definition": [
+                {
+                    "text": "Food and "
+                },
+                {
+                    "text": "household items",
+                    "highlight": true
+                },
+                {
+                    "text": " sold in a "
+                },
+                {
+                    "text": "supermarket or store",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "بقالة / مواد غذائية",
+            "synonyms": [
+                "food items",
+                "provisions",
+                "supplies"
+            ],
+            "example": [
+                {
+                    "text": "I need to buy "
+                },
+                {
+                    "text": "groceries",
+                    "colorize": true
+                },
+                {
+                    "text": " for the week including milk, bread, and vegetables"
+                }
+            ],
+            "tips": "A grocery store = supermarket. 'Do the groceries' or 'buy groceries' = shop for food. Usually plural!"
+        }
+    ]
+}

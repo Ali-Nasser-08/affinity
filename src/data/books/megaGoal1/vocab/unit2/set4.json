@@ -1,0 +1,297 @@
+{
+    "unit": "",
+    "type": "misc",
+    "setTitle": "Resume and Cover Letters",
+    "words": [
+        {
+            "word": "resume (résumé)",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A formal "
+                },
+                {
+                    "text": "document summarizing",
+                    "highlight": true
+                },
+                {
+                    "text": " your "
+                },
+                {
+                    "text": "education, work experience, and skills",
+                    "highlight2": true
+                },
+                {
+                    "text": " when applying for a job"
+                }
+            ],
+            "arabicMeaning": "السيرة الذاتية",
+            "synonyms": [
+                "CV (curriculum vitae)",
+                "biographical summary"
+            ],
+            "example": [
+                {
+                    "text": "Before the interview, she updated her "
+                },
+                {
+                    "text": "resume",
+                    "colorize": true
+                },
+                {
+                    "text": " to include her most recent job experience"
+                }
+            ],
+            "tips": "American English: 'resume' or 'résumé'. British English: 'CV'. Keep it to 1-2 pages and highlight relevant experience."
+        },
+        {
+            "word": "cover letter",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A letter sent with a resume that "
+                },
+                {
+                    "text": "introduces yourself",
+                    "highlight": true
+                },
+                {
+                    "text": " and "
+                },
+                {
+                    "text": "explains why you're qualified",
+                    "highlight2": true
+                },
+                {
+                    "text": " for the position"
+                }
+            ],
+            "arabicMeaning": "خطاب التقديم",
+            "synonyms": [
+                "application letter",
+                "letter of introduction"
+            ],
+            "example": [
+                {
+                    "text": "In my "
+                },
+                {
+                    "text": "cover letter",
+                    "colorize": true
+                },
+                {
+                    "text": ", I explained how my skills match the job requirements"
+                }
+            ],
+            "tips": "A cover letter personalizes your application. It should be specific to each job, not generic."
+        },
+        {
+            "word": "apply for",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "formally request",
+                    "highlight": true
+                },
+                {
+                    "text": " consideration for a "
+                },
+                {
+                    "text": "job, position, or program",
+                    "highlight2": true
+                },
+                {
+                    "text": " by submitting required documents"
+                }
+            ],
+            "arabicMeaning": "يتقدم لـ / يقدم طلباً لـ",
+            "synonyms": [
+                "request",
+                "submit an application for"
+            ],
+            "example": [
+                {
+                    "text": "I decided to "
+                },
+                {
+                    "text": "apply for",
+                    "colorize": true
+                },
+                {
+                    "text": " three different positions at the company"
+                }
+            ],
+            "tips": "Remember the preposition 'for' - you apply FOR a job, not 'to' a job."
+        },
+        {
+            "word": "enclose",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "include or attach",
+                    "highlight": true
+                },
+                {
+                    "text": " documents "
+                },
+                {
+                    "text": "along with a letter",
+                    "highlight2": true
+                },
+                {
+                    "text": " or package"
+                }
+            ],
+            "arabicMeaning": "يرفق / يضمّن",
+            "synonyms": [
+                "attach",
+                "include",
+                "append"
+            ],
+            "example": [
+                {
+                    "text": "Please "
+                },
+                {
+                    "text": "enclose",
+                    "colorize": true
+                },
+                {
+                    "text": " copies of your certificates with your application"
+                }
+            ],
+            "tips": "Formal business term. In emails, use 'attach'. The noun is 'enclosure' = attached document."
+        },
+        {
+            "word": "certification",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "An "
+                },
+                {
+                    "text": "official document",
+                    "highlight": true
+                },
+                {
+                    "text": " proving you have "
+                },
+                {
+                    "text": "completed training or met requirements",
+                    "highlight2": true
+                },
+                {
+                    "text": " for a skill or qualification"
+                }
+            ],
+            "arabicMeaning": "شهادة / إجازة",
+            "synonyms": [
+                "certificate",
+                "credential",
+                "qualification"
+            ],
+            "example": [
+                {
+                    "text": "He earned a teaching "
+                },
+                {
+                    "text": "certification",
+                    "colorize": true
+                },
+                {
+                    "text": " after completing the required courses"
+                }
+            ],
+            "tips": "Professional certifications prove competency in specific areas (IT certification, teaching certification, etc.)."
+        },
+        {
+            "word": "reference",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A person who can "
+                },
+                {
+                    "text": "confirm your qualifications",
+                    "highlight": true
+                },
+                {
+                    "text": " and "
+                },
+                {
+                    "text": "vouch for your character",
+                    "highlight2": true
+                },
+                {
+                    "text": " to potential employers"
+                }
+            ],
+            "arabicMeaning": "مرجع / توصية",
+            "synonyms": [
+                "recommendation",
+                "testimonial"
+            ],
+            "example": [
+                {
+                    "text": "I asked my former supervisor to serve as a professional "
+                },
+                {
+                    "text": "reference",
+                    "colorize": true
+                },
+                {
+                    "text": " for my job applications"
+                }
+            ],
+            "tips": "Choose references who know your work well. Always ask permission before listing someone as a reference!"
+        },
+        {
+            "word": "strive for",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "make great effort",
+                    "highlight": true
+                },
+                {
+                    "text": " to "
+                },
+                {
+                    "text": "achieve or obtain",
+                    "highlight2": true
+                },
+                {
+                    "text": " something; to work hard toward a goal"
+                }
+            ],
+            "arabicMeaning": "يسعى جاهداً لـ / يكافح من أجل",
+            "synonyms": [
+                "work toward",
+                "aim for",
+                "pursue"
+            ],
+            "example": [
+                {
+                    "text": "Our team "
+                },
+                {
+                    "text": "strives for",
+                    "colorize": true
+                },
+                {
+                    "text": " excellence in every project we undertake"
+                }
+            ],
+            "tips": "More formal than 'try for'. Shows determination and continuous effort, not just a single attempt."
+        }
+    ]
+}

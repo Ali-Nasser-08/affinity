@@ -1,0 +1,729 @@
+{
+    "unit": "Mega Goal 1 - Unit 5: Did You Hurt Yourself?",
+    "type": "misc",
+    "setTitle": "Injuries and Accidents",
+    "words": [
+        {
+            "word": "hurt yourself",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "cause injury or pain",
+                    "highlight": true
+                },
+                {
+                    "text": " to "
+                },
+                {
+                    "text": "your own body",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "تؤذي نفسك / تجرح نفسك",
+            "synonyms": [
+                "injure yourself",
+                "harm yourself"
+            ],
+            "example": [
+                {
+                    "text": "Be careful with that knife or you might "
+                },
+                {
+                    "text": "hurt yourself",
+                    "colorize": true
+                }
+            ],
+            "tips": "Reflexive verb - the action happens to yourself. Did you hurt yourself? / I hurt myself / He hurt himself."
+        },
+        {
+            "word": "helmet",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "protective covering",
+                    "highlight": true
+                },
+                {
+                    "text": " worn on the "
+                },
+                {
+                    "text": "head",
+                    "highlight2": true
+                },
+                {
+                    "text": " for safety"
+                }
+            ],
+            "arabicMeaning": "خوذة",
+            "synonyms": [
+                "hard hat",
+                "protective headgear"
+            ],
+            "example": [
+                {
+                    "text": "Always wear a "
+                },
+                {
+                    "text": "helmet",
+                    "colorize": true
+                },
+                {
+                    "text": " when riding a motorcycle or bicycle"
+                }
+            ],
+            "tips": "Helmets protect your head from injury. Bike helmet, motorcycle helmet, construction helmet, football helmet."
+        },
+        {
+            "word": "knee pads",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "Protective "
+                },
+                {
+                    "text": "cushions worn over the knees",
+                    "highlight": true
+                },
+                {
+                    "text": " to "
+                },
+                {
+                    "text": "prevent injury",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "واقي الركبة",
+            "synonyms": [
+                "knee guards",
+                "knee protectors"
+            ],
+            "example": [
+                {
+                    "text": "Skaters should wear "
+                },
+                {
+                    "text": "knee pads",
+                    "colorize": true
+                },
+                {
+                    "text": " along with helmets and elbow pads"
+                }
+            ],
+            "tips": "Part of protective gear for sports. Also: elbow pads, wrist guards. Prevent scrapes and fractures."
+        },
+        {
+            "word": "injure",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "cause physical harm or damage",
+                    "highlight": true
+                },
+                {
+                    "text": " to the "
+                },
+                {
+                    "text": "body",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يصيب / يؤذي",
+            "synonyms": [
+                "hurt",
+                "harm",
+                "wound"
+            ],
+            "example": [
+                {
+                    "text": "Three people were "
+                },
+                {
+                    "text": "injured",
+                    "colorize": true
+                },
+                {
+                    "text": " in the car accident and taken to the hospital"
+                }
+            ],
+            "tips": "More formal than 'hurt'. The noun is 'injury' = damage to the body. Injured = hurt (adjective)."
+        },
+        {
+            "word": "seat belt",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "safety strap",
+                    "highlight": true
+                },
+                {
+                    "text": " that holds you "
+                },
+                {
+                    "text": "securely in a vehicle seat",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حزام الأمان",
+            "synonyms": [
+                "safety belt",
+                "seatbelt"
+            ],
+            "example": [
+                {
+                    "text": "Always wear your "
+                },
+                {
+                    "text": "seat belt",
+                    "colorize": true
+                },
+                {
+                    "text": " in the car - it can save your life in a crash"
+                }
+            ],
+            "tips": "Required by law in most countries. Prevents you from hitting the windshield or being thrown from the car."
+        },
+        {
+            "word": "shock",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A sudden "
+                },
+                {
+                    "text": "electric current",
+                    "highlight": true
+                },
+                {
+                    "text": " passing through the body; also "
+                },
+                {
+                    "text": "emotional surprise",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "صدمة كهربائية / صدمة",
+            "synonyms": [
+                "electric shock",
+                "jolt"
+            ],
+            "example": [
+                {
+                    "text": "I got an electric "
+                },
+                {
+                    "text": "shock",
+                    "colorize": true
+                },
+                {
+                    "text": " when I touched the exposed wire"
+                }
+            ],
+            "tips": "Electric shock = dangerous! Can be mild (tingle) or severe (fatal). Always turn off electricity before repairs."
+        },
+        {
+            "word": "cut yourself",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "make a wound",
+                    "highlight": true
+                },
+                {
+                    "text": " on your body with something "
+                },
+                {
+                    "text": "sharp",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "تجرح نفسك",
+            "synonyms": [
+                "slice yourself",
+                "wound yourself"
+            ],
+            "example": [
+                {
+                    "text": "I "
+                },
+                {
+                    "text": "cut myself",
+                    "colorize": true
+                },
+                {
+                    "text": " while chopping vegetables and needed a bandage"
+                }
+            ],
+            "tips": "Cuts happen with knives, glass, sharp edges. Reflexive: cut myself, cut yourself, cut himself."
+        },
+        {
+            "word": "prevent",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "stop something from happening",
+                    "highlight": true
+                },
+                {
+                    "text": "; to "
+                },
+                {
+                    "text": "avoid or block",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يمنع / يحول دون",
+            "synonyms": [
+                "stop",
+                "avoid",
+                "avert",
+                "forestall"
+            ],
+            "example": [
+                {
+                    "text": "Wearing protective gear can "
+                },
+                {
+                    "text": "prevent",
+                    "colorize": true
+                },
+                {
+                    "text": " many sports injuries"
+                }
+            ],
+            "tips": "Prevention = stopping something before it happens. Preventable injuries = could have been avoided. Very important in safety!"
+        },
+        {
+            "word": "crash",
+            "wordType": "noun/verb",
+            "definition": [
+                {
+                    "text": "A violent "
+                },
+                {
+                    "text": "collision or accident",
+                    "highlight": true
+                },
+                {
+                    "text": " involving "
+                },
+                {
+                    "text": "vehicles",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حادث تصادم",
+            "synonyms": [
+                "collision",
+                "accident",
+                "wreck"
+            ],
+            "example": [
+                {
+                    "text": "The car "
+                },
+                {
+                    "text": "crash",
+                    "colorize": true
+                },
+                {
+                    "text": " was caused by the driver texting while driving"
+                }
+            ],
+            "tips": "Car crash, plane crash, train crash. As verb: to crash = to collide violently. More dramatic than 'accident'."
+        },
+        {
+            "word": "distracted",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Unable to "
+                },
+                {
+                    "text": "concentrate or focus",
+                    "highlight": true
+                },
+                {
+                    "text": " because your "
+                },
+                {
+                    "text": "attention is elsewhere",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مشتت / غير منتبه",
+            "synonyms": [
+                "inattentive",
+                "unfocused",
+                "diverted"
+            ],
+            "example": [
+                {
+                    "text": "Distracted",
+                    "colorize": true
+                },
+                {
+                    "text": " driving caused by phones is a major cause of accidents"
+                }
+            ],
+            "tips": "The verb is 'distract' = to take someone's attention away. Distraction = thing that takes your focus."
+        },
+        {
+            "word": "fatigue",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Extreme "
+                },
+                {
+                    "text": "tiredness or exhaustion",
+                    "highlight": true
+                },
+                {
+                    "text": " from "
+                },
+                {
+                    "text": "physical or mental effort",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "إرهاق / إعياء",
+            "synonyms": [
+                "exhaustion",
+                "tiredness",
+                "weariness"
+            ],
+            "example": [
+                {
+                    "text": "Driver "
+                },
+                {
+                    "text": "fatigue",
+                    "colorize": true
+                },
+                {
+                    "text": " is dangerous - drowsy drivers can fall asleep at the wheel"
+                }
+            ],
+            "tips": "More serious than 'tired'. Fatigued = extremely exhausted. Common causes: lack of sleep, long work hours."
+        },
+        {
+            "word": "drowsy",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Sleepy and "
+                },
+                {
+                    "text": "half asleep",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "lacking alertness",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "نعسان / خامل",
+            "synonyms": [
+                "sleepy",
+                "tired",
+                "groggy"
+            ],
+            "example": [
+                {
+                    "text": "Feeling "
+                },
+                {
+                    "text": "drowsy",
+                    "colorize": true
+                },
+                {
+                    "text": " while driving? Pull over and rest immediately"
+                }
+            ],
+            "tips": "Drowsiness = state of being drowsy. Warning signs: yawning, heavy eyelids, drifting lanes. Very dangerous when driving!"
+        },
+        {
+            "word": "misjudge",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "form an incorrect opinion",
+                    "highlight": true
+                },
+                {
+                    "text": " about; to "
+                },
+                {
+                    "text": "estimate wrongly",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يسيء التقدير",
+            "synonyms": [
+                "miscalculate",
+                "estimate incorrectly"
+            ],
+            "example": [
+                {
+                    "text": "The driver "
+                },
+                {
+                    "text": "misjudged",
+                    "colorize": true
+                },
+                {
+                    "text": " the distance and crashed into the car ahead"
+                }
+            ],
+            "tips": "Mis- = wrongly. Misjudge distance, misjudge speed, misjudge a person. Common when tired or distracted."
+        },
+        {
+            "word": "speeding",
+            "wordType": "noun/verb",
+            "definition": [
+                {
+                    "text": "Driving "
+                },
+                {
+                    "text": "faster than the legal limit",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "too fast for conditions",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "تجاوز السرعة",
+            "synonyms": [
+                "driving too fast",
+                "exceeding speed limit"
+            ],
+            "example": [
+                {
+                    "text": "Speeding",
+                    "colorize": true
+                },
+                {
+                    "text": " is one of the leading causes of fatal car accidents"
+                }
+            ],
+            "tips": "Speed limit = legal maximum speed. Speeding ticket = fine for going too fast. Increases crash risk and severity."
+        },
+        {
+            "word": "aggressive",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Acting in a "
+                },
+                {
+                    "text": "forceful, hostile way",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "angry and dangerous",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "عدواني",
+            "synonyms": [
+                "hostile",
+                "violent",
+                "combative"
+            ],
+            "example": [
+                {
+                    "text": "Aggressive",
+                    "colorize": true
+                },
+                {
+                    "text": " drivers who tailgate and honk constantly create dangerous situations"
+                }
+            ],
+            "tips": "Aggression = hostile behavior. Aggressive driving: tailgating, weaving, road rage, ignoring traffic laws."
+        },
+        {
+            "word": "tailgate",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To drive "
+                },
+                {
+                    "text": "too close",
+                    "highlight": true
+                },
+                {
+                    "text": " to the "
+                },
+                {
+                    "text": "vehicle in front",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يقود بشكل لصيق للسيارة الأمامية",
+            "synonyms": [
+                "follow too closely",
+                "ride someone's bumper"
+            ],
+            "example": [
+                {
+                    "text": "Don't "
+                },
+                {
+                    "text": "tailgate",
+                    "colorize": true
+                },
+                {
+                    "text": " - leave enough space to stop safely"
+                }
+            ],
+            "tips": "Very dangerous! If front car brakes suddenly, you'll crash. Keep 2-3 second following distance minimum."
+        },
+        {
+            "word": "verbal abuse",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "Using "
+                },
+                {
+                    "text": "words to insult, threaten, or hurt",
+                    "highlight": true
+                },
+                {
+                    "text": " someone; "
+                },
+                {
+                    "text": "aggressive language",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "إساءة لفظية / شتائم",
+            "synonyms": [
+                "insults",
+                "offensive language",
+                "cursing"
+            ],
+            "example": [
+                {
+                    "text": "Road rage can include "
+                },
+                {
+                    "text": "verbal abuse",
+                    "colorize": true
+                },
+                {
+                    "text": " like yelling and cursing at other drivers"
+                }
+            ],
+            "tips": "Abuse = mistreatment. Verbal abuse = harmful words. Physical abuse = harmful actions. Both are wrong!"
+        },
+        {
+            "word": "fog",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Thick "
+                },
+                {
+                    "text": "cloud of water droplets",
+                    "highlight": true
+                },
+                {
+                    "text": " near the ground that "
+                },
+                {
+                    "text": "reduces visibility",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ضباب",
+            "synonyms": [
+                "mist",
+                "haze"
+            ],
+            "example": [
+                {
+                    "text": "Dense "
+                },
+                {
+                    "text": "fog",
+                    "colorize": true
+                },
+                {
+                    "text": " made it difficult to see more than a few feet ahead"
+                }
+            ],
+            "tips": "Foggy = filled with fog. Very dangerous for driving - slow down and use fog lights. Heavy fog can make roads invisible."
+        },
+        {
+            "word": "pull off",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "move a vehicle",
+                    "highlight": true
+                },
+                {
+                    "text": " to the "
+                },
+                {
+                    "text": "side of the road and stop",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يتوقف على جانب الطريق",
+            "synonyms": [
+                "pull over",
+                "stop at the roadside"
+            ],
+            "example": [
+                {
+                    "text": "When the weather got too bad, we decided to "
+                },
+                {
+                    "text": "pull off",
+                    "colorize": true
+                },
+                {
+                    "text": " the highway and wait"
+                }
+            ],
+            "tips": "Similar to 'pull over'. Used when conditions are dangerous (bad weather, fatigue, emergency). Safety first!"
+        }
+    ]
+}

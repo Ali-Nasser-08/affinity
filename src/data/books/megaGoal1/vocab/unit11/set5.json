@@ -1,0 +1,478 @@
+{
+    "unit": "Mega Goal 1 - Unit 11: Life's Regrets",
+    "type": "reading",
+    "setTitle": "Reading: Friendship Is More Important",
+    "words": [
+        {
+            "word": "falling out",
+            "wordType": "phrasal verb phrase",
+            "definition": [
+                {
+                    "text": "Having a serious disagreement or argument that damages a "
+                },
+                {
+                    "text": "relationship",
+                    "highlight": true
+                },
+                {
+                    "text": " and causes people to stop being "
+                },
+                {
+                    "text": "close friends",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "خلاف / قطيعة",
+            "synonyms": [
+                "quarrel",
+                "rift",
+                "breakdown in friendship"
+            ],
+            "example": [
+                {
+                    "text": "The two sisters had a major "
+                },
+                {
+                    "text": "falling out",
+                    "colorize": true
+                },
+                {
+                    "text": " over their parents' inheritance and didn't speak for five years"
+                }
+            ],
+            "tips": "Always used with 'with' someone: 'falling out with my roommate'. Not the same as a minor argument—implies serious relationship damage."
+        },
+        {
+            "word": "unfair",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Not treating people equally or justly; showing "
+                },
+                {
+                    "text": "bias or favoritism",
+                    "highlight": true
+                },
+                {
+                    "text": " that gives one person an "
+                },
+                {
+                    "text": "unjust advantage",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "غير عادل",
+            "synonyms": [
+                "unjust",
+                "biased",
+                "inequitable"
+            ],
+            "example": [
+                {
+                    "text": "It feels "
+                },
+                {
+                    "text": "unfair",
+                    "colorize": true
+                },
+                {
+                    "text": " that she gets three days off while I only get one for the same amount of work"
+                }
+            ],
+            "tips": "Opposite: fair. Often used with 'it's unfair that...' or 'unfair to someone'. Not the same as 'unequal' (different amounts) vs. 'unfair' (morally wrong difference)."
+        },
+        {
+            "word": "sacrifices",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Things you give up or endure for the sake of something "
+                },
+                {
+                    "text": "more important",
+                    "highlight": true
+                },
+                {
+                    "text": "; acts of "
+                },
+                {
+                    "text": "giving up personal comfort or desires",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "تَضْحيات",
+            "synonyms": [
+                "compromises",
+                "giving up",
+                "personal costs"
+            ],
+            "example": [
+                {
+                    "text": "Becoming a doctor requires many "
+                },
+                {
+                    "text": "sacrifices",
+                    "colorize": true
+                },
+                {
+                    "text": " — years of low income during training, missed family events, and long hours"
+                }
+            ],
+            "tips": "Often plural when referring to multiple things given up. Verb form: sacrifice (to give up something valuable). Not the same as 'compromise' (mutual adjustment)."
+        },
+        {
+            "word": "on good terms",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Having a friendly, positive relationship with someone; being "
+                },
+                {
+                    "text": "on friendly footing",
+                    "highlight": true
+                },
+                {
+                    "text": " without "
+                },
+                {
+                    "text": "ongoing conflict",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "على وفاق / في علاقات جيدة",
+            "synonyms": [
+                "on friendly terms",
+                "getting along well",
+                "in harmony"
+            ],
+            "example": [
+                {
+                    "text": "Even though they divorced five years ago, they remain "
+                },
+                {
+                    "text": "on good terms",
+                    "colorize": true
+                },
+                {
+                    "text": " for the sake of their children"
+                }
+            ],
+            "tips": "Opposite: on bad terms, not speaking. Always used with 'with': 'on good terms with my former boss'. Implies mutual respect despite past difficulties."
+        },
+        {
+            "word": "grateful",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Feeling or showing deep appreciation for kindness, help, or gifts received; "
+                },
+                {
+                    "text": "thankful",
+                    "highlight": true
+                },
+                {
+                    "text": " in a sincere and "
+                },
+                {
+                    "text": "heartfelt way",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مُمْتَنّ",
+            "synonyms": [
+                "thankful",
+                "appreciative",
+                "indebted"
+            ],
+            "example": [
+                {
+                    "text": "I'm truly "
+                },
+                {
+                    "text": "grateful",
+                    "colorize": true
+                },
+                {
+                    "text": " to my mentor for spending hours reviewing my application essays before the deadline"
+                }
+            ],
+            "tips": "Stronger than 'thankful'—implies emotional depth. Common patterns: 'grateful for' (something) / 'grateful to' (someone). NOT 'grateful about' (incorrect)."
+        },
+        {
+            "word": "damage",
+            "wordType": "verb/noun",
+            "definition": [
+                {
+                    "text": "To harm or impair the quality, value, or function of something; to cause "
+                },
+                {
+                    "text": "physical harm",
+                    "highlight": true
+                },
+                {
+                    "text": " that reduces "
+                },
+                {
+                    "text": "usefulness or appearance",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُتلف / يُعطّل",
+            "synonyms": [
+                "harm",
+                "ruin",
+                "impair"
+            ],
+            "example": [
+                {
+                    "text": "Leaving your phone in the rain can seriously "
+                },
+                {
+                    "text": "damage",
+                    "colorize": true
+                },
+                {
+                    "text": " the internal circuits beyond repair"
+                }
+            ],
+            "tips": "Can be noun ('water damage') or verb ('damage the reputation'). Not the same as 'destroy' (complete ruin) vs. 'damage' (partial harm that might be fixable)."
+        },
+        {
+            "word": "put into perspective",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To consider something in relation to other things to understand its "
+                },
+                {
+                    "text": "true importance",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "scale",
+                    "highlight2": true
+                },
+                {
+                    "text": " — often realizing it's less significant than it seemed"
+                }
+            ],
+            "arabicMeaning": "يضع شيئًا في منظوره الصحيح",
+            "synonyms": [
+                "see in context",
+                "gain perspective on",
+                "view realistically"
+            ],
+            "example": [
+                {
+                    "text": "After visiting the children's hospital, my minor headache really "
+                },
+                {
+                    "text": "put my problems into perspective",
+                    "colorize": true
+                },
+                {
+                    "text": ""
+                }
+            ],
+            "tips": "Often used when realizing something isn't as important as you thought. Related expression: 'keep things in perspective' (maintain realistic view during stress)."
+        },
+        {
+            "word": "valuable",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Having great worth, importance, or usefulness; something that provides "
+                },
+                {
+                    "text": "significant benefit",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "advantage",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "قيّم / ذا قيمة",
+            "synonyms": [
+                "precious",
+                "invaluable",
+                "highly useful"
+            ],
+            "example": [
+                {
+                    "text": "Her feedback was extremely "
+                },
+                {
+                    "text": "valuable",
+                    "colorize": true
+                },
+                {
+                    "text": " — it helped me completely redesign my presentation before the big meeting"
+                }
+            ],
+            "tips": "Can describe objects (valuable jewelry) or abstract things (valuable advice, valuable time). Not the same as 'expensive' (high price) vs. 'valuable' (high worth—may not cost money)."
+        },
+        {
+            "word": "surely",
+            "wordType": "adverb",
+            "definition": [
+                {
+                    "text": "Used to express confidence or certainty about something; indicating that something is "
+                },
+                {
+                    "text": "very likely",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "should obviously be true",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "بالتأكيد / قطعًا",
+            "synonyms": [
+                "certainly",
+                "definitely",
+                "without doubt"
+            ],
+            "example": [
+                {
+                    "text": "\"You studied for three weeks for this exam?\" \""
+                },
+                {
+                    "text": "Surely",
+                    "colorize": true
+                },
+                {
+                    "text": " you'll pass with a high score!\""
+                }
+            ],
+            "tips": "Shows the speaker's strong belief. Often used to gently challenge someone ('Surely you don't believe that rumor?') or express logical expectation."
+        },
+        {
+            "word": "works out",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To develop or end in a satisfactory way; to reach a "
+                },
+                {
+                    "text": "positive resolution",
+                    "highlight": true
+                },
+                {
+                    "text": " after difficulties or "
+                },
+                {
+                    "text": "uncertainty",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ينجح / يُحَلّ بشكل جيد",
+            "synonyms": [
+                "turns out well",
+                "resolves positively",
+                "ends favorably"
+            ],
+            "example": [
+                {
+                    "text": "I was nervous about the job interview, but everything "
+                },
+                {
+                    "text": "worked out",
+                    "colorize": true
+                },
+                {
+                    "text": " perfectly—I got the position and a higher salary than expected"
+                }
+            ],
+            "tips": "Often used with 'hope' or 'wish': 'I hope it all works out.' Not the same as 'figure out' (solve a problem) or 'sort out' (organize/resolve actively)."
+        },
+        {
+            "word": "wedding",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A formal ceremony and celebration where two people are "
+                },
+                {
+                    "text": "married",
+                    "highlight": true
+                },
+                {
+                    "text": "; often involves special clothing, guests, and "
+                },
+                {
+                    "text": "cultural traditions",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حفل زفاف",
+            "synonyms": [
+                "marriage ceremony",
+                "nuptials",
+                "matrimony celebration"
+            ],
+            "example": [
+                {
+                    "text": "The outdoor "
+                },
+                {
+                    "text": "wedding",
+                    "colorize": true
+                },
+                {
+                    "text": " had to move inside suddenly when dark clouds gathered and rain began to fall"
+                }
+            ],
+            "tips": "Different from 'marriage' (the legal/social relationship) vs. 'wedding' (the ceremony/event). Common collocations: attend a wedding, wedding dress, wedding reception."
+        },
+        {
+            "word": "perspective",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A particular way of viewing or understanding something; your "
+                },
+                {
+                    "text": "mental viewpoint",
+                    "highlight": true
+                },
+                {
+                    "text": " shaped by experiences, beliefs, or "
+                },
+                {
+                    "text": "circumstances",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "منظور / وجهة نظر",
+            "synonyms": [
+                "point of view",
+                "viewpoint",
+                "outlook"
+            ],
+            "example": [
+                {
+                    "text": "Living abroad for a year completely changed her "
+                },
+                {
+                    "text": "perspective",
+                    "colorize": true
+                },
+                {
+                    "text": " on cultural differences and what truly matters in life"
+                }
+            ],
+            "tips": "Often used in expressions: 'from my perspective', 'gain a new perspective', 'put in perspective'. Not the same as 'prospective' (adjective meaning 'potential future')."
+        }
+    ]
+}

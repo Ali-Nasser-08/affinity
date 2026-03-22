@@ -1,0 +1,1284 @@
+{
+    "unit": "Mega Goal 1",
+    "lesson": "Unit 12",
+    "clusters": [
+        {
+            "clusterId": "cluster-1",
+            "title": "Reported Speech - Overview",
+            "cards": [
+                {
+                    "id": "card-1",
+                    "content": [
+                        {
+                            "text": "Reported Speech",
+                            "highlight": true
+                        },
+                        {
+                            "text": "الكلام المنقول"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-2",
+                    "content": [
+                        {
+                            "text": "When reporting what someone said, the "
+                        },
+                        {
+                            "text": "verb tense usually shifts back",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "عند نقل ما قاله شخص ما، "
+                        },
+                        {
+                            "text": "زمن الفعل عادة يتحول للخلف",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-3",
+                    "content": [
+                        {
+                            "text": "Note:",
+                            "highlight": true
+                        },
+                        {
+                            "text": " The word "
+                        },
+                        {
+                            "text": "that",
+                            "colorize": true
+                        },
+                        {
+                            "text": " after 'said' is optional and can be dropped"
+                        },
+                        {
+                            "text": "ملاحظة: كلمة "
+                        },
+                        {
+                            "text": "that",
+                            "colorize": true
+                        },
+                        {
+                            "text": " بعد 'said' اختيارية ويمكن حذفها"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-2",
+            "title": "Simple Present → Simple Past",
+            "cards": [
+                {
+                    "id": "card-4",
+                    "content": [
+                        {
+                            "text": "Simple Present",
+                            "highlight": true
+                        },
+                        {
+                            "text": " → ",
+                            "highlight": true
+                        },
+                        {
+                            "text": "Simple Past",
+                            "highlight": true
+                        },
+                        {
+                            "text": "الحاضر البسيط → الماضي البسيط"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-5",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Direct: \"I "
+                        },
+                        {
+                            "text": "work",
+                            "colorize": true
+                        },
+                        {
+                            "text": " at a hospital\""
+                        },
+                        {
+                            "text": "مباشر: \"أعمل في مستشفى\""
+                        }
+                    ]
+                },
+                {
+                    "id": "card-6",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Reported: She said she "
+                        },
+                        {
+                            "text": "worked",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " at a hospital"
+                        },
+                        {
+                            "text": "منقول: قالت إنها "
+                        },
+                        {
+                            "text": "كانت تعمل",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " في مستشفى"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-7",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Direct: \"I "
+                        },
+                        {
+                            "text": "don't eat",
+                            "colorize": true
+                        },
+                        {
+                            "text": " meat\""
+                        },
+                        {
+                            "text": "مباشر: \"لا آكل اللحم\""
+                        }
+                    ]
+                },
+                {
+                    "id": "card-8",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Reported: He said he "
+                        },
+                        {
+                            "text": "didn't eat",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " meat"
+                        },
+                        {
+                            "text": "منقول: قال إنه "
+                        },
+                        {
+                            "text": "لا يأكل",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " اللحم"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-3",
+            "title": "Present Progressive → Past Progressive",
+            "cards": [
+                {
+                    "id": "card-9",
+                    "content": [
+                        {
+                            "text": "Present Progressive",
+                            "highlight": true
+                        },
+                        {
+                            "text": " → ",
+                            "highlight": true
+                        },
+                        {
+                            "text": "Past Progressive",
+                            "highlight": true
+                        },
+                        {
+                            "text": "الحاضر المستمر → الماضي المستمر"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-10",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Direct: \"I"
+                        },
+                        {
+                            "text": "'m studying",
+                            "colorize": true
+                        },
+                        {
+                            "text": " math\""
+                        },
+                        {
+                            "text": "مباشر: \"أدرس الرياضيات\""
+                        }
+                    ]
+                },
+                {
+                    "id": "card-11",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Reported: She said she "
+                        },
+                        {
+                            "text": "was studying",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " math"
+                        },
+                        {
+                            "text": "منقول: قالت إنها "
+                        },
+                        {
+                            "text": "كانت تدرس",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " الرياضيات"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-4",
+            "title": "Simple Past → Past Perfect",
+            "cards": [
+                {
+                    "id": "card-12",
+                    "content": [
+                        {
+                            "text": "Simple Past",
+                            "highlight": true
+                        },
+                        {
+                            "text": " → ",
+                            "highlight": true
+                        },
+                        {
+                            "text": "Past Perfect",
+                            "highlight": true
+                        },
+                        {
+                            "text": "الماضي البسيط → الماضي التام"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-13",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Direct: \"I "
+                        },
+                        {
+                            "text": "visited",
+                            "colorize": true
+                        },
+                        {
+                            "text": " Tokyo last year\""
+                        },
+                        {
+                            "text": "مباشر: \"زرت طوكيو العام الماضي\""
+                        }
+                    ]
+                },
+                {
+                    "id": "card-14",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Reported: He said he "
+                        },
+                        {
+                            "text": "had visited",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " Tokyo the year before"
+                        },
+                        {
+                            "text": "منقول: قال إنه "
+                        },
+                        {
+                            "text": "كان قد زار",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " طوكيو في العام السابق"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-5",
+            "title": "Present Perfect → Past Perfect",
+            "cards": [
+                {
+                    "id": "card-15",
+                    "content": [
+                        {
+                            "text": "Present Perfect",
+                            "highlight": true
+                        },
+                        {
+                            "text": " → ",
+                            "highlight": true
+                        },
+                        {
+                            "text": "Past Perfect",
+                            "highlight": true
+                        },
+                        {
+                            "text": "الحاضر التام → الماضي التام"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-16",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Direct: \"I"
+                        },
+                        {
+                            "text": "'ve finished",
+                            "colorize": true
+                        },
+                        {
+                            "text": " my project\""
+                        },
+                        {
+                            "text": "مباشر: \"أنهيت مشروعي\""
+                        }
+                    ]
+                },
+                {
+                    "id": "card-17",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Reported: She said she "
+                        },
+                        {
+                            "text": "had finished",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " her project"
+                        },
+                        {
+                            "text": "منقول: قالت إنها "
+                        },
+                        {
+                            "text": "كانت قد أنهت",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " مشروعها"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-6",
+            "title": "Modal Verbs in Reported Speech",
+            "cards": [
+                {
+                    "id": "card-18",
+                    "content": [
+                        {
+                            "text": "Modal Verbs",
+                            "highlight": true
+                        },
+                        {
+                            "text": " - Changes"
+                        },
+                        {
+                            "text": "الأفعال الناقصة - التغييرات"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-19",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Direct: \"I"
+                        },
+                        {
+                            "text": "'ll",
+                            "colorize": true
+                        },
+                        {
+                            "text": " call you tomorrow\""
+                        },
+                        {
+                            "text": "مباشر: \"سأتصل بك غداً\""
+                        }
+                    ]
+                },
+                {
+                    "id": "card-20",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Reported: He said he "
+                        },
+                        {
+                            "text": "would",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " call me the next day"
+                        },
+                        {
+                            "text": "منقول: قال إنه "
+                        },
+                        {
+                            "text": "سيتصل",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " بي في اليوم التالي"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-21",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Direct: \"I "
+                        },
+                        {
+                            "text": "can",
+                            "colorize": true
+                        },
+                        {
+                            "text": " speak French\""
+                        },
+                        {
+                            "text": "مباشر: \"أستطيع التحدث بالفرنسية\""
+                        }
+                    ]
+                },
+                {
+                    "id": "card-22",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Reported: She said she "
+                        },
+                        {
+                            "text": "could",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " speak French"
+                        },
+                        {
+                            "text": "منقول: قالت إنها "
+                        },
+                        {
+                            "text": "تستطيع",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " التحدث بالفرنسية"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-23",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Direct: \"I "
+                        },
+                        {
+                            "text": "must/have to",
+                            "colorize": true
+                        },
+                        {
+                            "text": " leave now\""
+                        },
+                        {
+                            "text": "مباشر: \"يجب أن أغادر الآن\""
+                        }
+                    ]
+                },
+                {
+                    "id": "card-24",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Reported: He said he "
+                        },
+                        {
+                            "text": "had to",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " leave"
+                        },
+                        {
+                            "text": "منقول: قال إنه "
+                        },
+                        {
+                            "text": "كان عليه",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " أن يغادر"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-25",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Direct: \"We "
+                        },
+                        {
+                            "text": "may",
+                            "colorize": true
+                        },
+                        {
+                            "text": " arrive late\""
+                        },
+                        {
+                            "text": "مباشر: \"قد نصل متأخرين\""
+                        }
+                    ]
+                },
+                {
+                    "id": "card-26",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Reported: They said they "
+                        },
+                        {
+                            "text": "might",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " arrive late"
+                        },
+                        {
+                            "text": "منقول: قالوا إنهم "
+                        },
+                        {
+                            "text": "قد يصلون",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " متأخرين"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-7",
+            "title": "Reported Questions",
+            "cards": [
+                {
+                    "id": "card-27",
+                    "content": [
+                        {
+                            "text": "Reported Questions",
+                            "highlight": true
+                        },
+                        {
+                            "text": "الأسئلة المنقولة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-28",
+                    "content": [
+                        {
+                            "text": "Use "
+                        },
+                        {
+                            "text": "asked",
+                            "colorize": true
+                        },
+                        {
+                            "text": " or "
+                        },
+                        {
+                            "text": "wanted to know",
+                            "colorize": true
+                        },
+                        {
+                            "text": " instead of 'said'"
+                        },
+                        {
+                            "text": "استخدم "
+                        },
+                        {
+                            "text": "asked",
+                            "colorize": true
+                        },
+                        {
+                            "text": " أو "
+                        },
+                        {
+                            "text": "wanted to know",
+                            "colorize": true
+                        },
+                        {
+                            "text": " بدلاً من 'said'"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-29",
+                    "content": [
+                        {
+                            "text": "With Question Words",
+                            "highlight": true
+                        },
+                        {
+                            "text": " (how, where, when, why)"
+                        },
+                        {
+                            "text": "مع كلمات الاستفهام"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-30",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Direct: \""
+                        },
+                        {
+                            "text": "Where",
+                            "colorize": true
+                        },
+                        {
+                            "text": " do you live?\""
+                        },
+                        {
+                            "text": "مباشر: \"أين تعيش؟\""
+                        }
+                    ]
+                },
+                {
+                    "id": "card-31",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Reported: She asked "
+                        },
+                        {
+                            "text": "where",
+                            "colorize": true
+                        },
+                        {
+                            "text": " I "
+                        },
+                        {
+                            "text": "lived",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "منقول: سألت "
+                        },
+                        {
+                            "text": "أين",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "أعيش",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-32",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Direct: \""
+                        },
+                        {
+                            "text": "How old",
+                            "colorize": true
+                        },
+                        {
+                            "text": " are you?\""
+                        },
+                        {
+                            "text": "مباشر: \"كم عمرك؟\""
+                        }
+                    ]
+                },
+                {
+                    "id": "card-33",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Reported: He asked "
+                        },
+                        {
+                            "text": "how old",
+                            "colorize": true
+                        },
+                        {
+                            "text": " I "
+                        },
+                        {
+                            "text": "was",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "منقول: سأل "
+                        },
+                        {
+                            "text": "كم عمري",
+                            "colorize": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-34",
+                    "content": [
+                        {
+                            "text": "Without Question Words",
+                            "highlight": true
+                        },
+                        {
+                            "text": " - Use "
+                        },
+                        {
+                            "text": "if",
+                            "colorize3": true
+                        },
+                        {
+                            "text": "بدون كلمات استفهام - استخدم "
+                        },
+                        {
+                            "text": "if",
+                            "colorize3": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-35",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Direct: \""
+                        },
+                        {
+                            "text": "Are",
+                            "colorize": true
+                        },
+                        {
+                            "text": " you tired?\""
+                        },
+                        {
+                            "text": "مباشر: \"هل أنت متعب؟\""
+                        }
+                    ]
+                },
+                {
+                    "id": "card-36",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Reported: She asked "
+                        },
+                        {
+                            "text": "if",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " I "
+                        },
+                        {
+                            "text": "was",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " tired"
+                        },
+                        {
+                            "text": "منقول: سألت "
+                        },
+                        {
+                            "text": "إذا",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " كنت متعباً"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-37",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Direct: \""
+                        },
+                        {
+                            "text": "Did",
+                            "colorize": true
+                        },
+                        {
+                            "text": " you enjoy the party?\""
+                        },
+                        {
+                            "text": "مباشر: \"هل استمتعت بالحفلة؟\""
+                        }
+                    ]
+                },
+                {
+                    "id": "card-38",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Reported: He asked "
+                        },
+                        {
+                            "text": "if",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " we "
+                        },
+                        {
+                            "text": "had enjoyed",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " the party"
+                        },
+                        {
+                            "text": "منقول: سأل "
+                        },
+                        {
+                            "text": "إذا",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " كنا قد استمتعنا بالحفلة"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-8",
+            "title": "Time and Place Changes",
+            "cards": [
+                {
+                    "id": "card-39",
+                    "content": [
+                        {
+                            "text": "Time and Place Changes",
+                            "highlight": true
+                        },
+                        {
+                            "text": "تغييرات الزمان والمكان"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-40",
+                    "content": [
+                        {
+                            "text": "Certain time words "
+                        },
+                        {
+                            "text": "shift when reporting",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "كلمات زمنية معينة "
+                        },
+                        {
+                            "text": "تتحول عند النقل",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-41",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "now",
+                            "colorize": true
+                        },
+                        {
+                            "text": " → "
+                        },
+                        {
+                            "text": "at that time / then",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "الآن",
+                            "colorize": true
+                        },
+                        {
+                            "text": " → "
+                        },
+                        {
+                            "text": "في ذلك الوقت / حينها",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-42",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "today",
+                            "colorize": true
+                        },
+                        {
+                            "text": " → "
+                        },
+                        {
+                            "text": "that day",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "اليوم",
+                            "colorize": true
+                        },
+                        {
+                            "text": " → "
+                        },
+                        {
+                            "text": "ذلك اليوم",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-43",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "tomorrow",
+                            "colorize": true
+                        },
+                        {
+                            "text": " → "
+                        },
+                        {
+                            "text": "the next day / the day after",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "غداً",
+                            "colorize": true
+                        },
+                        {
+                            "text": " → "
+                        },
+                        {
+                            "text": "اليوم التالي / اليوم بعد ذلك",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-44",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "yesterday",
+                            "colorize": true
+                        },
+                        {
+                            "text": " → "
+                        },
+                        {
+                            "text": "the day before / the previous day",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "أمس",
+                            "colorize": true
+                        },
+                        {
+                            "text": " → "
+                        },
+                        {
+                            "text": "اليوم السابق",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-45",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Direct: \"The meeting is happening "
+                        },
+                        {
+                            "text": "now",
+                            "colorize": true
+                        },
+                        {
+                            "text": "\""
+                        },
+                        {
+                            "text": "مباشر: \"الاجتماع يحدث الآن\""
+                        }
+                    ]
+                },
+                {
+                    "id": "card-46",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Reported: She said the meeting was happening "
+                        },
+                        {
+                            "text": "at that time",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "منقول: قالت إن الاجتماع كان يحدث في ذلك الوقت"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-9",
+            "title": "Reporting Verbs",
+            "cards": [
+                {
+                    "id": "card-47",
+                    "content": [
+                        {
+                            "text": "Reporting Verbs",
+                            "highlight": true
+                        },
+                        {
+                            "text": "أفعال النقل"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-48",
+                    "content": [
+                        {
+                            "text": "Different verbs can replace "
+                        },
+                        {
+                            "text": "said",
+                            "colorize": true
+                        },
+                        {
+                            "text": " to show "
+                        },
+                        {
+                            "text": "specific meanings",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "أفعال مختلفة يمكن أن تحل محل "
+                        },
+                        {
+                            "text": "said",
+                            "colorize": true
+                        },
+                        {
+                            "text": " لإظهار "
+                        },
+                        {
+                            "text": "معانٍ محددة",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-49",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Direct: \"Yes, that's correct\""
+                        },
+                        {
+                            "text": "مباشر: \"نعم، هذا صحيح\""
+                        }
+                    ]
+                },
+                {
+                    "id": "card-50",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Reported: She "
+                        },
+                        {
+                            "text": "agreed",
+                            "colorize": true
+                        },
+                        {
+                            "text": " it was correct"
+                        },
+                        {
+                            "text": "منقول: "
+                        },
+                        {
+                            "text": "وافقت",
+                            "colorize": true
+                        },
+                        {
+                            "text": " على أنه صحيح"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-51",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Direct: \"Of course, I finished it\""
+                        },
+                        {
+                            "text": "مباشر: \"بالطبع، أنهيته\""
+                        }
+                    ]
+                },
+                {
+                    "id": "card-52",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Reported: He "
+                        },
+                        {
+                            "text": "assured",
+                            "colorize": true
+                        },
+                        {
+                            "text": " me he had finished it"
+                        },
+                        {
+                            "text": "منقول: "
+                        },
+                        {
+                            "text": "أكد",
+                            "colorize": true
+                        },
+                        {
+                            "text": " لي أنه أنهاه"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-53",
+                    "content": [
+                        {
+                            "text": "Important:",
+                            "highlight": true
+                        },
+                        {
+                            "text": " The verb "
+                        },
+                        {
+                            "text": "tell",
+                            "colorize": true
+                        },
+                        {
+                            "text": " always requires an "
+                        },
+                        {
+                            "text": "indirect object",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " (a person)"
+                        },
+                        {
+                            "text": "مهم: الفعل "
+                        },
+                        {
+                            "text": "tell",
+                            "colorize": true
+                        },
+                        {
+                            "text": " يتطلب دائماً "
+                        },
+                        {
+                            "text": "مفعول به غير مباشر",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " (شخص)"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-54",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "He "
+                        },
+                        {
+                            "text": "told",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "me",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " that he was busy"
+                        },
+                        {
+                            "text": "أخبرني",
+                            "colorize": true
+                        },
+                        {
+                            "text": " أنه كان مشغولاً"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

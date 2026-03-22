@@ -1,0 +1,611 @@
+{
+  "unit": "Mega Goal 1 - Unit 1",
+  "type": "misc",
+  "setTitle": "Global Issues",
+  "words": [
+    {
+      "word": "issue",
+      "wordType": "noun",
+      "definition": [
+        {
+          "text": "An important "
+        },
+        {
+          "text": "topic or problem",
+          "highlight": true
+        },
+        {
+          "text": " for debate or discussion; a matter of "
+        },
+        {
+          "text": "concern or difficulty",
+          "highlight2": true
+        },
+        {
+          "text": " that needs to be addressed"
+        }
+      ],
+      "arabicMeaning": "قضية / مسألة",
+      "synonyms": [
+        "problem",
+        "matter",
+        "concern",
+        "topic"
+      ],
+      "example": [
+        {
+          "text": "Climate change is one of the most pressing "
+        },
+        {
+          "text": "issues",
+          "colorize": true
+        },
+        {
+          "text": " facing humanity today"
+        }
+      ],
+      "tips": "An 'issue' is broader than just a problem—it can be any important topic that people discuss or debate"
+    },
+    {
+      "word": "global warming",
+      "wordType": "noun phrase",
+      "definition": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "gradual increase",
+          "highlight": true
+        },
+        {
+          "text": " in Earth's average surface temperature caused by "
+        },
+        {
+          "text": "greenhouse gases",
+          "highlight2": true
+        },
+        {
+          "text": " trapping heat in the atmosphere"
+        }
+      ],
+      "arabicMeaning": "الاحتباس الحراري / ارتفاع حرارة الأرض",
+      "synonyms": [
+        "climate change",
+        "greenhouse effect"
+      ],
+      "example": [
+        {
+          "text": "Scientists warn that "
+        },
+        {
+          "text": "global warming",
+          "colorize": true
+        },
+        {
+          "text": " is melting polar ice caps at an alarming rate"
+        }
+      ],
+      "tips": "Remember: Global warming refers specifically to temperature rise, while climate change includes all weather pattern changes"
+    },
+    {
+      "word": "poverty",
+      "wordType": "noun",
+      "definition": [
+        {
+          "text": "The state of being "
+        },
+        {
+          "text": "extremely poor",
+          "highlight": true
+        },
+        {
+          "text": ", lacking sufficient money or resources to meet "
+        },
+        {
+          "text": "basic needs for survival",
+          "highlight2": true
+        }
+      ],
+      "arabicMeaning": "الفقر",
+      "synonyms": [
+        "destitution",
+        "hardship",
+        "need"
+      ],
+      "example": [
+        {
+          "text": "Many organizations work to reduce "
+        },
+        {
+          "text": "poverty",
+          "colorize": true
+        },
+        {
+          "text": " by providing education and job training"
+        }
+      ]
+    },
+    {
+      "word": "security",
+      "wordType": "noun",
+      "definition": [
+        {
+          "text": "The state of being "
+        },
+        {
+          "text": "free from danger or threat",
+          "highlight": true
+        },
+        {
+          "text": "; measures taken to "
+        },
+        {
+          "text": "protect",
+          "highlight2": true
+        },
+        {
+          "text": " people, places, or information"
+        }
+      ],
+      "arabicMeaning": "الأمن / الأمان",
+      "synonyms": [
+        "safety",
+        "protection",
+        "defense"
+      ],
+      "example": [
+        {
+          "text": "Airport "
+        },
+        {
+          "text": "security",
+          "colorize": true
+        },
+        {
+          "text": " has been strengthened to prevent terrorism"
+        }
+      ],
+      "tips": "Security can refer to national security, personal safety, or even financial stability"
+    },
+    {
+      "word": "fresh water",
+      "wordType": "noun phrase",
+      "definition": [
+        {
+          "text": "Water that contains "
+        },
+        {
+          "text": "little or no salt",
+          "highlight": true
+        },
+        {
+          "text": " and is "
+        },
+        {
+          "text": "suitable for drinking",
+          "highlight2": true
+        },
+        {
+          "text": ", found in rivers, lakes, and underground sources"
+        }
+      ],
+      "arabicMeaning": "المياه العذبة",
+      "synonyms": [
+        "potable water",
+        "drinking water"
+      ],
+      "example": [
+        {
+          "text": "Access to clean "
+        },
+        {
+          "text": "fresh water",
+          "colorize": true
+        },
+        {
+          "text": " remains a critical challenge in many developing countries"
+        }
+      ],
+      "tips": "Only about 3% of Earth's water is fresh water, and much of it is frozen in ice caps"
+    },
+    {
+      "word": "economy",
+      "wordType": "noun",
+      "definition": [
+        {
+          "text": "The system of "
+        },
+        {
+          "text": "production, distribution, and consumption",
+          "highlight": true
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "goods and services",
+          "highlight2": true
+        },
+        {
+          "text": " in a country or region"
+        }
+      ],
+      "arabicMeaning": "الاقتصاد",
+      "synonyms": [
+        "financial system",
+        "commerce",
+        "trade"
+      ],
+      "example": [
+        {
+          "text": "The country's "
+        },
+        {
+          "text": "economy",
+          "colorize": true
+        },
+        {
+          "text": " grew by 4% last year due to increased exports"
+        }
+      ]
+    },
+    {
+      "word": "pollution",
+      "wordType": "noun",
+      "definition": [
+        {
+          "text": "The presence of "
+        },
+        {
+          "text": "harmful substances",
+          "highlight": true
+        },
+        {
+          "text": " in the environment that "
+        },
+        {
+          "text": "damage",
+          "highlight2": true
+        },
+        {
+          "text": " air, water, or land quality"
+        }
+      ],
+      "arabicMeaning": "التلوث",
+      "synonyms": [
+        "contamination",
+        "toxicity",
+        "environmental damage"
+      ],
+      "example": [
+        {
+          "text": "Air "
+        },
+        {
+          "text": "pollution",
+          "colorize": true
+        },
+        {
+          "text": " from vehicle emissions causes serious health problems in major cities"
+        }
+      ],
+      "tips": "Types include air pollution, water pollution, soil pollution, noise pollution, and light pollution"
+    },
+    {
+      "word": "diseases",
+      "wordType": "noun (plural)",
+      "definition": [
+        {
+          "text": "Illnesses or "
+        },
+        {
+          "text": "medical conditions",
+          "highlight": true
+        },
+        {
+          "text": " that "
+        },
+        {
+          "text": "impair normal functioning",
+          "highlight2": true
+        },
+        {
+          "text": " of the body or mind"
+        }
+      ],
+      "arabicMeaning": "الأمراض",
+      "synonyms": [
+        "illnesses",
+        "ailments",
+        "sicknesses"
+      ],
+      "example": [
+        {
+          "text": "Vaccination programs have successfully eliminated many deadly "
+        },
+        {
+          "text": "diseases",
+          "colorize": true
+        },
+        {
+          "text": " worldwide"
+        }
+      ]
+    },
+    {
+      "word": "unemployment",
+      "wordType": "noun",
+      "definition": [
+        {
+          "text": "The state of being "
+        },
+        {
+          "text": "without a paid job",
+          "highlight": true
+        },
+        {
+          "text": " despite being "
+        },
+        {
+          "text": "able and willing to work",
+          "highlight2": true
+        }
+      ],
+      "arabicMeaning": "البطالة",
+      "synonyms": [
+        "joblessness",
+        "lack of work"
+      ],
+      "example": [
+        {
+          "text": "The government introduced new programs to reduce "
+        },
+        {
+          "text": "unemployment",
+          "colorize": true
+        },
+        {
+          "text": " among young people"
+        }
+      ],
+      "tips": "Unemployment rate is a key indicator of economic health"
+    },
+    {
+      "word": "traffic",
+      "wordType": "noun",
+      "definition": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "movement of vehicles, people, or goods",
+          "highlight": true
+        },
+        {
+          "text": " along roads or through transportation systems; can also mean "
+        },
+        {
+          "text": "congestion",
+          "highlight2": true
+        }
+      ],
+      "arabicMeaning": "حركة المرور / الازدحام",
+      "synonyms": [
+        "congestion",
+        "gridlock",
+        "transportation"
+      ],
+      "example": [
+        {
+          "text": "Heavy "
+        },
+        {
+          "text": "traffic",
+          "colorize": true
+        },
+        {
+          "text": " during rush hour makes commuting very stressful"
+        }
+      ]
+    },
+    {
+      "word": "globalization",
+      "wordType": "noun",
+      "definition": [
+        {
+          "text": "The process by which "
+        },
+        {
+          "text": "businesses, cultures, and economies",
+          "highlight": true
+        },
+        {
+          "text": " become "
+        },
+        {
+          "text": "interconnected and integrated",
+          "highlight2": true
+        },
+        {
+          "text": " worldwide"
+        }
+      ],
+      "arabicMeaning": "العولمة",
+      "synonyms": [
+        "internationalization",
+        "worldwide integration"
+      ],
+      "example": [
+        {
+          "text": "Thanks to "
+        },
+        {
+          "text": "globalization",
+          "colorize": true
+        },
+        {
+          "text": ", products manufactured in one country are sold around the world"
+        }
+      ],
+      "tips": "Globalization has both benefits (economic growth, cultural exchange) and challenges (local job losses, cultural homogenization)"
+    },
+    {
+      "word": "endangered species",
+      "wordType": "noun phrase",
+      "definition": [
+        {
+          "text": "Animals or plants at "
+        },
+        {
+          "text": "serious risk of extinction",
+          "highlight": true
+        },
+        {
+          "text": " due to "
+        },
+        {
+          "text": "habitat loss, hunting, or environmental changes",
+          "highlight2": true
+        }
+      ],
+      "arabicMeaning": "الأنواع المهددة بالانقراض",
+      "synonyms": [
+        "threatened species",
+        "at-risk wildlife"
+      ],
+      "example": [
+        {
+          "text": "Conservation efforts are crucial to protect "
+        },
+        {
+          "text": "endangered species",
+          "colorize": true
+        },
+        {
+          "text": " like tigers and rhinos"
+        }
+      ],
+      "tips": "The IUCN Red List tracks endangered species globally"
+    },
+    {
+      "word": "terrorism",
+      "wordType": "noun",
+      "definition": [
+        {
+          "text": "The use of "
+        },
+        {
+          "text": "violence and intimidation",
+          "highlight": true
+        },
+        {
+          "text": ", especially against "
+        },
+        {
+          "text": "civilians",
+          "highlight2": true
+        },
+        {
+          "text": ", to achieve political or ideological goals"
+        }
+      ],
+      "arabicMeaning": "الإرهاب",
+      "synonyms": [
+        "extremism",
+        "violent extremism"
+      ],
+      "example": [
+        {
+          "text": "International cooperation is essential to combat "
+        },
+        {
+          "text": "terrorism",
+          "colorize": true
+        },
+        {
+          "text": " effectively"
+        }
+      ]
+    },
+    {
+      "word": "natural disasters",
+      "wordType": "noun phrase (plural)",
+      "definition": [
+        {
+          "text": "Catastrophic events caused by "
+        },
+        {
+          "text": "natural forces",
+          "highlight": true
+        },
+        {
+          "text": " such as "
+        },
+        {
+          "text": "earthquakes, floods, hurricanes, or volcanic eruptions",
+          "highlight2": true
+        }
+      ],
+      "arabicMeaning": "الكوارث الطبيعية",
+      "synonyms": [
+        "catastrophes",
+        "calamities",
+        "acts of nature"
+      ],
+      "example": [
+        {
+          "text": "Emergency response teams must be prepared to handle "
+        },
+        {
+          "text": "natural disasters",
+          "colorize": true
+        },
+        {
+          "text": " quickly and efficiently"
+        }
+      ],
+      "tips": "Examples include earthquakes, tsunamis, hurricanes, tornadoes, floods, and wildfires"
+    },
+    {
+      "word": "overpopulation",
+      "wordType": "noun",
+      "definition": [
+        {
+          "text": "A situation where the "
+        },
+        {
+          "text": "number of people exceeds",
+          "highlight": true
+        },
+        {
+          "text": " the "
+        },
+        {
+          "text": "carrying capacity",
+          "highlight2": true
+        },
+        {
+          "text": " of the environment or available resources"
+        }
+      ],
+      "arabicMeaning": "الاكتظاظ السكاني / الزيادة السكانية المفرطة",
+      "synonyms": [
+        "overcrowding",
+        "population explosion"
+      ],
+      "example": [
+        {
+          "text": "Cities facing "
+        },
+        {
+          "text": "overpopulation",
+          "colorize": true
+        },
+        {
+          "text": " struggle with housing shortages and strained infrastructure"
+        }
+      ],
+      "tips": "Overpopulation can lead to resource depletion, environmental degradation, and reduced quality of life"
+    }
+  ]
+}

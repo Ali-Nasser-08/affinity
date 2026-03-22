@@ -1,0 +1,1468 @@
+{
+    "unit": "Mega Goal 1 - Unit 12",
+    "type": "revision",
+    "totalQuestions": 100,
+    "currentBatch": 1,
+    "sections": [
+        {
+            "section": "grammar",
+            "questions": [
+                {
+                    "id": "G1",
+                    "difficulty": 1,
+                    "arabicHint": "الكلام المنقول: المضارع البسيط يتحول الى الماضي البسيط",
+                    "question": "Choose the correct reported speech for this direct statement.",
+                    "prompt": "Direct: 'I have a brother and a sister.' Reported: He said (that) he _____ a brother and a sister.",
+                    "options": [
+                        "has",
+                        "had",
+                        "have",
+                        "is having"
+                    ],
+                    "answer": "had",
+                    "explanation": "In reported speech, the simple present (have) shifts back to simple past (had). The reporting verb 'said' signals this backshift."
+                },
+                {
+                    "id": "G2",
+                    "difficulty": 1,
+                    "arabicHint": "الكلام المنقول: المضارع البسيط المنفي يتحول الى الماضي البسيط المنفي",
+                    "question": "Select the correct reported form of this negative sentence.",
+                    "prompt": "Direct: 'I don't like mangoes.' Reported: She said (that) she _____ mangoes.",
+                    "options": [
+                        "doesn't like",
+                        "didn't like",
+                        "hadn't liked",
+                        "won't like"
+                    ],
+                    "answer": "didn't like",
+                    "explanation": "The simple present negative (don't like) shifts to simple past negative (didn't like) in reported speech."
+                },
+                {
+                    "id": "G3",
+                    "difficulty": 1,
+                    "arabicHint": "الكلام المنقول: المضارع المستمر يتحول الى الماضي المستمر",
+                    "question": "Choose the correct reported form.",
+                    "prompt": "Direct: 'I'm talking to Sara.' Reported: She said she _____ to Sara.",
+                    "options": [
+                        "is talking",
+                        "was talking",
+                        "talked",
+                        "has talked"
+                    ],
+                    "answer": "was talking",
+                    "explanation": "The present progressive (am/is/are + -ing) shifts to past progressive (was/were + -ing) in reported speech."
+                },
+                {
+                    "id": "G4",
+                    "difficulty": 2,
+                    "arabicHint": "الكلام المنقول: الماضي البسيط يتحول الى الماضي التام",
+                    "question": "Select the correct reported form of this past tense sentence.",
+                    "prompt": "Direct: 'I learned English in Canada.' Reported: He said he _____ English in Canada.",
+                    "options": [
+                        "learned",
+                        "has learned",
+                        "had learned",
+                        "was learning"
+                    ],
+                    "answer": "had learned",
+                    "explanation": "The simple past (learned) shifts to past perfect (had learned) when reporting what someone said."
+                },
+                {
+                    "id": "G5",
+                    "difficulty": 2,
+                    "arabicHint": "الكلام المنقول: الحاضر التام يتحول الى الماضي التام",
+                    "question": "Choose the correct reported form of this present perfect sentence.",
+                    "prompt": "Direct: 'I haven't seen the film yet.' Reported: She said she _____ the film yet.",
+                    "options": [
+                        "hasn't seen",
+                        "hadn't seen",
+                        "didn't see",
+                        "won't see"
+                    ],
+                    "answer": "hadn't seen",
+                    "explanation": "The present perfect (haven't seen) shifts to past perfect (hadn't seen) in reported speech."
+                },
+                {
+                    "id": "G6",
+                    "difficulty": 1,
+                    "arabicHint": "الكلام المنقول: will يتحول الى would",
+                    "question": "Select the correct reported form for a sentence with 'will.'",
+                    "prompt": "Direct: 'I'll see you later.' Reported: She said she _____ see them later.",
+                    "options": [
+                        "will",
+                        "would",
+                        "should",
+                        "could"
+                    ],
+                    "answer": "would",
+                    "explanation": "'Will' changes to 'would' in reported speech. This is a standard modal backshift."
+                },
+                {
+                    "id": "G7",
+                    "difficulty": 1,
+                    "arabicHint": "الكلام المنقول: can't يتحول الى couldn't",
+                    "question": "Choose the correct reported form for a sentence with 'can't.'",
+                    "prompt": "Direct: 'I can't come to the meeting.' Reported: He said he _____ come to the meeting.",
+                    "options": [
+                        "can't",
+                        "couldn't",
+                        "wouldn't",
+                        "shouldn't"
+                    ],
+                    "answer": "couldn't",
+                    "explanation": "'Can't' (cannot) shifts to 'couldn't' in reported speech. Modal verbs generally shift one step back into the past."
+                },
+                {
+                    "id": "G8",
+                    "difficulty": 2,
+                    "arabicHint": "الكلام المنقول: must/have to يتحول الى had to",
+                    "question": "Select the correct reported form for 'must' expressing obligation.",
+                    "prompt": "Direct: 'I have to go to the doctor.' Reported: She said she _____ go to the doctor.",
+                    "options": [
+                        "must",
+                        "has to",
+                        "had to",
+                        "needed"
+                    ],
+                    "answer": "had to",
+                    "explanation": "Both 'must' and 'have to' (when expressing necessity) shift to 'had to' in reported speech."
+                },
+                {
+                    "id": "G9",
+                    "difficulty": 2,
+                    "arabicHint": "الكلام المنقول: may يتحول الى might",
+                    "question": "Choose the reported form for a sentence using 'may.'",
+                    "prompt": "Direct: 'We may be late.' Reported: I said that we _____ be late.",
+                    "options": [
+                        "may",
+                        "might",
+                        "must",
+                        "would"
+                    ],
+                    "answer": "might",
+                    "explanation": "'May' (expressing possibility) shifts to 'might' in reported speech."
+                },
+                {
+                    "id": "G10",
+                    "difficulty": 2,
+                    "arabicHint": "الكلام المنقول: حذف that بعد said",
+                    "question": "Identify which sentence is correct — 'that' after 'said' is optional.",
+                    "prompt": "Which sentence is grammatically correct?",
+                    "options": [
+                        "He said that he was tired.",
+                        "He said he was tired.",
+                        "Both A and B are correct.",
+                        "Neither A nor B is correct."
+                    ],
+                    "answer": "Both A and B are correct.",
+                    "explanation": "The word 'that' is optional after 'said' in reported speech. Both 'He said that he was tired' and 'He said he was tired' are correct."
+                },
+                {
+                    "id": "G11",
+                    "difficulty": 1,
+                    "arabicHint": "الاسئلة المنقولة: كلمة الاستفهام تبقى في الجملة المنقولة",
+                    "question": "Choose the correct reported question form.",
+                    "prompt": "Direct: 'How old are you?' Reported: He asked _____ I was.",
+                    "options": [
+                        "that how old",
+                        "how old",
+                        "if how old",
+                        "what old"
+                    ],
+                    "answer": "how old",
+                    "explanation": "In reported questions with a question word (how, where, when, etc.), the question word stays — but the subject and verb do NOT invert. No 'if' is needed."
+                },
+                {
+                    "id": "G12",
+                    "difficulty": 2,
+                    "arabicHint": "الاسئلة المنقولة: ترتيب الكلمات بدون انقلاب (فعل بعد الفاعل)",
+                    "question": "Select the correctly ordered reported question.",
+                    "prompt": "Direct: 'Where were you last night?' Reported: She wanted to know where _____ the night before.",
+                    "options": [
+                        "had we been",
+                        "we had been",
+                        "were we",
+                        "we were"
+                    ],
+                    "answer": "we had been",
+                    "explanation": "In reported questions, there is no subject-verb inversion — the subject comes before the verb. 'Last night' also shifts to 'the night before.' Past simple 'were' shifts to past perfect 'had been.'"
+                },
+                {
+                    "id": "G13",
+                    "difficulty": 2,
+                    "arabicHint": "الاسئلة المنقولة بدون كلمة استفهام: نستخدم if",
+                    "question": "Choose the correct reported form when there is no question word.",
+                    "prompt": "Direct: 'Are you a student?' Reported: He asked _____ Tom was a student.",
+                    "options": [
+                        "that",
+                        "if",
+                        "what",
+                        "how"
+                    ],
+                    "answer": "if",
+                    "explanation": "When there is no question word (who, what, where, etc.), use 'if' or 'whether' to introduce a reported yes/no question."
+                },
+                {
+                    "id": "G14",
+                    "difficulty": 2,
+                    "arabicHint": "الاسئلة المنقولة بدون كلمة استفهام: Did يتحول الى had",
+                    "question": "Select the correct reported form of this yes/no question.",
+                    "prompt": "Direct: 'Did you enjoy the dinner party?' Reported: She asked if they _____ the dinner party.",
+                    "options": [
+                        "enjoyed",
+                        "had enjoyed",
+                        "have enjoyed",
+                        "enjoy"
+                    ],
+                    "answer": "had enjoyed",
+                    "explanation": "Simple past (enjoyed) shifts to past perfect (had enjoyed) in reported questions. 'If' introduces the question since there is no question word."
+                },
+                {
+                    "id": "G15",
+                    "difficulty": 3,
+                    "arabicHint": "الاسئلة المنقولة: ترتيب الكلمات الصحيح",
+                    "question": "Choose the correctly structured reported question.",
+                    "prompt": "Direct: 'When does the library close?' Reported: He asked _____ .",
+                    "options": [
+                        "when does the library close",
+                        "when the library closes",
+                        "when closed the library",
+                        "if the library closes when"
+                    ],
+                    "answer": "when the library closes",
+                    "explanation": "In indirect/reported questions, the word order is statement-style (subject + verb), not question-style. No auxiliary verb inversion."
+                },
+                {
+                    "id": "G16",
+                    "difficulty": 2,
+                    "arabicHint": "تغيير الضمائر في الكلام المنقول: I يتحول الى he/she",
+                    "question": "Select the correct pronoun in this reported statement.",
+                    "prompt": "Direct: 'I did my homework already.' Reported: Todd said that _____ had done _____ homework already.",
+                    "options": [
+                        "I / my",
+                        "he / his",
+                        "she / her",
+                        "they / their"
+                    ],
+                    "answer": "he / his",
+                    "explanation": "In reported speech, the pronoun 'I' changes to match the subject of the reporting clause. Since Todd is male, 'I' becomes 'he' and 'my' becomes 'his.'"
+                },
+                {
+                    "id": "G17",
+                    "difficulty": 2,
+                    "arabicHint": "تغيير ظروف الزمان في الكلام المنقول: now يتحول الى at that time/then",
+                    "question": "Choose the correct time expression change in reported speech.",
+                    "prompt": "Direct: 'The plane is arriving now.' Reported: Mary said that the plane was arriving _____.",
+                    "options": [
+                        "now",
+                        "today",
+                        "then",
+                        "tomorrow"
+                    ],
+                    "answer": "then",
+                    "explanation": "'Now' changes to 'then' or 'at that time' in reported speech because the speaker is no longer at the original moment of speaking."
+                },
+                {
+                    "id": "G18",
+                    "difficulty": 2,
+                    "arabicHint": "تغيير ظروف الزمان: today يتحول الى that day",
+                    "question": "Select the correct time word change from direct to reported speech.",
+                    "prompt": "Direct: 'I'm finishing the project today.' Reported: She said she was finishing the project _____.",
+                    "options": [
+                        "today",
+                        "that day",
+                        "the next day",
+                        "the day before"
+                    ],
+                    "answer": "that day",
+                    "explanation": "'Today' changes to 'that day' in reported speech. Time expressions shift to maintain logical accuracy when reporting later."
+                },
+                {
+                    "id": "G19",
+                    "difficulty": 2,
+                    "arabicHint": "تغيير ظروف الزمان: tomorrow يتحول الى the next day/the day after",
+                    "question": "Choose the correct time expression for reported speech.",
+                    "prompt": "Direct: 'I'll call you tomorrow.' Reported: He said he would call me _____.",
+                    "options": [
+                        "tomorrow",
+                        "the day before",
+                        "the next day",
+                        "that day"
+                    ],
+                    "answer": "the next day",
+                    "explanation": "'Tomorrow' changes to 'the next day' or 'the day after' in reported speech."
+                },
+                {
+                    "id": "G20",
+                    "difficulty": 2,
+                    "arabicHint": "تغيير ظروف الزمان: yesterday يتحول الى the day before",
+                    "question": "Select the correct time expression change.",
+                    "prompt": "Direct: 'I met her yesterday.' Reported: He said he had met her _____.",
+                    "options": [
+                        "yesterday",
+                        "the day before",
+                        "the next day",
+                        "then"
+                    ],
+                    "answer": "the day before",
+                    "explanation": "'Yesterday' changes to 'the day before' in reported speech, since the time reference point has shifted."
+                },
+                {
+                    "id": "G21",
+                    "difficulty": 1,
+                    "arabicHint": "افعال الابلاغ: tell يختلف عن say (يتبعه مفعول به غير مباشر)",
+                    "question": "Identify which sentence correctly uses 'tell.'",
+                    "prompt": "Which sentence is correct?",
+                    "options": [
+                        "He told that he was ready.",
+                        "He told me that he was ready.",
+                        "He said me that he was ready.",
+                        "He told to me that he was ready."
+                    ],
+                    "answer": "He told me that he was ready.",
+                    "explanation": "'Tell' always requires an indirect object (me, him, her, us, them). You say 'tell someone something.' Never use 'told that' without an object."
+                },
+                {
+                    "id": "G22",
+                    "difficulty": 2,
+                    "arabicHint": "فعل الابلاغ: agree (للموافقة)",
+                    "question": "Choose the correct reporting verb for this sentence.",
+                    "prompt": "Direct: 'Yes, it's a great idea.' Reported: My friend _____ it was a great idea.",
+                    "options": [
+                        "said",
+                        "told",
+                        "agreed",
+                        "asked"
+                    ],
+                    "answer": "agreed",
+                    "explanation": "'Agree' is a reporting verb used when someone confirms or accepts an idea. It conveys the meaning more precisely than just 'said.'"
+                },
+                {
+                    "id": "G23",
+                    "difficulty": 2,
+                    "arabicHint": "فعل الابلاغ: assure (للتاكيد مع مفعول به)",
+                    "question": "Select the correct reporting verb — it requires a direct object and means 'to promise confidently.'",
+                    "prompt": "Tom _____ the teacher that he had done his homework.",
+                    "options": [
+                        "said",
+                        "told",
+                        "assured",
+                        "asked"
+                    ],
+                    "answer": "assured",
+                    "explanation": "'Assure' means to tell someone confidently to remove doubt. Like 'tell,' it takes a direct object. 'He assured the teacher' — not 'he assured that.'"
+                },
+                {
+                    "id": "G24",
+                    "difficulty": 3,
+                    "arabicHint": "said vs told: الفرق في الاستخدام",
+                    "question": "Choose the sentence that is grammatically correct.",
+                    "prompt": "Which sentence correctly uses a reporting verb?",
+                    "options": [
+                        "She said me that she was leaving.",
+                        "She told that she was leaving.",
+                        "She told us that she was leaving.",
+                        "She said to us that she was leaving us."
+                    ],
+                    "answer": "She told us that she was leaving.",
+                    "explanation": "'Tell' requires a direct object (us, him, me). 'Said' does not take a direct object — you say something but tell someone something. Only option C is correct."
+                },
+                {
+                    "id": "G25",
+                    "difficulty": 3,
+                    "arabicHint": "الكلام المنقول المتكامل: اختر الجملة الصحيحة بالكامل",
+                    "question": "Select the fully correct reported speech sentence.",
+                    "prompt": "Direct: 'I'll visit you tomorrow.' Reported: ___________",
+                    "options": [
+                        "She said she will visit me tomorrow.",
+                        "She said she would visit me the next day.",
+                        "She said she would visit me tomorrow.",
+                        "She told she would visit me the next day."
+                    ],
+                    "answer": "She said she would visit me the next day.",
+                    "explanation": "'Will' shifts to 'would,' 'tomorrow' shifts to 'the next day,' and 'you' shifts to 'me.' 'Said' does not need an object. Option B is the only fully correct form."
+                },
+                {
+                    "id": "G26",
+                    "difficulty": 1,
+                    "arabicHint": "الاسئلة السلبية: للتعبير عن الدهشة او التحقق",
+                    "question": "Choose the correct negative question for this context.",
+                    "prompt": "You're surprised your friend doesn't know the news. You ask: '_____?'",
+                    "options": [
+                        "Have you seen the news?",
+                        "Haven't you seen the news?",
+                        "Did you see the news?",
+                        "You didn't see the news?"
+                    ],
+                    "answer": "Haven't you seen the news?",
+                    "explanation": "Negative questions are used to express surprise or check information. 'Haven't you seen the news?' implies the speaker expected the listener to have seen it."
+                },
+                {
+                    "id": "G27",
+                    "difficulty": 1,
+                    "arabicHint": "الاسئلة السلبية: Aren't / Isn't / Don't / Didn't",
+                    "question": "Select the correct negative question expressing surprise.",
+                    "prompt": "You see your friend standing still while everyone is helping. You say: '_____ going to help?'",
+                    "options": [
+                        "Are you",
+                        "Aren't you",
+                        "You are",
+                        "Were you"
+                    ],
+                    "answer": "Aren't you",
+                    "explanation": "'Aren't you going to help?' is a negative question that expresses surprise or mild criticism. It implies the speaker expected the person to help."
+                },
+                {
+                    "id": "G28",
+                    "difficulty": 2,
+                    "arabicHint": "الاسئلة السلبية: استخدامها للتعبير عن عدم التصديق",
+                    "question": "Choose the negative question that best expresses disbelief.",
+                    "prompt": "You can't believe nobody told your friend about the flood. You ask: '_____ about the damage?'",
+                    "options": [
+                        "Did you ask them",
+                        "Didn't you ask them",
+                        "Have you been asking",
+                        "Were they asked"
+                    ],
+                    "answer": "Didn't you ask them",
+                    "explanation": "'Didn't you ask them about the damage?' is a negative question implying the speaker expected the listener to have asked. It expresses surprise or disbelief."
+                },
+                {
+                    "id": "G29",
+                    "difficulty": 2,
+                    "arabicHint": "الاسئلة السلبية: Isn't there للتعبير عن الاستنكار",
+                    "question": "Select the correct negative question that implies there should be a solution.",
+                    "prompt": "'_____ something we can do about the pollution?' the reporter asked.",
+                    "options": [
+                        "Is there",
+                        "Isn't there",
+                        "There isn't",
+                        "Was there"
+                    ],
+                    "answer": "Isn't there",
+                    "explanation": "'Isn't there something we can do?' is a negative question expressing frustration and implying the speaker believes something should be done."
+                },
+                {
+                    "id": "G30",
+                    "difficulty": 1,
+                    "arabicHint": "ظرف المكان النسبي where: يصف مكانا",
+                    "question": "Choose the correct relative adverb to complete the sentence.",
+                    "prompt": "That's the school _____ I used to study as a child.",
+                    "options": [
+                        "which",
+                        "that",
+                        "where",
+                        "who"
+                    ],
+                    "answer": "where",
+                    "explanation": "Use 'where' as a relative adverb to describe a place. 'That's the school where I studied' — 'where' replaces 'at which' when referring to a location."
+                },
+                {
+                    "id": "G31",
+                    "difficulty": 1,
+                    "arabicHint": "where كظرف نسبي يرتبط بمكان",
+                    "question": "Select the correct relative adverb.",
+                    "prompt": "Riyadh is the city _____ I was born and raised.",
+                    "options": [
+                        "that",
+                        "which",
+                        "who",
+                        "where"
+                    ],
+                    "answer": "where",
+                    "explanation": "'Where' is used as a relative adverb when referring to a place. Here it describes the city as the place of the speaker's birth and upbringing."
+                },
+                {
+                    "id": "G32",
+                    "difficulty": 2,
+                    "arabicHint": "where في الجمل المعبرة عن المكان المجازي",
+                    "question": "Choose the best completion using 'where' as a relative adverb.",
+                    "prompt": "Home is _____ the heart is — that's what the old saying tells us.",
+                    "options": [
+                        "which",
+                        "that",
+                        "where",
+                        "what"
+                    ],
+                    "answer": "where",
+                    "explanation": "'Home is where the heart is' is a famous expression using 'where' to connect 'home' with the idea of belonging. 'Where' here acts as a relative adverb of place."
+                },
+                {
+                    "id": "G33",
+                    "difficulty": 1,
+                    "arabicHint": "الاسئلة غير المباشرة: ترتيب الكلمات بدون انقلاب",
+                    "question": "Choose the correct indirect question form.",
+                    "prompt": "Direct: 'Where is the nearest hospital?' Indirect: Do you know _____ ?",
+                    "options": [
+                        "where is the nearest hospital",
+                        "where the nearest hospital is",
+                        "where nearest hospital is",
+                        "if the nearest hospital is"
+                    ],
+                    "answer": "where the nearest hospital is",
+                    "explanation": "In indirect questions, use statement word order (subject + verb), not question order. No auxiliary inversion: 'where the nearest hospital is' — not 'where is the nearest hospital.'"
+                },
+                {
+                    "id": "G34",
+                    "difficulty": 1,
+                    "arabicHint": "الاسئلة غير المباشرة: Do you know + statement order",
+                    "question": "Select the correctly formed indirect question.",
+                    "prompt": "Direct: 'When does the store open?' Indirect: Do you know _____ ?",
+                    "options": [
+                        "when does the store open",
+                        "when the store opens",
+                        "if the store opens when",
+                        "that the store opens"
+                    ],
+                    "answer": "when the store opens",
+                    "explanation": "Indirect questions use statement word order. The auxiliary 'does' disappears and the main verb takes -s: 'when the store opens.'"
+                },
+                {
+                    "id": "G35",
+                    "difficulty": 2,
+                    "arabicHint": "الاسئلة غير المباشرة: Could you tell me + statement order",
+                    "question": "Choose the correct indirect question using 'Could you tell me.'",
+                    "prompt": "Direct: 'Where can I get good pizza?' Indirect: Could you tell me _____ ?",
+                    "options": [
+                        "where can I get good pizza",
+                        "where I can get good pizza",
+                        "if I can get good pizza where",
+                        "where good pizza I can get"
+                    ],
+                    "answer": "where I can get good pizza",
+                    "explanation": "Indirect questions follow statement word order: subject (I) before verb (can get). The question word 'where' stays, but inversion is removed."
+                },
+                {
+                    "id": "G36",
+                    "difficulty": 2,
+                    "arabicHint": "الاسئلة غير المباشرة: Do you know what + ترتيب الجملة",
+                    "question": "Select the correct indirect question.",
+                    "prompt": "Direct: 'What is the name of the street?' Indirect: Do you know _____ ?",
+                    "options": [
+                        "what is the name of the street",
+                        "what the name of the street is",
+                        "that the name of the street is",
+                        "if the name of the street is what"
+                    ],
+                    "answer": "what the name of the street is",
+                    "explanation": "Statement order applies: 'what the name of the street is' — the verb 'is' comes after the subject 'the name of the street,' not before it."
+                },
+                {
+                    "id": "G37",
+                    "difficulty": 1,
+                    "arabicHint": "التعبير عن الموافقة على جملة مثبتة: So + فعل مساعد + فاعل",
+                    "question": "Choose the correct agreement expression for an affirmative statement.",
+                    "prompt": "A: 'I ate at the new restaurant last night.' B: '_____'",
+                    "options": [
+                        "So I did.",
+                        "So did I.",
+                        "Neither did I.",
+                        "I didn't either."
+                    ],
+                    "answer": "So did I.",
+                    "explanation": "Use 'So + auxiliary + subject' to agree with an affirmative statement. 'So did I' means 'I also ate there.' The auxiliary matches the tense of the original statement."
+                },
+                {
+                    "id": "G38",
+                    "difficulty": 1,
+                    "arabicHint": "التعبير عن الموافقة على جملة مثبتة: I did too / I will too",
+                    "question": "Select the alternative agreement form for affirmative statements.",
+                    "prompt": "A: 'I will visit my family this weekend.' B: '_____'",
+                    "options": [
+                        "So will I.",
+                        "I will too.",
+                        "Neither will I.",
+                        "Both A and B are correct."
+                    ],
+                    "answer": "Both A and B are correct.",
+                    "explanation": "Both 'So will I' and 'I will too' are correct ways to agree with an affirmative statement. They are interchangeable and equally acceptable."
+                },
+                {
+                    "id": "G39",
+                    "difficulty": 1,
+                    "arabicHint": "التعبير عن الموافقة على جملة منفية: Neither + فعل مساعد + فاعل",
+                    "question": "Choose the correct agreement expression for a negative statement.",
+                    "prompt": "A: 'I didn't like the pizza.' B: '_____'",
+                    "options": [
+                        "So did I.",
+                        "Neither did I.",
+                        "I did too.",
+                        "So I didn't."
+                    ],
+                    "answer": "Neither did I.",
+                    "explanation": "Use 'Neither + auxiliary + subject' to agree with a negative statement. 'Neither did I' means 'I also didn't like it.'"
+                },
+                {
+                    "id": "G40",
+                    "difficulty": 1,
+                    "arabicHint": "التعبير عن الموافقة على جملة منفية: I don't either / I won't either",
+                    "question": "Select the alternative agreement form for negative statements.",
+                    "prompt": "A: 'I won't go to school tomorrow.' B: '_____'",
+                    "options": [
+                        "Neither will I.",
+                        "I won't either.",
+                        "So will I.",
+                        "Both A and B are correct."
+                    ],
+                    "answer": "Both A and B are correct.",
+                    "explanation": "Both 'Neither will I' and 'I won't either' correctly express agreement with a negative statement. They carry exactly the same meaning."
+                },
+                {
+                    "id": "G41",
+                    "difficulty": 2,
+                    "arabicHint": "التعبير عن الاختلاف مع جملة مثبتة",
+                    "question": "Choose the correct disagreement response to an affirmative statement.",
+                    "prompt": "A: 'I've been to Muscat.' B: '_____' (the speaker has NOT been to Muscat)",
+                    "options": [
+                        "So have I.",
+                        "I have too.",
+                        "I haven't.",
+                        "Neither have I."
+                    ],
+                    "answer": "I haven't.",
+                    "explanation": "To disagree with an affirmative statement, use the opposite auxiliary in the negative. If A has been, but B hasn't — B says 'I haven't.' This shows polite disagreement."
+                },
+                {
+                    "id": "G42",
+                    "difficulty": 2,
+                    "arabicHint": "التعبير عن الاختلاف مع جملة منفية",
+                    "question": "Select the correct disagreement response to a negative statement.",
+                    "prompt": "A: 'I am not very tall.' B: '_____' (the speaker IS quite tall)",
+                    "options": [
+                        "Neither am I.",
+                        "I am not either.",
+                        "I am.",
+                        "So am I."
+                    ],
+                    "answer": "I am.",
+                    "explanation": "To disagree with a negative statement, use the opposite auxiliary in the affirmative. If A is not tall but B is — B says 'I am.' Short affirmative answers show polite disagreement."
+                },
+                {
+                    "id": "G43",
+                    "difficulty": 2,
+                    "arabicHint": "So / Neither: اختيار الصحيح حسب نوع الجملة",
+                    "question": "Choose the correct agreement expression for each blank.",
+                    "prompt": "A: 'I love science.' B: '_____.' / A: 'I don't know the answer.' B: '_____.'",
+                    "options": [
+                        "So do I / Neither do I",
+                        "Neither do I / So do I",
+                        "So do I / So do I",
+                        "Neither do I / Neither do I"
+                    ],
+                    "answer": "So do I / Neither do I",
+                    "explanation": "'So do I' agrees with an affirmative (I love science). 'Neither do I' agrees with a negative (I don't know). The expressions must match the polarity of the original statement."
+                },
+                {
+                    "id": "G44",
+                    "difficulty": 3,
+                    "arabicHint": "الكلام المنقول الكامل: تطبيق مجموعة من القواعد",
+                    "question": "Select the fully correct reported speech sentence.",
+                    "prompt": "Direct: 'I can't find my keys.' Reported: She said _____ .",
+                    "options": [
+                        "she can't find her keys",
+                        "she couldn't find her keys",
+                        "she couldn't find my keys",
+                        "she can't find her key"
+                    ],
+                    "answer": "she couldn't find her keys",
+                    "explanation": "'Can't' shifts to 'couldn't.' 'My' changes to 'her' (pronoun shift). The meaning stays the same. All changes must be applied together."
+                },
+                {
+                    "id": "G45",
+                    "difficulty": 3,
+                    "arabicHint": "الاسئلة المنقولة الكاملة: تطبيق جميع القواعد",
+                    "question": "Choose the fully correct reported question.",
+                    "prompt": "Direct: 'Did you finish the report yesterday?' Reported: She asked him _____ .",
+                    "options": [
+                        "if he finished the report yesterday",
+                        "if he had finished the report the day before",
+                        "if did he finish the report the day before",
+                        "that he had finished the report the day before"
+                    ],
+                    "answer": "if he had finished the report the day before",
+                    "explanation": "Yes/no questions use 'if.' Past simple (finished) shifts to past perfect (had finished). 'Yesterday' shifts to 'the day before.' Pronoun 'you' shifts to 'he.' Statement word order is used."
+                },
+                {
+                    "id": "G46",
+                    "difficulty": 2,
+                    "arabicHint": "التغيير من المخاطب الى الغائب في الكلام المنقول",
+                    "question": "Select the correct pronoun changes in reported speech.",
+                    "prompt": "Direct: 'We may be late for the meeting.' Reported: They said that _____ might be late for the meeting.",
+                    "options": [
+                        "we",
+                        "they",
+                        "I",
+                        "he"
+                    ],
+                    "answer": "they",
+                    "explanation": "'We' changes to 'they' in reported speech when someone reports what a group of other people said. The pronoun shifts to match the third person perspective."
+                },
+                {
+                    "id": "G47",
+                    "difficulty": 2,
+                    "arabicHint": "السؤال غير المباشر: هل تعرف اين / متى / كيف",
+                    "question": "Choose the correct indirect question.",
+                    "prompt": "You want to know if there's a pharmacy nearby. You ask a stranger: '_____?'",
+                    "options": [
+                        "Do you know where is there a pharmacy?",
+                        "Do you know where there is a pharmacy?",
+                        "Do you know where a pharmacy there is?",
+                        "Could you know where is a pharmacy?"
+                    ],
+                    "answer": "Do you know where there is a pharmacy?",
+                    "explanation": "Indirect questions use statement word order after the question word. 'Where there is a pharmacy' (not 'where is there') is the correct structure."
+                },
+                {
+                    "id": "G48",
+                    "difficulty": 3,
+                    "arabicHint": "الموافقة والاختلاف: تطبيق متقدم",
+                    "question": "Choose the correct response that expresses agreement with Speaker A.",
+                    "prompt": "A: 'I've never tried sushi.' B: '_____' (B also hasn't tried sushi)",
+                    "options": [
+                        "So have I.",
+                        "I have too.",
+                        "Neither have I.",
+                        "I haven't too."
+                    ],
+                    "answer": "Neither have I.",
+                    "explanation": "'Neither have I' agrees with a negative statement using present perfect. 'I haven't too' is incorrect — use 'either' not 'too' with negatives. 'I haven't either' would also be correct."
+                },
+                {
+                    "id": "G49",
+                    "difficulty": 3,
+                    "arabicHint": "الكلام المنقول: جملة كاملة متعددة التحولات",
+                    "question": "Select the sentence where ALL reported speech changes are correctly applied.",
+                    "prompt": "Direct: 'I'll see you tomorrow.' (said by Layla to her friend) Reported: Layla said _____ .",
+                    "options": [
+                        "she will see her friend tomorrow",
+                        "she would see her friend the next day",
+                        "she would see you the next day",
+                        "she sees her friend the next day"
+                    ],
+                    "answer": "she would see her friend the next day",
+                    "explanation": "'Will' shifts to 'would.' 'You' shifts to 'her friend' (perspective change). 'Tomorrow' shifts to 'the next day.' All three changes must happen simultaneously."
+                },
+                {
+                    "id": "G50",
+                    "difficulty": 3,
+                    "arabicHint": "السؤال غير المباشر المتكامل: Could you tell me + statement order",
+                    "question": "Choose the only fully correct indirect question.",
+                    "prompt": "Which sentence is correct?",
+                    "options": [
+                        "Could you tell me where can I find the manager?",
+                        "Could you tell me where I can find the manager?",
+                        "Could you tell me where I could found the manager?",
+                        "Could you tell me if where I can find the manager?"
+                    ],
+                    "answer": "Could you tell me where I can find the manager?",
+                    "explanation": "Indirect questions use statement word order after the question word: subject (I) + verb (can find). No inversion of 'can' and 'I.' No extra 'if' when a question word is already present."
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "questions": [
+                {
+                    "id": "V1",
+                    "difficulty": 2,
+                    "arabicHint": "شخص يتصل هاتفيا للترويج لمنتجات",
+                    "prompt": "Many people find _____ annoying because they call at inconvenient times to sell products or services.",
+                    "options": [
+                        "telemarketers",
+                        "journalists",
+                        "receptionists",
+                        "broadcasters"
+                    ],
+                    "answer": "telemarketers",
+                    "explanation": "Telemarketers are people who call potential customers by phone to sell products or services. Many people consider them a nuisance."
+                },
+                {
+                    "id": "V2",
+                    "difficulty": 2,
+                    "arabicHint": "ازعاج / مصدر انزعاج",
+                    "prompt": "Constant noise from the street outside was a real _____ for the students trying to study.",
+                    "options": [
+                        "nuisance",
+                        "network",
+                        "notice",
+                        "notion"
+                    ],
+                    "answer": "nuisance",
+                    "explanation": "A nuisance is something or someone that causes annoyance or inconvenience. Telemarketers are often described as a nuisance."
+                },
+                {
+                    "id": "V3",
+                    "difficulty": 1,
+                    "arabicHint": "يقنع / يحاول ان يجعل شخصا يفعل شيئا",
+                    "prompt": "The salesperson tried to _____ the customer to buy the more expensive model by highlighting its features.",
+                    "options": [
+                        "persuade",
+                        "prevent",
+                        "produce",
+                        "predict"
+                    ],
+                    "answer": "persuade",
+                    "explanation": "To persuade means to cause someone to do something through reasoning or argument. Telemarketers often try to persuade people to buy their products."
+                },
+                {
+                    "id": "V4",
+                    "difficulty": 2,
+                    "arabicHint": "يصر / لا يتراجع عن موقفه",
+                    "prompt": "Even after being told no three times, the salesman _____ and kept repeating his offer.",
+                    "options": [
+                        "insisted",
+                        "assisted",
+                        "resisted",
+                        "existed"
+                    ],
+                    "answer": "insisted",
+                    "explanation": "To insist means to continue demanding something firmly, even when faced with refusal. A pushy salesperson insists even when the customer says no."
+                },
+                {
+                    "id": "V5",
+                    "difficulty": 2,
+                    "arabicHint": "متسرع / عدواني في اسلوب البيع",
+                    "prompt": "The agent was very _____ — he wouldn't take no for an answer and kept interrupting.",
+                    "options": [
+                        "pushy",
+                        "patient",
+                        "polite",
+                        "passive"
+                    ],
+                    "answer": "pushy",
+                    "explanation": "Pushy describes someone who is aggressively trying to get what they want. A pushy salesperson makes customers feel pressured and uncomfortable."
+                },
+                {
+                    "id": "V6",
+                    "difficulty": 1,
+                    "arabicHint": "يغلق الخط / ينهي المكالمة",
+                    "prompt": "Frustrated by the caller, she finally _____ without saying goodbye.",
+                    "options": [
+                        "hung up",
+                        "called up",
+                        "picked up",
+                        "signed up"
+                    ],
+                    "answer": "hung up",
+                    "explanation": "To hang up means to end a phone call. It can also suggest rudely ending a call mid-conversation when you have run out of patience."
+                },
+                {
+                    "id": "V7",
+                    "difficulty": 1,
+                    "arabicHint": "يتصل بـ (عبر الهاتف)",
+                    "prompt": "He _____ his old friend after not speaking to him for over two years.",
+                    "options": [
+                        "called up",
+                        "called off",
+                        "called for",
+                        "called in"
+                    ],
+                    "answer": "called up",
+                    "explanation": "'Call up' means to telephone someone. It is an informal phrasal verb commonly used in everyday conversation."
+                },
+                {
+                    "id": "V8",
+                    "difficulty": 2,
+                    "arabicHint": "خداع مدبر / حيلة مزيفة",
+                    "prompt": "The email claiming he had won a lottery was a complete _____ — he had never bought a ticket.",
+                    "options": [
+                        "hoax",
+                        "habit",
+                        "hazard",
+                        "harvest"
+                    ],
+                    "answer": "hoax",
+                    "explanation": "A hoax is a trick or deception designed to make someone believe something false. 'You won a prize' scams are a classic example of a hoax."
+                },
+                {
+                    "id": "V9",
+                    "difficulty": 2,
+                    "arabicHint": "مسابقة / منافسة يفوز فيها شخص بجائزة",
+                    "prompt": "She entered an online _____ and was excited when she received a notification saying she had come first.",
+                    "options": [
+                        "contest",
+                        "contract",
+                        "content",
+                        "contact"
+                    ],
+                    "answer": "contest",
+                    "explanation": "A contest is a competition where people try to win a prize. If someone claims you won without entering a contest, it is likely a hoax."
+                },
+                {
+                    "id": "V10",
+                    "difficulty": 1,
+                    "arabicHint": "يعتذر / يقول اسف",
+                    "prompt": "He felt terrible about being late, so he _____ sincerely and promised it would not happen again.",
+                    "options": [
+                        "apologized",
+                        "authorized",
+                        "sympathized",
+                        "recognized"
+                    ],
+                    "answer": "apologized",
+                    "explanation": "To apologize means to say sorry and acknowledge a mistake. Apologizing is an important part of maintaining good relationships."
+                },
+                {
+                    "id": "V11",
+                    "difficulty": 2,
+                    "arabicHint": "جهاز الرد على المكالمات",
+                    "prompt": "No one was home, so the caller left a message on the family's _____.",
+                    "options": [
+                        "answering machine",
+                        "fax machine",
+                        "vending machine",
+                        "washing machine"
+                    ],
+                    "answer": "answering machine",
+                    "explanation": "An answering machine is a device that records telephone messages when no one is available to answer. Families use them to never miss a call."
+                },
+                {
+                    "id": "V12",
+                    "difficulty": 1,
+                    "arabicHint": "رسالة صوتية تركها شخص على الهاتف",
+                    "prompt": "She forgot her phone and came home to find three _____ from her manager.",
+                    "options": [
+                        "messages",
+                        "packages",
+                        "invoices",
+                        "contracts"
+                    ],
+                    "answer": "messages",
+                    "explanation": "A message is information left for someone when they are unavailable. Phone messages are a common way to communicate when a call is not answered."
+                },
+                {
+                    "id": "V13",
+                    "difficulty": 2,
+                    "arabicHint": "وكالة السفر: شركة تنظم رحلات سياحية",
+                    "prompt": "He booked his flight and hotel through a _____ that specialised in last-minute holiday deals.",
+                    "options": [
+                        "travel agency",
+                        "insurance company",
+                        "shipping company",
+                        "delivery service"
+                    ],
+                    "answer": "travel agency",
+                    "explanation": "A travel agency is a business that arranges holidays, flights, and accommodation for customers. Scammers sometimes pretend to be from travel agencies."
+                },
+                {
+                    "id": "V14",
+                    "difficulty": 1,
+                    "arabicHint": "منطقة جبلية ذات تضاريس وعرة",
+                    "prompt": "The hiking trail passes through a beautiful _____ region with steep cliffs and cool air.",
+                    "options": [
+                        "mountainous",
+                        "coastal",
+                        "desert",
+                        "industrial"
+                    ],
+                    "answer": "mountainous",
+                    "explanation": "Mountainous means covered with mountains or having a landscape of steep hills. Cold, mountainous destinations require warm clothing."
+                },
+                {
+                    "id": "V15",
+                    "difficulty": 2,
+                    "arabicHint": "حساب مصرفي: سجل في البنك",
+                    "prompt": "She went to the bank to _____ a new savings _____ and was given a welcome pack.",
+                    "options": [
+                        "open / account",
+                        "close / file",
+                        "start / contract",
+                        "join / register"
+                    ],
+                    "answer": "open / account",
+                    "explanation": "'Open an account' means to start a new banking arrangement. Telemarketers often try to persuade people to open accounts with their banks."
+                },
+                {
+                    "id": "V16",
+                    "difficulty": 2,
+                    "arabicHint": "في مكان اخر / عند مزود مختلف",
+                    "prompt": "He politely told the salesman he already had similar services _____ and was not interested.",
+                    "options": [
+                        "elsewhere",
+                        "everywhere",
+                        "nowhere",
+                        "somewhere"
+                    ],
+                    "answer": "elsewhere",
+                    "explanation": "Elsewhere means somewhere other than the place being mentioned. Saying 'I have an account elsewhere' means you already use a different provider."
+                },
+                {
+                    "id": "V17",
+                    "difficulty": 1,
+                    "arabicHint": "يفقد صبره / لا يستطيع الانتظار اكثر",
+                    "prompt": "After waiting an hour with no response, he finally _____ his patience and demanded to speak to a manager.",
+                    "options": [
+                        "lost",
+                        "found",
+                        "kept",
+                        "earned"
+                    ],
+                    "answer": "lost",
+                    "explanation": "'Lose one's patience' means to stop being patient and become frustrated. When a caller is too pushy, people often lose patience and simply hang up."
+                },
+                {
+                    "id": "V18",
+                    "difficulty": 2,
+                    "arabicHint": "في النهاية / كنتيجة اخيرة",
+                    "prompt": "After hours of negotiation, _____, both sides agreed to the terms of the deal.",
+                    "options": [
+                        "in the end",
+                        "at the start",
+                        "for the moment",
+                        "by the way"
+                    ],
+                    "answer": "in the end",
+                    "explanation": "'In the end' is used to say what finally happened after a long process or series of events. It is similar in meaning to 'finally' or 'eventually.'"
+                },
+                {
+                    "id": "V19",
+                    "difficulty": 2,
+                    "arabicHint": "او ما شابه ذلك: للاشارة الى اشياء مشابهة",
+                    "prompt": "Have you ever entered a competition, a raffle, _____?",
+                    "options": [
+                        "or anything like that",
+                        "or something else done",
+                        "and everything done",
+                        "but not that"
+                    ],
+                    "answer": "or anything like that",
+                    "explanation": "'Or anything like that' is an informal phrase meaning 'or other similar things.' It avoids giving a complete list and keeps conversation natural and relaxed."
+                },
+                {
+                    "id": "V20",
+                    "difficulty": 1,
+                    "arabicHint": "تسويق عبر الهاتف",
+                    "prompt": "She strongly believed that _____ should be banned, as it invades people's privacy at home.",
+                    "options": [
+                        "telemarketing",
+                        "broadcasting",
+                        "networking",
+                        "advertising"
+                    ],
+                    "answer": "telemarketing",
+                    "explanation": "Telemarketing is the practice of marketing products or services directly to potential customers by telephone. Many countries have laws restricting it."
+                },
+                {
+                    "id": "V21",
+                    "difficulty": 2,
+                    "arabicHint": "الاحترار العالمي: ارتفاع حرارة الارض",
+                    "prompt": "Scientists warn that _____ is causing ice caps to melt and sea levels to rise around the world.",
+                    "options": [
+                        "global warming",
+                        "air traffic",
+                        "water shortage",
+                        "land erosion"
+                    ],
+                    "answer": "global warming",
+                    "explanation": "Global warming is the long-term rise in Earth's average temperature due to greenhouse gas emissions. It is one of the most serious environmental issues today."
+                },
+                {
+                    "id": "V22",
+                    "difficulty": 2,
+                    "arabicHint": "تآكل التربة: اختفاء الطبقة الخارجية من الارض",
+                    "prompt": "Heavy rain and cutting down trees led to severe _____ of the hillside soil.",
+                    "options": [
+                        "erosion",
+                        "explosion",
+                        "expansion",
+                        "emission"
+                    ],
+                    "answer": "erosion",
+                    "explanation": "Erosion is the gradual wearing away of soil or rock by wind, water, or other natural forces. Deforestation makes erosion much worse."
+                },
+                {
+                    "id": "V23",
+                    "difficulty": 1,
+                    "arabicHint": "تلوث الهواء: وجود مواد ضارة في الجو",
+                    "prompt": "Factory smoke and vehicle exhaust are major causes of _____ in modern cities.",
+                    "options": [
+                        "air pollution",
+                        "water erosion",
+                        "land clearing",
+                        "noise control"
+                    ],
+                    "answer": "air pollution",
+                    "explanation": "Air pollution is the presence of harmful substances in the air, caused by burning fuel, factories, and vehicles. It is a major environmental and health threat."
+                },
+                {
+                    "id": "V24",
+                    "difficulty": 2,
+                    "arabicHint": "الصيد المفرط: اصطياد الاسماك باكثر مما ينبغي",
+                    "prompt": "Marine biologists warned that _____ was pushing several species of fish towards extinction.",
+                    "options": [
+                        "overfishing",
+                        "overheating",
+                        "overbuilding",
+                        "overloading"
+                    ],
+                    "answer": "overfishing",
+                    "explanation": "Overfishing means catching fish at a rate faster than they can reproduce. It threatens ocean biodiversity and the livelihoods of fishing communities."
+                },
+                {
+                    "id": "V25",
+                    "difficulty": 2,
+                    "arabicHint": "ازالة الغابات: قطع الاشجار على نطاق واسع",
+                    "prompt": "Large areas of rainforest disappear every year due to _____ for farming and logging.",
+                    "options": [
+                        "deforestation",
+                        "desertification",
+                        "degradation",
+                        "dehydration"
+                    ],
+                    "answer": "deforestation",
+                    "explanation": "Deforestation is the large-scale removal of forests. It destroys habitats, contributes to climate change, and accelerates soil erosion."
+                },
+                {
+                    "id": "V26",
+                    "difficulty": 1,
+                    "arabicHint": "فيضان: غمر الارض بالمياه",
+                    "prompt": "The river burst its banks after three days of heavy rain, causing a severe _____ in the valley below.",
+                    "options": [
+                        "flood",
+                        "drought",
+                        "earthquake",
+                        "erosion"
+                    ],
+                    "answer": "flood",
+                    "explanation": "A flood occurs when a large amount of water covers an area that is usually dry. Heavy rain, burst riverbanks, or storms can cause devastating flooding."
+                },
+                {
+                    "id": "V27",
+                    "difficulty": 1,
+                    "arabicHint": "زلزال: اهتزاز الارض فجاة",
+                    "prompt": "The buildings collapsed after a powerful _____ struck the coastal city early in the morning.",
+                    "options": [
+                        "earthquake",
+                        "thunderstorm",
+                        "flood",
+                        "hurricane"
+                    ],
+                    "answer": "earthquake",
+                    "explanation": "An earthquake is a sudden and violent shaking of the ground caused by movement of tectonic plates. It is one of the most destructive natural disasters."
+                },
+                {
+                    "id": "V28",
+                    "difficulty": 2,
+                    "arabicHint": "تسونامي: موجة بحرية ضخمة ناتجة عن زلازل",
+                    "prompt": "The underwater earthquake triggered a powerful _____ that swept several kilometres inland.",
+                    "options": [
+                        "tsunami",
+                        "tornado",
+                        "typhoon",
+                        "flood"
+                    ],
+                    "answer": "tsunami",
+                    "explanation": "A tsunami is a series of giant ocean waves usually caused by an undersea earthquake or volcanic eruption. It can devastate coastal areas within minutes."
+                },
+                {
+                    "id": "V29",
+                    "difficulty": 2,
+                    "arabicHint": "ثوران بركاني: انفجار بركان",
+                    "prompt": "Lava and ash covered the surrounding villages after the sudden _____.",
+                    "options": [
+                        "volcanic eruption",
+                        "forest fire",
+                        "thunderstorm",
+                        "earthquake"
+                    ],
+                    "answer": "volcanic eruption",
+                    "explanation": "A volcanic eruption occurs when magma, ash, and gases burst from a volcano. It is one of the most dramatic and destructive natural events."
+                },
+                {
+                    "id": "V30",
+                    "difficulty": 1,
+                    "arabicHint": "حريق الغابات: النيران التي تمتد في الاشجار",
+                    "prompt": "Dry conditions and strong winds caused a _____ that spread across hundreds of acres.",
+                    "options": [
+                        "forest fire",
+                        "flash flood",
+                        "dust storm",
+                        "landslide"
+                    ],
+                    "answer": "forest fire",
+                    "explanation": "A forest fire is an uncontrolled fire that spreads through a wooded area. Climate change and deforestation increase the risk of forest fires worldwide."
+                },
+                {
+                    "id": "V31",
+                    "difficulty": 1,
+                    "arabicHint": "ضرر / دمار: الاذى الناتج عن كارثة",
+                    "prompt": "The hurricane caused significant _____ to roads, homes, and power lines across the region.",
+                    "options": [
+                        "damage",
+                        "danger",
+                        "demand",
+                        "data"
+                    ],
+                    "answer": "damage",
+                    "explanation": "Damage refers to physical harm that reduces the value or usefulness of something. Natural disasters typically cause massive damage to infrastructure."
+                },
+                {
+                    "id": "V32",
+                    "difficulty": 2,
+                    "arabicHint": "يهدد / يشكل خطرا على شيء او شخص",
+                    "prompt": "Rising sea levels _____ low-lying islands, which may disappear entirely within decades.",
+                    "options": [
+                        "threaten",
+                        "support",
+                        "improve",
+                        "celebrate"
+                    ],
+                    "answer": "threaten",
+                    "explanation": "To threaten means to put someone or something at risk of harm. Environmental problems like flooding and erosion threaten entire communities worldwide."
+                },
+                {
+                    "id": "V33",
+                    "difficulty": 1,
+                    "arabicHint": "ينقذ / يخرج شخصا من خطر",
+                    "prompt": "Emergency crews worked through the night to _____ survivors trapped under the rubble.",
+                    "options": [
+                        "rescue",
+                        "remove",
+                        "replace",
+                        "repair"
+                    ],
+                    "answer": "rescue",
+                    "explanation": "To rescue means to save someone from a dangerous or harmful situation. Rescue teams respond immediately after earthquakes, floods, and other disasters."
+                },
+                {
+                    "id": "V34",
+                    "difficulty": 1,
+                    "arabicHint": "يحمي / يصون شيئا من الاذى",
+                    "prompt": "New laws were introduced to _____ endangered species from being hunted.",
+                    "options": [
+                        "protect",
+                        "pollute",
+                        "promote",
+                        "prevent"
+                    ],
+                    "answer": "protect",
+                    "explanation": "To protect means to keep something or someone safe from harm or damage. Environmental laws protect wildlife, forests, and clean water sources."
+                },
+                {
+                    "id": "V35",
+                    "difficulty": 2,
+                    "arabicHint": "بحث علمي: دراسة منهجية لفهم شيء ما",
+                    "prompt": "The fishing industry claimed it was catching whales for _____ purposes, not for food.",
+                    "options": [
+                        "research",
+                        "recreation",
+                        "rescue",
+                        "revenue"
+                    ],
+                    "answer": "research",
+                    "explanation": "Research means careful study and investigation to discover new facts or test ideas. Some industries claim research as a justification for controversial activities."
+                },
+                {
+                    "id": "V36",
+                    "difficulty": 2,
+                    "arabicHint": "مثالي / يستحق التقليد",
+                    "prompt": "The teacher was described as _____ — always fair, well-prepared, and dedicated to every student.",
+                    "options": [
+                        "exemplary",
+                        "elementary",
+                        "explanatory",
+                        "exploratory"
+                    ],
+                    "answer": "exemplary",
+                    "explanation": "Exemplary means serving as a perfect example worthy of imitation. A leader who is exemplary inspires others through their consistent and admirable actions."
+                },
+                {
+                    "id": "V37",
+                    "difficulty": 3,
+                    "arabicHint": "مسعى / هدف يسعى اليه شخص بجهد كبير",
+                    "prompt": "Space exploration is a remarkable scientific _____ that has pushed the limits of human knowledge.",
+                    "options": [
+                        "endeavor",
+                        "encounter",
+                        "entrance",
+                        "endurance"
+                    ],
+                    "answer": "endeavor",
+                    "explanation": "An endeavor is a serious attempt or effort to do something important. It is often used for ambitious projects requiring significant commitment and resources."
+                },
+                {
+                    "id": "V38",
+                    "difficulty": 3,
+                    "arabicHint": "يتحكم في / يسيطر على",
+                    "prompt": "A truly wise person _____ their emotions rather than letting emotions control their decisions.",
+                    "options": [
+                        "governs",
+                        "ignores",
+                        "creates",
+                        "replaces"
+                    ],
+                    "answer": "governs",
+                    "explanation": "To govern means to control or manage. Benjamin Franklin suggested that true power lies in governing one's own passions."
+                },
+                {
+                    "id": "V39",
+                    "difficulty": 3,
+                    "arabicHint": "الرغبات / العواطف القوية",
+                    "prompt": "Benjamin Franklin suggested that a truly powerful person is one who controls their _____.",
+                    "options": [
+                        "passions",
+                        "positions",
+                        "possessions",
+                        "professions"
+                    ],
+                    "answer": "passions",
+                    "explanation": "Passions are strong emotions or desires. Franklin's quote implies that self-control over one's own desires is a truer form of power than wealth or status."
+                },
+                {
+                    "id": "V40",
+                    "difficulty": 2,
+                    "arabicHint": "راضٍ بما لديه / مكتفٍ",
+                    "prompt": "According to Franklin's wisdom, the truly rich person is one who is _____ with what they have.",
+                    "options": [
+                        "content",
+                        "confident",
+                        "concerned",
+                        "confused"
+                    ],
+                    "answer": "content",
+                    "explanation": "Content means satisfied and at ease with one's situation. Franklin's quote equates being content with being wealthy, suggesting richness is a state of mind."
+                },
+                {
+                    "id": "V41",
+                    "difficulty": 2,
+                    "arabicHint": "ناشط / شخص يكافح من اجل قضية",
+                    "prompt": "Helen Keller was a famous _____ who campaigned for the rights of people with disabilities.",
+                    "options": [
+                        "activist",
+                        "architect",
+                        "astronaut",
+                        "accountant"
+                    ],
+                    "answer": "activist",
+                    "explanation": "An activist is a person who campaigns actively for social or political change. Helen Keller used her story and voice to inspire others and fight for important causes."
+                },
+                {
+                    "id": "V42",
+                    "difficulty": 3,
+                    "arabicHint": "رؤية / قدرة على التصور المستقبلي او الهادف",
+                    "prompt": "Helen Keller said it is terrible to see and have no _____ — meaning eyes without purpose are wasted.",
+                    "options": [
+                        "vision",
+                        "version",
+                        "mission",
+                        "passion"
+                    ],
+                    "answer": "vision",
+                    "explanation": "Vision here means the ability to think about the future with imagination and wisdom. Keller's quote suggests that physical sight without insight or purpose is meaningless."
+                },
+                {
+                    "id": "V43",
+                    "difficulty": 2,
+                    "arabicHint": "دبلوماسي: شخص يمثل بلده في الخارج",
+                    "prompt": "Benjamin Franklin served as a _____ in France, representing American interests during a critical period of history.",
+                    "options": [
+                        "diplomat",
+                        "detective",
+                        "decorator",
+                        "developer"
+                    ],
+                    "answer": "diplomat",
+                    "explanation": "A diplomat is an official who represents their country in foreign relations. Franklin was one of America's most celebrated diplomats, known for his charm and intelligence."
+                },
+                {
+                    "id": "V44",
+                    "difficulty": 1,
+                    "arabicHint": "مؤسس شركة: الشخص الذي انشاها لاول مرة",
+                    "prompt": "Bill Gates, the _____ of Microsoft, famously misjudged how much computer memory people would ever need.",
+                    "options": [
+                        "founder",
+                        "manager",
+                        "employee",
+                        "customer"
+                    ],
+                    "answer": "founder",
+                    "explanation": "A founder is the person who establishes an organisation, company, or movement for the first time. Bill Gates co-founded Microsoft in 1975."
+                },
+                {
+                    "id": "V45",
+                    "difficulty": 2,
+                    "arabicHint": "التعليم الرسمي: الدراسة في المدارس والجامعات",
+                    "prompt": "Mark Twain famously warned against letting _____ get in the way of real learning.",
+                    "options": [
+                        "formal education",
+                        "physical fitness",
+                        "social media",
+                        "personal finance"
+                    ],
+                    "answer": "formal education",
+                    "explanation": "Formal education refers to structured learning in schools and universities. Twain's quote suggests real wisdom also comes from life experience, not just academic instruction."
+                },
+                {
+                    "id": "V46",
+                    "difficulty": 2,
+                    "arabicHint": "يتكون من / مكون من اجزاء متعددة",
+                    "prompt": "Robert Frost's quote suggests that the world is _____ two types of people: those who talk too much and those who say nothing.",
+                    "options": [
+                        "composed of",
+                        "created by",
+                        "compared to",
+                        "combined with"
+                    ],
+                    "answer": "composed of",
+                    "explanation": "'Composed of' means made up of or consisting of. Frost's quote humorously divides humanity into two contrasting types of communicators."
+                },
+                {
+                    "id": "V47",
+                    "difficulty": 2,
+                    "arabicHint": "الصيدلية: محل بيع الادوية",
+                    "prompt": "She asked a passerby if they knew where the nearest _____ was, as she needed to buy medicine urgently.",
+                    "options": [
+                        "pharmacy",
+                        "bakery",
+                        "laundry",
+                        "stationery"
+                    ],
+                    "answer": "pharmacy",
+                    "explanation": "A pharmacy is a shop where medicinal drugs are sold and dispensed. Asking for directions to the nearest pharmacy is a classic indirect question context."
+                },
+                {
+                    "id": "V48",
+                    "difficulty": 1,
+                    "arabicHint": "مكتب البريد: مكان ارسال الطرود والرسائل",
+                    "prompt": "He needed to send a package abroad, so he asked if anyone knew where the main _____ was.",
+                    "options": [
+                        "post office",
+                        "fire station",
+                        "police station",
+                        "health clinic"
+                    ],
+                    "answer": "post office",
+                    "explanation": "A post office is a place where you can send letters and parcels, buy stamps, and access postal services. It is frequently used in indirect question exercises about directions."
+                },
+                {
+                    "id": "V49",
+                    "difficulty": 2,
+                    "arabicHint": "محطة وقود: مكان تعبئة الوقود",
+                    "prompt": "She asked the hotel receptionist if they knew when the nearest _____ closed.",
+                    "options": [
+                        "gas station",
+                        "police station",
+                        "post office",
+                        "pharmacy"
+                    ],
+                    "answer": "gas station",
+                    "explanation": "A gas station (or petrol station) is a facility where vehicles are refuelled. Knowing when one closes is important for travellers on long road trips."
+                },
+                {
+                    "id": "V50",
+                    "difficulty": 3,
+                    "arabicHint": "حكيم / يتبع تصرفات ذكية وعقلانية",
+                    "prompt": "Benjamin Franklin asked: 'Who is _____? He that learns from everyone.' This suggests wisdom comes from openness.",
+                    "options": [
+                        "wise",
+                        "wealthy",
+                        "powerful",
+                        "content"
+                    ],
+                    "answer": "wise",
+                    "explanation": "Wise means having experience, knowledge, and good judgement. Franklin's quote defines wisdom as the ability to learn from all people around you."
+                }
+            ]
+        }
+    ]
+}

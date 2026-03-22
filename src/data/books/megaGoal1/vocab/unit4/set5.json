@@ -1,0 +1,814 @@
+{
+    "unit": "Mega Goal 1 - Unit 4: Transportation and Design",
+    "type": "vocabulary_box",
+    "setTitle": "End of Unit Vocabulary",
+    "words": [
+        {
+            "word": "portable",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Small and light enough to "
+                },
+                {
+                    "text": "carry easily",
+                    "highlight": true
+                },
+                {
+                    "text": " from "
+                },
+                {
+                    "text": "one place to another",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "محمول",
+            "synonyms": [
+                "easy to carry",
+                "mobile"
+            ],
+            "example": [
+                {
+                    "text": "Laptops are "
+                },
+                {
+                    "text": "portable",
+                    "colorize": true
+                },
+                {
+                    "text": " computers you can take anywhere."
+                }
+            ],
+            "tips": "Portable devices: phones, tablets, chargers. Opposite: stationary (stays in one place)."
+        },
+        {
+            "word": "customize",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To change something "
+                },
+                {
+                    "text": "to suit your own",
+                    "highlight": true
+                },
+                {
+                    "text": " "
+                },
+                {
+                    "text": "taste or needs",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُخصّص / يُعدّل حسب الطلب",
+            "synonyms": [
+                "personalize",
+                "modify"
+            ],
+            "example": [
+                {
+                    "text": "You can "
+                },
+                {
+                    "text": "customize",
+                    "colorize": true
+                },
+                {
+                    "text": " your phone with different cases and wallpapers."
+                }
+            ],
+            "tips": "Customize a car/bike/phone/app. Shows individuality. Many products offer customization options."
+        },
+        {
+            "word": "What are you up to?",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "A casual way to ask "
+                },
+                {
+                    "text": "what someone is doing",
+                    "highlight": true
+                },
+                {
+                    "text": " right "
+                },
+                {
+                    "text": "now or recently",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ماذا تفعل؟ / ما خططك؟",
+            "synonyms": [
+                "What are you doing?",
+                "What's happening with you?"
+            ],
+            "example": [
+                {
+                    "text": "\"Hey! "
+                },
+                {
+                    "text": "What are you up to?",
+                    "colorize": true
+                },
+                {
+                    "text": "\" \"Just finishing my homework.\""
+                }
+            ],
+            "tips": "Very common in casual conversation. Not formal—don't use in job interviews or official letters."
+        },
+        {
+            "word": "fuel",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A material like "
+                },
+                {
+                    "text": "gasoline or electricity",
+                    "highlight": true
+                },
+                {
+                    "text": " that gives "
+                },
+                {
+                    "text": "power to machines",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "وقود",
+            "synonyms": [
+                "energy source",
+                "power source"
+            ],
+            "example": [
+                {
+                    "text": "Electric cars use batteries instead of traditional "
+                },
+                {
+                    "text": "fuel",
+                    "colorize": true
+                },
+                {
+                    "text": "."
+                }
+            ],
+            "tips": "Renewable fuel (solar, wind) vs. non-renewable (gasoline, coal). 'Fuel-efficient' = uses little fuel for distance traveled."
+        },
+        {
+            "word": "compact car",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A small car that is "
+                },
+                {
+                    "text": "easy to park",
+                    "highlight": true
+                },
+                {
+                    "text": " and uses "
+                },
+                {
+                    "text": "less fuel",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "سيارة صغيرة الحجم",
+            "synonyms": [
+                "small car",
+                "economy car"
+            ],
+            "example": [
+                {
+                    "text": "In crowded cities, a "
+                },
+                {
+                    "text": "compact car",
+                    "colorize": true
+                },
+                {
+                    "text": " is often more practical than a large SUV."
+                }
+            ],
+            "tips": "Good for city driving and saving money on fuel. Less space for passengers/luggage than larger vehicles."
+        },
+        {
+            "word": "wireless",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Working without "
+                },
+                {
+                    "text": "wires or cables",
+                    "highlight": true
+                },
+                {
+                    "text": " using "
+                },
+                {
+                    "text": "radio signals",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "لاسلكي",
+            "synonyms": [
+                "cordless",
+                "without wires"
+            ],
+            "example": [
+                {
+                    "text": "I prefer "
+                },
+                {
+                    "text": "wireless",
+                    "colorize": true
+                },
+                {
+                    "text": " earphones so I don't get tangled in cords."
+                }
+            ],
+            "tips": "Wireless technology: Wi-Fi, Bluetooth, wireless chargers. Not always 100% reliable—sometimes cables work better."
+        },
+        {
+            "word": "bulky",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Large and "
+                },
+                {
+                    "text": "taking up too much space",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "not easy to carry",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ضخم / كبير الحجم",
+            "synonyms": [
+                "large and awkward",
+                "cumbersome"
+            ],
+            "example": [
+                {
+                    "text": "Old computer monitors were "
+                },
+                {
+                    "text": "bulky",
+                    "colorize": true
+                },
+                {
+                    "text": ", but modern screens are thin and light."
+                }
+            ],
+            "tips": "Bulky luggage, bulky furniture. Opposite of portable. Bulky items are hard to store or move."
+        },
+        {
+            "word": "opt",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "choose or decide",
+                    "highlight": true
+                },
+                {
+                    "text": " to take a "
+                },
+                {
+                    "text": "particular option",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يختار / يفضّل",
+            "synonyms": [
+                "choose",
+                "select",
+                "decide on"
+            ],
+            "example": [
+                {
+                    "text": "Many students "
+                },
+                {
+                    "text": "opt",
+                    "colorize": true
+                },
+                {
+                    "text": " for online classes because they're more flexible."
+                }
+            ],
+            "tips": "Always 'opt FOR' something (opt for the smaller size). More formal than 'choose'. Common in writing."
+        },
+        {
+            "word": "smooth",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Having a "
+                },
+                {
+                    "text": "flat, even surface",
+                    "highlight": true
+                },
+                {
+                    "text": " with "
+                },
+                {
+                    "text": "no bumps or rough parts",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ناعم / أملس",
+            "synonyms": [
+                "even",
+                "flat",
+                "not rough"
+            ],
+            "example": [
+                {
+                    "text": "The new road was "
+                },
+                {
+                    "text": "smooth",
+                    "colorize": true
+                },
+                {
+                    "text": ", making for a comfortable drive."
+                }
+            ],
+            "tips": "Smooth surface/skin/ride/voice. Opposite: rough or bumpy. 'Smooth talker' = someone who speaks persuasively (sometimes insincerely)."
+        },
+        {
+            "word": "frame",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The basic "
+                },
+                {
+                    "text": "structure that supports",
+                    "highlight": true
+                },
+                {
+                    "text": " something and "
+                },
+                {
+                    "text": "gives it shape",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "هيكل / إطار",
+            "synonyms": [
+                "structure",
+                "skeleton"
+            ],
+            "example": [
+                {
+                    "text": "Bicycle "
+                },
+                {
+                    "text": "frames",
+                    "colorize": true
+                },
+                {
+                    "text": " are often made of lightweight metal or carbon fiber."
+                }
+            ],
+            "tips": "Car frame, bike frame, picture frame. The frame holds everything together—without it, the object collapses."
+        },
+        {
+            "word": "provider",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A company or person that "
+                },
+                {
+                    "text": "supplies a service",
+                    "highlight": true
+                },
+                {
+                    "text": " such as "
+                },
+                {
+                    "text": "internet or electricity",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مزود / مزوّد خدمة",
+            "synonyms": [
+                "supplier",
+                "service company"
+            ],
+            "example": [
+                {
+                    "text": "We changed our internet "
+                },
+                {
+                    "text": "provider",
+                    "colorize": true
+                },
+                {
+                    "text": " to get faster speeds."
+                }
+            ],
+            "tips": "Internet provider, phone provider, healthcare provider. They 'provide' what you need—for a price."
+        },
+        {
+            "word": "renewable",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Able to be "
+                },
+                {
+                    "text": "replaced naturally",
+                    "highlight": true
+                },
+                {
+                    "text": " and "
+                },
+                {
+                    "text": "not run out",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "متجدد",
+            "synonyms": [
+                "sustainable",
+                "naturally replenished"
+            ],
+            "example": [
+                {
+                    "text": "Solar and wind energy are "
+                },
+                {
+                    "text": "renewable",
+                    "colorize": true
+                },
+                {
+                    "text": " sources that won't disappear."
+                }
+            ],
+            "tips": "Renewable energy vs. fossil fuels (coal, oil) which take millions of years to form. Important for protecting our planet."
+        },
+        {
+            "word": "combination",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Something made by "
+                },
+                {
+                    "text": "joining two or more",
+                    "highlight": true
+                },
+                {
+                    "text": " things "
+                },
+                {
+                    "text": "together",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مزيج / مجموعة",
+            "synonyms": [
+                "mix",
+                "blend"
+            ],
+            "example": [
+                {
+                    "text": "The car's design is a perfect "
+                },
+                {
+                    "text": "combination",
+                    "colorize": true
+                },
+                {
+                    "text": " of style, speed, and safety."
+                }
+            ],
+            "tips": "Combination lock (uses numbers), color combination, perfect combination. Verb form: 'combine'."
+        },
+        {
+            "word": "surgical",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Related to "
+                },
+                {
+                    "text": "surgery or surgeons",
+                    "highlight": true
+                },
+                {
+                    "text": ", or done with "
+                },
+                {
+                    "text": "extreme precision",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "جراحي / دقيق جداً",
+            "synonyms": [
+                "medical (surgery)",
+                "precise"
+            ],
+            "example": [
+                {
+                    "text": "The robot performed the task with "
+                },
+                {
+                    "text": "surgical",
+                    "colorize": true
+                },
+                {
+                    "text": " precision, never making a mistake."
+                }
+            ],
+            "tips": "Surgical tools, surgical strike (military term for precise attack). Implies careful, exact movements."
+        },
+        {
+            "word": "conduct",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "organize and carry out",
+                    "highlight": true
+                },
+                {
+                    "text": " an "
+                },
+                {
+                    "text": "activity or test",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُجري / يُنفّذ",
+            "synonyms": [
+                "carry out",
+                "perform",
+                "run"
+            ],
+            "example": [
+                {
+                    "text": "Scientists will "
+                },
+                {
+                    "text": "conduct",
+                    "colorize": true
+                },
+                {
+                    "text": " tests on the new engine design next week."
+                }
+            ],
+            "tips": "Conduct research/experiments/interviews. More formal than 'do'. Not the same as 'conduct' (noun) = behavior."
+        },
+        {
+            "word": "pedal",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A lever you press with your "
+                },
+                {
+                    "text": "foot",
+                    "highlight": true
+                },
+                {
+                    "text": " to control a "
+                },
+                {
+                    "text": "vehicle or machine",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "دواسة",
+            "synonyms": [
+                "foot lever"
+            ],
+            "example": [
+                {
+                    "text": "Press the gas "
+                },
+                {
+                    "text": "pedal",
+                    "colorize": true
+                },
+                {
+                    "text": " gently to accelerate the car."
+                }
+            ],
+            "tips": "Car pedals: accelerator, brake, clutch. Bike pedals make the wheels turn. 'Pedal power' = energy from your legs."
+        },
+        {
+            "word": "substantial",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Large in "
+                },
+                {
+                    "text": "size, amount, or importance",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "significant",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "كبير / هام / جوهري",
+            "synonyms": [
+                "considerable",
+                "significant",
+                "major"
+            ],
+            "example": [
+                {
+                    "text": "The new electric car offers a "
+                },
+                {
+                    "text": "substantial",
+                    "colorize": true
+                },
+                {
+                    "text": " improvement in battery life."
+                }
+            ],
+            "tips": "Substantial change/improvement/evidence. Stronger than 'big'—implies meaningful impact. Not just physical size."
+        },
+        {
+            "word": "classic",
+            "wordType": "adjective/noun",
+            "definition": [
+                {
+                    "text": "Something of "
+                },
+                {
+                    "text": "lasting value",
+                    "highlight": true
+                },
+                {
+                    "text": " that is "
+                },
+                {
+                    "text": "considered excellent",
+                    "highlight2": true
+                },
+                {
+                    "text": " over time"
+                }
+            ],
+            "arabicMeaning": "كلاسيكي / خالد",
+            "synonyms": [
+                "timeless",
+                "traditional",
+                "excellent example"
+            ],
+            "example": [
+                {
+                    "text": "The Volkswagen Beetle is a "
+                },
+                {
+                    "text": "classic",
+                    "colorize": true
+                },
+                {
+                    "text": " car design recognized around the world."
+                }
+            ],
+            "tips": "Classic movie/book/car/style. Not just 'old'—must be respected and admired. 'Classic mistake' = very common error."
+        },
+        {
+            "word": "What on earth...?",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "An expression showing "
+                },
+                {
+                    "text": "surprise, confusion",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "frustration",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ماذا على الأرض؟ / ما هذا؟",
+            "synonyms": [
+                "What in the world...?",
+                "Why on earth...?"
+            ],
+            "example": [
+                {
+                    "text": "\""
+                },
+                {
+                    "text": "What on earth",
+                    "colorize": true
+                },
+                {
+                    "text": " is that noise?\" \"It's just the wind knocking a branch against the window.\""
+                }
+            ],
+            "tips": "Adds emphasis to questions. 'Earth' here doesn't mean the planet—it's just an intensifier. Very common in spoken English."
+        },
+        {
+            "word": "devise",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "plan or invent",
+                    "highlight": true
+                },
+                {
+                    "text": " something "
+                },
+                {
+                    "text": "new and clever",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُبتكر / يُصمم",
+            "synonyms": [
+                "invent",
+                "create",
+                "design"
+            ],
+            "example": [
+                {
+                    "text": "Engineers had to "
+                },
+                {
+                    "text": "devise",
+                    "colorize": true
+                },
+                {
+                    "text": " a new way to cool the engine efficiently."
+                }
+            ],
+            "tips": "Devise a plan/solution/system. More formal than 'come up with'. Implies intelligence and creativity."
+        },
+        {
+            "word": "triumph",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A great "
+                },
+                {
+                    "text": "success or victory",
+                    "highlight": true
+                },
+                {
+                    "text": " after "
+                },
+                {
+                    "text": "difficulty or struggle",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "انتصار / نجاح باهر",
+            "synonyms": [
+                "victory",
+                "achievement",
+                "success"
+            ],
+            "example": [
+                {
+                    "text": "The successful moon landing was a "
+                },
+                {
+                    "text": "triumph",
+                    "colorize": true
+                },
+                {
+                    "text": " of human engineering and courage."
+                }
+            ],
+            "tips": "Triumph over difficulties/challenges. Stronger than 'success'—implies overcoming obstacles. 'Triumphant' = adjective (feeling victorious)."
+        }
+    ]
+}

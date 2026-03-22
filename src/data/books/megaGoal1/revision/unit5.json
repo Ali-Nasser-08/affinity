@@ -1,0 +1,2649 @@
+{
+    "unit": "Mega Goal 1 - Unit 5: Safety & Directions",
+    "type": "revision",
+    "totalQuestions": 100,
+    "currentBatch": 1,
+    "sections": [
+        {
+            "section": "grammar",
+            "questions": [
+                {
+                    "id": "G1",
+                    "difficulty": 1,
+                    "arabicHint": "ضمائر الانعكاس (هو)",
+                    "question": "Choose the correct reflexive pronoun.",
+                    "prompt": [
+                        {
+                            "text": "He looked at "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " in the mirror before leaving."
+                        }
+                    ],
+                    "options": [
+                        "himself",
+                        "hisself",
+                        "him",
+                        "he"
+                    ],
+                    "answer": "himself",
+                    "explanation": "Use 'himself' when the subject and object are the same male person."
+                },
+                {
+                    "id": "G2",
+                    "difficulty": 2,
+                    "arabicHint": "ضمائر الانعكاس (هم)",
+                    "question": "Select the correct reflexive pronoun for plural.",
+                    "prompt": [
+                        {
+                            "text": "The children made the costumes "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "themselves",
+                        "themself",
+                        "them",
+                        "they"
+                    ],
+                    "answer": "themselves",
+                    "explanation": "Use 'themselves' for a plural subject acting on themselves."
+                },
+                {
+                    "id": "G3",
+                    "difficulty": 1,
+                    "arabicHint": "ضمائر الانعكاس (أنا)",
+                    "question": "Choose the correct reflexive pronoun.",
+                    "prompt": [
+                        {
+                            "text": "I cooked this meal "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "myself",
+                        "me",
+                        "mine",
+                        "my"
+                    ],
+                    "answer": "myself",
+                    "explanation": "Use 'myself' to emphasize that you did something without help."
+                },
+                {
+                    "id": "G4",
+                    "difficulty": 2,
+                    "arabicHint": "السبب (Because)",
+                    "question": "Select the conjunction that introduces a reason.",
+                    "prompt": [
+                        {
+                            "text": "She stayed home "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " she was feeling sick."
+                        }
+                    ],
+                    "options": [
+                        "so",
+                        "because",
+                        "but",
+                        "or"
+                    ],
+                    "answer": "because",
+                    "explanation": "Use 'because' to explain the reason why something happened."
+                },
+                {
+                    "id": "G5",
+                    "difficulty": 2,
+                    "arabicHint": "النتيجة (So)",
+                    "question": "Choose the conjunction that shows a result.",
+                    "prompt": [
+                        {
+                            "text": "It was raining heavily, "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " we canceled the picnic."
+                        }
+                    ],
+                    "options": [
+                        "because",
+                        "so",
+                        "although",
+                        "while"
+                    ],
+                    "answer": "so",
+                    "explanation": "Use 'so' to introduce the consequence or result of an action."
+                },
+                {
+                    "id": "G6",
+                    "difficulty": 3,
+                    "arabicHint": "لأن مقابل إذن",
+                    "question": "Select the correct connector based on logic.",
+                    "prompt": [
+                        {
+                            "text": "He didn't study, "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " he failed the test."
+                        }
+                    ],
+                    "options": [
+                        "because",
+                        "so",
+                        "since",
+                        "as"
+                    ],
+                    "answer": "so",
+                    "explanation": "The second clause is the result of the first, so 'so' is correct."
+                },
+                {
+                    "id": "G7",
+                    "difficulty": 2,
+                    "arabicHint": "الاتفاق الإيجابي (So)",
+                    "question": "Choose the correct response to agree.",
+                    "prompt": [
+                        {
+                            "text": "I love chocolate. "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " do I."
+                        }
+                    ],
+                    "options": [
+                        "Neither",
+                        "So",
+                        "Either",
+                        "Also"
+                    ],
+                    "answer": "So",
+                    "explanation": "Use 'So + auxiliary + subject' to agree with an affirmative statement."
+                },
+                {
+                    "id": "G8",
+                    "difficulty": 2,
+                    "arabicHint": "الاتفاق السلبي (Neither)",
+                    "question": "Select the correct response to agree with a negative.",
+                    "prompt": [
+                        {
+                            "text": "I don't like spicy food. "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " do I."
+                        }
+                    ],
+                    "options": [
+                        "So",
+                        "Neither",
+                        "Either",
+                        "Too"
+                    ],
+                    "answer": "Neither",
+                    "explanation": "Use 'Neither + auxiliary + subject' to agree with a negative statement."
+                },
+                {
+                    "id": "G9",
+                    "difficulty": 3,
+                    "arabicHint": "الاتفاق في الماضي",
+                    "question": "Choose the correct auxiliary for past tense agreement.",
+                    "prompt": [
+                        {
+                            "text": "I visited Paris last year. "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " did I."
+                        }
+                    ],
+                    "options": [
+                        "So",
+                        "Neither",
+                        "So have",
+                        "Neither have"
+                    ],
+                    "answer": "So",
+                    "explanation": "Use 'So did I' to agree with a past simple affirmative statement."
+                },
+                {
+                    "id": "G10",
+                    "difficulty": 3,
+                    "arabicHint": "الاتفاق في النفي الماضي",
+                    "question": "Select the correct negative agreement.",
+                    "prompt": [
+                        {
+                            "text": "I didn't sleep well last night. "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " did I."
+                        }
+                    ],
+                    "options": [
+                        "So",
+                        "Neither",
+                        "Either",
+                        "Nor"
+                    ],
+                    "answer": "Neither",
+                    "explanation": "Use 'Neither did I' to agree with a past simple negative statement."
+                },
+                {
+                    "id": "G11",
+                    "difficulty": 1,
+                    "arabicHint": "الالتزام (Must)",
+                    "question": "Choose the modal for rules and laws.",
+                    "prompt": [
+                        {
+                            "text": "You "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " wear a seatbelt in the car."
+                        }
+                    ],
+                    "options": [
+                        "should",
+                        "must",
+                        "might",
+                        "could"
+                    ],
+                    "answer": "must",
+                    "explanation": "Use 'must' for strong obligations, laws, or rules."
+                },
+                {
+                    "id": "G12",
+                    "difficulty": 2,
+                    "arabicHint": "النصيحة (Should)",
+                    "question": "Select the modal for giving advice.",
+                    "prompt": [
+                        {
+                            "text": "You look tired. You "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " go to bed early."
+                        }
+                    ],
+                    "options": [
+                        "must",
+                        "should",
+                        "have to",
+                        "will"
+                    ],
+                    "answer": "should",
+                    "explanation": "Use 'should' to give advice or recommendations."
+                },
+                {
+                    "id": "G13",
+                    "difficulty": 2,
+                    "arabicHint": "المنع (Must not)",
+                    "question": "Choose the correct form for prohibition.",
+                    "prompt": [
+                        {
+                            "text": "You "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " smoke in the hospital."
+                        }
+                    ],
+                    "options": [
+                        "should not",
+                        "must not",
+                        "might not",
+                        "could not"
+                    ],
+                    "answer": "must not",
+                    "explanation": "Use 'must not' for strong prohibition or rules against something."
+                },
+                {
+                    "id": "G14",
+                    "difficulty": 1,
+                    "arabicHint": "ظرف الطريقة (-ly)",
+                    "question": "Select the correct adverb form.",
+                    "prompt": [
+                        {
+                            "text": "Please walk "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " on the wet floor."
+                        }
+                    ],
+                    "options": [
+                        "careful",
+                        "carefully",
+                        "careless",
+                        "care"
+                    ],
+                    "answer": "carefully",
+                    "explanation": "Add '-ly' to adjectives to form adverbs of manner."
+                },
+                {
+                    "id": "G15",
+                    "difficulty": 2,
+                    "arabicHint": "ظرف جيد (Well)",
+                    "question": "Choose the adverb form of 'good'.",
+                    "prompt": [
+                        {
+                            "text": "She sings very "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "good",
+                        "well",
+                        "goodly",
+                        "best"
+                    ],
+                    "answer": "well",
+                    "explanation": "The adverb form of 'good' is irregular: 'well'."
+                },
+                {
+                    "id": "G16",
+                    "difficulty": 3,
+                    "arabicHint": "ظرف سريع (Fast)",
+                    "question": "Select the correct adverb form.",
+                    "prompt": [
+                        {
+                            "text": "He drives too "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "fastly",
+                        "fast",
+                        "quick",
+                        "quickly"
+                    ],
+                    "answer": "fast",
+                    "explanation": "Some adverbs like 'fast' have the same form as the adjective."
+                },
+                {
+                    "id": "G17",
+                    "difficulty": 1,
+                    "arabicHint": "حرف مكان (بجانب)",
+                    "question": "Choose the preposition for 'beside'.",
+                    "prompt": [
+                        {
+                            "text": "The bank is "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " the supermarket."
+                        }
+                    ],
+                    "options": [
+                        "next to",
+                        "between",
+                        "across",
+                        "inside"
+                    ],
+                    "answer": "next to",
+                    "explanation": "Use 'next to' to say something is beside another thing."
+                },
+                {
+                    "id": "G18",
+                    "difficulty": 2,
+                    "arabicHint": "حرف مكان (بين)",
+                    "question": "Select the preposition for being in the middle.",
+                    "prompt": [
+                        {
+                            "text": "My house is "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " the school and the park."
+                        }
+                    ],
+                    "options": [
+                        "next to",
+                        "between",
+                        "across from",
+                        "on"
+                    ],
+                    "answer": "between",
+                    "explanation": "Use 'between' when something is in the middle of two other things."
+                },
+                {
+                    "id": "G19",
+                    "difficulty": 1,
+                    "arabicHint": "تعليمات (انعطف)",
+                    "question": "Choose the correct imperative for direction.",
+                    "prompt": [
+                        {
+                            "text": "_____ left at the traffic light."
+                        }
+                    ],
+                    "options": [
+                        "Turn",
+                        "Take",
+                        "Go",
+                        "Walk"
+                    ],
+                    "answer": "Turn",
+                    "explanation": "Use 'Turn left/right' to give directions."
+                },
+                {
+                    "id": "G20",
+                    "difficulty": 1,
+                    "arabicHint": "تعليمات (استمر)",
+                    "question": "Select the imperative for continuing straight.",
+                    "prompt": [
+                        {
+                            "text": "_____ straight for two blocks."
+                        }
+                    ],
+                    "options": [
+                        "Turn",
+                        "Go",
+                        "Stop",
+                        "Look"
+                    ],
+                    "answer": "Go",
+                    "explanation": "Use 'Go straight' to indicate continuing in the same direction."
+                },
+                {
+                    "id": "G21",
+                    "difficulty": 1,
+                    "arabicHint": "ضمائر الانعكاس (هي)",
+                    "question": "Choose the correct reflexive pronoun.",
+                    "prompt": [
+                        {
+                            "text": "She taught "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " how to play the guitar."
+                        }
+                    ],
+                    "options": [
+                        "himself",
+                        "herself",
+                        "itself",
+                        "hers"
+                    ],
+                    "answer": "herself",
+                    "explanation": "Use 'herself' when the subject and object are the same female person."
+                },
+                {
+                    "id": "G22",
+                    "difficulty": 2,
+                    "arabicHint": "ضمائر الانعكاس (نحن)",
+                    "question": "Select the correct reflexive pronoun for 'we'.",
+                    "prompt": [
+                        {
+                            "text": "We prepared the presentation "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "ourselves",
+                        "themselves",
+                        "yourselves",
+                        "us"
+                    ],
+                    "answer": "ourselves",
+                    "explanation": "Use 'ourselves' for a plural subject including the speaker."
+                },
+                {
+                    "id": "G23",
+                    "difficulty": 2,
+                    "arabicHint": "تأكيد الفعل بنفسك",
+                    "question": "Choose the correct pronoun for emphasis.",
+                    "prompt": [
+                        {
+                            "text": "Did you make this cake "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": "?"
+                        }
+                    ],
+                    "options": [
+                        "yourself",
+                        "you",
+                        "yours",
+                        "your"
+                    ],
+                    "answer": "yourself",
+                    "explanation": "Use 'yourself' to emphasize that 'you' did the action without help."
+                },
+                {
+                    "id": "G24",
+                    "difficulty": 2,
+                    "arabicHint": "السبب (Because)",
+                    "question": "Select the conjunction explaining the reason.",
+                    "prompt": [
+                        {
+                            "text": "He was late "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " the traffic was heavy."
+                        }
+                    ],
+                    "options": [
+                        "so",
+                        "because",
+                        "but",
+                        "or"
+                    ],
+                    "answer": "because",
+                    "explanation": "Use 'because' to introduce the cause or reason."
+                },
+                {
+                    "id": "G25",
+                    "difficulty": 2,
+                    "arabicHint": "النتيجة (So)",
+                    "question": "Choose the conjunction showing the result.",
+                    "prompt": [
+                        {
+                            "text": "I was hungry, "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " I made a sandwich."
+                        }
+                    ],
+                    "options": [
+                        "because",
+                        "so",
+                        "although",
+                        "while"
+                    ],
+                    "answer": "so",
+                    "explanation": "Use 'so' to introduce the effect or result."
+                },
+                {
+                    "id": "G26",
+                    "difficulty": 3,
+                    "arabicHint": "لأن مقابل إذن (ترتيب الجملة)",
+                    "question": "Select the correct connector based on clause order.",
+                    "prompt": [
+                        {
+                            "text": "_____ it was cold, we wore jackets."
+                        }
+                    ],
+                    "options": [
+                        "So",
+                        "Because",
+                        "But",
+                        "Or"
+                    ],
+                    "answer": "Because",
+                    "explanation": "'Because' introduces the reason clause, which can come before the result."
+                },
+                {
+                    "id": "G27",
+                    "difficulty": 3,
+                    "arabicHint": "الاتفاق في المضارع التام",
+                    "question": "Choose the correct auxiliary for agreement.",
+                    "prompt": [
+                        {
+                            "text": "I have seen that movie. "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " have I."
+                        }
+                    ],
+                    "options": [
+                        "So",
+                        "Neither",
+                        "Either",
+                        "Also"
+                    ],
+                    "answer": "So",
+                    "explanation": "Use 'So + have + I' to agree with a present perfect affirmative statement."
+                },
+                {
+                    "id": "G28",
+                    "difficulty": 3,
+                    "arabicHint": "الاتفاق مع فعل الكينونة",
+                    "question": "Select the correct negative agreement.",
+                    "prompt": [
+                        {
+                            "text": "I am not ready yet. "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " am I."
+                        }
+                    ],
+                    "options": [
+                        "So",
+                        "Neither",
+                        "Either",
+                        "Nor"
+                    ],
+                    "answer": "Neither",
+                    "explanation": "Use 'Neither + am + I' to agree with a negative statement using 'be'."
+                },
+                {
+                    "id": "G29",
+                    "difficulty": 3,
+                    "arabicHint": "الاتفاق مع الأفعال الناقصة",
+                    "question": "Choose the correct modal agreement.",
+                    "prompt": [
+                        {
+                            "text": "I can swim well. "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " can I."
+                        }
+                    ],
+                    "options": [
+                        "So",
+                        "Neither",
+                        "Either",
+                        "Also"
+                    ],
+                    "answer": "So",
+                    "explanation": "Use 'So + can + I' to agree with an affirmative statement using 'can'."
+                },
+                {
+                    "id": "G30",
+                    "difficulty": 2,
+                    "arabicHint": "النصيحة السلبية (Shouldn't)",
+                    "question": "Select the modal for advice against something.",
+                    "prompt": [
+                        {
+                            "text": "You "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " drink too much coffee."
+                        }
+                    ],
+                    "options": [
+                        "must",
+                        "shouldn't",
+                        "have to",
+                        "will"
+                    ],
+                    "answer": "shouldn't",
+                    "explanation": "Use 'shouldn't' to advise someone not to do something."
+                },
+                {
+                    "id": "G31",
+                    "difficulty": 1,
+                    "arabicHint": "القانون (Must)",
+                    "question": "Choose the modal for legal obligation.",
+                    "prompt": [
+                        {
+                            "text": "Drivers "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " have a valid license."
+                        }
+                    ],
+                    "options": [
+                        "should",
+                        "must",
+                        "might",
+                        "could"
+                    ],
+                    "answer": "must",
+                    "explanation": "Use 'must' for laws and official rules."
+                },
+                {
+                    "id": "G32",
+                    "difficulty": 3,
+                    "arabicHint": "قوة الالتزام",
+                    "question": "Select the stronger modal for obligation.",
+                    "prompt": [
+                        {
+                            "text": "You "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " stop at the red light. It's the law."
+                        }
+                    ],
+                    "options": [
+                        "should",
+                        "must",
+                        "may",
+                        "might"
+                    ],
+                    "answer": "must",
+                    "explanation": "'Must' is stronger than 'should' and is used for laws."
+                },
+                {
+                    "id": "G33",
+                    "difficulty": 2,
+                    "arabicHint": "ظرف الطريقة (هادئ)",
+                    "question": "Choose the correct adverb form.",
+                    "prompt": [
+                        {
+                            "text": "Please speak "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " in the library."
+                        }
+                    ],
+                    "options": [
+                        "quiet",
+                        "quietly",
+                        "quietness",
+                        "quieter"
+                    ],
+                    "answer": "quietly",
+                    "explanation": "Add '-ly' to 'quiet' to form the adverb."
+                },
+                {
+                    "id": "G34",
+                    "difficulty": 3,
+                    "arabicHint": "ظرف صعب (Hard)",
+                    "question": "Select the correct adverb form.",
+                    "prompt": [
+                        {
+                            "text": "They worked "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " to finish the project."
+                        }
+                    ],
+                    "options": [
+                        "hardly",
+                        "hard",
+                        "hardy",
+                        "harder"
+                    ],
+                    "answer": "hard",
+                    "explanation": "'Hard' is both an adjective and an adverb. 'Hardly' means 'almost not'."
+                },
+                {
+                    "id": "G35",
+                    "difficulty": 2,
+                    "arabicHint": "ظرف سيء (Badly)",
+                    "question": "Choose the adverb form of 'bad'.",
+                    "prompt": [
+                        {
+                            "text": "He played "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " in the game."
+                        }
+                    ],
+                    "options": [
+                        "bad",
+                        "badly",
+                        "good",
+                        "well"
+                    ],
+                    "answer": "badly",
+                    "explanation": "The adverb form of 'bad' is 'badly'."
+                },
+                {
+                    "id": "G36",
+                    "difficulty": 2,
+                    "arabicHint": "حرف مكان (عبر من)",
+                    "question": "Select the preposition for opposite side.",
+                    "prompt": [
+                        {
+                            "text": "The cafe is "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " the cinema."
+                        }
+                    ],
+                    "options": [
+                        "next to",
+                        "across from",
+                        "between",
+                        "in"
+                    ],
+                    "answer": "across from",
+                    "explanation": "Use 'across from' to describe something on the opposite side."
+                },
+                {
+                    "id": "G37",
+                    "difficulty": 2,
+                    "arabicHint": "حرف مكان (على الزاوية)",
+                    "question": "Choose the correct prepositional phrase.",
+                    "prompt": [
+                        {
+                            "text": "The bakery is "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " of Main Street."
+                        }
+                    ],
+                    "options": [
+                        "on the corner",
+                        "in the corner",
+                        "at the corner",
+                        "by the corner"
+                    ],
+                    "answer": "on the corner",
+                    "explanation": "Use 'on the corner' to describe a building's location at an intersection."
+                },
+                {
+                    "id": "G38",
+                    "difficulty": 3,
+                    "arabicHint": "حرف مكان (في مدينة / في شارع)",
+                    "question": "Select the correct prepositions for location.",
+                    "prompt": [
+                        {
+                            "text": "I live "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " Riyadh and "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " King Fahd Road."
+                        }
+                    ],
+                    "options": [
+                        "in / on",
+                        "on / in",
+                        "at / on",
+                        "in / at"
+                    ],
+                    "answer": "in / on",
+                    "explanation": "Use 'in' for cities and 'on' for streets."
+                },
+                {
+                    "id": "G39",
+                    "difficulty": 1,
+                    "arabicHint": "تعليمات (خذ يمين)",
+                    "question": "Choose the correct imperative phrase.",
+                    "prompt": [
+                        {
+                            "text": "_____ a right at the next intersection."
+                        }
+                    ],
+                    "options": [
+                        "Turn",
+                        "Take",
+                        "Go",
+                        "Walk"
+                    ],
+                    "answer": "Take",
+                    "explanation": "You can say 'Take a right' or 'Turn right'."
+                },
+                {
+                    "id": "G40",
+                    "difficulty": 2,
+                    "arabicHint": "تعليمات (امر بجانب)",
+                    "question": "Select the correct direction verb.",
+                    "prompt": [
+                        {
+                            "text": "_____ the bank and the post office is on your left."
+                        }
+                    ],
+                    "options": [
+                        "Stop",
+                        "Go past",
+                        "Turn",
+                        "Stay"
+                    ],
+                    "answer": "Go past",
+                    "explanation": "Use 'Go past' to indicate continuing beyond a landmark."
+                },
+                {
+                    "id": "G41",
+                    "difficulty": 2,
+                    "arabicHint": "ضمائر الانعكاس (أنتم)",
+                    "question": "Choose the correct reflexive pronoun for plural 'you'.",
+                    "prompt": [
+                        {
+                            "text": "Did you all enjoy "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " at the party?"
+                        }
+                    ],
+                    "options": [
+                        "yourself",
+                        "yourselves",
+                        "themselves",
+                        "ourselves"
+                    ],
+                    "answer": "yourselves",
+                    "explanation": "Use 'yourselves' when addressing more than one person directly."
+                },
+                {
+                    "id": "G42",
+                    "difficulty": 3,
+                    "arabicHint": "السبب والنتيجة (ترتيب)",
+                    "question": "Select the correct connector for the sentence structure.",
+                    "prompt": [
+                        {
+                            "text": "She didn't buy the dress "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " it was too expensive."
+                        }
+                    ],
+                    "options": [
+                        "so",
+                        "because",
+                        "but",
+                        "or"
+                    ],
+                    "answer": "because",
+                    "explanation": "Use 'because' to introduce the reason following the result."
+                },
+                {
+                    "id": "G43",
+                    "difficulty": 3,
+                    "arabicHint": "الاتفاق مع never",
+                    "question": "Choose the correct agreement for a negative statement with 'never'.",
+                    "prompt": [
+                        {
+                            "text": "I have never been to Japan. "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " have I."
+                        }
+                    ],
+                    "options": [
+                        "So",
+                        "Neither",
+                        "Either",
+                        "Also"
+                    ],
+                    "answer": "Neither",
+                    "explanation": "'Never' makes the statement negative, so use 'Neither' to agree."
+                },
+                {
+                    "id": "G44",
+                    "difficulty": 2,
+                    "arabicHint": "قوة الالتزام (Must vs Should)",
+                    "question": "Select the stronger modal for official rules.",
+                    "prompt": [
+                        {
+                            "text": "Passengers "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " turn off their phones during takeoff."
+                        }
+                    ],
+                    "options": [
+                        "should",
+                        "must",
+                        "might",
+                        "could"
+                    ],
+                    "answer": "must",
+                    "explanation": "'Must' is stronger and used for official safety rules."
+                },
+                {
+                    "id": "G45",
+                    "difficulty": 3,
+                    "arabicHint": "تهجئة الظروف (double l)",
+                    "question": "Choose the correct spelling of the adverb.",
+                    "prompt": [
+                        {
+                            "text": "The teacher spoke "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " to the students."
+                        }
+                    ],
+                    "options": [
+                        "careful",
+                        "carefully",
+                        "carefuly",
+                        "carefullly"
+                    ],
+                    "answer": "carefully",
+                    "explanation": "Adjectives ending in 'l' double the 'l' when adding '-ly'."
+                },
+                {
+                    "id": "G46",
+                    "difficulty": 2,
+                    "arabicHint": "حرف مكان (الطابق)",
+                    "question": "Select the correct preposition for floors.",
+                    "prompt": [
+                        {
+                            "text": "Their office is "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " the fifth floor."
+                        }
+                    ],
+                    "options": [
+                        "in",
+                        "at",
+                        "on",
+                        "by"
+                    ],
+                    "answer": "on",
+                    "explanation": "Use 'on' for specific floors in a building."
+                },
+                {
+                    "id": "G47",
+                    "difficulty": 2,
+                    "arabicHint": "حرف مكان (الشارع)",
+                    "question": "Choose the correct preposition for streets.",
+                    "prompt": [
+                        {
+                            "text": "The store is located "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " King Road."
+                        }
+                    ],
+                    "options": [
+                        "in",
+                        "at",
+                        "on",
+                        "by"
+                    ],
+                    "answer": "on",
+                    "explanation": "Use 'on' for names of streets and avenues."
+                },
+                {
+                    "id": "G48",
+                    "difficulty": 2,
+                    "arabicHint": "حرف مكان (بعيد عن)",
+                    "question": "Select the phrase for distance.",
+                    "prompt": [
+                        {
+                            "text": "The village is "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " the city center."
+                        }
+                    ],
+                    "options": [
+                        "near to",
+                        "far from",
+                        "next to",
+                        "between"
+                    ],
+                    "answer": "far from",
+                    "explanation": "Use 'far from' to indicate a long distance."
+                },
+                {
+                    "id": "G49",
+                    "difficulty": 3,
+                    "arabicHint": "تعليمات (حول الزاوية)",
+                    "question": "Choose the correct direction phrase.",
+                    "prompt": [
+                        {
+                            "text": "Walk straight and then turn "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " the corner."
+                        }
+                    ],
+                    "options": [
+                        "around",
+                        "over",
+                        "under",
+                        "through"
+                    ],
+                    "answer": "around",
+                    "explanation": "Use 'around the corner' to describe turning at an intersection."
+                },
+                {
+                    "id": "G50",
+                    "difficulty": 1,
+                    "arabicHint": "ضمائر الانعكاس (الأشياء)",
+                    "question": "Select the correct reflexive pronoun for an object.",
+                    "prompt": [
+                        {
+                            "text": "The machine turns "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " off automatically."
+                        }
+                    ],
+                    "options": [
+                        "himself",
+                        "itself",
+                        "themselves",
+                        "myself"
+                    ],
+                    "answer": "itself",
+                    "explanation": "Use 'itself' for singular non-human subjects."
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "questions": [
+                {
+                    "id": "V1",
+                    "difficulty": 1,
+                    "arabicHint": "خوذة الرأس",
+                    "question": "Choose the safety gear worn on the head.",
+                    "prompt": [
+                        {
+                            "text": "Cyclists should wear a "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " to protect their heads."
+                        }
+                    ],
+                    "options": [
+                        "helmet",
+                        "hat",
+                        "cap",
+                        "hood"
+                    ],
+                    "answer": "helmet",
+                    "explanation": "A helmet is a hard hat worn for protection against head injuries."
+                },
+                {
+                    "id": "V2",
+                    "difficulty": 1,
+                    "arabicHint": "حزام الأمان",
+                    "question": "Select the safety device used in cars.",
+                    "prompt": [
+                        {
+                            "text": "Always fasten your "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " before starting the engine."
+                        }
+                    ],
+                    "options": [
+                        "seat belt",
+                        "seat cover",
+                        "seat map",
+                        "seat plan"
+                    ],
+                    "answer": "seat belt",
+                    "explanation": "A seat belt is a strap designed to secure the occupant of a vehicle."
+                },
+                {
+                    "id": "V3",
+                    "difficulty": 2,
+                    "arabicHint": "إصابة",
+                    "question": "Choose the noun for physical harm.",
+                    "prompt": [
+                        {
+                            "text": "He fell off the ladder and suffered a serious "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "injury",
+                        "injustice",
+                        "inquiry",
+                        "income"
+                    ],
+                    "answer": "injury",
+                    "explanation": "An injury is physical harm or damage to someone's body."
+                },
+                {
+                    "id": "V4",
+                    "difficulty": 2,
+                    "arabicHint": "صدمة كهربائية",
+                    "question": "Select the word for an electric shock.",
+                    "prompt": [
+                        {
+                            "text": "Be careful with wires or you might get an electric "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "shock",
+                        "shake",
+                        "shape",
+                        "sheet"
+                    ],
+                    "answer": "shock",
+                    "explanation": "A shock is a sudden disturbance in mental equilibrium or an electric discharge."
+                },
+                {
+                    "id": "V5",
+                    "difficulty": 2,
+                    "arabicHint": "سائق مشتت",
+                    "question": "Choose the adjective for not paying attention.",
+                    "prompt": [
+                        {
+                            "text": "Looking at your phone while driving is considered "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " driving."
+                        }
+                    ],
+                    "options": [
+                        "distracted",
+                        "directed",
+                        "destroyed",
+                        "distributed"
+                    ],
+                    "answer": "distracted",
+                    "explanation": "Distracted means unable to concentrate because one's mind is preoccupied."
+                },
+                {
+                    "id": "V6",
+                    "difficulty": 3,
+                    "arabicHint": "إرهاق السائق",
+                    "question": "Select the noun for extreme tiredness.",
+                    "prompt": [
+                        {
+                            "text": "Feeling very sleepy while driving is known as driver "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "fatigue",
+                        "fiction",
+                        "fraction",
+                        "feature"
+                    ],
+                    "answer": "fatigue",
+                    "explanation": "Fatigue is extreme tiredness resulting from mental or physical exertion."
+                },
+                {
+                    "id": "V7",
+                    "difficulty": 1,
+                    "arabicHint": "السرعة الزائدة",
+                    "question": "Choose the verb for driving too fast.",
+                    "prompt": [
+                        {
+                            "text": "Driving faster than the limit is called "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "speeding",
+                        "speaking",
+                        "spending",
+                        "spinning"
+                    ],
+                    "answer": "speeding",
+                    "explanation": "Speeding is the act of driving faster than the legal limit."
+                },
+                {
+                    "id": "V8",
+                    "difficulty": 2,
+                    "arabicHint": "قيادة عدوانية",
+                    "question": "Select the adjective for angry driving behavior.",
+                    "prompt": [
+                        {
+                            "text": "Yelling at other drivers is a sign of "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " driving."
+                        }
+                    ],
+                    "options": [
+                        "aggressive",
+                        "progressive",
+                        "regressive",
+                        "digestive"
+                    ],
+                    "answer": "aggressive",
+                    "explanation": "Aggressive driving involves hostile or violent behavior on the road."
+                },
+                {
+                    "id": "V9",
+                    "difficulty": 3,
+                    "arabicHint": "الالتصاق الخلفي (قيادة قريبة جداً)",
+                    "question": "Choose the term for following too closely.",
+                    "prompt": [
+                        {
+                            "text": "Following the car in front too closely is called "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "tailgating",
+                        "tailoring",
+                        "targeting",
+                        "talking"
+                    ],
+                    "answer": "tailgating",
+                    "explanation": "Tailgating is driving too closely behind another vehicle."
+                },
+                {
+                    "id": "V10",
+                    "difficulty": 2,
+                    "arabicHint": "يطيع القوانين",
+                    "question": "Select the verb meaning 'to follow rules'.",
+                    "prompt": [
+                        {
+                            "text": "You must "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " all traffic lights and signs."
+                        }
+                    ],
+                    "options": [
+                        "obey",
+                        "object",
+                        "observe",
+                        "obtain"
+                    ],
+                    "answer": "obey",
+                    "explanation": "Obey means to comply with the command, direction, or request of a person or a law."
+                },
+                {
+                    "id": "V11",
+                    "difficulty": 2,
+                    "arabicHint": "ظروف الطقس",
+                    "question": "Choose the noun for state of the atmosphere.",
+                    "prompt": [
+                        {
+                            "text": "Heavy fog and rain are examples of difficult driving "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "conditions",
+                        "condemns",
+                        "contents",
+                        "contests"
+                    ],
+                    "answer": "conditions",
+                    "explanation": "Conditions refer to the circumstances or factors affecting a situation."
+                },
+                {
+                    "id": "V12",
+                    "difficulty": 3,
+                    "arabicHint": "ينحرف عن الطريق",
+                    "question": "Select the phrasal verb for stopping on the side.",
+                    "prompt": [
+                        {
+                            "text": "If you are too tired, you should "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " and rest."
+                        }
+                    ],
+                    "options": [
+                        "pull off",
+                        "pull on",
+                        "pull up",
+                        "pull in"
+                    ],
+                    "answer": "pull off",
+                    "explanation": "'Pull off' means to move a vehicle to the side of the road to stop."
+                },
+                {
+                    "id": "V13",
+                    "difficulty": 2,
+                    "arabicHint": "معدات",
+                    "question": "Choose the noun for tools or devices.",
+                    "prompt": [
+                        {
+                            "text": "Using the correct safety "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " is important in the lab."
+                        }
+                    ],
+                    "options": [
+                        "equipment",
+                        "equation",
+                        "equator",
+                        "equivalent"
+                    ],
+                    "answer": "equipment",
+                    "explanation": "Equipment refers to the necessary items for a particular purpose."
+                },
+                {
+                    "id": "V14",
+                    "difficulty": 1,
+                    "arabicHint": "حادث تصادم",
+                    "question": "Select the noun for a vehicle collision.",
+                    "prompt": [
+                        {
+                            "text": "The car was damaged badly in the "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "crash",
+                        "cash",
+                        "dash",
+                        "wash"
+                    ],
+                    "answer": "crash",
+                    "explanation": "A crash is a violent collision, typically involving vehicles."
+                },
+                {
+                    "id": "V15",
+                    "difficulty": 2,
+                    "arabicHint": "خطر / مخاطرة",
+                    "question": "Choose the noun for the possibility of danger.",
+                    "prompt": [
+                        {
+                            "text": "Taking unnecessary chances increases the "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " of an accident."
+                        }
+                    ],
+                    "options": [
+                        "risk",
+                        "disk",
+                        "mask",
+                        "task"
+                    ],
+                    "answer": "risk",
+                    "explanation": "Risk is a situation involving exposure to danger or loss."
+                },
+                {
+                    "id": "V16",
+                    "difficulty": 1,
+                    "arabicHint": "غرفة الطوارئ",
+                    "question": "Choose the place for serious medical treatment.",
+                    "prompt": [
+                        {
+                            "text": "After the accident, they rushed him to the "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "emergency room",
+                        "waiting room",
+                        "classroom",
+                        "showroom"
+                    ],
+                    "answer": "emergency room",
+                    "explanation": "The emergency room is where people go for immediate medical care."
+                },
+                {
+                    "id": "V17",
+                    "difficulty": 1,
+                    "arabicHint": "انزلق",
+                    "question": "Select the verb for losing footing on a wet surface.",
+                    "prompt": [
+                        {
+                            "text": "Be careful on the ice so you don't "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "slip",
+                        "skip",
+                        "sleep",
+                        "slap"
+                    ],
+                    "answer": "slip",
+                    "explanation": "Slip means to slide unintentionally and lose balance."
+                },
+                {
+                    "id": "V18",
+                    "difficulty": 1,
+                    "arabicHint": "سقط",
+                    "question": "Choose the verb for dropping down suddenly.",
+                    "prompt": [
+                        {
+                            "text": "He tripped over the rope and "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " down."
+                        }
+                    ],
+                    "options": [
+                        "fell",
+                        "feel",
+                        "fill",
+                        "fail"
+                    ],
+                    "answer": "fell",
+                    "explanation": "Fell is the past tense of fall, meaning to drop down."
+                },
+                {
+                    "id": "V19",
+                    "difficulty": 2,
+                    "arabicHint": "الزجاج الأمامي للسيارة",
+                    "question": "Select the word for the front window of a car.",
+                    "prompt": [
+                        {
+                            "text": "The stone hit the "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " and cracked it."
+                        }
+                    ],
+                    "options": [
+                        "windshield",
+                        "window",
+                        "door",
+                        "wheel"
+                    ],
+                    "answer": "windshield",
+                    "explanation": "The windshield is the front window of a motor vehicle."
+                },
+                {
+                    "id": "V20",
+                    "difficulty": 2,
+                    "arabicHint": "مقبس الكهرباء",
+                    "question": "Choose the word for an electrical outlet.",
+                    "prompt": [
+                        {
+                            "text": "Do not put anything metal into the electrical "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "socket",
+                        "pocket",
+                        "locket",
+                        "rocket"
+                    ],
+                    "answer": "socket",
+                    "explanation": "A socket is a device into which an electric plug can be inserted."
+                },
+                {
+                    "id": "V21",
+                    "difficulty": 2,
+                    "arabicHint": "التواء المفصل",
+                    "question": "Select the injury caused by twisting a joint.",
+                    "prompt": [
+                        {
+                            "text": "He twisted his leg and suffered a "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "sprain",
+                        "strain",
+                        "stain",
+                        "stream"
+                    ],
+                    "answer": "sprain",
+                    "explanation": "A sprain is an injury to a ligament caused by twisting."
+                },
+                {
+                    "id": "V22",
+                    "difficulty": 1,
+                    "arabicHint": "كاحل القدم",
+                    "question": "Choose the body part connecting foot and leg.",
+                    "prompt": [
+                        {
+                            "text": "She wore a brace on her injured "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "ankle",
+                        "angle",
+                        "apple",
+                        "ample"
+                    ],
+                    "answer": "ankle",
+                    "explanation": "The ankle is the joint connecting the foot with the leg."
+                },
+                {
+                    "id": "V23",
+                    "difficulty": 2,
+                    "arabicHint": "يطعن / يوخز",
+                    "question": "Select the verb for jabbing with a sharp object.",
+                    "prompt": [
+                        {
+                            "text": "Be careful not to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " yourself with the needle."
+                        }
+                    ],
+                    "options": [
+                        "poke",
+                        "cake",
+                        "wake",
+                        "take"
+                    ],
+                    "answer": "poke",
+                    "explanation": "Poke means to prod or push with a finger or sharp object."
+                },
+                {
+                    "id": "V24",
+                    "difficulty": 1,
+                    "arabicHint": "العين",
+                    "question": "Choose the body part used for seeing.",
+                    "prompt": [
+                        {
+                            "text": "Wear safety glasses to protect your "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "eyes",
+                        "ears",
+                        "nose",
+                        "lips"
+                    ],
+                    "answer": "eyes",
+                    "explanation": "Eyes are the organs of vision."
+                },
+                {
+                    "id": "V25",
+                    "difficulty": 3,
+                    "arabicHint": "كسر عظم (طبي)",
+                    "question": "Select the medical term for a broken bone.",
+                    "prompt": [
+                        {
+                            "text": "The X-ray showed a "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " in his leg."
+                        }
+                    ],
+                    "options": [
+                        "fracture",
+                        "fraction",
+                        "feature",
+                        "future"
+                    ],
+                    "answer": "fracture",
+                    "explanation": "A fracture is a medical term for a broken bone."
+                },
+                {
+                    "id": "V26",
+                    "difficulty": 1,
+                    "arabicHint": "حرق",
+                    "question": "Choose the injury caused by heat or fire.",
+                    "prompt": [
+                        {
+                            "text": "He put cream on the "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " on his hand."
+                        }
+                    ],
+                    "options": [
+                        "burn",
+                        "bird",
+                        "born",
+                        "barn"
+                    ],
+                    "answer": "burn",
+                    "explanation": "A burn is an injury caused by fire, heat, or radiation."
+                },
+                {
+                    "id": "V27",
+                    "difficulty": 1,
+                    "arabicHint": "جرح cuts",
+                    "question": "Select the injury made by a sharp object.",
+                    "prompt": [
+                        {
+                            "text": "She put a bandage on the "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " on her finger."
+                        }
+                    ],
+                    "options": [
+                        "cut",
+                        "cat",
+                        "cot",
+                        "kit"
+                    ],
+                    "answer": "cut",
+                    "explanation": "A cut is an opening in the skin made by a sharp object."
+                },
+                {
+                    "id": "V28",
+                    "difficulty": 2,
+                    "arabicHint": "يكسر",
+                    "question": "Choose the verb for damaging a bone.",
+                    "prompt": [
+                        {
+                            "text": "If you fall hard, you might "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " your arm."
+                        }
+                    ],
+                    "options": [
+                        "break",
+                        "brake",
+                        "brick",
+                        "block"
+                    ],
+                    "answer": "break",
+                    "explanation": "Break means to separate into pieces, often used for bones."
+                },
+                {
+                    "id": "V29",
+                    "difficulty": 1,
+                    "arabicHint": "الأنف",
+                    "question": "Select the body part on the face used for breathing.",
+                    "prompt": [
+                        {
+                            "text": "He wore glasses on his "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "nose",
+                        "nose",
+                        "nose",
+                        "nose"
+                    ],
+                    "answer": "nose",
+                    "explanation": "The nose is the part of the face above the mouth used for breathing and smelling."
+                },
+                {
+                    "id": "V30",
+                    "difficulty": 2,
+                    "arabicHint": "لافتة تحذير",
+                    "question": "Choose the word for a notice giving information.",
+                    "prompt": [
+                        {
+                            "text": "He didn't see the 'Wet Paint' "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "sign",
+                        "signal",
+                        "signature",
+                        "signify"
+                    ],
+                    "answer": "sign",
+                    "explanation": "A sign is a notice that gives information or a warning."
+                },
+                {
+                    "id": "V31",
+                    "difficulty": 2,
+                    "arabicHint": "يوم حظك",
+                    "question": "Choose the phrase used when something good happens despite risks.",
+                    "prompt": [
+                        {
+                            "text": "You walked away from that crash without a scratch? It was your "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "lucky day",
+                        "bad day",
+                        "long day",
+                        "hard day"
+                    ],
+                    "answer": "lucky day",
+                    "explanation": "'Lucky day' is used to describe a day when good fortune occurs."
+                },
+                {
+                    "id": "V32",
+                    "difficulty": 2,
+                    "arabicHint": "عالق في",
+                    "question": "Select the phrase meaning 'unable to move from a place'.",
+                    "prompt": [
+                        {
+                            "text": "The truck got "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " the mud and needed a tow."
+                        }
+                    ],
+                    "options": [
+                        "stuck in",
+                        "stuck on",
+                        "stuck at",
+                        "stuck by"
+                    ],
+                    "answer": "stuck in",
+                    "explanation": "'Stuck in' means trapped inside a substance or situation."
+                },
+                {
+                    "id": "V33",
+                    "difficulty": 1,
+                    "arabicHint": "أظن",
+                    "question": "Choose the phrase used to express uncertainty.",
+                    "prompt": [
+                        {
+                            "text": "Where is Ahmed? "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " he is still sleeping."
+                        }
+                    ],
+                    "options": [
+                        "I guess",
+                        "I know",
+                        "I see",
+                        "I hear"
+                    ],
+                    "answer": "I guess",
+                    "explanation": "'I guess' is used to express an assumption or uncertainty."
+                },
+                {
+                    "id": "V34",
+                    "difficulty": 3,
+                    "arabicHint": "انظر للأمر بهذه الطريقة",
+                    "question": "Select the phrase used to offer a different perspective.",
+                    "prompt": [
+                        {
+                            "text": "We lost the match, but "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": ", we got great exercise."
+                        }
+                    ],
+                    "options": [
+                        "look at it this way",
+                        "look at it that way",
+                        "look for it this way",
+                        "look after it this way"
+                    ],
+                    "answer": "look at it this way",
+                    "explanation": "'Look at it this way' is used to suggest seeing a situation from a positive angle."
+                },
+                {
+                    "id": "V35",
+                    "difficulty": 2,
+                    "arabicHint": "يتعافى",
+                    "question": "Choose the verb meaning 'to get better after illness'.",
+                    "prompt": [
+                        {
+                            "text": "It took him months to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " from the surgery."
+                        }
+                    ],
+                    "options": [
+                        "recover",
+                        "discover",
+                        "cover",
+                        "hover"
+                    ],
+                    "answer": "recover",
+                    "explanation": "Recover means to return to a normal state of health or mind."
+                },
+                {
+                    "id": "V36",
+                    "difficulty": 2,
+                    "arabicHint": "ينفجر",
+                    "question": "Select the verb for breaking open suddenly.",
+                    "prompt": [
+                        {
+                            "text": "The balloon will "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " if you blow too much air into it."
+                        }
+                    ],
+                    "options": [
+                        "burst",
+                        "burn",
+                        "bust",
+                        "bless"
+                    ],
+                    "answer": "burst",
+                    "explanation": "Burst means to break open or apart suddenly, especially from internal pressure."
+                },
+                {
+                    "id": "V37",
+                    "difficulty": 3,
+                    "arabicHint": "يقذف بقوة",
+                    "question": "Choose the verb meaning 'to throw with force'.",
+                    "prompt": [
+                        {
+                            "text": "The giant decided to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " the rock across the river."
+                        }
+                    ],
+                    "options": [
+                        "hurl",
+                        "hurry",
+                        "hurt",
+                        "hide"
+                    ],
+                    "answer": "hurl",
+                    "explanation": "Hurl means to throw something with great force."
+                },
+                {
+                    "id": "V38",
+                    "difficulty": 3,
+                    "arabicHint": "يتحرك بين العوائق",
+                    "question": "Select the phrasal verb for moving in and out of obstacles.",
+                    "prompt": [
+                        {
+                            "text": "The cyclist had to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " the heavy traffic."
+                        }
+                    ],
+                    "options": [
+                        "weave through",
+                        "wave through",
+                        "walk through",
+                        "wait through"
+                    ],
+                    "answer": "weave through",
+                    "explanation": "'Weave through' means to move by turning from side to side around obstacles."
+                },
+                {
+                    "id": "V39",
+                    "difficulty": 2,
+                    "arabicHint": "يتحدى",
+                    "question": "Choose the verb meaning 'to test abilities'.",
+                    "prompt": [
+                        {
+                            "text": "This difficult puzzle will "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " your mind."
+                        }
+                    ],
+                    "options": [
+                        "challenge",
+                        "change",
+                        "charge",
+                        "chance"
+                    ],
+                    "answer": "challenge",
+                    "explanation": "Challenge means to invite someone to engage in a contest or test their skills."
+                },
+                {
+                    "id": "V40",
+                    "difficulty": 2,
+                    "arabicHint": "انزلق العجل",
+                    "question": "Select the verb for sliding uncontrollably.",
+                    "prompt": [
+                        {
+                            "text": "The car "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " on the icy road."
+                        }
+                    ],
+                    "options": [
+                        "skidded",
+                        "skipped",
+                        "skinned",
+                        "skied"
+                    ],
+                    "answer": "skidded",
+                    "explanation": "Skid means to slide sideways or obliquely, typically when losing traction."
+                },
+                {
+                    "id": "V41",
+                    "difficulty": 1,
+                    "arabicHint": "تحطم",
+                    "question": "Choose the verb for a violent collision.",
+                    "prompt": [
+                        {
+                            "text": "The plane "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " into the mountain."
+                        }
+                    ],
+                    "options": [
+                        "crashed",
+                        "crushed",
+                        "clashed",
+                        "cached"
+                    ],
+                    "answer": "crashed",
+                    "explanation": "Crash means to collide violently with an obstacle or another vehicle."
+                },
+                {
+                    "id": "V42",
+                    "difficulty": 2,
+                    "arabicHint": "انعطف فجأة",
+                    "question": "Select the verb for turning suddenly to avoid something.",
+                    "prompt": [
+                        {
+                            "text": "The driver "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " to avoid hitting the dog."
+                        }
+                    ],
+                    "options": [
+                        "swerved",
+                        "served",
+                        "surf",
+                        "survived"
+                    ],
+                    "answer": "swerved",
+                    "explanation": "Swerve means to change direction suddenly, especially while driving."
+                },
+                {
+                    "id": "V43",
+                    "difficulty": 2,
+                    "arabicHint": "كدمات",
+                    "question": "Choose the noun for purple marks on the skin.",
+                    "prompt": [
+                        {
+                            "text": "She had several "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " on her arm after the fall."
+                        }
+                    ],
+                    "options": [
+                        "bruises",
+                        "brains",
+                        "brakes",
+                        "breaths"
+                    ],
+                    "answer": "bruises",
+                    "explanation": "Bruises are injuries appearing as areas of discolored skin on the body."
+                },
+                {
+                    "id": "V44",
+                    "difficulty": 1,
+                    "arabicHint": "نتوء على الرأس",
+                    "question": "Select the noun for a swelling on the head.",
+                    "prompt": [
+                        {
+                            "text": "He got a large "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " on his head from the door."
+                        }
+                    ],
+                    "options": [
+                        "bump",
+                        "jump",
+                        "pump",
+                        "dump"
+                    ],
+                    "answer": "bump",
+                    "explanation": "A bump is a swelling or protuberance caused by a blow or impact."
+                },
+                {
+                    "id": "V45",
+                    "difficulty": 1,
+                    "arabicHint": "كرسي متحرك",
+                    "question": "Choose the device for people who cannot walk.",
+                    "prompt": [
+                        {
+                            "text": "The patient needed a "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " to move around the hospital."
+                        }
+                    ],
+                    "options": [
+                        "wheelchair",
+                        "armchair",
+                        "highchair",
+                        "deckchair"
+                    ],
+                    "answer": "wheelchair",
+                    "explanation": "A wheelchair is a chair with wheels, used when walking is difficult or impossible."
+                },
+                {
+                    "id": "V46",
+                    "difficulty": 2,
+                    "arabicHint": "جبس",
+                    "question": "Select the hard covering for broken bones.",
+                    "prompt": [
+                        {
+                            "text": "The doctor put a plaster "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " on his leg."
+                        }
+                    ],
+                    "options": [
+                        "cast",
+                        "case",
+                        "cost",
+                        "cust"
+                    ],
+                    "answer": "cast",
+                    "explanation": "A cast is a rigid dressing used to support and protect a broken bone."
+                },
+                {
+                    "id": "V47",
+                    "difficulty": 1,
+                    "arabicHint": "خوذة",
+                    "question": "Choose the protective gear for the head.",
+                    "prompt": [
+                        {
+                            "text": "Never ride a motorcycle without a "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "helmet",
+                        "hat",
+                        "cap",
+                        "hood"
+                    ],
+                    "answer": "helmet",
+                    "explanation": "A helmet is a hard protective hat worn by cyclists and motorcyclists."
+                },
+                {
+                    "id": "V48",
+                    "difficulty": 2,
+                    "arabicHint": "توازن",
+                    "question": "Select the noun for physical stability.",
+                    "prompt": [
+                        {
+                            "text": "It is hard to keep your "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " on one foot."
+                        }
+                    ],
+                    "options": [
+                        "balance",
+                        "unbalance",
+                        "balloon",
+                        "balcony"
+                    ],
+                    "answer": "balance",
+                    "explanation": "Balance is an even distribution of weight enabling someone to remain steady."
+                },
+                {
+                    "id": "V49",
+                    "difficulty": 2,
+                    "arabicHint": "غير مريح",
+                    "question": "Choose the adjective for not feeling comfortable.",
+                    "prompt": [
+                        {
+                            "text": "The hard seat was very "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " to sit on."
+                        }
+                    ],
+                    "options": [
+                        "uncomfortable",
+                        "comfortable",
+                        "comfort",
+                        "comforting"
+                    ],
+                    "answer": "uncomfortable",
+                    "explanation": "Uncomfortable means causing or feeling slight pain or physical discomfort."
+                },
+                {
+                    "id": "V50",
+                    "difficulty": 3,
+                    "arabicHint": "غير جذاب",
+                    "question": "Select the adjective for not looking good.",
+                    "prompt": [
+                        {
+                            "text": "The design was functional but "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "unattractive",
+                        "attractive",
+                        "attraction",
+                        "attract"
+                    ],
+                    "answer": "unattractive",
+                    "explanation": "Unattractive means not appealing or pleasing to look at."
+                }
+            ]
+        }
+    ]
+}

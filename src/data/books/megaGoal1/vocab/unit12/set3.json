@@ -1,0 +1,552 @@
+{
+    "unit": "Mega Goal 1 - Unit 12: Reporting What People Say",
+    "type": "speaking",
+    "setTitle": "Conversation & Real Talk",
+    "words": [
+        {
+            "word": "hoax",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A deliberately fabricated deception or trick intended to "
+                },
+                {
+                    "text": "fool people",
+                    "highlight": true
+                },
+                {
+                    "text": " into believing something "
+                },
+                {
+                    "text": "false",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "خُدعة / احتيال",
+            "synonyms": [
+                "fraud",
+                "scam",
+                "deception"
+            ],
+            "example": [
+                {
+                    "text": "The email claiming I'd won a million dollars was clearly a "
+                },
+                {
+                    "text": "hoax",
+                    "colorize": true
+                },
+                {
+                    "text": " — it asked for my bank account number to 'process the payment'"
+                }
+            ],
+            "tips": "Stronger than 'joke' or 'prank' — implies intentional deception for gain or harm. Often used for fake news, scams, or elaborate tricks."
+        },
+        {
+            "word": "really/totally",
+            "wordType": "adverb (intensifier)",
+            "definition": [
+                {
+                    "text": "Words used to add strong emphasis or intensity to an adjective, verb, or opinion; '"
+                },
+                {
+                    "text": "totally",
+                    "highlight": true
+                },
+                {
+                    "text": "' is slightly stronger and more informal than '"
+                },
+                {
+                    "text": "really",
+                    "highlight2": true
+                },
+                {
+                    "text": "'"
+                }
+            ],
+            "arabicMeaning": "حقًا / تمامًا",
+            "synonyms": [
+                "completely",
+                "absolutely",
+                "entirely"
+            ],
+            "example": [
+                {
+                    "text": "\"This movie was boring.\" \"I "
+                },
+                {
+                    "text": "totally",
+                    "colorize": true
+                },
+                {
+                    "text": " agree — I almost fell asleep halfway through!\""
+                }
+            ],
+            "tips": "Very common in casual speech for emphasis. Avoid overusing in formal writing. 'Totally' is more emphatic but considered less formal than 'completely' or 'absolutely'."
+        },
+        {
+            "word": "in the end",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "After everything has been considered or after a series of events has concluded; "
+                },
+                {
+                    "text": "finally",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "ultimately",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "في النهاية",
+            "synonyms": [
+                "finally",
+                "ultimately",
+                "after all was said and done"
+            ],
+            "example": [
+                {
+                    "text": "We argued for hours about where to eat, but "
+                },
+                {
+                    "text": "in the end",
+                    "colorize": true
+                },
+                {
+                    "text": ", we just ordered pizza because everyone was too hungry to keep debating"
+                }
+            ],
+            "tips": "NOT the same as 'at the end' (physical location/time point). 'In the end' refers to the final outcome after a process or consideration."
+        },
+        {
+            "word": "or anything like that",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Used at the end of a question or statement to "
+                },
+                {
+                    "text": "broaden the scope",
+                    "highlight": true
+                },
+                {
+                    "text": " and include similar possibilities beyond what was specifically "
+                },
+                {
+                    "text": "mentioned",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "أو أي شيء مشابه",
+            "synonyms": [
+                "or something similar",
+                "or anything of that sort"
+            ],
+            "example": [
+                {
+                    "text": "\"Did you bring your passport for the trip?\" \"No, I forgot it — and my driver's license "
+                },
+                {
+                    "text": "or anything like that",
+                    "colorize": true
+                },
+                {
+                    "text": ", so I had to go back home to get my ID\""
+                }
+            ],
+            "tips": "Casual conversational phrase that shows you're thinking beyond the specific example given. Often used when you can't recall exact details but want to be thorough."
+        },
+        {
+            "word": "telemarketing",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The business practice of selling products or services by "
+                },
+                {
+                    "text": "calling people on the telephone",
+                    "highlight": true
+                },
+                {
+                    "text": " often unsolicited and at "
+                },
+                {
+                    "text": "inconvenient times",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "تسويق هاتفي",
+            "synonyms": [
+                "cold calling",
+                "phone sales"
+            ],
+            "example": [
+                {
+                    "text": "Many countries have created 'do not call' registries to protect consumers from aggressive "
+                },
+                {
+                    "text": "telemarketing",
+                    "colorize": true
+                },
+                {
+                    "text": " tactics"
+                }
+            ],
+            "tips": "Often viewed negatively due to intrusive nature. 'Telemarketer' = the person making the calls. Not the same as customer service calls (which respond to existing customers)."
+        },
+        {
+            "word": "nuisance",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A person, thing, or situation that causes "
+                },
+                {
+                    "text": "annoyance, inconvenience",
+                    "highlight": true
+                },
+                {
+                    "text": ", or "
+                },
+                {
+                    "text": "trouble",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مصدر إزعاج",
+            "synonyms": [
+                "bother",
+                "pest",
+                "irritation"
+            ],
+            "example": [
+                {
+                    "text": "Mosquitoes buzzing around your head all night are a real "
+                },
+                {
+                    "text": "nuisance",
+                    "colorize": true
+                },
+                {
+                    "text": " that can ruin a camping trip"
+                }
+            ],
+            "tips": "Can describe people ('He's such a nuisance') or situations ('traffic jams are a nuisance'). Legal term: 'public nuisance' = something harming community welfare."
+        },
+        {
+            "word": "called me up",
+            "wordType": "phrasal verb phrase",
+            "definition": [
+                {
+                    "text": "To telephone someone; an informal way to say '"
+                },
+                {
+                    "text": "called",
+                    "highlight": true
+                },
+                {
+                    "text": "' that emphasizes the act of "
+                },
+                {
+                    "text": "initiating the call",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "اتصل بي",
+            "synonyms": [
+                "phoned me",
+                "rang me (British)",
+                "gave me a call"
+            ],
+            "example": [
+                {
+                    "text": "My grandmother "
+                },
+                {
+                    "text": "called me up",
+                    "colorize": true
+                },
+                {
+                    "text": " just to say hello and ask how my week was going"
+                }
+            ],
+            "tips": "Very common in casual American English. 'Call up' is separable: 'call him up' or 'call up John'. Not the same as 'call on' (visit) or 'call out' (shout/publicly criticize)."
+        },
+        {
+            "word": "persuade",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To convince someone to do something or believe something through "
+                },
+                {
+                    "text": "reasoning, argument",
+                    "highlight": true
+                },
+                {
+                    "text": ", or "
+                },
+                {
+                    "text": "appeal",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُقنع",
+            "synonyms": [
+                "convince",
+                "talk into",
+                "influence"
+            ],
+            "example": [
+                {
+                    "text": "She tried to "
+                },
+                {
+                    "text": "persuade",
+                    "colorize": true
+                },
+                {
+                    "text": " her parents to let her study abroad by showing them brochures and explaining the career benefits"
+                }
+            ],
+            "tips": "Pattern: persuade + person + to + verb ('persuade him to go'). NOT 'persuade someone doing' (incorrect). Stronger than 'suggest' — implies successful influence."
+        },
+        {
+            "word": "pushy",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Aggressively insistent or demanding in a way that makes others feel "
+                },
+                {
+                    "text": "uncomfortable or pressured",
+                    "highlight": true
+                },
+                {
+                    "text": "; not respecting "
+                },
+                {
+                    "text": "personal boundaries",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مُلحّ بشكل مزعج",
+            "synonyms": [
+                "aggressive",
+                "overbearing",
+                "forceful"
+            ],
+            "example": [
+                {
+                    "text": "The car salesman was so "
+                },
+                {
+                    "text": "pushy",
+                    "colorize": true
+                },
+                {
+                    "text": " that he followed us to three other dealerships trying to close the deal"
+                }
+            ],
+            "tips": "Negative personality descriptor. Opposite: respectful, laid-back, easygoing. Often used for salespeople, but can describe anyone who pressures others."
+        },
+        {
+            "word": "lost my patience",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To reach the limit of your ability to remain calm or tolerant in a frustrating situation; to become "
+                },
+                {
+                    "text": "annoyed or angry",
+                    "highlight": true
+                },
+                {
+                    "text": " after enduring something "
+                },
+                {
+                    "text": "unpleasant for too long",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "فقدتُ صبري",
+            "synonyms": [
+                "ran out of patience",
+                "became exasperated",
+                "reached my limit"
+            ],
+            "example": [
+                {
+                    "text": "After the third time my computer crashed while saving my essay, I "
+                },
+                {
+                    "text": "lost my patience",
+                    "colorize": true
+                },
+                {
+                    "text": " and had to step outside for five minutes to calm down"
+                }
+            ],
+            "tips": "Common expression for emotional breaking point. Often followed by an action showing frustration ('lost my patience and yelled', 'lost my patience and left')."
+        },
+        {
+            "word": "hung up",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To end a telephone conversation by disconnecting the call, often suddenly or "
+                },
+                {
+                    "text": "rudely",
+                    "highlight": true
+                },
+                {
+                    "text": " when feeling "
+                },
+                {
+                    "text": "angry or frustrated",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "أغلق الخط / أنهى المكالمة فجأة",
+            "synonyms": [
+                "disconnected",
+                "ended the call abruptly"
+            ],
+            "example": [
+                {
+                    "text": "When the caller refused to identify which company he represented, I simply "
+                },
+                {
+                    "text": "hung up",
+                    "colorize": true
+                },
+                {
+                    "text": " without another word"
+                }
+            ],
+            "tips": "Past tense of 'hang up'. Can be neutral (ending a normal call) or rude (abruptly cutting someone off). Not the same as 'hang on' (wait) or 'hang out' (spend time casually)."
+        },
+        {
+            "word": "travel agency",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A business that helps people plan and book trips by arranging "
+                },
+                {
+                    "text": "transportation, accommodations",
+                    "highlight": true
+                },
+                {
+                    "text": ", and "
+                },
+                {
+                    "text": "tours",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "وكالة سفر",
+            "synonyms": [
+                "travel bureau",
+                "tour operator"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "travel agency",
+                    "colorize": true
+                },
+                {
+                    "text": " found us a package deal that included flights, hotel, and guided tours for 30% less than booking separately"
+                }
+            ],
+            "tips": "Traditional brick-and-mortar businesses, though many now operate online. Different from 'travel agent' (the person) vs. 'travel agency' (the company)."
+        },
+        {
+            "word": "contest",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "An event where people compete to win a prize based on skill, luck, or judgment; a "
+                },
+                {
+                    "text": "competition",
+                    "highlight": true
+                },
+                {
+                    "text": " with "
+                },
+                {
+                    "text": "official rules and winners",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مسابقة",
+            "synonyms": [
+                "competition",
+                "sweepstakes (luck-based)",
+                "giveaway"
+            ],
+            "example": [
+                {
+                    "text": "She entered a baking "
+                },
+                {
+                    "text": "contest",
+                    "colorize": true
+                },
+                {
+                    "text": " at the county fair and won first prize for her chocolate cake"
+                }
+            ],
+            "tips": "Skill-based = contest/competition. Luck-based = sweepstakes/lottery. Scammers often claim you 'won' a contest you never entered — a major red flag!"
+        },
+        {
+            "word": "member",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A person who belongs to a group, organization, club, or association and typically pays "
+                },
+                {
+                    "text": "fees for access",
+                    "highlight": true
+                },
+                {
+                    "text": " to "
+                },
+                {
+                    "text": "benefits or services",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "عضو",
+            "synonyms": [
+                "participant",
+                "affiliate",
+                "subscriber"
+            ],
+            "example": [
+                {
+                    "text": "As a library "
+                },
+                {
+                    "text": "member",
+                    "colorize": true
+                },
+                {
+                    "text": ", you can borrow up to twenty books at a time and access online research databases for free"
+                }
+            ],
+            "tips": "Pattern: member OF something ('member of the club'). Not the same as 'customer' (buys goods/services) vs. 'member' (belongs to an organization)."
+        }
+    ]
+}

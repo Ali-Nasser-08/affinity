@@ -1,0 +1,458 @@
+{
+  "unit": "Mega Goal 1",
+  "lesson": "Unit 6",
+  "type": "Form, Meaning, and Function",
+  "clusters": [
+    {
+      "clusterId": "cluster-1",
+      "title": "How much versus How many",
+      "cards": [
+        {
+          "id": "card-1",
+          "content": [
+            {
+              "text": "How much versus How many",
+              "highlight": true
+            },
+            {
+              "text": "الفرق بين «كم» لغير المعدود و«كم» للمعدود"
+            }
+          ]
+        },
+        {
+          "id": "card-2",
+          "content": [
+            {
+              "text": "Use "
+            },
+            {
+              "text": "How much",
+              "colorize": true
+            },
+            {
+              "text": " with "
+            },
+            {
+              "text": "non-count nouns",
+              "colorize2": true
+            },
+            {
+              "text": " (things we cannot count individually)"
+            },
+            {
+              "text": "نستخدم "
+            },
+            {
+              "text": "كم",
+              "colorize": true
+            },
+            {
+              "text": " مع "
+            },
+            {
+              "text": "الأسماء غير المعدودة",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "content": [
+            {
+              "text": "Use "
+            },
+            {
+              "text": "How many",
+              "colorize": true
+            },
+            {
+              "text": " with "
+            },
+            {
+              "text": "plural count nouns",
+              "colorize2": true
+            },
+            {
+              "text": " (things we can count)"
+            },
+            {
+              "text": "نستخدم "
+            },
+            {
+              "text": "كم",
+              "colorize": true
+            },
+            {
+              "text": " مع "
+            },
+            {
+              "text": "الأسماء المعدودة الجمع",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "How much",
+              "badge": true,
+              "translation": "غير معدود"
+            },
+            {
+              "text": " + singular noun"
+            },
+            {
+              "text": " | "
+            },
+            {
+              "text": "How many",
+              "badge2": true,
+              "translation": "معدود جمع"
+            },
+            {
+              "text": " + plural noun"
+            }
+          ]
+        },
+        {
+          "id": "card-5",
+          "type": "example",
+          "content": [
+            {
+              "text": "How much",
+              "colorize": true
+            },
+            {
+              "text": " water do you drink daily?"
+            },
+            {
+              "text": "كم "
+            },
+            {
+              "text": "ماء",
+              "colorize": true
+            },
+            {
+              "text": " تشرب يومياً؟"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "example",
+          "content": [
+            {
+              "text": "How many",
+              "colorize": true
+            },
+            {
+              "text": " cups of coffee do you have?"
+            },
+            {
+              "text": "كم "
+            },
+            {
+              "text": "كوب",
+              "colorize": true
+            },
+            {
+              "text": " قهوة تتناول؟"
+            }
+          ]
+        },
+        {
+          "id": "card-7",
+          "type": "example",
+          "content": [
+            {
+              "text": "How much",
+              "colorize": true
+            },
+            {
+              "text": " time do you need?"
+            },
+            {
+              "text": "كم "
+            },
+            {
+              "text": "وقت",
+              "colorize": true
+            },
+            {
+              "text": " تحتاج؟"
+            }
+          ]
+        },
+        {
+          "id": "card-8",
+          "type": "example",
+          "content": [
+            {
+              "text": "How many",
+              "colorize": true
+            },
+            {
+              "text": " hours do you sleep?"
+            },
+            {
+              "text": "كم "
+            },
+            {
+              "text": "ساعة",
+              "colorize": true
+            },
+            {
+              "text": " تنام؟"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-2",
+      "title": "Quantity Expressions",
+      "cards": [
+        {
+          "id": "card-9",
+          "content": [
+            {
+              "text": "Quantity Expressions",
+              "highlight": true
+            },
+            {
+              "text": "تعابير الكمية"
+            }
+          ]
+        },
+        {
+          "id": "card-10",
+          "content": [
+            {
+              "text": "A lot of",
+              "colorize": true
+            },
+            {
+              "text": " and "
+            },
+            {
+              "text": "lots of",
+              "colorize": true
+            },
+            {
+              "text": " are used in "
+            },
+            {
+              "text": "affirmative",
+              "colorize2": true
+            },
+            {
+              "text": " sentences with both countable and uncountable nouns"
+            },
+            {
+              "text": "تُستخدم "
+            },
+            {
+              "text": "كثير من",
+              "colorize": true
+            },
+            {
+              "text": " و"
+            },
+            {
+              "text": "الكثير من",
+              "colorize": true
+            },
+            {
+              "text": " في الجمل "
+            },
+            {
+              "text": "المثبتة",
+              "colorize2": true
+            },
+            {
+              "text": " مع المعدود وغير المعدود"
+            }
+          ]
+        },
+        {
+          "id": "card-11",
+          "content": [
+            {
+              "text": "Much",
+              "colorize": true
+            },
+            {
+              "text": " and "
+            },
+            {
+              "text": "many",
+              "colorize": true
+            },
+            {
+              "text": " are typically used in "
+            },
+            {
+              "text": "negative",
+              "colorize2": true
+            },
+            {
+              "text": " sentences and questions"
+            },
+            {
+              "text": "تُستخدم "
+            },
+            {
+              "text": "كثير",
+              "colorize": true
+            },
+            {
+              "text": " عادةً في الجمل "
+            },
+            {
+              "text": "السلبية",
+              "colorize2": true
+            },
+            {
+              "text": " والأسئلة"
+            }
+          ]
+        },
+        {
+          "id": "card-12",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "a lot of / lots of",
+              "badge": true,
+              "translation": "كثير (+)"
+            },
+            {
+              "text": " | "
+            },
+            {
+              "text": "much / many",
+              "badge2": true,
+              "translation": "كثير (-/؟)"
+            },
+            {
+              "text": " | "
+            },
+            {
+              "text": "a few / a little",
+              "badge3": true,
+              "translation": "قليل"
+            }
+          ]
+        },
+        {
+          "id": "card-13",
+          "type": "example",
+          "content": [
+            {
+              "text": "I eat "
+            },
+            {
+              "text": "a lot of",
+              "colorize": true
+            },
+            {
+              "text": " fruit every day"
+            },
+            {
+              "text": "آكل "
+            },
+            {
+              "text": "كثيراً من",
+              "colorize": true
+            },
+            {
+              "text": " الفاكهة يومياً"
+            }
+          ]
+        },
+        {
+          "id": "card-14",
+          "type": "example",
+          "content": [
+            {
+              "text": "I don't eat "
+            },
+            {
+              "text": "much",
+              "colorize": true
+            },
+            {
+              "text": " sugar"
+            },
+            {
+              "text": "لا آكل "
+            },
+            {
+              "text": "كثيراً",
+              "colorize": true
+            },
+            {
+              "text": " من السكر"
+            }
+          ]
+        },
+        {
+          "id": "card-15",
+          "type": "example",
+          "content": [
+            {
+              "text": "I have "
+            },
+            {
+              "text": "a few",
+              "colorize": true
+            },
+            {
+              "text": " close friends"
+            },
+            {
+              "text": "لديّ "
+            },
+            {
+              "text": "قليل من",
+              "colorize": true
+            },
+            {
+              "text": " الأصدقاء المقربين"
+            }
+          ]
+        },
+        {
+          "id": "card-16",
+          "type": "example",
+          "content": [
+            {
+              "text": "I drink "
+            },
+            {
+              "text": "a little",
+              "colorize": true
+            },
+            {
+              "text": " water"
+            },
+            {
+              "text": "أشرب "
+            },
+            {
+              "text": "قليلاً من",
+              "colorize": true
+            },
+            {
+              "text": " الماء"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

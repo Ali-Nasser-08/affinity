@@ -1,0 +1,2627 @@
+{
+    "unit": "Mega Goal 1 - Unit 4: Products & Shopping",
+    "type": "revision",
+    "totalQuestions": 100,
+    "currentBatch": 1,
+    "sections": [
+        {
+            "section": "grammar",
+            "questions": [
+                {
+                    "id": "G1",
+                    "difficulty": 1,
+                    "arabicHint": "المبني للمجهول المضارع البسيط",
+                    "question": "Choose the correct passive form.",
+                    "prompt": [
+                        {
+                            "text": "These smartphones "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " in South Korea."
+                        }
+                    ],
+                    "options": [
+                        "make",
+                        "are made",
+                        "made",
+                        "making"
+                    ],
+                    "answer": "are made",
+                    "explanation": "Use present passive (am/is/are + past participle) for general facts."
+                },
+                {
+                    "id": "G2",
+                    "difficulty": 1,
+                    "arabicHint": "المبني للمجهول الماضي البسيط",
+                    "question": "Select the correct past passive form.",
+                    "prompt": [
+                        {
+                            "text": "The first computer "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " in the 1940s."
+                        }
+                    ],
+                    "options": [
+                        "invented",
+                        "was invented",
+                        "is invented",
+                        "has been invented"
+                    ],
+                    "answer": "was invented",
+                    "explanation": "Use past passive (was/were + past participle) for completed actions in the past."
+                },
+                {
+                    "id": "G3",
+                    "difficulty": 2,
+                    "arabicHint": "المبني للمجهول المستقبل",
+                    "question": "Choose the correct future passive form.",
+                    "prompt": [
+                        {
+                            "text": "A new version of the app "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " next month."
+                        }
+                    ],
+                    "options": [
+                        "will release",
+                        "will be released",
+                        "is released",
+                        "releases"
+                    ],
+                    "answer": "will be released",
+                    "explanation": "Use future passive (will be + past participle) for actions happening in the future."
+                },
+                {
+                    "id": "G4",
+                    "difficulty": 3,
+                    "arabicHint": "المبني للمجهول المضارع التام",
+                    "question": "Select the correct present perfect passive form.",
+                    "prompt": [
+                        {
+                            "text": "Many houses "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " by this construction company since 2010."
+                        }
+                    ],
+                    "options": [
+                        "have built",
+                        "have been built",
+                        "has been built",
+                        "were built"
+                    ],
+                    "answer": "have been built",
+                    "explanation": "Use present perfect passive (have/has been + past participle) for actions starting in the past continuing to now."
+                },
+                {
+                    "id": "G5",
+                    "difficulty": 2,
+                    "arabicHint": "أداة الفاعل في المبني للمجهول",
+                    "question": "Choose the correct preposition for the doer.",
+                    "prompt": [
+                        {
+                            "text": "This painting was created "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " a famous artist."
+                        }
+                    ],
+                    "options": [
+                        "from",
+                        "by",
+                        "with",
+                        "at"
+                    ],
+                    "answer": "by",
+                    "explanation": "Use 'by' to introduce the agent or doer in a passive sentence."
+                },
+                {
+                    "id": "G6",
+                    "difficulty": 1,
+                    "arabicHint": "صيغة المقارنة",
+                    "question": "Select the correct comparative form.",
+                    "prompt": [
+                        {
+                            "text": "This laptop is "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " than that one."
+                        }
+                    ],
+                    "options": [
+                        "cheap",
+                        "cheaper",
+                        "cheapest",
+                        "more cheap"
+                    ],
+                    "answer": "cheaper",
+                    "explanation": "Add '-er' to short adjectives for comparatives."
+                },
+                {
+                    "id": "G7",
+                    "difficulty": 1,
+                    "arabicHint": "صيغة التفضيل",
+                    "question": "Choose the correct superlative form.",
+                    "prompt": [
+                        {
+                            "text": "It is the "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " phone in the store."
+                        }
+                    ],
+                    "options": [
+                        "expensive",
+                        "more expensive",
+                        "most expensive",
+                        "expensivest"
+                    ],
+                    "answer": "most expensive",
+                    "explanation": "Use 'most' + adjective for superlatives of long words."
+                },
+                {
+                    "id": "G8",
+                    "difficulty": 2,
+                    "arabicHint": "مقارنة شاذة (Good)",
+                    "question": "Select the irregular comparative form.",
+                    "prompt": [
+                        {
+                            "text": "The quality of this brand is "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " than the other."
+                        }
+                    ],
+                    "options": [
+                        "gooder",
+                        "better",
+                        "best",
+                        "more good"
+                    ],
+                    "answer": "better",
+                    "explanation": "The comparative form of 'good' is 'better'."
+                },
+                {
+                    "id": "G9",
+                    "difficulty": 2,
+                    "arabicHint": "التفضيل للصفات الطويلة",
+                    "question": "Choose the correct superlative structure.",
+                    "prompt": [
+                        {
+                            "text": "This is the "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " interesting book I have ever read."
+                        }
+                    ],
+                    "options": [
+                        "most",
+                        "more",
+                        "very",
+                        "too"
+                    ],
+                    "answer": "most",
+                    "explanation": "Use 'the most' for superlatives of adjectives with three or more syllables."
+                },
+                {
+                    "id": "G10",
+                    "difficulty": 2,
+                    "arabicHint": "المساواة (as...as)",
+                    "question": "Select the correct structure for equality.",
+                    "prompt": [
+                        {
+                            "text": "My car is "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " fast as yours."
+                        }
+                    ],
+                    "options": [
+                        "so",
+                        "as",
+                        "more",
+                        "than"
+                    ],
+                    "answer": "as",
+                    "explanation": "Use 'as + adjective + as' to show two things are equal."
+                },
+                {
+                    "id": "G11",
+                    "difficulty": 3,
+                    "arabicHint": "عدم المساواة (not as...as)",
+                    "question": "Choose the correct negative comparison.",
+                    "prompt": [
+                        {
+                            "text": "The silver model is "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " as heavy as the gold one."
+                        }
+                    ],
+                    "options": [
+                        "not",
+                        "no",
+                        "never",
+                        "none"
+                    ],
+                    "answer": "not",
+                    "explanation": "Use 'not as...as' to show one thing is less than another."
+                },
+                {
+                    "id": "G12",
+                    "difficulty": 1,
+                    "arabicHint": "التشبيه (look like)",
+                    "question": "Select the correct verb for appearance.",
+                    "prompt": [
+                        {
+                            "text": "That cloud "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " like a rabbit."
+                        }
+                    ],
+                    "options": [
+                        "looks",
+                        "look",
+                        "looking",
+                        "looked"
+                    ],
+                    "answer": "looks",
+                    "explanation": "Use 'looks like' to describe similarity in appearance."
+                },
+                {
+                    "id": "G13",
+                    "difficulty": 1,
+                    "arabicHint": "أشارة للقريب (مفرد)",
+                    "question": "Choose the correct demonstrative pronoun.",
+                    "prompt": [
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " pen here belongs to me."
+                        }
+                    ],
+                    "options": [
+                        "That",
+                        "This",
+                        "These",
+                        "Those"
+                    ],
+                    "answer": "This",
+                    "explanation": "Use 'This' for singular objects that are near."
+                },
+                {
+                    "id": "G14",
+                    "difficulty": 2,
+                    "arabicHint": "أشارة للبعيد (جمع)",
+                    "question": "Select the correct demonstrative pronoun.",
+                    "prompt": [
+                        {
+                            "text": "Look at "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " stars in the sky over there."
+                        }
+                    ],
+                    "options": [
+                        "this",
+                        "that",
+                        "these",
+                        "those"
+                    ],
+                    "answer": "those",
+                    "explanation": "Use 'Those' for plural objects that are far."
+                },
+                {
+                    "id": "G15",
+                    "difficulty": 1,
+                    "arabicHint": "ضمائر الملكية",
+                    "question": "Choose the correct possessive pronoun.",
+                    "prompt": [
+                        {
+                            "text": "This isn't my bag. It is "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "your",
+                        "yours",
+                        "you",
+                        "my"
+                    ],
+                    "answer": "yours",
+                    "explanation": "Use possessive pronouns (mine, yours, etc.) without a following noun."
+                },
+                {
+                    "id": "G16",
+                    "difficulty": 2,
+                    "arabicHint": "سؤال عن الملكية (Whose)",
+                    "question": "Select the correct question word.",
+                    "prompt": [
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " keys are these on the table?"
+                        }
+                    ],
+                    "options": [
+                        "Who",
+                        "Whose",
+                        "Which",
+                        "What"
+                    ],
+                    "answer": "Whose",
+                    "explanation": "Use 'Whose' to ask about ownership or possession."
+                },
+                {
+                    "id": "G17",
+                    "difficulty": 2,
+                    "arabicHint": "استبدال الاسم (One/Ones)",
+                    "question": "Choose the correct pronoun to avoid repetition.",
+                    "prompt": [
+                        {
+                            "text": "I don't like the red shirt. I prefer the blue "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "one",
+                        "ones",
+                        "one's",
+                        "thing"
+                    ],
+                    "answer": "one",
+                    "explanation": "Use 'one' to replace a singular countable noun."
+                },
+                {
+                    "id": "G18",
+                    "difficulty": 1,
+                    "arabicHint": "زيادة الحد (Too)",
+                    "question": "Select the correct word for excess.",
+                    "prompt": [
+                        {
+                            "text": "These shoes are "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " small for my feet."
+                        }
+                    ],
+                    "options": [
+                        "enough",
+                        "too",
+                        "very",
+                        "so"
+                    ],
+                    "answer": "too",
+                    "explanation": "Use 'too' before an adjective to mean more than necessary."
+                },
+                {
+                    "id": "G19",
+                    "difficulty": 3,
+                    "arabicHint": "الكفاية (Enough)",
+                    "question": "Choose the correct position of 'enough'.",
+                    "prompt": [
+                        {
+                            "text": "He is not strong "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " to lift the box."
+                        }
+                    ],
+                    "options": [
+                        "enough",
+                        "too",
+                        "very",
+                        "much"
+                    ],
+                    "answer": "enough",
+                    "explanation": "'Enough' comes after the adjective it modifies."
+                },
+                {
+                    "id": "G20",
+                    "difficulty": 1,
+                    "arabicHint": "صيغة الأمر",
+                    "question": "Select the correct imperative form.",
+                    "prompt": [
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " the door please, it is cold."
+                        }
+                    ],
+                    "options": [
+                        "Closing",
+                        "Close",
+                        "Closed",
+                        "To close"
+                    ],
+                    "answer": "Close",
+                    "explanation": "Use the base form of the verb for imperatives (commands or requests)."
+                },
+                {
+                    "id": "G21",
+                    "difficulty": 1,
+                    "arabicHint": "المبني للمجهول المضارع",
+                    "question": "Choose the correct present passive form.",
+                    "prompt": [
+                        {
+                            "text": "English "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " in many countries around the world."
+                        }
+                    ],
+                    "options": [
+                        "speaks",
+                        "is spoken",
+                        "spoken",
+                        "speaking"
+                    ],
+                    "answer": "is spoken",
+                    "explanation": "Use present passive (is/are + past participle) for general facts."
+                },
+                {
+                    "id": "G22",
+                    "difficulty": 2,
+                    "arabicHint": "المبني للمجهول الماضي مع الفاعل",
+                    "question": "Select the correct past passive form with agent.",
+                    "prompt": [
+                        {
+                            "text": "The new software "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " by a local company."
+                        }
+                    ],
+                    "options": [
+                        "was developed",
+                        "developed",
+                        "is developed",
+                        "has developed"
+                    ],
+                    "answer": "was developed",
+                    "explanation": "Use past passive (was/were + past participle) when the action happened in the past."
+                },
+                {
+                    "id": "G23",
+                    "difficulty": 2,
+                    "arabicHint": "المبني للمجهول المستقبل",
+                    "question": "Choose the correct future passive form.",
+                    "prompt": [
+                        {
+                            "text": "The winners "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " announced tomorrow."
+                        }
+                    ],
+                    "options": [
+                        "will announce",
+                        "will be announced",
+                        "are announced",
+                        "announce"
+                    ],
+                    "answer": "will be announced",
+                    "explanation": "Use future passive (will be + past participle) for future actions."
+                },
+                {
+                    "id": "G24",
+                    "difficulty": 1,
+                    "arabicHint": "المقارنة للصفات القصيرة",
+                    "question": "Select the correct comparative form.",
+                    "prompt": [
+                        {
+                            "text": "My brother is "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " than me."
+                        }
+                    ],
+                    "options": [
+                        "tall",
+                        "taller",
+                        "tallest",
+                        "more tall"
+                    ],
+                    "answer": "taller",
+                    "explanation": "Add '-er' to short adjectives for comparatives."
+                },
+                {
+                    "id": "G25",
+                    "difficulty": 2,
+                    "arabicHint": "المقارنة للصفات الطويلة",
+                    "question": "Choose the correct comparative for long adjectives.",
+                    "prompt": [
+                        {
+                            "text": "This puzzle is "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " than the last one."
+                        }
+                    ],
+                    "options": [
+                        "difficult",
+                        "difficulter",
+                        "more difficult",
+                        "most difficult"
+                    ],
+                    "answer": "more difficult",
+                    "explanation": "Use 'more' + adjective for comparatives of long words."
+                },
+                {
+                    "id": "G26",
+                    "difficulty": 1,
+                    "arabicHint": "التفضيل للصفات القصيرة",
+                    "question": "Select the correct superlative form.",
+                    "prompt": [
+                        {
+                            "text": "This is the "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " day of my life."
+                        }
+                    ],
+                    "options": [
+                        "happy",
+                        "happier",
+                        "happiest",
+                        "most happy"
+                    ],
+                    "answer": "happiest",
+                    "explanation": "Add '-est' to short adjectives for superlatives."
+                },
+                {
+                    "id": "G27",
+                    "difficulty": 2,
+                    "arabicHint": "التفضيل للصفات الطويلة",
+                    "question": "Choose the correct superlative structure.",
+                    "prompt": [
+                        {
+                            "text": "It was the "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " performance of the night."
+                        }
+                    ],
+                    "options": [
+                        "beautiful",
+                        "more beautiful",
+                        "most beautiful",
+                        "beautifulest"
+                    ],
+                    "answer": "most beautiful",
+                    "explanation": "Use 'the most' + adjective for superlatives of long words."
+                },
+                {
+                    "id": "G28",
+                    "difficulty": 3,
+                    "arabicHint": "المقارنة الشاذة (Bad)",
+                    "question": "Select the irregular comparative form.",
+                    "prompt": [
+                        {
+                            "text": "The traffic today is "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " than yesterday."
+                        }
+                    ],
+                    "options": [
+                        "badder",
+                        "worse",
+                        "worst",
+                        "more bad"
+                    ],
+                    "answer": "worse",
+                    "explanation": "The comparative form of 'bad' is 'worse'."
+                },
+                {
+                    "id": "G29",
+                    "difficulty": 2,
+                    "arabicHint": "المساواة (as...as)",
+                    "question": "Choose the correct word for equality.",
+                    "prompt": [
+                        {
+                            "text": "She is "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " tall as her father."
+                        }
+                    ],
+                    "options": [
+                        "so",
+                        "as",
+                        "than",
+                        "more"
+                    ],
+                    "answer": "as",
+                    "explanation": "Use 'as + adjective + as' to show equality."
+                },
+                {
+                    "id": "G30",
+                    "difficulty": 3,
+                    "arabicHint": "عدم المساواة (not as...as)",
+                    "question": "Select the correct negative comparison.",
+                    "prompt": [
+                        {
+                            "text": "This box is "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " as heavy as that one."
+                        }
+                    ],
+                    "options": [
+                        "no",
+                        "not",
+                        "never",
+                        "none"
+                    ],
+                    "answer": "not",
+                    "explanation": "Use 'not as...as' to show inequality."
+                },
+                {
+                    "id": "G31",
+                    "difficulty": 2,
+                    "arabicHint": "أفعال الحس مع like",
+                    "question": "Choose the correct preposition for similarity.",
+                    "prompt": [
+                        {
+                            "text": "This perfume smells "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " roses."
+                        }
+                    ],
+                    "options": [
+                        "as",
+                        "like",
+                        "same",
+                        "similar"
+                    ],
+                    "answer": "like",
+                    "explanation": "Use sensory verbs (look, smell, sound) + 'like' + noun."
+                },
+                {
+                    "id": "G32",
+                    "difficulty": 1,
+                    "arabicHint": "أشارة للقريب (جمع)",
+                    "question": "Select the correct demonstrative pronoun.",
+                    "prompt": [
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " shoes here are mine."
+                        }
+                    ],
+                    "options": [
+                        "This",
+                        "That",
+                        "These",
+                        "Those"
+                    ],
+                    "answer": "These",
+                    "explanation": "Use 'These' for plural objects that are near."
+                },
+                {
+                    "id": "G33",
+                    "difficulty": 1,
+                    "arabicHint": "أشارة للبعيد (مفرد)",
+                    "question": "Choose the correct demonstrative pronoun.",
+                    "prompt": [
+                        {
+                            "text": "Look at "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " mountain over there."
+                        }
+                    ],
+                    "options": [
+                        "this",
+                        "that",
+                        "these",
+                        "those"
+                    ],
+                    "answer": "that",
+                    "explanation": "Use 'That' for singular objects that are far."
+                },
+                {
+                    "id": "G34",
+                    "difficulty": 2,
+                    "arabicHint": "ضمائر الملكية المستقلة",
+                    "question": "Select the correct possessive pronoun.",
+                    "prompt": [
+                        {
+                            "text": "That phone is not mine. It is "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "her",
+                        "hers",
+                        "she",
+                        "herself"
+                    ],
+                    "answer": "hers",
+                    "explanation": "Use possessive pronouns (hers, mine, etc.) without a following noun."
+                },
+                {
+                    "id": "G35",
+                    "difficulty": 2,
+                    "arabicHint": "السؤال عن الملكية",
+                    "question": "Choose the correct question word.",
+                    "prompt": [
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " jacket is hanging on the chair?"
+                        }
+                    ],
+                    "options": [
+                        "Who",
+                        "Whose",
+                        "Which",
+                        "What"
+                    ],
+                    "answer": "Whose",
+                    "explanation": "Use 'Whose' to ask about possession."
+                },
+                {
+                    "id": "G36",
+                    "difficulty": 2,
+                    "arabicHint": "استبدال الاسم (One)",
+                    "question": "Select the correct pronoun for singular.",
+                    "prompt": [
+                        {
+                            "text": "I don't want this apple. I want that "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "one",
+                        "ones",
+                        "one's",
+                        "thing"
+                    ],
+                    "answer": "one",
+                    "explanation": "Use 'one' to replace a singular countable noun."
+                },
+                {
+                    "id": "G37",
+                    "difficulty": 3,
+                    "arabicHint": "استبدال الاسم (Ones)",
+                    "question": "Choose the correct pronoun for plural.",
+                    "prompt": [
+                        {
+                            "text": "These cookies are stale. Do you have fresh "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": "?"
+                        }
+                    ],
+                    "options": [
+                        "one",
+                        "ones",
+                        "one's",
+                        "things"
+                    ],
+                    "answer": "ones",
+                    "explanation": "Use 'ones' to replace plural countable nouns."
+                },
+                {
+                    "id": "G38",
+                    "difficulty": 1,
+                    "arabicHint": "زيادة الحد (Too)",
+                    "question": "Select the correct word for excess.",
+                    "prompt": [
+                        {
+                            "text": "The coffee is "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " hot to drink."
+                        }
+                    ],
+                    "options": [
+                        "enough",
+                        "too",
+                        "very",
+                        "so"
+                    ],
+                    "answer": "too",
+                    "explanation": "Use 'too' before an adjective to mean excessively."
+                },
+                {
+                    "id": "G39",
+                    "difficulty": 3,
+                    "arabicHint": "الكفاية (Enough) بعد الصفة",
+                    "question": "Choose the correct position of 'enough'.",
+                    "prompt": [
+                        {
+                            "text": "Is the room warm "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " for you?"
+                        }
+                    ],
+                    "options": [
+                        "enough",
+                        "too",
+                        "very",
+                        "much"
+                    ],
+                    "answer": "enough",
+                    "explanation": "'Enough' comes after the adjective it modifies."
+                },
+                {
+                    "id": "G40",
+                    "difficulty": 2,
+                    "arabicHint": "صيغة الأمر النافية",
+                    "question": "Select the correct negative imperative.",
+                    "prompt": [
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " touch the wet paint."
+                        }
+                    ],
+                    "options": [
+                        "Not",
+                        "Don't",
+                        " Doesn't",
+                        "No"
+                    ],
+                    "answer": "Don't",
+                    "explanation": "Use 'Don't' + base verb for negative commands."
+                },
+                {
+                    "id": "G41",
+                    "difficulty": 2,
+                    "arabicHint": "السؤال في المبني للمجهول",
+                    "question": "Choose the correct passive question form.",
+                    "prompt": [
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " this bridge built in the 19th century?"
+                        }
+                    ],
+                    "options": [
+                        "Did",
+                        "Was",
+                        "Is",
+                        "Has"
+                    ],
+                    "answer": "Was",
+                    "explanation": "Use 'Was' to start a past passive question for singular subjects."
+                },
+                {
+                    "id": "G42",
+                    "difficulty": 2,
+                    "arabicHint": "أفعال الحس مع like",
+                    "question": "Select the correct sensory verb.",
+                    "prompt": [
+                        {
+                            "text": "This soup "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " like chicken."
+                        }
+                    ],
+                    "options": [
+                        "looks",
+                        "tastes",
+                        "sounds",
+                        "feels"
+                    ],
+                    "answer": "tastes",
+                    "explanation": "Use 'tastes like' when describing the flavor of food."
+                },
+                {
+                    "id": "G43",
+                    "difficulty": 2,
+                    "arabicHint": "صفات الملكية مقابل ضمائرها",
+                    "question": "Choose the correct possessive adjective.",
+                    "prompt": [
+                        {
+                            "text": "This is "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " book, not yours."
+                        }
+                    ],
+                    "options": [
+                        "my",
+                        "mine",
+                        "me",
+                        "I"
+                    ],
+                    "answer": "my",
+                    "explanation": "Use possessive adjectives (my, your) before a noun."
+                },
+                {
+                    "id": "G44",
+                    "difficulty": 1,
+                    "arabicHint": "أداة المقارنة",
+                    "question": "Select the correct word after a comparative.",
+                    "prompt": [
+                        {
+                            "text": "She is taller "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " her sister."
+                        }
+                    ],
+                    "options": [
+                        "as",
+                        "than",
+                        "from",
+                        "to"
+                    ],
+                    "answer": "than",
+                    "explanation": "Use 'than' after comparative adjectives to introduce the second item."
+                },
+                {
+                    "id": "G45",
+                    "difficulty": 3,
+                    "arabicHint": "حرف الجر مع التفضيل",
+                    "question": "Choose the correct preposition for superlatives.",
+                    "prompt": [
+                        {
+                            "text": "This is the best restaurant "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " the city."
+                        }
+                    ],
+                    "options": [
+                        "of",
+                        "in",
+                        "at",
+                        "on"
+                    ],
+                    "answer": "in",
+                    "explanation": "Use 'in' for places (cities, countries) with superlatives."
+                },
+                {
+                    "id": "G46",
+                    "difficulty": 3,
+                    "arabicHint": "too + صفة + مصدر",
+                    "question": "Select the correct structure with 'too'.",
+                    "prompt": [
+                        {
+                            "text": "The box is "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " heavy to lift."
+                        }
+                    ],
+                    "options": [
+                        "too",
+                        "enough",
+                        "very",
+                        "so"
+                    ],
+                    "answer": "too",
+                    "explanation": "Use 'too + adjective + to + verb' to express impossibility due to excess."
+                },
+                {
+                    "id": "G47",
+                    "difficulty": 2,
+                    "arabicHint": "النفي مع enough",
+                    "question": "Choose the correct negative form with 'enough'.",
+                    "prompt": [
+                        {
+                            "text": "He is "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " old enough to drive."
+                        }
+                    ],
+                    "options": [
+                        "no",
+                        "not",
+                        "never",
+                        "none"
+                    ],
+                    "answer": "not",
+                    "explanation": "Use 'not + adjective + enough' to express insufficiency."
+                },
+                {
+                    "id": "G48",
+                    "difficulty": 1,
+                    "arabicHint": "الأمر للنصيحة",
+                    "question": "Select the imperative form for advice.",
+                    "prompt": [
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " careful when you cross the street."
+                        }
+                    ],
+                    "options": [
+                        "Be",
+                        "Being",
+                        "To be",
+                        "Are"
+                    ],
+                    "answer": "Be",
+                    "explanation": "Use the base form 'Be' for imperatives giving advice or instructions."
+                },
+                {
+                    "id": "G49",
+                    "difficulty": 2,
+                    "arabicHint": "أسماء الإشارة مع الأسماء",
+                    "question": "Choose the correct demonstrative before a noun.",
+                    "prompt": [
+                        {
+                            "text": "I like "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " car over there."
+                        }
+                    ],
+                    "options": [
+                        "this",
+                        "that",
+                        "these",
+                        "those"
+                    ],
+                    "answer": "that",
+                    "explanation": "Use 'that' before a singular noun that is far away."
+                },
+                {
+                    "id": "G50",
+                    "difficulty": 3,
+                    "arabicHint": "المبني للمجهول المضارع التام",
+                    "question": "Select the correct auxiliary for present perfect passive.",
+                    "prompt": [
+                        {
+                            "text": "The documents "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " been signed by the manager."
+                        }
+                    ],
+                    "options": [
+                        "have",
+                        "has",
+                        "had",
+                        "was"
+                    ],
+                    "answer": "have",
+                    "explanation": "Use 'have' with plural subjects ('documents') for present perfect passive."
+                },
+                {
+                    "id": "G41",
+                    "difficulty": 2,
+                    "arabicHint": "المبني للمجهول المنفي",
+                    "question": "Choose the correct negative passive form.",
+                    "prompt": [
+                        {
+                            "text": "This product "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " in local factories."
+                        }
+                    ],
+                    "options": [
+                        "is not made",
+                        "not is made",
+                        "does not made",
+                        "not made"
+                    ],
+                    "answer": "is not made",
+                    "explanation": "Negative passive is formed with 'am/is/are + not + past participle'."
+                },
+                {
+                    "id": "G42",
+                    "difficulty": 3,
+                    "arabicHint": "سؤال المبني للمجهول",
+                    "question": "Select the correct passive question form.",
+                    "prompt": [
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " this bridge built in the 19th century?"
+                        }
+                    ],
+                    "options": [
+                        "Did",
+                        "Was",
+                        "Is",
+                        "Has"
+                    ],
+                    "answer": "Was",
+                    "explanation": "Passive questions start with the correct form of 'to be' (Was/Were) for past tense."
+                },
+                {
+                    "id": "G43",
+                    "difficulty": 2,
+                    "arabicHint": "قواعد كتابة التفضيل",
+                    "question": "Choose the correct superlative spelling.",
+                    "prompt": [
+                        {
+                            "text": "This is the "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " box in the stack."
+                        }
+                    ],
+                    "options": [
+                        "big",
+                        "biger",
+                        "biggest",
+                        "most big"
+                    ],
+                    "answer": "biggest",
+                    "explanation": "For short adjectives ending in CVC (consonant-vowel-consonant), double the last letter before adding '-est'."
+                },
+                {
+                    "id": "G44",
+                    "difficulty": 2,
+                    "arabicHint": "أفعال الحس (تذوق)",
+                    "question": "Select the correct sensory verb phrase.",
+                    "prompt": [
+                        {
+                            "text": "This soup "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " chicken."
+                        }
+                    ],
+                    "options": [
+                        "looks like",
+                        "sounds like",
+                        "tastes like",
+                        "feels like"
+                    ],
+                    "answer": "tastes like",
+                    "explanation": "Use 'tastes like' when describing flavor similarity."
+                },
+                {
+                    "id": "G45",
+                    "difficulty": 1,
+                    "arabicHint": "أشارة للبعيد (جمع)",
+                    "question": "Choose the correct demonstrative for far plural objects.",
+                    "prompt": [
+                        {
+                            "text": "Look at "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " birds flying over there."
+                        }
+                    ],
+                    "options": [
+                        "this",
+                        "that",
+                        "these",
+                        "those"
+                    ],
+                    "answer": "those",
+                    "explanation": "Use 'Those' for plural nouns that are far away from the speaker."
+                },
+                {
+                    "id": "G46",
+                    "difficulty": 3,
+                    "arabicHint": "تمييز صفات الملكية عن ضمائرها",
+                    "question": "Select the correct possessive pronoun.",
+                    "prompt": [
+                        {
+                            "text": "That is "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " bag. The bag is hers."
+                        }
+                    ],
+                    "options": [
+                        "her",
+                        "hers",
+                        "she",
+                        "herself"
+                    ],
+                    "answer": "her",
+                    "explanation": "Use possessive adjectives (her) before a noun, and possessive pronouns (hers) without a noun."
+                },
+                {
+                    "id": "G47",
+                    "difficulty": 2,
+                    "arabicHint": "السؤال عن الملكية (جمع)",
+                    "question": "Choose the correct question word for plural items.",
+                    "prompt": [
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " shoes are these?"
+                        }
+                    ],
+                    "options": [
+                        "Who",
+                        "Whose",
+                        "Which",
+                        "What"
+                    ],
+                    "answer": "Whose",
+                    "explanation": "'Whose' is used for possession regardless of whether the noun is singular or plural."
+                },
+                {
+                    "id": "G48",
+                    "difficulty": 2,
+                    "arabicHint": "استبدال الجمع (Ones)",
+                    "question": "Select the correct pronoun for plural nouns.",
+                    "prompt": [
+                        {
+                            "text": "I don't like these apples. I want the red "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "one",
+                        "ones",
+                        "one's",
+                        "thing"
+                    ],
+                    "answer": "ones",
+                    "explanation": "Use 'ones' to replace plural countable nouns mentioned earlier."
+                },
+                {
+                    "id": "G49",
+                    "difficulty": 3,
+                    "arabicHint": "Too للنتيجة السلبية",
+                    "question": "Choose the correct word indicating excess preventing action.",
+                    "prompt": [
+                        {
+                            "text": "The bag is "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " heavy for me to lift."
+                        }
+                    ],
+                    "options": [
+                        "enough",
+                        "too",
+                        "very",
+                        "so"
+                    ],
+                    "answer": "too",
+                    "explanation": "'Too' implies a negative result (it is so heavy that I cannot lift it)."
+                },
+                {
+                    "id": "G50",
+                    "difficulty": 1,
+                    "arabicHint": "الأمر للنصيحة",
+                    "question": "Select the imperative form used for advice.",
+                    "prompt": [
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " sure to check the price before you buy."
+                        }
+                    ],
+                    "options": [
+                        "Making",
+                        "Make",
+                        "Made",
+                        "To make"
+                    ],
+                    "answer": "Make",
+                    "explanation": "Use the base verb form for imperatives, even when giving advice."
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "questions": [
+                {
+                    "id": "V1",
+                    "difficulty": 1,
+                    "arabicHint": "صغير ومريح",
+                    "question": "Choose the adjective meaning 'small and efficient'.",
+                    "prompt": [
+                        {
+                            "text": "A "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " car is easy to park in the city."
+                        }
+                    ],
+                    "options": [
+                        "compact",
+                        "complete",
+                        "complex",
+                        "competed"
+                    ],
+                    "answer": "compact",
+                    "explanation": "Compact means small and neatly arranged, often used for cars."
+                },
+                {
+                    "id": "V2",
+                    "difficulty": 2,
+                    "arabicHint": "يخصص حسب الطلب",
+                    "question": "Select the verb meaning 'to modify for individual use'.",
+                    "prompt": [
+                        {
+                            "text": "You can "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " the color of your new phone."
+                        }
+                    ],
+                    "options": [
+                        "customize",
+                        "customer",
+                        "costume",
+                        "consume"
+                    ],
+                    "answer": "customize",
+                    "explanation": "Customize means to change something to suit a particular person or task."
+                },
+                {
+                    "id": "V3",
+                    "difficulty": 2,
+                    "arabicHint": "أسطوري / مشهور جداً",
+                    "question": "Choose the adjective for something very famous.",
+                    "prompt": [
+                        {
+                            "text": "The band is "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " for their hit songs from the 90s."
+                        }
+                    ],
+                    "options": [
+                        "legendary",
+                        "legend",
+                        "legible",
+                        "legal"
+                    ],
+                    "answer": "legendary",
+                    "explanation": "Legendary means very famous or well-known, typically for some special quality."
+                },
+                {
+                    "id": "V4",
+                    "difficulty": 3,
+                    "arabicHint": "المواصفات والتفاصيل",
+                    "question": "Select the noun for detailed requirements.",
+                    "prompt": [
+                        {
+                            "text": "The engineer checked the technical "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " before building the machine."
+                        }
+                    ],
+                    "options": [
+                        "specifications",
+                        "specimens",
+                        "spectacles",
+                        "specialists"
+                    ],
+                    "answer": "specifications",
+                    "explanation": "Specifications are detailed descriptions of the design and materials of something."
+                },
+                {
+                    "id": "V5",
+                    "difficulty": 1,
+                    "arabicHint": "قابل للحمل",
+                    "question": "Choose the adjective meaning 'easy to carry'.",
+                    "prompt": [
+                        {
+                            "text": "Laptops are "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " computers."
+                        }
+                    ],
+                    "options": [
+                        "portable",
+                        "portion",
+                        "portal",
+                        "possible"
+                    ],
+                    "answer": "portable",
+                    "explanation": "Portable means able to be easily carried or moved."
+                },
+                {
+                    "id": "V6",
+                    "difficulty": 2,
+                    "arabicHint": "ضخم وغير عملي",
+                    "question": "Select the adjective for something large and awkward.",
+                    "prompt": [
+                        {
+                            "text": "The old sofa was too "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " to fit through the door."
+                        }
+                    ],
+                    "options": [
+                        "bulky",
+                        "bulk",
+                        "bulb",
+                        "busy"
+                    ],
+                    "answer": "bulky",
+                    "explanation": "Bulky means taking up much space, typically inconveniently."
+                },
+                {
+                    "id": "V7",
+                    "difficulty": 1,
+                    "arabicHint": "غالي الثمن",
+                    "question": "Choose the adjective for high cost.",
+                    "prompt": [
+                        {
+                            "text": "The diamond ring was very "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "expensive",
+                        "expressive",
+                        "extensive",
+                        "expansive"
+                    ],
+                    "answer": "expensive",
+                    "explanation": "Expensive means costing a lot of money."
+                },
+                {
+                    "id": "V8",
+                    "difficulty": 2,
+                    "arabicHint": "تم تطويره",
+                    "question": "Select the verb meaning 'created over time'.",
+                    "prompt": [
+                        {
+                            "text": "The new vaccine was "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " by scientists."
+                        }
+                    ],
+                    "options": [
+                        "developed",
+                        "delivered",
+                        "depended",
+                        "described"
+                    ],
+                    "answer": "developed",
+                    "explanation": "Developed means created or produced over a period of time."
+                },
+                {
+                    "id": "V9",
+                    "difficulty": 2,
+                    "arabicHint": "مواد البناء",
+                    "question": "Choose the noun for substances used to make things.",
+                    "prompt": [
+                        {
+                            "text": "Wood and steel are common building "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "materials",
+                        "maternal",
+                        "mathematics",
+                        "matters"
+                    ],
+                    "answer": "materials",
+                    "explanation": "Materials are the matter from which a thing is or can be made."
+                },
+                {
+                    "id": "V10",
+                    "difficulty": 1,
+                    "arabicHint": "ميزات المنتج",
+                    "question": "Select the noun for special characteristics.",
+                    "prompt": [
+                        {
+                            "text": "One of the main "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " of this phone is its camera."
+                        }
+                    ],
+                    "options": [
+                        "features",
+                        "feathers",
+                        "feedback",
+                        "feelings"
+                    ],
+                    "answer": "features",
+                    "explanation": "Features are distinctive attributes or aspects of something."
+                },
+                {
+                    "id": "V11",
+                    "difficulty": 1,
+                    "arabicHint": "تم اختراعه",
+                    "question": "Choose the verb for creating something new.",
+                    "prompt": [
+                        {
+                            "text": "The light bulb was "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " by Edison."
+                        }
+                    ],
+                    "options": [
+                        "invented",
+                        "invested",
+                        "invited",
+                        "indicated"
+                    ],
+                    "answer": "invented",
+                    "explanation": "Invented means created or designed something that did not exist before."
+                },
+                {
+                    "id": "V12",
+                    "difficulty": 3,
+                    "arabicHint": "قابل للتوجيه",
+                    "question": "Select the adjective meaning 'can be directed'.",
+                    "prompt": [
+                        {
+                            "text": "The boat has a "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " rudder to change direction."
+                        }
+                    ],
+                    "options": [
+                        "steerable",
+                        "searchable",
+                        "separable",
+                        "seasonable"
+                    ],
+                    "answer": "steerable",
+                    "explanation": "Steerable means able to be guided in a particular direction."
+                },
+                {
+                    "id": "V13",
+                    "difficulty": 2,
+                    "arabicHint": "تنوع / أنواع عديدة",
+                    "question": "Choose the noun meaning 'assortment'.",
+                    "prompt": [
+                        {
+                            "text": "The store offers a wide "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " of shoes."
+                        }
+                    ],
+                    "options": [
+                        "variety",
+                        "variable",
+                        "various",
+                        "vary"
+                    ],
+                    "answer": "variety",
+                    "explanation": "Variety means a number of different types of things."
+                },
+                {
+                    "id": "V14",
+                    "difficulty": 2,
+                    "arabicHint": "تم نقله",
+                    "question": "Select the verb meaning 'moved from place to place'.",
+                    "prompt": [
+                        {
+                            "text": "The goods were "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " by truck."
+                        }
+                    ],
+                    "options": [
+                        "transported",
+                        "transformed",
+                        "translated",
+                        "transferred"
+                    ],
+                    "answer": "transported",
+                    "explanation": "Transported means taken or carried from one place to another."
+                },
+                {
+                    "id": "V15",
+                    "difficulty": 3,
+                    "arabicHint": "نظام قفل",
+                    "question": "Choose the phrase for security mechanism.",
+                    "prompt": [
+                        {
+                            "text": "The door has a special "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " to keep it safe."
+                        }
+                    ],
+                    "options": [
+                        "locking system",
+                        "looking system",
+                        "locking signal",
+                        "locking sample"
+                    ],
+                    "answer": "locking system",
+                    "explanation": "A locking system is a mechanism used to secure something."
+                },
+                {
+                    "id": "V16",
+                    "difficulty": 2,
+                    "arabicHint": "ماذا تفعل الآن؟",
+                    "question": "Choose the phrase used to ask about current activity.",
+                    "prompt": [
+                        {
+                            "text": "Hey! "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " this weekend?"
+                        }
+                    ],
+                    "options": [
+                        "What are you up to",
+                        "What are you up for",
+                        "What are you up at",
+                        "What are you up on"
+                    ],
+                    "answer": "What are you up to",
+                    "explanation": "'What are you up to?' is an informal way to ask what someone is doing."
+                },
+                {
+                    "id": "V17",
+                    "difficulty": 3,
+                    "arabicHint": "تعبير عن الدهشة",
+                    "question": "Select the expression used to show strong surprise.",
+                    "prompt": [
+                        {
+                            "text": "_____ is that noise coming from?"
+                        }
+                    ],
+                    "options": [
+                        "What on earth",
+                        "What in earth",
+                        "What at earth",
+                        "What by earth"
+                    ],
+                    "answer": "What on earth",
+                    "explanation": "'What on earth' is used to emphasize surprise or confusion."
+                },
+                {
+                    "id": "V18",
+                    "difficulty": 2,
+                    "arabicHint": "بطاريات قابلة للشحن",
+                    "question": "Choose the adjective for batteries that can be used again.",
+                    "prompt": [
+                        {
+                            "text": "This toy uses "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " batteries so you don't need to buy new ones."
+                        }
+                    ],
+                    "options": [
+                        "rechargeable",
+                        "replaceable",
+                        "recyclable",
+                        "returnable"
+                    ],
+                    "answer": "rechargeable",
+                    "explanation": "Rechargeable means capable of being charged again after use."
+                },
+                {
+                    "id": "V19",
+                    "difficulty": 2,
+                    "arabicHint": "القاعدة (الجهاز)",
+                    "question": "Select the noun for the bottom support of a device.",
+                    "prompt": [
+                        {
+                            "text": "Place the phone back on its charging "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "base",
+                        "basis",
+                        "basic",
+                        "basin"
+                    ],
+                    "answer": "base",
+                    "explanation": "A base is the bottom support or foundation on which something stands."
+                },
+                {
+                    "id": "V20",
+                    "difficulty": 1,
+                    "arabicHint": "مساعد في العمل",
+                    "question": "Choose the word for someone who helps you at work.",
+                    "prompt": [
+                        {
+                            "text": "The manager hired an "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " to answer the phones."
+                        }
+                    ],
+                    "options": [
+                        "assistant",
+                        "assistance",
+                        "assign",
+                        "associate"
+                    ],
+                    "answer": "assistant",
+                    "explanation": "An assistant is a person who ranks below a senior person and assists them."
+                },
+                {
+                    "id": "V21",
+                    "difficulty": 2,
+                    "arabicHint": "مؤتمر رسمي",
+                    "question": "Select the word for a large formal meeting.",
+                    "prompt": [
+                        {
+                            "text": "He is attending a business "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " in Dubai."
+                        }
+                    ],
+                    "options": [
+                        "conference",
+                        "conference",
+                        "conference",
+                        "conference"
+                    ],
+                    "answer": "conference",
+                    "explanation": "A conference is a formal meeting for discussion, typically lasting several days."
+                },
+                {
+                    "id": "V22",
+                    "difficulty": 1,
+                    "arabicHint": "مشروع عمل",
+                    "question": "Choose the word for a planned piece of work.",
+                    "prompt": [
+                        {
+                            "text": "We need to finish this "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " by Friday."
+                        }
+                    ],
+                    "options": [
+                        "project",
+                        "object",
+                        "subject",
+                        "reject"
+                    ],
+                    "answer": "project",
+                    "explanation": "A project is an individual or collaborative enterprise that is carefully planned."
+                },
+                {
+                    "id": "V23",
+                    "difficulty": 1,
+                    "arabicHint": "رائع / لا يصدق",
+                    "question": "Select the adjective for something amazing.",
+                    "prompt": [
+                        {
+                            "text": "The view from the top was "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "awesome",
+                        "awful",
+                        "aware",
+                        "away"
+                    ],
+                    "answer": "awesome",
+                    "explanation": "Awesome means extremely impressive or daunting; inspiring awe."
+                },
+                {
+                    "id": "V24",
+                    "difficulty": 3,
+                    "arabicHint": "لم أرَ شيئاً مثله",
+                    "question": "Choose the phrase expressing uniqueness.",
+                    "prompt": [
+                        {
+                            "text": "This magic trick is strange. "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "I've never seen anything like it",
+                        "I've ever seen anything like it",
+                        "I've never seen nothing like it",
+                        "I've never see anything like it"
+                    ],
+                    "answer": "I've never seen anything like it",
+                    "explanation": "This phrase is used to express that something is unique or unprecedented."
+                },
+                {
+                    "id": "V25",
+                    "difficulty": 3,
+                    "arabicHint": "يجعلك تتساءل",
+                    "question": "Select the phrase indicating curiosity.",
+                    "prompt": [
+                        {
+                            "text": "The mystery of the old house "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "makes you wonder",
+                        "makes you wander",
+                        "makes you worry",
+                        "makes you work"
+                    ],
+                    "answer": "makes you wonder",
+                    "explanation": "'It makes you wonder' means it causes you to think about something with curiosity."
+                },
+                {
+                    "id": "V26",
+                    "difficulty": 1,
+                    "arabicHint": "يمسك / يلتقط",
+                    "question": "Choose the verb for grabbing something moving.",
+                    "prompt": [
+                        {
+                            "text": "Can you "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " the ball before it hits the ground?"
+                        }
+                    ],
+                    "options": [
+                        "catch",
+                        "match",
+                        "watch",
+                        "fetch"
+                    ],
+                    "answer": "catch",
+                    "explanation": "Catch means to intercept and hold something which has been thrown."
+                },
+                {
+                    "id": "V27",
+                    "difficulty": 2,
+                    "arabicHint": "يضبط (الجهاز)",
+                    "question": "Select the verb for configuring a device.",
+                    "prompt": [
+                        {
+                            "text": "Please "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " the alarm for 6 AM."
+                        }
+                    ],
+                    "options": [
+                        "set",
+                        "sit",
+                        "sat",
+                        "settle"
+                    ],
+                    "answer": "set",
+                    "explanation": "Set means to put a device into a desired state or position for use."
+                },
+                {
+                    "id": "V28",
+                    "difficulty": 1,
+                    "arabicHint": "اجتماع عمل",
+                    "question": "Choose the noun for a gathering of people.",
+                    "prompt": [
+                        {
+                            "text": "We have a team "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " at 10 AM."
+                        }
+                    ],
+                    "options": [
+                        "meeting",
+                        "eating",
+                        "seating",
+                        "heating"
+                    ],
+                    "answer": "meeting",
+                    "explanation": "A meeting is an assembly of people for a particular purpose."
+                },
+                {
+                    "id": "V29",
+                    "difficulty": 2,
+                    "arabicHint": "يقلق",
+                    "question": "Select the verb meaning 'to feel anxious'.",
+                    "prompt": [
+                        {
+                            "text": "Don't "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " about the test; you will pass."
+                        }
+                    ],
+                    "options": [
+                        "worry",
+                        "hurry",
+                        "carry",
+                        "marry"
+                    ],
+                    "answer": "worry",
+                    "explanation": "Worry means to feel anxious or troubled about actual or potential problems."
+                },
+                {
+                    "id": "V30",
+                    "difficulty": 2,
+                    "arabicHint": "يحل المشكلة",
+                    "question": "Choose the verb meaning 'to find a solution'.",
+                    "prompt": [
+                        {
+                            "text": "We need to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " this issue quickly."
+                        }
+                    ],
+                    "options": [
+                        "solve",
+                        "solve",
+                        "solve",
+                        "solve"
+                    ],
+                    "answer": "solve",
+                    "explanation": "Solve means to find a solution to a problem or matter."
+                },
+                {
+                    "id": "V31",
+                    "difficulty": 3,
+                    "arabicHint": "لا يمكن تصوره",
+                    "question": "Choose the word meaning 'impossible to imagine'.",
+                    "prompt": [
+                        {
+                            "text": "Before the internet, the idea of video calls was "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " to many people."
+                        }
+                    ],
+                    "options": [
+                        "inconceivable",
+                        "incredible",
+                        "inactive",
+                        "incomplete"
+                    ],
+                    "answer": "inconceivable",
+                    "explanation": "Inconceivable means something that is impossible to imagine or believe."
+                },
+                {
+                    "id": "V32",
+                    "difficulty": 2,
+                    "arabicHint": "غير عملي",
+                    "question": "Select the adjective for something not useful or convenient.",
+                    "prompt": [
+                        {
+                            "text": "Wearing high heels for hiking is "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "impractical",
+                        "important",
+                        "impatient",
+                        "impossible"
+                    ],
+                    "answer": "impractical",
+                    "explanation": "Impractical means not sensible or realistic in a given situation."
+                },
+                {
+                    "id": "V33",
+                    "difficulty": 2,
+                    "arabicHint": "محدود",
+                    "question": "Choose the word meaning 'kept within a boundary'.",
+                    "prompt": [
+                        {
+                            "text": "This is a "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " edition watch; only 100 were made."
+                        }
+                    ],
+                    "options": [
+                        "limited",
+                        "limitless",
+                        "limiting",
+                        "limits"
+                    ],
+                    "answer": "limited",
+                    "explanation": "Limited means restricted in size, amount, or extent."
+                },
+                {
+                    "id": "V34",
+                    "difficulty": 3,
+                    "arabicHint": "رمز للمكانة الاجتماعية",
+                    "question": "Select the phrase for an object showing wealth.",
+                    "prompt": [
+                        {
+                            "text": "For some, a luxury car is more than transport; it is a "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "status symbol",
+                        "status station",
+                        "state symbol",
+                        "static symbol"
+                    ],
+                    "answer": "status symbol",
+                    "explanation": "A status symbol is an object that shows a person's high social or economic standing."
+                },
+                {
+                    "id": "V35",
+                    "difficulty": 3,
+                    "arabicHint": "يجني المال من",
+                    "question": "Choose the phrasal verb meaning 'to make money from'.",
+                    "prompt": [
+                        {
+                            "text": "The company decided to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " the popularity of the new trend."
+                        }
+                    ],
+                    "options": [
+                        "cash in",
+                        "cash out",
+                        "cash up",
+                        "cash down"
+                    ],
+                    "answer": "cash in",
+                    "explanation": "'Cash in' means to profit from a situation or opportunity."
+                },
+                {
+                    "id": "V36",
+                    "difficulty": 2,
+                    "arabicHint": "فرع شركة",
+                    "question": "Select the noun for a branch of a company.",
+                    "prompt": [
+                        {
+                            "text": "He owns a fast food "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " in the city center."
+                        }
+                    ],
+                    "options": [
+                        "franchise",
+                        "fraction",
+                        "fragment",
+                        "frame"
+                    ],
+                    "answer": "franchise",
+                    "explanation": "A franchise is a branch of a company that is operated by an independent owner."
+                },
+                {
+                    "id": "V37",
+                    "difficulty": 3,
+                    "arabicHint": "يحدث ثورة / يغير جذرياً",
+                    "question": "Choose the verb meaning 'to greatly change'.",
+                    "prompt": [
+                        {
+                            "text": "Smartphones have "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " the way we communicate."
+                        }
+                    ],
+                    "options": [
+                        "revolutionized",
+                        "revolved",
+                        "revolted",
+                        "revealed"
+                    ],
+                    "answer": "revolutionized",
+                    "explanation": "Revolutionize means to change something radically or fundamentally."
+                },
+                {
+                    "id": "V38",
+                    "difficulty": 3,
+                    "arabicHint": "مستحيل التخيل",
+                    "question": "Select the adjective for something beyond belief.",
+                    "prompt": [
+                        {
+                            "text": "It seems "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " that humans will live on Mars soon."
+                        }
+                    ],
+                    "options": [
+                        "inconceivable",
+                        "inconvenient",
+                        "inconsistent",
+                        "independent"
+                    ],
+                    "answer": "inconceivable",
+                    "explanation": "Inconceivable describes something too strange or unlikely to be believed."
+                },
+                {
+                    "id": "V39",
+                    "difficulty": 2,
+                    "arabicHint": "دليل على الغنى",
+                    "question": "Choose the term for an item showing social rank.",
+                    "prompt": [
+                        {
+                            "text": "Expensive jewelry is often seen as a "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "status symbol",
+                        "status code",
+                        "state symbol",
+                        "static sign"
+                    ],
+                    "answer": "status symbol",
+                    "explanation": "A status symbol indicates the owner's high position in society."
+                },
+                {
+                    "id": "V40",
+                    "difficulty": 3,
+                    "arabicHint": "يغير الصناعة تماماً",
+                    "question": "Select the verb for making a major change.",
+                    "prompt": [
+                        {
+                            "text": "Electric engines aim to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " the automotive industry."
+                        }
+                    ],
+                    "options": [
+                        "revolutionize",
+                        "resolve",
+                        "rotate",
+                        "return"
+                    ],
+                    "answer": "revolutionize",
+                    "explanation": "Revolutionize means to completely change the way something is done."
+                }
+            ]
+        }
+    ]
+}

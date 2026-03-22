@@ -1,0 +1,660 @@
+{
+    "unit": "Mega Goal 1",
+    "lesson": "Unit 9",
+    "type": "Grammar",
+    "title": "Services and Repairs",
+    "clusters": [
+        {
+            "clusterId": "cluster-1",
+            "title": "Need to Be (Done)",
+            "cards": [
+                {
+                    "id": "card-1",
+                    "content": [
+                        {
+                            "text": "Common Repairs",
+                            "highlight": true
+                        },
+                        {
+                            "text": "الإصلاحات الشائعة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-2",
+                    "content": [
+                        {
+                            "text": "We use "
+                        },
+                        {
+                            "text": "need to be (done)",
+                            "colorize": true
+                        },
+                        {
+                            "text": " when something requires fixing or cleaning, but we don't say who will do it."
+                        },
+                        {
+                            "text": "نستخدم "
+                        },
+                        {
+                            "text": "need to be (done)",
+                            "colorize": true
+                        },
+                        {
+                            "text": " عندما يحتاج شيء ما إلى إصلاح أو تنظيف، لكننا لا نذكر من سيقوم بذلك."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-3",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "Object",
+                            "badge": true,
+                            "translation": "المفعول به"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "need(s) to be",
+                            "colorize": true
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "past participle",
+                            "badge2": true,
+                            "translation": "تصريف ثالث"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-4",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "The dirty car "
+                        },
+                        {
+                            "text": "needs to be washed",
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        },
+                        {
+                            "text": "\n (= Someone needs to wash the car)"
+                        },
+                        {
+                            "text": "السيارة المتسخة "
+                        },
+                        {
+                            "text": "تحتاج أن تُغسل",
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        },
+                        {
+                            "text": "\n (= شخص ما يحتاج أن يغسل السيارة)"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-5",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "These old shoes "
+                        },
+                        {
+                            "text": "need to be repaired",
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        },
+                        {
+                            "text": "\n (= Someone needs to repair the shoes)"
+                        },
+                        {
+                            "text": "هذه الأحذية القديمة "
+                        },
+                        {
+                            "text": "تحتاج أن تُصلح",
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        },
+                        {
+                            "text": "\n (= شخص ما يحتاج أن يصلح الأحذية)"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-6",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "The AC filter "
+                        },
+                        {
+                            "text": "needs to be changed",
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        },
+                        {
+                            "text": "فلتر المكيف "
+                        },
+                        {
+                            "text": "يحتاج أن يُغير",
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-2",
+            "title": "Have/Get Something (Done)",
+            "cards": [
+                {
+                    "id": "card-7",
+                    "content": [
+                        {
+                            "text": "Services Done by Others",
+                            "highlight": true
+                        },
+                        {
+                            "text": "خدمات يقوم بها الآخرون"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-8",
+                    "content": [
+                        {
+                            "text": "Use "
+                        },
+                        {
+                            "text": "have",
+                            "colorize": true
+                        },
+                        {
+                            "text": " or "
+                        },
+                        {
+                            "text": "get",
+                            "colorize": true
+                        },
+                        {
+                            "text": " + object + "
+                        },
+                        {
+                            "text": "past participle",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " when you pay or ask someone else to do a service for you."
+                        },
+                        {
+                            "text": "استخدم "
+                        },
+                        {
+                            "text": "have",
+                            "colorize": true
+                        },
+                        {
+                            "text": " أو "
+                        },
+                        {
+                            "text": "get",
+                            "colorize": true
+                        },
+                        {
+                            "text": " + مفعول به + "
+                        },
+                        {
+                            "text": "تصريف ثالث",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " عندما تدفع أو تطلب من شخص آخر القيام بخدمة لك."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-9",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "Subject",
+                            "badge": true,
+                            "translation": "الفاعل"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "have/get",
+                            "colorize": true
+                        },
+                        {
+                            "text": " + object + ",
+                            "badge3": true,
+                            "translation": "المفعول به"
+                        },
+                        {
+                            "text": "past participle",
+                            "badge2": true,
+                            "translation": "تصريف ثالث"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-10",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "We "
+                        },
+                        {
+                            "text": "are having",
+                            "colorize": true
+                        },
+                        {
+                            "text": " the house "
+                        },
+                        {
+                            "text": "painted",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " right now."
+                        },
+                        {
+                            "text": "نحن "
+                        },
+                        {
+                            "text": "نجعل",
+                            "colorize": true
+                        },
+                        {
+                            "text": " المنزل "
+                        },
+                        {
+                            "text": "يُدهن",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " الآن."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-11",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "I "
+                        },
+                        {
+                            "text": "am going to get",
+                            "colorize": true
+                        },
+                        {
+                            "text": " the air conditioner "
+                        },
+                        {
+                            "text": "fixed",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " tomorrow."
+                        },
+                        {
+                            "text": "أنا "
+                        },
+                        {
+                            "text": "سأجعل",
+                            "colorize": true
+                        },
+                        {
+                            "text": " المكيف "
+                        },
+                        {
+                            "text": "يُصلح",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " غداً."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-12",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Reference to past: ",
+                            "highlight": true
+                        },
+                        {
+                            "text": "She "
+                        },
+                        {
+                            "text": "had",
+                            "colorize": true
+                        },
+                        {
+                            "text": " her car "
+                        },
+                        {
+                            "text": "serviced",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " last week."
+                        },
+                        {
+                            "text": "إشارة للماضي: ",
+                            "highlight": true
+                        },
+                        {
+                            "text": "هي "
+                        },
+                        {
+                            "text": "جعلت",
+                            "colorize": true
+                        },
+                        {
+                            "text": " سيارتها "
+                        },
+                        {
+                            "text": "تُصان",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " الأسبوع الماضي."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-3",
+            "title": "Past Participles as Adjectives",
+            "cards": [
+                {
+                    "id": "card-13",
+                    "content": [
+                        {
+                            "text": "Describing Condition",
+                            "highlight": true
+                        },
+                        {
+                            "text": "وصف الحالة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-14",
+                    "content": [
+                        {
+                            "text": "The "
+                        },
+                        {
+                            "text": "past participle",
+                            "colorize": true
+                        },
+                        {
+                            "text": " can be used as an "
+                        },
+                        {
+                            "text": "adjective",
+                            "colorize": true
+                        },
+                        {
+                            "text": " to describe the condition of something."
+                        },
+                        {
+                            "text": "يمكن استخدام "
+                        },
+                        {
+                            "text": "التصريف الثالث",
+                            "colorize": true
+                        },
+                        {
+                            "text": " كـ "
+                        },
+                        {
+                            "text": "صفة",
+                            "colorize": true
+                        },
+                        {
+                            "text": " لوصف حالة شيء ما."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-15",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "break",
+                            "badge": true,
+                            "translation": "يكسر"
+                        },
+                        {
+                            "text": " → "
+                        },
+                        {
+                            "text": "broken",
+                            "badge2": true,
+                            "translation": "مكسور"
+                        },
+                        {
+                            "text": " | crack → cracked | damage → damaged | tear → torn"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-16",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "The phone screen was "
+                        },
+                        {
+                            "text": "cracked",
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        },
+                        {
+                            "text": " I replaced the "
+                        },
+                        {
+                            "text": "cracked",
+                            "colorize": true
+                        },
+                        {
+                            "text": " screen."
+                        },
+                        {
+                            "text": "شاشة الهاتف كانت "
+                        },
+                        {
+                            "text": "متصدعة",
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        },
+                        {
+                            "text": " اسبتدلت الشاشة "
+                        },
+                        {
+                            "text": "المتصدعة",
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-17",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "My laptop was "
+                        },
+                        {
+                            "text": "damaged",
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        },
+                        {
+                            "text": " The technician repaired the "
+                        },
+                        {
+                            "text": "damaged",
+                            "colorize": true
+                        },
+                        {
+                            "text": " laptop."
+                        },
+                        {
+                            "text": "لابتوبي كان "
+                        },
+                        {
+                            "text": "متضرراً",
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        },
+                        {
+                            "text": " الفني أصلح اللابتوب "
+                        },
+                        {
+                            "text": "المتضرر",
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-18",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "His jacket was "
+                        },
+                        {
+                            "text": "torn",
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        },
+                        {
+                            "text": " He sewed the "
+                        },
+                        {
+                            "text": "torn",
+                            "colorize": true
+                        },
+                        {
+                            "text": " pocket."
+                        },
+                        {
+                            "text": "سترته كانت "
+                        },
+                        {
+                            "text": "ممزقة",
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        },
+                        {
+                            "text": " هو خاط الجيب "
+                        },
+                        {
+                            "text": "الممزق",
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-19",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "The window was "
+                        },
+                        {
+                            "text": "broken",
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        },
+                        {
+                            "text": " We fixed the "
+                        },
+                        {
+                            "text": "broken",
+                            "colorize": true
+                        },
+                        {
+                            "text": " window."
+                        },
+                        {
+                            "text": "النافذة كانت "
+                        },
+                        {
+                            "text": "مكسورة",
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        },
+                        {
+                            "text": " صلحنا النافذة "
+                        },
+                        {
+                            "text": "المكسورة",
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

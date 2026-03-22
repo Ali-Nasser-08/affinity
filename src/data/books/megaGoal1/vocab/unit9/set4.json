@@ -1,0 +1,552 @@
+{
+    "unit": "Mega Goal 1 - Unit 9: Complaints Complaints",
+    "type": "reading",
+    "setTitle": "Reading: Murphy's Law",
+    "words": [
+        {
+            "word": "Murphy's Law",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "The humorous belief that "
+                },
+                {
+                    "text": "if something can go wrong",
+                    "highlight": true
+                },
+                {
+                    "text": ", it "
+                },
+                {
+                    "text": "probably will",
+                    "highlight2": true
+                },
+                {
+                    "text": " — especially at the worst possible moment"
+                }
+            ],
+            "arabicMeaning": "قانون ميرفي",
+            "synonyms": [
+                "Sod's Law (British)",
+                "the principle of worst-case scenarios"
+            ],
+            "example": [
+                {
+                    "text": "I wore my white shirt on the day the coffee machine started leaking—classic "
+                },
+                {
+                    "text": "Murphy's Law",
+                    "colorize": true
+                },
+                {
+                    "text": " in action"
+                }
+            ],
+            "tips": "Named after engineer Edward Murphy (1949). Not a real scientific law—more a cynical observation about everyday frustrations. Often quoted humorously when things go wrong."
+        },
+        {
+            "word": "fuzzy",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Not clear or sharp; having a "
+                },
+                {
+                    "text": "blurry, indistinct appearance",
+                    "highlight": true
+                },
+                {
+                    "text": " with "
+                },
+                {
+                    "text": "soft unclear edges",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ضبابي / غير واضح",
+            "synonyms": [
+                "blurry",
+                "out of focus",
+                "hazy"
+            ],
+            "example": [
+                {
+                    "text": "The old photograph was so "
+                },
+                {
+                    "text": "fuzzy",
+                    "colorize": true
+                },
+                {
+                    "text": " that I could barely recognize my grandparents' faces"
+                }
+            ],
+            "tips": "Also describes soft textured surfaces (a fuzzy blanket). For screens/images: 'fuzzy' = poor signal or low resolution. Opposite: crisp, sharp, clear."
+        },
+        {
+            "word": "all set",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Completely "
+                },
+                {
+                    "text": "prepared and ready",
+                    "highlight": true
+                },
+                {
+                    "text": " to begin something; having everything "
+                },
+                {
+                    "text": "arranged properly",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مستعد تمامًا / جاهز",
+            "synonyms": [
+                "all ready",
+                "completely prepared",
+                "good to go"
+            ],
+            "example": [
+                {
+                    "text": "The cake is baked, candles are lit, and guests are arriving—we're "
+                },
+                {
+                    "text": "all set",
+                    "colorize": true
+                },
+                {
+                    "text": " for the birthday surprise"
+                }
+            ],
+            "tips": "Very common casual expression. NOT 'all setted' (incorrect). Can stand alone as response: 'Are you ready?' 'Yes, all set!'"
+        },
+        {
+            "word": "key ring",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A small metal ring or chain used to "
+                },
+                {
+                    "text": "hold multiple keys together",
+                    "highlight": true
+                },
+                {
+                    "text": " so they don't get "
+                },
+                {
+                    "text": "lost separately",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "سلسلة مفاتيح",
+            "synonyms": [
+                "keychain",
+                "key holder"
+            ],
+            "example": [
+                {
+                    "text": "I dropped my "
+                },
+                {
+                    "text": "key ring",
+                    "colorize": true
+                },
+                {
+                    "text": " in a puddle and spent ten minutes fishing it out with a stick"
+                }
+            ],
+            "tips": "American English: 'key ring' (two words) or 'keychain' (one word). British English often says 'keyring' (one word). Not the same as 'key fob' (electronic car key)."
+        },
+        {
+            "word": "selective memory",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "The tendency to "
+                },
+                {
+                    "text": "remember certain events",
+                    "highlight": true
+                },
+                {
+                    "text": " (usually negative or positive ones) while "
+                },
+                {
+                    "text": "forgetting others",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ذاكرة انتقائية",
+            "synonyms": [
+                "biased recall",
+                "convenient forgetting"
+            ],
+            "example": [
+                {
+                    "text": "He has such "
+                },
+                {
+                    "text": "selective memory",
+                    "colorize": true
+                },
+                {
+                    "text": " — he remembers every time I was late but forgets all the times he canceled plans"
+                }
+            ],
+            "tips": "Psychological concept explaining why we recall frustrating events more vividly than smooth ones. Not intentional deception—just how human memory works."
+        },
+        {
+            "word": "probability",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "likelihood or chance",
+                    "highlight": true
+                },
+                {
+                    "text": " that something will happen, often expressed as a "
+                },
+                {
+                    "text": "percentage or fraction",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "احتمال",
+            "synonyms": [
+                "likelihood",
+                "chance",
+                "odds"
+            ],
+            "example": [
+                {
+                    "text": "With six sides on a die, the "
+                },
+                {
+                    "text": "probability",
+                    "colorize": true
+                },
+                {
+                    "text": " of rolling a three is one in six, or about 17 percent"
+                }
+            ],
+            "tips": "Math/science term. 'High probability' = likely to happen. 'Low probability' = unlikely. Not the same as 'possibility' (something could happen) vs. 'probability' (how likely it is)."
+        },
+        {
+            "word": "cashier",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A person who "
+                },
+                {
+                    "text": "collects payment",
+                    "highlight": true
+                },
+                {
+                    "text": " from customers at a store, restaurant, or "
+                },
+                {
+                    "text": "checkout counter",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "كاشير / محاسب",
+            "synonyms": [
+                "checkout clerk",
+                "sales assistant"
+            ],
+            "example": [
+                {
+                    "text": "The friendly "
+                },
+                {
+                    "text": "cashier",
+                    "colorize": true
+                },
+                {
+                    "text": " noticed I was short fifty cents and covered the difference herself"
+                }
+            ],
+            "tips": "American English term. British English often uses 'checkout assistant' or 'till operator'. Not the same as 'cashier' as a verb (to convert a check to cash)."
+        },
+        {
+            "word": "lane",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A narrow section of a road or pathway for "
+                },
+                {
+                    "text": "vehicles traveling in one direction",
+                    "highlight": true
+                },
+                {
+                    "text": "; also a "
+                },
+                {
+                    "text": "checkout line",
+                    "highlight2": true
+                },
+                {
+                    "text": " at a supermarket"
+                }
+            ],
+            "arabicMeaning": "ممر / صف انتظار",
+            "synonyms": [
+                "checkout line",
+                "aisle (at store)",
+                "traffic lane"
+            ],
+            "example": [
+                {
+                    "text": "I always seem to pick the grocery "
+                },
+                {
+                    "text": "lane",
+                    "colorize": true
+                },
+                {
+                    "text": " where the person ahead has a price check on every single item"
+                }
+            ],
+            "tips": "Context determines meaning: highway lane vs. supermarket lane. Never 'line lane' (redundant). 'Fast lane' = quick checkout; 'slow lane' = delayed service."
+        },
+        {
+            "word": "malfunctioning",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Not working correctly or as intended; "
+                },
+                {
+                    "text": "operating with errors",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "complete failure",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "معطّل / لا يعمل بشكل صحيح",
+            "synonyms": [
+                "faulty",
+                "defective",
+                "broken"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "malfunctioning",
+                    "colorize": true
+                },
+                {
+                    "text": " elevator kept opening on the wrong floor, confusing everyone inside"
+                }
+            ],
+            "tips": "Stronger than 'not working'—implies the device should work but has developed a fault. Verb form: malfunction (intransitive—doesn't take an object: 'The printer malfunctioned')."
+        },
+        {
+            "word": "human error",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A mistake made by a person rather than by a machine or system; an "
+                },
+                {
+                    "text": "accidental failure in judgment",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "action",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "خطأ بشري",
+            "synonyms": [
+                "operator mistake",
+                "user error"
+            ],
+            "example": [
+                {
+                    "text": "The rocket launch was delayed due to "
+                },
+                {
+                    "text": "human error",
+                    "colorize": true
+                },
+                {
+                    "text": " — someone entered the wrong coordinates into the navigation system"
+                }
+            ],
+            "tips": "Common phrase in engineering, medicine, and aviation to distinguish person-caused failures from mechanical ones. Often used defensively: 'It wasn't the software's fault—it was human error.'"
+        },
+        {
+            "word": "backup",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A duplicate copy of data or files saved "
+                },
+                {
+                    "text": "separately",
+                    "highlight": true
+                },
+                {
+                    "text": " to protect against "
+                },
+                {
+                    "text": "loss from accidents or failure",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "نسخة احتياطية",
+            "synonyms": [
+                "copy",
+                "safety copy",
+                "archive"
+            ],
+            "example": [
+                {
+                    "text": "After my laptop crashed and I lost my term paper, I learned to keep a weekly "
+                },
+                {
+                    "text": "backup",
+                    "colorize": true
+                },
+                {
+                    "text": " on an external drive"
+                }
+            ],
+            "tips": "Critical digital safety practice. Verb form: 'to back up' (two words). Noun/adjective: 'backup' (one word). Cloud storage services automatically create backups for many users."
+        },
+        {
+            "word": "crash down",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To fail suddenly and "
+                },
+                {
+                    "text": "completely",
+                    "highlight": true
+                },
+                {
+                    "text": "; to collapse or fall apart "
+                },
+                {
+                    "text": "dramatically",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يَنهار فجأة",
+            "synonyms": [
+                "collapse",
+                "fall apart",
+                "come crashing down"
+            ],
+            "example": [
+                {
+                    "text": "One weak link in the team's planning caused the entire project to "
+                },
+                {
+                    "text": "crash down",
+                    "colorize": true
+                },
+                {
+                    "text": " just days before the deadline"
+                }
+            ],
+            "tips": "Often used metaphorically for plans/projects (not just physical objects). 'Bring crashing down' = cause something else to fail completely. Dramatic, emphatic phrasing."
+        },
+        {
+            "word": "blame",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To hold someone or something "
+                },
+                {
+                    "text": "responsible for a problem",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "mistake",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يلوم",
+            "synonyms": [
+                "fault",
+                "accuse",
+                "hold responsible"
+            ],
+            "example": [
+                {
+                    "text": "Don't "
+                },
+                {
+                    "text": "blame",
+                    "colorize": true
+                },
+                {
+                    "text": " the weather for being late—you left home twenty minutes after you should have"
+                }
+            ],
+            "tips": "Pattern: blame + person/thing (+ for + reason). 'Blame someone' NOT 'blame on someone' (common error). Noun form: blame (uncountable: 'She took the blame')."
+        },
+        {
+            "word": "buttered side",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "The side of toast or bread that has "
+                },
+                {
+                    "text": "butter spread on it",
+                    "highlight": true
+                },
+                {
+                    "text": "; famous in the saying 'toast always falls "
+                },
+                {
+                    "text": "buttered side down'",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "الجانب المدهون بالزبدة",
+            "synonyms": [
+                "buttered surface"
+            ],
+            "example": [
+                {
+                    "text": "According to popular belief, dropped toast always lands "
+                },
+                {
+                    "text": "buttered side",
+                    "colorize": true
+                },
+                {
+                    "text": " down—but science shows it's actually about table height and rotation"
+                }
+            ],
+            "tips": "Cultural reference tied to Murphy's Law pessimism. The BBC experiment mentioned in the text actually disproved this myth—toast lands buttered-side down only about 50% of the time."
+        }
+    ]
+}

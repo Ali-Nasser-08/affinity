@@ -1,0 +1,593 @@
+{
+    "unit": "Mega Goal 1 - Unit 10: I Wonder What Happened",
+    "type": "reading",
+    "setTitle": "Reading: The History of Remote Controls",
+    "words": [
+        {
+            "word": "tend to",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To usually or "
+                },
+                {
+                    "text": "habitually do something",
+                    "highlight": true
+                },
+                {
+                    "text": "; to have a "
+                },
+                {
+                    "text": "natural inclination",
+                    "highlight2": true
+                },
+                {
+                    "text": " toward a particular behavior"
+                }
+            ],
+            "arabicMeaning": "يميل إلى / يعتاد على",
+            "synonyms": [
+                "usually",
+                "often",
+                "have a habit of"
+            ],
+            "example": [
+                {
+                    "text": "People "
+                },
+                {
+                    "text": "tend to",
+                    "colorize": true
+                },
+                {
+                    "text": " check their phones within five minutes of waking up"
+                }
+            ],
+            "tips": "Followed by base verb (not -ing): 'tend to forget' ✅ NOT 'tend forgetting' ❌. Shows typical patterns, not absolute rules."
+        },
+        {
+            "word": "take for granted",
+            "wordType": "phrasal verb phrase",
+            "definition": [
+                {
+                    "text": "To fail to appreciate something valuable because it is "
+                },
+                {
+                    "text": "always available",
+                    "highlight": true
+                },
+                {
+                    "text": "; to "
+                },
+                {
+                    "text": "assume it will never disappear",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يأخذ شيئًا كأمر مسلّم به",
+            "synonyms": [
+                "undervalue",
+                "fail to appreciate",
+                "assume will always be there"
+            ],
+            "example": [
+                {
+                    "text": "Many people "
+                },
+                {
+                    "text": "take for granted",
+                    "colorize": true
+                },
+                {
+                    "text": " having clean drinking water until they travel somewhere it's scarce"
+                }
+            ],
+            "tips": "Important life lesson idiom. Often used in advice: 'Don't take your health/family/freedom for granted.'"
+        },
+        {
+            "word": "demonstrate",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To show how something works or prove a concept "
+                },
+                {
+                    "text": "through practical example",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "public display",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُظهر / يُبيّن عمليًا",
+            "synonyms": [
+                "show",
+                "exhibit",
+                "prove by example"
+            ],
+            "example": [
+                {
+                    "text": "The scientist "
+                },
+                {
+                    "text": "demonstrated",
+                    "colorize": true
+                },
+                {
+                    "text": " the robot's abilities by having it solve a complex puzzle in front of the audience"
+                }
+            ],
+            "tips": "More formal than 'show'. Often used for inventions, skills, or scientific principles. Noun form: demonstration."
+        },
+        {
+            "word": "exhibition",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A public "
+                },
+                {
+                    "text": "display or showing",
+                    "highlight": true
+                },
+                {
+                    "text": " of objects, art, technology, or skills for people to "
+                },
+                {
+                    "text": "view and learn about",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "معرض",
+            "synonyms": [
+                "show",
+                "display",
+                "expo"
+            ],
+            "example": [
+                {
+                    "text": "The technology "
+                },
+                {
+                    "text": "exhibition",
+                    "colorize": true
+                },
+                {
+                    "text": " featured robots, virtual reality headsets, and self-driving car prototypes"
+                }
+            ],
+            "tips": "Often shortened to 'expo' in event names (World Expo). Different from 'exhibitionist' (someone who shows off inappropriately)—unrelated meaning!"
+        },
+        {
+            "word": "execute",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To carry out or "
+                },
+                {
+                    "text": "perform a command, order",
+                    "highlight": true
+                },
+                {
+                    "text": ", or "
+                },
+                {
+                    "text": "instruction precisely",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ينفّذ",
+            "synonyms": [
+                "carry out",
+                "perform",
+                "complete"
+            ],
+            "example": [
+                {
+                    "text": "When you click 'save,' the computer "
+                },
+                {
+                    "text": "executes",
+                    "colorize": true
+                },
+                {
+                    "text": " a series of commands to store your document"
+                }
+            ],
+            "tips": "Common in computing/technology contexts ('execute a program'). Also used for carrying out plans or legal sentences (different context)."
+        },
+        {
+            "word": "transmit",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To send or "
+                },
+                {
+                    "text": "pass along signals",
+                    "highlight": true
+                },
+                {
+                    "text": ", information, or energy from one place to "
+                },
+                {
+                    "text": "another",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ينقل / يبث",
+            "synonyms": [
+                "send",
+                "broadcast",
+                "convey"
+            ],
+            "example": [
+                {
+                    "text": "Cell phone towers "
+                },
+                {
+                    "text": "transmit",
+                    "colorize": true
+                },
+                {
+                    "text": " wireless signals that connect your device to the internet"
+                }
+            ],
+            "tips": "Technical/formal term for sending signals. More precise than 'send'. Common collocations: transmit data, transmit disease, transmit signals."
+        },
+        {
+            "word": "electromagnetic",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Relating to the combined forces of "
+                },
+                {
+                    "text": "electricity and magnetism",
+                    "highlight": true
+                },
+                {
+                    "text": " that create "
+                },
+                {
+                    "text": "waves of energy",
+                    "highlight2": true
+                },
+                {
+                    "text": " (like radio, light, or X-rays)"
+                }
+            ],
+            "arabicMeaning": "كهرومغناطيسي",
+            "synonyms": [
+                "EM (abbreviation)",
+                "radiowave-based"
+            ],
+            "example": [
+                {
+                    "text": "Wi-Fi routers use "
+                },
+                {
+                    "text": "electromagnetic",
+                    "colorize": true
+                },
+                {
+                    "text": " waves to send internet data through the air to your devices"
+                }
+            ],
+            "tips": "Scientific term. 'Electromagnetic spectrum' includes radio waves, microwaves, visible light, X-rays—all forms of energy traveling as waves."
+        },
+        {
+            "word": "pioneer",
+            "wordType": "noun/verb",
+            "definition": [
+                {
+                    "text": "A person who is "
+                },
+                {
+                    "text": "among the first",
+                    "highlight": true
+                },
+                {
+                    "text": " to explore, develop, or use a new area, technology, or "
+                },
+                {
+                    "text": "method",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "رائد",
+            "synonyms": [
+                "innovator",
+                "trailblazer",
+                "groundbreaker"
+            ],
+            "example": [
+                {
+                    "text": "Marie Curie was a "
+                },
+                {
+                    "text": "pioneer",
+                    "colorize": true
+                },
+                {
+                    "text": " in the study of radioactivity and the first woman to win a Nobel Prize"
+                }
+            ],
+            "tips": "Can be noun ('She's a pioneer') or verb ('They pioneered electric cars'). Implies courage and innovation in unexplored territory."
+        },
+        {
+            "word": "exclusive",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Available only to a "
+                },
+                {
+                    "text": "limited group of people",
+                    "highlight": true
+                },
+                {
+                    "text": "; often expensive, high-quality, or "
+                },
+                {
+                    "text": "luxury-oriented",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حصري / فاخر",
+            "synonyms": [
+                "luxury",
+                "high-end",
+                "limited edition"
+            ],
+            "example": [
+                {
+                    "text": "The hotel offers an "
+                },
+                {
+                    "text": "exclusive",
+                    "colorize": true
+                },
+                {
+                    "text": " rooftop lounge that only penthouse guests can access"
+                }
+            ],
+            "tips": "Marketing term implying prestige and scarcity. 'Exclusive model' = special version not available to everyone. Opposite: mass-market, standard."
+        },
+        {
+            "word": "wireless",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Operating or communicating "
+                },
+                {
+                    "text": "without physical wires or cables",
+                    "highlight": true
+                },
+                {
+                    "text": " by using "
+                },
+                {
+                    "text": "radio signals or other technology",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "لاسلكي",
+            "synonyms": [
+                "cordless",
+                "cable-free"
+            ],
+            "example": [
+                {
+                    "text": "Modern homes often have "
+                },
+                {
+                    "text": "wireless",
+                    "colorize": true
+                },
+                {
+                    "text": " speakers that connect to your phone through Bluetooth"
+                }
+            ],
+            "tips": "Ubiquitous modern tech term. 'Wireless' doesn't mean 'no connection'—it means connection without physical cables. Opposite: wired."
+        },
+        {
+            "word": "ultrasound",
+            "wordType": "noun/adjective",
+            "definition": [
+                {
+                    "text": "Sound waves with a "
+                },
+                {
+                    "text": "frequency too high",
+                    "highlight": true
+                },
+                {
+                    "text": " for humans to hear; used in medical imaging and "
+                },
+                {
+                    "text": "older remote controls",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "الموجات فوق الصوتية",
+            "synonyms": [
+                "ultrasonic waves"
+            ],
+            "example": [
+                {
+                    "text": "Doctors use "
+                },
+                {
+                    "text": "ultrasound",
+                    "colorize": true
+                },
+                {
+                    "text": " technology to create images of a developing baby inside the womb"
+                }
+            ],
+            "tips": "Prefix 'ultra-' means 'beyond'. Ultrasound = beyond (higher than) normal hearing range. Not the same as 'supersonic' (faster than sound speed)."
+        },
+        {
+            "word": "reliable",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Consistently "
+                },
+                {
+                    "text": "good in quality or performance",
+                    "highlight": true
+                },
+                {
+                    "text": "; able to be "
+                },
+                {
+                    "text": "trusted to work properly",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "موثوق / معتمد عليه",
+            "synonyms": [
+                "dependable",
+                "trustworthy",
+                "consistent"
+            ],
+            "example": [
+                {
+                    "text": "After three flat tires in one month, she decided she needed a more "
+                },
+                {
+                    "text": "reliable",
+                    "colorize": true
+                },
+                {
+                    "text": " car for her daily commute"
+                }
+            ],
+            "tips": "Key product quality descriptor. Opposite: unreliable, faulty, undependable. Often paired with technology, vehicles, people, or information sources."
+        },
+        {
+            "word": "channel surf",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To quickly change television channels "
+                },
+                {
+                    "text": "using a remote control",
+                    "highlight": true
+                },
+                {
+                    "text": " to find something interesting to "
+                },
+                {
+                    "text": "watch",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يتنقّل بين القنوات",
+            "synonyms": [
+                "flip channels",
+                "zap through channels"
+            ],
+            "example": [
+                {
+                    "text": "During boring commercials, he likes to "
+                },
+                {
+                    "text": "channel surf",
+                    "colorize": true
+                },
+                {
+                    "text": " to see what else is on TV"
+                }
+            ],
+            "tips": "Idiomatic expression from the surfing metaphor—'riding' quickly across many channels like a surfer on waves. Primarily used for TV (not streaming services with no channels)."
+        },
+        {
+            "word": "sophisticated",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Highly "
+                },
+                {
+                    "text": "developed, complex",
+                    "highlight": true
+                },
+                {
+                    "text": ", or advanced in design; showing "
+                },
+                {
+                    "text": "refined technology or features",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "متطور / معقّد",
+            "synonyms": [
+                "advanced",
+                "complex",
+                "high-tech"
+            ],
+            "example": [
+                {
+                    "text": "Modern smartphones contain incredibly "
+                },
+                {
+                    "text": "sophisticated",
+                    "colorize": true
+                },
+                {
+                    "text": " cameras that can capture professional-quality photos"
+                }
+            ],
+            "tips": "Positive adjective for technology, systems, or people (cultured/refined). Not the same as 'complicated' (which can be negative—hard to use)."
+        },
+        {
+            "word": "consumers",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "People who "
+                },
+                {
+                    "text": "buy goods and services",
+                    "highlight": true
+                },
+                {
+                    "text": " for personal use rather than for "
+                },
+                {
+                    "text": "business resale",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مستهلكون",
+            "synonyms": [
+                "customers",
+                "buyers",
+                "shoppers"
+            ],
+            "example": [
+                {
+                    "text": "Smartphone manufacturers constantly update features to attract "
+                },
+                {
+                    "text": "consumers",
+                    "colorize": true
+                },
+                {
+                    "text": " who want the latest technology"
+                }
+            ],
+            "tips": "Economic term distinguishing end-users from businesses/producers. 'Consumer electronics' = devices for personal use (phones, TVs) vs. industrial equipment."
+        }
+    ]
+}

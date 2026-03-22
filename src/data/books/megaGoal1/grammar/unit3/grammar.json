@@ -1,0 +1,1124 @@
+{
+  "unit": "Mega Goal 1",
+  "lesson": "Unit 3",
+  "clusters": [
+    {
+      "clusterId": "cluster-1",
+      "title": "Future with Will - Forms",
+      "cards": [
+        {
+          "id": "card-1",
+          "content": [
+            {
+              "text": "Talking About the Future:",
+              "highlight": true
+            },
+            {
+              "text": "Will",
+              "highlight": true
+            },
+            {
+              "text": " and ",
+              "highlight": true
+            },
+            {
+              "text": "Be Going To",
+              "highlight": true
+            },
+            {
+              "text": "المستقبل بـ Will أو Be Going To"
+            }
+          ]
+        },
+        {
+          "id": "card-2",
+          "content": [
+            {
+              "text": "We use "
+            },
+            {
+              "text": "will",
+              "colorize": true
+            },
+            {
+              "text": " or "
+            },
+            {
+              "text": "be going to",
+              "colorize": true
+            },
+            {
+              "text": " when we talk about things that "
+            },
+            {
+              "text": "we think will happen later",
+              "colorize2": true
+            },
+            {
+              "text": "استخدم "
+            },
+            {
+              "text": "will",
+              "colorize": true
+            },
+            {
+              "text": " أو "
+            },
+            {
+              "text": "be going to",
+              "colorize": true
+            },
+            {
+              "text": " للقيام بـ"
+            },
+            {
+              "text": "تنبؤات حول المستقبل",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Positive form (will):",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Subject",
+              "badge": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "will",
+              "badge2": true,
+              "translation": "سوف"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "base verb",
+              "badge3": true,
+              "translation": "الفعل المجرد"
+            }
+          ]
+        },
+        {
+          "id": "card-3b",
+          "type": "example",
+          "content": [
+            {
+              "text": "Computers ",
+              "colorize": true
+            },
+            {
+              "text": "will",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "handle",
+              "colorize3": true
+            },
+            {
+              "text": " many functions"
+            },
+            {
+              "text": "أجهزة الكمبيوتر ",
+              "colorize": true
+            },
+            {
+              "text": "سوف",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "تؤدي",
+              "colorize3": true
+            },
+            {
+              "text": " العديد من الوظائف"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Questions (will):",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Will",
+              "badge": true,
+              "translation": "هل سوف"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "Subject",
+              "badge2": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "base verb",
+              "badge3": true,
+              "translation": "الفعل المجرد"
+            },
+            {
+              "text": " + ?"
+            }
+          ]
+        },
+        {
+          "id": "card-4b",
+          "type": "example",
+          "content": [
+            {
+              "text": "Will",
+              "colorize": true
+            },
+            {
+              "text": " humans ",
+              "colorize2": true
+            },
+            {
+              "text": "eat",
+              "colorize3": true
+            },
+            {
+              "text": " artificial food?"
+            },
+            {
+              "text": "هل ",
+              "colorize": true
+            },
+            {
+              "text": "سيأكل الناس ",
+              "colorize2": true
+            },
+            {
+              "text": "طعاماً",
+              "colorize3": true
+            },
+            {
+              "text": " صناعياً؟"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-2",
+      "title": "Future with Be Going To - Forms",
+      "cards": [
+        {
+          "id": "card-5",
+          "content": [
+            {
+              "text": "Using ",
+              "highlight": true
+            },
+            {
+              "text": "Be Going To",
+              "highlight": true
+            },
+            {
+              "text": "المستقبل بـ Be Going To"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Positive form (be going to):",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Subject",
+              "badge": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "am/is/are",
+              "badge2": true,
+              "translation": "مساعد"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "going to",
+              "badge3": true,
+              "translation": "سوف"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "base verb",
+              "badge3": true,
+              "translation": "الفعل المجرد"
+            }
+          ]
+        },
+        {
+          "id": "card-6b",
+          "type": "example",
+          "content": [
+            {
+              "text": "People ",
+              "colorize": true
+            },
+            {
+              "text": "are",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "going to get",
+              "colorize3": true
+            },
+            {
+              "text": " more free time"
+            },
+            {
+              "text": "الناس ",
+              "colorize": true
+            },
+            {
+              "text": "سوف",
+              "colorize3": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "يكون لديهم",
+              "colorize3": true
+            },
+            {
+              "text": " المزيد من وقت الفراغ"
+            }
+          ]
+        },
+        {
+          "id": "card-7",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Questions (be going to):",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Am/Is/Are",
+              "badge": true,
+              "translation": "هل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "Subject",
+              "badge2": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "going to",
+              "badge3": true,
+              "translation": "سوف"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "base verb",
+              "badge3": true,
+              "translation": "الفعل المجرد"
+            },
+            {
+              "text": " + ?"
+            }
+          ]
+        },
+        {
+          "id": "card-7b",
+          "type": "example",
+          "content": [
+            {
+              "text": "Are",
+              "colorize": true
+            },
+            {
+              "text": " we ",
+              "colorize2": true
+            },
+            {
+              "text": "going to travel",
+              "colorize3": true
+            },
+            {
+              "text": " to other planets?"
+            },
+            {
+              "text": "هل ",
+              "colorize": true
+            },
+            {
+              "text": "سوف",
+              "colorize3": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "نسافر",
+              "colorize3": true
+            },
+            {
+              "text": " إلى كواكب أخرى؟"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-3",
+      "title": "Will for Decisions Made at the Time of Speaking",
+      "cards": [
+        {
+          "id": "card-8",
+          "content": [
+            {
+              "text": "Quick Decisions",
+              "highlight": true
+            },
+            {
+              "text": " with Will"
+            },
+            {
+              "text": "Will للقرارات اللحظية"
+            }
+          ]
+        },
+        {
+          "id": "card-9",
+          "content": [
+            {
+              "text": "Use "
+            },
+            {
+              "text": "will",
+              "colorize": true
+            },
+            {
+              "text": " when you make a choice "
+            },
+            {
+              "text": "right at the moment you are talking",
+              "colorize2": true
+            },
+            {
+              "text": " (offers or promises)"
+            },
+            {
+              "text": "نستخدم "
+            },
+            {
+              "text": "will",
+              "colorize": true
+            },
+            {
+              "text": " عندما "
+            },
+            {
+              "text": "نقرر أن نفعل شيئاً في وقت التحدث",
+              "colorize2": true
+            },
+            {
+              "text": " (عروض أو وعود)"
+            }
+          ]
+        },
+        {
+          "id": "card-10",
+          "type": "example",
+          "content": [
+            {
+              "text": "Oh no, we're out of milk. I"
+            },
+            {
+              "text": "'ll buy",
+              "colorize": true
+            },
+            {
+              "text": " some from the shop"
+            },
+            {
+              "text": "ليس لدينا حليب. "
+            },
+            {
+              "text": "سأحضر",
+              "colorize": true
+            },
+            {
+              "text": " بعضاً من المتجر"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-4",
+      "title": "Will versus Be Going To",
+      "cards": [
+        {
+          "id": "card-11",
+          "content": [
+            {
+              "text": "Choosing Between",
+              "highlight": true
+            },
+            {
+              "text": " Will",
+              "highlight": true
+            },
+            {
+              "text": " and ",
+              "highlight": true
+            },
+            {
+              "text": "Be Going To",
+              "highlight": true
+            },
+            {
+              "text": "Will مقابل Be Going To"
+            }
+          ]
+        },
+        {
+          "id": "card-12",
+          "content": [
+            {
+              "text": "Use "
+            },
+            {
+              "text": "be going to",
+              "colorize": true
+            },
+            {
+              "text": " when you already have a "
+            },
+            {
+              "text": "plan or intention",
+              "colorize2": true
+            },
+            {
+              "text": "استخدم "
+            },
+            {
+              "text": "be going to",
+              "colorize": true
+            },
+            {
+              "text": " للتعبير عن "
+            },
+            {
+              "text": "خطة تم وضعها أو اتخاذها بالفعل",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-13",
+          "type": "example",
+          "content": [
+            {
+              "text": "Q: What are your vacation plans?"
+            },
+            {
+              "text": "س: ما هي خطط عطلتك؟"
+            }
+          ]
+        },
+        {
+          "id": "card-14",
+          "type": "example",
+          "content": [
+            {
+              "text": "A: I"
+            },
+            {
+              "text": "'m going to stay",
+              "colorize": true
+            },
+            {
+              "text": " in Abha for a month"
+            },
+            {
+              "text": "ج: "
+            },
+            {
+              "text": "سأقضي",
+              "colorize": true
+            },
+            {
+              "text": " شهراً في أبها"
+            }
+          ]
+        },
+        {
+          "id": "card-15",
+          "content": [
+            {
+              "text": "Use "
+            },
+            {
+              "text": "will",
+              "colorize": true
+            },
+            {
+              "text": " when you are "
+            },
+            {
+              "text": "not sure",
+              "colorize2": true
+            },
+            {
+              "text": ", often with "
+            },
+            {
+              "text": "maybe",
+              "colorize3": true
+            },
+            {
+              "text": " or "
+            },
+            {
+              "text": "probably",
+              "colorize3": true
+            },
+            {
+              "text": "استخدم "
+            },
+            {
+              "text": "will",
+              "colorize": true
+            },
+            {
+              "text": " للتعبير عن "
+            },
+            {
+              "text": "عدم اليقين",
+              "colorize2": true
+            },
+            {
+              "text": "، غالباً مع "
+            },
+            {
+              "text": "maybe",
+              "colorize3": true
+            },
+            {
+              "text": " أو "
+            },
+            {
+              "text": "probably",
+              "colorize3": true
+            }
+          ]
+        },
+        {
+          "id": "card-16",
+          "type": "example",
+          "content": [
+            {
+              "text": "Maybe",
+              "colorize3": true
+            },
+            {
+              "text": " I"
+            },
+            {
+              "text": "'ll visit",
+              "colorize": true
+            },
+            {
+              "text": " Abha"
+            },
+            {
+              "text": "ربما",
+              "colorize3": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "سأذهب",
+              "colorize": true
+            },
+            {
+              "text": " إلى أبها"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-5",
+      "title": "Future Progressive - Forms",
+      "cards": [
+        {
+          "id": "card-17",
+          "content": [
+            {
+              "text": "The Future Continuous",
+              "highlight": true
+            },
+            {
+              "text": "المستقبل المستمر"
+            }
+          ]
+        },
+        {
+          "id": "card-18",
+          "content": [
+            {
+              "text": "Use this form for actions that will be "
+            },
+            {
+              "text": "in progress at a specific time later",
+              "colorize2": true
+            },
+            {
+              "text": "استخدم المستقبل المستمر لـ"
+            },
+            {
+              "text": "الأفعال المستمرة في المستقبل",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-19",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Positive form (will):",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Subject",
+              "badge": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "will",
+              "badge2": true,
+              "translation": "سوف"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "be",
+              "badge3": true,
+              "translation": "يكون"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "Verb-ing",
+              "badge3": true,
+              "translation": "فعل + ing"
+            }
+          ]
+        },
+        {
+          "id": "card-19b",
+          "type": "example",
+          "content": [
+            {
+              "text": "This time tomorrow, I",
+              "colorize": true
+            },
+            {
+              "text": "'ll",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "be swimming",
+              "colorize3": true
+            },
+            {
+              "text": " in the sea"
+            },
+            {
+              "text": "في هذا الوقت غداً، "
+            },
+            {
+              "text": "سأكون",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "أسبح",
+              "colorize3": true
+            },
+            {
+              "text": " في المحيط"
+            }
+          ]
+        },
+        {
+          "id": "card-20",
+          "type": "example",
+          "content": [
+            {
+              "text": "In one week, I",
+              "colorize": true
+            },
+            {
+              "text": "'ll",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "be relaxing",
+              "colorize3": true
+            },
+            {
+              "text": " on the sand"
+            },
+            {
+              "text": "بعد أسبوع من اليوم، "
+            },
+            {
+              "text": "سأكون",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "أسترخي",
+              "colorize3": true
+            },
+            {
+              "text": " على الشاطئ"
+            }
+          ]
+        },
+        {
+          "id": "card-21",
+          "type": "example",
+          "content": [
+            {
+              "text": "In the future, robots ",
+              "colorize": true
+            },
+            {
+              "text": "will",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "be doing",
+              "colorize3": true
+            },
+            {
+              "text": " all the hard work"
+            },
+            {
+              "text": "في المستقبل، "
+            },
+            {
+              "text": "ستكون",
+              "colorize2": true
+            },
+            {
+              "text": " الروبوتات "
+            },
+            {
+              "text": "تقوم",
+              "colorize3": true
+            },
+            {
+              "text": " بكل العمل الشاق"
+            }
+          ]
+        },
+        {
+          "id": "card-22",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Positive form (be going to):",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Subject",
+              "badge": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "am/is/are",
+              "badge2": true,
+              "translation": "مساعد"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "going to be",
+              "badge3": true,
+              "translation": "سوف يكون"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "Verb-ing",
+              "badge3": true,
+              "translation": "فعل + ing"
+            }
+          ]
+        },
+        {
+          "id": "card-23",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Questions (will):",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Will",
+              "badge": true,
+              "translation": "هل سوف"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "Subject",
+              "badge2": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "be",
+              "badge3": true,
+              "translation": "يكون"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "Verb-ing",
+              "badge3": true,
+              "translation": "فعل + ing"
+            },
+            {
+              "text": " + ?"
+            }
+          ]
+        },
+        {
+          "id": "card-23b",
+          "type": "example",
+          "content": [
+            {
+              "text": "Will",
+              "colorize": true
+            },
+            {
+              "text": " you ",
+              "colorize2": true
+            },
+            {
+              "text": "be working",
+              "colorize3": true
+            },
+            {
+              "text": " on Saturday?"
+            },
+            {
+              "text": "هل ",
+              "colorize": true
+            },
+            {
+              "text": "سوف",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "تكون تعمل",
+              "colorize3": true
+            },
+            {
+              "text": " في عطلة نهاية الأسبوع؟"
+            }
+          ]
+        },
+        {
+          "id": "card-24",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Questions (be going to):",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Am/Is/Are",
+              "badge": true,
+              "translation": "هل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "Subject",
+              "badge2": true,
+              "translation": "الفاعل"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "going to be",
+              "badge3": true,
+              "translation": "سوف يكون"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "Verb-ing",
+              "badge3": true,
+              "translation": "فعل + ing"
+            },
+            {
+              "text": " + ?"
+            }
+          ]
+        },
+        {
+          "id": "card-24b",
+          "type": "example",
+          "content": [
+            {
+              "text": "Are",
+              "colorize": true
+            },
+            {
+              "text": " they ",
+              "colorize2": true
+            },
+            {
+              "text": "going to be taking",
+              "colorize3": true
+            },
+            {
+              "text": " the exam, too?"
+            },
+            {
+              "text": "هل ",
+              "colorize": true
+            },
+            {
+              "text": "سوف",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "يكونون يأخذون",
+              "colorize3": true
+            },
+            {
+              "text": " الاختبار أيضاً؟"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

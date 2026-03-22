@@ -1,0 +1,314 @@
+{
+    "unit": "Mega Goal 1 - Unit 10: I Wonder What Happened",
+    "type": "misc",
+    "setTitle": "Speculation & Deduction Vocabulary",
+    "words": [
+        {
+            "word": "starving",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Feeling extremely "
+                },
+                {
+                    "text": "hungry",
+                    "highlight": true
+                },
+                {
+                    "text": "; much more intense than just "
+                },
+                {
+                    "text": "'hungry'",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "جائـع جدًا",
+            "synonyms": [
+                "famished",
+                "ravenous",
+                "very hungry"
+            ],
+            "example": [
+                {
+                    "text": "After running the marathon, I was absolutely "
+                },
+                {
+                    "text": "starving",
+                    "colorize": true
+                },
+                {
+                    "text": " and ate three plates of pasta"
+                }
+            ],
+            "tips": "Informal exaggeration—people rarely mean literal starvation. Often used casually: 'I'm starving!' when skipping one meal. Not the same as 'starve' (verb meaning to die from no food)."
+        },
+        {
+            "word": "serious",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Not joking or playful; showing "
+                },
+                {
+                    "text": "genuine intention",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "concern about something important",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "جاد",
+            "synonyms": [
+                "sincere",
+                "earnest",
+                "not joking"
+            ],
+            "example": [
+                {
+                    "text": "When she said she was quitting her job to travel the world, I realized she was completely "
+                },
+                {
+                    "text": "serious",
+                    "colorize": true
+                },
+                {
+                    "text": ""
+                }
+            ],
+            "tips": "Opposite: joking, playful, kidding. Can describe people ('a serious person'), situations ('a serious problem'), or illnesses ('a serious injury')."
+        },
+        {
+            "word": "alarm clock",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A clock that makes a loud noise at a "
+                },
+                {
+                    "text": "set time",
+                    "highlight": true
+                },
+                {
+                    "text": " to wake someone "
+                },
+                {
+                    "text": "up in the morning",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "منبّه / ساعة منبّهة",
+            "synonyms": [
+                "wake-up clock",
+                "beeper"
+            ],
+            "example": [
+                {
+                    "text": "My "
+                },
+                {
+                    "text": "alarm clock",
+                    "colorize": true
+                },
+                {
+                    "text": " didn't ring this morning because the batteries died overnight"
+                }
+            ],
+            "tips": "Many people now use phone alarms instead of separate alarm clocks. 'Set the alarm' = choose the wake-up time. 'Snooze button' = delays alarm for a few more minutes."
+        },
+        {
+            "word": "extinct",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "No longer existing; when every member of a species has "
+                },
+                {
+                    "text": "died out completely",
+                    "highlight": true
+                },
+                {
+                    "text": " and cannot be "
+                },
+                {
+                    "text": "found anywhere on Earth",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "منقرض",
+            "synonyms": [
+                "died out",
+                "no longer existing"
+            ],
+            "example": [
+                {
+                    "text": "The dodo bird has been "
+                },
+                {
+                    "text": "extinct",
+                    "colorize": true
+                },
+                {
+                    "text": " since the 17th century after sailors hunted them to extinction"
+                }
+            ],
+            "tips": "Applies to animals/plants that no longer exist anywhere. Different from 'endangered' (still exists but in danger of extinction). Verb form: go extinct / become extinct."
+        },
+        {
+            "word": "break into",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To enter a building "
+                },
+                {
+                    "text": "illegally and by force",
+                    "highlight": true
+                },
+                {
+                    "text": " — usually by damaging a door, window, or "
+                },
+                {
+                    "text": "lock",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يقتحم / يدخل بالقوة",
+            "synonyms": [
+                "burgle",
+                "force entry into"
+            ],
+            "example": [
+                {
+                    "text": "Thieves tried to "
+                },
+                {
+                    "text": "break into",
+                    "colorize": true
+                },
+                {
+                    "text": " our house last night, but our loud dog scared them away"
+                }
+            ],
+            "tips": "Crime-related phrasal verb. Different from 'break in' (to wear something new until comfortable) or 'break down' (to stop working). Noun form: break-in (a burglary)."
+        },
+        {
+            "word": "arrive",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To reach a "
+                },
+                {
+                    "text": "destination or place",
+                    "highlight": true
+                },
+                {
+                    "text": " after traveling; to "
+                },
+                {
+                    "text": "get somewhere",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يصل",
+            "synonyms": [
+                "reach",
+                "get to",
+                "come to"
+            ],
+            "example": [
+                {
+                    "text": "We finally "
+                },
+                {
+                    "text": "arrived",
+                    "colorize": true
+                },
+                {
+                    "text": " at the mountain summit just as the sun was rising"
+                }
+            ],
+            "tips": "Never followed by 'to' with places: 'arrive home' ✅ NOT 'arrive to home' ❌. Exception: 'arrive at/in' + specific location ('arrive at the station', 'arrive in Paris')."
+        },
+        {
+            "word": "already",
+            "wordType": "adverb",
+            "definition": [
+                {
+                    "text": "Before the expected time; something that has "
+                },
+                {
+                    "text": "happened sooner",
+                    "highlight": true
+                },
+                {
+                    "text": " than "
+                },
+                {
+                    "text": "anticipated",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "بالفعل / سبق",
+            "synonyms": [
+                "by now",
+                "before this time"
+            ],
+            "example": [
+                {
+                    "text": "Don't worry about dinner—I've "
+                },
+                {
+                    "text": "already",
+                    "colorize": true
+                },
+                {
+                    "text": " ordered pizza and it should be here in ten minutes"
+                }
+            ],
+            "tips": "Often used with present perfect ('has already left') or past perfect ('had already finished'). Position: before main verb ('She has already gone') or at end of sentence ('She's gone already')."
+        },
+        {
+            "word": "honor",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Great respect, dignity, or high moral character; also a "
+                },
+                {
+                    "text": "title of respect",
+                    "highlight": true
+                },
+                {
+                    "text": " used when addressing "
+                },
+                {
+                    "text": "judges or officials",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "شرف / سعادة القاضي (تحية)",
+            "synonyms": [
+                "respect",
+                "dignity"
+            ],
+            "example": [
+                {
+                    "text": "In court, lawyers address the judge by saying, 'Yes, Your "
+                },
+                {
+                    "text": "Honor",
+                    "colorize": true
+                },
+                {
+                    "text": ",' as a sign of respect"
+                }
+            ],
+            "tips": "American English spelling: 'honor'. British English: 'honour'. 'Your Honor' is the formal way to speak to a judge (not 'Your Honour' in US courts)."
+        }
+    ]
+}

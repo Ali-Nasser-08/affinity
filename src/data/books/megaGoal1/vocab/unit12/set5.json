@@ -1,0 +1,627 @@
+{
+    "unit": "Mega Goal 1 - Unit 12: Reporting What People Say",
+    "type": "reading",
+    "setTitle": "Family Emergency",
+    "words": [
+        {
+            "word": "deteriorating",
+            "wordType": "adjective/verb (present participle)",
+            "definition": [
+                {
+                    "text": "Becoming gradually "
+                },
+                {
+                    "text": "worse or weaker",
+                    "highlight": true
+                },
+                {
+                    "text": " in quality, health, or "
+                },
+                {
+                    "text": "condition over time",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مُتَردٍّ / مُتدهور",
+            "synonyms": [
+                "worsening",
+                "declining",
+                "degenerating"
+            ],
+            "example": [
+                {
+                    "text": "The patient's condition was "
+                },
+                {
+                    "text": "deteriorating",
+                    "colorize": true
+                },
+                {
+                    "text": " rapidly, so doctors decided to move her to the intensive care unit immediately"
+                }
+            ],
+            "tips": "Often used for health, relationships, situations, or physical objects. Opposite: improving, recovering. Formal tone—more serious than 'getting worse'."
+        },
+        {
+            "word": "interrupt",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To stop someone or something temporarily by "
+                },
+                {
+                    "text": "breaking in",
+                    "highlight": true
+                },
+                {
+                    "text": " with speech, action, or an "
+                },
+                {
+                    "text": "unexpected event",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يقاطع",
+            "synonyms": [
+                "disturb",
+                "break in on",
+                "disrupt"
+            ],
+            "example": [
+                {
+                    "text": "It's considered rude to "
+                },
+                {
+                    "text": "interrupt",
+                    "colorize": true
+                },
+                {
+                    "text": " someone while they're speaking in many cultures"
+                }
+            ],
+            "tips": "Often negative (rude interruption) but can be necessary ('I had to interrupt the meeting with urgent news'). Noun form: interruption."
+        },
+        {
+            "word": "annoyed",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Feeling slightly angry or irritated because of something "
+                },
+                {
+                    "text": "unpleasant or bothersome",
+                    "highlight": true
+                },
+                {
+                    "text": "; milder than 'angry' but stronger than "
+                },
+                {
+                    "text": "'bothered'",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مُنزعج",
+            "synonyms": [
+                "irritated",
+                "irritated",
+                "peeved"
+            ],
+            "example": [
+                {
+                    "text": "He became visibly "
+                },
+                {
+                    "text": "annoyed",
+                    "colorize": true
+                },
+                {
+                    "text": " when his colleague kept checking his phone during their important conversation"
+                }
+            ],
+            "tips": "Common emotional state word. Often shown through tone of voice or facial expression. Not as intense as 'furious' or 'enraged'."
+        },
+        {
+            "word": "tone",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The quality or character of someone's voice that expresses their "
+                },
+                {
+                    "text": "attitude or emotion",
+                    "highlight": true
+                },
+                {
+                    "text": ", even when the words themselves are "
+                },
+                {
+                    "text": "neutral",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "نبرة الصوت",
+            "synonyms": [
+                "voice quality",
+                "manner of speaking"
+            ],
+            "example": [
+                {
+                    "text": "Although she said 'I'm fine,' her cold "
+                },
+                {
+                    "text": "tone",
+                    "colorize": true
+                },
+                {
+                    "text": " made it clear she was actually upset about something"
+                }
+            ],
+            "tips": "Crucial in communication—tone often matters more than words. Can be: friendly, harsh, sarcastic, warm, impatient, etc."
+        },
+        {
+            "word": "urgent",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Requiring immediate attention or action because of "
+                },
+                {
+                    "text": "importance or time sensitivity",
+                    "highlight": true
+                },
+                {
+                    "text": "; too critical to "
+                },
+                {
+                    "text": "be delayed",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "عاجل",
+            "synonyms": [
+                "pressing",
+                "critical",
+                "time-sensitive"
+            ],
+            "example": [
+                {
+                    "text": "The hospital has a special entrance for "
+                },
+                {
+                    "text": "urgent",
+                    "colorize": true
+                },
+                {
+                    "text": " cases that cannot wait for regular appointments"
+                }
+            ],
+            "tips": "Medical context: 'urgent care' = treatment needed within 24 hours (not life-threatening like 'emergency'). Opposite: non-urgent, routine."
+        },
+        {
+            "word": "stressed",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Feeling mental or emotional strain caused by difficult circumstances, pressure, or "
+                },
+                {
+                    "text": "overwhelming demands",
+                    "highlight": true
+                },
+                {
+                    "text": "; experiencing "
+                },
+                {
+                    "text": "anxiety or tension",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مُجهَد / متوتّر",
+            "synonyms": [
+                "anxious",
+                "overwhelmed",
+                "under pressure"
+            ],
+            "example": [
+                {
+                    "text": "During final exams week, many students feel extremely "
+                },
+                {
+                    "text": "stressed",
+                    "colorize": true
+                },
+                {
+                    "text": " and struggle to sleep well"
+                }
+            ],
+            "tips": "Different from 'stressed out' (more intense/casual). Can be short-term (deadline) or chronic (ongoing life situation). Healthy coping: exercise, talking, time management."
+        },
+        {
+            "word": "reassure",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To comfort someone and reduce their fears or worries by "
+                },
+                {
+                    "text": "providing confidence",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "calming words",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُطمئن",
+            "synonyms": [
+                "comfort",
+                "calm",
+                "allay fears"
+            ],
+            "example": [
+                {
+                    "text": "The flight attendant tried to "
+                },
+                {
+                    "text": "reassure",
+                    "colorize": true
+                },
+                {
+                    "text": " nervous passengers by explaining that turbulence is normal and not dangerous"
+                }
+            ],
+            "tips": "Pattern: reassure + person + that-clause ('reassure her that everything is fine') OR reassure someone about something ('reassure him about the test results')."
+        },
+        {
+            "word": "under control",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Being managed successfully; a situation that is "
+                },
+                {
+                    "text": "stable and not chaotic",
+                    "highlight": true
+                },
+                {
+                    "text": " despite difficulties or "
+                },
+                {
+                    "text": "potential problems",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "تحت السيطرة",
+            "synonyms": [
+                "managed",
+                "handled",
+                "in order"
+            ],
+            "example": [
+                {
+                    "text": "Don't worry about the presentation tomorrow—I have everything "
+                },
+                {
+                    "text": "under control",
+                    "colorize": true
+                },
+                {
+                    "text": " and ready to go"
+                }
+            ],
+            "tips": "Common idiom for managing difficult situations. Opposite: 'out of control' (chaotic, unmanageable). Often used to calm others' worries."
+        },
+        {
+            "word": "family emergency",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "An unexpected, serious situation involving a family member that requires "
+                },
+                {
+                    "text": "immediate attention",
+                    "highlight": true
+                },
+                {
+                    "text": " and often "
+                },
+                {
+                    "text": "disrupts normal plans",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "طوارئ عائلية",
+            "synonyms": [
+                "family crisis",
+                "urgent family matter"
+            ],
+            "example": [
+                {
+                    "text": "She had to leave work early due to a "
+                },
+                {
+                    "text": "family emergency",
+                    "colorize": true
+                },
+                {
+                    "text": " — her child had fallen and needed to go to the hospital"
+                }
+            ],
+            "tips": "Universally understood reason for sudden absence from work/school. Usually not questioned or requires detailed explanation out of respect for privacy."
+        },
+        {
+            "word": "reschedule",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To arrange for an event, appointment, or meeting to happen at a "
+                },
+                {
+                    "text": "different time or date",
+                    "highlight": true
+                },
+                {
+                    "text": " than originally "
+                },
+                {
+                    "text": "planned",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُعيد تحديد الموعد",
+            "synonyms": [
+                "rearrange",
+                "postpone to a new time",
+                "rebook"
+            ],
+            "example": [
+                {
+                    "text": "Because the speaker fell ill, the conference organizers had to "
+                },
+                {
+                    "text": "reschedule",
+                    "colorize": true
+                },
+                {
+                    "text": " the keynote presentation for the following week"
+                }
+            ],
+            "tips": "Prefix 're-' means 'again'. Not the same as 'cancel' (end completely) vs. 'reschedule' (move to another time). Often requires coordination with multiple people."
+        },
+        {
+            "word": "take care of",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To deal with or handle a task, responsibility, or problem; to "
+                },
+                {
+                    "text": "provide for someone's needs",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "well-being",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يَعتني بـ / يُدبّر أمر",
+            "synonyms": [
+                "handle",
+                "manage",
+                "attend to"
+            ],
+            "example": [
+                {
+                    "text": "Don't worry about dinner tonight—I'll "
+                },
+                {
+                    "text": "take care of",
+                    "colorize": true
+                },
+                {
+                    "text": " everything while you rest after your long trip"
+                }
+            ],
+            "tips": "Very common versatile phrasal verb. Can mean: 1) handle a task ('take care of paperwork'), 2) look after a person ('take care of my grandmother'), or 3) resolve a problem ('take care of that leak')."
+        },
+        {
+            "word": "hang up",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To end a telephone conversation by disconnecting the call; to "
+                },
+                {
+                    "text": "terminate a phone call",
+                    "highlight": true
+                },
+                {
+                    "text": " by placing the receiver down or pressing the "
+                },
+                {
+                    "text": "end button",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُنهي المكالمة الهاتفية",
+            "synonyms": [
+                "disconnect",
+                "end the call"
+            ],
+            "example": [
+                {
+                    "text": "After confirming the delivery address, the customer service representative politely said goodbye and "
+                },
+                {
+                    "text": "hung up",
+                    "colorize": true
+                },
+                {
+                    "text": ""
+                }
+            ],
+            "tips": "Past tense: hung up (irregular). Can be neutral (normal call ending) or rude (abruptly cutting someone off). Not the same as 'hang on' (wait) or 'hang out' (spend casual time)."
+        },
+        {
+            "word": "condition",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The state of someone's health, especially when referring to illness or medical status; a "
+                },
+                {
+                    "text": "physical situation",
+                    "highlight": true
+                },
+                {
+                    "text": " that may be temporary or "
+                },
+                {
+                    "text": "chronic",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حالة (صحية)",
+            "synonyms": [
+                "state of health",
+                "medical status",
+                "illness"
+            ],
+            "example": [
+                {
+                    "text": "The doctor explained that her heart "
+                },
+                {
+                    "text": "condition",
+                    "colorize": true
+                },
+                {
+                    "text": " required medication and lifestyle changes, but she could still live a full life"
+                }
+            ],
+            "tips": "Medical context: 'condition' is neutral term for health state (not necessarily serious). Can be stable, critical, improving, deteriorating. Not the same as 'disease' (specific illness) vs. 'condition' (current state)."
+        },
+        {
+            "word": "nurse",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A healthcare professional trained to care for sick or injured people, typically under a doctor's supervision; provides "
+                },
+                {
+                    "text": "direct patient care",
+                    "highlight": true
+                },
+                {
+                    "text": ", administers medication, and "
+                },
+                {
+                    "text": "monitors health status",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مُمرضة",
+            "synonyms": [
+                "registered nurse (RN)",
+                "healthcare provider"
+            ],
+            "example": [
+                {
+                    "text": "The experienced "
+                },
+                {
+                    "text": "nurse",
+                    "colorize": true
+                },
+                {
+                    "text": " noticed subtle changes in the patient's breathing before anyone else and alerted the doctor immediately"
+                }
+            ],
+            "tips": "Critical healthcare role. Different levels: RN (Registered Nurse), LPN (Licensed Practical Nurse), NP (Nurse Practitioner—advanced practice). Not the same as 'nanny' (childcare provider)."
+        },
+        {
+            "word": "instantly",
+            "wordType": "adverb",
+            "definition": [
+                {
+                    "text": "Immediately; without any delay whatsoever; happening in a "
+                },
+                {
+                    "text": "single moment",
+                    "highlight": true
+                },
+                {
+                    "text": " with no time passing in "
+                },
+                {
+                    "text": "between",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "فورًا / على الفور",
+            "synonyms": [
+                "immediately",
+                "right away",
+                "in an instant"
+            ],
+            "example": [
+                {
+                    "text": "When she heard her baby cry, she woke up "
+                },
+                {
+                    "text": "instantly",
+                    "colorize": true
+                },
+                {
+                    "text": " even though she had been in a deep sleep moments before"
+                }
+            ],
+            "tips": "Emphasizes zero delay. Stronger than 'quickly' (which allows some time). Often used with emotional reactions ('His mood changed instantly when he saw the gift')."
+        },
+        {
+            "word": "apologize",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To express regret or say you are sorry for an action that caused inconvenience, offense, or "
+                },
+                {
+                    "text": "harm to someone else",
+                    "highlight": true
+                },
+                {
+                    "text": "; to acknowledge a "
+                },
+                {
+                    "text": "mistake or social breach",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يَعتذر",
+            "synonyms": [
+                "say sorry",
+                "express regret",
+                "make amends"
+            ],
+            "example": [
+                {
+                    "text": "He immediately "
+                },
+                {
+                    "text": "apologized",
+                    "colorize": true
+                },
+                {
+                    "text": " for arriving late to the important meeting and explained that his train had been delayed"
+                }
+            ],
+            "tips": "American spelling: apologize. British spelling: apologise. Pattern: apologize TO someone FOR something ('apologize to her for interrupting'). NOT 'apologize about' (less common/less correct)."
+        }
+    ]
+}

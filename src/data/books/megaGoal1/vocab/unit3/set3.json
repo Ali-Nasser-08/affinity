@@ -1,0 +1,542 @@
+{
+    "unit": "Mega Goal 1 - Unit 3: A Vision of the Future",
+    "type": "misc",
+    "setTitle": "Smart Home",
+    "words": [
+        {
+            "word": "certainly",
+            "wordType": "adverb",
+            "definition": [
+                {
+                    "text": "Used to say "
+                },
+                {
+                    "text": "yes",
+                    "highlight": true
+                },
+                {
+                    "text": " in a "
+                },
+                {
+                    "text": "polite and formal way",
+                    "highlight2": true
+                },
+                {
+                    "text": "; expressing agreement or willingness"
+                }
+            ],
+            "arabicMeaning": "بالتأكيد / بكل سرور",
+            "synonyms": [
+                "of course",
+                "definitely",
+                "absolutely"
+            ],
+            "example": [
+                {
+                    "text": "Can you help me with this? "
+                },
+                {
+                    "text": "Certainly",
+                    "colorize": true
+                },
+                {
+                    "text": ", I'd be happy to assist you"
+                }
+            ],
+            "tips": "More formal than 'sure' or 'yeah'. Perfect for business or polite conversations. Shows willingness to help."
+        },
+        {
+            "word": "no kidding?",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Used to express "
+                },
+                {
+                    "text": "surprise",
+                    "highlight": true
+                },
+                {
+                    "text": ", often "
+                },
+                {
+                    "text": "pleasant surprise",
+                    "highlight2": true
+                },
+                {
+                    "text": "; meaning 'really?' or 'are you serious?'"
+                }
+            ],
+            "arabicMeaning": "حقاً؟ / بجد؟",
+            "synonyms": [
+                "really?",
+                "seriously?",
+                "you're joking!"
+            ],
+            "example": [
+                {
+                    "text": "I got accepted to Harvard! "
+                },
+                {
+                    "text": "No kidding?",
+                    "colorize": true
+                },
+                {
+                    "text": " That's amazing, congratulations!"
+                }
+            ],
+            "tips": "Informal expression. Can show excitement or disbelief. 'Kidding' = joking, so 'no kidding' = not joking/being serious."
+        },
+        {
+            "word": "intelligent",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Having or showing "
+                },
+                {
+                    "text": "intelligence or smart features",
+                    "highlight": true
+                },
+                {
+                    "text": "; able to "
+                },
+                {
+                    "text": "learn and adapt",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ذكي",
+            "synonyms": [
+                "smart",
+                "clever",
+                "bright"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "intelligent",
+                    "colorize": true
+                },
+                {
+                    "text": " home system learns your daily routines and adjusts automatically"
+                }
+            ],
+            "tips": "For technology: intelligent systems = smart, automated. For people: intelligent = able to learn and understand quickly."
+        },
+        {
+            "word": "concept",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "An "
+                },
+                {
+                    "text": "abstract idea",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "general notion",
+                    "highlight2": true
+                },
+                {
+                    "text": "; a plan or intention"
+                }
+            ],
+            "arabicMeaning": "مفهوم / فكرة",
+            "synonyms": [
+                "idea",
+                "notion",
+                "theory"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "concept",
+                    "colorize": true
+                },
+                {
+                    "text": " of flying cars has existed in science fiction for decades"
+                }
+            ],
+            "tips": "A concept is the idea behind something, not the physical thing itself. 'Concept car' = prototype showing new ideas."
+        },
+        {
+            "word": "monitor",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "observe and check",
+                    "highlight": true
+                },
+                {
+                    "text": " something over time to "
+                },
+                {
+                    "text": "track its progress or condition",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يراقب / يتابع",
+            "synonyms": [
+                "observe",
+                "watch",
+                "track",
+                "supervise"
+            ],
+            "example": [
+                {
+                    "text": "Smart homes "
+                },
+                {
+                    "text": "monitor",
+                    "colorize": true
+                },
+                {
+                    "text": " energy usage to help reduce electricity costs"
+                }
+            ],
+            "tips": "Continuous observation, not just one look. Medical monitors track heart rate, security systems monitor buildings."
+        },
+        {
+            "word": "optimize",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To make something "
+                },
+                {
+                    "text": "as effective or functional as possible",
+                    "highlight": true
+                },
+                {
+                    "text": "; to "
+                },
+                {
+                    "text": "improve to the best level",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يحسّن / يجعله مثالياً",
+            "synonyms": [
+                "improve",
+                "enhance",
+                "maximize",
+                "perfect"
+            ],
+            "example": [
+                {
+                    "text": "The system will "
+                },
+                {
+                    "text": "optimize",
+                    "colorize": true
+                },
+                {
+                    "text": " heating and cooling to save energy while maintaining comfort"
+                }
+            ],
+            "tips": "Optimization = making the best use of resources. Common in technology, business, and engineering."
+        },
+        {
+            "word": "integrated",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Combined into "
+                },
+                {
+                    "text": "one unified system",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "working together",
+                    "highlight2": true
+                },
+                {
+                    "text": " as a coordinated whole"
+                }
+            ],
+            "arabicMeaning": "متكامل / مدمج",
+            "synonyms": [
+                "unified",
+                "combined",
+                "coordinated"
+            ],
+            "example": [
+                {
+                    "text": "An "
+                },
+                {
+                    "text": "integrated",
+                    "colorize": true
+                },
+                {
+                    "text": " home system connects lighting, security, and climate control"
+                }
+            ],
+            "tips": "Integration = bringing parts together. Integrated systems work as one unit, not separate pieces."
+        },
+        {
+            "word": "function",
+            "wordType": "verb/noun",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "work or operate",
+                    "highlight": true
+                },
+                {
+                    "text": "; the "
+                },
+                {
+                    "text": "purpose or role",
+                    "highlight2": true
+                },
+                {
+                    "text": " something has"
+                }
+            ],
+            "arabicMeaning": "يعمل / وظيفة",
+            "synonyms": [
+                "work",
+                "operate",
+                "perform"
+            ],
+            "example": [
+                {
+                    "text": "How does this device "
+                },
+                {
+                    "text": "function",
+                    "colorize": true
+                },
+                {
+                    "text": " without any visible buttons?"
+                }
+            ],
+            "tips": "As verb: to work/operate. As noun: purpose/role. 'Functional' = working properly, 'malfunction' = not working."
+        },
+        {
+            "word": "fingerprint",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The unique "
+                },
+                {
+                    "text": "pattern of lines",
+                    "highlight": true
+                },
+                {
+                    "text": " on a person's "
+                },
+                {
+                    "text": "fingertip",
+                    "highlight2": true
+                },
+                {
+                    "text": ", used for identification"
+                }
+            ],
+            "arabicMeaning": "بصمة الإصبع",
+            "synonyms": [
+                "print",
+                "biometric identifier"
+            ],
+            "example": [
+                {
+                    "text": "Modern phones can be unlocked using your "
+                },
+                {
+                    "text": "fingerprint",
+                    "colorize": true
+                },
+                {
+                    "text": " for security"
+                }
+            ],
+            "tips": "Every person's fingerprints are unique. Used for security, identification, and criminal investigations."
+        },
+        {
+            "word": "activate",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "make something start working",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "turn on",
+                    "highlight2": true
+                },
+                {
+                    "text": "; to set in motion"
+                }
+            ],
+            "arabicMeaning": "يفعّل / يشغّل",
+            "synonyms": [
+                "turn on",
+                "enable",
+                "start",
+                "trigger"
+            ],
+            "example": [
+                {
+                    "text": "The alarm will "
+                },
+                {
+                    "text": "activate",
+                    "colorize": true
+                },
+                {
+                    "text": " automatically when you leave the house"
+                }
+            ],
+            "tips": "Opposite: 'deactivate' = turn off. Common in technology: activate a feature, activate an account."
+        },
+        {
+            "word": "surround sound",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "An audio system with "
+                },
+                {
+                    "text": "multiple speakers",
+                    "highlight": true
+                },
+                {
+                    "text": " positioned around a room to create "
+                },
+                {
+                    "text": "immersive sound",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "صوت محيطي",
+            "synonyms": [
+                "multi-speaker audio",
+                "3D sound"
+            ],
+            "example": [
+                {
+                    "text": "The home theater has "
+                },
+                {
+                    "text": "surround sound",
+                    "colorize": true
+                },
+                {
+                    "text": " that makes you feel like you're inside the movie"
+                }
+            ],
+            "tips": "Surrounds you with sound from all directions. Common formats: 5.1, 7.1 (numbers = speaker count)."
+        },
+        {
+            "word": "facility",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "feature or service",
+                    "highlight": true
+                },
+                {
+                    "text": " provided for a "
+                },
+                {
+                    "text": "particular purpose",
+                    "highlight2": true
+                },
+                {
+                    "text": "; also a building or place"
+                }
+            ],
+            "arabicMeaning": "مرفق / خدمة",
+            "synonyms": [
+                "feature",
+                "amenity",
+                "service"
+            ],
+            "example": [
+                {
+                    "text": "The kitchen includes modern "
+                },
+                {
+                    "text": "facilities",
+                    "colorize": true
+                },
+                {
+                    "text": " like a built-in coffee maker and wine cooler"
+                }
+            ],
+            "tips": "Plural 'facilities' often means features/services. Can also mean buildings: 'sports facilities', 'medical facilities'."
+        },
+        {
+            "word": "equipped with",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Provided with or "
+                },
+                {
+                    "text": "having necessary items",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "features",
+                    "highlight2": true
+                },
+                {
+                    "text": " for a particular purpose"
+                }
+            ],
+            "arabicMeaning": "مجهز بـ / مزود بـ",
+            "synonyms": [
+                "fitted with",
+                "supplied with",
+                "furnished with"
+            ],
+            "example": [
+                {
+                    "text": "The car comes "
+                },
+                {
+                    "text": "equipped with",
+                    "colorize": true
+                },
+                {
+                    "text": " GPS navigation and a backup camera"
+                }
+            ],
+            "tips": "Shows what tools, features, or devices something has. Equipment = the items/tools provided."
+        }
+    ]
+}

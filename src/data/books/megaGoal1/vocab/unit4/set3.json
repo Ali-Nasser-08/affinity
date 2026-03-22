@@ -1,0 +1,389 @@
+{
+    "unit": "Mega Goal 1 - Unit 4: The Art of Advertising",
+    "type": "misc",
+    "setTitle": "Speaking & Real Talk",
+    "words": [
+        {
+            "word": "what are you up to?",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Used to ask "
+                },
+                {
+                    "text": "what someone is doing now",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "what their current plans are",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ماذا تفعل؟ / ما خططك؟",
+            "synonyms": [
+                "what are you doing?",
+                "what's going on?"
+            ],
+            "example": [
+                {
+                    "text": "Hey! "
+                },
+                {
+                    "text": "What are you up to",
+                    "colorize": true
+                },
+                {
+                    "text": " this weekend?"
+                }
+            ],
+            "tips": "Very casual, friendly greeting. Can mean: (1) what are you doing right now? or (2) what are you planning?"
+        },
+        {
+            "word": "what on earth...?",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Expression used to show "
+                },
+                {
+                    "text": "surprise or confusion",
+                    "highlight": true
+                },
+                {
+                    "text": " when "
+                },
+                {
+                    "text": "asking a question",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ماذا بحق السماء؟ / يا للعجب",
+            "synonyms": [
+                "what in the world...?",
+                "what the heck...?"
+            ],
+            "example": [
+                {
+                    "text": "What on earth",
+                    "colorize": true
+                },
+                {
+                    "text": " is that strange noise coming from your room?"
+                }
+            ],
+            "tips": "Shows strong surprise or disbelief. Similar: 'What in the world...?', 'What on earth happened here?'"
+        },
+        {
+            "word": "turn off",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "stop a device from working",
+                    "highlight": true
+                },
+                {
+                    "text": " by "
+                },
+                {
+                    "text": "switching or pressing a button",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يطفئ / يوقف",
+            "synonyms": [
+                "switch off",
+                "shut off",
+                "deactivate"
+            ],
+            "example": [
+                {
+                    "text": "Please "
+                },
+                {
+                    "text": "turn off",
+                    "colorize": true
+                },
+                {
+                    "text": " your phone before the movie starts"
+                }
+            ],
+            "tips": "Opposite: 'turn on' = activate. Turn off the lights, turn off the TV, turn off the alarm."
+        },
+        {
+            "word": "alarm",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "device that makes a sound",
+                    "highlight": true
+                },
+                {
+                    "text": " to "
+                },
+                {
+                    "text": "wake you up or warn you",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "منبه / إنذار",
+            "synonyms": [
+                "alert",
+                "warning signal"
+            ],
+            "example": [
+                {
+                    "text": "I set my "
+                },
+                {
+                    "text": "alarm",
+                    "colorize": true
+                },
+                {
+                    "text": " for 6:00 AM to wake up early for work"
+                }
+            ],
+            "tips": "Alarm clock = wakes you up. Fire alarm = warns of danger. Car alarm = security. 'The alarm went off' = it rang/sounded."
+        },
+        {
+            "word": "rechargeable",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Able to be "
+                },
+                {
+                    "text": "powered up again",
+                    "highlight": true
+                },
+                {
+                    "text": " after the "
+                },
+                {
+                    "text": "battery runs out",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "قابل لإعادة الشحن",
+            "synonyms": [
+                "reusable battery"
+            ],
+            "example": [
+                {
+                    "text": "Rechargeable",
+                    "colorize": true
+                },
+                {
+                    "text": " batteries are better for the environment than disposable ones"
+                }
+            ],
+            "tips": "The verb is 'recharge' = to restore power. Rechargeable phone, rechargeable laptop. Saves money and reduces waste!"
+        },
+        {
+            "word": "base",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "bottom part or foundation",
+                    "highlight": true
+                },
+                {
+                    "text": " that "
+                },
+                {
+                    "text": "supports something",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "قاعدة / أساس",
+            "synonyms": [
+                "foundation",
+                "bottom",
+                "stand"
+            ],
+            "example": [
+                {
+                    "text": "The lamp sits on a heavy marble "
+                },
+                {
+                    "text": "base",
+                    "colorize": true
+                },
+                {
+                    "text": " to keep it stable"
+                }
+            ],
+            "tips": "Base of a lamp, base of a mountain, base of operations. The bottom support or starting point."
+        },
+        {
+            "word": "go off",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "For an alarm to "
+                },
+                {
+                    "text": "start ringing or sounding",
+                    "highlight": true
+                },
+                {
+                    "text": "; to "
+                },
+                {
+                    "text": "activate suddenly",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يرن / ينطلق",
+            "synonyms": [
+                "ring",
+                "sound",
+                "activate"
+            ],
+            "example": [
+                {
+                    "text": "The fire alarm "
+                },
+                {
+                    "text": "went off",
+                    "colorize": true
+                },
+                {
+                    "text": " in the middle of the night and everyone evacuated"
+                }
+            ],
+            "tips": "Confusing because 'go off' sounds like 'turn off' but means the opposite! The alarm went off = it rang/started."
+        },
+        {
+            "word": "in order to",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Used to explain the "
+                },
+                {
+                    "text": "purpose or reason",
+                    "highlight": true
+                },
+                {
+                    "text": " for doing something; "
+                },
+                {
+                    "text": "so that",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "من أجل / لكي",
+            "synonyms": [
+                "so as to",
+                "for the purpose of",
+                "to"
+            ],
+            "example": [
+                {
+                    "text": "I wake up early "
+                },
+                {
+                    "text": "in order to",
+                    "colorize": true
+                },
+                {
+                    "text": " exercise before work"
+                }
+            ],
+            "tips": "More formal than just 'to'. 'I study hard in order to pass' = 'I study hard to pass'."
+        },
+        {
+            "word": "assistant",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A person who "
+                },
+                {
+                    "text": "helps or supports",
+                    "highlight": true
+                },
+                {
+                    "text": " someone in their "
+                },
+                {
+                    "text": "work or duties",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مساعد",
+            "synonyms": [
+                "helper",
+                "aide",
+                "supporter"
+            ],
+            "example": [
+                {
+                    "text": "The manager hired an "
+                },
+                {
+                    "text": "assistant",
+                    "colorize": true
+                },
+                {
+                    "text": " to help organize meetings and answer emails"
+                }
+            ],
+            "tips": "Personal assistant, teaching assistant, shop assistant. The verb is 'assist' = to help."
+        },
+        {
+            "word": "conference",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A formal "
+                },
+                {
+                    "text": "meeting of people",
+                    "highlight": true
+                },
+                {
+                    "text": " to "
+                },
+                {
+                    "text": "discuss specific topics",
+                    "highlight2": true
+                },
+                {
+                    "text": ", often lasting several days"
+                }
+            ],
+            "arabicMeaning": "مؤتمر",
+            "synonyms": [
+                "meeting",
+                "convention",
+                "summit"
+            ],
+            "example": [
+                {
+                    "text": "Scientists from around the world attended the medical "
+                },
+                {
+                    "text": "conference",
+                    "colorize": true
+                },
+                {
+                    "text": " in Geneva"
+                }
+            ],
+            "tips": "Bigger and more formal than a meeting. Conference call = phone/video meeting with multiple people."
+        }
+    ]
+}

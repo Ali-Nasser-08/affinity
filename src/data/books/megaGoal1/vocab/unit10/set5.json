@@ -1,0 +1,475 @@
+{
+    "unit": "Mega Goal 1 - Unit 10: I Wonder What Happened",
+    "type": "speaking",
+    "setTitle": "Speaking & Real Talk",
+    "words": [
+        {
+            "word": "Excuse me",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "A polite expression used to "
+                },
+                {
+                    "text": "get someone's attention",
+                    "highlight": true
+                },
+                {
+                    "text": ", to "
+                },
+                {
+                    "text": "apologize for a minor inconvenience",
+                    "highlight2": true
+                },
+                {
+                    "text": ", or to start a conversation with a stranger"
+                }
+            ],
+            "arabicMeaning": "عفواً / معذرة",
+            "synonyms": [
+                "Pardon me",
+                "Sorry to interrupt"
+            ],
+            "example": [
+                {
+                    "text": ""
+                },
+                {
+                    "text": "Excuse me.",
+                    "colorize": true
+                },
+                {
+                    "text": " Could you tell me how to get to the train station?"
+                }
+            ],
+            "tips": "Very common polite opener. Use when approaching strangers, interrupting conversations politely, or apologizing for small bumps/spills."
+        },
+        {
+            "word": "Gee!",
+            "wordType": "exclamation",
+            "definition": [
+                {
+                    "text": "An informal expression of "
+                },
+                {
+                    "text": "surprise, wonder",
+                    "highlight": true
+                },
+                {
+                    "text": ", or mild "
+                },
+                {
+                    "text": "amazement",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يا للروعة! / واو!",
+            "synonyms": [
+                "Wow!",
+                "Gosh!",
+                "Goodness!"
+            ],
+            "example": [
+                {
+                    "text": "\""
+                },
+                {
+                    "text": "Gee!",
+                    "colorize": true
+                },
+                {
+                    "text": " Look at all those fireworks lighting up the entire sky!\""
+                }
+            ],
+            "tips": "Mild, old-fashioned exclamation (originally a polite substitute for 'Jesus!'). Still used casually, especially by older speakers. Very similar to 'Gosh!'"
+        },
+        {
+            "word": "Beats me!",
+            "wordType": "idiom",
+            "definition": [
+                {
+                    "text": "A casual way to say "
+                },
+                {
+                    "text": "\"I don't know\" or \"I have no idea\"",
+                    "highlight": true
+                },
+                {
+                    "text": "; implies the question is "
+                },
+                {
+                    "text": "beyond your understanding",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "لا أعرف / فوق فهمي",
+            "synonyms": [
+                "I have no clue",
+                "It's beyond me",
+                "Search me"
+            ],
+            "example": [
+                {
+                    "text": "\"Why did the teacher cancel the test?\" \""
+                },
+                {
+                    "text": "Beats me!",
+                    "colorize": true
+                },
+                {
+                    "text": " She didn't give any explanation.\""
+                }
+            ],
+            "tips": "Very informal/conversational. Origin: 'beats' = surpasses/confuses. NOT aggressive—despite the word 'beats', it's a harmless idiom."
+        },
+        {
+            "word": "You never know",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Used to express that "
+                },
+                {
+                    "text": "anything is possible",
+                    "highlight": true
+                },
+                {
+                    "text": "; the future is "
+                },
+                {
+                    "text": "uncertain and surprising things can happen",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "لا تدري أبدًا / من يدري",
+            "synonyms": [
+                "Who knows?",
+                "Anything could happen",
+                "It's unpredictable"
+            ],
+            "example": [
+                {
+                    "text": "\"Do you think it will rain during our picnic tomorrow?\" \"I hope not, but "
+                },
+                {
+                    "text": "you never know.",
+                    "colorize": true
+                },
+                {
+                    "text": "\""
+                }
+            ],
+            "tips": "Often used to keep an open mind about unlikely possibilities. Common after mentioning something unusual or improbable."
+        },
+        {
+            "word": "gathered",
+            "wordType": "verb (past tense)",
+            "definition": [
+                {
+                    "text": "Came together in one place as a "
+                },
+                {
+                    "text": "group",
+                    "highlight": true
+                },
+                {
+                    "text": "; assembled or "
+                },
+                {
+                    "text": "collected in one location",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "تجمّع / احتشد",
+            "synonyms": [
+                "assembled",
+                "crowded together",
+                "congregated"
+            ],
+            "example": [
+                {
+                    "text": "Fans had already "
+                },
+                {
+                    "text": "gathered",
+                    "colorize": true
+                },
+                {
+                    "text": " outside the concert hall three hours before the doors opened"
+                }
+            ],
+            "tips": "Can describe people ('crowd gathered') or things ('clouds gathered'). Past tense of 'gather' (regular verb: gather → gathered → gathered)."
+        },
+        {
+            "word": "weird",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Strange, unusual, or "
+                },
+                {
+                    "text": "unexpected in a way that feels",
+                    "highlight": true
+                },
+                {
+                    "text": " slightly unsettling or ",
+                    "highlight2": true
+                },
+                {
+                    "text": "mysterious"
+                }
+            ],
+            "arabicMeaning": "غريب / عجيب",
+            "synonyms": [
+                "strange",
+                "bizarre",
+                "odd"
+            ],
+            "example": [
+                {
+                    "text": "She had a "
+                },
+                {
+                    "text": "weird",
+                    "colorize": true
+                },
+                {
+                    "text": " dream last night about flying through a city made entirely of glass"
+                }
+            ],
+            "tips": "Stronger than 'strange'—implies something feels off or unnatural. Very common in casual speech. Not the same as 'wired' (connected to electricity/internet)."
+        },
+        {
+            "word": "man-made",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Created or produced by "
+                },
+                {
+                    "text": "human beings",
+                    "highlight": true
+                },
+                {
+                    "text": " rather than occurring "
+                },
+                {
+                    "text": "naturally",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "من صنع الإنسان",
+            "synonyms": [
+                "artificial",
+                "synthetic",
+                "human-made"
+            ],
+            "example": [
+                {
+                    "text": "The island featured both natural beaches and "
+                },
+                {
+                    "text": "man-made",
+                    "colorize": true
+                },
+                {
+                    "text": " lagoons designed by landscape architects"
+                }
+            ],
+            "tips": "Hyphenated compound adjective. Opposite: natural. Often used for objects that mimic nature (man-made diamonds, man-made lakes)."
+        },
+        {
+            "word": "remains",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The parts that are left after the rest has been "
+                },
+                {
+                    "text": "destroyed, used up",
+                    "highlight": true
+                },
+                {
+                    "text": ", or "
+                },
+                {
+                    "text": "removed",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "بقايا",
+            "synonyms": [
+                "leftovers",
+                "remnants",
+                "debris"
+            ],
+            "example": [
+                {
+                    "text": "Archaeologists carefully excavated the ancient campsite, studying the food "
+                },
+                {
+                    "text": "remains",
+                    "colorize": true
+                },
+                {
+                    "text": " to learn about prehistoric diets"
+                }
+            ],
+            "tips": "Always plural when meaning 'leftover parts'. Singular 'remain' is a verb (to stay). Not the same as 'remains' meaning a dead body (different context)."
+        },
+        {
+            "word": "flashing",
+            "wordType": "verb (present participle)",
+            "definition": [
+                {
+                    "text": "Blinking on and off "
+                },
+                {
+                    "text": "rapidly and repeatedly",
+                    "highlight": true
+                },
+                {
+                    "text": "; emitting "
+                },
+                {
+                    "text": "brief bursts of light",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُومض / يلمع بسرعة",
+            "synonyms": [
+                "blinking",
+                "pulsing",
+                "strobe lighting"
+            ],
+            "example": [
+                {
+                    "text": "The ambulance sped through traffic with its red lights "
+                },
+                {
+                    "text": "flashing",
+                    "colorize": true
+                },
+                {
+                    "text": " and siren blaring"
+                }
+            ],
+            "tips": "Often signals urgency or warning (flashing lights on emergency vehicles). Can also describe cameras ('flashing a photo') or sudden appearances ('a thought flashed through my mind')."
+        },
+        {
+            "word": "humming",
+            "wordType": "verb (present participle)",
+            "definition": [
+                {
+                    "text": "Making a low, steady, "
+                },
+                {
+                    "text": "continuous sound",
+                    "highlight": true
+                },
+                {
+                    "text": " like that produced by machinery, electricity, or "
+                },
+                {
+                    "text": "bees",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يَهُمهم / يصدر صوتًا خافتًا مستمرًا",
+            "synonyms": [
+                "buzzing softly",
+                "drone",
+                "vibrate with sound"
+            ],
+            "example": [
+                {
+                    "text": "At night, you can hear the refrigerator "
+                },
+                {
+                    "text": "humming",
+                    "colorize": true
+                },
+                {
+                    "text": " quietly in the kitchen"
+                }
+            ],
+            "tips": "Different from 'buzzing' (higher-pitched, like bees or alarms). 'Hum' can also be a verb for singing tunelessly ('She hummed while cooking')."
+        },
+        {
+            "word": "communications satellite",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A spacecraft placed in orbit around Earth to "
+                },
+                {
+                    "text": "receive and transmit signals",
+                    "highlight": true
+                },
+                {
+                    "text": " for television, phone, internet, or "
+                },
+                {
+                    "text": "radio communications",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "قمر صناعي للاتصالات",
+            "synonyms": [
+                "comsat",
+                "telecommunications satellite"
+            ],
+            "example": [
+                {
+                    "text": "Live broadcasts from the World Cup reached billions of viewers thanks to powerful "
+                },
+                {
+                    "text": "communications satellites",
+                    "colorize": true
+                },
+                {
+                    "text": " orbiting 22,000 miles above Earth"
+                }
+            ],
+            "tips": "Critical modern infrastructure. Not the same as weather satellites (observe climate) or spy satellites (military surveillance)."
+        },
+        {
+            "word": "UFO",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Stands for 'Unidentified Flying Object'; any object seen in the sky that cannot be "
+                },
+                {
+                    "text": "immediately recognized",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "explained by the observer",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "جسم طائر مجهول الهوية",
+            "synonyms": [
+                "unidentified aerial phenomenon (UAP)",
+                "flying saucer (colloquial)"
+            ],
+            "example": [
+                {
+                    "text": "Pilots reported seeing a silent, triangular "
+                },
+                {
+                    "text": "UFO",
+                    "colorize": true
+                },
+                {
+                    "text": " hovering over the airport for several minutes before it accelerated and disappeared"
+                }
+            ],
+            "tips": "Does NOT automatically mean 'alien spacecraft'—just something unidentified. Most UFOs are later explained as planes, balloons, or planets. 'UFO' is neutral; 'alien craft' is a specific interpretation."
+        }
+    ]
+}

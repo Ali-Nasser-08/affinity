@@ -1,0 +1,743 @@
+{
+    "unit": "Mega Goal 1 - Unit 10: I Wonder What Happened",
+    "type": "reading",
+    "setTitle": "Reading: Vision 2030",
+    "words": [
+        {
+            "word": "blessed with",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Naturally gifted or fortunate to have "
+                },
+                {
+                    "text": "valuable resources or qualities",
+                    "highlight": true
+                },
+                {
+                    "text": "; describes something received as a "
+                },
+                {
+                    "text": "gift or advantage",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مُنعَم بـ / مُوهوب بـ",
+            "synonyms": [
+                "fortunate to have",
+                "gifted with",
+                "endowed with"
+            ],
+            "example": [
+                {
+                    "text": "Canada is "
+                },
+                {
+                    "text": "blessed with",
+                    "colorize": true
+                },
+                {
+                    "text": " vast freshwater lakes and beautiful national parks"
+                }
+            ],
+            "tips": "Often used for natural advantages (resources, location, climate). Can have religious connotation ('blessed by God') but also used secularly."
+        },
+        {
+            "word": "asset",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A valuable "
+                },
+                {
+                    "text": "resource or quality",
+                    "highlight": true
+                },
+                {
+                    "text": " that provides an "
+                },
+                {
+                    "text": "advantage or benefit",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مورد قيّم / أصل",
+            "synonyms": [
+                "valuable resource",
+                "advantage",
+                "strength"
+            ],
+            "example": [
+                {
+                    "text": "Her ability to speak four languages is a huge "
+                },
+                {
+                    "text": "asset",
+                    "colorize": true
+                },
+                {
+                    "text": " when applying for international jobs"
+                }
+            ],
+            "tips": "Business/finance term (assets = things of value a company owns). Also used for people's skills or positive qualities. Opposite: liability (something that causes problems)."
+        },
+        {
+            "word": "family-oriented",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Focused on or giving high priority to "
+                },
+                {
+                    "text": "family relationships",
+                    "highlight": true
+                },
+                {
+                    "text": " and "
+                },
+                {
+                    "text": "family values",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مُوجّه نحو الأسرة",
+            "synonyms": [
+                "family-centered",
+                "family-focused"
+            ],
+            "example": [
+                {
+                    "text": "This neighborhood is very "
+                },
+                {
+                    "text": "family-oriented",
+                    "colorize": true
+                },
+                {
+                    "text": " with playgrounds, good schools, and community events for parents and children"
+                }
+            ],
+            "tips": "Compound adjective (hyphenated before nouns). Describes cultures, communities, businesses, or individuals who prioritize family time and relationships."
+        },
+        {
+            "word": "sustainable",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Able to continue for a long time without "
+                },
+                {
+                    "text": "damaging the environment",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "using up resources",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مستدام",
+            "synonyms": [
+                "environmentally friendly",
+                "able to be maintained"
+            ],
+            "example": [
+                {
+                    "text": "The city built a "
+                },
+                {
+                    "text": "sustainable",
+                    "colorize": true
+                },
+                {
+                    "text": " community that uses solar power and recycles 90% of its waste"
+                }
+            ],
+            "tips": "Key modern concept in development/environmental discussions. Often paired with 'development', 'environment', 'energy', or 'practices'."
+        },
+        {
+            "word": "contribute to",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To help cause or bring about something; to "
+                },
+                {
+                    "text": "add to a result",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "improvement",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يساهم في",
+            "synonyms": [
+                "help bring about",
+                "add to",
+                "play a part in"
+            ],
+            "example": [
+                {
+                    "text": "Regular exercise and healthy eating both "
+                },
+                {
+                    "text": "contribute to",
+                    "colorize": true
+                },
+                {
+                    "text": " a longer, healthier life"
+                }
+            ],
+            "tips": "Always followed by 'to' + noun/gerund. NOT 'contribute for' or 'contribute at'. Formal alternative to 'help with'."
+        },
+        {
+            "word": "heritage",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Valued traditions, customs, buildings, or objects "
+                },
+                {
+                    "text": "passed down",
+                    "highlight": true
+                },
+                {
+                    "text": " from previous generations that form a "
+                },
+                {
+                    "text": "group's cultural identity",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "تراث",
+            "synonyms": [
+                "cultural legacy",
+                "tradition",
+                "inheritance"
+            ],
+            "example": [
+                {
+                    "text": "The ancient castle is an important part of the region's architectural "
+                },
+                {
+                    "text": "heritage",
+                    "colorize": true
+                },
+                {
+                    "text": " and is protected by law"
+                }
+            ],
+            "tips": "Often paired with 'cultural', 'national', or 'historical'. Different from 'inheritance' (money/property received after death)—heritage is cultural/historical."
+        },
+        {
+            "word": "pilgrims",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "People who travel to a "
+                },
+                {
+                    "text": "sacred or holy place",
+                    "highlight": true
+                },
+                {
+                    "text": " for religious "
+                },
+                {
+                    "text": "reasons or worship",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حُجّاج / زُوّار مقدّسون",
+            "synonyms": [
+                "religious travelers",
+                "worshippers on a journey"
+            ],
+            "example": [
+                {
+                    "text": "Thousands of "
+                },
+                {
+                    "text": "pilgrims",
+                    "colorize": true
+                },
+                {
+                    "text": " visit the Vatican each year to see the Pope and pray at St. Peter's Basilica"
+                }
+            ],
+            "tips": "Specific religious/cultural term. In Islam: Hajj pilgrims visit Mecca. In Christianity: pilgrims may visit Jerusalem or Rome. Not the same as 'tourists' (who travel for pleasure)."
+        },
+        {
+            "word": "cater for",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To provide what is needed or wanted by a particular group of people; to "
+                },
+                {
+                    "text": "serve or accommodate",
+                    "highlight": true
+                },
+                {
+                    "text": " someone's "
+                },
+                {
+                    "text": "needs",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُلبي احتياجات / يخدم",
+            "synonyms": [
+                "serve",
+                "accommodate",
+                "provide for"
+            ],
+            "example": [
+                {
+                    "text": "The new shopping mall was designed to "
+                },
+                {
+                    "text": "cater for",
+                    "colorize": true
+                },
+                {
+                    "text": " families with young children, featuring play areas and baby-changing rooms"
+                }
+            ],
+            "tips": "British English prefers 'cater for'; American English often uses 'cater to'. Both mean the same thing. Common in hospitality/business contexts."
+        },
+        {
+            "word": "well looked after",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Receiving good care, attention, and protection; being "
+                },
+                {
+                    "text": "properly cared for",
+                    "highlight": true
+                },
+                {
+                    "text": " and "
+                },
+                {
+                    "text": "kept safe",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مُعتنى به جيدًا",
+            "synonyms": [
+                "well cared for",
+                "properly maintained",
+                "attended to"
+            ],
+            "example": [
+                {
+                    "text": "The hotel guests felt "
+                },
+                {
+                    "text": "well looked after",
+                    "colorize": true
+                },
+                {
+                    "text": " with daily room service, fresh towels, and staff who remembered their names"
+                }
+            ],
+            "tips": "Passive construction (look after = phrasal verb meaning 'care for'). Often used for people receiving hospitality or objects being maintained."
+        },
+        {
+            "word": "dynamic",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Full of "
+                },
+                {
+                    "text": "energy, activity, and constant change",
+                    "highlight": true
+                },
+                {
+                    "text": "; lively and "
+                },
+                {
+                    "text": "progressive",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حيوي / نشيط",
+            "synonyms": [
+                "energetic",
+                "vibrant",
+                "lively"
+            ],
+            "example": [
+                {
+                    "text": "Berlin has a "
+                },
+                {
+                    "text": "dynamic",
+                    "colorize": true
+                },
+                {
+                    "text": " arts scene with new galleries and music venues opening every month"
+                }
+            ],
+            "tips": "Positive adjective often used for economies, businesses, cities, or people. Opposite: static, stagnant, unchanging."
+        },
+        {
+            "word": "sectors",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Distinct parts or areas of a country's "
+                },
+                {
+                    "text": "economy or society",
+                    "highlight": true
+                },
+                {
+                    "text": " that have different "
+                },
+                {
+                    "text": "functions or industries",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "قطاعات",
+            "synonyms": [
+                "industries",
+                "branches",
+                "areas of the economy"
+            ],
+            "example": [
+                {
+                    "text": "The government is investing in renewable energy to create jobs in new economic "
+                },
+                {
+                    "text": "sectors",
+                    "colorize": true
+                },
+                {
+                    "text": " beyond oil and gas"
+                }
+            ],
+            "tips": "Common economic term. Major sectors: public sector (government), private sector (businesses), agricultural sector, technology sector, service sector."
+        },
+        {
+            "word": "geographical position",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "The physical "
+                },
+                {
+                    "text": "location of a place",
+                    "highlight": true
+                },
+                {
+                    "text": " on Earth in relation to other countries, oceans, or "
+                },
+                {
+                    "text": "continents",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "الموقع الجغرافي",
+            "synonyms": [
+                "geographic location",
+                "strategic position"
+            ],
+            "example": [
+                {
+                    "text": "Singapore's excellent "
+                },
+                {
+                    "text": "geographical position",
+                    "colorize": true
+                },
+                {
+                    "text": " at the crossroads of major shipping routes has made it a global trade hub"
+                }
+            ],
+            "tips": "Often determines trade opportunities, climate, and cultural influences. 'Strategic geographical position' = location that provides advantages."
+        },
+        {
+            "word": "telecommunications",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The technology and systems used for "
+                },
+                {
+                    "text": "long-distance communication",
+                    "highlight": true
+                },
+                {
+                    "text": " including phones, internet, radio, and "
+                },
+                {
+                    "text": "satellite signals",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "اتصالات",
+            "synonyms": [
+                "communication technology",
+                "telecom"
+            ],
+            "example": [
+                {
+                    "text": "Modern "
+                },
+                {
+                    "text": "telecommunications",
+                    "colorize": true
+                },
+                {
+                    "text": " allow doctors in cities to consult with patients in remote villages via video calls"
+                }
+            ],
+            "tips": "Often shortened to 'telecom' in business contexts. Includes mobile networks, fiber optics, and satellite systems. Different from 'transportation' (moving people/goods)."
+        },
+        {
+            "word": "streamlined",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Made simpler, more efficient, and "
+                },
+                {
+                    "text": "easier to use",
+                    "highlight": true
+                },
+                {
+                    "text": " by removing unnecessary "
+                },
+                {
+                    "text": "steps or complexity",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مُبسّط / مُيسّر",
+            "synonyms": [
+                "simplified",
+                "made more efficient",
+                "smoothed out"
+            ],
+            "example": [
+                {
+                    "text": "The company "
+                },
+                {
+                    "text": "streamlined",
+                    "colorize": true
+                },
+                {
+                    "text": " its application process so customers can now open an account in under five minutes"
+                }
+            ],
+            "tips": "Business/administrative term. Comes from aerodynamics ('streamlined shape' = reduces drag). Applied metaphorically to processes that flow more smoothly."
+        },
+        {
+            "word": "upgraded",
+            "wordType": "adjective/verb (past participle)",
+            "definition": [
+                {
+                    "text": "Improved or made "
+                },
+                {
+                    "text": "more modern and efficient",
+                    "highlight": true
+                },
+                {
+                    "text": " by adding better features, technology, or "
+                },
+                {
+                    "text": "materials",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مُحدّث / مُطَوَّر",
+            "synonyms": [
+                "improved",
+                "modernized",
+                "enhanced"
+            ],
+            "example": [
+                {
+                    "text": "The old library received an "
+                },
+                {
+                    "text": "upgraded",
+                    "colorize": true
+                },
+                {
+                    "text": " computer system and comfortable new reading areas"
+                }
+            ],
+            "tips": "Common in technology and infrastructure contexts. Verb form: upgrade (regular verb: upgrade → upgraded → upgraded)."
+        },
+        {
+            "word": "urban",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Related to or located in a "
+                },
+                {
+                    "text": "city or town",
+                    "highlight": true
+                },
+                {
+                    "text": "; characterized by "
+                },
+                {
+                    "text": "dense population and buildings",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حضري",
+            "synonyms": [
+                "city",
+                "metropolitan",
+                "town-based"
+            ],
+            "example": [
+                {
+                    "text": "Many young professionals prefer "
+                },
+                {
+                    "text": "urban",
+                    "colorize": true
+                },
+                {
+                    "text": " living for its convenience, restaurants, and cultural events"
+                }
+            ],
+            "tips": "Often contrasted with 'rural' (countryside). 'Urban area' = city and its immediate surroundings. 'Urbanization' = process of areas becoming more city-like."
+        },
+        {
+            "word": "rural",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Related to or located in the "
+                },
+                {
+                    "text": "countryside",
+                    "highlight": true
+                },
+                {
+                    "text": " rather than in cities; typically featuring "
+                },
+                {
+                    "text": "farms, open spaces, and small villages",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ريفي",
+            "synonyms": [
+                "countryside",
+                "agricultural",
+                "country"
+            ],
+            "example": [
+                {
+                    "text": "She grew up in a peaceful "
+                },
+                {
+                    "text": "rural",
+                    "colorize": true
+                },
+                {
+                    "text": " village surrounded by olive groves and mountains"
+                }
+            ],
+            "tips": "Often contrasted with 'urban'. Rural areas typically have lower population density, more agriculture, and fewer services than cities."
+        },
+        {
+            "word": "remote",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Far away from cities or populated areas; "
+                },
+                {
+                    "text": "isolated or difficult to reach",
+                    "highlight": true
+                },
+                {
+                    "text": " due to "
+                },
+                {
+                    "text": "distance",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ناءٍ / بعيد",
+            "synonyms": [
+                "isolated",
+                "far-flung",
+                "distant"
+            ],
+            "example": [
+                {
+                    "text": "The research team spent six months in a "
+                },
+                {
+                    "text": "remote",
+                    "colorize": true
+                },
+                {
+                    "text": " mountain village studying traditional weaving techniques"
+                }
+            ],
+            "tips": "Can describe places (remote village), jobs (remote work = working from home/distance), or controls (TV remote). Not the same as 'removed' (taken away)."
+        },
+        {
+            "word": "enterprise",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A business organization or company, especially one that shows "
+                },
+                {
+                    "text": "initiative and effort",
+                    "highlight": true
+                },
+                {
+                    "text": "; also any "
+                },
+                {
+                    "text": "ambitious project or undertaking",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مَشروع / مؤسسة",
+            "synonyms": [
+                "business",
+                "company",
+                "venture"
+            ],
+            "example": [
+                {
+                    "text": "The government provided loans to help small "
+                },
+                {
+                    "text": "enterprises",
+                    "colorize": true
+                },
+                {
+                    "text": " expand their operations and hire more workers"
+                }
+            ],
+            "tips": "More formal than 'business'. Often used in economic policy ('small and medium enterprises' = SMEs). Can also mean 'readiness to act' (a spirit of enterprise)."
+        }
+    ]
+}

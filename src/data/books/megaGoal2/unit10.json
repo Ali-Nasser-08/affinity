@@ -1,0 +1,1810 @@
+{
+    "unit": "Unit 10: They Said, We Said",
+    "grammarMCQ": [
+        {
+            "q": "My mother said that gossiping _____ a bad habit.",
+            "opts": [
+                "was",
+                "is",
+                "were",
+                "are"
+            ],
+            "ans": "was"
+        },
+        {
+            "q": "He said that Mark _____ on the test.",
+            "opts": [
+                "had cheated",
+                "cheats",
+                "cheat",
+                "cheating"
+            ],
+            "ans": "had cheated"
+        },
+        {
+            "q": "They said that he _____ gossip.",
+            "opts": [
+                "liked",
+                "like",
+                "likes",
+                "liking"
+            ],
+            "ans": "liked"
+        },
+        {
+            "q": "They said that he _____ gossiping.",
+            "opts": [
+                "was",
+                "is",
+                "were",
+                "are"
+            ],
+            "ans": "was"
+        },
+        {
+            "q": "They said that he _____ gossiping all day.",
+            "opts": [
+                "had been",
+                "is",
+                "was",
+                "has been"
+            ],
+            "ans": "had been"
+        },
+        {
+            "q": "She says that gossiping _____ mean.",
+            "opts": [
+                "is",
+                "was",
+                "were",
+                "are"
+            ],
+            "ans": "is"
+        },
+        {
+            "q": "The teacher said that the exam _____ next week.",
+            "opts": [
+                "will be",
+                "was",
+                "had been",
+                "is"
+            ],
+            "ans": "will be"
+        },
+        {
+            "q": "He said that Tim _____ keep his mouth closed.",
+            "opts": [
+                "should",
+                "shall",
+                "will",
+                "can"
+            ],
+            "ans": "should"
+        },
+        {
+            "q": "My friend told me _____ spread that rumor.",
+            "opts": [
+                "not to",
+                "don't",
+                "no",
+                "not"
+            ],
+            "ans": "not to"
+        },
+        {
+            "q": "Jane asked her friend _____ the rumor was true.",
+            "opts": [
+                "if",
+                "that",
+                "what",
+                "which"
+            ],
+            "ans": "if"
+        },
+        {
+            "q": "He asked _____ they were spreading rumors.",
+            "opts": [
+                "whether",
+                "that",
+                "which",
+                "what"
+            ],
+            "ans": "whether"
+        },
+        {
+            "q": "Professor Jin said, \"There _____ no written exams.\"",
+            "opts": [
+                "will be",
+                "would be",
+                "was",
+                "had been"
+            ],
+            "ans": "will be"
+        },
+        {
+            "q": "He said, \"I _____ watching TV.\"",
+            "opts": [
+                "was",
+                "am",
+                "were",
+                "had been"
+            ],
+            "ans": "was"
+        },
+        {
+            "q": "Taro said that he _____ Albert.",
+            "opts": [
+                "and",
+                "with",
+                "or",
+                "but"
+            ],
+            "ans": "and"
+        },
+        {
+            "q": "She said she _____ her classes.",
+            "opts": [
+                "liked",
+                "like",
+                "liking",
+                "liks"
+            ],
+            "ans": "liked"
+        },
+        {
+            "q": "The weatherman said there _____ be a storm.",
+            "opts": [
+                "would",
+                "will",
+                "can",
+                "shall"
+            ],
+            "ans": "would"
+        },
+        {
+            "q": "He said that criticism _____ hurtful.",
+            "opts": [
+                "was",
+                "is",
+                "were",
+                "are"
+            ],
+            "ans": "was"
+        },
+        {
+            "q": "My aunt said I _____ call her.",
+            "opts": [
+                "should",
+                "shall",
+                "will",
+                "can"
+            ],
+            "ans": "should"
+        },
+        {
+            "q": "He said he _____ to London.",
+            "opts": [
+                "had been",
+                "was",
+                "is",
+                "has been"
+            ],
+            "ans": "had been"
+        },
+        {
+            "q": "He asked his friends _____ call him.",
+            "opts": [
+                "not to",
+                "don't",
+                "no",
+                "not"
+            ],
+            "ans": "not to"
+        },
+        {
+            "q": "He said he _____ try to come.",
+            "opts": [
+                "would",
+                "will",
+                "can",
+                "shall"
+            ],
+            "ans": "would"
+        },
+        {
+            "q": "My friend asked me _____ I would buy a laptop.",
+            "opts": [
+                "if",
+                "that",
+                "what",
+                "which"
+            ],
+            "ans": "if"
+        },
+        {
+            "q": "They asked him _____ the rumor was true.",
+            "opts": [
+                "whether",
+                "that",
+                "which",
+                "what"
+            ],
+            "ans": "whether"
+        },
+        {
+            "q": "The waiter asked _____ I wanted milk.",
+            "opts": [
+                "if",
+                "that",
+                "what",
+                "which"
+            ],
+            "ans": "if"
+        },
+        {
+            "q": "You _____ talk to Ali.",
+            "opts": [
+                "should",
+                "would",
+                "could",
+                "might"
+            ],
+            "ans": "should"
+        },
+        {
+            "q": "You _____ take a rest.",
+            "opts": [
+                "had better",
+                "would better",
+                "should better",
+                "could better"
+            ],
+            "ans": "had better"
+        },
+        {
+            "q": "He _____ go to the dentist.",
+            "opts": [
+                "ought to",
+                "ought",
+                "should to",
+                "must to"
+            ],
+            "ans": "ought to"
+        },
+        {
+            "q": "You _____ tell the teacher.",
+            "opts": [
+                "should",
+                "would",
+                "might",
+                "may"
+            ],
+            "ans": "should"
+        },
+        {
+            "q": "You _____ tell me what you heard.",
+            "opts": [
+                "must",
+                "might",
+                "may",
+                "can"
+            ],
+            "ans": "must"
+        },
+        {
+            "q": "She _____ gossip about others.",
+            "opts": [
+                "shouldn't",
+                "wouldn't",
+                "couldn't",
+                "mightn't"
+            ],
+            "ans": "shouldn't"
+        },
+        {
+            "q": "They _____ drink warm liquids.",
+            "opts": [
+                "had better",
+                "would better",
+                "should better",
+                "could better"
+            ],
+            "ans": "had better"
+        },
+        {
+            "q": "_____ you keep a secret?",
+            "opts": [
+                "Can",
+                "May",
+                "Must",
+                "Should"
+            ],
+            "ans": "Can"
+        },
+        {
+            "q": "_____ I leave early today?",
+            "opts": [
+                "May",
+                "Must",
+                "Should",
+                "Will"
+            ],
+            "ans": "May"
+        },
+        {
+            "q": "_____ I have the check, please?",
+            "opts": [
+                "Could",
+                "Should",
+                "Must",
+                "Will"
+            ],
+            "ans": "Could"
+        },
+        {
+            "q": "He _____ tell. He doesn't know.",
+            "opts": [
+                "can't",
+                "mustn't",
+                "shouldn't",
+                "wouldn't"
+            ],
+            "ans": "can't"
+        },
+        {
+            "q": "You _____ stop gossiping.",
+            "opts": [
+                "must",
+                "may",
+                "might",
+                "can"
+            ],
+            "ans": "must"
+        },
+        {
+            "q": "We _____ call her this week.",
+            "opts": [
+                "should",
+                "shall",
+                "will",
+                "can"
+            ],
+            "ans": "should"
+        },
+        {
+            "q": "We _____ have a test.",
+            "opts": [
+                "might",
+                "must",
+                "should",
+                "will"
+            ],
+            "ans": "might"
+        },
+        {
+            "q": "He _____ be able to drive.",
+            "opts": [
+                "will",
+                "would",
+                "should",
+                "could"
+            ],
+            "ans": "will"
+        },
+        {
+            "q": "The helicopter _____ be in the ocean.",
+            "opts": [
+                "could",
+                "should",
+                "would",
+                "will"
+            ],
+            "ans": "could"
+        },
+        {
+            "q": "Students _____ gossip.",
+            "opts": [
+                "shouldn't",
+                "wouldn't",
+                "couldn't",
+                "mightn't"
+            ],
+            "ans": "shouldn't"
+        },
+        {
+            "q": "We _____ go and play.",
+            "opts": [
+                "ought to",
+                "ought",
+                "should to",
+                "must to"
+            ],
+            "ans": "ought to"
+        },
+        {
+            "q": "He _____ go to Dubai.",
+            "opts": [
+                "might",
+                "must",
+                "should",
+                "will"
+            ],
+            "ans": "might"
+        },
+        {
+            "q": "That _____ be the man.",
+            "opts": [
+                "can't",
+                "mustn't",
+                "shouldn't",
+                "wouldn't"
+            ],
+            "ans": "can't"
+        },
+        {
+            "q": "He _____ join us.",
+            "opts": [
+                "won't be able to",
+                "can't to",
+                "not able to",
+                "couldn't to"
+            ],
+            "ans": "won't be able to"
+        },
+        {
+            "q": "_____ you help me?",
+            "opts": [
+                "Can",
+                "May",
+                "Should",
+                "Must"
+            ],
+            "ans": "Can"
+        },
+        {
+            "q": "It is _____ nature to gossip.",
+            "opts": [
+                "human",
+                "bad",
+                "good",
+                "wrong"
+            ],
+            "ans": "human"
+        },
+        {
+            "q": "No one is _____ to gossip.",
+            "opts": [
+                "immune",
+                "safe",
+                "free",
+                "clear"
+            ],
+            "ans": "immune"
+        },
+        {
+            "q": "Gossip reduces _____.",
+            "opts": [
+                "status",
+                "money",
+                "health",
+                "time"
+            ],
+            "ans": "status"
+        },
+        {
+            "q": "Young people gossip out of _____.",
+            "opts": [
+                "boredom",
+                "hate",
+                "love",
+                "fear"
+            ],
+            "ans": "boredom"
+        }
+    ],
+    "fillInBlank": [
+        {
+            "s": "My mother said gossiping _____ a bad habit.",
+            "a": "was"
+        },
+        {
+            "s": "He said Mark _____ cheated on the test.",
+            "a": "had"
+        },
+        {
+            "s": "They said he _____ gossip. (like)",
+            "a": "liked"
+        },
+        {
+            "s": "They said he _____ gossiping. (be)",
+            "a": "was"
+        },
+        {
+            "s": "She says gossiping _____ mean.",
+            "a": "is"
+        },
+        {
+            "s": "The exam _____ be next week.",
+            "a": "will"
+        },
+        {
+            "s": "Tim _____ keep his mouth closed.",
+            "a": "should"
+        },
+        {
+            "s": "My friend told me _____ to spread rumors.",
+            "a": "not"
+        },
+        {
+            "s": "Jane asked _____ the rumor was true.",
+            "a": "if"
+        },
+        {
+            "s": "He asked _____ they were spreading rumors.",
+            "a": "whether"
+        },
+        {
+            "s": "There _____ be no written exams.",
+            "a": "will"
+        },
+        {
+            "s": "He said, \"I _____ watching TV.\"",
+            "a": "was"
+        },
+        {
+            "s": "She said she _____ her classes. (like)",
+            "a": "liked"
+        },
+        {
+            "s": "There _____ be a storm tonight.",
+            "a": "would"
+        },
+        {
+            "s": "Criticism _____ hurtful.",
+            "a": "was"
+        },
+        {
+            "s": "I _____ call her this week. (should)",
+            "a": "should"
+        },
+        {
+            "s": "He _____ been to London.",
+            "a": "had"
+        },
+        {
+            "s": "He asked friends _____ to call. (not)",
+            "a": "not"
+        },
+        {
+            "s": "He said he _____ try to come.",
+            "a": "would"
+        },
+        {
+            "s": "Asked _____ I would buy a laptop.",
+            "a": "if"
+        },
+        {
+            "s": "Asked _____ the rumor was true.",
+            "a": "whether"
+        },
+        {
+            "s": "You _____ talk to Ali. (advice)",
+            "a": "should"
+        },
+        {
+            "s": "You _____ better take a rest.",
+            "a": "had"
+        },
+        {
+            "s": "He _____ to go to the dentist.",
+            "a": "ought"
+        },
+        {
+            "s": "You _____ tell me! (obligation)",
+            "a": "must"
+        },
+        {
+            "s": "She _____ gossip. (advice negative)",
+            "a": "shouldn't"
+        },
+        {
+            "s": "_____ you keep a secret? (ability)",
+            "a": "Can"
+        },
+        {
+            "s": "_____ I leave early? (permission)",
+            "a": "May"
+        },
+        {
+            "s": "_____ I have the check? (request)",
+            "a": "Could"
+        },
+        {
+            "s": "He _____ tell. (impossibility)",
+            "a": "can't"
+        },
+        {
+            "s": "You _____ stop gossiping. (obligation)",
+            "a": "must"
+        },
+        {
+            "s": "We _____ have a test. (possibility)",
+            "a": "might"
+        },
+        {
+            "s": "He _____ be able to drive. (future ability)",
+            "a": "will"
+        },
+        {
+            "s": "It _____ be in the ocean. (possibility)",
+            "a": "could"
+        },
+        {
+            "s": "We _____ to go and play.",
+            "a": "ought"
+        },
+        {
+            "s": "That _____ be the man. (impossibility)",
+            "a": "can't"
+        },
+        {
+            "s": "Gossip is part of _____ nature.",
+            "a": "human"
+        },
+        {
+            "s": "No one is _____ to gossip.",
+            "a": "immune"
+        },
+        {
+            "s": "Gossip reduces _____.",
+            "a": "status"
+        },
+        {
+            "s": "People gossip out of _____.",
+            "a": "boredom"
+        },
+        {
+            "s": "Great minds discuss _____.",
+            "a": "ideas"
+        },
+        {
+            "s": "Average minds discuss _____.",
+            "a": "events"
+        },
+        {
+            "s": "Small minds discuss _____.",
+            "a": "people"
+        },
+        {
+            "s": "Trying to squash a rumor is like unringing a _____.",
+            "a": "bell"
+        },
+        {
+            "s": "The only thing worse than being talked about is _____ being talked about.",
+            "a": "not"
+        },
+        {
+            "s": "A gossip talks about _____.",
+            "a": "others"
+        },
+        {
+            "s": "A bore talks about _____.",
+            "a": "himself"
+        },
+        {
+            "s": "A conversationalist talks about _____.",
+            "a": "yourself"
+        },
+        {
+            "s": "Split _____ means stopped being friends.",
+            "a": "up"
+        },
+        {
+            "s": "For _____ means permanently.",
+            "a": "good"
+        }
+    ],
+    "oddOneOut": [
+        {
+            "w": [
+                "rumor",
+                "truth",
+                "gossip",
+                "scandal"
+            ],
+            "a": "truth"
+        },
+        {
+            "w": [
+                "praised",
+                "criticized",
+                "ridiculed",
+                "blamed"
+            ],
+            "a": "praised"
+        },
+        {
+            "w": [
+                "malicious",
+                "kind",
+                "hurtful",
+                "mean"
+            ],
+            "a": "kind"
+        },
+        {
+            "w": [
+                "confidential",
+                "public",
+                "secret",
+                "private"
+            ],
+            "a": "public"
+        },
+        {
+            "w": [
+                "immune",
+                "protected",
+                "safe",
+                "vulnerable"
+            ],
+            "a": "vulnerable"
+        },
+        {
+            "w": [
+                "superior",
+                "inferior",
+                "better",
+                "higher"
+            ],
+            "a": "inferior"
+        },
+        {
+            "w": [
+                "boredom",
+                "excitement",
+                "dullness",
+                "monotony"
+            ],
+            "a": "excitement"
+        },
+        {
+            "w": [
+                "exclude",
+                "include",
+                "leave out",
+                "omit"
+            ],
+            "a": "include"
+        },
+        {
+            "w": [
+                "divulge",
+                "reveal",
+                "hide",
+                "expose"
+            ],
+            "a": "hide"
+        },
+        {
+            "w": [
+                "scandal",
+                "disgrace",
+                "honor",
+                "shame"
+            ],
+            "a": "honor"
+        },
+        {
+            "w": [
+                "virtue",
+                "vice",
+                "goodness",
+                "morality"
+            ],
+            "a": "vice"
+        },
+        {
+            "w": [
+                "ridicule",
+                "mockery",
+                "praise",
+                "teasing"
+            ],
+            "a": "praise"
+        },
+        {
+            "w": [
+                "circulate",
+                "spread",
+                "stop",
+                "move"
+            ],
+            "a": "stop"
+        },
+        {
+            "w": [
+                "criticism",
+                "approval",
+                "disapproval",
+                "judgment"
+            ],
+            "a": "approval"
+        },
+        {
+            "w": [
+                "derogatory",
+                "complimentary",
+                "insulting",
+                "offensive"
+            ],
+            "a": "complimentary"
+        },
+        {
+            "w": [
+                "brilliant",
+                "smart",
+                "dull",
+                "intelligent"
+            ],
+            "a": "dull"
+        },
+        {
+            "w": [
+                "believe",
+                "trust",
+                "doubt",
+                "accept"
+            ],
+            "a": "doubt"
+        },
+        {
+            "w": [
+                "whisper",
+                "shout",
+                "murmur",
+                "speak softly"
+            ],
+            "a": "shout"
+        },
+        {
+            "w": [
+                "confront",
+                "avoid",
+                "face",
+                "challenge"
+            ],
+            "a": "avoid"
+        },
+        {
+            "w": [
+                "regret",
+                "happiness",
+                "remorse",
+                "guilt"
+            ],
+            "a": "happiness"
+        },
+        {
+            "w": [
+                "obligation",
+                "duty",
+                "choice",
+                "responsibility"
+            ],
+            "a": "choice"
+        },
+        {
+            "w": [
+                "might",
+                "may",
+                "will",
+                "could"
+            ],
+            "a": "will"
+        },
+        {
+            "w": [
+                "should",
+                "ought to",
+                "had better",
+                "must"
+            ],
+            "a": "must"
+        },
+        {
+            "w": [
+                "can",
+                "able to",
+                "capable",
+                "unable"
+            ],
+            "a": "unable"
+        },
+        {
+            "w": [
+                "future",
+                "past",
+                "present",
+                "now"
+            ],
+            "a": "past"
+        },
+        {
+            "w": [
+                "request",
+                "demand",
+                "order",
+                "plea"
+            ],
+            "a": "order"
+        },
+        {
+            "w": [
+                "possibility",
+                "certainty",
+                "chance",
+                "likelihood"
+            ],
+            "a": "certainty"
+        },
+        {
+            "w": [
+                "permission",
+                "allowance",
+                "denial",
+                "consent"
+            ],
+            "a": "denial"
+        },
+        {
+            "w": [
+                "arm",
+                "leg",
+                "chair",
+                "head"
+            ],
+            "a": "chair"
+        },
+        {
+            "w": [
+                "eye",
+                "ear",
+                "nose",
+                "see"
+            ],
+            "a": "see"
+        },
+        {
+            "w": [
+                "hand",
+                "foot",
+                "write",
+                "knee"
+            ],
+            "a": "write"
+        },
+        {
+            "w": [
+                "stomach",
+                "back",
+                "pain",
+                "shoulder"
+            ],
+            "a": "pain"
+        },
+        {
+            "w": [
+                "teeth",
+                "mouth",
+                "eat",
+                "throat"
+            ],
+            "a": "eat"
+        },
+        {
+            "w": [
+                "mayor",
+                "leader",
+                "chief",
+                "follower"
+            ],
+            "a": "follower"
+        },
+        {
+            "w": [
+                "candidate",
+                "runner",
+                "applicant",
+                "referee"
+            ],
+            "a": "referee"
+        },
+        {
+            "w": [
+                "complex",
+                "simple",
+                "complicated",
+                "intricate"
+            ],
+            "a": "simple"
+        },
+        {
+            "w": [
+                "taxes",
+                "fees",
+                "gifts",
+                "dues"
+            ],
+            "a": "gifts"
+        },
+        {
+            "w": [
+                "vote",
+                "elect",
+                "choose",
+                "ignore"
+            ],
+            "a": "ignore"
+        },
+        {
+            "w": [
+                "sore",
+                "painful",
+                "hurt",
+                "pleasant"
+            ],
+            "a": "pleasant"
+        },
+        {
+            "w": [
+                "cheat",
+                "deceive",
+                "trick",
+                "help"
+            ],
+            "a": "help"
+        },
+        {
+            "w": [
+                "apologize",
+                "say sorry",
+                "regret",
+                "insult"
+            ],
+            "a": "insult"
+        },
+        {
+            "w": [
+                "principal",
+                "headmaster",
+                "student",
+                "director"
+            ],
+            "a": "student"
+        },
+        {
+            "w": [
+                "polite",
+                "rude",
+                "courteous",
+                "respectful"
+            ],
+            "a": "rude"
+        },
+        {
+            "w": [
+                "formal",
+                "official",
+                "casual",
+                "proper"
+            ],
+            "a": "casual"
+        },
+        {
+            "w": [
+                "busy",
+                "occupied",
+                "free",
+                "engaged"
+            ],
+            "a": "free"
+        },
+        {
+            "w": [
+                "gossip",
+                "chat",
+                "talk",
+                "silence"
+            ],
+            "a": "silence"
+        },
+        {
+            "w": [
+                "friend",
+                "companion",
+                "enemy",
+                "pal"
+            ],
+            "a": "enemy"
+        },
+        {
+            "w": [
+                "kindergarten",
+                "school",
+                "college",
+                "work"
+            ],
+            "a": "work"
+        },
+        {
+            "w": [
+                "confrontation",
+                "conflict",
+                "fight",
+                "peace"
+            ],
+            "a": "peace"
+        },
+        {
+            "w": [
+                "backstabber",
+                "traitor",
+                "supporter",
+                "betrayer"
+            ],
+            "a": "supporter"
+        }
+    ],
+    "translateToArabic": [
+        {
+            "en": "Great minds discuss ideas.",
+            "ar": "العقول العظيمة تناقش الأفكار."
+        },
+        {
+            "en": "Average minds discuss events.",
+            "ar": "العقول المتوسطة تناقش الأحداث."
+        },
+        {
+            "en": "Small minds discuss people.",
+            "ar": "العقول الصغيرة تناقش الناس."
+        },
+        {
+            "en": "Rumors circulate quickly.",
+            "ar": "الشائعات تنتشر بسرعة."
+        },
+        {
+            "en": "Gossip is a bad habit.",
+            "ar": "النميمة عادة سيئة."
+        },
+        {
+            "en": "Trying to squash a rumor is like unringing a bell.",
+            "ar": "محاولة سحق شائعة يشبه محاولة إلغاء رنين جرس."
+        },
+        {
+            "en": "To find out people's faults, praise them to their friends.",
+            "ar": "لمعرفة عيوب الناس، امتدحهم أمام أصدقائهم."
+        },
+        {
+            "en": "He said that he liked gossip.",
+            "ar": "قال إنه يحب النميمة."
+        },
+        {
+            "en": "They said that he was gossiping.",
+            "ar": "قالوا إنه كان يغتاب."
+        },
+        {
+            "en": "She asked if the rumor was true.",
+            "ar": "سألت إذا كانت الإشاعة صحيحة."
+        },
+        {
+            "en": "He told me not to spread that rumor.",
+            "ar": "أخبرني ألا أنشر تلك الشائعة."
+        },
+        {
+            "en": "I promise I won't tell anyone.",
+            "ar": "أعدك أنني لن أخبر أحداً."
+        },
+        {
+            "en": "My lips are sealed.",
+            "ar": "فمي مغلق (لن أبوح بالسر)."
+        },
+        {
+            "en": "You can trust me.",
+            "ar": "يمكنك الوثوق بي."
+        },
+        {
+            "en": "Can you keep a secret?",
+            "ar": "هل يمكنك كتمان السر؟"
+        },
+        {
+            "en": "Rumor has it that she told him.",
+            "ar": "تقول الإشاعة إنها أخبرته."
+        },
+        {
+            "en": "She talked about her behind her back.",
+            "ar": "تحدثت عنها من وراء ظهرها."
+        },
+        {
+            "en": "He is a backstabber.",
+            "ar": "إنه طعان في الظهر (خائن)."
+        },
+        {
+            "en": "We need to confront her.",
+            "ar": "نحن بحاجة لمواجهتها."
+        },
+        {
+            "en": "Gossip seems to be part of human nature.",
+            "ar": "النميمة تبدو جزءاً من الطبيعة البشرية."
+        },
+        {
+            "en": "No one is immune to gossiping.",
+            "ar": "لا أحد محصن ضد النميمة."
+        },
+        {
+            "en": "People gossip out of boredom.",
+            "ar": "الناس يغتابون بدافع الملل."
+        },
+        {
+            "en": "Gossip can be malicious.",
+            "ar": "النميمة يمكن أن تكون خبيثة."
+        },
+        {
+            "en": "You should not judge others.",
+            "ar": "لا يجب أن تحكم على الآخرين."
+        },
+        {
+            "en": "Respecting privacy is important.",
+            "ar": "احترام الخصوصية مهم."
+        },
+        {
+            "en": "Mind your own business.",
+            "ar": "اهتم بشؤونك الخاصة."
+        },
+        {
+            "en": "You should talk to him.",
+            "ar": "يجب أن تتحدث إليه."
+        },
+        {
+            "en": "You had better take a rest.",
+            "ar": "من الأفضل لك أن تأخذ قسطاً من الراحة."
+        },
+        {
+            "en": "He ought to go to the dentist.",
+            "ar": "ينبغي عليه الذهاب إلى طبيب الأسنان."
+        },
+        {
+            "en": "Can you help me?",
+            "ar": "هل يمكنك مساعدتي؟"
+        },
+        {
+            "en": "May I leave early?",
+            "ar": "هل يمكنني المغادرة مبكراً؟"
+        },
+        {
+            "en": "I will be able to speak to him.",
+            "ar": "سأكون قادراً على التحدث معه."
+        },
+        {
+            "en": "That can't be true.",
+            "ar": "لا يمكن أن يكون ذلك صحيحاً."
+        },
+        {
+            "en": "You must stop gossiping.",
+            "ar": "يجب عليك التوقف عن النميمة."
+        },
+        {
+            "en": "We might have a test.",
+            "ar": "قد يكون لدينا اختبار."
+        },
+        {
+            "en": "You shouldn't tell anyone.",
+            "ar": "لا ينبغي أن تخبر أحداً."
+        },
+        {
+            "en": "The rumor caused a lot of harm.",
+            "ar": "سببت الإشاعة الكثير من الضرر."
+        },
+        {
+            "en": "We should verify the information.",
+            "ar": "يجب علينا التحقق من المعلومات."
+        },
+        {
+            "en": "Don't believe everything you hear.",
+            "ar": "لا تصدق كل ما تسمعه."
+        },
+        {
+            "en": "Silence is golden.",
+            "ar": "الصمت من ذهب."
+        },
+        {
+            "en": "He admitted his mistake.",
+            "ar": "اعترف بخطئه."
+        },
+        {
+            "en": "She felt guilty about gossiping.",
+            "ar": "شعرت بالذنب حيال النميمة."
+        },
+        {
+            "en": "He asked for forgiveness.",
+            "ar": "طلب المغفرة."
+        },
+        {
+            "en": "They split up for good.",
+            "ar": "انفصلوا إلى الأبد."
+        },
+        {
+            "en": "It was an on again, off again friendship.",
+            "ar": "كانت صداقة غير مستقرة."
+        },
+        {
+            "en": "She bad-mouthed her friend.",
+            "ar": "اغتابت صديقتها (تحدثت عنها بسوء)."
+        },
+        {
+            "en": "The news spread fast.",
+            "ar": "انتشر الخبر بسرعة."
+        },
+        {
+            "en": "It is confidential information.",
+            "ar": "إنها معلومات سرية."
+        },
+        {
+            "en": "Do not divulge secrets.",
+            "ar": "لا تفشِ الأسرار."
+        },
+        {
+            "en": "Avoid derogatory comments.",
+            "ar": "تجنب التعليقات المهينة."
+        }
+    ],
+    "translateToEnglish": [
+        {
+            "ar": "العقول العظيمة تناقش الأفكار",
+            "en": "Great minds discuss ideas."
+        },
+        {
+            "ar": "العقول المتوسطة تناقش الأحداث",
+            "en": "Average minds discuss events."
+        },
+        {
+            "ar": "العقول الصغيرة تناقش الناس",
+            "en": "Small minds discuss people."
+        },
+        {
+            "ar": "الشائعات تنتشر بسرعة",
+            "en": "Rumors circulate quickly."
+        },
+        {
+            "ar": "النميمة عادة سيئة",
+            "en": "Gossip is a bad habit."
+        },
+        {
+            "ar": "محاولة سحق شائعة مستحيلة (صعبة)",
+            "en": "Trying to squash a rumor is impossible."
+        },
+        {
+            "ar": "لمعرفة عيوب الناس امتدحهم",
+            "en": "To find out people's faults, praise them."
+        },
+        {
+            "ar": "قال إنه يحب النميمة",
+            "en": "He said that he liked gossip."
+        },
+        {
+            "ar": "قالوا إنه كان يغتاب",
+            "en": "They said that he was gossiping."
+        },
+        {
+            "ar": "سألت إذا كانت الإشاعة صحيحة",
+            "en": "She asked if the rumor was true."
+        },
+        {
+            "ar": "أخبرني ألا أنشر الشائعة",
+            "en": "He told me not to spread the rumor."
+        },
+        {
+            "ar": "أعدك ألا أخبر أحداً",
+            "en": "I promise I won't tell anyone."
+        },
+        {
+            "ar": "فمي مغلق (لن أبوح)",
+            "en": "My lips are sealed."
+        },
+        {
+            "ar": "يمكنك الوثوق بي",
+            "en": "You can trust me."
+        },
+        {
+            "ar": "هل يمكنك كتمان السر؟",
+            "en": "Can you keep a secret?"
+        },
+        {
+            "ar": "تقول الإشاعة إنها أخبرته",
+            "en": "Rumor has it that she told him."
+        },
+        {
+            "ar": "تحدثت عنها من وراء ظهرها",
+            "en": "She talked about her behind her back."
+        },
+        {
+            "ar": "إنه خائن (طعان في الظهر)",
+            "en": "He is a backstabber."
+        },
+        {
+            "ar": "نحن بحاجة لمواجهتها",
+            "en": "We need to confront her."
+        },
+        {
+            "ar": "النميمة طبيعة بشرية",
+            "en": "Gossip is human nature."
+        },
+        {
+            "ar": "لا أحد محصن ضد النميمة",
+            "en": "No one is immune to gossiping."
+        },
+        {
+            "ar": "الناس يغتابون للملل",
+            "en": "People gossip out of boredom."
+        },
+        {
+            "ar": "النميمة قد تكون خبيثة",
+            "en": "Gossip can be malicious."
+        },
+        {
+            "ar": "لا تحكم على الآخرين",
+            "en": "Don't judge others."
+        },
+        {
+            "ar": "احترام الخصوصية مهم",
+            "en": "Respecting privacy is important."
+        },
+        {
+            "ar": "اهتم بشؤونك",
+            "en": "Mind your own business."
+        },
+        {
+            "ar": "يجب أن تكلمه",
+            "en": "You should talk to him."
+        },
+        {
+            "ar": "من الأفضل لك أن ترتاح",
+            "en": "You had better take a rest."
+        },
+        {
+            "ar": "ينبغي عليه الذهاب للطبيب",
+            "en": "He ought to go to the doctor."
+        },
+        {
+            "ar": "هل يمكنك مساعدتي؟",
+            "en": "Can you help me?"
+        },
+        {
+            "ar": "هل يمكنني المغادرة؟",
+            "en": "May I leave?"
+        },
+        {
+            "ar": "سأقدر على التحدث معه",
+            "en": "I will be able to speak to him."
+        },
+        {
+            "ar": "لا يمكن أن يكون صحيحاً",
+            "en": "That can't be true."
+        },
+        {
+            "ar": "يجب عليك التوقف",
+            "en": "You must stop."
+        },
+        {
+            "ar": "قد يكون لدينا اختبار",
+            "en": "We might have a test."
+        },
+        {
+            "ar": "لا ينبغي أن تخبر أحداً",
+            "en": "You shouldn't tell anyone."
+        },
+        {
+            "ar": "سببت الإشاعة ضرراً",
+            "en": "The rumor caused harm."
+        },
+        {
+            "ar": "يجب التحقق من المعلومات",
+            "en": "We should verify the information."
+        },
+        {
+            "ar": "لا تصدق كل شيء",
+            "en": "Don't believe everything."
+        },
+        {
+            "ar": "الصمت من ذهب",
+            "en": "Silence is golden."
+        },
+        {
+            "ar": "اعترف بخطئه",
+            "en": "He admitted his mistake."
+        },
+        {
+            "ar": "شعرت بالذنب",
+            "en": "She felt guilty."
+        },
+        {
+            "ar": "طلب المغفرة",
+            "en": "He asked for forgiveness."
+        },
+        {
+            "ar": "انفصلوا للأبد",
+            "en": "They split up for good."
+        },
+        {
+            "ar": "صداقة غير مستقرة",
+            "en": "On again, off again friendship."
+        },
+        {
+            "ar": "تحدثت عنها بسوء",
+            "en": "She bad-mouthed her."
+        },
+        {
+            "ar": "انتشر الخبر",
+            "en": "The news spread."
+        },
+        {
+            "ar": "معلومات سرية",
+            "en": "Confidential information."
+        },
+        {
+            "ar": "لا تفش الأسرار",
+            "en": "Do not divulge secrets."
+        },
+        {
+            "ar": "تجنب الإهانات",
+            "en": "Avoid insults."
+        }
+    ],
+    "vocabulary": [
+        {
+            "w": "circulate",
+            "d": "move around, spread",
+            "ex": "Rumors circulate quickly."
+        },
+        {
+            "w": "criticism",
+            "d": "expression of disapproval",
+            "ex": "He couldn't handle the criticism."
+        },
+        {
+            "w": "ridicule",
+            "d": "making fun of someone",
+            "ex": "Dealing with ridicule is hard."
+        },
+        {
+            "w": "scandal",
+            "d": "event causing public outrage",
+            "ex": "The scandal was on TV."
+        },
+        {
+            "w": "virtue",
+            "d": "moral excellence",
+            "ex": "Patience is a virtue."
+        },
+        {
+            "w": "praise",
+            "d": "express approval",
+            "ex": "Praise them to their friends."
+        },
+        {
+            "w": "squash",
+            "d": "crush or stop",
+            "ex": "Squash a rumor."
+        },
+        {
+            "w": "bore",
+            "d": "dull person",
+            "ex": "A bore talks about himself."
+        },
+        {
+            "w": "brilliant",
+            "d": "exceptionally clever",
+            "ex": "A brilliant conversationalist."
+        },
+        {
+            "w": "confidential",
+            "d": "private, secret",
+            "ex": "This is confidential information."
+        },
+        {
+            "w": "derogatory",
+            "d": "showing disrespect",
+            "ex": "Derogatory comments."
+        },
+        {
+            "w": "divulge",
+            "d": "make known (private info)",
+            "ex": "Divulge a secret."
+        },
+        {
+            "w": "excluding",
+            "d": "keeping out",
+            "ex": "Excluding the person."
+        },
+        {
+            "w": "immune",
+            "d": "protected from",
+            "ex": "No one is immune to gossip."
+        },
+        {
+            "w": "malicious",
+            "d": "intended to harm",
+            "ex": "Malicious rumors."
+        },
+        {
+            "w": "superior",
+            "d": "higher in rank or quality",
+            "ex": "Need to feel superior."
+        },
+        {
+            "w": "backstabber",
+            "d": "betrayer of friendship",
+            "ex": "She is a backstabber."
+        },
+        {
+            "w": "bad-mouth",
+            "d": "criticize behind back",
+            "ex": "Don't bad-mouth your friends."
+        },
+        {
+            "w": "confront",
+            "d": "face directly",
+            "ex": "Confront the person."
+        },
+        {
+            "w": "split up",
+            "d": "end a relationship",
+            "ex": "They split up."
+        },
+        {
+            "w": "for good",
+            "d": "permanently",
+            "ex": "Gone for good."
+        },
+        {
+            "w": "behind back",
+            "d": "without knowledge",
+            "ex": "Talked behind her back."
+        },
+        {
+            "w": "lips sealed",
+            "d": "promise secrecy",
+            "ex": "My lips are sealed."
+        },
+        {
+            "w": "mayor",
+            "d": "head of a city",
+            "ex": "Candidate for mayor."
+        },
+        {
+            "w": "candidate",
+            "d": "person running for office",
+            "ex": "Vote for the candidate."
+        },
+        {
+            "w": "gossip",
+            "d": "casual conversation about others",
+            "ex": "Stop the gossip."
+        },
+        {
+            "w": "rumor",
+            "d": "unverified story",
+            "ex": "Spread a rumor."
+        },
+        {
+            "w": "advice",
+            "d": "recommendation",
+            "ex": "Give me some advice."
+        },
+        {
+            "w": "obligation",
+            "d": "duty",
+            "ex": "Moral obligation."
+        },
+        {
+            "w": "permission",
+            "d": "consent",
+            "ex": "Ask for permission."
+        },
+        {
+            "w": "possibility",
+            "d": "chance",
+            "ex": "A possibility of rain."
+        },
+        {
+            "w": "ability",
+            "d": "skill or power",
+            "ex": "Ability to drive."
+        },
+        {
+            "w": "request",
+            "d": "asking for something",
+            "ex": "Make a request."
+        },
+        {
+            "w": "reveal",
+            "d": "make known",
+            "ex": "Reveal the truth."
+        },
+        {
+            "w": "verify",
+            "d": "check truth",
+            "ex": "Verify the facts."
+        },
+        {
+            "w": "boredom",
+            "d": "feeling bored",
+            "ex": "Out of boredom."
+        },
+        {
+            "w": "status",
+            "d": "social standing",
+            "ex": "Reduces status."
+        },
+        {
+            "w": "insecurity",
+            "d": "lack of confidence",
+            "ex": "Caused by insecurity."
+        },
+        {
+            "w": "consequence",
+            "d": "result",
+            "ex": "Face the consequences."
+        },
+        {
+            "w": "ethical",
+            "d": "morally correct",
+            "ex": "Ethical behavior."
+        },
+        {
+            "w": "fairness",
+            "d": "impartial conduct",
+            "ex": "Truth and fairness."
+        },
+        {
+            "w": "demonize",
+            "d": "portray as wicked",
+            "ex": "Demonize others."
+        },
+        {
+            "w": "indulge",
+            "d": "allow oneself pleasure",
+            "ex": "Indulge in gossip."
+        },
+        {
+            "w": "bond",
+            "d": "connection",
+            "ex": "Strengthen bonds."
+        },
+        {
+            "w": "harmless",
+            "d": "not dangerous",
+            "ex": "Harmless talk."
+        },
+        {
+            "w": "urge",
+            "d": "strong desire",
+            "ex": "Feel the urge."
+        },
+        {
+            "w": "dismal",
+            "d": "depressing",
+            "ex": "Dismal news."
+        },
+        {
+            "w": "calamity",
+            "d": "disaster",
+            "ex": "Imminent calamity."
+        },
+        {
+            "w": "privacy",
+            "d": "state of being free from attention",
+            "ex": "Right to privacy."
+        }
+    ]
+}

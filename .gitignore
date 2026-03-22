@@ -1,0 +1,23 @@
+node_modules
+dist
+.DS_Store
+*.log
+
+# Environment secrets — never commit
+.env
+.env.local
+.env.*.local
+
+# Claude Code internals
+.claude/
+
+# Test & coverage reports
+coverage/
+*.lcov
+lcov-report/
+playwright-report/
+test-results/
+
+# Shell/editor artifacts
+*.HistorySavePath
+*.ps1history

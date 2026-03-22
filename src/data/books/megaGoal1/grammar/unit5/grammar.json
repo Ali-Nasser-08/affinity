@@ -1,0 +1,1082 @@
+{
+  "unit": "Mega Goal 1",
+  "lesson": "Unit 5",
+  "clusters": [
+    {
+      "clusterId": "cluster-1",
+      "title": "Reflexive Pronouns",
+      "cards": [
+        {
+          "id": "card-1",
+          "content": [
+            {
+              "text": "Reflexive Pronouns",
+              "highlight": true
+            },
+            {
+              "text": "ضمائر الانعكاس"
+            }
+          ]
+        },
+        {
+          "id": "card-2",
+          "content": [
+            {
+              "text": "When the "
+            },
+            {
+              "text": "same person",
+              "colorize2": true
+            },
+            {
+              "text": " is both doing and receiving the action, use a reflexive pronoun"
+            },
+            {
+              "text": "عندما يكون "
+            },
+            {
+              "text": "نفس الشخص",
+              "colorize2": true
+            },
+            {
+              "text": " يقوم بالفعل ويستقبله، استخدم ضمير الانعكاس"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Singular: "
+            },
+            {
+              "text": "myself",
+              "badge": true,
+              "translation": "نفسي"
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "yourself",
+              "badge": true,
+              "translation": "نفسك"
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "himself/herself/itself",
+              "badge": true,
+              "translation": "نفسه/نفسها"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Plural: "
+            },
+            {
+              "text": "ourselves",
+              "badge2": true,
+              "translation": "أنفسنا"
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "yourselves",
+              "badge2": true,
+              "translation": "أنفسكم"
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "themselves",
+              "badge2": true,
+              "translation": "أنفسهم"
+            }
+          ]
+        },
+        {
+          "id": "card-5",
+          "type": "example",
+          "content": [
+            {
+              "text": "She taught "
+            },
+            {
+              "text": "herself",
+              "colorize": true
+            },
+            {
+              "text": " how to play guitar"
+            },
+            {
+              "text": "علّمت "
+            },
+            {
+              "text": "نفسها",
+              "colorize": true
+            },
+            {
+              "text": " كيف تعزف الجيتار"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "example",
+          "content": [
+            {
+              "text": "We enjoyed "
+            },
+            {
+              "text": "ourselves",
+              "colorize": true
+            },
+            {
+              "text": " at the party"
+            },
+            {
+              "text": "استمتعنا "
+            },
+            {
+              "text": "بأنفسنا",
+              "colorize": true
+            },
+            {
+              "text": " في الحفلة"
+            }
+          ]
+        },
+        {
+          "id": "card-7",
+          "content": [
+            {
+              "text": "Note:",
+              "highlight": true
+            },
+            {
+              "text": " Reflexive pronouns can show you "
+            },
+            {
+              "text": "did something alone",
+              "colorize2": true
+            },
+            {
+              "text": " without help"
+            },
+            {
+              "text": "ملاحظة: ضمائر الانعكاس يمكن أن تظهر أنك "
+            },
+            {
+              "text": "فعلت شيئاً بمفردك",
+              "colorize2": true
+            },
+            {
+              "text": " بدون مساعدة"
+            }
+          ]
+        },
+        {
+          "id": "card-8",
+          "type": "example",
+          "content": [
+            {
+              "text": "I repaired the computer "
+            },
+            {
+              "text": "myself",
+              "colorize": true
+            },
+            {
+              "text": "أصلحت الكمبيوتر "
+            },
+            {
+              "text": "بنفسي",
+              "colorize": true
+            }
+          ]
+        },
+        {
+          "id": "card-9",
+          "type": "example",
+          "content": [
+            {
+              "text": "They built the house "
+            },
+            {
+              "text": "themselves",
+              "colorize": true
+            },
+            {
+              "text": "بنوا المنزل "
+            },
+            {
+              "text": "بأنفسهم",
+              "colorize": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-2",
+      "title": "Because versus So",
+      "cards": [
+        {
+          "id": "card-10",
+          "content": [
+            {
+              "text": "Because",
+              "highlight": true
+            },
+            {
+              "text": " versus ",
+              "highlight": true
+            },
+            {
+              "text": "So",
+              "highlight": true
+            },
+            {
+              "text": "Because مقابل So"
+            }
+          ]
+        },
+        {
+          "id": "card-11",
+          "content": [
+            {
+              "text": "Because",
+              "colorize": true
+            },
+            {
+              "text": " introduces a "
+            },
+            {
+              "text": "reason",
+              "colorize2": true
+            },
+            {
+              "text": " (explains why something happened)"
+            },
+            {
+              "text": "Because",
+              "colorize": true
+            },
+            {
+              "text": " تقدم "
+            },
+            {
+              "text": "السبب",
+              "colorize2": true
+            },
+            {
+              "text": " (تشرح لماذا حدث شيء)"
+            }
+          ]
+        },
+        {
+          "id": "card-12",
+          "type": "example",
+          "content": [
+            {
+              "text": "She stayed home "
+            },
+            {
+              "text": "because",
+              "colorize": true
+            },
+            {
+              "text": " she was tired"
+            },
+            {
+              "text": "بقيت في المنزل "
+            },
+            {
+              "text": "لأنها",
+              "colorize": true
+            },
+            {
+              "text": " كانت متعبة"
+            }
+          ]
+        },
+        {
+          "id": "card-13",
+          "type": "example",
+          "content": [
+            {
+              "text": "Many injuries occur "
+            },
+            {
+              "text": "because",
+              "colorize": true
+            },
+            {
+              "text": " people are careless"
+            },
+            {
+              "text": "تحدث العديد من الإصابات "
+            },
+            {
+              "text": "لأن",
+              "colorize": true
+            },
+            {
+              "text": " الناس مهملون"
+            }
+          ]
+        },
+        {
+          "id": "card-14",
+          "content": [
+            {
+              "text": "So",
+              "colorize": true
+            },
+            {
+              "text": " introduces a "
+            },
+            {
+              "text": "result or consequence",
+              "colorize2": true
+            },
+            {
+              "text": " (shows what happened next)"
+            },
+            {
+              "text": "So",
+              "colorize": true
+            },
+            {
+              "text": " تقدم "
+            },
+            {
+              "text": "نتيجة أو عواقب",
+              "colorize2": true
+            },
+            {
+              "text": " (تظهر ما حدث بعد ذلك)"
+            }
+          ]
+        },
+        {
+          "id": "card-15",
+          "type": "example",
+          "content": [
+            {
+              "text": "She was tired, "
+            },
+            {
+              "text": "so",
+              "colorize": true
+            },
+            {
+              "text": " she went to bed early"
+            },
+            {
+              "text": "كانت متعبة، "
+            },
+            {
+              "text": "لذلك",
+              "colorize": true
+            },
+            {
+              "text": " ذهبت للنوم مبكراً"
+            }
+          ]
+        },
+        {
+          "id": "card-16",
+          "type": "example",
+          "content": [
+            {
+              "text": "He forgot to study, "
+            },
+            {
+              "text": "so",
+              "colorize": true
+            },
+            {
+              "text": " he failed the test"
+            },
+            {
+              "text": "نسي أن يدرس، "
+            },
+            {
+              "text": "لذلك",
+              "colorize": true
+            },
+            {
+              "text": " رسب في الاختبار"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-3",
+      "title": "So and Neither - Showing Agreement",
+      "cards": [
+        {
+          "id": "card-17",
+          "content": [
+            {
+              "text": "So",
+              "highlight": true
+            },
+            {
+              "text": " and ",
+              "highlight": true
+            },
+            {
+              "text": "Neither",
+              "highlight": true
+            },
+            {
+              "text": " - Showing Agreement"
+            },
+            {
+              "text": "So و Neither - إظهار الموافقة"
+            }
+          ]
+        },
+        {
+          "id": "card-18",
+          "content": [
+            {
+              "text": "Both express "
+            },
+            {
+              "text": "agreement",
+              "colorize2": true
+            },
+            {
+              "text": " with what someone said"
+            },
+            {
+              "text": "كلاهما يعبر عن "
+            },
+            {
+              "text": "الموافقة",
+              "colorize2": true
+            },
+            {
+              "text": " مع ما قاله شخص ما"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-4",
+      "title": "So - Agreeing with Positive Statements",
+      "cards": [
+        {
+          "id": "card-19",
+          "content": [
+            {
+              "text": "So",
+              "highlight": true
+            },
+            {
+              "text": " - Agreeing with Positive Statements"
+            },
+            {
+              "text": "So - الموافقة مع العبارات الإيجابية"
+            }
+          ]
+        },
+        {
+          "id": "card-20",
+          "content": [
+            {
+              "text": "Use "
+            },
+            {
+              "text": "So",
+              "colorize": true
+            },
+            {
+              "text": " to agree with a "
+            },
+            {
+              "text": "positive statement",
+              "colorize2": true
+            },
+            {
+              "text": "استخدم "
+            },
+            {
+              "text": "So",
+              "colorize": true
+            },
+            {
+              "text": " للموافقة مع "
+            },
+            {
+              "text": "عبارة إيجابية",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-21",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "So",
+              "badge": true,
+              "translation": "أنا أيضاً"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "auxiliary/be",
+              "badge2": true,
+              "translation": "فعل مساعد"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "subject",
+              "badge3": true,
+              "translation": "الفاعل"
+            }
+          ]
+        },
+        {
+          "id": "card-22",
+          "type": "example",
+          "content": [
+            {
+              "text": "A: I'm interested in technology"
+            },
+            {
+              "text": "أ: أنا مهتم بالتكنولوجيا"
+            }
+          ]
+        },
+        {
+          "id": "card-23",
+          "type": "example",
+          "content": [
+            {
+              "text": "B: "
+            },
+            {
+              "text": "So",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "am",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "I",
+              "colorize3": true
+            },
+            {
+              "text": "ب: "
+            },
+            {
+              "text": "أنا",
+              "colorize3": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "أيضاً",
+              "colorize": true
+            }
+          ]
+        },
+        {
+          "id": "card-24",
+          "type": "example",
+          "content": [
+            {
+              "text": "A: I exercise every day"
+            },
+            {
+              "text": "أ: أمارس الرياضة كل يوم"
+            }
+          ]
+        },
+        {
+          "id": "card-25",
+          "type": "example",
+          "content": [
+            {
+              "text": "B: "
+            },
+            {
+              "text": "So",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "do",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "I",
+              "colorize3": true
+            },
+            {
+              "text": "ب: "
+            },
+            {
+              "text": "أنا",
+              "colorize3": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "أيضاً",
+              "colorize": true
+            }
+          ]
+        },
+        {
+          "id": "card-26",
+          "type": "example",
+          "content": [
+            {
+              "text": "A: I studied hard last night"
+            },
+            {
+              "text": "أ: درست بجد الليلة الماضية"
+            }
+          ]
+        },
+        {
+          "id": "card-27",
+          "type": "example",
+          "content": [
+            {
+              "text": "B: "
+            },
+            {
+              "text": "So",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "did",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "I",
+              "colorize3": true
+            },
+            {
+              "text": "ب: "
+            },
+            {
+              "text": "أنا",
+              "colorize3": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "أيضاً",
+              "colorize": true
+            }
+          ]
+        },
+        {
+          "id": "card-28",
+          "type": "example",
+          "content": [
+            {
+              "text": "A: I've visited Dubai twice"
+            },
+            {
+              "text": "أ: زرت دبي مرتين"
+            }
+          ]
+        },
+        {
+          "id": "card-29",
+          "type": "example",
+          "content": [
+            {
+              "text": "B: "
+            },
+            {
+              "text": "So",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "have",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "I",
+              "colorize3": true
+            },
+            {
+              "text": "ب: "
+            },
+            {
+              "text": "أنا",
+              "colorize3": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "أيضاً",
+              "colorize": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clusterId": "cluster-5",
+      "title": "Neither - Agreeing with Negative Statements",
+      "cards": [
+        {
+          "id": "card-30",
+          "content": [
+            {
+              "text": "Neither",
+              "highlight": true
+            },
+            {
+              "text": " - Agreeing with Negative Statements"
+            },
+            {
+              "text": "Neither - الموافقة مع العبارات السلبية"
+            }
+          ]
+        },
+        {
+          "id": "card-31",
+          "content": [
+            {
+              "text": "Use "
+            },
+            {
+              "text": "Neither",
+              "colorize": true
+            },
+            {
+              "text": " to agree with a "
+            },
+            {
+              "text": "negative statement",
+              "colorize2": true
+            },
+            {
+              "text": "استخدم "
+            },
+            {
+              "text": "Neither",
+              "colorize": true
+            },
+            {
+              "text": " للموافقة مع "
+            },
+            {
+              "text": "عبارة سلبية",
+              "colorize2": true
+            }
+          ]
+        },
+        {
+          "id": "card-32",
+          "wide": true,
+          "type": "structure",
+          "content": [
+            {
+              "text": "Neither",
+              "badge": true,
+              "translation": "وَلَا"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "auxiliary/be",
+              "badge2": true,
+              "translation": "مُسَاعِد"
+            },
+            {
+              "text": " + "
+            },
+            {
+              "text": "subject",
+              "badge3": true,
+              "translation": "فَاعِل"
+            }
+          ]
+        },
+        {
+          "id": "card-33",
+          "type": "example",
+          "content": [
+            {
+              "text": "A: I'm not good at swimming"
+            },
+            {
+              "text": "أ: لستُ جيداً في السباحة"
+            }
+          ]
+        },
+        {
+          "id": "card-34",
+          "type": "example",
+          "content": [
+            {
+              "text": "B: "
+            },
+            {
+              "text": "Neither",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "am",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "I",
+              "colorize3": true
+            },
+            {
+              "text": "ب: "
+            },
+            {
+              "text": "ولا",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "أنا",
+              "colorize3": true
+            },
+            {
+              "text": " أيضاً"
+            }
+          ]
+        },
+        {
+          "id": "card-35",
+          "type": "example",
+          "content": [
+            {
+              "text": "A: I don't like spicy food"
+            },
+            {
+              "text": "أ: لا أحب الطعام الحار"
+            }
+          ]
+        },
+        {
+          "id": "card-36",
+          "type": "example",
+          "content": [
+            {
+              "text": "B: "
+            },
+            {
+              "text": "Neither",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "do",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "I",
+              "colorize3": true
+            },
+            {
+              "text": "ب: "
+            },
+            {
+              "text": "ولا",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "أنا",
+              "colorize3": true
+            },
+            {
+              "text": " أيضاً"
+            }
+          ]
+        },
+        {
+          "id": "card-37",
+          "type": "example",
+          "content": [
+            {
+              "text": "A: I didn't watch the game yesterday"
+            },
+            {
+              "text": "أ: لم أشاهد المباراة أمس"
+            }
+          ]
+        },
+        {
+          "id": "card-38",
+          "type": "example",
+          "content": [
+            {
+              "text": "B: "
+            },
+            {
+              "text": "Neither",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "did",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "I",
+              "colorize3": true
+            },
+            {
+              "text": "ب: "
+            },
+            {
+              "text": "ولا",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "أنا",
+              "colorize3": true
+            },
+            {
+              "text": " أيضاً"
+            }
+          ]
+        },
+        {
+          "id": "card-39",
+          "type": "example",
+          "content": [
+            {
+              "text": "A: I've never tried skydiving"
+            },
+            {
+              "text": "أ: لم أجرب القفز المظلي من قبل"
+            }
+          ]
+        },
+        {
+          "id": "card-40",
+          "type": "example",
+          "content": [
+            {
+              "text": "B: "
+            },
+            {
+              "text": "Neither",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "have",
+              "colorize2": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "I",
+              "colorize3": true
+            },
+            {
+              "text": "ب: "
+            },
+            {
+              "text": "ولا",
+              "colorize": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "أنا",
+              "colorize3": true
+            },
+            {
+              "text": " أيضاً"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

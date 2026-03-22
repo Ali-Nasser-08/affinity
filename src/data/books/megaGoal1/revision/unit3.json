@@ -1,0 +1,2621 @@
+{
+    "unit": "Mega Goal 1 - Unit 3: Future Plans",
+    "type": "revision",
+    "totalQuestions": 100,
+    "currentBatch": 1,
+    "sections": [
+        {
+            "section": "grammar",
+            "questions": [
+                {
+                    "id": "G1",
+                    "difficulty": 2,
+                    "arabicHint": "خطة مسبقة (Going to)",
+                    "question": "Choose the correct form for a planned action.",
+                    "prompt": [
+                        {
+                            "text": "I bought my ticket yesterday. I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " to London next week."
+                        }
+                    ],
+                    "options": [
+                        "will fly",
+                        "am going to fly",
+                        "fly",
+                        "flew"
+                    ],
+                    "answer": "am going to fly",
+                    "explanation": "Use 'be going to' for plans made before the moment of speaking."
+                },
+                {
+                    "id": "G2",
+                    "difficulty": 1,
+                    "arabicHint": "قرار لحظي (Will)",
+                    "question": "Select the correct form for a spontaneous decision.",
+                    "prompt": [
+                        {
+                            "text": "The phone is ringing. I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " it."
+                        }
+                    ],
+                    "options": [
+                        "answer",
+                        "am going to answer",
+                        "will answer",
+                        "answered"
+                    ],
+                    "answer": "will answer",
+                    "explanation": "Use 'will' for decisions made at the moment of speaking."
+                },
+                {
+                    "id": "G3",
+                    "difficulty": 2,
+                    "arabicHint": "المستقبل المستمر",
+                    "question": "Choose the correct future progressive form.",
+                    "prompt": [
+                        {
+                            "text": "At this time tomorrow, I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " on the beach."
+                        }
+                    ],
+                    "options": [
+                        "will lie",
+                        "will be lying",
+                        "am lying",
+                        "lie"
+                    ],
+                    "answer": "will be lying",
+                    "explanation": "Use future progressive (will be + ing) for actions in progress at a specific future time."
+                },
+                {
+                    "id": "G4",
+                    "difficulty": 1,
+                    "arabicHint": "توقع عام (Will)",
+                    "question": "Select the correct form for a general prediction.",
+                    "prompt": [
+                        {
+                            "text": "I think people "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " to Mars in the future."
+                        }
+                    ],
+                    "options": [
+                        "travel",
+                        "will travel",
+                        "are traveling",
+                        "traveled"
+                    ],
+                    "answer": "will travel",
+                    "explanation": "Use 'will' for general predictions about the future."
+                },
+                {
+                    "id": "G5",
+                    "difficulty": 3,
+                    "arabicHint": "توقع بناءً على دليل (Going to)",
+                    "question": "Choose the correct form based on evidence.",
+                    "prompt": [
+                        {
+                            "text": "Look at those dark clouds! It "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " rain soon."
+                        }
+                    ],
+                    "options": [
+                        "will",
+                        "is going to",
+                        "shall",
+                        "is"
+                    ],
+                    "answer": "is going to",
+                    "explanation": "Use 'be going to' when there is present evidence for a future event."
+                },
+                {
+                    "id": "G6",
+                    "difficulty": 2,
+                    "arabicHint": "النفي في المستقبل (Won't)",
+                    "question": "Select the correct negative form.",
+                    "prompt": [
+                        {
+                            "text": "I promise I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " tell anyone your secret."
+                        }
+                    ],
+                    "options": [
+                        "don't",
+                        "won't",
+                        "am not going to",
+                        "didn't"
+                    ],
+                    "answer": "won't",
+                    "explanation": "Use 'won't' (will not) for negative promises or decisions."
+                },
+                {
+                    "id": "G7",
+                    "difficulty": 2,
+                    "arabicHint": "السؤال عن المستقبل (Will)",
+                    "question": "Choose the correct question form.",
+                    "prompt": [
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " you help me with this box?"
+                        }
+                    ],
+                    "options": [
+                        "Do",
+                        "Are",
+                        "Will",
+                        "Have"
+                    ],
+                    "answer": "Will",
+                    "explanation": "Use 'Will' to ask for help or make offers."
+                },
+                {
+                    "id": "G8",
+                    "difficulty": 3,
+                    "arabicHint": "المستقبل المستمر في السؤال",
+                    "question": "Select the correct progressive question form.",
+                    "prompt": [
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " you be working next weekend?"
+                        }
+                    ],
+                    "options": [
+                        "Do",
+                        "Are",
+                        "Will",
+                        "Have"
+                    ],
+                    "answer": "Will",
+                    "explanation": "Future progressive questions start with 'Will' + subject + 'be' + verb-ing."
+                },
+                {
+                    "id": "G9",
+                    "difficulty": 1,
+                    "arabicHint": "الإجابة القصيرة (Yes)",
+                    "question": "Choose the correct short answer.",
+                    "prompt": [
+                        {
+                            "text": "Will you come to the party? Yes, "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "I do",
+                        "I am",
+                        "I will",
+                        "I come"
+                    ],
+                    "answer": "I will",
+                    "explanation": "Short answers with 'will' repeat the auxiliary verb."
+                },
+                {
+                    "id": "G10",
+                    "difficulty": 1,
+                    "arabicHint": "الإجابة القصيرة (No)",
+                    "question": "Select the correct negative short answer.",
+                    "prompt": [
+                        {
+                            "text": "Are they going to move? No, "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "they won't",
+                        "they aren't",
+                        "they don't",
+                        "they haven't"
+                    ],
+                    "answer": "they aren't",
+                    "explanation": "Short answers match the auxiliary used in the question ('Are' -> 'aren't')."
+                },
+                {
+                    "id": "G11",
+                    "difficulty": 2,
+                    "arabicHint": "خطة مؤكدة (Going to)",
+                    "question": "Choose the correct form for a definite plan.",
+                    "prompt": [
+                        {
+                            "text": "We have saved money. We "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " a new car."
+                        }
+                    ],
+                    "options": [
+                        "will buy",
+                        "are going to buy",
+                        "buy",
+                        "bought"
+                    ],
+                    "answer": "are going to buy",
+                    "explanation": "Use 'be going to' when the plan is already decided and prepared for."
+                },
+                {
+                    "id": "G12",
+                    "difficulty": 3,
+                    "arabicHint": "عدم اليقين (Maybe + Will)",
+                    "question": "Select the correct form with 'maybe'.",
+                    "prompt": [
+                        {
+                            "text": "I haven't decided yet. Maybe I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " stay home."
+                        }
+                    ],
+                    "options": [
+                        "am going to",
+                        "will",
+                        "am",
+                        "have"
+                    ],
+                    "answer": "will",
+                    "explanation": "Use 'will' with 'maybe' to express uncertainty about the future."
+                },
+                {
+                    "id": "G13",
+                    "difficulty": 2,
+                    "arabicHint": "المستقبل المستمر للنفي",
+                    "question": "Choose the correct negative progressive form.",
+                    "prompt": [
+                        {
+                            "text": "Don't call me at 8 PM. I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " dinner."
+                        }
+                    ],
+                    "options": [
+                        "won't be having",
+                        "don't have",
+                        "am not going to have",
+                        "didn't have"
+                    ],
+                    "answer": "won't be having",
+                    "explanation": "Use future progressive negative to say an action will not be in progress."
+                },
+                {
+                    "id": "G14",
+                    "difficulty": 1,
+                    "arabicHint": "وعد (Will)",
+                    "question": "Select the correct form for a promise.",
+                    "prompt": [
+                        {
+                            "text": "I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " always love you."
+                        }
+                    ],
+                    "options": [
+                        "am going to",
+                        "will",
+                        "am",
+                        "do"
+                    ],
+                    "answer": "will",
+                    "explanation": "Use 'will' for promises and commitments."
+                },
+                {
+                    "id": "G15",
+                    "difficulty": 3,
+                    "arabicHint": "المستقبل المستمر مع وقت محدد",
+                    "question": "Choose the correct tense for a specific future moment.",
+                    "prompt": [
+                        {
+                            "text": "At midnight tonight, we "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " across the border."
+                        }
+                    ],
+                    "options": [
+                        "will drive",
+                        "will be driving",
+                        "drive",
+                        "are driving"
+                    ],
+                    "answer": "will be driving",
+                    "explanation": "Future progressive emphasizes the action happening at that exact future moment."
+                },
+                {
+                    "id": "G16",
+                    "difficulty": 2,
+                    "arabicHint": "النفي مع Going to",
+                    "question": "Select the correct negative form for plans.",
+                    "prompt": [
+                        {
+                            "text": "She "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " study medicine; she wants to be an engineer."
+                        }
+                    ],
+                    "options": [
+                        "won't",
+                        "isn't going to",
+                        "doesn't",
+                        "didn't"
+                    ],
+                    "answer": "isn't going to",
+                    "explanation": "Use 'not going to' to negate a planned intention."
+                },
+                {
+                    "id": "G17",
+                    "difficulty": 2,
+                    "arabicHint": "السؤال عن الخطط (Going to)",
+                    "question": "Choose the correct question structure.",
+                    "prompt": [
+                        {
+                            "text": "What "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " you going to do tomorrow?"
+                        }
+                    ],
+                    "options": [
+                        "will",
+                        "are",
+                        "do",
+                        "have"
+                    ],
+                    "answer": "are",
+                    "explanation": "The structure is 'What + are + subject + going to + verb'."
+                },
+                {
+                    "id": "G18",
+                    "difficulty": 3,
+                    "arabicHint": "المستقبل المستمر للفعل المستمر",
+                    "question": "Select the correct form for parallel future actions.",
+                    "prompt": [
+                        {
+                            "text": "While you are sleeping, I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " on my project."
+                        }
+                    ],
+                    "options": [
+                        "will work",
+                        "will be working",
+                        "work",
+                        "am working"
+                    ],
+                    "answer": "will be working",
+                    "explanation": "Future progressive is used for actions that will be in progress at a future time."
+                },
+                {
+                    "id": "G19",
+                    "difficulty": 1,
+                    "arabicHint": "توقع عام (Will)",
+                    "question": "Choose the correct prediction form.",
+                    "prompt": [
+                        {
+                            "text": "In the future, robots "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " all the housework."
+                        }
+                    ],
+                    "options": [
+                        "do",
+                        "will do",
+                        "are doing",
+                        "did"
+                    ],
+                    "answer": "will do",
+                    "explanation": "Use 'will' for general predictions about future technology or life."
+                },
+                {
+                    "id": "G20",
+                    "difficulty": 2,
+                    "arabicHint": "الإجابة القصيرة النافية (Will)",
+                    "question": "Select the correct short answer.",
+                    "prompt": [
+                        {
+                            "text": "Will it snow tomorrow? I hope "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "so",
+                        "not",
+                        "no",
+                        "yes"
+                    ],
+                    "answer": "not",
+                    "explanation": "'I hope not' is the standard phrase to express hope that something will not happen."
+                },
+                {
+                    "id": "G21",
+                    "difficulty": 1,
+                    "arabicHint": "توقع عام بدون دليل",
+                    "question": "Choose the correct form for a general prediction.",
+                    "prompt": [
+                        {
+                            "text": "I think humans "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " on the moon again soon."
+                        }
+                    ],
+                    "options": [
+                        "walk",
+                        "will walk",
+                        "are walking",
+                        "walked"
+                    ],
+                    "answer": "will walk",
+                    "explanation": "Use 'will' for predictions based on opinion rather than present evidence."
+                },
+                {
+                    "id": "G22",
+                    "difficulty": 2,
+                    "arabicHint": "خطة مسبقة (Going to)",
+                    "question": "Select the correct form for an arranged plan.",
+                    "prompt": [
+                        {
+                            "text": "We have already booked the hotel. We "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " in Paris."
+                        }
+                    ],
+                    "options": [
+                        "will stay",
+                        "are going to stay",
+                        "stay",
+                        "stayed"
+                    ],
+                    "answer": "are going to stay",
+                    "explanation": "Use 'be going to' when the plan is already made and arranged."
+                },
+                {
+                    "id": "G23",
+                    "difficulty": 3,
+                    "arabicHint": "المستقبل المستمر لوقت محدد",
+                    "question": "Choose the correct progressive form for a specific time.",
+                    "prompt": [
+                        {
+                            "text": "At 10 AM tomorrow, I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " an important meeting."
+                        }
+                    ],
+                    "options": [
+                        "will attend",
+                        "will be attending",
+                        "am attending",
+                        "attend"
+                    ],
+                    "answer": "will be attending",
+                    "explanation": "Use future progressive for actions that will be in progress at a specific future time."
+                },
+                {
+                    "id": "G24",
+                    "difficulty": 1,
+                    "arabicHint": "عرض مساعدة (Will)",
+                    "question": "Select the correct form for an offer.",
+                    "prompt": [
+                        {
+                            "text": "That box looks heavy. I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " help you carry it."
+                        }
+                    ],
+                    "options": [
+                        "am going to",
+                        "will",
+                        "am",
+                        "do"
+                    ],
+                    "answer": "will",
+                    "explanation": "Use 'will' for spontaneous offers to help someone."
+                },
+                {
+                    "id": "G25",
+                    "difficulty": 2,
+                    "arabicHint": "توقع بناءً على دليل مرئي",
+                    "question": "Choose the correct form based on evidence.",
+                    "prompt": [
+                        {
+                            "text": "Look at the traffic! We "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " be late for the movie."
+                        }
+                    ],
+                    "options": [
+                        "will",
+                        "are going to",
+                        "shall",
+                        "is"
+                    ],
+                    "answer": "are going to",
+                    "explanation": "Use 'be going to' when there is present evidence (traffic) for the prediction."
+                },
+                {
+                    "id": "G26",
+                    "difficulty": 2,
+                    "arabicHint": "النفي في المستقبل المستمر",
+                    "question": "Select the correct negative progressive form.",
+                    "prompt": [
+                        {
+                            "text": "Don't call at 9 PM. I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " sleeping then."
+                        }
+                    ],
+                    "options": [
+                        "won't be",
+                        "don't be",
+                        "am not going to",
+                        "didn't be"
+                    ],
+                    "answer": "won't be",
+                    "explanation": "Use 'won't be + ing' to say an action will not be happening at a future time."
+                },
+                {
+                    "id": "G27",
+                    "difficulty": 1,
+                    "arabicHint": "الإجابة القصيرة الموجبة",
+                    "question": "Choose the correct short answer.",
+                    "prompt": [
+                        {
+                            "text": "Will you join us? Yes, I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "do",
+                        "am",
+                        "will",
+                        "join"
+                    ],
+                    "answer": "will",
+                    "explanation": "Short answers repeat the auxiliary verb used in the question."
+                },
+                {
+                    "id": "G28",
+                    "difficulty": 3,
+                    "arabicHint": "أفعال متوازية في المستقبل",
+                    "question": "Select the correct form for simultaneous future actions.",
+                    "prompt": [
+                        {
+                            "text": "While you are studying, I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " dinner."
+                        }
+                    ],
+                    "options": [
+                        "will cook",
+                        "will be cooking",
+                        "cook",
+                        "am cooking"
+                    ],
+                    "answer": "will be cooking",
+                    "explanation": "Future progressive emphasizes the action will be in progress during another action."
+                },
+                {
+                    "id": "G29",
+                    "difficulty": 2,
+                    "arabicHint": "سؤال عن الخطة (Going to)",
+                    "question": "Choose the correct auxiliary for the question.",
+                    "prompt": [
+                        {
+                            "text": "What "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " you going to wear to the party?"
+                        }
+                    ],
+                    "options": [
+                        "will",
+                        "are",
+                        "do",
+                        "have"
+                    ],
+                    "answer": "are",
+                    "explanation": "The structure for 'going to' questions uses the verb 'to be' (am/is/are)."
+                },
+                {
+                    "id": "G30",
+                    "difficulty": 1,
+                    "arabicHint": "وعد للمستقبل",
+                    "question": "Select the correct form for a promise.",
+                    "prompt": [
+                        {
+                            "text": "Don't worry. I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " call you when I arrive."
+                        }
+                    ],
+                    "options": [
+                        "am going to",
+                        "will",
+                        "am",
+                        "do"
+                    ],
+                    "answer": "will",
+                    "explanation": "Use 'will' to make promises about the future."
+                },
+                {
+                    "id": "G31",
+                    "difficulty": 2,
+                    "arabicHint": "عدم اليقين مع Maybe",
+                    "question": "Choose the correct form with 'maybe'.",
+                    "prompt": [
+                        {
+                            "text": "I haven't decided yet. Maybe I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " go to the cinema."
+                        }
+                    ],
+                    "options": [
+                        "am going to",
+                        "will",
+                        "am",
+                        "have"
+                    ],
+                    "answer": "will",
+                    "explanation": "Use 'will' with 'maybe' to express uncertainty or lack of a firm plan."
+                },
+                {
+                    "id": "G32",
+                    "difficulty": 3,
+                    "arabicHint": "التمييز بين Will و Going to",
+                    "question": "Select the best form based on context.",
+                    "prompt": [
+                        {
+                            "text": "I bought the wood yesterday. I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " build a shelf."
+                        }
+                    ],
+                    "options": [
+                        "will",
+                        "am going to",
+                        "am",
+                        "do"
+                    ],
+                    "answer": "am going to",
+                    "explanation": "Buying the wood shows a prior plan, so 'be going to' is correct."
+                },
+                {
+                    "id": "G33",
+                    "difficulty": 1,
+                    "arabicHint": "المستقبل المستمر مع وقت محدد",
+                    "question": "Choose the correct tense marker.",
+                    "prompt": [
+                        {
+                            "text": "_____ this time next week, we will be flying to Japan."
+                        }
+                    ],
+                    "options": [
+                        "In",
+                        "At",
+                        "On",
+                        "By"
+                    ],
+                    "answer": "At",
+                    "explanation": "Use 'At' with specific times like 'this time next week' for future progressive."
+                },
+                {
+                    "id": "G34",
+                    "difficulty": 2,
+                    "arabicHint": "النفي للخطة (Not Going to)",
+                    "question": "Select the correct negative plan form.",
+                    "prompt": [
+                        {
+                            "text": "She "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " travel this year; she wants to save money."
+                        }
+                    ],
+                    "options": [
+                        "won't",
+                        "isn't going to",
+                        "doesn't",
+                        "didn't"
+                    ],
+                    "answer": "isn't going to",
+                    "explanation": "Use 'not going to' to express a decided intention not to do something."
+                },
+                {
+                    "id": "G35",
+                    "difficulty": 3,
+                    "arabicHint": "سؤال المستقبل المستمر",
+                    "question": "Choose the correct question structure.",
+                    "prompt": [
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " they be waiting for us at the station?"
+                        }
+                    ],
+                    "options": [
+                        "Do",
+                        "Are",
+                        "Will",
+                        "Have"
+                    ],
+                    "answer": "Will",
+                    "explanation": "Future progressive questions start with 'Will' + subject + 'be' + verb-ing."
+                },
+                {
+                    "id": "G36",
+                    "difficulty": 1,
+                    "arabicHint": "توقع تكنولوجي",
+                    "question": "Select the correct prediction form.",
+                    "prompt": [
+                        {
+                            "text": "In the future, cars "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " themselves."
+                        }
+                    ],
+                    "options": [
+                        "drive",
+                        "will drive",
+                        "are driving",
+                        "drove"
+                    ],
+                    "answer": "will drive",
+                    "explanation": "Use 'will' for general predictions about future technology."
+                },
+                {
+                    "id": "G37",
+                    "difficulty": 2,
+                    "arabicHint": "خطة مؤكدة للمستقبل",
+                    "question": "Choose the correct form for a fixed arrangement.",
+                    "prompt": [
+                        {
+                            "text": "They have set a date. They "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " get married in June."
+                        }
+                    ],
+                    "options": [
+                        "will",
+                        "are going to",
+                        "do",
+                        "did"
+                    ],
+                    "answer": "are going to",
+                    "explanation": "Setting a date indicates a firm plan, requiring 'be going to'."
+                },
+                {
+                    "id": "G38",
+                    "difficulty": 3,
+                    "arabicHint": "المستقبل المستمر مع While",
+                    "question": "Select the correct verb form for parallel actions.",
+                    "prompt": [
+                        {
+                            "text": "He "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " driving while you navigate."
+                        }
+                    ],
+                    "options": [
+                        "will",
+                        "will be",
+                        "is",
+                        "does"
+                    ],
+                    "answer": "will be",
+                    "explanation": "Use 'will be + ing' for an action in progress during another future action."
+                },
+                {
+                    "id": "G39",
+                    "difficulty": 1,
+                    "arabicHint": "الإجابة القصيرة النافية",
+                    "question": "Choose the correct negative short answer.",
+                    "prompt": [
+                        {
+                            "text": "Will they win the game? No, they "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "don't",
+                        "aren't",
+                        "won't",
+                        "haven't"
+                    ],
+                    "answer": "won't",
+                    "explanation": "The negative short answer for 'Will' is 'won't' (will not)."
+                },
+                {
+                    "id": "G40",
+                    "difficulty": 2,
+                    "arabicHint": "التعبير عن الأمل",
+                    "question": "Select the correct phrase for negative hope.",
+                    "prompt": [
+                        {
+                            "text": "Will it rain on our wedding day? I hope "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "so",
+                        "not",
+                        "no",
+                        "never"
+                    ],
+                    "answer": "not",
+                    "explanation": "'I hope not' is used to express hope that something will not happen."
+                },
+                {
+                    "id": "G41",
+                    "difficulty": 2,
+                    "arabicHint": "المستقبل المستمر لوقت محدد",
+                    "question": "Choose the correct future progressive form.",
+                    "prompt": [
+                        {
+                            "text": "At this time tomorrow, she "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " her final exam."
+                        }
+                    ],
+                    "options": [
+                        "will take",
+                        "will be taking",
+                        "takes",
+                        "is taking"
+                    ],
+                    "answer": "will be taking",
+                    "explanation": "Use future progressive for an action in progress at a specific future time."
+                },
+                {
+                    "id": "G42",
+                    "difficulty": 3,
+                    "arabicHint": "خطة مسبقة مقابل توقع",
+                    "question": "Select the best form based on the context.",
+                    "prompt": [
+                        {
+                            "text": "I have bought the paint. I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " paint my room this weekend."
+                        }
+                    ],
+                    "options": [
+                        "will",
+                        "am going to",
+                        "am",
+                        "do"
+                    ],
+                    "answer": "am going to",
+                    "explanation": "Buying the paint indicates a prior plan, so 'be going to' is appropriate."
+                },
+                {
+                    "id": "G43",
+                    "difficulty": 1,
+                    "arabicHint": "الإجابة القصيرة (Going to)",
+                    "question": "Choose the correct short answer.",
+                    "prompt": [
+                        {
+                            "text": "Are you going to watch the game? Yes, "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "I will",
+                        "I am",
+                        "I do",
+                        "I have"
+                    ],
+                    "answer": "I am",
+                    "explanation": "Short answers match the auxiliary verb 'are' from the question."
+                },
+                {
+                    "id": "G44",
+                    "difficulty": 1,
+                    "arabicHint": "وعد للمستقبل",
+                    "question": "Select the correct form for a promise.",
+                    "prompt": [
+                        {
+                            "text": "I promise I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " forget your birthday."
+                        }
+                    ],
+                    "options": [
+                        "am not going to",
+                        "won't",
+                        "don't",
+                        "didn't"
+                    ],
+                    "answer": "won't",
+                    "explanation": "Use 'won't' for making promises about the future."
+                },
+                {
+                    "id": "G45",
+                    "difficulty": 2,
+                    "arabicHint": "توقع بناءً على دليل",
+                    "question": "Choose the correct form based on evidence.",
+                    "prompt": [
+                        {
+                            "text": "Look at the score! They "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " win the match easily."
+                        }
+                    ],
+                    "options": [
+                        "will",
+                        "are going to",
+                        "shall",
+                        "is"
+                    ],
+                    "answer": "are going to",
+                    "explanation": "Use 'be going to' when there is present evidence (the score) for the prediction."
+                },
+                {
+                    "id": "G46",
+                    "difficulty": 3,
+                    "arabicHint": "النفي في المستقبل المستمر",
+                    "question": "Select the correct negative progressive form.",
+                    "prompt": [
+                        {
+                            "text": "Don't worry, I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " staying late tonight."
+                        }
+                    ],
+                    "options": [
+                        "won't be",
+                        "don't be",
+                        "am not going to",
+                        "didn't be"
+                    ],
+                    "answer": "won't be",
+                    "explanation": "Use 'won't be + ing' to negate an action in progress at a future time."
+                },
+                {
+                    "id": "G47",
+                    "difficulty": 2,
+                    "arabicHint": "التعبير عن الرأي",
+                    "question": "Choose the correct phrase for positive opinion.",
+                    "prompt": [
+                        {
+                            "text": "Will they arrive on time? I think "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "not",
+                        "so",
+                        "no",
+                        "yes"
+                    ],
+                    "answer": "so",
+                    "explanation": "'I think so' is used to express a positive opinion or belief."
+                },
+                {
+                    "id": "G48",
+                    "difficulty": 1,
+                    "arabicHint": "قرار لحظي",
+                    "question": "Select the correct form for a spontaneous decision.",
+                    "prompt": [
+                        {
+                            "text": "It's cold in here. I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " close the window."
+                        }
+                    ],
+                    "options": [
+                        "am going to",
+                        "will",
+                        "am",
+                        "do"
+                    ],
+                    "answer": "will",
+                    "explanation": "Use 'will' for decisions made at the moment of speaking."
+                },
+                {
+                    "id": "G49",
+                    "difficulty": 2,
+                    "arabicHint": "سؤال المستقبل المستمر",
+                    "question": "Choose the correct question structure.",
+                    "prompt": [
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " you be using the car tonight?"
+                        }
+                    ],
+                    "options": [
+                        "Do",
+                        "Are",
+                        "Will",
+                        "Have"
+                    ],
+                    "answer": "Will",
+                    "explanation": "Future progressive questions begin with 'Will' + subject + 'be'."
+                },
+                {
+                    "id": "G50",
+                    "difficulty": 1,
+                    "arabicHint": "أدوات الزمن (أيام الأسبوع)",
+                    "question": "Select the correct preposition.",
+                    "prompt": [
+                        {
+                            "text": "We are going to travel "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " Friday."
+                        }
+                    ],
+                    "options": [
+                        "in",
+                        "at",
+                        "on",
+                        "by"
+                    ],
+                    "answer": "on",
+                    "explanation": "Use 'on' for specific days of the week."
+                },
+                {
+                    "id": "G51",
+                    "difficulty": 2,
+                    "arabicHint": "خطة مؤكدة",
+                    "question": "Choose the correct form for a fixed plan.",
+                    "prompt": [
+                        {
+                            "text": "She has saved enough money. She "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " buy a laptop."
+                        }
+                    ],
+                    "options": [
+                        "will",
+                        "is going to",
+                        "is",
+                        "does"
+                    ],
+                    "answer": "is going to",
+                    "explanation": "Saving money indicates a prepared plan, requiring 'be going to'."
+                },
+                {
+                    "id": "G52",
+                    "difficulty": 1,
+                    "arabicHint": "توقع عام",
+                    "question": "Select the correct prediction form.",
+                    "prompt": [
+                        {
+                            "text": "In the future, everyone "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " have a robot helper."
+                        }
+                    ],
+                    "options": [
+                        "will",
+                        "is going to",
+                        "is",
+                        "does"
+                    ],
+                    "answer": "will",
+                    "explanation": "Use 'will' for general predictions about the distant future."
+                },
+                {
+                    "id": "G53",
+                    "difficulty": 3,
+                    "arabicHint": "أفعال متوازية في المستقبل",
+                    "question": "Choose the correct form for simultaneous actions.",
+                    "prompt": [
+                        {
+                            "text": "While you are resting, I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " the cleaning."
+                        }
+                    ],
+                    "options": [
+                        "will do",
+                        "will be doing",
+                        "do",
+                        "am doing"
+                    ],
+                    "answer": "will be doing",
+                    "explanation": "Future progressive emphasizes the action will be in progress during another action."
+                },
+                {
+                    "id": "G54",
+                    "difficulty": 2,
+                    "arabicHint": "النفي مع Won't",
+                    "question": "Select the correct negative form.",
+                    "prompt": [
+                        {
+                            "text": "I know he "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " agree to the proposal."
+                        }
+                    ],
+                    "options": [
+                        "don't",
+                        "won't",
+                        "isn't",
+                        "doesn't"
+                    ],
+                    "answer": "won't",
+                    "explanation": "Use 'won't' for negative predictions or decisions."
+                },
+                {
+                    "id": "G55",
+                    "difficulty": 1,
+                    "arabicHint": "عرض مساعدة",
+                    "question": "Choose the correct form for an offer.",
+                    "prompt": [
+                        {
+                            "text": "You look tired. I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " make you some tea."
+                        }
+                    ],
+                    "options": [
+                        "am going to",
+                        "will",
+                        "am",
+                        "do"
+                    ],
+                    "answer": "will",
+                    "explanation": "Use 'will' for spontaneous offers to help."
+                },
+                {
+                    "id": "G56",
+                    "difficulty": 3,
+                    "arabicHint": "المستقبل المستمر للسياق",
+                    "question": "Select the correct form based on the warning.",
+                    "prompt": [
+                        {
+                            "text": "Don't visit us at noon. We "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " lunch."
+                        }
+                    ],
+                    "options": [
+                        "will have",
+                        "will be having",
+                        "have",
+                        "had"
+                    ],
+                    "answer": "will be having",
+                    "explanation": "The warning implies an action in progress at that specific future time."
+                },
+                {
+                    "id": "G57",
+                    "difficulty": 2,
+                    "arabicHint": "عدم اليقين",
+                    "question": "Choose the correct form with 'maybe'.",
+                    "prompt": [
+                        {
+                            "text": "I'm not sure yet. Maybe I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " join you later."
+                        }
+                    ],
+                    "options": [
+                        "am going to",
+                        "will",
+                        "am",
+                        "have"
+                    ],
+                    "answer": "will",
+                    "explanation": "Use 'will' with 'maybe' to express uncertainty."
+                },
+                {
+                    "id": "G58",
+                    "difficulty": 1,
+                    "arabicHint": "الإجابة القصيرة النافية",
+                    "question": "Select the correct negative short answer.",
+                    "prompt": [
+                        {
+                            "text": "Will you tell him? No, I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "don't",
+                        "am not",
+                        "won't",
+                        "haven't"
+                    ],
+                    "answer": "won't",
+                    "explanation": "The negative short answer for 'Will' is 'won't'."
+                },
+                {
+                    "id": "G59",
+                    "difficulty": 3,
+                    "arabicHint": "المستقبل المستمر مع وقت دقيق",
+                    "question": "Choose the correct tense for a specific moment.",
+                    "prompt": [
+                        {
+                            "text": "Exactly one year from now, I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " in a new city."
+                        }
+                    ],
+                    "options": [
+                        "will live",
+                        "will be living",
+                        "live",
+                        "am living"
+                    ],
+                    "answer": "will be living",
+                    "explanation": "Future progressive is used for actions in progress at a specific future date."
+                },
+                {
+                    "id": "G60",
+                    "difficulty": 2,
+                    "arabicHint": "مراجعة شاملة للمستقبل",
+                    "question": "Select the best form to complete the dialogue.",
+                    "prompt": [
+                        {
+                            "text": "What are your plans? I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " visit my grandmother."
+                        }
+                    ],
+                    "options": [
+                        "will",
+                        "am going to",
+                        "am",
+                        "do"
+                    ],
+                    "answer": "am going to",
+                    "explanation": "Asking about 'plans' implies a prior decision, so 'be going to' is correct."
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "questions": [
+                {
+                    "id": "V1",
+                    "difficulty": 3,
+                    "arabicHint": "شخص لديه رؤية مستقبلية",
+                    "question": "Choose the word for someone who imagines the future.",
+                    "prompt": [
+                        {
+                            "text": "People called him a "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " because his ideas came true years later."
+                        }
+                    ],
+                    "options": [
+                        "visionary",
+                        "visitor",
+                        "villain",
+                        "victim"
+                    ],
+                    "answer": "visionary",
+                    "explanation": "A visionary is a person with original ideas about what the future will or could be like."
+                },
+                {
+                    "id": "V2",
+                    "difficulty": 2,
+                    "arabicHint": "توقع للمستقبل",
+                    "question": "Select the noun meaning 'a statement about the future'.",
+                    "prompt": [
+                        {
+                            "text": "His "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " about flying cars was correct."
+                        }
+                    ],
+                    "options": [
+                        "prediction",
+                        "prevention",
+                        "production",
+                        "protection"
+                    ],
+                    "answer": "prediction",
+                    "explanation": "A prediction is a statement about what you think will happen in the future."
+                },
+                {
+                    "id": "V3",
+                    "difficulty": 2,
+                    "arabicHint": "شيء تم اختراعه",
+                    "question": "Choose the word for something created for the first time.",
+                    "prompt": [
+                        {
+                            "text": "The light bulb was a famous "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " by Thomas Edison."
+                        }
+                    ],
+                    "options": [
+                        "invention",
+                        "invitation",
+                        "investigation",
+                        "information"
+                    ],
+                    "answer": "invention",
+                    "explanation": "An invention is a unique or novel device, method, or process developed from study and experimentation."
+                },
+                {
+                    "id": "V4",
+                    "difficulty": 2,
+                    "arabicHint": "غواصة",
+                    "question": "Select the vehicle that travels underwater.",
+                    "prompt": [
+                        {
+                            "text": "The captain steered the "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " deep below the ocean surface."
+                        }
+                    ],
+                    "options": [
+                        "submarine",
+                        "airplane",
+                        "helicopter",
+                        "motorcycle"
+                    ],
+                    "answer": "submarine",
+                    "explanation": "A submarine is a watercraft capable of independent operation underwater."
+                },
+                {
+                    "id": "V5",
+                    "difficulty": 1,
+                    "arabicHint": "صاروخ فضائي",
+                    "question": "Choose the vehicle used for space travel.",
+                    "prompt": [
+                        {
+                            "text": "Astronauts traveled to the moon in a "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "rocket",
+                        "bicycle",
+                        "boat",
+                        "bus"
+                    ],
+                    "answer": "rocket",
+                    "explanation": "A rocket is a vehicle that obtains thrust from a rocket engine, used for space travel."
+                },
+                {
+                    "id": "V6",
+                    "difficulty": 1,
+                    "arabicHint": "ناطحة سحاب",
+                    "question": "Select the word for a very tall building.",
+                    "prompt": [
+                        {
+                            "text": "The office is located in a glass "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " downtown."
+                        }
+                    ],
+                    "options": [
+                        "skyscraper",
+                        "cottage",
+                        "tent",
+                        "bungalow"
+                    ],
+                    "answer": "skyscraper",
+                    "explanation": "A skyscraper is a very tall building of many stories."
+                },
+                {
+                    "id": "V7",
+                    "difficulty": 2,
+                    "arabicHint": "سيارة (كلمة رسمية)",
+                    "question": "Choose the formal word for a car.",
+                    "prompt": [
+                        {
+                            "text": "Henry Ford changed the way people bought an "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "automobile",
+                        "animal",
+                        "automatic",
+                        "autopilot"
+                    ],
+                    "answer": "automobile",
+                    "explanation": "Automobile is a formal term for a road vehicle, typically with four wheels, powered by an internal combustion engine."
+                },
+                {
+                    "id": "V8",
+                    "difficulty": 2,
+                    "arabicHint": "جهاز كهربائي منزلي",
+                    "question": "Select the word for a machine used in the house.",
+                    "prompt": [
+                        {
+                            "text": "A refrigerator is an essential kitchen "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "appliance",
+                        "application",
+                        "appointment",
+                        "appetite"
+                    ],
+                    "answer": "appliance",
+                    "explanation": "An appliance is a device or machine, usually electrical, that performs a specific household function."
+                },
+                {
+                    "id": "V9",
+                    "difficulty": 3,
+                    "arabicHint": "يصبح شائعاً",
+                    "question": "Choose the phrasal verb meaning 'become popular'.",
+                    "prompt": [
+                        {
+                            "text": "Everyone thought the idea was strange, but it eventually started to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "catch on",
+                        "catch up",
+                        "catch off",
+                        "catch in"
+                    ],
+                    "answer": "catch on",
+                    "explanation": "'Catch on' means to become popular or fashionable."
+                },
+                {
+                    "id": "V10",
+                    "difficulty": 2,
+                    "arabicHint": "الواقع والحقيقة",
+                    "question": "Select the word meaning 'something that actually exists'.",
+                    "prompt": [
+                        {
+                            "text": "His dream seemed impossible, but it became a "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "reality",
+                        "relativity",
+                        "realization",
+                        "royalty"
+                    ],
+                    "answer": "reality",
+                    "explanation": "Reality is the state of things as they actually exist, as opposed to an idealistic or notional idea of them."
+                },
+                {
+                    "id": "V11",
+                    "difficulty": 1,
+                    "arabicHint": "رواية",
+                    "question": "Choose the word for a long fictional story.",
+                    "prompt": [
+                        {
+                            "text": "She wrote a famous "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " about life in the year 3000."
+                        }
+                    ],
+                    "options": [
+                        "novel",
+                        "note",
+                        "name",
+                        "nose"
+                    ],
+                    "answer": "novel",
+                    "explanation": "A novel is a fictitious prose narrative of book length, typically representing character and action."
+                },
+                {
+                    "id": "V12",
+                    "difficulty": 3,
+                    "arabicHint": "أعماق المحيط",
+                    "question": "Select the word for the deepest part of something.",
+                    "prompt": [
+                        {
+                            "text": "The submarine explored the "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " of the Pacific Ocean."
+                        }
+                    ],
+                    "options": [
+                        "depths",
+                        "heights",
+                        "widths",
+                        "lengths"
+                    ],
+                    "answer": "depths",
+                    "explanation": "Depths refer to the deep part of a body of water, especially the sea."
+                },
+                {
+                    "id": "V13",
+                    "difficulty": 2,
+                    "arabicHint": "شبكة اتصالات",
+                    "question": "Choose the word for a system of connected lines.",
+                    "prompt": [
+                        {
+                            "text": "The internet is a global communications "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "network",
+                        "netball",
+                        "nettle",
+                        "neckwork"
+                    ],
+                    "answer": "network",
+                    "explanation": "A network is a group or system of interconnected people or things."
+                },
+                {
+                    "id": "V14",
+                    "difficulty": 2,
+                    "arabicHint": "عقد عمل",
+                    "question": "Select the word for a written agreement.",
+                    "prompt": [
+                        {
+                            "text": "The player signed a "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " to play for the team for five years."
+                        }
+                    ],
+                    "options": [
+                        "contract",
+                        "contact",
+                        "contrast",
+                        "construct"
+                    ],
+                    "answer": "contract",
+                    "explanation": "A contract is a written or spoken agreement, especially one concerning employment, sales, or tenancy, that is intended to be enforceable by law."
+                },
+                {
+                    "id": "V15",
+                    "difficulty": 1,
+                    "arabicHint": "مستلزمات منزلية وطعام",
+                    "question": "Choose the word for food and household items bought from a store.",
+                    "prompt": [
+                        {
+                            "text": "We need to go to the supermarket to buy "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " for the week."
+                        }
+                    ],
+                    "options": [
+                        "groceries",
+                        "graduates",
+                        "gradients",
+                        "grammars"
+                    ],
+                    "answer": "groceries",
+                    "explanation": "Groceries are food and other goods sold by a grocer or supermarket."
+                },
+                {
+                    "id": "V16",
+                    "difficulty": 2,
+                    "arabicHint": "بالتأكيد (موافقة)",
+                    "question": "Choose the word used to express agreement or confirmation.",
+                    "prompt": [
+                        {
+                            "text": "Will you help me with this project? "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": ", I would be happy to."
+                        }
+                    ],
+                    "options": [
+                        "Certainly",
+                        "Maybe",
+                        "Never",
+                        "Doubtfully"
+                    ],
+                    "answer": "Certainly",
+                    "explanation": "'Certainly' is used to express complete agreement or willingness."
+                },
+                {
+                    "id": "V17",
+                    "difficulty": 3,
+                    "arabicHint": "هل تمزح؟ (دهشة)",
+                    "question": "Select the phrase used to express surprise or disbelief.",
+                    "prompt": [
+                        {
+                            "text": "I just met the president. "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": "? That is incredible!"
+                        }
+                    ],
+                    "options": [
+                        "No kidding",
+                        "No problem",
+                        "No way",
+                        "No matter"
+                    ],
+                    "answer": "No kidding",
+                    "explanation": "'No kidding' is an informal expression used to show surprise or ask if someone is serious."
+                },
+                {
+                    "id": "V18",
+                    "difficulty": 2,
+                    "arabicHint": "علاج شافي",
+                    "question": "Choose the word for a medical solution to a disease.",
+                    "prompt": [
+                        {
+                            "text": "Scientists are working hard to find a "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " for diabetes."
+                        }
+                    ],
+                    "options": [
+                        "cure",
+                        "curve",
+                        "curse",
+                        "current"
+                    ],
+                    "answer": "cure",
+                    "explanation": "A cure is a substance or treatment that resolves a medical condition."
+                },
+                {
+                    "id": "V19",
+                    "difficulty": 1,
+                    "arabicHint": "الاحتباس الحراري",
+                    "question": "Select the term for the rise in Earth's temperature.",
+                    "prompt": [
+                        {
+                            "text": "_____ is causing ice caps to melt faster."
+                        }
+                    ],
+                    "options": [
+                        "Global warming",
+                        "Global cooling",
+                        "Global trading",
+                        "Global reading"
+                    ],
+                    "answer": "Global warming",
+                    "explanation": "Global warming refers to the long-term heating of Earth's climate system."
+                },
+                {
+                    "id": "V20",
+                    "difficulty": 2,
+                    "arabicHint": "يحافظ على / يحمي",
+                    "question": "Choose the verb meaning 'to protect something'.",
+                    "prompt": [
+                        {
+                            "text": "We must "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " the forests for future generations."
+                        }
+                    ],
+                    "options": [
+                        "preserve",
+                        "destroy",
+                        "ignore",
+                        "waste"
+                    ],
+                    "answer": "preserve",
+                    "explanation": "Preserve means to maintain something in its original or existing state."
+                },
+                {
+                    "id": "V21",
+                    "difficulty": 1,
+                    "arabicHint": "البيئة الطبيعية",
+                    "question": "Select the word for the natural world.",
+                    "prompt": [
+                        {
+                            "text": "Recycling helps protect the "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "environment",
+                        "experiment",
+                        "equipment",
+                        "evaluation"
+                    ],
+                    "answer": "environment",
+                    "explanation": "The environment is the surroundings or conditions in which a person, animal, or plant lives."
+                },
+                {
+                    "id": "V22",
+                    "difficulty": 1,
+                    "arabicHint": "التلوث",
+                    "question": "Choose the word for harmful substances in the air or water.",
+                    "prompt": [
+                        {
+                            "text": "Factories should reduce air "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " to keep the city clean."
+                        }
+                    ],
+                    "options": [
+                        "pollution",
+                        "solution",
+                        "revolution",
+                        "evolution"
+                    ],
+                    "answer": "pollution",
+                    "explanation": "Pollution is the presence of poisonous substances in the environment."
+                },
+                {
+                    "id": "V23",
+                    "difficulty": 2,
+                    "arabicHint": "أنواع الكائنات",
+                    "question": "Select the word for a group of similar animals or plants.",
+                    "prompt": [
+                        {
+                            "text": "Many rare "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " are at risk of extinction."
+                        }
+                    ],
+                    "options": [
+                        "species",
+                        "spices",
+                        "spaces",
+                        "spheres"
+                    ],
+                    "answer": "species",
+                    "explanation": "A species is a group of living organisms consisting of similar individuals capable of exchanging genes."
+                },
+                {
+                    "id": "V24",
+                    "difficulty": 2,
+                    "arabicHint": "منزل ذكي",
+                    "question": "Choose the adjective for a house with advanced technology.",
+                    "prompt": [
+                        {
+                            "text": "An "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " home can control the lights automatically."
+                        }
+                    ],
+                    "options": [
+                        "intelligent",
+                        "intelligent",
+                        "industrial",
+                        "internal"
+                    ],
+                    "answer": "intelligent",
+                    "explanation": "In this context, intelligent refers to a building equipped with automated systems."
+                },
+                {
+                    "id": "V25",
+                    "difficulty": 3,
+                    "arabicHint": "يراقب / يتابع",
+                    "question": "Select the verb meaning 'to watch and check'.",
+                    "prompt": [
+                        {
+                            "text": "Security cameras "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " the building 24 hours a day."
+                        }
+                    ],
+                    "options": [
+                        "monitor",
+                        "mountain",
+                        "motion",
+                        "month"
+                    ],
+                    "answer": "monitor",
+                    "explanation": "Monitor means to observe and check the progress or quality of something over a period of time."
+                },
+                {
+                    "id": "V26",
+                    "difficulty": 3,
+                    "arabicHint": "يحسن / يفعّل الكفاءة",
+                    "question": "Choose the verb meaning 'to make the best use of'.",
+                    "prompt": [
+                        {
+                            "text": "The software helps "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " the battery life of the phone."
+                        }
+                    ],
+                    "options": [
+                        "optimize",
+                        "organize",
+                        "originate",
+                        "orient"
+                    ],
+                    "answer": "optimize",
+                    "explanation": "Optimize means to make the best or most effective use of a situation or resource."
+                },
+                {
+                    "id": "V27",
+                    "difficulty": 3,
+                    "arabicHint": "مدمج / موحد",
+                    "question": "Select the adjective for combined systems.",
+                    "prompt": [
+                        {
+                            "text": "The kitchen has an "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " system for heating and cooling."
+                        }
+                    ],
+                    "options": [
+                        "integrated",
+                        "interested",
+                        "international",
+                        "interrupted"
+                    ],
+                    "answer": "integrated",
+                    "explanation": "Integrated means combining one thing with another so that they become a whole."
+                },
+                {
+                    "id": "V28",
+                    "difficulty": 2,
+                    "arabicHint": "بصمة الإصبع",
+                    "question": "Choose the biometric security method.",
+                    "prompt": [
+                        {
+                            "text": "The phone unlocks using your "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "fingerprint",
+                        "footprint",
+                        "handprint",
+                        "printout"
+                    ],
+                    "answer": "fingerprint",
+                    "explanation": "A fingerprint is the impression made by the pattern of ridges on the tip of a finger."
+                },
+                {
+                    "id": "V29",
+                    "difficulty": 2,
+                    "arabicHint": "تلقائياً",
+                    "question": "Select the adverb meaning 'without human intervention'.",
+                    "prompt": [
+                        {
+                            "text": "The doors open "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " when you approach."
+                        }
+                    ],
+                    "options": [
+                        "automatically",
+                        "manually",
+                        "slowly",
+                        "rarely"
+                    ],
+                    "answer": "automatically",
+                    "explanation": "Automatically means by itself, without direct human control."
+                },
+                {
+                    "id": "V30",
+                    "difficulty": 2,
+                    "arabicHint": "مجهز بـ",
+                    "question": "Choose the adjective meaning 'provided with necessary items'.",
+                    "prompt": [
+                        {
+                            "text": "The car is "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " with a GPS navigation system."
+                        }
+                    ],
+                    "options": [
+                        "equipped",
+                        "escaped",
+                        "expected",
+                        "examined"
+                    ],
+                    "answer": "equipped",
+                    "explanation": "Equipped means supplied with the necessary items for a particular purpose."
+                },
+                {
+                    "id": "V31",
+                    "difficulty": 1,
+                    "arabicHint": "يتجمع / يجتمع",
+                    "question": "Choose the verb meaning 'to come together'.",
+                    "prompt": [
+                        {
+                            "text": "Crowds began to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " in the square for the celebration."
+                        }
+                    ],
+                    "options": [
+                        "gather",
+                        "scatter",
+                        "separate",
+                        "divide"
+                    ],
+                    "answer": "gather",
+                    "explanation": "Gather means to come together or assemble in one place."
+                },
+                {
+                    "id": "V32",
+                    "difficulty": 2,
+                    "arabicHint": "يشهد حدثاً",
+                    "question": "Select the verb meaning 'to see an event happen'.",
+                    "prompt": [
+                        {
+                            "text": "Did anyone "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " the accident near the bank?"
+                        }
+                    ],
+                    "options": [
+                        "witness",
+                        "ignore",
+                        "predict",
+                        "hide"
+                    ],
+                    "answer": "witness",
+                    "explanation": "Witness means to see an event, typically a crime or accident, take place."
+                },
+                {
+                    "id": "V33",
+                    "difficulty": 1,
+                    "arabicHint": "دبوس شعر",
+                    "question": "Choose the item used to hold hair in place.",
+                    "prompt": [
+                        {
+                            "text": "She used a "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " to keep her hair out of her eyes."
+                        }
+                    ],
+                    "options": [
+                        "bobby pin",
+                        "paper clip",
+                        "safety pin",
+                        "hair brush"
+                    ],
+                    "answer": "bobby pin",
+                    "explanation": "A bobby pin is a small metal clip used to hold hair in place."
+                },
+                {
+                    "id": "V34",
+                    "difficulty": 2,
+                    "arabicHint": "عفا عليه الزمن",
+                    "question": "Select the adjective meaning 'outdated'.",
+                    "prompt": [
+                        {
+                            "text": "Floppy disks are now considered "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " technology."
+                        }
+                    ],
+                    "options": [
+                        "obsolete",
+                        "modern",
+                        "new",
+                        "fresh"
+                    ],
+                    "answer": "obsolete",
+                    "explanation": "Obsolete means no longer produced or used; out of date."
+                },
+                {
+                    "id": "V35",
+                    "difficulty": 2,
+                    "arabicHint": "خزنة محكمة",
+                    "question": "Choose the noun for a secure room for money.",
+                    "prompt": [
+                        {
+                            "text": "The bank keeps gold bars in a secure "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "vault",
+                        "belt",
+                        "box",
+                        "bag"
+                    ],
+                    "answer": "vault",
+                    "explanation": "A vault is a secure room or compartment, typically in a bank, for storing valuables."
+                },
+                {
+                    "id": "V36",
+                    "difficulty": 3,
+                    "arabicHint": "يتحمل / يقاوم",
+                    "question": "Select the verb meaning 'to resist or survive'.",
+                    "prompt": [
+                        {
+                            "text": "This bridge is built to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " strong earthquakes."
+                        }
+                    ],
+                    "options": [
+                        "withstand",
+                        "withdraw",
+                        "withhold",
+                        "wither"
+                    ],
+                    "answer": "withstand",
+                    "explanation": "Withstand means to remain undamaged or unaffected by something."
+                },
+                {
+                    "id": "V37",
+                    "difficulty": 2,
+                    "arabicHint": "يجتمع حول",
+                    "question": "Choose the correct verb for joining together.",
+                    "prompt": [
+                        {
+                            "text": "Please "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": " around the table for the meeting."
+                        }
+                    ],
+                    "options": [
+                        "gather",
+                        "leave",
+                        "run",
+                        "sleep"
+                    ],
+                    "answer": "gather",
+                    "explanation": "Gather implies coming together in a group."
+                },
+                {
+                    "id": "V38",
+                    "difficulty": 3,
+                    "arabicHint": "يشهد في المحكمة",
+                    "question": "Select the word related to giving evidence.",
+                    "prompt": [
+                        {
+                            "text": "The police asked him to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " in court about what he saw."
+                        }
+                    ],
+                    "options": [
+                        "witness",
+                        "guess",
+                        "lie",
+                        "forget"
+                    ],
+                    "answer": "witness",
+                    "explanation": "To witness can also mean to give evidence about something seen."
+                },
+                {
+                    "id": "V39",
+                    "difficulty": 3,
+                    "arabicHint": "أصبح قديماً",
+                    "question": "Choose the word for technology that is no longer useful.",
+                    "prompt": [
+                        {
+                            "text": "Many people worry that robots will make human jobs "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "obsolete",
+                        "essential",
+                        "important",
+                        "necessary"
+                    ],
+                    "answer": "obsolete",
+                    "explanation": "Obsolete describes something that is no longer needed because something newer exists."
+                },
+                {
+                    "id": "V40",
+                    "difficulty": 2,
+                    "arabicHint": "يقاوم الضغط",
+                    "question": "Select the verb for surviving difficult conditions.",
+                    "prompt": [
+                        {
+                            "text": "Plants in the desert must "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "colorize": true
+                        },
+                        {
+                            "text": " extreme heat."
+                        }
+                    ],
+                    "options": [
+                        "withstand",
+                        "welcome",
+                        "enjoy",
+                        "avoid"
+                    ],
+                    "answer": "withstand",
+                    "explanation": "Withstand means to survive or endure harsh conditions."
+                }
+            ]
+        }
+    ]
+}

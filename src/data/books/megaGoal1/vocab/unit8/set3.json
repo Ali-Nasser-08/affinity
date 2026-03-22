@@ -1,0 +1,590 @@
+{
+    "unit": "Mega Goal 1 - Unit 8: Wishful Thinking",
+    "type": "reading",
+    "setTitle": "Reading: Money – A Blessing or a Problem?",
+    "words": [
+        {
+            "word": "strain",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To put "
+                },
+                {
+                    "text": "pressure or tension",
+                    "highlight": true
+                },
+                {
+                    "text": " on a relationship, system, or "
+                },
+                {
+                    "text": "person's abilities",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُجهد / يُثقل كاهل",
+            "synonyms": [
+                "stress",
+                "burden",
+                "put pressure on"
+            ],
+            "example": [
+                {
+                    "text": "Working three jobs really began to "
+                },
+                {
+                    "text": "strain",
+                    "colorize": true
+                },
+                {
+                    "text": " his health and his marriage"
+                }
+            ],
+            "tips": "Can be physical (strain a muscle) or emotional/relational (strain a friendship). Noun form: 'a strain' = source of pressure."
+        },
+        {
+            "word": "bankruptcy",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The legal state of being "
+                },
+                {
+                    "text": "unable to pay debts",
+                    "highlight": true
+                },
+                {
+                    "text": "; complete "
+                },
+                {
+                    "text": "financial failure",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "إفلاس",
+            "synonyms": [
+                "insolvency",
+                "financial ruin"
+            ],
+            "example": [
+                {
+                    "text": "After the factory closed, the owner declared "
+                },
+                {
+                    "text": "bankruptcy",
+                    "colorize": true
+                },
+                {
+                    "text": " and had to sell his house"
+                }
+            ],
+            "tips": "Formal legal term. Not the same as 'broke' (informal, temporary lack of cash). Bankruptcy involves courts and debt restructuring."
+        },
+        {
+            "word": "handle",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "deal with or manage",
+                    "highlight": true
+                },
+                {
+                    "text": " a difficult situation, responsibility, or "
+                },
+                {
+                    "text": "strong emotion",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يتعامل مع / يُدير",
+            "synonyms": [
+                "manage",
+                "cope with",
+                "deal with"
+            ],
+            "example": [
+                {
+                    "text": "She doesn't know if she can "
+                },
+                {
+                    "text": "handle",
+                    "colorize": true
+                },
+                {
+                    "text": " the stress of being a single parent while studying full-time"
+                }
+            ],
+            "tips": "Very common verb for emotional/mental challenges. NOT the same as physical 'handle' (the part of a cup you hold)."
+        },
+        {
+            "word": "vulnerable",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Easily "
+                },
+                {
+                    "text": "hurt, influenced, or attacked",
+                    "highlight": true
+                },
+                {
+                    "text": "; lacking "
+                },
+                {
+                    "text": "protection or defense",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ضعيف / عرضة للخطر",
+            "synonyms": [
+                "defenseless",
+                "exposed",
+                "at risk"
+            ],
+            "example": [
+                {
+                    "text": "New immigrants can feel especially "
+                },
+                {
+                    "text": "vulnerable",
+                    "colorize": true
+                },
+                {
+                    "text": " when they don't understand the local language or laws"
+                }
+            ],
+            "tips": "Often used for emotional states ('feel vulnerable') or physical safety ('vulnerable population'). Opposite: secure/protected."
+        },
+        {
+            "word": "take advantage of",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "exploit or misuse",
+                    "highlight": true
+                },
+                {
+                    "text": " someone's trust, weakness, or generosity "
+                },
+                {
+                    "text": "for personal gain",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يستغل",
+            "synonyms": [
+                "exploit",
+                "manipulate",
+                "use unfairly"
+            ],
+            "example": [
+                {
+                    "text": "That contractor tried to "
+                },
+                {
+                    "text": "take advantage of",
+                    "colorize": true
+                },
+                {
+                    "text": " my grandmother by charging triple the normal price for simple repairs"
+                }
+            ],
+            "tips": "Negative meaning here (exploit). Can also mean 'use an opportunity wisely' (positive): 'I'll take advantage of the sale to buy winter clothes.' Context determines meaning!"
+        },
+        {
+            "word": "easy prey",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "Someone who is "
+                },
+                {
+                    "text": "easily tricked or victimized",
+                    "highlight": true
+                },
+                {
+                    "text": " because they are "
+                },
+                {
+                    "text": "unsuspecting or defenseless",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "فريسة سهلة",
+            "synonyms": [
+                "sitting duck",
+                "easy target",
+                "vulnerable victim"
+            ],
+            "example": [
+                {
+                    "text": "Tourists who flash expensive cameras often become "
+                },
+                {
+                    "text": "easy prey",
+                    "colorize": true
+                },
+                {
+                    "text": " for pickpockets in crowded markets"
+                }
+            ],
+            "tips": "Metaphor from hunting/animals. 'Prey' = animal hunted for food. Never say 'easy pray' (common spelling mistake – 'pray' is religious)."
+        },
+        {
+            "word": "venture",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "risky business project",
+                    "highlight": true
+                },
+                {
+                    "text": " or undertaking that involves "
+                },
+                {
+                    "text": "uncertainty and potential loss",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مغامرة تجارية / مشروع محفوف بالمخاطر",
+            "synonyms": [
+                "enterprise",
+                "undertaking",
+                "risky project"
+            ],
+            "example": [
+                {
+                    "text": "Starting a food truck in a new city was a risky "
+                },
+                {
+                    "text": "venture",
+                    "colorize": true
+                },
+                {
+                    "text": ", but it became profitable within six months"
+                }
+            ],
+            "tips": "Often used with 'business venture' or 'joint venture' (partnership). Verb form: 'venture into' = enter cautiously ('venture into a new market')."
+        },
+        {
+            "word": "broke",
+            "wordType": "adjective (informal)",
+            "definition": [
+                {
+                    "text": "Having "
+                },
+                {
+                    "text": "no money at all",
+                    "highlight": true
+                },
+                {
+                    "text": "; completely "
+                },
+                {
+                    "text": "without funds",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مفلس / بلا مال",
+            "synonyms": [
+                "penniless",
+                "flat broke",
+                "out of money"
+            ],
+            "example": [
+                {
+                    "text": "After paying for the emergency car repair, I was completely "
+                },
+                {
+                    "text": "broke",
+                    "colorize": true
+                },
+                {
+                    "text": " until my next paycheck arrived"
+                }
+            ],
+            "tips": "Very common informal term. NOT the past tense of 'break' (though related etymologically). 'Broke' = state of having no money; 'broken' = damaged object."
+        },
+        {
+            "word": "nuisance",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A person or thing that causes "
+                },
+                {
+                    "text": "annoyance, inconvenience",
+                    "highlight": true
+                },
+                {
+                    "text": ", or "
+                },
+                {
+                    "text": "trouble",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مصدر إزعاج / متطفّل",
+            "synonyms": [
+                "bother",
+                "pest",
+                "annoyance"
+            ],
+            "example": [
+                {
+                    "text": "The neighbor's dog became a real "
+                },
+                {
+                    "text": "nuisance",
+                    "colorize": true
+                },
+                {
+                    "text": " when it started barking loudly every night at 2 a.m."
+                }
+            ],
+            "tips": "Can describe people ('He's such a nuisance') or situations ('traffic jams are a nuisance'). Legal term: 'public nuisance' = something harming community welfare."
+        },
+        {
+            "word": "sanity",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The state of being "
+                },
+                {
+                    "text": "mentally healthy and rational",
+                    "highlight": true
+                },
+                {
+                    "text": "; soundness of "
+                },
+                {
+                    "text": "mind and judgment",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "صحة عقلية / عقلانية",
+            "synonyms": [
+                "mental stability",
+                "sound mind",
+                "rationality"
+            ],
+            "example": [
+                {
+                    "text": "After three sleepless nights caring for her sick baby, she wondered if she was losing her "
+                },
+                {
+                    "text": "sanity",
+                    "colorize": true
+                },
+                {
+                    "text": ""
+                }
+            ],
+            "tips": "Often used in expressions: 'save your sanity' (protect mental health), 'question your sanity' (doubt your own judgment). Not the same as 'sanitary' (clean/hygienic)."
+        },
+        {
+            "word": "nightmare",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "An extremely "
+                },
+                {
+                    "text": "unpleasant or frightening experience",
+                    "highlight": true
+                },
+                {
+                    "text": " (not just a bad dream while "
+                },
+                {
+                    "text": "sleeping)",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "كابوس / تجربة مرعبة",
+            "synonyms": [
+                "horror",
+                "ordeal",
+                "disaster"
+            ],
+            "example": [
+                {
+                    "text": "Organizing the conference with only two days' notice turned into a complete "
+                },
+                {
+                    "text": "nightmare",
+                    "colorize": true
+                },
+                {
+                    "text": " with missing speakers and technical failures"
+                }
+            ],
+            "tips": "Commonly used metaphorically for real-life disasters. Adjective form: 'nightmarish' (a nightmarish situation)."
+        },
+        {
+            "word": "inherit",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "receive money, property, or position",
+                    "highlight": true
+                },
+                {
+                    "text": " from someone after their "
+                },
+                {
+                    "text": "death",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يرث",
+            "synonyms": [
+                "receive as an heir",
+                "come into"
+            ],
+            "example": [
+                {
+                    "text": "She didn't expect to "
+                },
+                {
+                    "text": "inherit",
+                    "colorize": true
+                },
+                {
+                    "text": " her grandfather's antique watch collection, but he left it to her in his will"
+                }
+            ],
+            "tips": "Only used for receiving after death (not gifts while alive). Can also mean 'receive characteristics': 'He inherited his father's sense of humor.'"
+        },
+        {
+            "word": "flashy",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Designed to "
+                },
+                {
+                    "text": "attract attention",
+                    "highlight": true
+                },
+                {
+                    "text": " in a showy, often "
+                },
+                {
+                    "text": "tasteless way",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "برّاق / مُتباهٍ",
+            "synonyms": [
+                "showy",
+                "gaudy",
+                "ostentatious"
+            ],
+            "example": [
+                {
+                    "text": "He wore a "
+                },
+                {
+                    "text": "flashy",
+                    "colorize": true
+                },
+                {
+                    "text": " gold suit with bright red shoes to the formal dinner party"
+                }
+            ],
+            "tips": "Usually negative connotation – implies trying too hard to impress. Opposite: modest, understated, elegant."
+        },
+        {
+            "word": "stake",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "share or financial interest",
+                    "highlight": true
+                },
+                {
+                    "text": " in a business or project; the amount of money "
+                },
+                {
+                    "text": "invested",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حصة / استثمار",
+            "synonyms": [
+                "share",
+                "investment",
+                "interest"
+            ],
+            "example": [
+                {
+                    "text": "She bought a 25% "
+                },
+                {
+                    "text": "stake",
+                    "colorize": true
+                },
+                {
+                    "text": " in her friend's new café and now receives quarterly profits"
+                }
+            ],
+            "tips": "Also a verb: 'to stake a claim' (assert ownership). Idiom: 'at stake' = in danger of being lost ('His reputation is at stake')."
+        },
+        {
+            "word": "advisory",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Giving "
+                },
+                {
+                    "text": "professional advice or recommendations",
+                    "highlight": true
+                },
+                {
+                    "text": "; providing "
+                },
+                {
+                    "text": "expert guidance",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "استشاري",
+            "synonyms": [
+                "consultative",
+                "counseling",
+                "guidance-oriented"
+            ],
+            "example": [
+                {
+                    "text": "The university hired an "
+                },
+                {
+                    "text": "advisory",
+                    "colorize": true
+                },
+                {
+                    "text": " committee of scientists to review the new research proposal"
+                }
+            ],
+            "tips": "Common collocations: advisory board, advisory team, advisory role. Not the same as 'advice' (noun) – advisory is the adjective form describing the nature of the service."
+        }
+    ]
+}

@@ -1,0 +1,1195 @@
+{
+    "unit": "Mega Goal 1",
+    "lesson": "Unit 12",
+    "type": "Form, Meaning, and Function",
+    "clusters": [
+        {
+            "clusterId": "cluster-1",
+            "title": "Environmental and Natural Disaster Vocabulary",
+            "cards": [
+                {
+                    "id": "card-1",
+                    "content": [
+                        {
+                            "text": "Environment and Natural Disasters",
+                            "highlight": true
+                        },
+                        {
+                            "text": "البيئة والكوارث الطبيعية"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-2",
+                    "content": [
+                        {
+                            "text": "Environmental Issues:",
+                            "highlight": true
+                        },
+                        {
+                            "text": " climate change, soil loss, air contamination, water contamination, excessive fishing, forest clearing"
+                        },
+                        {
+                            "text": "القضايا البيئية: تغير المناخ، فقدان التربة، تلوث الهواء، تلوث الماء، الصيد الجائر، إزالة الغابات"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-3",
+                    "content": [
+                        {
+                            "text": "Natural Disasters:",
+                            "highlight": true
+                        },
+                        {
+                            "text": " flooding, earthquakes, tornadoes, tsunamis, volcanic eruptions, wildfires"
+                        },
+                        {
+                            "text": "الكوارث الطبيعية: الفيضانات، الزلازل، الأعاصير، أمواج تسونامي، الانفجارات البركانية، حرائق الغابات"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-4",
+                    "content": [
+                        {
+                            "text": "Action Words:",
+                            "highlight": true
+                        },
+                        {
+                            "text": " harm, endanger, save, safeguard, strike, investigate"
+                        },
+                        {
+                            "text": "أفعال العمل: يضر، يعرض للخطر، ينقذ، يحمي، يضرب، يبحث"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-5",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "The hurricane "
+                        },
+                        {
+                            "text": "damaged",
+                            "colorize": true
+                        },
+                        {
+                            "text": " many buildings"
+                        },
+                        {
+                            "text": "الإعصار "
+                        },
+                        {
+                            "text": "ألحق الضرر",
+                            "colorize": true
+                        },
+                        {
+                            "text": " بالعديد من المباني"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-6",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Scientists are "
+                        },
+                        {
+                            "text": "researching",
+                            "colorize": true
+                        },
+                        {
+                            "text": " renewable energy"
+                        },
+                        {
+                            "text": "العلماء "
+                        },
+                        {
+                            "text": "يبحثون",
+                            "colorize": true
+                        },
+                        {
+                            "text": " في الطاقة المتجددة"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-2",
+            "title": "Negative Questions",
+            "cards": [
+                {
+                    "id": "card-7",
+                    "content": [
+                        {
+                            "text": "Negative Questions",
+                            "highlight": true
+                        },
+                        {
+                            "text": "الأسئلة السلبية"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-8",
+                    "content": [
+                        {
+                            "text": "Negative questions are used to "
+                        },
+                        {
+                            "text": "verify information",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " or "
+                        },
+                        {
+                            "text": "show surprise",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "الأسئلة السلبية تُستخدم لـ"
+                        },
+                        {
+                            "text": "التحقق من المعلومات",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " أو "
+                        },
+                        {
+                            "text": "إظهار المفاجأة",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-9",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Isn't",
+                            "colorize": true
+                        },
+                        {
+                            "text": " there a solution to this problem?"
+                        },
+                        {
+                            "text": "أليس",
+                            "colorize": true
+                        },
+                        {
+                            "text": " هناك حل لهذه المشكلة؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-10",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Aren't",
+                            "colorize": true
+                        },
+                        {
+                            "text": " you coming to the meeting?"
+                        },
+                        {
+                            "text": "ألست",
+                            "colorize": true
+                        },
+                        {
+                            "text": " قادماً إلى الاجتماع؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-11",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Don't",
+                            "colorize": true
+                        },
+                        {
+                            "text": " you care about the environment?"
+                        },
+                        {
+                            "text": "ألا",
+                            "colorize": true
+                        },
+                        {
+                            "text": " تهتم بالبيئة؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-12",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Haven't",
+                            "colorize": true
+                        },
+                        {
+                            "text": " you heard the announcement?"
+                        },
+                        {
+                            "text": "ألم",
+                            "colorize": true
+                        },
+                        {
+                            "text": " تسمع الإعلان؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-13",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Didn't",
+                            "colorize": true
+                        },
+                        {
+                            "text": " you receive my email?"
+                        },
+                        {
+                            "text": "ألم",
+                            "colorize": true
+                        },
+                        {
+                            "text": " تستلم رسالتي الإلكترونية؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-14",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Weren't",
+                            "colorize": true
+                        },
+                        {
+                            "text": " you supposed to call me?"
+                        },
+                        {
+                            "text": "ألم",
+                            "colorize": true
+                        },
+                        {
+                            "text": " يكن من المفترض أن تتصل بي؟"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-3",
+            "title": "Relative Adverb - Where",
+            "cards": [
+                {
+                    "id": "card-15",
+                    "content": [
+                        {
+                            "text": "Relative Adverb: ",
+                            "highlight": true
+                        },
+                        {
+                            "text": "Where",
+                            "highlight": true
+                        },
+                        {
+                            "text": "الظرف الموصول: Where"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-16",
+                    "content": [
+                        {
+                            "text": "Where",
+                            "colorize": true
+                        },
+                        {
+                            "text": " connects two clauses about a "
+                        },
+                        {
+                            "text": "place or location",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "Where",
+                            "colorize": true
+                        },
+                        {
+                            "text": " يربط جملتين عن "
+                        },
+                        {
+                            "text": "مكان أو موقع",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-17",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "That's the university "
+                        },
+                        {
+                            "text": "where",
+                            "colorize": true
+                        },
+                        {
+                            "text": " I studied engineering"
+                        },
+                        {
+                            "text": "تلك هي الجامعة "
+                        },
+                        {
+                            "text": "حيث",
+                            "colorize": true
+                        },
+                        {
+                            "text": " درست الهندسة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-18",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Paris is the city "
+                        },
+                        {
+                            "text": "where",
+                            "colorize": true
+                        },
+                        {
+                            "text": " I want to live"
+                        },
+                        {
+                            "text": "باريس هي المدينة "
+                        },
+                        {
+                            "text": "حيث",
+                            "colorize": true
+                        },
+                        {
+                            "text": " أريد أن أعيش"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-19",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "This is the neighborhood "
+                        },
+                        {
+                            "text": "where",
+                            "colorize": true
+                        },
+                        {
+                            "text": " I was raised"
+                        },
+                        {
+                            "text": "هذا هو الحي "
+                        },
+                        {
+                            "text": "حيث",
+                            "colorize": true
+                        },
+                        {
+                            "text": " نشأت"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-4",
+            "title": "Indirect Questions",
+            "cards": [
+                {
+                    "id": "card-20",
+                    "content": [
+                        {
+                            "text": "Indirect Questions",
+                            "highlight": true
+                        },
+                        {
+                            "text": "الأسئلة غير المباشرة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-21",
+                    "content": [
+                        {
+                            "text": "Indirect questions are "
+                        },
+                        {
+                            "text": "more polite",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " when requesting information"
+                        },
+                        {
+                            "text": "الأسئلة غير المباشرة "
+                        },
+                        {
+                            "text": "أكثر تهذيباً",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " عند طلب المعلومات"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-22",
+                    "content": [
+                        {
+                            "text": "Important:",
+                            "highlight": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "No inversion",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " of subject and verb in indirect questions"
+                        },
+                        {
+                            "text": "مهم: "
+                        },
+                        {
+                            "text": "لا عكس",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " للفاعل والفعل في الأسئلة غير المباشرة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-23",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Direct: "
+                        },
+                        {
+                            "text": "Where is",
+                            "colorize": true
+                        },
+                        {
+                            "text": " the library?"
+                        },
+                        {
+                            "text": "مباشر: أين المكتبة؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-24",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Indirect: Do you know "
+                        },
+                        {
+                            "text": "where the library is",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "?"
+                        },
+                        {
+                            "text": "غير مباشر: هل تعرف أين المكتبة؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-25",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Direct: "
+                        },
+                        {
+                            "text": "When does",
+                            "colorize": true
+                        },
+                        {
+                            "text": " the bus arrive?"
+                        },
+                        {
+                            "text": "مباشر: متى تصل الحافلة؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-26",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Indirect: Do you know "
+                        },
+                        {
+                            "text": "when the bus arrives",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "?"
+                        },
+                        {
+                            "text": "غير مباشر: هل تعرف متى تصل الحافلة؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-27",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Direct: "
+                        },
+                        {
+                            "text": "Where can I",
+                            "colorize": true
+                        },
+                        {
+                            "text": " find a taxi?"
+                        },
+                        {
+                            "text": "مباشر: أين أجد تاكسي؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-28",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Indirect: Could you tell me "
+                        },
+                        {
+                            "text": "where I can find",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " a taxi?"
+                        },
+                        {
+                            "text": "غير مباشر: هل يمكنك أن تخبرني أين أجد تاكسي؟"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-5",
+            "title": "Agreement with Affirmative - So and Too",
+            "cards": [
+                {
+                    "id": "card-29",
+                    "content": [
+                        {
+                            "text": "Agreement with Affirmative",
+                            "highlight": true
+                        },
+                        {
+                            "text": " - So and Too"
+                        },
+                        {
+                            "text": "الموافقة مع الإيجابي - So و Too"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-30",
+                    "content": [
+                        {
+                            "text": "Use "
+                        },
+                        {
+                            "text": "so",
+                            "colorize": true
+                        },
+                        {
+                            "text": " and "
+                        },
+                        {
+                            "text": "too",
+                            "colorize": true
+                        },
+                        {
+                            "text": " to agree with "
+                        },
+                        {
+                            "text": "positive statements",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "استخدم "
+                        },
+                        {
+                            "text": "so",
+                            "colorize": true
+                        },
+                        {
+                            "text": " و"
+                        },
+                        {
+                            "text": "too",
+                            "colorize": true
+                        },
+                        {
+                            "text": " للموافقة مع "
+                        },
+                        {
+                            "text": "العبارات الإيجابية",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-31",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "So",
+                            "badge": true,
+                            "translation": "أيضاً"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "auxiliary/be",
+                            "badge2": true,
+                            "translation": "فعل مساعد"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "subject",
+                            "badge3": true,
+                            "translation": "الفاعل"
+                        },
+                        {
+                            "text": " OR subject + auxiliary/be + "
+                        },
+                        {
+                            "text": "too",
+                            "badge": true,
+                            "translation": "أيضاً"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-32",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "A: I visited the museum"
+                        },
+                        {
+                            "text": "أ: زرت المتحف"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-33",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "B: "
+                        },
+                        {
+                            "text": "So",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "did",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "I",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " / I "
+                        },
+                        {
+                            "text": "did",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "too",
+                            "colorize": true
+                        },
+                        {
+                            "text": "ب: أنا أيضاً"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-34",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "A: I will travel next month"
+                        },
+                        {
+                            "text": "أ: سأسافر الشهر القادم"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-35",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "B: "
+                        },
+                        {
+                            "text": "So",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "will",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "I",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " / I "
+                        },
+                        {
+                            "text": "will",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "too",
+                            "colorize": true
+                        },
+                        {
+                            "text": "ب: أنا أيضاً"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-6",
+            "title": "Agreement with Negative - Neither and Either",
+            "cards": [
+                {
+                    "id": "card-36",
+                    "content": [
+                        {
+                            "text": "Agreement with Negative",
+                            "highlight": true
+                        },
+                        {
+                            "text": " - Neither and Either"
+                        },
+                        {
+                            "text": "الموافقة مع السلبي - Neither و Either"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-37",
+                    "content": [
+                        {
+                            "text": "Use "
+                        },
+                        {
+                            "text": "neither",
+                            "colorize": true
+                        },
+                        {
+                            "text": " and "
+                        },
+                        {
+                            "text": "either",
+                            "colorize": true
+                        },
+                        {
+                            "text": " to agree with "
+                        },
+                        {
+                            "text": "negative statements",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "استخدم "
+                        },
+                        {
+                            "text": "neither",
+                            "colorize": true
+                        },
+                        {
+                            "text": " و"
+                        },
+                        {
+                            "text": "either",
+                            "colorize": true
+                        },
+                        {
+                            "text": " للموافقة مع "
+                        },
+                        {
+                            "text": "العبارات السلبية",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-38",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "Neither",
+                            "badge": true,
+                            "translation": "أنا أيضاً لا"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "auxiliary/be",
+                            "badge2": true,
+                            "translation": "فعل مساعد"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "subject",
+                            "badge3": true,
+                            "translation": "الفاعل"
+                        },
+                        {
+                            "text": " OR subject + auxiliary/be + not + "
+                        },
+                        {
+                            "text": "either",
+                            "badge": true,
+                            "translation": "أيضاً"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-39",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "A: I don't like spicy food"
+                        },
+                        {
+                            "text": "أ: لا أحب الطعام الحار"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-40",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "B: "
+                        },
+                        {
+                            "text": "Neither",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "do",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "I",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " / I "
+                        },
+                        {
+                            "text": "don't",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "either",
+                            "colorize": true
+                        },
+                        {
+                            "text": "ب: أنا أيضاً لا أحب"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-41",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "A: I won't attend the party"
+                        },
+                        {
+                            "text": "أ: لن أحضر الحفلة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-42",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "B: "
+                        },
+                        {
+                            "text": "Neither",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "will",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "I",
+                            "colorize3": true
+                        },
+                        {
+                            "text": " / I "
+                        },
+                        {
+                            "text": "won't",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "either",
+                            "colorize": true
+                        },
+                        {
+                            "text": "ب: أنا أيضاً لن أحضر"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-7",
+            "title": "Expressing Disagreement",
+            "cards": [
+                {
+                    "id": "card-43",
+                    "content": [
+                        {
+                            "text": "Expressing Disagreement",
+                            "highlight": true
+                        },
+                        {
+                            "text": "التعبير عن عدم الموافقة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-44",
+                    "content": [
+                        {
+                            "text": "To disagree, use the "
+                        },
+                        {
+                            "text": "opposite form",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " (positive vs negative)"
+                        },
+                        {
+                            "text": "للاختلاف، استخدم "
+                        },
+                        {
+                            "text": "الشكل المعاكس",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " (إيجابي مقابل سلبي)"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-45",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "A: I've been to London"
+                        },
+                        {
+                            "text": "أ: لقد ذهبت إلى لندن"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-46",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "B: I "
+                        },
+                        {
+                            "text": "haven't",
+                            "colorize": true
+                        },
+                        {
+                            "text": " (disagreement)"
+                        },
+                        {
+                            "text": "ب: أنا "
+                        },
+                        {
+                            "text": "لم أذهب",
+                            "colorize": true
+                        },
+                        {
+                            "text": " (عدم موافقة)"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-47",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "A: I can swim"
+                        },
+                        {
+                            "text": "أ: أستطيع السباحة"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-48",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "B: I "
+                        },
+                        {
+                            "text": "can't",
+                            "colorize": true
+                        },
+                        {
+                            "text": " (disagreement)"
+                        },
+                        {
+                            "text": "ب: أنا "
+                        },
+                        {
+                            "text": "لا أستطيع",
+                            "colorize": true
+                        },
+                        {
+                            "text": " (عدم موافقة)"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-49",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "A: I'm not very athletic"
+                        },
+                        {
+                            "text": "أ: لست رياضياً جداً"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-50",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "B: I "
+                        },
+                        {
+                            "text": "am",
+                            "colorize": true
+                        },
+                        {
+                            "text": " (disagreement)"
+                        },
+                        {
+                            "text": "ب: أنا "
+                        },
+                        {
+                            "text": "رياضي",
+                            "colorize": true
+                        },
+                        {
+                            "text": " (عدم موافقة)"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

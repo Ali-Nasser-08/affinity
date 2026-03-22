@@ -1,0 +1,2601 @@
+{
+    "unit": "Mega Goal 1 - Unit 7",
+    "type": "revision",
+    "totalQuestions": 15,
+    "currentBatch": 1,
+    "sections": [
+        {
+            "section": "grammar",
+            "questions": [
+                {
+                    "id": "G1",
+                    "difficulty": 2,
+                    "arabicHint": "حرف جر + فعل ing",
+                    "question": "Choose the correct verb form after the preposition.",
+                    "prompt": [
+                        {
+                            "text": "She apologized for "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " the mistake."
+                        }
+                    ],
+                    "options": [
+                        "make",
+                        "making",
+                        "made",
+                        "to make"
+                    ],
+                    "answer": "making",
+                    "explanation": "When a verb comes after a preposition like \"for,\" we use the gerund form (verb + ing). Therefore, \"making\" is correct."
+                },
+                {
+                    "id": "G2",
+                    "difficulty": 2,
+                    "arabicHint": "فعل + حرف جر + gerund",
+                    "question": "Choose the correct completion.",
+                    "prompt": [
+                        {
+                            "text": "They are thinking of "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " to another city."
+                        }
+                    ],
+                    "options": [
+                        "move",
+                        "moving",
+                        "moved",
+                        "to move"
+                    ],
+                    "answer": "moving",
+                    "explanation": "The expression \"think of\" is followed by a gerund. After prepositions, we use verb + ing."
+                },
+                {
+                    "id": "G3",
+                    "difficulty": 2,
+                    "arabicHint": "صفة + حرف جر + gerund",
+                    "question": "Choose the correct form after the adjective.",
+                    "prompt": [
+                        {
+                            "text": "He is tired of "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " for the bus."
+                        }
+                    ],
+                    "options": [
+                        "wait",
+                        "waiting",
+                        "waited",
+                        "to wait"
+                    ],
+                    "answer": "waiting",
+                    "explanation": "Some adjectives are followed by specific prepositions. \"Tired of\" must be followed by a gerund (waiting)."
+                },
+                {
+                    "id": "G4",
+                    "difficulty": 2,
+                    "arabicHint": "In spite of + اسم / gerund",
+                    "question": "Choose the correct completion.",
+                    "prompt": [
+                        {
+                            "text": "In spite of "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": ", we continued the match."
+                        }
+                    ],
+                    "options": [
+                        "it was raining",
+                        "the rain",
+                        "it rained",
+                        "it rains"
+                    ],
+                    "answer": "the rain",
+                    "explanation": "\"In spite of\" is followed by a noun or a gerund, not a full clause. \"The rain\" is a noun phrase."
+                },
+                {
+                    "id": "G5",
+                    "difficulty": 2,
+                    "arabicHint": "Although + جملة (فاعل + فعل)",
+                    "question": "Choose the correct sentence.",
+                    "prompt": [
+                        {
+                            "text": "_____ he was nervous, he gave a great speech."
+                        }
+                    ],
+                    "options": [
+                        "Although",
+                        "In spite of",
+                        "Because of",
+                        "Despite of"
+                    ],
+                    "answer": "Although",
+                    "explanation": "\"Although\" must be followed by a clause (subject + verb). \"He was nervous\" is a complete clause."
+                },
+                {
+                    "id": "G6",
+                    "difficulty": 3,
+                    "arabicHint": "Even though + جملة كاملة",
+                    "question": "Choose the correct completion.",
+                    "prompt": [
+                        {
+                            "text": "Even though she "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": ", she finished her project."
+                        }
+                    ],
+                    "options": [
+                        "was tired",
+                        "tired",
+                        "being tired",
+                        "to be tired"
+                    ],
+                    "answer": "was tired",
+                    "explanation": "\"Even though\" is followed by a complete clause (subject + verb). \"She was tired\" is grammatically correct."
+                },
+                {
+                    "id": "G7",
+                    "difficulty": 2,
+                    "arabicHint": "As soon as + مضارع (للمستقبل)",
+                    "question": "Choose the correct verb form.",
+                    "prompt": [
+                        {
+                            "text": "I will message you as soon as I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " home."
+                        }
+                    ],
+                    "options": [
+                        "arrive",
+                        "will arrive",
+                        "arrived",
+                        "am arriving"
+                    ],
+                    "answer": "arrive",
+                    "explanation": "After time expressions like \"as soon as,\" we use the present tense to talk about the future, not \"will.\""
+                },
+                {
+                    "id": "G8",
+                    "difficulty": 2,
+                    "arabicHint": "When + مضارع (للمستقبل)",
+                    "question": "Choose the correct verb form.",
+                    "prompt": [
+                        {
+                            "text": "Call me when you "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " at the airport."
+                        }
+                    ],
+                    "options": [
+                        "arrive",
+                        "will arrive",
+                        "arrived",
+                        "are arriving"
+                    ],
+                    "answer": "arrive",
+                    "explanation": "With time conjunctions like \"when,\" we use the present simple to refer to future time."
+                },
+                {
+                    "id": "G9",
+                    "difficulty": 2,
+                    "arabicHint": "so + صفة + that",
+                    "question": "Choose the correct completion.",
+                    "prompt": [
+                        {
+                            "text": "The exam was so difficult "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " many students asked for help."
+                        }
+                    ],
+                    "options": [
+                        "that",
+                        "because",
+                        "although",
+                        "if"
+                    ],
+                    "answer": "that",
+                    "explanation": "We use \"so + adjective + that\" to express result. \"So difficult that\" shows the consequence."
+                },
+                {
+                    "id": "G10",
+                    "difficulty": 2,
+                    "arabicHint": "so many + اسم جمع",
+                    "question": "Choose the correct completion.",
+                    "prompt": [
+                        {
+                            "text": "There were so "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " students in the hall that it was crowded."
+                        }
+                    ],
+                    "options": [
+                        "much",
+                        "many",
+                        "few",
+                        "little"
+                    ],
+                    "answer": "many",
+                    "explanation": "\"Students\" is a countable plural noun, so we use \"many\" with it."
+                },
+                {
+                    "id": "G11",
+                    "difficulty": 2,
+                    "arabicHint": "used to + فعل مجرد",
+                    "question": "Choose the correct form.",
+                    "prompt": [
+                        {
+                            "text": "I used to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " up early during middle school."
+                        }
+                    ],
+                    "options": [
+                        "wake",
+                        "waking",
+                        "woke",
+                        "to wake"
+                    ],
+                    "answer": "wake",
+                    "explanation": "After \"used to,\" we use the base form of the verb (wake), not the past or -ing form."
+                },
+                {
+                    "id": "G12",
+                    "difficulty": 3,
+                    "arabicHint": "would للماضي المتكرر فقط (ليس حالة)",
+                    "question": "Choose the correct sentence.",
+                    "prompt": [
+                        {
+                            "text": "Which sentence is correct?"
+                        }
+                    ],
+                    "options": [
+                        "When we were kids, we would visit our grandparents every Friday.",
+                        "When we were kids, we would have a small house.",
+                        "When we were kids, we would be shy.",
+                        "When we were kids, we would know many people."
+                    ],
+                    "answer": "When we were kids, we would visit our grandparents every Friday.",
+                    "explanation": "\"Would\" is used for repeated past actions (habits), not for past states like \"have\" or \"be.\""
+                },
+                {
+                    "id": "G13",
+                    "difficulty": 1,
+                    "arabicHint": "There is + اسم مفرد",
+                    "question": "Choose the correct completion.",
+                    "prompt": [
+                        {
+                            "text": "There "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " a message for you."
+                        }
+                    ],
+                    "options": [
+                        "is",
+                        "are",
+                        "were",
+                        "be"
+                    ],
+                    "answer": "is",
+                    "explanation": "\"Message\" is singular, so we use \"There is\" with singular nouns."
+                },
+                {
+                    "id": "G14",
+                    "difficulty": 1,
+                    "arabicHint": "جمع كلمة تنتهي بـ -y (حرف ساكن قبلها)",
+                    "question": "Choose the correct plural form.",
+                    "prompt": [
+                        {
+                            "text": "One city — two "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        }
+                    ],
+                    "options": [
+                        "citys",
+                        "cities",
+                        "cityes",
+                        "citis"
+                    ],
+                    "answer": "cities",
+                    "explanation": "If a noun ends in a consonant + y, we drop the \"y\" and add \"-ies\" to form the plural."
+                },
+                {
+                    "id": "G15",
+                    "difficulty": 2,
+                    "arabicHint": "the لشيء معروف أو فريد",
+                    "question": "Choose the correct article.",
+                    "prompt": [
+                        {
+                            "text": "We learned about "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " sun in science class."
+                        }
+                    ],
+                    "options": [
+                        "a",
+                        "an",
+                        "the",
+                        "no article"
+                    ],
+                    "answer": "the",
+                    "explanation": "We use \"the\" with things that are unique or one of a kind, such as the sun."
+                },
+                {
+                    "id": "G16",
+                    "difficulty": 2,
+                    "arabicHint": "حرف جر + gerund",
+                    "question": "Choose the correct verb form after the preposition.",
+                    "prompt": [
+                        {
+                            "text": "He insisted on "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " for the tickets."
+                        }
+                    ],
+                    "options": [
+                        "pay",
+                        "paying",
+                        "to pay",
+                        "paid"
+                    ],
+                    "answer": "paying",
+                    "explanation": "After a preposition like \"on,\" we must use a gerund (verb + ing). Therefore, \"paying\" is correct."
+                },
+                {
+                    "id": "G17",
+                    "difficulty": 2,
+                    "arabicHint": "فعل + حرف جر + gerund",
+                    "question": "Choose the correct completion.",
+                    "prompt": [
+                        {
+                            "text": "She succeeded in "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " the final exam."
+                        }
+                    ],
+                    "options": [
+                        "pass",
+                        "passing",
+                        "to pass",
+                        "passed"
+                    ],
+                    "answer": "passing",
+                    "explanation": "The verb \"succeed in\" is followed by a gerund. We say \"succeeded in passing,\" not \"to pass.\""
+                },
+                {
+                    "id": "G18",
+                    "difficulty": 3,
+                    "arabicHint": "used to في السؤال",
+                    "question": "Choose the correct question form.",
+                    "prompt": [
+                        {
+                            "text": "_____ you use to live near here?"
+                        }
+                    ],
+                    "options": [
+                        "Did",
+                        "Do",
+                        "Are",
+                        "Were"
+                    ],
+                    "answer": "Did",
+                    "explanation": "To form a question with \"used to,\" we use \"Did + subject + use to + base verb.\""
+                },
+                {
+                    "id": "G19",
+                    "difficulty": 2,
+                    "arabicHint": "used to + فعل مجرد",
+                    "question": "Choose the correct completion.",
+                    "prompt": [
+                        {
+                            "text": "They used to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " football after school."
+                        }
+                    ],
+                    "options": [
+                        "play",
+                        "playing",
+                        "played",
+                        "to play"
+                    ],
+                    "answer": "play",
+                    "explanation": "After \"used to,\" we use the base form of the verb without \"to\" or \"-ing.\""
+                },
+                {
+                    "id": "G20",
+                    "difficulty": 3,
+                    "arabicHint": "would للعادات الماضية فقط",
+                    "question": "Choose the correct sentence.",
+                    "prompt": [
+                        {
+                            "text": "Which sentence is correct?"
+                        }
+                    ],
+                    "options": [
+                        "When I was younger, I would walk to school every day.",
+                        "When I was younger, I would be very tall.",
+                        "When I was younger, I would have a bicycle.",
+                        "When I was younger, I would know the answer."
+                    ],
+                    "answer": "When I was younger, I would walk to school every day.",
+                    "explanation": "\"Would\" is used for repeated past actions (habits), not for past states like \"be,\" \"have,\" or \"know.\""
+                },
+                {
+                    "id": "G21",
+                    "difficulty": 2,
+                    "arabicHint": "Although + جملة كاملة",
+                    "question": "Choose the correct completion.",
+                    "prompt": [
+                        {
+                            "text": "Although he "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": ", he kept working."
+                        }
+                    ],
+                    "options": [
+                        "was sick",
+                        "sick",
+                        "being sick",
+                        "to be sick"
+                    ],
+                    "answer": "was sick",
+                    "explanation": "\"Although\" must be followed by a full clause (subject + verb). \"He was sick\" is correct."
+                },
+                {
+                    "id": "G22",
+                    "difficulty": 2,
+                    "arabicHint": "In spite of + gerund",
+                    "question": "Choose the correct completion.",
+                    "prompt": [
+                        {
+                            "text": "In spite of "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": ", she finished the race."
+                        }
+                    ],
+                    "options": [
+                        "feeling tired",
+                        "she felt tired",
+                        "she feels tired",
+                        "to feel tired"
+                    ],
+                    "answer": "feeling tired",
+                    "explanation": "\"In spite of\" is followed by a noun or a gerund. \"Feeling tired\" is a gerund phrase."
+                },
+                {
+                    "id": "G23",
+                    "difficulty": 2,
+                    "arabicHint": "When + مضارع للمستقبل",
+                    "question": "Choose the correct verb form.",
+                    "prompt": [
+                        {
+                            "text": "I will start dinner when my mother "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " home."
+                        }
+                    ],
+                    "options": [
+                        "gets",
+                        "will get",
+                        "got",
+                        "is getting"
+                    ],
+                    "answer": "gets",
+                    "explanation": "After time conjunctions like \"when,\" we use the present simple to talk about future events."
+                },
+                {
+                    "id": "G24",
+                    "difficulty": 2,
+                    "arabicHint": "so much + اسم غير معدود",
+                    "question": "Choose the correct completion.",
+                    "prompt": [
+                        {
+                            "text": "There was so "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " traffic that we were late."
+                        }
+                    ],
+                    "options": [
+                        "many",
+                        "much",
+                        "few",
+                        "little"
+                    ],
+                    "answer": "much",
+                    "explanation": "\"Traffic\" is an uncountable noun, so we use \"much\" with it."
+                },
+                {
+                    "id": "G25",
+                    "difficulty": 2,
+                    "arabicHint": "There are + جمع",
+                    "question": "Choose the correct completion.",
+                    "prompt": [
+                        {
+                            "text": "There "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " many questions in the test."
+                        }
+                    ],
+                    "options": [
+                        "is",
+                        "are",
+                        "was",
+                        "be"
+                    ],
+                    "answer": "are",
+                    "explanation": "\"Questions\" is plural, so we use \"There are\" with plural nouns."
+                },
+                {
+                    "id": "G26",
+                    "difficulty": 2,
+                    "arabicHint": "جمع شاذ",
+                    "question": "Choose the correct plural form.",
+                    "prompt": [
+                        {
+                            "text": "One child — three "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        }
+                    ],
+                    "options": [
+                        "childs",
+                        "childes",
+                        "children",
+                        "childrens"
+                    ],
+                    "answer": "children",
+                    "explanation": "\"Child\" is an irregular noun. Its plural form is \"children,\" not \"childs.\""
+                },
+                {
+                    "id": "G27",
+                    "difficulty": 2,
+                    "arabicHint": "جمع ينتهي بـ -f → -ves",
+                    "question": "Choose the correct plural form.",
+                    "prompt": [
+                        {
+                            "text": "One leaf — many "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        }
+                    ],
+                    "options": [
+                        "leafs",
+                        "leaves",
+                        "leafes",
+                        "leavs"
+                    ],
+                    "answer": "leaves",
+                    "explanation": "Some nouns ending in -f change to -ves in the plural form, like \"leaf\" → \"leaves.\""
+                },
+                {
+                    "id": "G28",
+                    "difficulty": 2,
+                    "arabicHint": "the لشيء معروف للطرفين",
+                    "question": "Choose the correct article.",
+                    "prompt": [
+                        {
+                            "text": "Please close "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " door."
+                        }
+                    ],
+                    "options": [
+                        "a",
+                        "an",
+                        "the",
+                        "no article"
+                    ],
+                    "answer": "the",
+                    "explanation": "We use \"the\" when both the speaker and listener know which specific thing we are talking about."
+                },
+                {
+                    "id": "G29",
+                    "difficulty": 3,
+                    "arabicHint": "as soon as + مضارع",
+                    "question": "Choose the correct completion.",
+                    "prompt": [
+                        {
+                            "text": "She will send the email as soon as she "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " the information."
+                        }
+                    ],
+                    "options": [
+                        "receives",
+                        "will receive",
+                        "received",
+                        "is receiving"
+                    ],
+                    "answer": "receives",
+                    "explanation": "After \"as soon as,\" we use the present simple, even when talking about the future."
+                },
+                {
+                    "id": "G30",
+                    "difficulty": 3,
+                    "arabicHint": "Even though vs In spite of",
+                    "question": "Choose the correct completion.",
+                    "prompt": [
+                        {
+                            "text": "_____ the heavy rain, the event continued."
+                        }
+                    ],
+                    "options": [
+                        "Even though",
+                        "Although",
+                        "In spite of",
+                        "Because"
+                    ],
+                    "answer": "In spite of",
+                    "explanation": "\"In spite of\" is followed by a noun phrase (the heavy rain). \"Although\" and \"Even though\" must be followed by a full clause."
+                },
+                {
+                    "id": "G31",
+                    "difficulty": 1,
+                    "arabicHint": "حرف جر + فعل ing",
+                    "question": "Choose the correct verb form after the preposition.",
+                    "prompt": [
+                        {
+                            "text": "Thank you for "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " me."
+                        }
+                    ],
+                    "options": [
+                        "help",
+                        "helping",
+                        "helped",
+                        "to help"
+                    ],
+                    "answer": "helping",
+                    "explanation": "After a preposition like \"for,\" we use a gerund (verb + ing). So we say \"for helping.\""
+                },
+                {
+                    "id": "G32",
+                    "difficulty": 1,
+                    "arabicHint": "used to + فعل مجرد",
+                    "question": "Choose the correct completion.",
+                    "prompt": [
+                        {
+                            "text": "I used to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " milk every morning."
+                        }
+                    ],
+                    "options": [
+                        "drink",
+                        "drinking",
+                        "drank",
+                        "to drink"
+                    ],
+                    "answer": "drink",
+                    "explanation": "After \"used to,\" we use the base form of the verb without \"-ing\" or past tense."
+                },
+                {
+                    "id": "G33",
+                    "difficulty": 1,
+                    "arabicHint": "There are + جمع",
+                    "question": "Choose the correct word.",
+                    "prompt": [
+                        {
+                            "text": "There "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " two books on the desk."
+                        }
+                    ],
+                    "options": [
+                        "is",
+                        "are",
+                        "was",
+                        "be"
+                    ],
+                    "answer": "are",
+                    "explanation": "\"Books\" is plural, so we use \"There are.\""
+                },
+                {
+                    "id": "G34",
+                    "difficulty": 2,
+                    "arabicHint": "Although + جملة كاملة",
+                    "question": "Choose the correct completion.",
+                    "prompt": [
+                        {
+                            "text": "Although it "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": ", we went out."
+                        }
+                    ],
+                    "options": [
+                        "rained",
+                        "rain",
+                        "raining",
+                        "to rain"
+                    ],
+                    "answer": "rained",
+                    "explanation": "\"Although\" must be followed by a full clause (subject + verb). \"It rained\" is correct."
+                },
+                {
+                    "id": "G35",
+                    "difficulty": 1,
+                    "arabicHint": "جمع غير منتظم",
+                    "question": "Choose the correct plural form.",
+                    "prompt": [
+                        {
+                            "text": "One man — two "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        }
+                    ],
+                    "options": [
+                        "mans",
+                        "men",
+                        "manes",
+                        "mens"
+                    ],
+                    "answer": "men",
+                    "explanation": "\"Man\" is an irregular noun. Its plural form is \"men.\""
+                },
+                {
+                    "id": "G36",
+                    "difficulty": 1,
+                    "arabicHint": "so + صفة + that",
+                    "question": "Choose the correct word.",
+                    "prompt": [
+                        {
+                            "text": "The bag was so heavy "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " I couldn’t carry it."
+                        }
+                    ],
+                    "options": [
+                        "that",
+                        "because",
+                        "if",
+                        "but"
+                    ],
+                    "answer": "that",
+                    "explanation": "We use \"so + adjective + that\" to show a result."
+                },
+                {
+                    "id": "G37",
+                    "difficulty": 1,
+                    "arabicHint": "When + مضارع للمستقبل",
+                    "question": "Choose the correct verb form.",
+                    "prompt": [
+                        {
+                            "text": "I will call you when I "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " there."
+                        }
+                    ],
+                    "options": [
+                        "arrive",
+                        "will arrive",
+                        "arrived",
+                        "arriving"
+                    ],
+                    "answer": "arrive",
+                    "explanation": "After \"when,\" we use the present simple, even if we are talking about the future."
+                },
+                {
+                    "id": "G38",
+                    "difficulty": 2,
+                    "arabicHint": "In spite of + اسم",
+                    "question": "Choose the correct completion.",
+                    "prompt": [
+                        {
+                            "text": "In spite of "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": ", he smiled."
+                        }
+                    ],
+                    "options": [
+                        "the problem",
+                        "he had a problem",
+                        "he has a problem",
+                        "to have a problem"
+                    ],
+                    "answer": "the problem",
+                    "explanation": "\"In spite of\" is followed by a noun or gerund, not a full sentence."
+                },
+                {
+                    "id": "G39",
+                    "difficulty": 1,
+                    "arabicHint": "the لشيء فريد",
+                    "question": "Choose the correct article.",
+                    "prompt": [
+                        {
+                            "text": "The Earth moves around "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " sun."
+                        }
+                    ],
+                    "options": [
+                        "a",
+                        "an",
+                        "the",
+                        "no article"
+                    ],
+                    "answer": "the",
+                    "explanation": "We use \"the\" with things that are one of a kind, like the sun."
+                },
+                {
+                    "id": "G40",
+                    "difficulty": 1,
+                    "arabicHint": "حرف جر + gerund",
+                    "question": "Choose the correct form.",
+                    "prompt": [
+                        {
+                            "text": "She is interested in "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " English."
+                        }
+                    ],
+                    "options": [
+                        "learn",
+                        "learning",
+                        "learned",
+                        "to learn"
+                    ],
+                    "answer": "learning",
+                    "explanation": "After the preposition \"in,\" we use a gerund (learning)."
+                },
+                {
+                    "id": "G41",
+                    "difficulty": 1,
+                    "arabicHint": "There is + مفرد",
+                    "question": "Choose the correct word.",
+                    "prompt": [
+                        {
+                            "text": "There "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " a cat outside."
+                        }
+                    ],
+                    "options": [
+                        "is",
+                        "are",
+                        "were",
+                        "be"
+                    ],
+                    "answer": "is",
+                    "explanation": "\"Cat\" is singular, so we use \"There is.\""
+                },
+                {
+                    "id": "G42",
+                    "difficulty": 2,
+                    "arabicHint": "Even though + جملة",
+                    "question": "Choose the correct completion.",
+                    "prompt": [
+                        {
+                            "text": "Even though she "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": ", she continued studying."
+                        }
+                    ],
+                    "options": [
+                        "was tired",
+                        "tired",
+                        "being tired",
+                        "to be tired"
+                    ],
+                    "answer": "was tired",
+                    "explanation": "\"Even though\" must be followed by a complete clause (subject + verb)."
+                },
+                {
+                    "id": "G43",
+                    "difficulty": 1,
+                    "arabicHint": "جمع ينتهي بـ -y",
+                    "question": "Choose the correct plural form.",
+                    "prompt": [
+                        {
+                            "text": "One story — many "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        }
+                    ],
+                    "options": [
+                        "storys",
+                        "stories",
+                        "storyes",
+                        "storyies"
+                    ],
+                    "answer": "stories",
+                    "explanation": "If a noun ends with a consonant + y, we drop \"y\" and add \"-ies.\""
+                },
+                {
+                    "id": "G44",
+                    "difficulty": 1,
+                    "arabicHint": "so many + اسم جمع",
+                    "question": "Choose the correct word.",
+                    "prompt": [
+                        {
+                            "text": "There were so "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " people at the mall."
+                        }
+                    ],
+                    "options": [
+                        "much",
+                        "many",
+                        "little",
+                        "less"
+                    ],
+                    "answer": "many",
+                    "explanation": "\"People\" is a countable plural noun, so we use \"many.\""
+                },
+                {
+                    "id": "G45",
+                    "difficulty": 1,
+                    "arabicHint": "used to للنفي في الماضي",
+                    "question": "Choose the correct sentence.",
+                    "prompt": [
+                        {
+                            "text": "Which sentence is correct?"
+                        }
+                    ],
+                    "options": [
+                        "I didn’t use to like coffee.",
+                        "I didn’t used to like coffee.",
+                        "I don’t used to like coffee.",
+                        "I not use to like coffee."
+                    ],
+                    "answer": "I didn’t use to like coffee.",
+                    "explanation": "In negative form, we say \"didn’t use to + base verb.\" We do not use \"used\" after \"didn’t.\""
+                },
+                {
+                    "id": "G46",
+                    "difficulty": 2,
+                    "arabicHint": "Although + جملة / In spite of + اسم أو gerund",
+                    "question": "Choose the correct pair to complete the sentence.",
+                    "prompt": [
+                        {
+                            "text": "_____ he was very nervous, he gave a confident presentation. "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " his fear, he spoke clearly."
+                        }
+                    ],
+                    "options": [
+                        "Although / In spite of",
+                        "In spite of / Although",
+                        "Although / Although",
+                        "In spite of / In spite of"
+                    ],
+                    "answer": "Although / In spite of",
+                    "explanation": "\"Although\" is followed by a full clause (he was very nervous). \"In spite of\" is followed by a noun phrase (his fear). The structure determines the correct choice."
+                },
+                {
+                    "id": "G47",
+                    "difficulty": 2,
+                    "arabicHint": "As soon as + مضارع (بدون will)",
+                    "question": "Choose the correct sentence.",
+                    "prompt": [
+                        {
+                            "text": "Which sentence is grammatically correct?"
+                        }
+                    ],
+                    "options": [
+                        "I will text you as soon as I finish my homework.",
+                        "I will text you as soon as I will finish my homework.",
+                        "I text you as soon as I will finish my homework.",
+                        "I will text you as soon as I finished my homework."
+                    ],
+                    "answer": "I will text you as soon as I finish my homework.",
+                    "explanation": "After time expressions like \"as soon as,\" we use the present simple (finish), even when referring to the future. We do not use \"will\" in that clause."
+                },
+                {
+                    "id": "G48",
+                    "difficulty": 2,
+                    "arabicHint": "would للعادات الماضية فقط وليس للحالات",
+                    "question": "Choose the correct completion.",
+                    "prompt": [
+                        {
+                            "text": "When my grandfather was young, he would "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " stories to his friends every evening."
+                        }
+                    ],
+                    "options": [
+                        "tell",
+                        "be",
+                        "have",
+                        "know"
+                    ],
+                    "answer": "tell",
+                    "explanation": "\"Would\" is used for repeated past actions (habits). \"Tell stories\" is a repeated action. We cannot use \"would\" for past states like \"be\" or \"have.\""
+                },
+                {
+                    "id": "G49",
+                    "difficulty": 2,
+                    "arabicHint": "There is / There are حسب الاسم الأول",
+                    "question": "Choose the correct completion.",
+                    "prompt": [
+                        {
+                            "text": "There "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " a book and two pens on the table."
+                        }
+                    ],
+                    "options": [
+                        "is",
+                        "are",
+                        "were",
+                        "be"
+                    ],
+                    "answer": "is",
+                    "explanation": "When we use \"There is/are\" with more than one noun, the verb agrees with the first noun. \"A book\" is singular, so we use \"There is.\""
+                },
+                {
+                    "id": "G50",
+                    "difficulty": 2,
+                    "arabicHint": "the للأشياء الفريدة أو المعروفة + جمع غير منتظم",
+                    "question": "Choose the correct sentence.",
+                    "prompt": [
+                        {
+                            "text": "Which sentence is correct?"
+                        }
+                    ],
+                    "options": [
+                        "The children are playing in the yard.",
+                        "Children are playing in yard.",
+                        "The childs are playing in the yard.",
+                        "A children are playing in the yard."
+                    ],
+                    "answer": "The children are playing in the yard.",
+                    "explanation": "\"Children\" is the correct irregular plural of \"child.\" We also use \"the\" when referring to specific children and a specific yard known to the speaker and listener."
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "questions": [
+                {
+                    "id": "V1",
+                    "difficulty": 1,
+                    "arabicHint": "يرد / يجيب",
+                    "question": "Choose the word closest in meaning to \"answer\" in an email context.",
+                    "prompt": [
+                        {
+                            "text": "He didn’t "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " my email yesterday."
+                        }
+                    ],
+                    "options": [
+                        "reply to",
+                        "delete",
+                        "forward",
+                        "print"
+                    ],
+                    "answer": "reply to",
+                    "explanation": "In email language, \"reply to\" means to answer a message."
+                },
+                {
+                    "id": "V2",
+                    "difficulty": 1,
+                    "arabicHint": "ترتيبات السفر",
+                    "question": "Choose the correct meaning of \"travel arrangements.\"",
+                    "prompt": [
+                        {
+                            "text": "Please confirm your final "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " before your trip."
+                        }
+                    ],
+                    "options": [
+                        "travel arrangements",
+                        "shoe sizes",
+                        "office rules",
+                        "email passwords"
+                    ],
+                    "answer": "travel arrangements",
+                    "explanation": "\"Travel arrangements\" refers to plans and bookings for a trip, such as flights and hotels."
+                },
+                {
+                    "id": "V3",
+                    "difficulty": 1,
+                    "arabicHint": "مورد / مزود",
+                    "question": "Choose the word for a company that provides products.",
+                    "prompt": [
+                        {
+                            "text": "The company is looking for a new "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " to deliver materials."
+                        }
+                    ],
+                    "options": [
+                        "supplier",
+                        "customer",
+                        "manager",
+                        "visitor"
+                    ],
+                    "answer": "supplier",
+                    "explanation": "A supplier is a company or person that provides goods to another company."
+                },
+                {
+                    "id": "V4",
+                    "difficulty": 2,
+                    "arabicHint": "يستورد",
+                    "question": "Choose the word closest in meaning to \"brought from another country.\"",
+                    "prompt": [
+                        {
+                            "text": "These products are "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " from Europe."
+                        }
+                    ],
+                    "options": [
+                        "imported",
+                        "invented",
+                        "improved",
+                        "included"
+                    ],
+                    "answer": "imported",
+                    "explanation": "\"Imported\" means brought into a country from another country to be sold."
+                },
+                {
+                    "id": "V5",
+                    "difficulty": 1,
+                    "arabicHint": "يناقش",
+                    "question": "Choose the correct meaning of \"discuss.\"",
+                    "prompt": [
+                        {
+                            "text": "We need to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " the plan before making a decision."
+                        }
+                    ],
+                    "options": [
+                        "talk about",
+                        "cancel",
+                        "hide",
+                        "forget"
+                    ],
+                    "answer": "talk about",
+                    "explanation": "\"Discuss\" means to talk about something in detail."
+                },
+                {
+                    "id": "V6",
+                    "difficulty": 1,
+                    "arabicHint": "يرسل / يحول",
+                    "question": "Choose the correct word.",
+                    "prompt": [
+                        {
+                            "text": "If this email isn’t for you, please "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " it to the right person."
+                        }
+                    ],
+                    "options": [
+                        "forward",
+                        "delete",
+                        "close",
+                        "save"
+                    ],
+                    "answer": "forward",
+                    "explanation": "To \"forward\" an email means to send it to another person."
+                },
+                {
+                    "id": "V7",
+                    "difficulty": 2,
+                    "arabicHint": "بعيد عن الأنظار",
+                    "question": "Choose the closest meaning of \"out of sight.\"",
+                    "prompt": [
+                        {
+                            "text": "Even though you are "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": ", I still remember you."
+                        }
+                    ],
+                    "options": [
+                        "far away",
+                        "angry",
+                        "busy",
+                        "late"
+                    ],
+                    "answer": "far away",
+                    "explanation": "\"Out of sight\" means not physically near or not visible."
+                },
+                {
+                    "id": "V8",
+                    "difficulty": 1,
+                    "arabicHint": "مبروك",
+                    "question": "Choose the best word to complete the sentence.",
+                    "prompt": [
+                        {
+                            "text": "_____ on your graduation!"
+                        }
+                    ],
+                    "options": [
+                        "Congratulations",
+                        "Apology",
+                        "Meeting",
+                        "Discussion"
+                    ],
+                    "answer": "Congratulations",
+                    "explanation": "We say \"Congratulations\" to celebrate someone’s success or achievement."
+                },
+                {
+                    "id": "V9",
+                    "difficulty": 2,
+                    "arabicHint": "يستضيف / يوفر مكانًا للإقامة",
+                    "question": "Choose the correct meaning of \"put someone up.\"",
+                    "prompt": [
+                        {
+                            "text": "Can you "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " for two nights?"
+                        }
+                    ],
+                    "options": [
+                        "give someone a place to stay",
+                        "lift someone up",
+                        "send someone away",
+                        "call someone"
+                    ],
+                    "answer": "give someone a place to stay",
+                    "explanation": "\"Put someone up\" means to let someone stay in your home temporarily."
+                },
+                {
+                    "id": "V10",
+                    "difficulty": 1,
+                    "arabicHint": "يزعج / يسبب إزعاج",
+                    "question": "Choose the word closest in meaning to \"inconvenience.\"",
+                    "prompt": [
+                        {
+                            "text": "I don’t want to "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " you by arriving late."
+                        }
+                    ],
+                    "options": [
+                        "bother",
+                        "thank",
+                        "invite",
+                        "visit"
+                    ],
+                    "answer": "bother",
+                    "explanation": "\"Inconvenience\" means to cause trouble or difficulty for someone."
+                },
+                {
+                    "id": "V11",
+                    "difficulty": 1,
+                    "arabicHint": "معتاد على",
+                    "question": "Choose the closest meaning of \"used to\" in this context.",
+                    "prompt": [
+                        {
+                            "text": "She is "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " waking up early."
+                        }
+                    ],
+                    "options": [
+                        "accustomed to",
+                        "afraid of",
+                        "tired of",
+                        "interested in"
+                    ],
+                    "answer": "accustomed to",
+                    "explanation": "\"Be used to\" means to be accustomed to or familiar with something."
+                },
+                {
+                    "id": "V12",
+                    "difficulty": 2,
+                    "arabicHint": "غارق / مبتل تمامًا",
+                    "question": "Choose the correct meaning of \"soaked.\"",
+                    "prompt": [
+                        {
+                            "text": "After the storm, my clothes were completely "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ],
+                    "options": [
+                        "very wet",
+                        "very clean",
+                        "very new",
+                        "very dry"
+                    ],
+                    "answer": "very wet",
+                    "explanation": "\"Soaked\" means extremely wet."
+                },
+                {
+                    "id": "V13",
+                    "difficulty": 1,
+                    "arabicHint": "الموضوع (في البريد)",
+                    "question": "Choose the correct meaning of \"subject\" in an email.",
+                    "prompt": [
+                        {
+                            "text": "Don’t forget to write the email "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " before sending it."
+                        }
+                    ],
+                    "options": [
+                        "subject",
+                        "weather",
+                        "address",
+                        "attachment"
+                    ],
+                    "answer": "subject",
+                    "explanation": "The \"subject\" is the title or main topic of an email."
+                },
+                {
+                    "id": "V14",
+                    "difficulty": 2,
+                    "arabicHint": "الاستفادة من",
+                    "question": "Choose the closest meaning of \"take advantage of.\"",
+                    "prompt": [
+                        {
+                            "text": "You should "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " this opportunity."
+                        }
+                    ],
+                    "options": [
+                        "make good use of",
+                        "ignore",
+                        "complain about",
+                        "cancel"
+                    ],
+                    "answer": "make good use of",
+                    "explanation": "\"Take advantage of\" means to use something in a smart or beneficial way."
+                },
+                {
+                    "id": "V15",
+                    "difficulty": 2,
+                    "arabicHint": "حذف",
+                    "question": "Choose the correct word.",
+                    "prompt": [
+                        {
+                            "text": "If the message is spam, you should "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " it immediately."
+                        }
+                    ],
+                    "options": [
+                        "delete",
+                        "reply",
+                        "print",
+                        "save"
+                    ],
+                    "answer": "delete",
+                    "explanation": "To \"delete\" an email means to remove it from your inbox."
+                },
+                {
+                    "id": "V31",
+                    "difficulty": 1,
+                    "arabicHint": "يمارس",
+                    "question": "Choose the correct meaning of 'demonstrate' in this sentence.",
+                    "prompt": [
+                        {
+                            "text": "The scientist demonstrated how the machine worked."
+                        }
+                    ],
+                    "options": [
+                        {
+                            "text": "to show clearly",
+                            "correct": true
+                        },
+                        {
+                            "text": "to hide something"
+                        },
+                        {
+                            "text": "to destroy"
+                        },
+                        {
+                            "text": "to copy"
+                        }
+                    ]
+                },
+                {
+                    "id": "V32",
+                    "difficulty": 1,
+                    "arabicHint": "قابل للتطبيق",
+                    "question": "Choose the correct meaning of 'practical'.",
+                    "prompt": [
+                        {
+                            "text": "They needed a practical solution to the problem."
+                        }
+                    ],
+                    "options": [
+                        {
+                            "text": "useful and realistic",
+                            "correct": true
+                        },
+                        {
+                            "text": "very expensive"
+                        },
+                        {
+                            "text": "impossible"
+                        },
+                        {
+                            "text": "temporary"
+                        }
+                    ]
+                },
+                {
+                    "id": "V33",
+                    "difficulty": 2,
+                    "arabicHint": "غير مبالٍ",
+                    "question": "What does 'indifferently' most nearly mean?",
+                    "prompt": [
+                        {
+                            "text": "The idea was received indifferently by the public."
+                        }
+                    ],
+                    "options": [
+                        {
+                            "text": "without much interest",
+                            "correct": true
+                        },
+                        {
+                            "text": "with excitement"
+                        },
+                        {
+                            "text": "with anger"
+                        },
+                        {
+                            "text": "with fear"
+                        }
+                    ]
+                },
+                {
+                    "id": "V34",
+                    "difficulty": 1,
+                    "arabicHint": "حصل على تمويل",
+                    "question": "Choose the correct meaning of 'raise funds'.",
+                    "prompt": [
+                        {
+                            "text": "They worked hard to raise funds for the project."
+                        }
+                    ],
+                    "options": [
+                        {
+                            "text": "collect money",
+                            "correct": true
+                        },
+                        {
+                            "text": "spend money quickly"
+                        },
+                        {
+                            "text": "borrow money secretly"
+                        },
+                        {
+                            "text": "hide money"
+                        }
+                    ]
+                },
+                {
+                    "id": "V35",
+                    "difficulty": 1,
+                    "arabicHint": "مدّ / وسّع",
+                    "question": "What does 'extend' mean in this context?",
+                    "prompt": [
+                        {
+                            "text": "The company extended its services to new cities."
+                        }
+                    ],
+                    "options": [
+                        {
+                            "text": "expand",
+                            "correct": true
+                        },
+                        {
+                            "text": "cancel"
+                        },
+                        {
+                            "text": "shorten"
+                        },
+                        {
+                            "text": "reduce"
+                        }
+                    ]
+                },
+                {
+                    "id": "V36",
+                    "difficulty": 2,
+                    "arabicHint": "رفض بشدة",
+                    "question": "Choose the closest meaning of 'No way!'",
+                    "prompt": [
+                        {
+                            "text": "When I said I couldn’t come, he replied, \"No way!\""
+                        }
+                    ],
+                    "options": [
+                        {
+                            "text": "I completely reject that idea.",
+                            "correct": true
+                        },
+                        {
+                            "text": "Maybe later."
+                        },
+                        {
+                            "text": "That sounds fine."
+                        },
+                        {
+                            "text": "I agree."
+                        }
+                    ]
+                },
+                {
+                    "id": "V37",
+                    "difficulty": 1,
+                    "arabicHint": "يخيّب الأمل",
+                    "question": "What does 'let someone down' mean?",
+                    "prompt": [
+                        {
+                            "text": "I don’t want to let my parents down."
+                        }
+                    ],
+                    "options": [
+                        {
+                            "text": "make someone disappointed",
+                            "correct": true
+                        },
+                        {
+                            "text": "help someone stand up"
+                        },
+                        {
+                            "text": "call someone later"
+                        },
+                        {
+                            "text": "laugh at someone"
+                        }
+                    ]
+                },
+                {
+                    "id": "V38",
+                    "difficulty": 1,
+                    "arabicHint": "طبعاً",
+                    "question": "Choose the meaning of 'Of course' in this reply.",
+                    "prompt": [
+                        {
+                            "text": "\"Can I leave early?\" \"Of course.\" "
+                        }
+                    ],
+                    "options": [
+                        {
+                            "text": "Yes, you have permission.",
+                            "correct": true
+                        },
+                        {
+                            "text": "I am not sure."
+                        },
+                        {
+                            "text": "That is impossible."
+                        },
+                        {
+                            "text": "Ask someone else."
+                        }
+                    ]
+                },
+                {
+                    "id": "V39",
+                    "difficulty": 2,
+                    "arabicHint": "كن صريحًا",
+                    "question": "What does 'Be straight with me' mean?",
+                    "prompt": [
+                        {
+                            "text": "Be straight with me. Tell me the truth."
+                        }
+                    ],
+                    "options": [
+                        {
+                            "text": "Speak honestly and directly.",
+                            "correct": true
+                        },
+                        {
+                            "text": "Stand up properly."
+                        },
+                        {
+                            "text": "Leave immediately."
+                        },
+                        {
+                            "text": "Speak loudly."
+                        }
+                    ]
+                },
+                {
+                    "id": "V40",
+                    "difficulty": 1,
+                    "arabicHint": "يثبت",
+                    "question": "Choose the meaning of 'prove'.",
+                    "prompt": [
+                        {
+                            "text": "She proved that the system worked."
+                        }
+                    ],
+                    "options": [
+                        {
+                            "text": "show something is true",
+                            "correct": true
+                        },
+                        {
+                            "text": "hide evidence"
+                        },
+                        {
+                            "text": "question something"
+                        },
+                        {
+                            "text": "forget something"
+                        }
+                    ]
+                },
+                {
+                    "id": "V41",
+                    "difficulty": 2,
+                    "arabicHint": "يوافق",
+                    "question": "What does 'approve' mean?",
+                    "prompt": [
+                        {
+                            "text": "The plan was approved after the meeting."
+                        }
+                    ],
+                    "options": [
+                        {
+                            "text": "officially agree to something",
+                            "correct": true
+                        },
+                        {
+                            "text": "ignore something"
+                        },
+                        {
+                            "text": "laugh at something"
+                        },
+                        {
+                            "text": "delay something"
+                        }
+                    ]
+                },
+                {
+                    "id": "V42",
+                    "difficulty": 1,
+                    "arabicHint": "يرسل",
+                    "question": "Choose the closest meaning of 'dispatch'.",
+                    "prompt": [
+                        {
+                            "text": "The company dispatched the message immediately."
+                        }
+                    ],
+                    "options": [
+                        {
+                            "text": "send",
+                            "correct": true
+                        },
+                        {
+                            "text": "delete"
+                        },
+                        {
+                            "text": "receive"
+                        },
+                        {
+                            "text": "print"
+                        }
+                    ]
+                },
+                {
+                    "id": "V43",
+                    "difficulty": 1,
+                    "arabicHint": "حقبة",
+                    "question": "What does 'era' mean?",
+                    "prompt": [
+                        {
+                            "text": "It was the beginning of a new era in communication."
+                        }
+                    ],
+                    "options": [
+                        {
+                            "text": "a period of time",
+                            "correct": true
+                        },
+                        {
+                            "text": "a building"
+                        },
+                        {
+                            "text": "a machine"
+                        },
+                        {
+                            "text": "a person"
+                        }
+                    ]
+                },
+                {
+                    "id": "V44",
+                    "difficulty": 2,
+                    "arabicHint": "يتسلل للخارج",
+                    "question": "Choose the meaning of 'sneak out'.",
+                    "prompt": [
+                        {
+                            "text": "He decided to sneak out after dinner."
+                        }
+                    ],
+                    "options": [
+                        {
+                            "text": "leave quietly without being noticed",
+                            "correct": true
+                        },
+                        {
+                            "text": "run loudly"
+                        },
+                        {
+                            "text": "enter proudly"
+                        },
+                        {
+                            "text": "sleep early"
+                        }
+                    ]
+                },
+                {
+                    "id": "V45",
+                    "difficulty": 1,
+                    "arabicHint": "يصرّ",
+                    "question": "What does 'insist' mean?",
+                    "prompt": [
+                        {
+                            "text": "She insisted that I stay longer."
+                        }
+                    ],
+                    "options": [
+                        {
+                            "text": "demand firmly",
+                            "correct": true
+                        },
+                        {
+                            "text": "suggest politely"
+                        },
+                        {
+                            "text": "forget completely"
+                        },
+                        {
+                            "text": "cancel quickly"
+                        }
+                    ]
+                },
+                {
+                    "id": "V31",
+                    "difficulty": 1,
+                    "arabicHint": "يمارس",
+                    "question": "Choose the correct meaning of 'demonstrate' in this sentence.",
+                    "prompt": [
+                        {
+                            "text": "The scientist demonstrated how the machine worked."
+                        }
+                    ],
+                    "options": [
+                        {
+                            "text": "to show clearly",
+                            "correct": true
+                        },
+                        {
+                            "text": "to hide something"
+                        },
+                        {
+                            "text": "to destroy"
+                        },
+                        {
+                            "text": "to copy"
+                        }
+                    ]
+                },
+                {
+                    "id": "V32",
+                    "difficulty": 1,
+                    "arabicHint": "قابل للتطبيق",
+                    "question": "Choose the correct meaning of 'practical'.",
+                    "prompt": [
+                        {
+                            "text": "They needed a practical solution to the problem."
+                        }
+                    ],
+                    "options": [
+                        {
+                            "text": "useful and realistic",
+                            "correct": true
+                        },
+                        {
+                            "text": "very expensive"
+                        },
+                        {
+                            "text": "impossible"
+                        },
+                        {
+                            "text": "temporary"
+                        }
+                    ]
+                },
+                {
+                    "id": "V33",
+                    "difficulty": 2,
+                    "arabicHint": "غير مبالٍ",
+                    "question": "What does 'indifferently' most nearly mean?",
+                    "prompt": [
+                        {
+                            "text": "The idea was received indifferently by the public."
+                        }
+                    ],
+                    "options": [
+                        {
+                            "text": "without much interest",
+                            "correct": true
+                        },
+                        {
+                            "text": "with excitement"
+                        },
+                        {
+                            "text": "with anger"
+                        },
+                        {
+                            "text": "with fear"
+                        }
+                    ]
+                },
+                {
+                    "id": "V34",
+                    "difficulty": 1,
+                    "arabicHint": "حصل على تمويل",
+                    "question": "Choose the correct meaning of 'raise funds'.",
+                    "prompt": [
+                        {
+                            "text": "They worked hard to raise funds for the project."
+                        }
+                    ],
+                    "options": [
+                        {
+                            "text": "collect money",
+                            "correct": true
+                        },
+                        {
+                            "text": "spend money quickly"
+                        },
+                        {
+                            "text": "borrow money secretly"
+                        },
+                        {
+                            "text": "hide money"
+                        }
+                    ]
+                },
+                {
+                    "id": "V35",
+                    "difficulty": 1,
+                    "arabicHint": "مدّ / وسّع",
+                    "question": "What does 'extend' mean in this context?",
+                    "prompt": [
+                        {
+                            "text": "The company extended its services to new cities."
+                        }
+                    ],
+                    "options": [
+                        {
+                            "text": "expand",
+                            "correct": true
+                        },
+                        {
+                            "text": "cancel"
+                        },
+                        {
+                            "text": "shorten"
+                        },
+                        {
+                            "text": "reduce"
+                        }
+                    ]
+                },
+                {
+                    "id": "V36",
+                    "difficulty": 2,
+                    "arabicHint": "رفض بشدة",
+                    "question": "Choose the closest meaning of 'No way!'",
+                    "prompt": [
+                        {
+                            "text": "When I said I couldn’t come, he replied, \"No way!\""
+                        }
+                    ],
+                    "options": [
+                        {
+                            "text": "I completely reject that idea.",
+                            "correct": true
+                        },
+                        {
+                            "text": "Maybe later."
+                        },
+                        {
+                            "text": "That sounds fine."
+                        },
+                        {
+                            "text": "I agree."
+                        }
+                    ]
+                },
+                {
+                    "id": "V37",
+                    "difficulty": 1,
+                    "arabicHint": "يخيّب الأمل",
+                    "question": "What does 'let someone down' mean?",
+                    "prompt": [
+                        {
+                            "text": "I don’t want to let my parents down."
+                        }
+                    ],
+                    "options": [
+                        {
+                            "text": "make someone disappointed",
+                            "correct": true
+                        },
+                        {
+                            "text": "help someone stand up"
+                        },
+                        {
+                            "text": "call someone later"
+                        },
+                        {
+                            "text": "laugh at someone"
+                        }
+                    ]
+                },
+                {
+                    "id": "V38",
+                    "difficulty": 1,
+                    "arabicHint": "طبعاً",
+                    "question": "Choose the meaning of 'Of course' in this reply.",
+                    "prompt": [
+                        {
+                            "text": "\"Can I leave early?\" \"Of course.\" "
+                        }
+                    ],
+                    "options": [
+                        {
+                            "text": "Yes, you have permission.",
+                            "correct": true
+                        },
+                        {
+                            "text": "I am not sure."
+                        },
+                        {
+                            "text": "That is impossible."
+                        },
+                        {
+                            "text": "Ask someone else."
+                        }
+                    ]
+                },
+                {
+                    "id": "V39",
+                    "difficulty": 2,
+                    "arabicHint": "كن صريحًا",
+                    "question": "What does 'Be straight with me' mean?",
+                    "prompt": [
+                        {
+                            "text": "Be straight with me. Tell me the truth."
+                        }
+                    ],
+                    "options": [
+                        {
+                            "text": "Speak honestly and directly.",
+                            "correct": true
+                        },
+                        {
+                            "text": "Stand up properly."
+                        },
+                        {
+                            "text": "Leave immediately."
+                        },
+                        {
+                            "text": "Speak loudly."
+                        }
+                    ]
+                },
+                {
+                    "id": "V40",
+                    "difficulty": 1,
+                    "arabicHint": "يثبت",
+                    "question": "Choose the meaning of 'prove'.",
+                    "prompt": [
+                        {
+                            "text": "She proved that the system worked."
+                        }
+                    ],
+                    "options": [
+                        {
+                            "text": "show something is true",
+                            "correct": true
+                        },
+                        {
+                            "text": "hide evidence"
+                        },
+                        {
+                            "text": "question something"
+                        },
+                        {
+                            "text": "forget something"
+                        }
+                    ]
+                },
+                {
+                    "id": "V41",
+                    "difficulty": 2,
+                    "arabicHint": "يوافق",
+                    "question": "What does 'approve' mean?",
+                    "prompt": [
+                        {
+                            "text": "The plan was approved after the meeting."
+                        }
+                    ],
+                    "options": [
+                        {
+                            "text": "officially agree to something",
+                            "correct": true
+                        },
+                        {
+                            "text": "ignore something"
+                        },
+                        {
+                            "text": "laugh at something"
+                        },
+                        {
+                            "text": "delay something"
+                        }
+                    ]
+                },
+                {
+                    "id": "V42",
+                    "difficulty": 1,
+                    "arabicHint": "يرسل",
+                    "question": "Choose the closest meaning of 'dispatch'.",
+                    "prompt": [
+                        {
+                            "text": "The company dispatched the message immediately."
+                        }
+                    ],
+                    "options": [
+                        {
+                            "text": "send",
+                            "correct": true
+                        },
+                        {
+                            "text": "delete"
+                        },
+                        {
+                            "text": "receive"
+                        },
+                        {
+                            "text": "print"
+                        }
+                    ]
+                },
+                {
+                    "id": "V43",
+                    "difficulty": 1,
+                    "arabicHint": "حقبة",
+                    "question": "What does 'era' mean?",
+                    "prompt": [
+                        {
+                            "text": "It was the beginning of a new era in communication."
+                        }
+                    ],
+                    "options": [
+                        {
+                            "text": "a period of time",
+                            "correct": true
+                        },
+                        {
+                            "text": "a building"
+                        },
+                        {
+                            "text": "a machine"
+                        },
+                        {
+                            "text": "a person"
+                        }
+                    ]
+                },
+                {
+                    "id": "V44",
+                    "difficulty": 2,
+                    "arabicHint": "يتسلل للخارج",
+                    "question": "Choose the meaning of 'sneak out'.",
+                    "prompt": [
+                        {
+                            "text": "He decided to sneak out after dinner."
+                        }
+                    ],
+                    "options": [
+                        {
+                            "text": "leave quietly without being noticed",
+                            "correct": true
+                        },
+                        {
+                            "text": "run loudly"
+                        },
+                        {
+                            "text": "enter proudly"
+                        },
+                        {
+                            "text": "sleep early"
+                        }
+                    ]
+                },
+                {
+                    "id": "V45",
+                    "difficulty": 1,
+                    "arabicHint": "يصرّ",
+                    "question": "What does 'insist' mean?",
+                    "prompt": [
+                        {
+                            "text": "She insisted that I stay longer."
+                        }
+                    ],
+                    "options": [
+                        {
+                            "text": "demand firmly",
+                            "correct": true
+                        },
+                        {
+                            "text": "suggest politely"
+                        },
+                        {
+                            "text": "forget completely"
+                        },
+                        {
+                            "text": "cancel quickly"
+                        }
+                    ]
+                },
+                {
+                    "id": "V46",
+                    "difficulty": 2,
+                    "arabicHint": "صورة رقمية",
+                    "question": "Choose the word that means 'a picture made with an electronic device.'",
+                    "prompt": [
+                        {
+                            "text": "Before smartphones, people rarely took "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " with their phones."
+                        }
+                    ],
+                    "options": [
+                        "digital photos",
+                        "film rolls",
+                        "paintings",
+                        "sketches"
+                    ],
+                    "answer": "digital photos",
+                    "explanation": "'Digital photos' are images captured electronically, unlike printed photos or paintings."
+                },
+                {
+                    "id": "V47",
+                    "difficulty": 2,
+                    "arabicHint": "كاميرا",
+                    "question": "Which word refers to a device used to take photographs on film?",
+                    "prompt": [
+                        {
+                            "text": "People used a "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " to capture pictures before digital cameras existed."
+                        }
+                    ],
+                    "options": [
+                        "camera",
+                        "printer",
+                        "tablet",
+                        "scanner"
+                    ],
+                    "answer": "camera",
+                    "explanation": "A camera is a device that records photographs on film or digitally."
+                },
+                {
+                    "id": "V48",
+                    "difficulty": 2,
+                    "arabicHint": "توصيل / إيصال",
+                    "question": "What is the meaning of 'deliver' in this context?",
+                    "prompt": [
+                        {
+                            "text": "The paper boy would "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " newspapers to homes every morning."
+                        }
+                    ],
+                    "options": [
+                        "bring to someone's place",
+                        "read loudly",
+                        "throw away",
+                        "buy from store"
+                    ],
+                    "answer": "bring to someone's place",
+                    "explanation": "'Deliver' means to bring and hand over something to a person or place."
+                },
+                {
+                    "id": "V49",
+                    "difficulty": 3,
+                    "arabicHint": "ألبوم الصور",
+                    "question": "Choose the word that refers to a book where printed photos are collected.",
+                    "prompt": [
+                        {
+                            "text": "They put the printed photos in a photo "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " to keep them safe."
+                        }
+                    ],
+                    "options": [
+                        "album",
+                        "folder",
+                        "printer",
+                        "screen"
+                    ],
+                    "answer": "album",
+                    "explanation": "A photo album is a book or collection used to store printed photographs."
+                },
+                {
+                    "id": "V50",
+                    "difficulty": 3,
+                    "arabicHint": "إنترنت مطبوع",
+                    "question": "Which phrase best describes the grandfather’s idea of a newspaper delivery?",
+                    "prompt": [
+                        {
+                            "text": "He said receiving a newspaper every morning was like having a "
+                        },
+                        {
+                            "text": "_____",
+                            "underline": true,
+                            "bold": true
+                        },
+                        {
+                            "text": " on their doorstep."
+                        }
+                    ],
+                    "options": [
+                        "printed Internet",
+                        "digital device",
+                        "photo album",
+                        "telephone call"
+                    ],
+                    "answer": "printed Internet",
+                    "explanation": "He compared newspapers to the Internet because they provided information daily, but in printed form."
+                }
+            ]
+        }
+    ]
+}

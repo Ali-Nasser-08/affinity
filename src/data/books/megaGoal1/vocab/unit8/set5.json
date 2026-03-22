@@ -1,0 +1,1218 @@
+{
+    "unit": "Mega Goal 1 - Unit 8",
+    "type": "vocabulary building",
+    "setTitle": "End of Unit Vocabulary",
+    "words": [
+        {
+            "word": "amount",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "quantity or total",
+                    "highlight": true
+                },
+                {
+                    "text": " of something; how "
+                },
+                {
+                    "text": "much",
+                    "highlight2": true
+                },
+                {
+                    "text": " there is"
+                }
+            ],
+            "arabicMeaning": "كمية / مقدار",
+            "synonyms": [
+                "quantity",
+                "sum",
+                "total"
+            ],
+            "example": [
+                {
+                    "text": "What "
+                },
+                {
+                    "text": "amount",
+                    "colorize": true
+                },
+                {
+                    "text": " of money do you need to borrow?"
+                }
+            ],
+            "tips": "Amount is for uncountable things (amount of water, money). Number is for countable things (number of books, people)."
+        },
+        {
+            "word": "benefit",
+            "wordType": "noun/verb",
+            "definition": [
+                {
+                    "text": "An "
+                },
+                {
+                    "text": "advantage or positive result",
+                    "highlight": true
+                },
+                {
+                    "text": "; to "
+                },
+                {
+                    "text": "receive an advantage from",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "فائدة / يستفيد",
+            "synonyms": [
+                "advantage",
+                "gain",
+                "profit"
+            ],
+            "example": [
+                {
+                    "text": "Regular exercise has many health "
+                },
+                {
+                    "text": "benefits",
+                    "colorize": true
+                }
+            ],
+            "tips": "Beneficial = helpful, advantageous. Benefit from = gain advantage from. Employee benefits = perks like health insurance."
+        },
+        {
+            "word": "cash",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Money in the form of "
+                },
+                {
+                    "text": "coins or bills",
+                    "highlight": true
+                },
+                {
+                    "text": ", not "
+                },
+                {
+                    "text": "checks or credit cards",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "نقد / سيولة مالية",
+            "synonyms": [
+                "money",
+                "currency",
+                "bills and coins"
+            ],
+            "example": [
+                {
+                    "text": "I don't have any "
+                },
+                {
+                    "text": "cash",
+                    "colorize": true
+                },
+                {
+                    "text": " with me - can I pay by card?"
+                }
+            ],
+            "tips": "Cash vs credit. 'Pay in cash' = pay with physical money. Cashless society = using only digital payments."
+        },
+        {
+            "word": "charity",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "An organization that "
+                },
+                {
+                    "text": "helps people in need",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "voluntary giving",
+                    "highlight2": true
+                },
+                {
+                    "text": " to those in need"
+                }
+            ],
+            "arabicMeaning": "جمعية خيرية / صدقة",
+            "synonyms": [
+                "nonprofit organization",
+                "philanthropic organization"
+            ],
+            "example": [
+                {
+                    "text": "She donated $1000 to a "
+                },
+                {
+                    "text": "charity",
+                    "colorize": true
+                },
+                {
+                    "text": " that builds schools in poor countries"
+                }
+            ],
+            "tips": "Charitable = generous, helping others. Charity work = volunteer work. Do something for charity = donate or fundraise."
+        },
+        {
+            "word": "philanthropist",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A person who "
+                },
+                {
+                    "text": "donates money and time",
+                    "highlight": true
+                },
+                {
+                    "text": " to "
+                },
+                {
+                    "text": "help others",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "محسن / متبرع",
+            "synonyms": [
+                "benefactor",
+                "donor",
+                "humanitarian"
+            ],
+            "example": [
+                {
+                    "text": "Bill Gates is a famous "
+                },
+                {
+                    "text": "philanthropist",
+                    "colorize": true
+                },
+                {
+                    "text": " who has donated billions to charity"
+                }
+            ],
+            "tips": "Philanthropy = love of humanity, charitable giving. Philanthropic = relating to charity. Rich people who give back."
+        },
+        {
+            "word": "desert island",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "remote, uninhabited island",
+                    "highlight": true
+                },
+                {
+                    "text": " with "
+                },
+                {
+                    "text": "no people",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "جزيرة مهجورة",
+            "synonyms": [
+                "uninhabited island",
+                "isolated island"
+            ],
+            "example": [
+                {
+                    "text": "If you were stranded on a "
+                },
+                {
+                    "text": "desert island",
+                    "colorize": true
+                },
+                {
+                    "text": ", what three things would you want?"
+                }
+            ],
+            "tips": "Desert (verb) = abandon. A deserted island = abandoned, empty. Often used in hypothetical questions!"
+        },
+        {
+            "word": "empire",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A group of "
+                },
+                {
+                    "text": "countries or territories",
+                    "highlight": true
+                },
+                {
+                    "text": " ruled by "
+                },
+                {
+                    "text": "one authority",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "إمبراطورية",
+            "synonyms": [
+                "realm",
+                "domain",
+                "kingdom"
+            ],
+            "example": [
+                {
+                    "text": "The Roman "
+                },
+                {
+                    "text": "Empire",
+                    "colorize": true
+                },
+                {
+                    "text": " controlled much of Europe and North Africa"
+                }
+            ],
+            "tips": "Emperor/Empress = ruler of an empire. Business empire = large business controlling many companies. Imperial = relating to empire."
+        },
+        {
+            "word": "encounter",
+            "wordType": "verb/noun",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "meet or experience",
+                    "highlight": true
+                },
+                {
+                    "text": " something "
+                },
+                {
+                    "text": "unexpectedly",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يواجه / يصادف / لقاء",
+            "synonyms": [
+                "meet",
+                "come across",
+                "experience"
+            ],
+            "example": [
+                {
+                    "text": "We "
+                },
+                {
+                    "text": "encountered",
+                    "colorize": true
+                },
+                {
+                    "text": " some problems during the project"
+                }
+            ],
+            "tips": "Usually unexpected or unplanned. Encounter difficulties, encounter a person, chance encounter = accidental meeting."
+        },
+        {
+            "word": "extraterrestrial",
+            "wordType": "adjective/noun",
+            "definition": [
+                {
+                    "text": "Coming from "
+                },
+                {
+                    "text": "outside Earth",
+                    "highlight": true
+                },
+                {
+                    "text": "; an "
+                },
+                {
+                    "text": "alien being",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "خارج كوكب الأرض / كائن فضائي",
+            "synonyms": [
+                "alien",
+                "from outer space"
+            ],
+            "example": [
+                {
+                    "text": "Scientists search for signs of "
+                },
+                {
+                    "text": "extraterrestrial",
+                    "colorize": true
+                },
+                {
+                    "text": " life in the universe"
+                }
+            ],
+            "tips": "Extra- = outside, beyond. Terrestrial = of Earth. ET = extraterrestrial. Often shortened to 'alien'."
+        },
+        {
+            "word": "leader",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A person who "
+                },
+                {
+                    "text": "guides or directs",
+                    "highlight": true
+                },
+                {
+                    "text": " a "
+                },
+                {
+                    "text": "group or organization",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "قائد / زعيم",
+            "synonyms": [
+                "chief",
+                "head",
+                "commander"
+            ],
+            "example": [
+                {
+                    "text": "She is a natural "
+                },
+                {
+                    "text": "leader",
+                    "colorize": true
+                },
+                {
+                    "text": " who inspires her team"
+                }
+            ],
+            "tips": "Leadership = quality of leading. Lead = to guide. Political leader, team leader, world leader."
+        },
+        {
+            "word": "laureate",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A person who "
+                },
+                {
+                    "text": "receives an honor",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "prize",
+                    "highlight2": true
+                },
+                {
+                    "text": " for achievement"
+                }
+            ],
+            "arabicMeaning": "حائز على جائزة / فائز",
+            "synonyms": [
+                "prize winner",
+                "honoree"
+            ],
+            "example": [
+                {
+                    "text": "The Nobel "
+                },
+                {
+                    "text": "laureate",
+                    "colorize": true
+                },
+                {
+                    "text": " gave a speech about her research"
+                }
+            ],
+            "tips": "Most commonly: Nobel laureate = Nobel Prize winner. Poet laureate = official poet of a country."
+        },
+        {
+            "word": "mankind",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "All "
+                },
+                {
+                    "text": "human beings",
+                    "highlight": true
+                },
+                {
+                    "text": " considered as a "
+                },
+                {
+                    "text": "group",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "البشرية / الجنس البشري",
+            "synonyms": [
+                "humanity",
+                "human race",
+                "humankind"
+            ],
+            "example": [
+                {
+                    "text": "The internet has changed the way "
+                },
+                {
+                    "text": "mankind",
+                    "colorize": true
+                },
+                {
+                    "text": " communicates"
+                }
+            ],
+            "tips": "Formal word. Modern preference: 'humankind' or 'humanity' (more inclusive). Refers to all people throughout history."
+        },
+        {
+            "word": "prize",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "An "
+                },
+                {
+                    "text": "award given",
+                    "highlight": true
+                },
+                {
+                    "text": " for "
+                },
+                {
+                    "text": "winning or achieving",
+                    "highlight2": true
+                },
+                {
+                    "text": " something"
+                }
+            ],
+            "arabicMeaning": "جائزة",
+            "synonyms": [
+                "award",
+                "trophy",
+                "reward"
+            ],
+            "example": [
+                {
+                    "text": "She won first "
+                },
+                {
+                    "text": "prize",
+                    "colorize": true
+                },
+                {
+                    "text": " in the art competition"
+                }
+            ],
+            "tips": "Prize money, Nobel Prize, prize winner. As adjective: 'prize possession' = valued item. As verb: 'prize' = value highly."
+        },
+        {
+            "word": "award",
+            "wordType": "noun/verb",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "prize or honor",
+                    "highlight": true
+                },
+                {
+                    "text": " given for "
+                },
+                {
+                    "text": "achievement",
+                    "highlight2": true
+                },
+                {
+                    "text": "; to give such a prize"
+                }
+            ],
+            "arabicMeaning": "جائزة / يمنح جائزة",
+            "synonyms": [
+                "prize",
+                "honor",
+                "grant"
+            ],
+            "example": [
+                {
+                    "text": "The academy "
+                },
+                {
+                    "text": "awarded",
+                    "colorize": true
+                },
+                {
+                    "text": " him a scholarship for academic excellence"
+                }
+            ],
+            "tips": "Award ceremony, award-winning (having won awards). Similar to prize but often for professional/academic achievement."
+        },
+        {
+            "word": "stock market",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A place where "
+                },
+                {
+                    "text": "company shares",
+                    "highlight": true
+                },
+                {
+                    "text": " are "
+                },
+                {
+                    "text": "bought and sold",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "سوق الأوراق المالية / البورصة",
+            "synonyms": [
+                "stock exchange",
+                "equity market"
+            ],
+            "example": [
+                {
+                    "text": "Many people invest in the "
+                },
+                {
+                    "text": "stock market",
+                    "colorize": true
+                },
+                {
+                    "text": " hoping to make profits"
+                }
+            ],
+            "tips": "Stocks = shares of companies. Stock market crash = sudden major drop in prices. Bull market = rising, bear market = falling."
+        },
+        {
+            "word": "technology",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "application of science",
+                    "highlight": true
+                },
+                {
+                    "text": " for "
+                },
+                {
+                    "text": "practical purposes",
+                    "highlight2": true
+                },
+                {
+                    "text": "; tools and machines"
+                }
+            ],
+            "arabicMeaning": "تكنولوجيا / تقنية",
+            "synonyms": [
+                "tech",
+                "innovation",
+                "engineering"
+            ],
+            "example": [
+                {
+                    "text": "Modern "
+                },
+                {
+                    "text": "technology",
+                    "colorize": true
+                },
+                {
+                    "text": " has made communication faster and easier"
+                }
+            ],
+            "tips": "Technological = relating to technology. High-tech = advanced technology. Tech industry, information technology (IT)."
+        },
+        {
+            "word": "universe",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "All "
+                },
+                {
+                    "text": "matter and space",
+                    "highlight": true
+                },
+                {
+                    "text": " that exists; "
+                },
+                {
+                    "text": "everything",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "الكون",
+            "synonyms": [
+                "cosmos",
+                "space",
+                "all of creation"
+            ],
+            "example": [
+                {
+                    "text": "Scientists believe the "
+                },
+                {
+                    "text": "universe",
+                    "colorize": true
+                },
+                {
+                    "text": " began with the Big Bang"
+                }
+            ],
+            "tips": "Universal = relating to everything, everywhere. Expanding universe, observable universe. Bigger than galaxy or solar system."
+        },
+        {
+            "word": "wish",
+            "wordType": "verb/noun",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "want something",
+                    "highlight": true
+                },
+                {
+                    "text": " that may be "
+                },
+                {
+                    "text": "difficult or impossible",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يتمنى / أمنية",
+            "synonyms": [
+                "hope for",
+                "desire",
+                "want"
+            ],
+            "example": [
+                {
+                    "text": "I "
+                },
+                {
+                    "text": "wish",
+                    "colorize": true
+                },
+                {
+                    "text": " I could speak five languages fluently"
+                }
+            ],
+            "tips": "'I wish' often expresses regret or desire for something unreal. Make a wish = express a desire (birthday candles, shooting star)."
+        },
+        {
+            "word": "divide",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "separate into parts",
+                    "highlight": true
+                },
+                {
+                    "text": "; to "
+                },
+                {
+                    "text": "split up",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يقسم / يفصل",
+            "synonyms": [
+                "split",
+                "separate",
+                "partition"
+            ],
+            "example": [
+                {
+                    "text": "Let's "
+                },
+                {
+                    "text": "divide",
+                    "colorize": true
+                },
+                {
+                    "text": " the pizza into eight equal slices"
+                }
+            ],
+            "tips": "Division = act of dividing. Divided by (÷) in math. Divide and conquer = separate to control. Opposite: unite, combine."
+        },
+        {
+            "word": "split",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "divide or separate",
+                    "highlight": true
+                },
+                {
+                    "text": " into "
+                },
+                {
+                    "text": "parts or groups",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يقسم / ينقسم",
+            "synonyms": [
+                "divide",
+                "separate",
+                "break apart"
+            ],
+            "example": [
+                {
+                    "text": "They decided to "
+                },
+                {
+                    "text": "split",
+                    "colorize": true
+                },
+                {
+                    "text": " the bill equally at the restaurant"
+                }
+            ],
+            "tips": "Split the cost = share the cost. Split up = separate (relationship). Split decision = divided opinion."
+        },
+        {
+            "word": "invest",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "put money into",
+                    "highlight": true
+                },
+                {
+                    "text": " something expecting "
+                },
+                {
+                    "text": "profit or benefit",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يستثمر",
+            "synonyms": [
+                "put money in",
+                "fund",
+                "finance"
+            ],
+            "example": [
+                {
+                    "text": "She decided to "
+                },
+                {
+                    "text": "invest",
+                    "colorize": true
+                },
+                {
+                    "text": " in real estate"
+                }
+            ],
+            "tips": "Investment = money invested. Investor = person who invests. Invest in stocks, invest in education, invest time."
+        },
+        {
+            "word": "close",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Near in "
+                },
+                {
+                    "text": "distance, time, or relationship",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "intimate",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "قريب / حميم",
+            "synonyms": [
+                "near",
+                "intimate",
+                "tight"
+            ],
+            "example": [
+                {
+                    "text": "We are very "
+                },
+                {
+                    "text": "close",
+                    "colorize": true
+                },
+                {
+                    "text": " friends and tell each other everything"
+                }
+            ],
+            "tips": "Close friend = intimate friend. Close call = narrow escape. Pronunciation: adjective = 'clohs', verb = 'clohz'."
+        },
+        {
+            "word": "handwritten",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Written "
+                },
+                {
+                    "text": "by hand",
+                    "highlight": true
+                },
+                {
+                    "text": " with pen or pencil, not "
+                },
+                {
+                    "text": "typed or printed",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مكتوب بخط اليد",
+            "synonyms": [
+                "written by hand",
+                "in longhand"
+            ],
+            "example": [
+                {
+                    "text": "She received a "
+                },
+                {
+                    "text": "handwritten",
+                    "colorize": true
+                },
+                {
+                    "text": " letter from her grandmother"
+                }
+            ],
+            "tips": "More personal than typed. Handwriting = the way you write by hand. Handwritten notes feel more thoughtful."
+        },
+        {
+            "word": "historical",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Related to "
+                },
+                {
+                    "text": "history",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "past events",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "تاريخي",
+            "synonyms": [
+                "historic",
+                "past",
+                "from history"
+            ],
+            "example": [
+                {
+                    "text": "The museum displays "
+                },
+                {
+                    "text": "historical",
+                    "colorize": true
+                },
+                {
+                    "text": " artifacts from ancient Egypt"
+                }
+            ],
+            "tips": "Historical = relating to history. Historic = important in history. Historical novel, historical site, historical research."
+        },
+        {
+            "word": "lonely",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Feeling "
+                },
+                {
+                    "text": "sad from being alone",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "isolated",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "وحيد / يشعر بالوحدة",
+            "synonyms": [
+                "alone",
+                "isolated",
+                "solitary"
+            ],
+            "example": [
+                {
+                    "text": "She felt "
+                },
+                {
+                    "text": "lonely",
+                    "colorize": true
+                },
+                {
+                    "text": " after moving to a new city where she knew no one"
+                }
+            ],
+            "tips": "Loneliness = feeling of being lonely. Lonely = sad about being alone. Alone = just by yourself (not always sad)."
+        },
+        {
+            "word": "quiz show",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "TV game show",
+                    "highlight": true
+                },
+                {
+                    "text": " where people "
+                },
+                {
+                    "text": "answer questions",
+                    "highlight2": true
+                },
+                {
+                    "text": " to win prizes"
+                }
+            ],
+            "arabicMeaning": "برنامج مسابقات",
+            "synonyms": [
+                "game show",
+                "trivia show"
+            ],
+            "example": [
+                {
+                    "text": "He appeared on a "
+                },
+                {
+                    "text": "quiz show",
+                    "colorize": true
+                },
+                {
+                    "text": " and won $50,000"
+                }
+            ],
+            "tips": "Quiz = test of knowledge. Famous quiz shows: Jeopardy, Who Wants to Be a Millionaire. Test knowledge for entertainment."
+        },
+        {
+            "word": "keep in touch",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "maintain contact",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "communication",
+                    "highlight2": true
+                },
+                {
+                    "text": " with someone"
+                }
+            ],
+            "arabicMeaning": "يبقى على تواصل",
+            "synonyms": [
+                "stay in contact",
+                "stay connected"
+            ],
+            "example": [
+                {
+                    "text": "Let's "
+                },
+                {
+                    "text": "keep in touch",
+                    "colorize": true
+                },
+                {
+                    "text": " after graduation - here's my email"
+                }
+            ],
+            "tips": "Shows desire to continue relationship. Get in touch = make contact. Lose touch = stop communicating."
+        },
+        {
+            "word": "have a ball",
+            "wordType": "idiom",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "enjoy yourself greatly",
+                    "highlight": true
+                },
+                {
+                    "text": "; to "
+                },
+                {
+                    "text": "have a wonderful time",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يستمتع كثيراً",
+            "synonyms": [
+                "have fun",
+                "have a great time",
+                "enjoy yourself"
+            ],
+            "example": [
+                {
+                    "text": "We "
+                },
+                {
+                    "text": "had a ball",
+                    "colorize": true
+                },
+                {
+                    "text": " at the party last night!"
+                }
+            ],
+            "tips": "Very informal, enthusiastic expression. From old-fashioned formal dances called 'balls'. Always positive!"
+        },
+        {
+            "word": "this guy",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Informal way to "
+                },
+                {
+                    "text": "refer to a person",
+                    "highlight": true
+                },
+                {
+                    "text": ", often "
+                },
+                {
+                    "text": "casually or humorously",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "هذا الشخص / هذا الرجل",
+            "synonyms": [
+                "this person",
+                "this dude",
+                "this fellow"
+            ],
+            "example": [
+                {
+                    "text": "This guy",
+                    "colorize": true
+                },
+                {
+                    "text": " at work keeps telling the same jokes every day"
+                }
+            ],
+            "tips": "Very casual. Can be affectionate or dismissive depending on tone. 'Guy' traditionally male but often used generally."
+        },
+        {
+            "word": "to me",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "In "
+                },
+                {
+                    "text": "my opinion",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "from my perspective",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "بالنسبة لي / في رأيي",
+            "synonyms": [
+                "in my opinion",
+                "in my view"
+            ],
+            "example": [
+                {
+                    "text": "To me",
+                    "colorize": true
+                },
+                {
+                    "text": ", honesty is the most important quality in a friend"
+                }
+            ],
+            "tips": "Softens opinion statements. 'To me' = personally, I think. Shows you're expressing personal view, not universal truth."
+        },
+        {
+            "word": "you wouldn't know...?",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Polite way to "
+                },
+                {
+                    "text": "ask if someone has information",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "inquiring tentatively",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "هل تعرف...؟ (بشكل مهذب)",
+            "synonyms": [
+                "would you happen to know?",
+                "do you know by chance?"
+            ],
+            "example": [
+                {
+                    "text": "You wouldn't know",
+                    "colorize": true
+                },
+                {
+                    "text": " where the nearest coffee shop is, would you?"
+                }
+            ],
+            "tips": "Softens direct questions. More polite than 'Do you know...?'. Implies you don't expect them to know."
+        }
+    ]
+}

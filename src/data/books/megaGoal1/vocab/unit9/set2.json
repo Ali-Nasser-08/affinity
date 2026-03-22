@@ -1,0 +1,578 @@
+{
+    "unit": "Mega Goal 1 - Unit 9: Complaints Complaints",
+    "type": "misc",
+    "setTitle": "Miscellaneous",
+    "words": [
+        {
+            "word": "sew",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To join pieces of fabric together using "
+                },
+                {
+                    "text": "a needle and thread",
+                    "highlight": true
+                },
+                {
+                    "text": "; to "
+                },
+                {
+                    "text": "repair torn clothing",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يخيط",
+            "synonyms": [
+                "stitch",
+                "mend"
+            ],
+            "example": [
+                {
+                    "text": "My grandmother taught me how to "
+                },
+                {
+                    "text": "sew",
+                    "colorize": true
+                },
+                {
+                    "text": " a button back onto a shirt in under a minute"
+                }
+            ],
+            "tips": "Past tense: sewed or sewn (sewn is more common as past participle: 'a sewn patch'). Not the same as 'sow' (to plant seeds)."
+        },
+        {
+            "word": "sharpen",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To make a blade or point "
+                },
+                {
+                    "text": "more sharp or effective",
+                    "highlight": true
+                },
+                {
+                    "text": " by "
+                },
+                {
+                    "text": "grinding or honing",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُحدّد",
+            "synonyms": [
+                "hone",
+                "whet"
+            ],
+            "example": [
+                {
+                    "text": "You should "
+                },
+                {
+                    "text": "sharpen",
+                    "colorize": true
+                },
+                {
+                    "text": " your kitchen knives regularly—they're dangerous when dull"
+                }
+            ],
+            "tips": "Applies to knives, pencils, scissors, and even skills ('sharpen your math skills'). Opposite: dull/blunt."
+        },
+        {
+            "word": "dry-clean",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To clean clothes using "
+                },
+                {
+                    "text": "chemical solvents instead of water",
+                    "highlight": true
+                },
+                {
+                    "text": ", typically for "
+                },
+                {
+                    "text": "delicate fabrics",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُنظف بالكيميائيات / يُغسل جافًا",
+            "synonyms": [
+                "clean professionally",
+                "chemical clean"
+            ],
+            "example": [
+                {
+                    "text": "This silk dress label says '"
+                },
+                {
+                    "text": "dry-clean",
+                    "colorize": true
+                },
+                {
+                    "text": " only'—never put it in your washing machine"
+                }
+            ],
+            "tips": "Always check clothing labels. 'Dry-clean only' means water will damage the fabric. Many 'dry-clean' items can actually be hand-washed gently."
+        },
+        {
+            "word": "repair",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To fix something that is "
+                },
+                {
+                    "text": "broken or damaged",
+                    "highlight": true
+                },
+                {
+                    "text": " so it works or looks "
+                },
+                {
+                    "text": "properly again",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُصلح",
+            "synonyms": [
+                "fix",
+                "mend",
+                "restore"
+            ],
+            "example": [
+                {
+                    "text": "The technician will "
+                },
+                {
+                    "text": "repair",
+                    "colorize": true
+                },
+                {
+                    "text": " the laptop's keyboard tomorrow morning"
+                }
+            ],
+            "tips": "Noun form: repair (countable: 'two repairs'). Adjective: repairable (can be fixed) vs. irreparable (cannot be fixed)."
+        },
+        {
+            "word": "replace",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To remove something old or broken and "
+                },
+                {
+                    "text": "put a new one in its place",
+                    "highlight": true
+                },
+                {
+                    "text": "; to "
+                },
+                {
+                    "text": "substitute with something new",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يستبدل",
+            "synonyms": [
+                "substitute",
+                "exchange",
+                "swap out"
+            ],
+            "example": [
+                {
+                    "text": "The store agreed to "
+                },
+                {
+                    "text": "replace",
+                    "colorize": true
+                },
+                {
+                    "text": " the cracked phone screen under warranty"
+                }
+            ],
+            "tips": "Different from 'repair'—replacement means getting a new item/part, not fixing the old one. Often used for defective products within warranty period."
+        },
+        {
+            "word": "need to be",
+            "wordType": "grammar pattern",
+            "definition": [
+                {
+                    "text": "Structure showing something requires action by someone else; passive form emphasizing "
+                },
+                {
+                    "text": "necessity without specifying who",
+                    "highlight": true
+                },
+                {
+                    "text": " will do it"
+                }
+            ],
+            "arabicMeaning": "يحتاج إلى أن يُـ... (بناء مبني للمجهول)",
+            "synonyms": [
+                "require to be...",
+                "must be..."
+            ],
+            "example": [
+                {
+                    "text": "These documents "
+                },
+                {
+                    "text": "need to be signed",
+                    "colorize": true
+                },
+                {
+                    "text": " by the manager before noon"
+                }
+            ],
+            "tips": "Very common complaint/service language. Equivalent to active voice 'Someone needs to sign these documents' but focuses on the task, not the person."
+        },
+        {
+            "word": "have something done",
+            "wordType": "causative pattern",
+            "definition": [
+                {
+                    "text": "To arrange for another person to perform a service for you; emphasizes you "
+                },
+                {
+                    "text": "cause the action to happen",
+                    "highlight": true
+                },
+                {
+                    "text": " but "
+                },
+                {
+                    "text": "don't do it yourself",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُصلح / يُنجز (بواسطة شخص آخر)",
+            "synonyms": [
+                "arrange for someone to...",
+                "pay someone to..."
+            ],
+            "example": [
+                {
+                    "text": "I'm going to "
+                },
+                {
+                    "text": "have my shoes repaired",
+                    "colorize": true
+                },
+                {
+                    "text": " at the cobbler's shop downtown"
+                }
+            ],
+            "tips": "Structure: have/get + object + past participle. 'Have' is slightly more formal than 'get'. Both mean the same thing in this context."
+        },
+        {
+            "word": "broken",
+            "wordType": "adjective (past participle)",
+            "definition": [
+                {
+                    "text": "Damaged so that it no longer works or is "
+                },
+                {
+                    "text": "in separate pieces",
+                    "highlight": true
+                },
+                {
+                    "text": "; the past participle of "
+                },
+                {
+                    "text": "'break' used as an adjective",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مكسور",
+            "synonyms": [
+                "shattered",
+                "fractured",
+                "in pieces"
+            ],
+            "example": [
+                {
+                    "text": "Be careful walking near that table—the leg is "
+                },
+                {
+                    "text": "broken",
+                    "colorize": true
+                },
+                {
+                    "text": " and it might collapse"
+                }
+            ],
+            "tips": "Common pattern: past participles (broken, cracked, torn, damaged) become adjectives describing condition. Always comes before the noun or after 'be': 'broken window' or 'the window is broken'."
+        },
+        {
+            "word": "cracked",
+            "wordType": "adjective (past participle)",
+            "definition": [
+                {
+                    "text": "Having thin lines where the surface has "
+                },
+                {
+                    "text": "split but not separated completely",
+                    "highlight": true
+                },
+                {
+                    "text": "; especially used for "
+                },
+                {
+                    "text": "glass, ceramics, or screens",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "متشقق",
+            "synonyms": [
+                "fractured",
+                "fissured"
+            ],
+            "example": [
+                {
+                    "text": "She dropped her phone on the tiles and now the screen is "
+                },
+                {
+                    "text": "cracked",
+                    "colorize": true
+                },
+                {
+                    "text": " in three places"
+                }
+            ],
+            "tips": "Different from 'broken'—cracked implies the object still holds together but has visible splits. Often repairable if caught early."
+        },
+        {
+            "word": "torn",
+            "wordType": "adjective (past participle)",
+            "definition": [
+                {
+                    "text": "Ripped apart with a visible "
+                },
+                {
+                    "text": "opening or separation",
+                    "highlight": true
+                },
+                {
+                    "text": " in fabric, paper, or similar "
+                },
+                {
+                    "text": "material",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ممزّق",
+            "synonyms": [
+                "ripped",
+                "shredded"
+            ],
+            "example": [
+                {
+                    "text": "My backpack came back from the trip with a "
+                },
+                {
+                    "text": "torn",
+                    "colorize": true
+                },
+                {
+                    "text": " strap that I had to sew back together"
+                }
+            ],
+            "tips": "From verb 'tear' (irregular: tear → tore → torn). Not the same as 'torn' meaning emotionally conflicted ('torn between two choices')."
+        },
+        {
+            "word": "warning label",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "Text on a product that gives "
+                },
+                {
+                    "text": "safety instructions or cautions",
+                    "highlight": true
+                },
+                {
+                    "text": " to prevent "
+                },
+                {
+                    "text": "injury or damage",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ملصق تحذيري",
+            "synonyms": [
+                "caution notice",
+                "safety instruction"
+            ],
+            "example": [
+                {
+                    "text": "Always read the "
+                },
+                {
+                    "text": "warning label",
+                    "colorize": true
+                },
+                {
+                    "text": " on cleaning products before using them around children"
+                }
+            ],
+            "tips": "Often begins with 'WARNING', 'CAUTION', or 'DANGER' (in order of severity). Ignoring warning labels can void warranties or cause accidents."
+        },
+        {
+            "word": "do not",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Used on warning labels to give a "
+                },
+                {
+                    "text": "strict prohibition",
+                    "highlight": true
+                },
+                {
+                    "text": "; stronger and more formal than "
+                },
+                {
+                    "text": "'don't'",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "لا تـ (في التحذيرات)",
+            "synonyms": [
+                "never",
+                "avoid",
+                "prohibited"
+            ],
+            "example": [
+                {
+                    "text": "The medicine bottle clearly states: '"
+                },
+                {
+                    "text": "Do not",
+                    "colorize": true
+                },
+                {
+                    "text": " take with alcohol' in bold red letters"
+                }
+            ],
+            "tips": "Always written as two words on official warnings (never 'donot'). More authoritative than contractions—used for serious safety instructions."
+        },
+        {
+            "word": "keep upright",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To store or hold something in a "
+                },
+                {
+                    "text": "vertical position",
+                    "highlight": true
+                },
+                {
+                    "text": " (not tilted or upside down) to prevent "
+                },
+                {
+                    "text": "leaking or damage",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُحفظ في وضع مستقيم",
+            "synonyms": [
+                "store vertically",
+                "keep standing up"
+            ],
+            "example": [
+                {
+                    "text": "The paint can instructions say to "
+                },
+                {
+                    "text": "keep upright",
+                    "colorize": true
+                },
+                {
+                    "text": " during storage or the seal might leak"
+                }
+            ],
+            "tips": "Common on bottles, paint cans, and appliances with fluids inside. Opposite: 'store on side' or 'lay flat' (for specific items like refrigerators during transport)."
+        },
+        {
+            "word": "slope",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A surface that is "
+                },
+                {
+                    "text": "inclined or slanted",
+                    "highlight": true
+                },
+                {
+                    "text": " rather than flat; a "
+                },
+                {
+                    "text": "hill or incline",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "منحدر / ميل",
+            "synonyms": [
+                "incline",
+                "hill",
+                "gradient"
+            ],
+            "example": [
+                {
+                    "text": "Always engage the parking brake when stopping on a steep "
+                },
+                {
+                    "text": "slope",
+                    "colorize": true
+                },
+                {
+                    "text": " to prevent the car from rolling away"
+                }
+            ],
+            "tips": "Safety term often paired with 'brakes' in warnings. 'Put on brakes on slope' = essential safety instruction for strollers, cars, wheelchairs."
+        },
+        {
+            "word": "roll down",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To move downward while "
+                },
+                {
+                    "text": "turning over repeatedly",
+                    "highlight": true
+                },
+                {
+                    "text": "; especially used for wheeled objects moving "
+                },
+                {
+                    "text": "uncontrollably downhill",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ينحدر / يتدحرج لأسفل",
+            "synonyms": [
+                "tumble down",
+                "careen downhill"
+            ],
+            "example": [
+                {
+                    "text": "If you don't set the stroller brakes on that hill, it could "
+                },
+                {
+                    "text": "roll down",
+                    "colorize": true
+                },
+                {
+                    "text": " into the street"
+                }
+            ],
+            "tips": "Often appears in safety warnings with 'slope' or 'hill'. Implies dangerous, uncontrolled movement—not gentle rolling."
+        }
+    ]
+}

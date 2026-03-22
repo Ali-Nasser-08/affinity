@@ -1,0 +1,768 @@
+{
+    "unit": "Mega Goal 1 - Unit 6: Giving Advice",
+    "type": "vocabulary_box",
+    "setTitle": "End of Unit Vocabulary",
+    "words": [
+        {
+            "word": "peer pressure",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "Feeling pushed by "
+                },
+                {
+                    "text": "friends or classmates",
+                    "highlight": true
+                },
+                {
+                    "text": " to "
+                },
+                {
+                    "text": "do something you might not choose alone",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ضغط الأقران",
+            "synonyms": [
+                "group pressure",
+                "social influence"
+            ],
+            "example": [
+                {
+                    "text": "Young people often eat junk food because of "
+                },
+                {
+                    "text": "peer pressure",
+                    "colorize": true
+                },
+                {
+                    "text": "."
+                }
+            ],
+            "tips": "Can be positive (friends encouraging study) or negative (pressuring to smoke). Learning to say 'no' builds confidence."
+        },
+        {
+            "word": "cut down on",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "reduce gradually",
+                    "highlight": true
+                },
+                {
+                    "text": " the amount of "
+                },
+                {
+                    "text": "something you consume",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يقلل من",
+            "synonyms": [
+                "reduce",
+                "lessen"
+            ],
+            "example": [
+                {
+                    "text": "You should "
+                },
+                {
+                    "text": "cut down on",
+                    "colorize": true
+                },
+                {
+                    "text": " sugary drinks to improve your health."
+                }
+            ],
+            "tips": "Always 'cut down ON' (not 'cut down' alone). Gradual approach works better than stopping completely for most habits."
+        },
+        {
+            "word": "self-worth",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Your belief in your own "
+                },
+                {
+                    "text": "value as a person",
+                    "highlight": true
+                },
+                {
+                    "text": "; feeling "
+                },
+                {
+                    "text": "you deserve respect and care",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "تقدير الذات",
+            "synonyms": [
+                "self-esteem",
+                "self-respect"
+            ],
+            "example": [
+                {
+                    "text": "Strong "
+                },
+                {
+                    "text": "self-worth",
+                    "colorize": true
+                },
+                {
+                    "text": " helps you resist unhealthy peer pressure."
+                }
+            ],
+            "tips": "Not the same as selfishness—self-worth means respecting yourself while still caring about others."
+        },
+        {
+            "word": "nutritious",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Containing substances that "
+                },
+                {
+                    "text": "help your body stay healthy",
+                    "highlight": true
+                },
+                {
+                    "text": " and "
+                },
+                {
+                    "text": "give you energy",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مغذي",
+            "synonyms": [
+                "healthy",
+                "wholesome"
+            ],
+            "example": [
+                {
+                    "text": "Fruits and vegetables are "
+                },
+                {
+                    "text": "nutritious",
+                    "colorize": true
+                },
+                {
+                    "text": " foods that support good health."
+                }
+            ],
+            "tips": "Nutritious ≠ tasty (some healthy food isn't delicious). Look for vitamins, minerals, and fiber on food labels."
+        },
+        {
+            "word": "ought to",
+            "wordType": "modal phrase",
+            "definition": [
+                {
+                    "text": "Used to give "
+                },
+                {
+                    "text": "advice or recommendation",
+                    "highlight": true
+                },
+                {
+                    "text": " that is "
+                },
+                {
+                    "text": "morally or practically right",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ينبغي أن",
+            "synonyms": [
+                "should",
+                "it would be good to"
+            ],
+            "example": [
+                {
+                    "text": "You "
+                },
+                {
+                    "text": "ought to",
+                    "colorize": true
+                },
+                {
+                    "text": " talk to a counselor if you're feeling depressed."
+                }
+            ],
+            "tips": "More formal than 'should'. Always followed by base verb (ought to exercise). Shows obligation based on reason or duty."
+        },
+        {
+            "word": "eating disorder",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A serious mental health condition where someone has "
+                },
+                {
+                    "text": "unhealthy eating habits",
+                    "highlight": true
+                },
+                {
+                    "text": " and "
+                },
+                {
+                    "text": "distorted thoughts about food and body",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "اضطراب أكل",
+            "synonyms": [
+                "food-related mental illness"
+            ],
+            "example": [
+                {
+                    "text": "Anorexia is one type of "
+                },
+                {
+                    "text": "eating disorder",
+                    "colorize": true
+                },
+                {
+                    "text": " that requires professional treatment."
+                }
+            ],
+            "tips": "Not a lifestyle choice—it's a medical condition. Early treatment greatly improves recovery chances. Never joke about eating disorders."
+        },
+        {
+            "word": "put off",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "delay doing something",
+                    "highlight": true
+                },
+                {
+                    "text": " because you "
+                },
+                {
+                    "text": "don't want to do it now",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يؤجل",
+            "synonyms": [
+                "postpone",
+                "procrastinate"
+            ],
+            "example": [
+                {
+                    "text": "Don't "
+                },
+                {
+                    "text": "put off",
+                    "colorize": true
+                },
+                {
+                    "text": " exercising—start with just 10 minutes today."
+                }
+            ],
+            "tips": "Put off + noun/gerund (put off homework/putting off studying). Common with tasks people find difficult or boring."
+        },
+        {
+            "word": "well-being",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A state of being "
+                },
+                {
+                    "text": "healthy and happy",
+                    "highlight": true
+                },
+                {
+                    "text": " in body, mind, and "
+                },
+                {
+                    "text": "emotions",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "رفاهية / عافية",
+            "synonyms": [
+                "health and happiness",
+                "overall wellness"
+            ],
+            "example": [
+                {
+                    "text": "Regular exercise improves both physical health and emotional "
+                },
+                {
+                    "text": "well-being",
+                    "colorize": true
+                },
+                {
+                    "text": "."
+                }
+            ],
+            "tips": "Includes physical health, mental health, and life satisfaction. Not just 'feeling good today'—it's a sustained state of wellness."
+        },
+        {
+            "word": "turn down",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "refuse politely",
+                    "highlight": true
+                },
+                {
+                    "text": " an "
+                },
+                {
+                    "text": "offer or invitation",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يرفض بلطف",
+            "synonyms": [
+                "decline",
+                "say no to"
+            ],
+            "example": [
+                {
+                    "text": "You can "
+                },
+                {
+                    "text": "turn down",
+                    "colorize": true
+                },
+                {
+                    "text": " junk food offers without being rude."
+                }
+            ],
+            "tips": "Turn down an offer/request. Polite refusal: 'Thanks, but I'm trying to eat healthier' works well. Not the same as 'turn down the volume'."
+        },
+        {
+            "word": "had better",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Used to give "
+                },
+                {
+                    "text": "strong advice or warning",
+                    "highlight": true
+                },
+                {
+                    "text": " that something "
+                },
+                {
+                    "text": "important or negative will happen",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "من الأفضل أن",
+            "synonyms": [
+                "you should really",
+                "it's important to"
+            ],
+            "example": [
+                {
+                    "text": "You "
+                },
+                {
+                    "text": "had better",
+                    "colorize": true
+                },
+                {
+                    "text": " see a doctor if you haven't eaten properly for weeks."
+                }
+            ],
+            "tips": "Short for 'you had better'. Stronger than 'should'—implies serious consequences if ignored. Often used for health/safety warnings."
+        },
+        {
+            "word": "anorexia",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "An eating disorder where someone "
+                },
+                {
+                    "text": "fears gaining weight",
+                    "highlight": true
+                },
+                {
+                    "text": " and "
+                },
+                {
+                    "text": "eats very little food",
+                    "highlight2": true
+                },
+                {
+                    "text": " despite being underweight"
+                }
+            ],
+            "arabicMeaning": "فقدان الشهية العصبي",
+            "synonyms": [
+                "anorexia nervosa"
+            ],
+            "example": [
+                {
+                    "text": "People with "
+                },
+                {
+                    "text": "anorexia",
+                    "colorize": true
+                },
+                {
+                    "text": " often see themselves as overweight even when dangerously thin."
+                }
+            ],
+            "tips": "Life-threatening condition requiring medical treatment. Not a choice or phase— it's a serious mental illness affecting body image."
+        },
+        {
+            "word": "give up",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "stop trying",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "quit a habit completely",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يتخلى عن / يستسلم",
+            "synonyms": [
+                "quit",
+                "stop completely"
+            ],
+            "example": [
+                {
+                    "text": "Don't "
+                },
+                {
+                    "text": "give up",
+                    "colorize": true
+                },
+                {
+                    "text": " on healthy eating after one mistake—just continue tomorrow."
+                }
+            ],
+            "tips": "Give up smoking/sweets/a habit. Different meaning: 'give up' = surrender (give up the fight). Context shows which meaning applies."
+        },
+        {
+            "word": "appetite",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The natural "
+                },
+                {
+                    "text": "feeling of hunger",
+                    "highlight": true
+                },
+                {
+                    "text": " that makes you "
+                },
+                {
+                    "text": "want to eat food",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "شهية",
+            "synonyms": [
+                "hunger",
+                "desire for food"
+            ],
+            "example": [
+                {
+                    "text": "Stress can reduce your "
+                },
+                {
+                    "text": "appetite",
+                    "colorize": true
+                },
+                {
+                    "text": ", making you eat less than your body needs."
+                }
+            ],
+            "tips": "Lose your appetite = stop feeling hungry (often when sick or stressed). Healthy appetite returns when you feel better."
+        },
+        {
+            "word": "lean",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Low in fat; "
+                },
+                {
+                    "text": "thin or slim",
+                    "highlight": true
+                },
+                {
+                    "text": " in body shape or "
+                },
+                {
+                    "text": "food content",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "نحيف / خالي من الدهون",
+            "synonyms": [
+                "low-fat",
+                "slim"
+            ],
+            "example": [
+                {
+                    "text": "Choose "
+                },
+                {
+                    "text": "lean",
+                    "colorize": true
+                },
+                {
+                    "text": " meats like chicken breast or fish instead of fatty cuts."
+                }
+            ],
+            "tips": "Lean body = low body fat. Lean meat = little visible fat. Not the same as 'skinny' (which can imply unhealthy thinness)."
+        },
+        {
+            "word": "feeling down",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Experiencing a "
+                },
+                {
+                    "text": "low mood or sadness",
+                    "highlight": true
+                },
+                {
+                    "text": " that makes you feel "
+                },
+                {
+                    "text": "discouraged",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يشعر بحالة نفسية سيئة",
+            "synonyms": [
+                "feeling sad",
+                "in low spirits"
+            ],
+            "example": [
+                {
+                    "text": "After weeks of poor eating habits, she started "
+                },
+                {
+                    "text": "feeling down",
+                    "colorize": true
+                },
+                {
+                    "text": " and lost interest in activities she used to enjoy."
+                }
+            ],
+            "tips": "Temporary emotional state (not clinical depression). Exercise and healthy food often help improve mood naturally."
+        },
+        {
+            "word": "counselor",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A trained person who "
+                },
+                {
+                    "text": "gives advice and support",
+                    "highlight": true
+                },
+                {
+                    "text": " for "
+                },
+                {
+                    "text": "personal or emotional problems",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مستشار نفسي",
+            "synonyms": [
+                "therapist",
+                "advisor"
+            ],
+            "example": [
+                {
+                    "text": "School "
+                },
+                {
+                    "text": "counselors",
+                    "colorize": true
+                },
+                {
+                    "text": " can help students dealing with stress, eating issues, or low self-worth."
+                }
+            ],
+            "tips": "Not the same as 'psychiatrist' (medical doctor who can prescribe medicine). Counselors use talk therapy to help people."
+        },
+        {
+            "word": "take up",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "start a new activity",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "hobby regularly",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يبدأ (نشاط جديد)",
+            "synonyms": [
+                "start doing",
+                "begin"
+            ],
+            "example": [
+                {
+                    "text": "To improve fitness, he decided to "
+                },
+                {
+                    "text": "take up",
+                    "colorize": true
+                },
+                {
+                    "text": " swimming three times a week."
+                }
+            ],
+            "tips": "Take up yoga/running/gardening. Not the same as 'take over' (assume control). Starting slowly increases chances of sticking with it."
+        },
+        {
+            "word": "to be honest",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "An expression used before "
+                },
+                {
+                    "text": "sharing a truthful opinion",
+                    "highlight": true
+                },
+                {
+                    "text": " that might be "
+                },
+                {
+                    "text": "uncomfortable to say",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "بصراحة",
+            "synonyms": [
+                "frankly",
+                "truthfully"
+            ],
+            "example": [
+                {
+                    "text": ""
+                },
+                {
+                    "text": "To be honest",
+                    "colorize": true
+                },
+                {
+                    "text": ", skipping meals isn't a healthy way to lose weight."
+                }
+            ],
+            "tips": "Softens blunt statements. Often used when admitting something awkward. Not always literal—sometimes just adds emphasis to what follows."
+        },
+        {
+            "word": "put up with",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "tolerate or accept",
+                    "highlight": true
+                },
+                {
+                    "text": " something "
+                },
+                {
+                    "text": "unpleasant without complaining",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يتحمّل / يصبر على",
+            "synonyms": [
+                "endure",
+                "tolerate"
+            ],
+            "example": [
+                {
+                    "text": "You shouldn't have to "
+                },
+                {
+                    "text": "put up with",
+                    "colorize": true
+                },
+                {
+                    "text": " bullying or negative comments about your body."
+                }
+            ],
+            "tips": "Put up with + noun/gerund (put up with noise/putting up with criticism). Implies patience but also possible resentment—healthy boundaries are better than always putting up with bad treatment."
+        },
+        {
+            "word": "fitness",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The condition of being "
+                },
+                {
+                    "text": "physically healthy and strong",
+                    "highlight": true
+                },
+                {
+                    "text": " through "
+                },
+                {
+                    "text": "regular exercise and good habits",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "لياقة بدنية",
+            "synonyms": [
+                "physical health",
+                "being in shape"
+            ],
+            "example": [
+                {
+                    "text": "Good "
+                },
+                {
+                    "text": "fitness",
+                    "colorize": true
+                },
+                {
+                    "text": " comes from balanced eating, regular movement, and enough sleep—not just intense workouts."
+                }
+            ],
+            "tips": "Fitness includes strength, flexibility, and endurance—not just being thin. Small consistent efforts matter more than occasional extreme exercise."
+        }
+    ]
+}

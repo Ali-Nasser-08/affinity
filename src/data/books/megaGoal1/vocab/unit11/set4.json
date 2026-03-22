@@ -1,0 +1,634 @@
+{
+    "unit": "Mega Goal 1 - Unit 11: Life's Regrets",
+    "type": "reading",
+    "setTitle": "Daily Journal: Advice Column",
+    "words": [
+        {
+            "word": "allowance",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A fixed amount of money given regularly, especially to "
+                },
+                {
+                    "text": "children or teenagers",
+                    "highlight": true
+                },
+                {
+                    "text": " by parents for "
+                },
+                {
+                    "text": "personal expenses",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مصروف شخصي / مصروف الجيب",
+            "synonyms": [
+                "pocket money",
+                "weekly stipend"
+            ],
+            "example": [
+                {
+                    "text": "My parents give me a $20 "
+                },
+                {
+                    "text": "allowance",
+                    "colorize": true
+                },
+                {
+                    "text": " every Friday to buy snacks and save for video games"
+                }
+            ],
+            "tips": "Common in families to teach money management. Not the same as 'salary' (payment for work) or 'gift' (one-time, no expectation of regularity)."
+        },
+        {
+            "word": "loan",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To give money or an item to someone temporarily with the expectation it will be "
+                },
+                {
+                    "text": "returned later",
+                    "highlight": true
+                },
+                {
+                    "text": "; the act of "
+                },
+                {
+                    "text": "lending",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يُقرض",
+            "synonyms": [
+                "lend",
+                "advance money"
+            ],
+            "example": [
+                {
+                    "text": "My sister "
+                },
+                {
+                    "text": "loaned",
+                    "colorize": true
+                },
+                {
+                    "text": " me her textbook for the semester, and I returned it in perfect condition"
+                }
+            ],
+            "tips": "CRUCIAL: YOU loan/lend TO someone (you give). YOU borrow FROM someone (you receive). 'Can you loan me $10?' ✅ NOT 'Can you borrow me $10?' ❌"
+        },
+        {
+            "word": "helping out",
+            "wordType": "phrasal verb phrase",
+            "definition": [
+                {
+                    "text": "Assisting someone with a task or problem, especially in an "
+                },
+                {
+                    "text": "informal or voluntary way",
+                    "highlight": true
+                },
+                {
+                    "text": "; giving "
+                },
+                {
+                    "text": "practical support",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يساعد / يُعين",
+            "synonyms": [
+                "assisting",
+                "lending a hand",
+                "pitching in"
+            ],
+            "example": [
+                {
+                    "text": "My neighbor has been "
+                },
+                {
+                    "text": "helping out",
+                    "colorize": true
+                },
+                {
+                    "text": " by walking my dog while I'm at work this week"
+                }
+            ],
+            "tips": "Casual, friendly expression. Often used for temporary assistance. 'Help out with' + task: 'help out with homework', 'help out around the house'."
+        },
+        {
+            "word": "embarrassed",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Feeling "
+                },
+                {
+                    "text": "self-conscious, ashamed",
+                    "highlight": true
+                },
+                {
+                    "text": ", or uncomfortable because of something "
+                },
+                {
+                    "text": "humiliating",
+                    "highlight2": true
+                },
+                {
+                    "text": " that happened"
+                }
+            ],
+            "arabicMeaning": "مُحرج",
+            "synonyms": [
+                "humiliated",
+                "self-conscious",
+                "ashamed"
+            ],
+            "example": [
+                {
+                    "text": "She felt deeply "
+                },
+                {
+                    "text": "embarrassed",
+                    "colorize": true
+                },
+                {
+                    "text": " when she tripped and spilled her lunch tray in front of the entire cafeteria"
+                }
+            ],
+            "tips": "Stronger than 'shy'. Often caused by social mistakes or public attention. Not the same as 'embarassed' (common misspelling—only one 'r' after 'm')."
+        },
+        {
+            "word": "in public",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "In a place where other people can see or hear you; not in "
+                },
+                {
+                    "text": "private or alone",
+                    "highlight": true
+                },
+                {
+                    "text": "; where actions are "
+                },
+                {
+                    "text": "visible to strangers",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "في العلن / أمام الناس",
+            "synonyms": [
+                "openly",
+                "where others can see",
+                "in front of others"
+            ],
+            "example": [
+                {
+                    "text": "He prefers to discuss personal problems at home, not "
+                },
+                {
+                    "text": "in public",
+                    "colorize": true
+                },
+                {
+                    "text": " where strangers might overhear"
+                }
+            ],
+            "tips": "Important social concept—many cultures consider certain topics (money, health problems) inappropriate to discuss in public. Opposite: in private, behind closed doors."
+        },
+        {
+            "word": "trust",
+            "wordType": "noun/verb",
+            "definition": [
+                {
+                    "text": "The belief that someone is "
+                },
+                {
+                    "text": "honest, reliable",
+                    "highlight": true
+                },
+                {
+                    "text": ", and will not "
+                },
+                {
+                    "text": "deliberately harm you",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ثقة",
+            "synonyms": [
+                "confidence",
+                "faith",
+                "reliance"
+            ],
+            "example": [
+                {
+                    "text": "After she kept my secret for years, I knew I could place my complete "
+                },
+                {
+                    "text": "trust",
+                    "colorize": true
+                },
+                {
+                    "text": " in her"
+                }
+            ],
+            "tips": "Foundation of all relationships. Easily broken ('betrayed my trust') and hard to rebuild. Verb form: 'I trust you' (present), 'I trusted you' (past)."
+        },
+        {
+            "word": "devastated",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Overwhelmed with extreme sadness, grief, or shock; emotionally "
+                },
+                {
+                    "text": "crushed",
+                    "highlight": true
+                },
+                {
+                    "text": " by a "
+                },
+                {
+                    "text": "painful event",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مُدمَّر نفسيًا / مُنهار",
+            "synonyms": [
+                "heartbroken",
+                "shattered",
+                "deeply distressed"
+            ],
+            "example": [
+                {
+                    "text": "She was completely "
+                },
+                {
+                    "text": "devastated",
+                    "colorize": true
+                },
+                {
+                    "text": " when her beloved dog passed away after fifteen years together"
+                }
+            ],
+            "tips": "Very strong emotion word—stronger than 'sad' or 'upset'. Often used for major losses (death, breakup, disaster). Not the same as 'devastating' (adjective describing the event itself)."
+        },
+        {
+            "word": "limousine",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A large, luxurious car with a driver, often used for "
+                },
+                {
+                    "text": "special occasions",
+                    "highlight": true
+                },
+                {
+                    "text": " or by "
+                },
+                {
+                    "text": "wealthy individuals",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ليموزين",
+            "synonyms": [
+                "luxury car",
+                "stretch limo",
+                "chauffeured car"
+            ],
+            "example": [
+                {
+                    "text": "The newlyweds arrived at their wedding reception in a white "
+                },
+                {
+                    "text": "limousine",
+                    "colorize": true
+                },
+                {
+                    "text": " decorated with ribbons and flowers"
+                }
+            ],
+            "tips": "Often shortened to 'limo' in casual speech. Driven by a 'chauffeur' (professional driver). Not the same as a taxi—limousines are pre-booked for specific events/routes."
+        },
+        {
+            "word": "wealthy",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Having a large amount of money, valuable possessions, or "
+                },
+                {
+                    "text": "financial resources",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "rich",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "غني / ثري",
+            "synonyms": [
+                "rich",
+                "affluent",
+                "well-off"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "wealthy",
+                    "colorize": true
+                },
+                {
+                    "text": " businessman donated millions to build a new children's hospital in his hometown"
+                }
+            ],
+            "tips": "More formal than 'rich'. Often implies not just money but property, investments, and social status. Opposite: poor, impoverished."
+        },
+        {
+            "word": "prestigious",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Respected and admired because of "
+                },
+                {
+                    "text": "excellence, importance",
+                    "highlight": true
+                },
+                {
+                    "text": ", or high "
+                },
+                {
+                    "text": "social standing",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مرموق / ذي مكانة عالية",
+            "synonyms": [
+                "highly regarded",
+                "distinguished",
+                "renowned"
+            ],
+            "example": [
+                {
+                    "text": "She was accepted to a "
+                },
+                {
+                    "text": "prestigious",
+                    "colorize": true
+                },
+                {
+                    "text": " university known for producing Nobel Prize winners"
+                }
+            ],
+            "tips": "Describes institutions, awards, jobs, or events—not people directly (say 'prestigious position' not 'prestigious person'). Opposite: obscure, low-status."
+        },
+        {
+            "word": "heirloom",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A valuable object that has been passed down through "
+                },
+                {
+                    "text": "generations of a family",
+                    "highlight": true
+                },
+                {
+                    "text": " as a "
+                },
+                {
+                    "text": "treasured keepsake",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "قطعة تراثية عائلية",
+            "synonyms": [
+                "family treasure",
+                "inherited keepsake",
+                "legacy item"
+            ],
+            "example": [
+                {
+                    "text": "Her grandmother's diamond ring was a precious "
+                },
+                {
+                    "text": "heirloom",
+                    "colorize": true
+                },
+                {
+                    "text": " that had belonged to five generations of women in their family"
+                }
+            ],
+            "tips": "Implies emotional/historical value beyond monetary worth. Often jewelry, furniture, or documents. Not the same as 'inheritance' (general property received after death)."
+        },
+        {
+            "word": "extremely",
+            "wordType": "adverb",
+            "definition": [
+                {
+                    "text": "To a "
+                },
+                {
+                    "text": "very high degree",
+                    "highlight": true
+                },
+                {
+                    "text": " or to an "
+                },
+                {
+                    "text": "intense level",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "للغاية / جدًا",
+            "synonyms": [
+                "very",
+                "highly",
+                "exceptionally"
+            ],
+            "example": [
+                {
+                    "text": "The exam was "
+                },
+                {
+                    "text": "extremely",
+                    "colorize": true
+                },
+                {
+                    "text": " difficult, so many students needed extra time"
+                }
+            ],
+            "tips": "Used to strengthen adjectives and adverbs. It makes the meaning stronger than just 'very.'"
+        },
+        {
+            "word": "grateful",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Feeling or showing "
+                },
+                {
+                    "text": "thankfulness",
+                    "highlight": true
+                },
+                {
+                    "text": " for something "
+                },
+                {
+                    "text": "received or done for you",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ممتن",
+            "synonyms": [
+                "thankful",
+                "appreciative",
+                "obliged"
+            ],
+            "example": [
+                {
+                    "text": "She was "
+                },
+                {
+                    "text": "grateful",
+                    "colorize": true
+                },
+                {
+                    "text": " for the support her friends gave her during the competition"
+                }
+            ],
+            "tips": "Common structure: 'grateful for + noun' or 'grateful to + person.' More formal than 'thankful' in many contexts."
+        },
+        {
+            "word": "honesty",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The quality of being truthful and sincere; not "
+                },
+                {
+                    "text": "lying, cheating",
+                    "highlight": true
+                },
+                {
+                    "text": ", or "
+                },
+                {
+                    "text": "deceiving others",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "الصدق / الأمانة",
+            "synonyms": [
+                "truthfulness",
+                "integrity",
+                "sincerity"
+            ],
+            "example": [
+                {
+                    "text": "Even though admitting his mistake would get him in trouble, he valued "
+                },
+                {
+                    "text": "honesty",
+                    "colorize": true
+                },
+                {
+                    "text": " more than avoiding consequences"
+                }
+            ],
+            "tips": "Core moral value in most cultures. Related adjective: honest. Not the same as 'honestly' (adverb often used as filler word: 'Honestly, I don't care')."
+        },
+        {
+            "word": "bucks",
+            "wordType": "noun (informal)",
+            "definition": [
+                {
+                    "text": "Slang term for "
+                },
+                {
+                    "text": "dollars",
+                    "highlight": true
+                },
+                {
+                    "text": " or money in general; casual way to refer to "
+                },
+                {
+                    "text": "currency",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "دولارات (عامية)",
+            "synonyms": [
+                "dollars",
+                "cash",
+                "money (informal)"
+            ],
+            "example": [
+                {
+                    "text": "I only have twenty "
+                },
+                {
+                    "text": "bucks",
+                    "colorize": true
+                },
+                {
+                    "text": " left until payday, so I need to be careful with my spending this week"
+                }
+            ],
+            "tips": "Very informal—avoid in formal writing or professional settings. Origin: early American currency featured deer (bucks) on bills. Never pluralized as 'buck' for amounts ('ten buck' ❌ → 'ten bucks' ✅)."
+        },
+        {
+            "word": "pocket watch",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A small watch designed to be carried in a pocket rather than worn on the wrist; often has a "
+                },
+                {
+                    "text": "chain attachment",
+                    "highlight": true
+                },
+                {
+                    "text": " and was popular before "
+                },
+                {
+                    "text": "wristwatches",
+                    "highlight2": true
+                },
+                {
+                    "text": " became common"
+                }
+            ],
+            "arabicMeaning": "ساعة جيب",
+            "synonyms": [
+                "chain watch",
+                "vest watch"
+            ],
+            "example": [
+                {
+                    "text": "His grandfather pulled out an antique silver "
+                },
+                {
+                    "text": "pocket watch",
+                    "colorize": true
+                },
+                {
+                    "text": " from his vest to check the time before the train departed"
+                }
+            ],
+            "tips": "Often associated with older generations, formal attire, or historical periods. Many have decorative engravings and are now collected as antiques."
+        }
+    ]
+}

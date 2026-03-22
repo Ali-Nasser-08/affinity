@@ -1,0 +1,806 @@
+{
+    "unit": "Mega Goal 1 - Unit 3: A Vision of the Future",
+    "type": "vocabulary building",
+    "setTitle": "Time Capsule",
+    "words": [
+        {
+            "word": "gather",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "come together",
+                    "highlight": true
+                },
+                {
+                    "text": " in one place; to "
+                },
+                {
+                    "text": "assemble as a group",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يتجمع / يجتمع",
+            "synonyms": [
+                "assemble",
+                "congregate",
+                "collect",
+                "meet"
+            ],
+            "example": [
+                {
+                    "text": "A large crowd "
+                },
+                {
+                    "text": "gathered",
+                    "colorize": true
+                },
+                {
+                    "text": " in the square to watch the fireworks display"
+                }
+            ],
+            "tips": "Can also mean 'to collect things' (gather information, gather flowers). A gathering = a meeting or social event."
+        },
+        {
+            "word": "witness",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "see an event happen",
+                    "highlight": true
+                },
+                {
+                    "text": ", especially something "
+                },
+                {
+                    "text": "important or unusual",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يشهد / يرى",
+            "synonyms": [
+                "observe",
+                "see",
+                "watch",
+                "view"
+            ],
+            "example": [
+                {
+                    "text": "Thousands of people "
+                },
+                {
+                    "text": "witnessed",
+                    "colorize": true
+                },
+                {
+                    "text": " the historic moon landing on television in 1969"
+                }
+            ],
+            "tips": "As a noun, a 'witness' is a person who sees an event. Often used for important historical moments or crimes."
+        },
+        {
+            "word": "bobby pin",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A small "
+                },
+                {
+                    "text": "metal hairpin",
+                    "highlight": true
+                },
+                {
+                    "text": " used to "
+                },
+                {
+                    "text": "hold hair in place",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "دبوس شعر",
+            "synonyms": [
+                "hairpin",
+                "hair clip"
+            ],
+            "example": [
+                {
+                    "text": "She used several "
+                },
+                {
+                    "text": "bobby pins",
+                    "colorize": true
+                },
+                {
+                    "text": " to keep her hairstyle secure during the dance"
+                }
+            ],
+            "tips": "Named after the 'bob' hairstyle popular in the 1920s. Common item in women's purses in the 1950s."
+        },
+        {
+            "word": "obsolete",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "No longer in use or "
+                },
+                {
+                    "text": "outdated",
+                    "highlight": true
+                },
+                {
+                    "text": "; replaced by something "
+                },
+                {
+                    "text": "newer or better",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "قديم / عفا عليه الزمن",
+            "synonyms": [
+                "outdated",
+                "old-fashioned",
+                "antiquated",
+                "out of date"
+            ],
+            "example": [
+                {
+                    "text": "Cassette tapes have become "
+                },
+                {
+                    "text": "obsolete",
+                    "colorize": true
+                },
+                {
+                    "text": " now that we have digital music streaming"
+                }
+            ],
+            "tips": "Technology becomes obsolete quickly. Opposite: 'current' or 'modern'. Obsolescence = the process of becoming outdated."
+        },
+        {
+            "word": "vault",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "secure room or container",
+                    "highlight": true
+                },
+                {
+                    "text": ", usually made of "
+                },
+                {
+                    "text": "strong materials",
+                    "highlight2": true
+                },
+                {
+                    "text": ", for storing valuables"
+                }
+            ],
+            "arabicMeaning": "خزنة / قبو محصن",
+            "synonyms": [
+                "safe",
+                "strongroom",
+                "chamber"
+            ],
+            "example": [
+                {
+                    "text": "Banks keep money and important documents in underground "
+                },
+                {
+                    "text": "vaults",
+                    "colorize": true
+                },
+                {
+                    "text": " for security"
+                }
+            ],
+            "tips": "Bank vaults, burial vaults (for coffins), vault = secure storage. Can also mean 'to jump over' as a verb."
+        },
+        {
+            "word": "withstand",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "resist or survive",
+                    "highlight": true
+                },
+                {
+                    "text": " difficult conditions or "
+                },
+                {
+                    "text": "remain undamaged",
+                    "highlight2": true
+                },
+                {
+                    "text": " despite pressure or force"
+                }
+            ],
+            "arabicMeaning": "يتحمل / يقاوم",
+            "synonyms": [
+                "resist",
+                "endure",
+                "survive",
+                "bear"
+            ],
+            "example": [
+                {
+                    "text": "The building was designed to "
+                },
+                {
+                    "text": "withstand",
+                    "colorize": true
+                },
+                {
+                    "text": " earthquakes and strong winds"
+                }
+            ],
+            "tips": "'Stand' against something = resist it. Withstand extreme heat, withstand pressure, withstand attacks."
+        },
+        {
+            "word": "time capsule",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A container holding "
+                },
+                {
+                    "text": "objects from the present",
+                    "highlight": true
+                },
+                {
+                    "text": ", "
+                },
+                {
+                    "text": "buried or stored",
+                    "highlight2": true
+                },
+                {
+                    "text": " to be opened in the future"
+                }
+            ],
+            "arabicMeaning": "كبسولة زمنية",
+            "synonyms": [
+                "time container",
+                "historical archive"
+            ],
+            "example": [
+                {
+                    "text": "The school buried a "
+                },
+                {
+                    "text": "time capsule",
+                    "colorize": true
+                },
+                {
+                    "text": " with photos and letters to be opened in 50 years"
+                }
+            ],
+            "tips": "Shows future generations how people lived. Contents: newspapers, photos, everyday items, letters to the future."
+        },
+        {
+            "word": "burial",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The act of "
+                },
+                {
+                    "text": "placing something underground",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "covering with earth",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "دفن",
+            "synonyms": [
+                "interment",
+                "burying"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "burial",
+                    "colorize": true
+                },
+                {
+                    "text": " of the time capsule was attended by hundreds of citizens"
+                }
+            ],
+            "tips": "The verb is 'bury' = to put underground. Usually for dead bodies, but also for treasure, time capsules, etc."
+        },
+        {
+            "word": "unearth",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "dig up from the ground",
+                    "highlight": true
+                },
+                {
+                    "text": "; to "
+                },
+                {
+                    "text": "discover or bring to light",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ينبش / يكتشف",
+            "synonyms": [
+                "dig up",
+                "excavate",
+                "discover",
+                "uncover"
+            ],
+            "example": [
+                {
+                    "text": "Archaeologists "
+                },
+                {
+                    "text": "unearthed",
+                    "colorize": true
+                },
+                {
+                    "text": " ancient pottery from the Roman period"
+                }
+            ],
+            "tips": "Opposite of 'bury'. Can be literal (dig up) or figurative (unearth a secret = discover hidden information)."
+        },
+        {
+            "word": "vintage",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "From the past and "
+                },
+                {
+                    "text": "of high quality",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "old but valuable or stylish",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "قديم وقيّم / كلاسيكي",
+            "synonyms": [
+                "classic",
+                "antique",
+                "retro"
+            ],
+            "example": [
+                {
+                    "text": "She collects "
+                },
+                {
+                    "text": "vintage",
+                    "colorize": true
+                },
+                {
+                    "text": " clothing from the 1950s and 1960s"
+                }
+            ],
+            "tips": "Vintage = old + desirable. Vintage cars, vintage wine, vintage clothes. Usually 20-100 years old. Antique = over 100 years."
+        },
+        {
+            "word": "rust",
+            "wordType": "noun/verb",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "reddish-brown coating",
+                    "highlight": true
+                },
+                {
+                    "text": " that forms on "
+                },
+                {
+                    "text": "iron or steel",
+                    "highlight2": true
+                },
+                {
+                    "text": " when exposed to moisture and air"
+                }
+            ],
+            "arabicMeaning": "صدأ",
+            "synonyms": [
+                "corrosion",
+                "oxidation"
+            ],
+            "example": [
+                {
+                    "text": "The old car was covered in "
+                },
+                {
+                    "text": "rust",
+                    "colorize": true
+                },
+                {
+                    "text": " after sitting outside in the rain for years"
+                }
+            ],
+            "tips": "Rust weakens metal. Rusty = covered with rust. Can be prevented with paint or special coatings."
+        },
+        {
+            "word": "moisture",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Small amounts of "
+                },
+                {
+                    "text": "water or liquid",
+                    "highlight": true
+                },
+                {
+                    "text": " in the air or on a "
+                },
+                {
+                    "text": "surface",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "رطوبة",
+            "synonyms": [
+                "dampness",
+                "humidity",
+                "wetness"
+            ],
+            "example": [
+                {
+                    "text": "The basement has too much "
+                },
+                {
+                    "text": "moisture",
+                    "colorize": true
+                },
+                {
+                    "text": ", which is causing mold to grow on the walls"
+                }
+            ],
+            "tips": "Moisture damages electronics, causes rust, and creates mold. The adjective is 'moist' = slightly wet."
+        },
+        {
+            "word": "disappointment",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The feeling of "
+                },
+                {
+                    "text": "sadness or displeasure",
+                    "highlight": true
+                },
+                {
+                    "text": " when "
+                },
+                {
+                    "text": "expectations are not met",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "خيبة أمل",
+            "synonyms": [
+                "letdown",
+                "dissatisfaction",
+                "dismay"
+            ],
+            "example": [
+                {
+                    "text": "There was great "
+                },
+                {
+                    "text": "disappointment",
+                    "colorize": true
+                },
+                {
+                    "text": " when the concert was cancelled at the last minute"
+                }
+            ],
+            "tips": "The verb is 'disappoint' = to fail to meet expectations. 'Disappointed' = feeling let down."
+        },
+        {
+            "word": "protective",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Designed to "
+                },
+                {
+                    "text": "prevent damage or harm",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "shielding from danger",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "واقي / حامي",
+            "synonyms": [
+                "defensive",
+                "safeguarding",
+                "shielding"
+            ],
+            "example": [
+                {
+                    "text": "Workers must wear "
+                },
+                {
+                    "text": "protective",
+                    "colorize": true
+                },
+                {
+                    "text": " gear like helmets and gloves on construction sites"
+                }
+            ],
+            "tips": "Protective materials, protective layer, protective equipment. The verb is 'protect' = to keep safe from harm."
+        },
+        {
+            "word": "concrete",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "strong building material",
+                    "highlight": true
+                },
+                {
+                    "text": " made by mixing "
+                },
+                {
+                    "text": "cement, sand, gravel, and water",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "خرسانة / إسمنت",
+            "synonyms": [
+                "cement mixture"
+            ],
+            "example": [
+                {
+                    "text": "The foundation of the building is made of reinforced "
+                },
+                {
+                    "text": "concrete",
+                    "colorize": true
+                },
+                {
+                    "text": " to support the weight"
+                }
+            ],
+            "tips": "Concrete (noun) = building material. Concrete (adjective) = specific/definite (concrete evidence, concrete plans)."
+        },
+        {
+            "word": "fairy tale",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "children's story",
+                    "highlight": true
+                },
+                {
+                    "text": " involving "
+                },
+                {
+                    "text": "magical or imaginary beings",
+                    "highlight2": true
+                },
+                {
+                    "text": "; also something that seems too good to be true"
+                }
+            ],
+            "arabicMeaning": "قصة خيالية / حكاية خرافية",
+            "synonyms": [
+                "fantasy story",
+                "fable",
+                "magical story"
+            ],
+            "example": [
+                {
+                    "text": "Cinderella and Snow White are classic "
+                },
+                {
+                    "text": "fairy tales",
+                    "colorize": true
+                },
+                {
+                    "text": " loved by children worldwide"
+                }
+            ],
+            "tips": "Often has magic, princesses, happy endings. Used metaphorically: 'It's like a fairy tale' = seems magical or unbelievable."
+        },
+        {
+            "word": "comb",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "grooming tool",
+                    "highlight": true
+                },
+                {
+                    "text": " with a row of "
+                },
+                {
+                    "text": "teeth",
+                    "highlight2": true
+                },
+                {
+                    "text": " used to arrange or style hair"
+                }
+            ],
+            "arabicMeaning": "مشط",
+            "synonyms": [
+                "hair brush"
+            ],
+            "example": [
+                {
+                    "text": "She used a "
+                },
+                {
+                    "text": "comb",
+                    "colorize": true
+                },
+                {
+                    "text": " to fix her hair after removing her hat"
+                }
+            ],
+            "tips": "As a verb: 'to comb your hair' = to use a comb. Different from brush (which has bristles instead of teeth)."
+        },
+        {
+            "word": "lipstick",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "colored cosmetic",
+                    "highlight": true
+                },
+                {
+                    "text": " applied to the "
+                },
+                {
+                    "text": "lips",
+                    "highlight2": true
+                },
+                {
+                    "text": ", usually in stick form"
+                }
+            ],
+            "arabicMeaning": "أحمر شفاه",
+            "synonyms": [
+                "lip color",
+                "lip rouge"
+            ],
+            "example": [
+                {
+                    "text": "She applied red "
+                },
+                {
+                    "text": "lipstick",
+                    "colorize": true
+                },
+                {
+                    "text": " before the important meeting"
+                }
+            ],
+            "tips": "Common item in women's purses. Part of makeup. Different shades: red, pink, nude, etc."
+        },
+        {
+            "word": "compartment",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "separate section or space",
+                    "highlight": true
+                },
+                {
+                    "text": " within a larger "
+                },
+                {
+                    "text": "container or area",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حجرة / قسم",
+            "synonyms": [
+                "section",
+                "division",
+                "chamber"
+            ],
+            "example": [
+                {
+                    "text": "The glove "
+                },
+                {
+                    "text": "compartment",
+                    "colorize": true
+                },
+                {
+                    "text": " in a car is used to store small items like maps and documents"
+                }
+            ],
+            "tips": "Train compartment, storage compartment, freezer compartment. Compartmentalize = divide into sections."
+        },
+        {
+            "word": "microfilm",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "photographic film",
+                    "highlight": true
+                },
+                {
+                    "text": " containing "
+                },
+                {
+                    "text": "greatly reduced images",
+                    "highlight2": true
+                },
+                {
+                    "text": " of documents for storage"
+                }
+            ],
+            "arabicMeaning": "ميكروفيلم / فيلم مصغّر",
+            "synonyms": [
+                "microfiche",
+                "film archive"
+            ],
+            "example": [
+                {
+                    "text": "Old newspapers and records were preserved on "
+                },
+                {
+                    "text": "microfilm",
+                    "colorize": true
+                },
+                {
+                    "text": " before digital scanning existed"
+                }
+            ],
+            "tips": "Technology from the 1900s to save space. Required special readers to view. Now mostly replaced by digital storage."
+        }
+    ]
+}

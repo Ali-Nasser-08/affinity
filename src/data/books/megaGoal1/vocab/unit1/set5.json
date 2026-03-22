@@ -1,0 +1,342 @@
+{
+  "unit": "Mega Goal 1 - Unit 1",
+  "type": "vocabulary building",
+  "setTitle": "Vision 2030",
+  "words": [
+    {
+      "word": "transform",
+      "wordType": "verb",
+      "definition": [
+        {
+          "text": "To "
+        },
+        {
+          "text": "change completely",
+          "highlight": true
+        },
+        {
+          "text": " in form, appearance, or "
+        },
+        {
+          "text": "character",
+          "highlight2": true
+        },
+        {
+          "text": "; to make a major improvement or alteration"
+        }
+      ],
+      "arabicMeaning": "يحول / يغير بشكل جذري",
+      "synonyms": [
+        "change completely",
+        "revolutionize",
+        "convert",
+        "alter dramatically"
+      ],
+      "example": [
+        {
+          "text": "The new technology will "
+        },
+        {
+          "text": "transform",
+          "colorize": true
+        },
+        {
+          "text": " the way we communicate and work"
+        }
+      ],
+      "tips": "Transform suggests dramatic, fundamental change - not just minor adjustments. The noun is 'transformation'."
+    },
+    {
+      "word": "hub",
+      "wordType": "noun",
+      "definition": [
+        {
+          "text": "A "
+        },
+        {
+          "text": "central point",
+          "highlight": true
+        },
+        {
+          "text": " of activity, "
+        },
+        {
+          "text": "connection, or importance",
+          "highlight2": true
+        },
+        {
+          "text": "; the focal point where things converge"
+        }
+      ],
+      "arabicMeaning": "مركز / محور",
+      "synonyms": [
+        "center",
+        "focal point",
+        "heart",
+        "nucleus"
+      ],
+      "example": [
+        {
+          "text": "Dubai has become a major international "
+        },
+        {
+          "text": "hub",
+          "colorize": true
+        },
+        {
+          "text": " for business and tourism in the Middle East"
+        }
+      ],
+      "tips": "Think of a wheel hub - everything connects there. Used for transportation hubs (airports), business hubs, tech hubs, etc."
+    },
+    {
+      "word": "vibrant",
+      "wordType": "adjective",
+      "definition": [
+        {
+          "text": "Full of "
+        },
+        {
+          "text": "energy and life",
+          "highlight": true
+        },
+        {
+          "text": "; "
+        },
+        {
+          "text": "strong and active",
+          "highlight2": true
+        },
+        {
+          "text": " with a lively atmosphere"
+        }
+      ],
+      "arabicMeaning": "نابض بالحياة / حيوي",
+      "synonyms": [
+        "lively",
+        "energetic",
+        "dynamic",
+        "bustling"
+      ],
+      "example": [
+        {
+          "text": "The city has a "
+        },
+        {
+          "text": "vibrant",
+          "colorize": true
+        },
+        {
+          "text": " arts scene with galleries, theaters, and music venues"
+        }
+      ],
+      "tips": "Vibrant can describe colors (bright), communities (active), or atmospheres (lively). Always positive!"
+    },
+    {
+      "word": "thrive",
+      "wordType": "verb",
+      "definition": [
+        {
+          "text": "To "
+        },
+        {
+          "text": "grow successfully",
+          "highlight": true
+        },
+        {
+          "text": " and be "
+        },
+        {
+          "text": "prosperous and strong",
+          "highlight2": true
+        },
+        {
+          "text": "; to flourish and develop well"
+        }
+      ],
+      "arabicMeaning": "يزدهر / ينجح",
+      "synonyms": [
+        "prosper",
+        "flourish",
+        "succeed",
+        "bloom"
+      ],
+      "example": [
+        {
+          "text": "Small businesses can "
+        },
+        {
+          "text": "thrive",
+          "colorize": true
+        },
+        {
+          "text": " in communities with strong local support"
+        }
+      ],
+      "tips": "Thriving = doing very well, not just surviving. The adjective is 'thriving' (a thriving economy)."
+    },
+    {
+      "word": "ambitious",
+      "wordType": "adjective",
+      "definition": [
+        {
+          "text": "Having "
+        },
+        {
+          "text": "strong desire to succeed",
+          "highlight": true
+        },
+        {
+          "text": " and achieve; "
+        },
+        {
+          "text": "determined to reach high goals",
+          "highlight2": true
+        }
+      ],
+      "arabicMeaning": "طموح",
+      "synonyms": [
+        "determined to succeed",
+        "driven",
+        "goal-oriented",
+        "aspiring"
+      ],
+      "example": [
+        {
+          "text": "She's very "
+        },
+        {
+          "text": "ambitious",
+          "colorize": true
+        },
+        {
+          "text": " and hopes to become a company director by age 30"
+        }
+      ],
+      "tips": "Can describe people (ambitious person) or plans (ambitious project). Usually positive but can imply 'too driven'."
+    },
+    {
+      "word": "enterprise",
+      "wordType": "noun",
+      "definition": [
+        {
+          "text": "A "
+        },
+        {
+          "text": "business or company",
+          "highlight": true
+        },
+        {
+          "text": ", especially one that involves "
+        },
+        {
+          "text": "risk or initiative",
+          "highlight2": true
+        }
+      ],
+      "arabicMeaning": "مشروع تجاري / شركة",
+      "synonyms": [
+        "business",
+        "company",
+        "venture",
+        "firm"
+      ],
+      "example": [
+        {
+          "text": "The government supports small "
+        },
+        {
+          "text": "enterprises",
+          "colorize": true
+        },
+        {
+          "text": " with grants and business training programs"
+        }
+      ],
+      "tips": "Enterprise can mean: (1) a business/company, or (2) initiative/boldness (as in 'entrepreneurial enterprise')."
+    },
+    {
+      "word": "diversify",
+      "wordType": "verb",
+      "definition": [
+        {
+          "text": "To "
+        },
+        {
+          "text": "make more varied",
+          "highlight": true
+        },
+        {
+          "text": " or different; to "
+        },
+        {
+          "text": "expand into different areas",
+          "highlight2": true
+        },
+        {
+          "text": " to reduce risk"
+        }
+      ],
+      "arabicMeaning": "ينوع / يتنوع",
+      "synonyms": [
+        "vary",
+        "expand variety",
+        "branch out",
+        "broaden"
+      ],
+      "example": [
+        {
+          "text": "The country plans to "
+        },
+        {
+          "text": "diversify",
+          "colorize": true
+        },
+        {
+          "text": " its economy by investing in tourism and technology, not just oil"
+        }
+      ],
+      "tips": "Common in business/economics. The noun is 'diversification'. Don't put all eggs in one basket = diversify!"
+    },
+    {
+      "word": "transparent",
+      "wordType": "adjective",
+      "definition": [
+        {
+          "text": "Open and honest",
+          "highlight": true
+        },
+        {
+          "text": " in behavior and communication; "
+        },
+        {
+          "text": "easy to understand",
+          "highlight2": true
+        },
+        {
+          "text": " with nothing hidden"
+        }
+      ],
+      "arabicMeaning": "شفاف / واضح",
+      "synonyms": [
+        "open",
+        "honest",
+        "clear",
+        "straightforward"
+      ],
+      "example": [
+        {
+          "text": "The company has a "
+        },
+        {
+          "text": "transparent",
+          "colorize": true
+        },
+        {
+          "text": " policy and shares all financial information with employees"
+        }
+      ],
+      "tips": "In business/government: transparency = openness and accountability. Literal meaning: see-through (transparent glass)."
+    }
+  ]
+}

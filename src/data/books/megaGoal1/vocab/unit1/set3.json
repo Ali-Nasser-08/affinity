@@ -1,0 +1,406 @@
+{
+  "unit": "Mega Goal 1 - Unit 1",
+  "type": "misc",
+  "setTitle": "Email and Communication",
+  "words": [
+    {
+      "word": "settle into",
+      "wordType": "phrasal verb",
+      "definition": [
+        {
+          "text": "To "
+        },
+        {
+          "text": "gradually become comfortable",
+          "highlight": true
+        },
+        {
+          "text": " and familiar with a "
+        },
+        {
+          "text": "new place, situation, or routine",
+          "highlight2": true
+        }
+      ],
+      "arabicMeaning": "يستقر في / يتأقلم مع",
+      "synonyms": [
+        "adapt to",
+        "adjust to",
+        "get used to"
+      ],
+      "example": [
+        {
+          "text": "It took me a few weeks to "
+        },
+        {
+          "text": "settle into",
+          "colorize": true
+        },
+        {
+          "text": " my new job and learn everyone's names"
+        }
+      ],
+      "tips": "Use 'settle into' for gradual adaptation, not immediate change. It suggests a process over time."
+    },
+    {
+      "word": "off-campus",
+      "wordType": "adjective/adverb",
+      "definition": [
+        {
+          "text": "Located "
+        },
+        {
+          "text": "away from or outside",
+          "highlight": true
+        },
+        {
+          "text": " the main university or college grounds; "
+        },
+        {
+          "text": "not on university property",
+          "highlight2": true
+        }
+      ],
+      "arabicMeaning": "خارج الحرم الجامعي",
+      "synonyms": [
+        "outside campus",
+        "away from campus"
+      ],
+      "example": [
+        {
+          "text": "Many students prefer living in "
+        },
+        {
+          "text": "off-campus",
+          "colorize": true
+        },
+        {
+          "text": " apartments for more independence and privacy"
+        }
+      ],
+      "tips": "The opposite is 'on-campus' which means on university property. Off-campus housing is usually cheaper but requires commuting."
+    },
+    {
+      "word": "accommodation",
+      "wordType": "noun",
+      "definition": [
+        {
+          "text": "A place to "
+        },
+        {
+          "text": "live or stay",
+          "highlight": true
+        },
+        {
+          "text": "; housing or "
+        },
+        {
+          "text": "lodging arrangements",
+          "highlight2": true
+        }
+      ],
+      "arabicMeaning": "السكن / الإقامة",
+      "synonyms": [
+        "housing",
+        "lodging",
+        "residence"
+      ],
+      "example": [
+        {
+          "text": "The university provides "
+        },
+        {
+          "text": "accommodation",
+          "colorize": true
+        },
+        {
+          "text": " for international students in their first year"
+        }
+      ],
+      "tips": "British spelling: accommodation (double 'c', double 'm'). American alternative: 'housing' or 'lodging'"
+    },
+    {
+      "word": "scholarship",
+      "wordType": "noun",
+      "definition": [
+        {
+          "text": "Financial aid or a "
+        },
+        {
+          "text": "grant",
+          "highlight": true
+        },
+        {
+          "text": " awarded to a student based on "
+        },
+        {
+          "text": "academic achievement or other criteria",
+          "highlight2": true
+        },
+        {
+          "text": " to help pay for education"
+        }
+      ],
+      "arabicMeaning": "منحة دراسية",
+      "synonyms": [
+        "grant",
+        "bursary",
+        "financial aid"
+      ],
+      "example": [
+        {
+          "text": "She won a full "
+        },
+        {
+          "text": "scholarship",
+          "colorize": true
+        },
+        {
+          "text": " to study engineering at a top university"
+        }
+      ],
+      "tips": "Unlike loans, scholarships don't need to be repaid. They're awarded based on merit, need, or special talents."
+    },
+    {
+      "word": "homesick",
+      "wordType": "adjective",
+      "definition": [
+        {
+          "text": "Feeling "
+        },
+        {
+          "text": "sad or longing",
+          "highlight": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "home and family",
+          "highlight2": true
+        },
+        {
+          "text": " when away for an extended period"
+        }
+      ],
+      "arabicMeaning": "يشتاق للوطن / حنين للوطن",
+      "synonyms": [
+        "nostalgic",
+        "longing for home"
+      ],
+      "example": [
+        {
+          "text": "Many students feel "
+        },
+        {
+          "text": "homesick",
+          "colorize": true
+        },
+        {
+          "text": " during their first few months studying abroad"
+        }
+      ],
+      "tips": "Homesickness is a normal feeling when living away from home. The noun form is 'homesickness'"
+    },
+    {
+      "word": "dorm",
+      "wordType": "noun",
+      "definition": [
+        {
+          "text": "Short for "
+        },
+        {
+          "text": "dormitory",
+          "highlight": true
+        },
+        {
+          "text": "; a "
+        },
+        {
+          "text": "building providing sleeping and living quarters",
+          "highlight2": true
+        },
+        {
+          "text": " for students at a school or university"
+        }
+      ],
+      "arabicMeaning": "سكن جامعي / مهجع",
+      "synonyms": [
+        "dormitory",
+        "residence hall",
+        "student housing"
+      ],
+      "example": [
+        {
+          "text": "First-year students are required to live in a "
+        },
+        {
+          "text": "dorm",
+          "colorize": true
+        },
+        {
+          "text": " on campus"
+        }
+      ],
+      "tips": "'Dorm' is informal; 'dormitory' or 'residence hall' are more formal terms. British English often uses 'halls of residence'"
+    },
+    {
+      "word": "abroad",
+      "wordType": "adverb",
+      "definition": [
+        {
+          "text": "In or to a "
+        },
+        {
+          "text": "foreign country",
+          "highlight": true
+        },
+        {
+          "text": "; away from one's "
+        },
+        {
+          "text": "home country",
+          "highlight2": true
+        }
+      ],
+      "arabicMeaning": "في الخارج / خارج البلاد",
+      "synonyms": [
+        "overseas",
+        "internationally"
+      ],
+      "example": [
+        {
+          "text": "She decided to study "
+        },
+        {
+          "text": "abroad",
+          "colorize": true
+        },
+        {
+          "text": " to experience a different culture and improve her language skills"
+        }
+      ],
+      "tips": "Don't confuse with 'aboard' (on a ship/plane). 'Abroad' = foreign countries, 'aboard' = on a vehicle"
+    },
+    {
+      "word": "inbox",
+      "wordType": "noun",
+      "definition": [
+        {
+          "text": "The folder or location where "
+        },
+        {
+          "text": "incoming emails",
+          "highlight": true
+        },
+        {
+          "text": " or messages are "
+        },
+        {
+          "text": "received and stored",
+          "highlight2": true
+        }
+      ],
+      "arabicMeaning": "صندوق الوارد",
+      "synonyms": [
+        "received mail",
+        "incoming messages"
+      ],
+      "example": [
+        {
+          "text": "I have over 50 unread emails in my "
+        },
+        {
+          "text": "inbox",
+          "colorize": true
+        },
+        {
+          "text": " that I need to respond to"
+        }
+      ]
+    },
+    {
+      "word": "spam",
+      "wordType": "noun",
+      "definition": [
+        {
+          "text": "Unwanted or "
+        },
+        {
+          "text": "unsolicited emails",
+          "highlight": true
+        },
+        {
+          "text": ", often "
+        },
+        {
+          "text": "advertising or junk messages",
+          "highlight2": true
+        },
+        {
+          "text": " sent in bulk"
+        }
+      ],
+      "arabicMeaning": "رسائل مزعجة / بريد عشوائي",
+      "synonyms": [
+        "junk mail",
+        "unwanted email"
+      ],
+      "example": [
+        {
+          "text": "Most email services automatically filter "
+        },
+        {
+          "text": "spam",
+          "colorize": true
+        },
+        {
+          "text": " into a separate folder"
+        }
+      ],
+      "tips": "The term comes from a Monty Python sketch. As a verb: 'to spam' means to send unwanted messages"
+    },
+    {
+      "word": "archive",
+      "wordType": "verb/noun",
+      "definition": [
+        {
+          "text": "To "
+        },
+        {
+          "text": "store or preserve",
+          "highlight": true
+        },
+        {
+          "text": " emails or documents for "
+        },
+        {
+          "text": "future reference",
+          "highlight2": true
+        },
+        {
+          "text": " without deleting them; or the storage location itself"
+        }
+      ],
+      "arabicMeaning": "أرشف / يحفظ في الأرشيف",
+      "synonyms": [
+        "store",
+        "file away",
+        "preserve"
+      ],
+      "example": [
+        {
+          "text": "I "
+        },
+        {
+          "text": "archive",
+          "colorize": true
+        },
+        {
+          "text": " old emails instead of deleting them so I can find them later if needed"
+        }
+      ],
+      "tips": "Archiving keeps emails but removes them from your inbox. It's different from deleting - archived items are still accessible."
+    }
+  ]
+}

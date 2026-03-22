@@ -1,0 +1,609 @@
+{
+    "unit": "Mega Goal 1 - Unit 6: Giving Advice",
+    "type": "misc",
+    "setTitle": "Feelings & Health Remedies",
+    "words": [
+        {
+            "word": "nervous",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Feeling "
+                },
+                {
+                    "text": "worried",
+                    "highlight": true
+                },
+                {
+                    "text": " about something that "
+                },
+                {
+                    "text": "might happen",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "متوتر / عصبي",
+            "synonyms": [
+                "anxious",
+                "worried"
+            ],
+            "example": [
+                {
+                    "text": "I feel "
+                },
+                {
+                    "text": "nervous",
+                    "colorize": true
+                },
+                {
+                    "text": " before going to the dentist."
+                }
+            ],
+            "tips": "Nervous about (something). Different from 'afraid'—nervous is worry about discomfort; afraid is fear of danger."
+        },
+        {
+            "word": "afraid",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Feeling "
+                },
+                {
+                    "text": "scared",
+                    "highlight": true
+                },
+                {
+                    "text": " that something "
+                },
+                {
+                    "text": "bad will happen",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "خائف",
+            "synonyms": [
+                "scared",
+                "frightened"
+            ],
+            "example": [
+                {
+                    "text": "Children often feel "
+                },
+                {
+                    "text": "afraid",
+                    "colorize": true
+                },
+                {
+                    "text": " of the dentist."
+                }
+            ],
+            "tips": "Always 'afraid OF' something. 'I'm afraid' alone = polite way to give bad news."
+        },
+        {
+            "word": "tired",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Needing rest because you have "
+                },
+                {
+                    "text": "little energy",
+                    "highlight": true
+                },
+                {
+                    "text": " after "
+                },
+                {
+                    "text": "working or staying awake",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "متعب",
+            "synonyms": [
+                "exhausted",
+                "worn out"
+            ],
+            "example": [
+                {
+                    "text": "I feel "
+                },
+                {
+                    "text": "tired",
+                    "colorize": true
+                },
+                {
+                    "text": " when I don't sleep well."
+                }
+            ],
+            "tips": "Tired ≠ sleepy—you can be tired but not ready to sleep. Rest helps you feel better."
+        },
+        {
+            "word": "sleepy",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Wanting to "
+                },
+                {
+                    "text": "go to sleep",
+                    "highlight": true
+                },
+                {
+                    "text": " with "
+                },
+                {
+                    "text": "heavy eyes",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "نعسان",
+            "synonyms": [
+                "drowsy"
+            ],
+            "example": [
+                {
+                    "text": "After eating a lot, I feel "
+                },
+                {
+                    "text": "sleepy",
+                    "colorize": true
+                },
+                {
+                    "text": "."
+                }
+            ],
+            "tips": "Sleepy = body wants sleep now. Warm rooms or big meals often make people sleepy."
+        },
+        {
+            "word": "relaxed",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Feeling "
+                },
+                {
+                    "text": "calm",
+                    "highlight": true
+                },
+                {
+                    "text": " and "
+                },
+                {
+                    "text": "free from stress",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مرتاح / مسترخي",
+            "synonyms": [
+                "calm",
+                "peaceful"
+            ],
+            "example": [
+                {
+                    "text": "After exercise, I feel "
+                },
+                {
+                    "text": "relaxed",
+                    "colorize": true
+                },
+                {
+                    "text": " and happy."
+                }
+            ],
+            "tips": "Opposite of nervous. Deep breathing or listening to music can help you relax."
+        },
+        {
+            "word": "bored",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Feeling "
+                },
+                {
+                    "text": "uninterested",
+                    "highlight": true
+                },
+                {
+                    "text": " because something is "
+                },
+                {
+                    "text": "not fun or exciting",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ضجر / ملل",
+            "synonyms": [
+                "uninterested"
+            ],
+            "example": [
+                {
+                    "text": "I feel "
+                },
+                {
+                    "text": "bored",
+                    "colorize": true
+                },
+                {
+                    "text": " when I have nothing to do."
+                }
+            ],
+            "tips": "Bored BY something (bored by the lesson). Not the same as 'boring'—that describes the thing causing boredom."
+        },
+        {
+            "word": "terrible",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Very "
+                },
+                {
+                    "text": "bad or unpleasant",
+                    "highlight": true
+                },
+                {
+                    "text": "; making you feel "
+                },
+                {
+                    "text": "very uncomfortable",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "بشع / سيء جداً",
+            "synonyms": [
+                "awful",
+                "horrible"
+            ],
+            "example": [
+                {
+                    "text": "I have a headache and feel "
+                },
+                {
+                    "text": "terrible",
+                    "colorize": true
+                },
+                {
+                    "text": "."
+                }
+            ],
+            "tips": "Strong word—not for small problems. 'Terrible' can describe feelings, weather, or food."
+        },
+        {
+            "word": "glad",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Feeling "
+                },
+                {
+                    "text": "happy",
+                    "highlight": true
+                },
+                {
+                    "text": " about something "
+                },
+                {
+                    "text": "good that happened",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مسرور",
+            "synonyms": [
+                "pleased",
+                "happy"
+            ],
+            "example": [
+                {
+                    "text": "I'm "
+                },
+                {
+                    "text": "glad",
+                    "colorize": true
+                },
+                {
+                    "text": " you're feeling better."
+                }
+            ],
+            "tips": "Glad ABOUT something. Milder than 'excited' but warmer than 'fine'."
+        },
+        {
+            "word": "fine/OK",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Not bad and not great; "
+                },
+                {
+                    "text": "acceptable",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "satisfactory",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "بخير / على ما يرام",
+            "synonyms": [
+                "all right"
+            ],
+            "example": [
+                {
+                    "text": "\"How are you?\" \"I'm "
+                },
+                {
+                    "text": "fine",
+                    "colorize": true
+                },
+                {
+                    "text": ", thanks.\""
+                }
+            ],
+            "tips": "Often used to hide real feelings. 'OK' is more casual than 'fine'."
+        },
+        {
+            "word": "painkiller",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Medicine that "
+                },
+                {
+                    "text": "stops or reduces",
+                    "highlight": true
+                },
+                {
+                    "text": " "
+                },
+                {
+                    "text": "pain in the body",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مسكن ألم",
+            "synonyms": [
+                "pain medicine"
+            ],
+            "example": [
+                {
+                    "text": "Take a "
+                },
+                {
+                    "text": "painkiller",
+                    "colorize": true
+                },
+                {
+                    "text": " for your headache."
+                }
+            ],
+            "tips": "Common types: ibuprofen, paracetamol. Don't take too many—follow the instructions on the box."
+        },
+        {
+            "word": "vitamin",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A substance in food that "
+                },
+                {
+                    "text": "keeps your body healthy",
+                    "highlight": true
+                },
+                {
+                    "text": " and "
+                },
+                {
+                    "text": "helps it work well",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "فيتامين",
+            "synonyms": [
+                "nutrient"
+            ],
+            "example": [
+                {
+                    "text": "Eat fruit to get "
+                },
+                {
+                    "text": "vitamins",
+                    "colorize": true
+                },
+                {
+                    "text": " that help your immune system."
+                }
+            ],
+            "tips": "Vitamin C (oranges), Vitamin D (sunlight). You can take vitamin pills, but food is better."
+        },
+        {
+            "word": "medicine",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Something you take to "
+                },
+                {
+                    "text": "treat illness",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "make you feel better",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "دواء",
+            "synonyms": [
+                "medication"
+            ],
+            "example": [
+                {
+                    "text": "The doctor gave me "
+                },
+                {
+                    "text": "medicine",
+                    "colorize": true
+                },
+                {
+                    "text": " for my cold."
+                }
+            ],
+            "tips": "Always follow the doctor's instructions. Never share your medicine with other people."
+        },
+        {
+            "word": "cough",
+            "wordType": "noun/verb",
+            "definition": [
+                {
+                    "text": "A sudden sound from your throat when "
+                },
+                {
+                    "text": "air comes out quickly",
+                    "highlight": true
+                },
+                {
+                    "text": " because your throat is "
+                },
+                {
+                    "text": "irritated or sick",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "سعال",
+            "synonyms": [
+                "hack"
+            ],
+            "example": [
+                {
+                    "text": "I have a bad "
+                },
+                {
+                    "text": "cough",
+                    "colorize": true
+                },
+                {
+                    "text": " when I have a cold."
+                }
+            ],
+            "tips": "Coughing helps clear your throat. A 'dry cough' has no mucus; a 'wet cough' has mucus."
+        },
+        {
+            "word": "syrup",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A thick, sweet "
+                },
+                {
+                    "text": "liquid medicine",
+                    "highlight": true
+                },
+                {
+                    "text": " often used for "
+                },
+                {
+                    "text": "coughs or colds",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "شراب (دواء)",
+            "synonyms": [
+                "liquid medicine"
+            ],
+            "example": [
+                {
+                    "text": "The doctor gave me cough "
+                },
+                {
+                    "text": "syrup",
+                    "colorize": true
+                },
+                {
+                    "text": " to help me sleep."
+                }
+            ],
+            "tips": "Use the measuring cup that comes with the syrup—never guess the amount."
+        },
+        {
+            "word": "cream",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A soft substance you "
+                },
+                {
+                    "text": "put on your skin",
+                    "highlight": true
+                },
+                {
+                    "text": " to "
+                },
+                {
+                    "text": "treat problems",
+                    "highlight2": true
+                },
+                {
+                    "text": " like cuts or rashes"
+                }
+            ],
+            "arabicMeaning": "كريم / مرهم",
+            "synonyms": [
+                "ointment"
+            ],
+            "example": [
+                {
+                    "text": "Put antibiotic "
+                },
+                {
+                    "text": "cream",
+                    "colorize": true
+                },
+                {
+                    "text": " on the cut to help it heal."
+                }
+            ],
+            "tips": "Wash your hands before and after using cream. Keep it in a cool, dry place."
+        },
+        {
+            "word": "relax",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To rest your mind and body and "
+                },
+                {
+                    "text": "feel calm",
+                    "highlight": true
+                },
+                {
+                    "text": " instead of "
+                },
+                {
+                    "text": "stressed or worried",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يسترخي",
+            "synonyms": [
+                "unwind",
+                "rest"
+            ],
+            "example": [
+                {
+                    "text": "Listen to music to "
+                },
+                {
+                    "text": "relax",
+                    "colorize": true
+                },
+                {
+                    "text": " after a long day."
+                }
+            ],
+            "tips": "You can't force yourself to relax—try deep breathing or a short walk instead."
+        }
+    ]
+}

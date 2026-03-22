@@ -1,0 +1,1111 @@
+{
+    "unit": "Mega Goal 1",
+    "lesson": "Unit 8",
+    "type": "Form, Meaning, and Function",
+    "clusters": [
+        {
+            "clusterId": "cluster-1",
+            "title": "Count and Noncount Nouns",
+            "cards": [
+                {
+                    "id": "card-1",
+                    "content": [
+                        {
+                            "text": "Count and Noncount Nouns",
+                            "highlight": true
+                        },
+                        {
+                            "text": "الأسماء القابلة للعد وغير القابلة للعد"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-2",
+                    "content": [
+                        {
+                            "text": "Count nouns refer to individual items that can be counted with numbers. They have both "
+                        },
+                        {
+                            "text": "singular",
+                            "colorize": true
+                        },
+                        {
+                            "text": " and "
+                        },
+                        {
+                            "text": "plural forms",
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        },
+                        {
+                            "text": "الأسماء القابلة للعد تشير إلى أشياء فردية يمكن عدها بالأرقام. ولها "
+                        },
+                        {
+                            "text": "صيغة مفردة",
+                            "colorize": true
+                        },
+                        {
+                            "text": " و"
+                        },
+                        {
+                            "text": "جمع",
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-3",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "Singular",
+                            "badge": true,
+                            "translation": "مفرد"
+                        },
+                        {
+                            "text": ": a/an + noun | "
+                        },
+                        {
+                            "text": "Plural",
+                            "badge2": true,
+                            "translation": "جمع"
+                        },
+                        {
+                            "text": ": number + noun + -s/-es"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-4",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "I bought "
+                        },
+                        {
+                            "text": "a book",
+                            "colorize": true
+                        },
+                        {
+                            "text": " yesterday."
+                        },
+                        {
+                            "text": "اشتريت "
+                        },
+                        {
+                            "text": "كتاباً",
+                            "colorize": true
+                        },
+                        {
+                            "text": " أمس."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-5",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "She has "
+                        },
+                        {
+                            "text": "three notebooks",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " in her bag."
+                        },
+                        {
+                            "text": "لديها "
+                        },
+                        {
+                            "text": "ثلاث دفاتر",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " في حقيبتها."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-6",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "They visited "
+                        },
+                        {
+                            "text": "two museums",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " during their trip."
+                        },
+                        {
+                            "text": "زاروا "
+                        },
+                        {
+                            "text": "متحفين",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " خلال رحلتهم."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-7",
+                    "content": [
+                        {
+                            "text": "Noncount nouns refer to substances, concepts, or masses that "
+                        },
+                        {
+                            "text": "cannot be counted individually",
+                            "colorize2": true
+                        },
+                        {
+                            "text": ". They have "
+                        },
+                        {
+                            "text": "no plural form",
+                            "colorize": true
+                        },
+                        {
+                            "text": " and cannot be used with "
+                        },
+                        {
+                            "text": "a/an",
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        },
+                        {
+                            "text": "الأسماء غير القابلة للعد تشير إلى مواد أو مفاهيم أو كتل لا "
+                        },
+                        {
+                            "text": "يمكن عدها فردياً",
+                            "colorize2": true
+                        },
+                        {
+                            "text": ". ولا "
+                        },
+                        {
+                            "text": "تُجمع",
+                            "colorize": true
+                        },
+                        {
+                            "text": " ولا تُستخدم مع "
+                        },
+                        {
+                            "text": "a/an",
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-8",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "We need more "
+                        },
+                        {
+                            "text": "water",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " for the journey. (NOT: a water / waters)"
+                        },
+                        {
+                            "text": "نحتاج المزيد من "
+                        },
+                        {
+                            "text": "الماء",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " للرحلة. (ليس: a water / waters)"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-9",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "She gave me useful "
+                        },
+                        {
+                            "text": "advice",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " about my studies."
+                        },
+                        {
+                            "text": "أعطتني "
+                        },
+                        {
+                            "text": "نصيحة",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " مفيدة حول دراستي."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-10",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "The restaurant serves delicious "
+                        },
+                        {
+                            "text": "rice",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " and fresh "
+                        },
+                        {
+                            "text": "bread",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "."
+                        },
+                        {
+                            "text": "المطعم يقدم "
+                        },
+                        {
+                            "text": "أرزاً",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " لذيذاً و"
+                        },
+                        {
+                            "text": "خبزاً",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " طازجاً."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-11",
+                    "content": [
+                        {
+                            "text": "Tip:",
+                            "highlight": true
+                        },
+                        {
+                            "text": " To quantify noncount nouns, use expressions like "
+                        },
+                        {
+                            "text": "a piece of",
+                            "colorize": true
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "a cup of",
+                            "colorize": true
+                        },
+                        {
+                            "text": ", or "
+                        },
+                        {
+                            "text": "some",
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        },
+                        {
+                            "text": "تلميح: لتحديد كمية الأسماء غير القابلة للعد، استخدم تعبيرات مثل "
+                        },
+                        {
+                            "text": "قطعة من",
+                            "colorize": true
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "كوب من",
+                            "colorize": true
+                        },
+                        {
+                            "text": "، أو "
+                        },
+                        {
+                            "text": "بعض",
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-12",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "I'd like "
+                        },
+                        {
+                            "text": "a piece of",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "cheese",
+                            "colorize2": true
+                        },
+                        {
+                            "text": ", please."
+                        },
+                        {
+                            "text": "أريد "
+                        },
+                        {
+                            "text": "قطعة من",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "الجبن",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "، من فضلك."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-2",
+            "title": "Expressions of Quantity: Some, Any, No",
+            "cards": [
+                {
+                    "id": "card-13",
+                    "content": [
+                        {
+                            "text": "Using Some, Any, and No",
+                            "highlight": true
+                        },
+                        {
+                            "text": "استخدام Some و Any و No"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-14",
+                    "content": [
+                        {
+                            "text": "Use "
+                        },
+                        {
+                            "text": "some",
+                            "colorize": true
+                        },
+                        {
+                            "text": " in "
+                        },
+                        {
+                            "text": "affirmative statements",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " with plural count nouns or noncount nouns."
+                        },
+                        {
+                            "text": "تُستخدم "
+                        },
+                        {
+                            "text": "some",
+                            "colorize": true
+                        },
+                        {
+                            "text": " في "
+                        },
+                        {
+                            "text": "الجمل الموجبة",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " مع الأسماء الجمع أو غير القابلة للعد."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-15",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "There is "
+                        },
+                        {
+                            "text": "some",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "fresh fruit",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " in the kitchen."
+                        },
+                        {
+                            "text": "يوجد "
+                        },
+                        {
+                            "text": "بعض",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "الفاكهة الطازجة",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " في المطبخ."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-16",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "She bought "
+                        },
+                        {
+                            "text": "some",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "beautiful scarves",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " as gifts."
+                        },
+                        {
+                            "text": "اشترت "
+                        },
+                        {
+                            "text": "بعض",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "الوشاحات الجميلة",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " كهدايا."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-17",
+                    "content": [
+                        {
+                            "text": "Use "
+                        },
+                        {
+                            "text": "any",
+                            "colorize": true
+                        },
+                        {
+                            "text": " in "
+                        },
+                        {
+                            "text": "questions and negative statements",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " with plural count nouns or noncount nouns."
+                        },
+                        {
+                            "text": "تُستخدم "
+                        },
+                        {
+                            "text": "any",
+                            "colorize": true
+                        },
+                        {
+                            "text": " في "
+                        },
+                        {
+                            "text": "الأسئلة والجمل المنفية",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " مع الأسماء الجمع أو غير القابلة للعد."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-18",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Is there "
+                        },
+                        {
+                            "text": "any",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "milk",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " left in the fridge?"
+                        },
+                        {
+                            "text": "هل يوجد "
+                        },
+                        {
+                            "text": "أي",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "حليب",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " متبقي في الثلاجة؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-19",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "We don't have "
+                        },
+                        {
+                            "text": "any",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "available seats",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " for tonight's show."
+                        },
+                        {
+                            "text": "ليس لدينا "
+                        },
+                        {
+                            "text": "أي",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "مقاعد متاحة",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " لعرض الليلة."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-20",
+                    "content": [
+                        {
+                            "text": "Use "
+                        },
+                        {
+                            "text": "no",
+                            "colorize": true
+                        },
+                        {
+                            "text": " in affirmative sentences to express a negative meaning (stronger than 'not any')."
+                        },
+                        {
+                            "text": "تُستخدم "
+                        },
+                        {
+                            "text": "no",
+                            "colorize": true
+                        },
+                        {
+                            "text": " في الجمل الموجبة للتعبير عن معنى سلبي (أقوى من 'not any')."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-21",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "There is "
+                        },
+                        {
+                            "text": "no",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "sugar",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " in this tea. (= There isn't any sugar)"
+                        },
+                        {
+                            "text": "لا يوجد "
+                        },
+                        {
+                            "text": "سكر",
+                            "colorize": true
+                        },
+                        {
+                            "text": " في هذا الشاي. (= There isn't any sugar)"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-22",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "They have "
+                        },
+                        {
+                            "text": "no",
+                            "colorize": true
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "text": "public parks",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " in this neighborhood."
+                        },
+                        {
+                            "text": "ليس لديهم "
+                        },
+                        {
+                            "text": "حدائق عامة",
+                            "colorize": true
+                        },
+                        {
+                            "text": " في هذا الحي."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-23",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "Affirmative",
+                            "badge": true,
+                            "translation": "موجب"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "some",
+                            "colorize": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-24",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "Negative / Question",
+                            "badge2": true,
+                            "translation": "نفي / سؤال"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "any",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-25",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "Negative Meaning",
+                            "badge3": true,
+                            "translation": "معنى سلبي"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "no",
+                            "colorize3": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-3",
+            "title": "Shopping Language and Dialogues",
+            "cards": [
+                {
+                    "id": "card-26",
+                    "content": [
+                        {
+                            "text": "Shopping Vocabulary and Conversations",
+                            "highlight": true
+                        },
+                        {
+                            "text": "المفردات والحوار أثناء التسوق"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-27",
+                    "content": [
+                        {
+                            "text": "Common shopping topics include: "
+                        },
+                        {
+                            "text": "items",
+                            "colorize": true
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "materials",
+                            "colorize": true
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "sizes",
+                            "colorize": true
+                        },
+                        {
+                            "text": ", and "
+                        },
+                        {
+                            "text": "prices",
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        },
+                        {
+                            "text": "مواضيع التسوق الشائعة تشمل: "
+                        },
+                        {
+                            "text": "المنتجات",
+                            "colorize": true
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "المواد",
+                            "colorize": true
+                        },
+                        {
+                            "text": "، "
+                        },
+                        {
+                            "text": "المقاسات",
+                            "colorize": true
+                        },
+                        {
+                            "text": "، و"
+                        },
+                        {
+                            "text": "الأسعار",
+                            "colorize": true
+                        },
+                        {
+                            "text": "."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-28",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "Item",
+                            "badge": true,
+                            "translation": "منتج"
+                        },
+                        {
+                            "text": " → "
+                        },
+                        {
+                            "text": "Material",
+                            "badge2": true,
+                            "translation": "مادة"
+                        },
+                        {
+                            "text": " → "
+                        },
+                        {
+                            "text": "Size",
+                            "badge2": true,
+                            "translation": "مقاس"
+                        },
+                        {
+                            "text": " → "
+                        },
+                        {
+                            "text": "Price",
+                            "badge3": true,
+                            "translation": "سعر"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-29",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Customer: ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "Excuse me, I'm looking for a cotton shirt."
+                        },
+                        {
+                            "text": "الزبون: ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "عفواً، أبحث عن قميص قطني."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-30",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Salesperson: ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "Certainly! What size do you need?"
+                        },
+                        {
+                            "text": "البائع: ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "بالتأكيد! ما المقاس الذي تحتاجه؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-31",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Customer: ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "I wear a large. May I try this on?"
+                        },
+                        {
+                            "text": "الزبون: ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "أرتدي مقاس لارج. هل لي بتجربته؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-32",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Salesperson: ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "Of course. The fitting rooms are over there."
+                        },
+                        {
+                            "text": "البائع: ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "تفضل. غرف التغيير هناك."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-33",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Customer: ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "How much is this leather wallet?"
+                        },
+                        {
+                            "text": "الزبون: ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "بكم هذا المحفظة الجلدية؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-34",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Salesperson: ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "It's 280 riyals. We're offering a 25% discount today."
+                        },
+                        {
+                            "text": "البائع: ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "بسعر 280 ريالاً. نقدم خصم 25% اليوم."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-35",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Customer: ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "Perfect! I'll take it. I'd like to pay by credit card."
+                        },
+                        {
+                            "text": "الزبون: ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "ممتاز! سأشتريه. أود الدفع ببطاقة ائتمان."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-36",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "Salesperson: ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "Excellent choice. Would you like a gift bag?"
+                        },
+                        {
+                            "text": "البائع: ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "اختيار ممتاز. هل ترغب بكيس هدايا؟"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-37",
+                    "content": [
+                        {
+                            "text": "Key phrases to remember:",
+                            "highlight": true
+                        },
+                        {
+                            "text": " • \"What size are you?\" • \"Are these made of...?\" • \"How much is/are...?\" • \"Do you have a discount?\" • \"I'd like to pay in cash/by card\""
+                        },
+                        {
+                            "text": "عبارات مهمة للتذكر:",
+                            "highlight": true
+                        },
+                        {
+                            "text": " • \"ما مقاسك؟\" • \"هل هذه مصنوعة من...؟\" • \"بكم هذا/هذه؟\" • \"هل لديكم خصم؟\" • \"أود الدفع نقداً/بالبطاقة\""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

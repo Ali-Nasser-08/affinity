@@ -1,0 +1,596 @@
+{
+    "unit": "Mega Goal 1 - Unit 4: The Art of Advertising",
+    "type": "vocabulary building",
+    "setTitle": "Credit Cards",
+    "words": [
+        {
+            "word": "inconceivable",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Impossible to "
+                },
+                {
+                    "text": "imagine or believe",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "unthinkable",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "لا يمكن تصوره / مستحيل",
+            "synonyms": [
+                "unimaginable",
+                "unthinkable",
+                "impossible to believe"
+            ],
+            "example": [
+                {
+                    "text": "Before smartphones, it was "
+                },
+                {
+                    "text": "inconceivable",
+                    "colorize": true
+                },
+                {
+                    "text": " that we could access the entire internet in our pockets"
+                }
+            ],
+            "tips": "From 'conceive' = to imagine or think of. In- = not. So inconceivable = cannot be imagined."
+        },
+        {
+            "word": "impractical",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Not "
+                },
+                {
+                    "text": "convenient or sensible",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "difficult to use",
+                    "highlight2": true
+                },
+                {
+                    "text": " in real situations"
+                }
+            ],
+            "arabicMeaning": "غير عملي",
+            "synonyms": [
+                "not convenient",
+                "unrealistic",
+                "unfeasible"
+            ],
+            "example": [
+                {
+                    "text": "Carrying large amounts of cash is "
+                },
+                {
+                    "text": "impractical",
+                    "colorize": true
+                },
+                {
+                    "text": " and unsafe for international travel"
+                }
+            ],
+            "tips": "Opposite of 'practical' = useful/realistic. Im- = not. Impractical ideas sound good but don't work in reality."
+        },
+        {
+            "word": "limited",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Kept within a "
+                },
+                {
+                    "text": "boundary or restriction",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "not unlimited",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "محدود",
+            "synonyms": [
+                "restricted",
+                "constrained",
+                "confined"
+            ],
+            "example": [
+                {
+                    "text": "We have "
+                },
+                {
+                    "text": "limited",
+                    "colorize": true
+                },
+                {
+                    "text": " time to finish this project, so we need to work efficiently"
+                }
+            ],
+            "tips": "The verb is 'limit' = to restrict. Limited resources, limited edition, limited time. Has boundaries."
+        },
+        {
+            "word": "status symbol",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "An object that shows "
+                },
+                {
+                    "text": "high social standing",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "wealth and success",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "رمز المكانة الاجتماعية",
+            "synonyms": [
+                "prestige item",
+                "sign of wealth"
+            ],
+            "example": [
+                {
+                    "text": "Luxury cars and designer watches are often considered "
+                },
+                {
+                    "text": "status symbols",
+                    "colorize": true
+                },
+                {
+                    "text": " in modern society"
+                }
+            ],
+            "tips": "Shows you're successful or wealthy. Examples: expensive cars, designer bags, exclusive club memberships."
+        },
+        {
+            "word": "cash in on",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "make money from",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "take advantage of",
+                    "highlight2": true
+                },
+                {
+                    "text": " an opportunity or trend"
+                }
+            ],
+            "arabicMeaning": "يستفيد من / يستغل",
+            "synonyms": [
+                "profit from",
+                "capitalize on",
+                "exploit"
+            ],
+            "example": [
+                {
+                    "text": "Many companies tried to "
+                },
+                {
+                    "text": "cash in on",
+                    "colorize": true
+                },
+                {
+                    "text": " the popularity of social media by creating their own apps"
+                }
+            ],
+            "tips": "Usually means taking advantage of a trend to make money. Can be slightly negative (opportunistic)."
+        },
+        {
+            "word": "franchise",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "branch of a company",
+                    "highlight": true
+                },
+                {
+                    "text": " that operates using the "
+                },
+                {
+                    "text": "parent company's name and system",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "امتياز / فرع تجاري",
+            "synonyms": [
+                "branch",
+                "licensed outlet"
+            ],
+            "example": [
+                {
+                    "text": "McDonald's has thousands of "
+                },
+                {
+                    "text": "franchises",
+                    "colorize": true
+                },
+                {
+                    "text": " around the world owned by independent operators"
+                }
+            ],
+            "tips": "Franchising = business model where you pay to use a brand name. Franchisee = the local owner."
+        },
+        {
+            "word": "revolutionize",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "greatly change",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "transform completely",
+                    "highlight2": true
+                },
+                {
+                    "text": " how something is done"
+                }
+            ],
+            "arabicMeaning": "يحدث ثورة في / يغير جذرياً",
+            "synonyms": [
+                "transform",
+                "radically change",
+                "completely alter"
+            ],
+            "example": [
+                {
+                    "text": "The internet "
+                },
+                {
+                    "text": "revolutionized",
+                    "colorize": true
+                },
+                {
+                    "text": " the way people communicate and access information"
+                }
+            ],
+            "tips": "From 'revolution' = major change. Implies dramatic, fundamental transformation. Very positive word!"
+        },
+        {
+            "word": "wallet",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A small "
+                },
+                {
+                    "text": "folding case",
+                    "highlight": true
+                },
+                {
+                    "text": " for holding "
+                },
+                {
+                    "text": "money, cards, and documents",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "محفظة",
+            "synonyms": [
+                "billfold",
+                "purse"
+            ],
+            "example": [
+                {
+                    "text": "He keeps his credit cards and ID in his "
+                },
+                {
+                    "text": "wallet",
+                    "colorize": true
+                },
+                {
+                    "text": " in his back pocket"
+                }
+            ],
+            "tips": "Men's wallets = small, fold in half. Women's wallets = larger, sometimes called purses. Digital wallet = app for payments."
+        },
+        {
+            "word": "embarrassing",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Causing "
+                },
+                {
+                    "text": "shame or awkwardness",
+                    "highlight": true
+                },
+                {
+                    "text": "; making you feel "
+                },
+                {
+                    "text": "uncomfortable or foolish",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "محرج",
+            "synonyms": [
+                "awkward",
+                "humiliating",
+                "shameful"
+            ],
+            "example": [
+                {
+                    "text": "Forgetting someone's name right after meeting them is "
+                },
+                {
+                    "text": "embarrassing",
+                    "colorize": true
+                }
+            ],
+            "tips": "Embarrassed = the feeling you have. Embarrassing = describes what causes the feeling. Don't confuse them!"
+        },
+        {
+            "word": "afford",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To have "
+                },
+                {
+                    "text": "enough money",
+                    "highlight": true
+                },
+                {
+                    "text": " to "
+                },
+                {
+                    "text": "pay for something",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يستطيع تحمل تكلفة / يقدر على",
+            "synonyms": [
+                "have the means for",
+                "be able to buy"
+            ],
+            "example": [
+                {
+                    "text": "I can't "
+                },
+                {
+                    "text": "afford",
+                    "colorize": true
+                },
+                {
+                    "text": " a new car right now, so I'll keep driving my old one"
+                }
+            ],
+            "tips": "Usually with 'can/could/cannot'. 'Can afford' = have enough money. Affordable = not too expensive."
+        },
+        {
+            "word": "concept",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "An "
+                },
+                {
+                    "text": "abstract idea",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "general notion",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مفهوم / فكرة",
+            "synonyms": [
+                "idea",
+                "notion",
+                "theory"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "concept",
+                    "colorize": true
+                },
+                {
+                    "text": " of paying later instead of immediately was revolutionary in the 1950s"
+                }
+            ],
+            "tips": "Conceptual = relating to concepts/ideas. A concept is the idea behind something, not the physical thing."
+        },
+        {
+            "word": "merchant",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A person or business that "
+                },
+                {
+                    "text": "sells goods",
+                    "highlight": true
+                },
+                {
+                    "text": "; a "
+                },
+                {
+                    "text": "trader or retailer",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "تاجر",
+            "synonyms": [
+                "trader",
+                "retailer",
+                "seller",
+                "vendor"
+            ],
+            "example": [
+                {
+                    "text": "Online "
+                },
+                {
+                    "text": "merchants",
+                    "colorize": true
+                },
+                {
+                    "text": " must offer secure payment options to protect customer information"
+                }
+            ],
+            "tips": "Merchant marine = cargo ships. Merchant account = business bank account for accepting payments."
+        },
+        {
+            "word": "alternative",
+            "wordType": "noun/adjective",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "different option or choice",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "another possibility",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "بديل",
+            "synonyms": [
+                "option",
+                "choice",
+                "substitute"
+            ],
+            "example": [
+                {
+                    "text": "If you don't like coffee, tea is a good "
+                },
+                {
+                    "text": "alternative",
+                    "colorize": true
+                }
+            ],
+            "tips": "Alternative energy, alternative medicine, alternative route. Means 'another way' or 'different option'."
+        },
+        {
+            "word": "issue",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "officially give out",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "provide",
+                    "highlight2": true
+                },
+                {
+                    "text": " something formal"
+                }
+            ],
+            "arabicMeaning": "يصدر / يمنح",
+            "synonyms": [
+                "give out",
+                "distribute",
+                "provide"
+            ],
+            "example": [
+                {
+                    "text": "The bank will "
+                },
+                {
+                    "text": "issue",
+                    "colorize": true
+                },
+                {
+                    "text": " you a new credit card within 7-10 business days"
+                }
+            ],
+            "tips": "Issue a card, issue a passport, issue a statement. Formal distribution. As noun: 'issue' = problem or topic."
+        },
+        {
+            "word": "expand",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "grow larger",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "extend into new areas",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يتوسع / يمتد",
+            "synonyms": [
+                "grow",
+                "enlarge",
+                "extend",
+                "increase"
+            ],
+            "example": [
+                {
+                    "text": "The company plans to "
+                },
+                {
+                    "text": "expand",
+                    "colorize": true
+                },
+                {
+                    "text": " its operations to five new countries next year"
+                }
+            ],
+            "tips": "The noun is 'expansion'. Opposite: 'contract' = to shrink or reduce. Expand the business, expand services."
+        }
+    ]
+}

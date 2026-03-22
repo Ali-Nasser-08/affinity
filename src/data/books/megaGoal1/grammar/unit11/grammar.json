@@ -1,0 +1,1008 @@
+{
+    "unit": "Mega Goal 1",
+    "lesson": "Unit 9",
+    "type": "Form, Meaning, and Function",
+    "clusters": [
+        {
+            "clusterId": "cluster-1",
+            "title": "Should Have + Past Participle for Regrets",
+            "cards": [
+                {
+                    "id": "card-1",
+                    "content": [
+                        {
+                            "text": "Should Have + Past Participle",
+                            "highlight": true
+                        },
+                        {
+                            "text": " للتعبير عن الندم"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-2",
+                    "content": [
+                        {
+                            "text": "Use "
+                        },
+                        {
+                            "text": "should have + past participle",
+                            "colorize": true
+                        },
+                        {
+                            "text": " to express "
+                        },
+                        {
+                            "text": "regret about past actions",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " you wish you had done differently"
+                        },
+                        {
+                            "text": "تُستخدم "
+                        },
+                        {
+                            "text": "should have + التصريف الثالث",
+                            "colorize": true
+                        },
+                        {
+                            "text": " للتعبير عن "
+                        },
+                        {
+                            "text": "الندم على أفعال سابقة",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " تتمنى لو تعاملت معها بشكل مختلف"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-3",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "Subject",
+                            "badge": true,
+                            "translation": "الفاعل"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "should have",
+                            "badge2": true,
+                            "translation": "كان ينبغي أن"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "past participle",
+                            "badge3": true,
+                            "translation": "التصريف الثالث"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-4",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "I "
+                        },
+                        {
+                            "text": "should have called",
+                            "colorize": true
+                        },
+                        {
+                            "text": " my grandmother yesterday."
+                        },
+                        {
+                            "text": "كان ينبغي أن ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "أتصل",
+                            "colorize": true
+                        },
+                        {
+                            "text": " بجدتي أمس."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-5",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "She "
+                        },
+                        {
+                            "text": "should have listened",
+                            "colorize": true
+                        },
+                        {
+                            "text": " to her doctor's advice."
+                        },
+                        {
+                            "text": "كان ينبغي أن "
+                        },
+                        {
+                            "text": "تستمع",
+                            "colorize": true
+                        },
+                        {
+                            "text": " لنصيحة طبيبها."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-6",
+                    "content": [
+                        {
+                            "text": "For negative regrets, use "
+                        },
+                        {
+                            "text": "shouldn't have + past participle",
+                            "colorize": true
+                        },
+                        {
+                            "text": "للندم السلبي، استخدم "
+                        },
+                        {
+                            "text": "shouldn't have + التصريف الثالث",
+                            "colorize": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-7",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "Subject",
+                            "badge": true,
+                            "translation": "الفاعل"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "shouldn't have",
+                            "badge2": true,
+                            "translation": "كان ينبغي ألا"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "past participle",
+                            "badge3": true,
+                            "translation": "التصريف الثالث"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-8",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "I "
+                        },
+                        {
+                            "text": "shouldn't have eaten",
+                            "colorize": true
+                        },
+                        {
+                            "text": " so much dessert."
+                        },
+                        {
+                            "text": "كان ينبغي ألا ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "آكل",
+                            "colorize": true
+                        },
+                        {
+                            "text": " كل هذا الحلى."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-9",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "They "
+                        },
+                        {
+                            "text": "shouldn't have missed",
+                            "colorize": true
+                        },
+                        {
+                            "text": " the important meeting."
+                        },
+                        {
+                            "text": "كان ينبغي ألا ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "يفوتوا",
+                            "colorize": true
+                        },
+                        {
+                            "text": " الاجتماع المهم."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-10",
+                    "content": [
+                        {
+                            "text": "Remember:",
+                            "highlight": true
+                        },
+                        {
+                            "text": " These sentences always imply an "
+                        },
+                        {
+                            "text": "unfulfilled action",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " in the past"
+                        },
+                        {
+                            "text": "تذكّر: هذه الجمل دائماً توحي بـ"
+                        },
+                        {
+                            "text": "فعل لم يتحقق",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " في الماضي"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-2",
+            "title": "Third Conditional: Past Unreal Situations",
+            "cards": [
+                {
+                    "id": "card-11",
+                    "content": [
+                        {
+                            "text": "Third Conditional",
+                            "highlight": true
+                        },
+                        {
+                            "text": " for Past Unreal Situations"
+                        },
+                        {
+                            "text": "الشرط الثالث للمواقف غير الواقعية في الماضي"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-12",
+                    "content": [
+                        {
+                            "text": "Use the third conditional to imagine "
+                        },
+                        {
+                            "text": "different past outcomes",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " that didn't actually happen"
+                        },
+                        {
+                            "text": "استخدم الشرط الثالث لتصور "
+                        },
+                        {
+                            "text": "نتائج مختلفة في الماضي",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " لم تحدث فعلياً"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-13",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "If",
+                            "badge": true,
+                            "translation": "لو"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "subject + had + past participle",
+                            "badge2": true,
+                            "translation": "فاعل + had + تصريف ثالث"
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "subject + would have + past participle",
+                            "badge3": true,
+                            "translation": "فاعل + would have + تصريف ثالث"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-14",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "If I "
+                        },
+                        {
+                            "text": "had woken up",
+                            "colorize": true
+                        },
+                        {
+                            "text": " earlier, I "
+                        },
+                        {
+                            "text": "would have caught",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " the bus."
+                        },
+                        {
+                            "text": "لو "
+                        },
+                        {
+                            "text": "استيقظت",
+                            "colorize": true
+                        },
+                        {
+                            "text": " مبكراً، لكنت "
+                        },
+                        {
+                            "text": "ركبت",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " الحافلة."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-15",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "If she "
+                        },
+                        {
+                            "text": "had practiced",
+                            "colorize": true
+                        },
+                        {
+                            "text": " more, she "
+                        },
+                        {
+                            "text": "would have won",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " the competition."
+                        },
+                        {
+                            "text": "لو أنها "
+                        },
+                        {
+                            "text": "تدربت أكثر ",
+                            "colorize": true
+                        },
+                        {
+                            "text": "لفازت ",
+                            "colorize": true
+                        },
+                        {
+                            "text": " بالمسابقة."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-16",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "They "
+                        },
+                        {
+                            "text": "would have finished",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " the project on time if they "
+                        },
+                        {
+                            "text": "had started",
+                            "colorize": true
+                        },
+                        {
+                            "text": " earlier."
+                        },
+                        {
+                            "text": "كانوا سـ"
+                        },
+                        {
+                            "text": "ينهون",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " المشروع في الوقت المحدد لو أنهم "
+                        },
+                        {
+                            "text": "بدأوا",
+                            "colorize": true
+                        },
+                        {
+                            "text": " مبكراً."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-17",
+                    "content": [
+                        {
+                            "text": "Note:",
+                            "highlight": true
+                        },
+                        {
+                            "text": " The condition (after 'if') is always "
+                        },
+                        {
+                            "text": "unreal",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " — it did NOT happen"
+                        },
+                        {
+                            "text": "ملاحظة: الشرط (بعد 'if') دائماً "
+                        },
+                        {
+                            "text": "غير واقعي",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " — لم يحدث فعلياً"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-3",
+            "title": "Mixed Conditionals: Past Action → Present Result",
+            "cards": [
+                {
+                    "id": "card-18",
+                    "content": [
+                        {
+                            "text": "Mixed Conditionals",
+                            "highlight": true
+                        },
+                        {
+                            "text": ": Past Condition with Present Result"
+                        },
+                        {
+                            "text": "الشروط المختلطة: شرط في الماضي ونتيجة في الحاضر"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-19",
+                    "content": [
+                        {
+                            "text": "Use mixed conditionals when a "
+                        },
+                        {
+                            "text": "past action",
+                            "colorize": true
+                        },
+                        {
+                            "text": " affects your "
+                        },
+                        {
+                            "text": "current situation",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "استخدم الشروط المختلطة عندما يؤثر "
+                        },
+                        {
+                            "text": "فعل في الماضي",
+                            "colorize": true
+                        },
+                        {
+                            "text": " على "
+                        },
+                        {
+                            "text": "وضعك الحالي",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-20",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "If",
+                            "badge": true,
+                            "translation": "لو"
+                        },
+                        {
+                            "text": " + "
+                        },
+                        {
+                            "text": "subject + had + past participle",
+                            "badge2": true,
+                            "translation": "فاعل + had + تصريف ثالث"
+                        },
+                        {
+                            "text": ", "
+                        },
+                        {
+                            "text": "subject + would (+not) + base verb/be + -ing",
+                            "badge3": true,
+                            "translation": "فاعل + would + فعل مجرد/يكون + ing-"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-21",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "If I "
+                        },
+                        {
+                            "text": "had studied",
+                            "colorize": true
+                        },
+                        {
+                            "text": " medicine, I "
+                        },
+                        {
+                            "text": "would be",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " a doctor now."
+                        },
+                        {
+                            "text": "لو أنني "
+                        },
+                        {
+                            "text": "درست",
+                            "colorize": true
+                        },
+                        {
+                            "text": " الطب، لكنت "
+                        },
+                        {
+                            "text": "طبيباً",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " الآن."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-22",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "If they "
+                        },
+                        {
+                            "text": "had saved",
+                            "colorize": true
+                        },
+                        {
+                            "text": " money last year, they "
+                        },
+                        {
+                            "text": "would be traveling",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " to Europe today."
+                        },
+                        {
+                            "text": "لو أنهم "
+                        },
+                        {
+                            "text": "وفّروا",
+                            "colorize": true
+                        },
+                        {
+                            "text": " المال السنة الماضية، لكانوا "
+                        },
+                        {
+                            "text": "يسافرون",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " إلى أوروبا اليوم."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-23",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "She "
+                        },
+                        {
+                            "text": "would understand",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " the lecture if she "
+                        },
+                        {
+                            "text": "had attended",
+                            "colorize": true
+                        },
+                        {
+                            "text": " yesterday's class."
+                        },
+                        {
+                            "text": "كانت سـ"
+                        },
+                        {
+                            "text": "تفهم",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " المحاضرة لو أنها "
+                        },
+                        {
+                            "text": "حضرت",
+                            "colorize": true
+                        },
+                        {
+                            "text": " حصة الأمس."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-24",
+                    "content": [
+                        {
+                            "text": "Key difference:",
+                            "highlight": true
+                        },
+                        {
+                            "text": " Third conditional = past result | Mixed conditional = present result"
+                        },
+                        {
+                            "text": "الفرق الرئيسي: الشرط الثالث = نتيجة في الماضي | الشرط المختلط = نتيجة في الحاضر"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clusterId": "cluster-4",
+            "title": "Could and Might in Past Conditionals",
+            "cards": [
+                {
+                    "id": "card-25",
+                    "content": [
+                        {
+                            "text": "Could and Might",
+                            "highlight": true
+                        },
+                        {
+                            "text": " in Past Conditionals"
+                        },
+                        {
+                            "text": "Could و Might في الشروط الماضية"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-26",
+                    "content": [
+                        {
+                            "text": "Replace 'would' with "
+                        },
+                        {
+                            "text": "could",
+                            "colorize": true
+                        },
+                        {
+                            "text": " to show "
+                        },
+                        {
+                            "text": "past ability or possibility",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "استبدل 'would' بـ"
+                        },
+                        {
+                            "text": "could",
+                            "colorize": true
+                        },
+                        {
+                            "text": " لإظهار "
+                        },
+                        {
+                            "text": "القدرة أو الإمكانية في الماضي",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-27",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "If + past perfect, subject + ",
+                            "badge": true,
+                            "translation": "لو + الماضي التام، فاعل +"
+                        },
+                        {
+                            "text": "could have + past participle",
+                            "badge2": true,
+                            "translation": "could have + تصريف ثالث"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-28",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "If I "
+                        },
+                        {
+                            "text": "had applied",
+                            "colorize": true
+                        },
+                        {
+                            "text": " for that scholarship, I "
+                        },
+                        {
+                            "text": "could have studied",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " abroad."
+                        },
+                        {
+                            "text": "لو أنني "
+                        },
+                        {
+                            "text": "تقدّمت",
+                            "colorize": true
+                        },
+                        {
+                            "text": " لذلك المنحة، لكنت "
+                        },
+                        {
+                            "text": "استطعت الدراسة",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " في الخارج."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-29",
+                    "content": [
+                        {
+                            "text": "Replace 'would' with "
+                        },
+                        {
+                            "text": "might",
+                            "colorize": true
+                        },
+                        {
+                            "text": " to show "
+                        },
+                        {
+                            "text": "uncertain past possibilities",
+                            "colorize2": true
+                        },
+                        {
+                            "text": "استبدل 'would' بـ"
+                        },
+                        {
+                            "text": "might",
+                            "colorize": true
+                        },
+                        {
+                            "text": " لإظهار "
+                        },
+                        {
+                            "text": "احتمالات غير مؤكدة في الماضي",
+                            "colorize2": true
+                        }
+                    ]
+                },
+                {
+                    "id": "card-30",
+                    "wide": true,
+                    "type": "structure",
+                    "content": [
+                        {
+                            "text": "If + past perfect, subject + ",
+                            "badge": true,
+                            "translation": "لو + الماضي التام، فاعل +"
+                        },
+                        {
+                            "text": "might have + past participle",
+                            "badge2": true,
+                            "translation": "might have + تصريف ثالث"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-31",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "If he "
+                        },
+                        {
+                            "text": "had left",
+                            "colorize": true
+                        },
+                        {
+                            "text": " the house five minutes earlier, he "
+                        },
+                        {
+                            "text": "might have avoided",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " the traffic jam."
+                        },
+                        {
+                            "text": "لو أنه "
+                        },
+                        {
+                            "text": "غادر",
+                            "colorize": true
+                        },
+                        {
+                            "text": " المنزل قبل خمس دقائق، لـ"
+                        },
+                        {
+                            "text": "ربما تجنّب",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " الزحام المروري."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-32",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "She "
+                        },
+                        {
+                            "text": "might have passed",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " the exam if she "
+                        },
+                        {
+                            "text": "had reviewed",
+                            "colorize": true
+                        },
+                        {
+                            "text": " her notes one more time."
+                        },
+                        {
+                            "text": "لـ"
+                        },
+                        {
+                            "text": "ربما نجحت",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " في الامتحان لو أنها "
+                        },
+                        {
+                            "text": "راجعت",
+                            "colorize": true
+                        },
+                        {
+                            "text": " ملاحظاتها مرة أخرى."
+                        }
+                    ]
+                },
+                {
+                    "id": "card-33",
+                    "content": [
+                        {
+                            "text": "Important note:",
+                            "highlight": true
+                        },
+                        {
+                            "text": " 'I'd' can mean either 'I had' (in the if-clause) or 'I would' (in the result clause)"
+                        },
+                        {
+                            "text": "ملاحظة مهمة: 'I'd' يمكن أن تعني 'I had' (في جملة الشرط) أو 'I would' (في جملة النتيجة)"
+                        }
+                    ]
+                },
+                {
+                    "id": "card-34",
+                    "type": "example",
+                    "content": [
+                        {
+                            "text": "If I'd (= I had) "
+                        },
+                        {
+                            "text": "checked",
+                            "colorize": true
+                        },
+                        {
+                            "text": " the weather forecast, I'd (= I would) "
+                        },
+                        {
+                            "text": "have brought",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " an umbrella."
+                        },
+                        {
+                            "text": "لو أنني "
+                        },
+                        {
+                            "text": "تفقّدت",
+                            "colorize": true
+                        },
+                        {
+                            "text": " توقعات الطقس، لكنت "
+                        },
+                        {
+                            "text": "جلبت",
+                            "colorize2": true
+                        },
+                        {
+                            "text": " مظلة."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

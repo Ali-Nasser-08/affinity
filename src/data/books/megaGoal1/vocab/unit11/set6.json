@@ -1,0 +1,1211 @@
+{
+    "unit": "Mega Goal 1 - Unit 11",
+    "type": "vocabulary building",
+    "setTitle": "End of Unit Vocabulary",
+    "words": [
+        {
+            "word": "advantage",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "favorable condition",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "benefit",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ميزة / فائدة",
+            "synonyms": [
+                "benefit",
+                "asset",
+                "plus"
+            ],
+            "example": [
+                {
+                    "text": "One "
+                },
+                {
+                    "text": "advantage",
+                    "colorize": true
+                },
+                {
+                    "text": " of living downtown is easy access to shops"
+                }
+            ],
+            "tips": "Opposite: disadvantage. Advantageous = beneficial. Take advantage of = use opportunity (positive or negative meaning)."
+        },
+        {
+            "word": "disadvantage",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "An "
+                },
+                {
+                    "text": "unfavorable condition",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "drawback",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "عيب / مساوئ",
+            "synonyms": [
+                "drawback",
+                "downside",
+                "negative"
+            ],
+            "example": [
+                {
+                    "text": "A major "
+                },
+                {
+                    "text": "disadvantage",
+                    "colorize": true
+                },
+                {
+                    "text": " of city life is the noise"
+                }
+            ],
+            "tips": "Opposite of advantage. Disadvantaged = at a disadvantage, facing difficulties. Every choice has pros and cons."
+        },
+        {
+            "word": "antibiotic",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Medicine that "
+                },
+                {
+                    "text": "kills bacteria",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "stops their growth",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مضاد حيوي",
+            "synonyms": [
+                "antibacterial medicine"
+            ],
+            "example": [
+                {
+                    "text": "The doctor prescribed "
+                },
+                {
+                    "text": "antibiotics",
+                    "colorize": true
+                },
+                {
+                    "text": " to treat the infection"
+                }
+            ],
+            "tips": "Anti- = against. Bio = life. Fights bacterial infections. Doesn't work on viruses! Penicillin was first antibiotic."
+        },
+        {
+            "word": "penicillin",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "first antibiotic",
+                    "highlight": true
+                },
+                {
+                    "text": " discovered, from "
+                },
+                {
+                    "text": "mold",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "بنسلين",
+            "synonyms": [
+                "antibiotic"
+            ],
+            "example": [
+                {
+                    "text": "Penicillin",
+                    "colorize": true
+                },
+                {
+                    "text": " was discovered by Alexander Fleming in 1928"
+                }
+            ],
+            "tips": "Revolutionary medical discovery! Saved millions of lives. From Penicillium mold. Some people are allergic to it."
+        },
+        {
+            "word": "infection",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "Disease caused by "
+                },
+                {
+                    "text": "germs entering the body",
+                    "highlight": true
+                }
+            ],
+            "arabicMeaning": "عدوى / التهاب",
+            "synonyms": [
+                "contamination",
+                "disease"
+            ],
+            "example": [
+                {
+                    "text": "The wound developed an "
+                },
+                {
+                    "text": "infection",
+                    "colorize": true
+                },
+                {
+                    "text": " and required antibiotics"
+                }
+            ],
+            "tips": "Infect = cause infection. Infectious = can spread. Bacterial infection, viral infection. Prevent with hygiene!"
+        },
+        {
+            "word": "candle",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A stick of "
+                },
+                {
+                    "text": "wax with a wick",
+                    "highlight": true
+                },
+                {
+                    "text": " that "
+                },
+                {
+                    "text": "burns for light",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "شمعة",
+            "synonyms": [
+                "wax light"
+            ],
+            "example": [
+                {
+                    "text": "We lit "
+                },
+                {
+                    "text": "candles",
+                    "colorize": true
+                },
+                {
+                    "text": " during the power outage"
+                }
+            ],
+            "tips": "Birthday candles, scented candles. Candlelight = romantic! 'Can't hold a candle to' = much inferior to."
+        },
+        {
+            "word": "oil well",
+            "wordType": "noun phrase",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "hole drilled",
+                    "highlight": true
+                },
+                {
+                    "text": " to "
+                },
+                {
+                    "text": "extract petroleum",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "بئر نفط",
+            "synonyms": [
+                "oil rig"
+            ],
+            "example": [
+                {
+                    "text": "The company discovered a productive "
+                },
+                {
+                    "text": "oil well",
+                    "colorize": true
+                },
+                {
+                    "text": " in the desert"
+                }
+            ],
+            "tips": "Drilled deep into earth. Oil wells produce crude oil. On land or offshore. Major source of energy/wealth."
+        },
+        {
+            "word": "source",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "place something comes from",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "origin",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مصدر",
+            "synonyms": [
+                "origin",
+                "cause",
+                "root"
+            ],
+            "example": [
+                {
+                    "text": "The sun is our main "
+                },
+                {
+                    "text": "source",
+                    "colorize": true
+                },
+                {
+                    "text": " of energy"
+                }
+            ],
+            "tips": "Water source, news source, energy source. Cite your sources = say where information came from."
+        },
+        {
+            "word": "course",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "series of lessons",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "direction of movement",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "دورة / مسار",
+            "synonyms": [
+                "class",
+                "path",
+                "route"
+            ],
+            "example": [
+                {
+                    "text": "I'm taking a "
+                },
+                {
+                    "text": "course",
+                    "colorize": true
+                },
+                {
+                    "text": " in computer programming"
+                }
+            ],
+            "tips": "Multiple meanings: education course, course of action, golf course, main course (meal). Of course = naturally."
+        },
+        {
+            "word": "distance",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "space between",
+                    "highlight": true
+                },
+                {
+                    "text": " two "
+                },
+                {
+                    "text": "points or places",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مسافة",
+            "synonyms": [
+                "space",
+                "gap",
+                "interval"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "distance",
+                    "colorize": true
+                },
+                {
+                    "text": " from my house to work is 10 kilometers"
+                }
+            ],
+            "tips": "Distant = far away. Keep your distance = stay away. Long-distance relationship, distance learning."
+        },
+        {
+            "word": "load",
+            "wordType": "noun/verb",
+            "definition": [
+                {
+                    "text": "A "
+                },
+                {
+                    "text": "heavy weight",
+                    "highlight": true
+                },
+                {
+                    "text": " to carry; to "
+                },
+                {
+                    "text": "put items in/on",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "حمل / يحمّل",
+            "synonyms": [
+                "cargo",
+                "burden",
+                "fill"
+            ],
+            "example": [
+                {
+                    "text": "The truck carried a heavy "
+                },
+                {
+                    "text": "load",
+                    "colorize": true
+                },
+                {
+                    "text": " of bricks"
+                }
+            ],
+            "tips": "Load a truck, load a gun, download/upload = transfer data. Workload = amount of work. Overloaded = too much."
+        },
+        {
+            "word": "regret",
+            "wordType": "noun/verb",
+            "definition": [
+                {
+                    "text": "To feel "
+                },
+                {
+                    "text": "sorry about",
+                    "highlight": true
+                },
+                {
+                    "text": " something you "
+                },
+                {
+                    "text": "did or didn't do",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يندم / ندم",
+            "synonyms": [
+                "remorse",
+                "be sorry"
+            ],
+            "example": [
+                {
+                    "text": "I "
+                },
+                {
+                    "text": "regret",
+                    "colorize": true
+                },
+                {
+                    "text": " not studying harder in high school"
+                }
+            ],
+            "tips": "Regretful = feeling regret. Regrettable = deserving regret. No regrets = don't be sorry about past choices!"
+        },
+        {
+            "word": "drill",
+            "wordType": "verb/noun",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "make a hole",
+                    "highlight": true
+                },
+                {
+                    "text": " with a "
+                },
+                {
+                    "text": "rotating tool",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يحفر / مثقاب",
+            "synonyms": [
+                "bore",
+                "pierce"
+            ],
+            "example": [
+                {
+                    "text": "Workers "
+                },
+                {
+                    "text": "drill",
+                    "colorize": true
+                },
+                {
+                    "text": " for oil in the desert"
+                }
+            ],
+            "tips": "Power drill, drill a hole, oil drilling. Also: practice repeatedly (fire drill, military drill). Dentist drills teeth!"
+        },
+        {
+            "word": "guess",
+            "wordType": "verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "estimate without certainty",
+                    "highlight": true
+                },
+                {
+                    "text": "; to "
+                },
+                {
+                    "text": "suppose",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يخمّن / يحزر",
+            "synonyms": [
+                "estimate",
+                "suppose",
+                "assume"
+            ],
+            "example": [
+                {
+                    "text": "Can you "
+                },
+                {
+                    "text": "guess",
+                    "colorize": true
+                },
+                {
+                    "text": " how old she is?"
+                }
+            ],
+            "tips": "'I guess' = I suppose (shows uncertainty). Guessing game, educated guess = informed estimate. Guesswork = speculation."
+        },
+        {
+            "word": "could have",
+            "wordType": "modal phrase",
+            "definition": [
+                {
+                    "text": "Expresses "
+                },
+                {
+                    "text": "past possibility",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "missed opportunity",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "كان من الممكن أن",
+            "synonyms": [
+                "was able to",
+                "had the ability to"
+            ],
+            "example": [
+                {
+                    "text": "I "
+                },
+                {
+                    "text": "could have",
+                    "colorize": true
+                },
+                {
+                    "text": " gone to the party but I was tired"
+                }
+            ],
+            "tips": "Past possibility that didn't happen. Often shows regret. Could have + past participle. Couldn't have = was impossible."
+        },
+        {
+            "word": "might have",
+            "wordType": "modal phrase",
+            "definition": [
+                {
+                    "text": "Expresses "
+                },
+                {
+                    "text": "past possibility",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "speculation",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ربما كان",
+            "synonyms": [
+                "possibly did",
+                "perhaps"
+            ],
+            "example": [
+                {
+                    "text": "He "
+                },
+                {
+                    "text": "might have",
+                    "colorize": true
+                },
+                {
+                    "text": " forgotten about the meeting"
+                }
+            ],
+            "tips": "Less certain than 'could have'. Speculation about past. Might have + past participle. Maybe it happened, maybe not."
+        },
+        {
+            "word": "should have",
+            "wordType": "modal phrase",
+            "definition": [
+                {
+                    "text": "Expresses "
+                },
+                {
+                    "text": "regret",
+                    "highlight": true
+                },
+                {
+                    "text": " about "
+                },
+                {
+                    "text": "past action not taken",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "كان يجب أن",
+            "synonyms": [
+                "ought to have"
+            ],
+            "example": [
+                {
+                    "text": "I "
+                },
+                {
+                    "text": "should have",
+                    "colorize": true
+                },
+                {
+                    "text": " studied more for the exam"
+                }
+            ],
+            "tips": "Shows something was the right thing to do but didn't happen. Regret or criticism. Should have + past participle."
+        },
+        {
+            "word": "commercial",
+            "wordType": "adjective/noun",
+            "definition": [
+                {
+                    "text": "Related to "
+                },
+                {
+                    "text": "business or trade",
+                    "highlight": true
+                },
+                {
+                    "text": "; a TV "
+                },
+                {
+                    "text": "advertisement",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "تجاري / إعلان",
+            "synonyms": [
+                "business-related",
+                "ad"
+            ],
+            "example": [
+                {
+                    "text": "The "
+                },
+                {
+                    "text": "commercial",
+                    "colorize": true
+                },
+                {
+                    "text": " flight leaves at 3 PM"
+                }
+            ],
+            "tips": "Commercial use = for profit. Commercial break = ads on TV. Commercialize = make profit-oriented."
+        },
+        {
+            "word": "devastated",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Extremely "
+                },
+                {
+                    "text": "upset or shocked",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "destroyed",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "محطم / منكوب",
+            "synonyms": [
+                "heartbroken",
+                "destroyed",
+                "shattered"
+            ],
+            "example": [
+                {
+                    "text": "She was "
+                },
+                {
+                    "text": "devastated",
+                    "colorize": true
+                },
+                {
+                    "text": " when she heard the bad news"
+                }
+            ],
+            "tips": "Very strong emotion. Devastate = destroy or shock deeply. Devastating news, devastating loss. Emotionally or physically."
+        },
+        {
+            "word": "embarrassed",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Feeling "
+                },
+                {
+                    "text": "ashamed or awkward",
+                    "highlight": true
+                },
+                {
+                    "text": " in a "
+                },
+                {
+                    "text": "social situation",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "محرج",
+            "synonyms": [
+                "ashamed",
+                "self-conscious"
+            ],
+            "example": [
+                {
+                    "text": "I felt "
+                },
+                {
+                    "text": "embarrassed",
+                    "colorize": true
+                },
+                {
+                    "text": " when I tripped in front of everyone"
+                }
+            ],
+            "tips": "Embarrass = cause embarrassment. Embarrassing situation, embarrassing moment. Everyone feels embarrassed sometimes!"
+        },
+        {
+            "word": "heavy",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Having "
+                },
+                {
+                    "text": "great weight",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "difficult to lift",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ثقيل",
+            "synonyms": [
+                "weighty",
+                "massive"
+            ],
+            "example": [
+                {
+                    "text": "This box is too "
+                },
+                {
+                    "text": "heavy",
+                    "colorize": true
+                },
+                {
+                    "text": " for me to carry alone"
+                }
+            ],
+            "tips": "Opposite: light. Heavy rain = intense. Heavy traffic = congested. Heavy workload = lots of work."
+        },
+        {
+            "word": "immature",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Not "
+                },
+                {
+                    "text": "fully developed",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "behaving childishly",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "غير ناضج",
+            "synonyms": [
+                "childish",
+                "juvenile"
+            ],
+            "example": [
+                {
+                    "text": "His "
+                },
+                {
+                    "text": "immature",
+                    "colorize": true
+                },
+                {
+                    "text": " behavior at work got him fired"
+                }
+            ],
+            "tips": "Im- = not. Mature = fully developed/adult. Immaturity = childish behavior. Usually negative when describing adults."
+        },
+        {
+            "word": "incandescent",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Emitting "
+                },
+                {
+                    "text": "light when heated",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "glowing brightly",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "متوهج / ساطع",
+            "synonyms": [
+                "glowing",
+                "luminous"
+            ],
+            "example": [
+                {
+                    "text": "Traditional "
+                },
+                {
+                    "text": "incandescent",
+                    "colorize": true
+                },
+                {
+                    "text": " light bulbs waste energy as heat"
+                }
+            ],
+            "tips": "Incandescent bulbs = old-style bulbs with filament. Now replaced by LED. Also: incandescent with rage = furious."
+        },
+        {
+            "word": "widespread",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Found or "
+                },
+                {
+                    "text": "distributed over a large area",
+                    "highlight": true
+                },
+                {
+                    "text": "; "
+                },
+                {
+                    "text": "common",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "منتشر / واسع الانتشار",
+            "synonyms": [
+                "common",
+                "prevalent",
+                "extensive"
+            ],
+            "example": [
+                {
+                    "text": "There is "
+                },
+                {
+                    "text": "widespread",
+                    "colorize": true
+                },
+                {
+                    "text": " support for the new policy"
+                }
+            ],
+            "tips": "Wide + spread = spread widely. Widespread poverty, widespread use, widespread damage. Covers large area/many people."
+        },
+        {
+            "word": "be on good terms",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To have a "
+                },
+                {
+                    "text": "friendly relationship",
+                    "highlight": true
+                },
+                {
+                    "text": " with "
+                },
+                {
+                    "text": "someone",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "على علاقة جيدة",
+            "synonyms": [
+                "get along well",
+                "have good relations"
+            ],
+            "example": [
+                {
+                    "text": "I'm "
+                },
+                {
+                    "text": "on good terms",
+                    "colorize": true
+                },
+                {
+                    "text": " with all my neighbors"
+                }
+            ],
+            "tips": "Opposite: on bad terms. Be on speaking terms = still talking. Good terms = positive relationship."
+        },
+        {
+            "word": "fall out with",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "have an argument",
+                    "highlight": true
+                },
+                {
+                    "text": " and "
+                },
+                {
+                    "text": "stop being friends",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يتخاصم مع",
+            "synonyms": [
+                "quarrel with",
+                "break up with"
+            ],
+            "example": [
+                {
+                    "text": "They "
+                },
+                {
+                    "text": "fell out with",
+                    "colorize": true
+                },
+                {
+                    "text": " each other over money"
+                }
+            ],
+            "tips": "A falling out = argument that ends friendship. Fall out over something = have disagreement about it."
+        },
+        {
+            "word": "miss an opportunity",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "fail to take advantage",
+                    "highlight": true
+                },
+                {
+                    "text": " of a "
+                },
+                {
+                    "text": "chance",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يفوّت فرصة",
+            "synonyms": [
+                "lose a chance",
+                "let slip"
+            ],
+            "example": [
+                {
+                    "text": "I "
+                },
+                {
+                    "text": "missed an opportunity",
+                    "colorize": true
+                },
+                {
+                    "text": " to study abroad"
+                }
+            ],
+            "tips": "Missed opportunity = regret. Opportunity missed = didn't use the chance. Don't miss out = take advantage!"
+        },
+        {
+            "word": "as for me",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Regarding "
+                },
+                {
+                    "text": "my opinion",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "situation",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "أما بالنسبة لي",
+            "synonyms": [
+                "regarding me",
+                "in my case"
+            ],
+            "example": [
+                {
+                    "text": "As for me",
+                    "colorize": true
+                },
+                {
+                    "text": ", I prefer to stay home tonight"
+                }
+            ],
+            "tips": "Shifts topic to yourself. As for = regarding/concerning. As for him, as for the plan, as for that idea."
+        },
+        {
+            "word": "breathing down someone's neck",
+            "wordType": "idiom",
+            "definition": [
+                {
+                    "text": "Watching someone "
+                },
+                {
+                    "text": "too closely",
+                    "highlight": true
+                },
+                {
+                    "text": " and "
+                },
+                {
+                    "text": "pressuring them",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يضغط على شخص / يراقبه عن كثب",
+            "synonyms": [
+                "watching closely",
+                "pressuring"
+            ],
+            "example": [
+                {
+                    "text": "My boss is always "
+                },
+                {
+                    "text": "breathing down my neck",
+                    "colorize": true
+                },
+                {
+                    "text": " about deadlines"
+                }
+            ],
+            "tips": "Uncomfortable feeling. Someone too close, watching everything. Makes people nervous. Give people space!"
+        },
+        {
+            "word": "go out into the world",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "leave home",
+                    "highlight": true
+                },
+                {
+                    "text": " and "
+                },
+                {
+                    "text": "start independent life",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يخرج للعالم / يبدأ حياته المستقلة",
+            "synonyms": [
+                "start your life",
+                "become independent"
+            ],
+            "example": [
+                {
+                    "text": "After graduation, it's time to "
+                },
+                {
+                    "text": "go out into the world",
+                    "colorize": true
+                },
+                {
+                    "text": " and find a job"
+                }
+            ],
+            "tips": "Usually after school/college. Leave protection of home. Face real world. Start career, adult responsibilities."
+        },
+        {
+            "word": "have one's mind set on",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To be "
+                },
+                {
+                    "text": "determined to achieve",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "obtain something",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "عازم على / مصمم على",
+            "synonyms": [
+                "be determined to get",
+                "be focused on"
+            ],
+            "example": [
+                {
+                    "text": "She "
+                },
+                {
+                    "text": "has her mind set on",
+                    "colorize": true
+                },
+                {
+                    "text": " becoming a doctor"
+                }
+            ],
+            "tips": "Very determined, won't change mind. Fixed goal. Mind is made up = decided. Set on = determined about."
+        },
+        {
+            "word": "you mean",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Expression to "
+                },
+                {
+                    "text": "clarify understanding",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "confirm what was said",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "تقصد",
+            "synonyms": [
+                "do you mean",
+                "you're saying"
+            ],
+            "example": [
+                {
+                    "text": "You mean",
+                    "colorize": true
+                },
+                {
+                    "text": " you're not coming to the party?"
+                }
+            ],
+            "tips": "Seeks clarification. Shows surprise or confirms understanding. What do you mean? = explain more clearly."
+        }
+    ]
+}

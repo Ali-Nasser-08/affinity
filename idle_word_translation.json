@@ -1,0 +1,4332 @@
+[
+    {
+        "word": "mistake",
+        "translation": "خطأ",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "fear",
+        "translation": "خوف",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "failure",
+        "translation": "فشل",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "refuse",
+        "translation": "يرفض",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "try",
+        "translation": "يحاول",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "summary",
+        "translation": "ملخص",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "life",
+        "translation": "حياة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "contain",
+        "translation": "يحتوي",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "description",
+        "translation": "وصف",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "accepting",
+        "translation": "قبول",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "hardship",
+        "translation": "مشقة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "difficult",
+        "translation": "صعب",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "endure",
+        "translation": "يتحمل",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "situation",
+        "translation": "وضع",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "company",
+        "translation": "شركة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "rejected",
+        "translation": "رفض",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "patent",
+        "translation": "براءة اختراع",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "telephone",
+        "translation": "هاتف",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "technology",
+        "translation": "تكنولوجيا",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "telegraph",
+        "translation": "تلغراف",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "wealthy",
+        "translation": "ثري",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "control",
+        "translation": "سيطرة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "invention",
+        "translation": "اختراع",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "response",
+        "translation": "استجابة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "consideration",
+        "translation": "اعتبار",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "novelty",
+        "translation": "شيء جديد / بدعة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "conclusion",
+        "translation": "استنتاج",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "commercial",
+        "translation": "تجاري",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "possibilities",
+        "translation": "إمكانيات",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "electrical",
+        "translation": "كهربائي",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "valuable",
+        "translation": "قيم",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "history",
+        "translation": "تاريخ",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "deal",
+        "translation": "صفقة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "business",
+        "translation": "عمل تجاري",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "worst",
+        "translation": "أسوأ",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "ignored",
+        "translation": "تجاهل",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "warning",
+        "translation": "تحذير",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "iceberg",
+        "translation": "جبل جليدي",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "sank",
+        "translation": "غرق",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "passenger",
+        "translation": "مسافر",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "tragedy",
+        "translation": "مأساة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "avoided",
+        "translation": "تجنب",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "heavy",
+        "translation": "ثقيل",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "area",
+        "translation": "منطقة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "captain",
+        "translation": "قبطان",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "worried",
+        "translation": "قلق",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "speed",
+        "translation": "سرعة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "arrive",
+        "translation": "يصل",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "expected",
+        "translation": "متوقع",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "operator",
+        "translation": "مشغل",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "message",
+        "translation": "رسالة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "path",
+        "translation": "مسار",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "task",
+        "translation": "مهمة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "aside",
+        "translation": "جانباً",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "sold",
+        "translation": "باع",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "gold",
+        "translation": "ذهب",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "burden",
+        "translation": "عبء",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "asset",
+        "translation": "أصل / مكسب",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "remote",
+        "translation": "نانائي / بعيد",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "indefensible",
+        "translation": "لا يمكن الدفاع عنه",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "benefit",
+        "translation": "فائدة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "negotiations",
+        "translation": "مفاوضات",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "initiative",
+        "translation": "مبادرة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "encounter",
+        "translation": "يواجه",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "opposition",
+        "translation": "معارضة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "outline",
+        "translation": "مخطط",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "cabinet",
+        "translation": "مجلس الوزراء",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "agreement",
+        "translation": "اتفاقية",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "signed",
+        "translation": "وقعت",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "transferring",
+        "translation": "نقل",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "payment",
+        "translation": "دفع",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "purchase",
+        "translation": "شراء",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "seemingly",
+        "translation": "ظاهرياً",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "desolate",
+        "translation": "مهجور",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "frozen",
+        "translation": "مجمد",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "greeted",
+        "translation": "استقبل",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "criticism",
+        "translation": "نقد",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "press",
+        "translation": "صحافة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "public",
+        "translation": "جمهور",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "icebox",
+        "translation": "صندوق ثلج",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "attitude",
+        "translation": "موقف",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "discovery",
+        "translation": "اكتشاف",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "investigated",
+        "translation": "حقق",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "potential",
+        "translation": "محتمل",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "resources",
+        "translation": "موارد",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "tampered",
+        "translation": "عبث",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "successful",
+        "translation": "ناجح",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "formula",
+        "translation": "صيغة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "launched",
+        "translation": "أطلق",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "popular",
+        "translation": "شائع",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "competition",
+        "translation": "منافسة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "sales",
+        "translation": "مبيعات",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "figures",
+        "translation": "أرقام",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "slipping",
+        "translation": "انزلاق / انخفاض",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "boost",
+        "translation": "يعزز",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "improved",
+        "translation": "محسن",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "tested",
+        "translation": "اختبر",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "results",
+        "translation": "نتائج",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "preferred",
+        "translation": "فضل",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "flavor",
+        "translation": "نكهة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "original",
+        "translation": "أصلي",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "producing",
+        "translation": "إنتاج",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "replace",
+        "translation": "استبدال",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "marketing",
+        "translation": "تسويق",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "outraged",
+        "translation": "غاضب جداً",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "available",
+        "translation": "متاح",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "flop",
+        "translation": "فشل ذريع",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "executives",
+        "translation": "مديرون تنفيذيون",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "surprised",
+        "translation": "مندهش",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "uncertainty",
+        "translation": "عدم يقين",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "possibility",
+        "translation": "إمكانية",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "option",
+        "translation": "خيار",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "conclusions",
+        "translation": "استنتاجات",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "expectations",
+        "translation": "توقعات",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "apologize",
+        "translation": "عتذر",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "postponed",
+        "translation": "أجل",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "essay",
+        "translation": "مقال",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "passive",
+        "translation": "مبني للمجهول",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "opinions",
+        "translation": "آراء",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "events",
+        "translation": "أحداث",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "sore throat",
+        "translation": "التهاب الحلق",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "vacation",
+        "translation": "عطلة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "confused",
+        "translation": "مرتبك",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "expensive",
+        "translation": "غالي",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "hurt",
+        "translation": "جرح / أذى",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "feelings",
+        "translation": "مشاعر",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "formal",
+        "translation": "رسمي",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "interview",
+        "translation": "مقابلة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "recycling",
+        "translation": "إعادة تدوير",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "candidate",
+        "translation": "مرشح",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "election",
+        "translation": "انتخابات",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "refreshed",
+        "translation": "منتعش",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "coach",
+        "translation": "مدرب",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "photographer",
+        "translation": "مصور",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "arrested",
+        "translation": "اعتقل",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "speeding",
+        "translation": "تجاوز السرعة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "mechanic",
+        "translation": "ميكانيكي",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "umbrella",
+        "translation": "مظلة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "graduation",
+        "translation": "تخرج",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "occasion",
+        "translation": "مناسبة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "no big deal",
+        "translation": "ليس بالأمر الجلل",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "focused",
+        "translation": "مركز",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "slipped my mind",
+        "translation": "غاب عن بالي",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "awful",
+        "translation": "مريع",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "forgive",
+        "translation": "يسامح",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "excuse",
+        "translation": "عذر",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "sweat it",
+        "translation": "تقلق بشأنه",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "flake",
+        "translation": "شخص غير ملتزم",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "goal",
+        "translation": "هدف",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "achieve",
+        "translation": "يحقق",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "consequences",
+        "translation": "عواقب",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "casual",
+        "translation": "غير رسمي",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "speech",
+        "translation": "كلام",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "reduced",
+        "translation": "مخفف",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "surprise",
+        "translation": "مفاجأة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "absent-minded",
+        "translation": "شارد الذهن",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "adhesive",
+        "translation": "لاصق",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "automatically",
+        "translation": "تلقائياً",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "damage",
+        "translation": "ضرر",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "discarded",
+        "translation": "مرمي / مهمل",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "ubiquitous",
+        "translation": "واسع الانتشار",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "instinct",
+        "translation": "غريزة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "regret",
+        "translation": "ندم",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "embarrassment",
+        "translation": "إحراج",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "extraordinary",
+        "translation": "استثنائي",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "route",
+        "translation": "مسار / طريق",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "antibiotics",
+        "translation": "مضادات حيوية",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "medication",
+        "translation": "دواء",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "bacteria",
+        "translation": "بكتيريا",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "disease",
+        "translation": "مرض",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "scientist",
+        "translation": "عالم",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "conducted",
+        "translation": "أجرى",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "experiments",
+        "translation": "تجارب",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "brilliant",
+        "translation": "لامع / عبقري",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "messy",
+        "translation": "فوضوي",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "laboratory",
+        "translation": "مختبر",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "mold",
+        "translation": "عفن",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "microscope",
+        "translation": "مجهر",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "dissolved",
+        "translation": "مذاب",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "convenient",
+        "translation": "مريح / ملائم",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "granted",
+        "translation": "ممنوح / مفروغ منه",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "hike",
+        "translation": "نزهة مشي",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "spread",
+        "translation": "ينشر",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "seeds",
+        "translation": "بذور",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "curious",
+        "translation": "فضولي",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "attached",
+        "translation": "مرفق / ملتصق",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "inspected",
+        "translation": "فحص",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "countless",
+        "translation": "لا يحصى",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "hooks",
+        "translation": "خطافات",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "loops",
+        "translation": "حلقات",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "fabric",
+        "translation": "قماش",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "fastener",
+        "translation": "مشبك",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "scraps",
+        "translation": "قصاصات",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "essential",
+        "translation": "أساسي",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "solutions",
+        "translation": "حلول",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "incident",
+        "translation": "حادثة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "outcome",
+        "translation": "نتيجة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "impact",
+        "translation": "تأثير",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "explicit",
+        "translation": "صريح",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "security",
+        "translation": "أمن",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "airport",
+        "translation": "مطار",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "fatigue",
+        "translation": "إعياء",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "sauntered",
+        "translation": "تمشى ببطء",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "departure",
+        "translation": "مغادرة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "gate",
+        "translation": "بوابة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "announcement",
+        "translation": "إعلان",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "mistakenly",
+        "translation": "عن طريق الخطأ",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "accidentally",
+        "translation": "بالصدفة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "requested",
+        "translation": "طلب",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "label",
+        "translation": "ملصق",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "vaguely",
+        "translation": "بشكل غامض",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "familiar",
+        "translation": "مألوف",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "connections",
+        "translation": "ارتباطات",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "descendants",
+        "translation": "أحفاد",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "resemblance",
+        "translation": "تشابه",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "cousins",
+        "translation": "أبناء عمومة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "relative",
+        "translation": "قريب (من العائلة)",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "existence",
+        "translation": "وجود",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "opportunity",
+        "translation": "فرصة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "consistent",
+        "translation": "ثابت / متسق",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "determination",
+        "translation": "عزيمة",
+        "unit": "Unit 7"
+    },
+    {
+        "word": "circumstances",
+        "translation": "ظروف",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "odds",
+        "translation": "صعاب / احتمالات",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "extraordinary",
+        "translation": "استثنائي",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "impossible",
+        "translation": "مستحيل",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "organizations",
+        "translation": "منظمات",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "challenging",
+        "translation": "تحدي / صعب",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "forum",
+        "translation": "منتدى",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "cooperation",
+        "translation": "تعاون",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "economies",
+        "translation": "اقتصادات",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "founded",
+        "translation": "تأسست",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "leaders",
+        "translation": "قادة",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "presidency",
+        "translation": "رئاسة",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "pandemic",
+        "translation": "جائحة",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "spread",
+        "translation": "انتشار",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "globe",
+        "translation": "كرة أرضية",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "unexpected",
+        "translation": "غير متوقع",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "unprepared",
+        "translation": "غير مستعد",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "emergency",
+        "translation": "طارئ",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "summit",
+        "translation": "قمة",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "crisis",
+        "translation": "أزمة",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "virtually",
+        "translation": "افتراضياً",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "conference",
+        "translation": "مؤتمر",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "priority",
+        "translation": "أولوية",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "unprecedented",
+        "translation": "غير مسبوق",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "interconnectedness",
+        "translation": "ترابط",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "vulnerabilities",
+        "translation": "نقاط الضعف",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "statement",
+        "translation": "بيان",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "borders",
+        "translation": "حدود",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "combatting",
+        "translation": "مكافحة",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "transparent",
+        "translation": "شفاف",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "robust",
+        "translation": "قوي",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "coordinated",
+        "translation": "منسق",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "solidarity",
+        "translation": "تضامن",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "committed",
+        "translation": "ملتزم",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "institutions",
+        "translation": "مؤسسات",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "individually",
+        "translation": "فردياً",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "collectively",
+        "translation": "جماعياً",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "pledging",
+        "translation": "التعهد",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "emphasis",
+        "translation": "تأكيد",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "vulnerable",
+        "translation": "ضعيف / عرضة للخطر",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "proposed",
+        "translation": "اقترح",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "exchanging",
+        "translation": "تبادل",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "materials",
+        "translation": "مواد",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "strengthening",
+        "translation": "تقوية",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "systems",
+        "translation": "أنظمة",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "manufacturing",
+        "translation": "تصنيع",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "supplies",
+        "translation": "إمدادات",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "regions",
+        "translation": "مناطق",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "affordable",
+        "translation": "ميسور التكلفة",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "vaccines",
+        "translation": "لقاحات",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "medicines",
+        "translation": "أدوية",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "safeguard",
+        "translation": "حماية",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "economy",
+        "translation": "اقتصاد",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "measures",
+        "translation": "تدابير",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "minimize",
+        "translation": "تقليل",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "social",
+        "translation": "اجتماعي",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "growth",
+        "translation": "نمو",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "markets",
+        "translation": "أسواق",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "stable",
+        "translation": "مستقر",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "injecting",
+        "translation": "ضخ",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "trillion",
+        "translation": "تريليون",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "recovery",
+        "translation": "تعافي",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "disruptions",
+        "translation": "اضطرابات",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "agricultural",
+        "translation": "زراعي",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "assistance",
+        "translation": "مساعدة",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "developing",
+        "translation": "نامي",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "cope",
+        "translation": "تأقلم",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "restore",
+        "translation": "استعادة",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "stability",
+        "translation": "استقرار",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "foundations",
+        "translation": "أسس",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "sustainable",
+        "translation": "مستدام",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "inclusive",
+        "translation": "شامل",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "ethical",
+        "translation": "أخلاقي",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "cause",
+        "translation": "سبب",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "effect",
+        "translation": "تأثير",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "strange",
+        "translation": "غريب",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "experience",
+        "translation": "تجربة",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "determined",
+        "translation": "عازم",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "succeed",
+        "translation": "ينجح",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "unlikely",
+        "translation": "غير محتمل",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "frightened",
+        "translation": "خائف",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "accepted",
+        "translation": "مقبول",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "energy",
+        "translation": "طاقة",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "exhausted",
+        "translation": "مرهق",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "annoyed",
+        "translation": "منزعج",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "crowded",
+        "translation": "مزدحم",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "trophies",
+        "translation": "كوؤس",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "sunscreen",
+        "translation": "واقي شمس",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "coincidence",
+        "translation": "صدفة",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "campus",
+        "translation": "حرم جامعي",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "dorm",
+        "translation": "مسكن الطلاب",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "iffy",
+        "translation": "غير مؤكد",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "break",
+        "translation": "فرصة / استراحة",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "cloud nine",
+        "translation": "قمة السعادة",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "freak out",
+        "translation": "يفزع",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "speechless",
+        "translation": "عاجز عن الكلام",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "identical",
+        "translation": "متطابق",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "separated",
+        "translation": "منفصل",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "adopted",
+        "translation": "متبنى",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "emotional",
+        "translation": "عاطفي",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "thump",
+        "translation": "خفقان",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "chest",
+        "translation": "صدر",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "recurring",
+        "translation": "متكرر",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "detectable",
+        "translation": "قابل للكشف",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "disoriented",
+        "translation": "مشوش",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "exhilarating",
+        "translation": "مبهج / مثير",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "haggard",
+        "translation": "مرهق جداً / هزيل",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "hallucinating",
+        "translation": "يهلوس",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "intact",
+        "translation": "سليم / غير مصاب",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "reception",
+        "translation": "استقبال / إشارة",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "startling",
+        "translation": "مذهل / مفاجئ",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "survival",
+        "translation": "بقاء",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "hurricane",
+        "translation": "إعصار",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "waves",
+        "translation": "أمواج",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "overturned",
+        "translation": "انقلب",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "unconscious",
+        "translation": "فاقد الوعي",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "deck",
+        "translation": "سطح السفينة",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "violent",
+        "translation": "عنيف",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "rudder",
+        "translation": "دفة",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "injured",
+        "translation": "مصاب",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "scraps",
+        "translation": "قصاصات / بقايا",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "charted",
+        "translation": "رسم مسار",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "ordeal",
+        "translation": "محنة",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "grateful",
+        "translation": "ممتن",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "wilderness",
+        "translation": "برية",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "supplies",
+        "translation": "مؤن",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "battery",
+        "translation": "بطارية",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "safety",
+        "translation": "أمان",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "rescue",
+        "translation": "إنقاذ",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "bark",
+        "translation": "لحاء الشجر",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "compass",
+        "translation": "بوصلة",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "frostbitten",
+        "translation": "مصاب بقضمات الصقيع",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "exhaustion",
+        "translation": "إرهاق شديد",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "appetite",
+        "translation": "شهية",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "artificial",
+        "translation": "اصطناعي",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "limbs",
+        "translation": "أطراف",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "wandering",
+        "translation": "تجول",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "pulse",
+        "translation": "نبض",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "organs",
+        "translation": "أعضاء الجسد",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "hibernation",
+        "translation": "سبات",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "protection",
+        "translation": "حماية",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "stranded",
+        "translation": "عالق",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "thriving",
+        "translation": "مزدهر",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "ambitious",
+        "translation": "طموح",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "abundance",
+        "translation": "وفرة",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "untapped",
+        "translation": "غير مستغل",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "exceptional",
+        "translation": "استثنائي",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "heritage",
+        "translation": "تراث",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "foundation",
+        "translation": "أساس / مؤسسة",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "empowered",
+        "translation": "ممكن",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "adherence",
+        "translation": "التزام",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "pilgrims",
+        "translation": "حجاج",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "expansion",
+        "translation": "توسع",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "facilities",
+        "translation": "مرافق",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "entertainment",
+        "translation": "ترفيه",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "integral",
+        "translation": "جزء لا يتجزأ",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "galleries",
+        "translation": "معارض",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "citizens",
+        "translation": "مواطنون",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "aligned",
+        "translation": "محاذاة / متوافق",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "dynamic",
+        "translation": "ديناميكي",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "entrepreneurs",
+        "translation": "رواد أعمال",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "enterprises",
+        "translation": "مشاريع",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "diversified",
+        "translation": "متنوع",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "streamlined",
+        "translation": "مبسط",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "hub",
+        "translation": "مركز",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "capabilities",
+        "translation": "قدرات",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "privatization",
+        "translation": "خصخصة",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "enriched",
+        "translation": "مثرى",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "broadband",
+        "translation": "نطاق عريض (إنترنت)",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "rural",
+        "translation": "ريفي",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "accountable",
+        "translation": "مسؤول / خاضع للمساءلة",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "prerequisite",
+        "translation": "شرط مسبق",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "foster",
+        "translation": "يعزز / يرعى",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "restructuring",
+        "translation": "إعادة هيكلة",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "management",
+        "translation": "إدارة",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "visualize",
+        "translation": "يتخيل / يتصور",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "domes",
+        "translation": "قباب",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "geometric",
+        "translation": "هندسي",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "regulations",
+        "translation": "لوائح / قوانين",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "similes",
+        "translation": "تشبيهات",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "thesaurus",
+        "translation": "قاموس مرادفات",
+        "unit": "Unit 8"
+    },
+    {
+        "word": "beauty",
+        "translation": "جمال",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "skin deep",
+        "translation": "سطحي / ظاهري",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "hairbrush",
+        "translation": "فرشاة شعر",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "privileged",
+        "translation": "مميز / ذو امتيازات",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "manufactured",
+        "translation": "مصنع",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "bristles",
+        "translation": "شعيرات الفرشاة",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "synthetic",
+        "translation": "اصطناعي",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "lipstick",
+        "translation": "أحمر شفتين",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "dye",
+        "translation": "صبغة",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "extracted",
+        "translation": "مستخرج",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "poisonous",
+        "translation": "سام",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "element",
+        "translation": "عنصر",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "iodine",
+        "translation": "يود",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "appealing",
+        "translation": "جذاب",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "recipe",
+        "translation": "وصفة",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "ants",
+        "translation": "نمل",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "beetles",
+        "translation": "خنافس",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "carmine",
+        "translation": "قرمزي",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "castor oil",
+        "translation": "زيت الخروع",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "beeswax",
+        "translation": "شمع العسل",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "fat",
+        "translation": "دهن",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "rotating",
+        "translation": "دوار",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "deodorant",
+        "translation": "مزيل عرق",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "odor",
+        "translation": "رائحة كريهة",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "perfume",
+        "translation": "عطر",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "incense",
+        "translation": "بخور",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "porridge",
+        "translation": "عصيدة",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "obsession",
+        "translation": "هوس",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "trademarked",
+        "translation": "مسجل كعلامة تجارية",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "ballpoint",
+        "translation": "قلم حبر جاف",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "industry",
+        "translation": "صناعة",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "nail polish",
+        "translation": "طلاء أظافر",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "royal",
+        "translation": "ملكي",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "ranking",
+        "translation": "رتبة / تصنيف",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "stained",
+        "translation": "ملطخ / مصبوغ",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "henna",
+        "translation": "حناء",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "groomed",
+        "translation": "أنيق / معتنى به",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "toxic",
+        "translation": "سام",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "cosmetics",
+        "translation": "مستحضرات تجميل",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "toiletries",
+        "translation": "أدوات زينة",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "complaining",
+        "translation": "شكوى",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "layers",
+        "translation": "طبقات",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "ridiculous",
+        "translation": "سخيف",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "sophisticated",
+        "translation": "متطور / راقٍ",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "elegant",
+        "translation": "أنيق",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "fad",
+        "translation": "موضة عابرة",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "diet",
+        "translation": "حمية غذائية",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "nutritionist",
+        "translation": "أخصائي تغذية",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "emerging",
+        "translation": "ناشئ / بزوغ",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "famine",
+        "translation": "مجاعة",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "ideal",
+        "translation": "مثالي",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "instinctive",
+        "translation": "غريزي",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "plump",
+        "translation": "ممتلئ الجسم",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "proportion",
+        "translation": "تناسب / نسبة",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "symmetry",
+        "translation": "تناظر",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "standards",
+        "translation": "معايير",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "vary",
+        "translation": "يختلف",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "aesthetic",
+        "translation": "جمالي",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "moral",
+        "translation": "أخلاقي",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "spiritual",
+        "translation": "روحي",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "fascination",
+        "translation": "افتتان / انبهار",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "waists",
+        "translation": "خصور",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "fainted",
+        "translation": "أغمي عليه",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "shortages",
+        "translation": "نقص",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "diminish",
+        "translation": "يتضاءل",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "chubby",
+        "translation": "سمين قليلاً",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "muscular",
+        "translation": "عضلي",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "bizarre",
+        "translation": "غريب جداً",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "grooming",
+        "translation": "هندام",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "chemicals",
+        "translation": "مواد كيميائية",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "dangerous",
+        "translation": "خطير",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "healthy",
+        "translation": "صحي",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "appearance",
+        "translation": "مظهر",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "advertising",
+        "translation": "إعلان",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "admiration",
+        "translation": "إعجاب",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "formula",
+        "translation": "صيغة / معادلة",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "research",
+        "translation": "بحث",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "qualities",
+        "translation": "صفات",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "balance",
+        "translation": "توازن",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "culture",
+        "translation": "ثقافة",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "participants",
+        "translation": "مشاركون",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "attractiveness",
+        "translation": "جاذبية",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "foreheads",
+        "translation": "جباه",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "plucked",
+        "translation": "نتف",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "glazed",
+        "translation": "لامع / مصقول",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "bind",
+        "translation": "يربط",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "breathe",
+        "translation": "يتنفس",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "figure",
+        "translation": "قوام / شكل",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "attractive",
+        "translation": "جذاب",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "wealth",
+        "translation": "ثروة",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "pad",
+        "translation": "يحشو",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "overwhelming",
+        "translation": "ساحق / غامر",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "athlete",
+        "translation": "رياضي",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "industrial",
+        "translation": "صناعي",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "signs",
+        "translation": "علامات",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "gyms",
+        "translation": "نوادي رياضية",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "care",
+        "translation": "عناية",
+        "unit": "Unit 9"
+    },
+    {
+        "word": "gossip",
+        "translation": "نميمة",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "rumors",
+        "translation": "شائعات",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "circulate",
+        "translation": "يتداول / ينتشر",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "disliked",
+        "translation": "كره",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "faults",
+        "translation": "عيوب",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "praise",
+        "translation": "مدح",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "virtues",
+        "translation": "فضائل",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "squash",
+        "translation": "يسحق / يخمد (شائعة)",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "unring",
+        "translation": "يتراجع (عن كلام)",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "ridicule",
+        "translation": "سخرية",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "criticism",
+        "translation": "نقد",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "scandal",
+        "translation": "فضيحة",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "brilliant",
+        "translation": "لامع / ذكي",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "conversationalist",
+        "translation": "محدث بارع",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "celebrity",
+        "translation": "مشهور",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "paradise",
+        "translation": "جنة",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "proverb",
+        "translation": "مثل",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "average",
+        "translation": "متوسط",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "exaggerate",
+        "translation": "يبالغ",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "paraphrase",
+        "translation": "إعادة صياغة",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "exceptions",
+        "translation": "استثناءات",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "sequence",
+        "translation": "تسلسل",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "tenses",
+        "translation": "أزمنة",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "imperative",
+        "translation": "صيغة الأمر",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "infinitive",
+        "translation": "مصدر (فعل)",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "whether",
+        "translation": "ما إذا",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "dialogue",
+        "translation": "حوار",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "split up",
+        "translation": "انفصل",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "backstabber",
+        "translation": "خائن (يطعن في الظهر)",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "bad-mouth",
+        "translation": "يشتم / يغتاب",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "confrontation",
+        "translation": "مواجهة",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "kindergarten",
+        "translation": "روضة أطفال",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "confidential",
+        "translation": "سري",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "derogatory",
+        "translation": "ازدرائي / مهين",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "divulge",
+        "translation": "يفشي",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "excluding",
+        "translation": "استبعاد",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "immune",
+        "translation": "محصن",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "malicious",
+        "translation": "خبيث",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "superior",
+        "translation": "متفوق",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "acknowledge",
+        "translation": "يعترف",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "ethical",
+        "translation": "أخلاقي",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "perspective",
+        "translation": "منظور",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "harmless",
+        "translation": "غير ضار",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "bonding",
+        "translation": "ترابط",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "social",
+        "translation": "اجتماعي",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "behavior",
+        "translation": "سلوك",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "anxiety",
+        "translation": "قلق",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "insecurity",
+        "translation": "عدم شعور بالأمان",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "status",
+        "translation": "مكانة / وضع",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "integrated",
+        "translation": "مدمج",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "exclusion",
+        "translation": "إقصاء",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "damaging",
+        "translation": "مضر",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "ruining",
+        "translation": "تخريب",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "reputation",
+        "translation": "سمعة",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "whisper",
+        "translation": "همس",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "wording",
+        "translation": "صياغة",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "confirm",
+        "translation": "يؤكد",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "intonation",
+        "translation": "نغمة الصوت",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "harsh",
+        "translation": "قاس",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "lecture",
+        "translation": "محاضرة",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "portions",
+        "translation": "حصص (طعام)",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "nutrients",
+        "translation": "عناصر غذائية",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "survive",
+        "translation": "ينجو",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "guaranteed",
+        "translation": "مضمون",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "loss",
+        "translation": "فقدان / خسارة",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "psychological",
+        "translation": "نفسي",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "disorder",
+        "translation": "اضطراب",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "stuttering",
+        "translation": "تأتأة",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "insomnia",
+        "translation": "أرق",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "dyslexia",
+        "translation": "عسر القراءة",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "deficit",
+        "translation": "عجز / نقص",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "verify",
+        "translation": "يتحقق",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "plagiarism",
+        "translation": "سرقة أدبية",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "credit",
+        "translation": "فضل / تقدير",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "quote",
+        "translation": "اقتباس",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "summarize",
+        "translation": "يلخص",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "embarrass",
+        "translation": "يحرج",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "risk",
+        "translation": "خطر / مخاطرة",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "prolong",
+        "translation": "يطيل",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "flow",
+        "translation": "تدفق",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "deafness",
+        "translation": "صمم",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "communication",
+        "translation": "تواصل",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "frustration",
+        "translation": "إحباط",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "peace",
+        "translation": "سلام",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "prophet",
+        "translation": "نبي",
+        "unit": "Unit 10"
+    },
+    {
+        "word": "language",
+        "translation": "لغة",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "Mandarin",
+        "translation": "الماندرين (لغة صينية)",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "Hindi",
+        "translation": "هندي",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "Spanish",
+        "translation": "إسباني",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "Russian",
+        "translation": "روسي",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "Bengali",
+        "translation": "بنغالي",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "Portuguese",
+        "translation": "برتغالي",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "Malay",
+        "translation": "ماليزي",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "Japanese",
+        "translation": "ياباني",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "German",
+        "translation": "ألماني",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "Urdu",
+        "translation": "أردية",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "extinct",
+        "translation": "منقرض",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "prosperity",
+        "translation": "ازدهار",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "longevity",
+        "translation": "طول العمر",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "auspiciousness",
+        "translation": "يمن / بركة",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "alphabet",
+        "translation": "أبجدية",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "clicking",
+        "translation": "نقر",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "admiral",
+        "translation": "أدميرال",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "adobe",
+        "translation": "طوب / لبنة",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "alchemy",
+        "translation": "كيمياء قديمة",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "algebra",
+        "translation": "جبر",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "alkaline",
+        "translation": "قلوي",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "amber",
+        "translation": "كهرمان",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "arsenal",
+        "translation": "ترسانة",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "candy",
+        "translation": "حلوى",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "carat",
+        "translation": "قيراط",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "coffee",
+        "translation": "قهوة",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "cotton",
+        "translation": "قطن",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "hazard",
+        "translation": "خطر",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "jar",
+        "translation": "جرة",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "lemon",
+        "translation": "ليمون",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "mattress",
+        "translation": "مرتبة",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "sofa",
+        "translation": "أريكة",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "punctuation",
+        "translation": "علامات الترقيم",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "solitary",
+        "translation": "وحيد / منعزل",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "dreamt",
+        "translation": "حلم",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "bookkeeper",
+        "translation": "ماسك الدفاتر",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "consecutive",
+        "translation": "متتالي",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "rhymes",
+        "translation": "قوافي",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "definitions",
+        "translation": "تعريفات",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "acquire",
+        "translation": "يكتسب",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "immense",
+        "translation": "هائل",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "routinely",
+        "translation": "بشكل روتيني",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "current",
+        "translation": "حالي",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "quiz",
+        "translation": "اختبار قصير",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "equivalent",
+        "translation": "مكافئ",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "adjective",
+        "translation": "صفة",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "clause",
+        "translation": "عبارة",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "relative",
+        "translation": "قريب / نسبي",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "pronoun",
+        "translation": "ضمير",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "subject",
+        "translation": "فاعل / موضوع",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "object",
+        "translation": "مفعول به / شيء",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "photographer",
+        "translation": "مصور",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "flag",
+        "translation": "علم",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "linguist",
+        "translation": "لغوي",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "hammer",
+        "translation": "مطرقة",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "exam",
+        "translation": "امتحان",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "electronic",
+        "translation": "إلكتروني",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "reader",
+        "translation": "قارئ",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "vegetarian",
+        "translation": "نباتي",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "synonyms",
+        "translation": "مرادفات",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "dictionary",
+        "translation": "قاموس",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "jam packed",
+        "translation": "مزدحم جداً",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "elbow",
+        "translation": "كوع / دفع بالكوع",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "munchies",
+        "translation": "وجبات خفيفة",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "snore",
+        "translation": "يشخر",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "subway",
+        "translation": "مترو أنفاق",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "shopping",
+        "translation": "تسوق",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "mall",
+        "translation": "مركز تسوق",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "pronunciation",
+        "translation": "نطق",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "emphasized",
+        "translation": "مؤكد / مشدد",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "meaning",
+        "translation": "معنى",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "evolve",
+        "translation": "يتطور",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "exception",
+        "translation": "استثناء",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "fictitious",
+        "translation": "خيالي",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "humanitarian",
+        "translation": "إنساني",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "limitations",
+        "translation": "قيود",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "neutral",
+        "translation": "محايد",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "noble",
+        "translation": "نبيل",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "trademarked",
+        "translation": "علامة تجارية مسجلة",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "invented",
+        "translation": "مخترع",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "flaws",
+        "translation": "عيوب",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "imperfections",
+        "translation": "نواقص",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "barriers",
+        "translation": "حواجز",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "equality",
+        "translation": "مساواة",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "brotherhood",
+        "translation": "أخوة",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "ownership",
+        "translation": "ملكية",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "circulated",
+        "translation": "متداول",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "irregularities",
+        "translation": "مخالفات / شواذ",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "plural",
+        "translation": "جمع",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "conjugation",
+        "translation": "تصريف الأفعال",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "intentions",
+        "translation": "نوايا",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "unifying",
+        "translation": "توحيد",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "international",
+        "translation": "دولي",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "similarities",
+        "translation": "أوجه التشابه",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "coexistence",
+        "translation": "تعايش",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "race",
+        "translation": "عرق / سباق",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "outer space",
+        "translation": "فضاء خارجي",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "copyrighted",
+        "translation": "محفوظ الحقوق",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "fluency",
+        "translation": "طلاقة",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "committed",
+        "translation": "ملتزم",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "exclusive",
+        "translation": "حصري",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "fans",
+        "translation": "معجبين",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "novelty",
+        "translation": "شيء جديد",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "practical",
+        "translation": "عملي",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "identity",
+        "translation": "هوية",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "accent",
+        "translation": "لهجة",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "native",
+        "translation": "أصلي",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "speaker",
+        "translation": "متحدث",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "continuum",
+        "translation": "استمرارية",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "regional",
+        "translation": "إقليمي",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "imitate",
+        "translation": "يقلد",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "intercultural",
+        "translation": "بين الثقافات",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "prerequisite",
+        "translation": "شرط مسبق",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "accommodate",
+        "translation": "يستوعب",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "prestigious",
+        "translation": "مرموق",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "norms",
+        "translation": "أعراف",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "predictions",
+        "translation": "تنبؤات",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "recognition",
+        "translation": "تعرف / تمييز",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "applications",
+        "translation": "تطبيقات",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "programmed",
+        "translation": "مبرمج",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "digital",
+        "translation": "رقمي",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "translation",
+        "translation": "ترجمة",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "ballpoint",
+        "translation": "قلم جاف",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "pen",
+        "translation": "قلم",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "magazine",
+        "translation": "مجلة",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "microwave",
+        "translation": "مايكروويف",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "vacuum cleaner",
+        "translation": "مكنسة كهربائية",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "dishwasher",
+        "translation": "غسالة صحون",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "traditional",
+        "translation": "تقليدي",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "gift",
+        "translation": "هدية",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "future",
+        "translation": "مستقبل",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "progressive",
+        "translation": "تقدمي",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "spectacular",
+        "translation": "مذهل",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "magnificent",
+        "translation": "رائع",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "wonderful",
+        "translation": "بديع",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "ancient",
+        "translation": "قديم",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "peaceful",
+        "translation": "سلمي / هادئ",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "relaxing",
+        "translation": "مريح",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "inexpensive",
+        "translation": "رخيص",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "popular",
+        "translation": "محبوب / شعبي",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "exciting",
+        "translation": "مثير",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "luxurious",
+        "translation": "فاخر",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "exotic",
+        "translation": "غريب / عجيب",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "awesome",
+        "translation": "مدهش",
+        "unit": "Unit 11"
+    },
+    {
+        "word": "lost",
+        "translation": "مفقود",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "valuable",
+        "translation": "قيم",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "treasure",
+        "translation": "كنز",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "emperor",
+        "translation": "إمبراطور",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "ruled",
+        "translation": "حكم",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "controlled",
+        "translation": "سيطر",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "notorious",
+        "translation": "سيء السمعة",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "invader",
+        "translation": "غاذٍ",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "kidnapped",
+        "translation": "مخطوف",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "killed",
+        "translation": "مقتول",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "dazzling",
+        "translation": "مبهر",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "escape",
+        "translation": "هروب",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "surrender",
+        "translation": "استسلام",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "empty-handed",
+        "translation": "خالي الوفاض",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "revenge",
+        "translation": "انتقام",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "attempt",
+        "translation": "محاولة",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "steal",
+        "translation": "سرقة",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "drained",
+        "translation": "مستنزف / مجفف",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "trace",
+        "translation": "أثر",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "hidden",
+        "translation": "مخفي",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "pharaoh",
+        "translation": "فرعون",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "succeeded",
+        "translation": "نحج / خلف",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "throne",
+        "translation": "عرش",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "assassination",
+        "translation": "اغتيال",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "infection",
+        "translation": "عدوى",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "accident",
+        "translation": "حادث",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "tomb",
+        "translation": "قبر",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "preserved",
+        "translation": "محفوظ",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "royal",
+        "translation": "ملكي",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "discovered",
+        "translation": "مكتشف",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "clues",
+        "translation": "أدلة",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "Egyptologist",
+        "translation": "عالم مصريات",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "confirmed",
+        "translation": "مؤكد",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "necropolis",
+        "translation": "مقبرة",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "persuaded",
+        "translation": "أقنع",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "finance",
+        "translation": "تمويل",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "buried",
+        "translation": "مدفون",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "ancient",
+        "translation": "قديم / أثري",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "hut",
+        "translation": "كوخ",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "sealed",
+        "translation": "مختوم",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "dug",
+        "translation": "حفر",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "entry",
+        "translation": "دخول",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "artifacts",
+        "translation": "تحف / قطع أثرية",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "masks",
+        "translation": "أقنعة",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "furniture",
+        "translation": "أثاث",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "stunning",
+        "translation": "مذهل",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "jewelry",
+        "translation": "مجوهرات",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "exquisite",
+        "translation": "رائع / متقن",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "paintings",
+        "translation": "لوحات",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "inlaid",
+        "translation": "مطعّم",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "craftsmanship",
+        "translation": "حرفة / براعة",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "itemized",
+        "translation": "مفصل",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "amber",
+        "translation": "كهرمان",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "constructed",
+        "translation": "مشيد",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "decorations",
+        "translation": "زينة",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "jewels",
+        "translation": "جواهر",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "completed",
+        "translation": "مكتمل",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "empire",
+        "translation": "إمبراطورية",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "gift",
+        "translation": "هدية",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "invaluable",
+        "translation": "لا يقدر بثمن",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "tear down",
+        "translation": "يهدم",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "crates",
+        "translation": "صناديق",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "destination",
+        "translation": "وجهة",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "theory",
+        "translation": "نظرية",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "submarine",
+        "translation": "غواصة",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "shelter",
+        "translation": "ملجأ",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "estimate",
+        "translation": "تقدير",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "flea market",
+        "translation": "سوق سلع مستعملة",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "document",
+        "translation": "وثيقة",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "wedged",
+        "translation": "محشور",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "declaration",
+        "translation": "إعلان",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "independence",
+        "translation": "استقلال",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "appraiser",
+        "translation": "مثمن",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "rare",
+        "translation": "نادر",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "thrift shop",
+        "translation": "متجر سلع مستعملة",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "joke",
+        "translation": "نكتة / مزحة",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "bargained",
+        "translation": "ساوم",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "dragged",
+        "translation": "سحب",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "garage sale",
+        "translation": "بيع مرآب",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "evaluated",
+        "translation": "قُيم",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "experts",
+        "translation": "خبراء",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "authentic",
+        "translation": "أصلي",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "supporters",
+        "translation": "داعمين",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "dealer",
+        "translation": "تاجر",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "unemployed",
+        "translation": "عاطل عن العمل",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "amateur",
+        "translation": "هاوٍ",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "hunter",
+        "translation": "صياد",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "metal detector",
+        "translation": "كاشف معادن",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "persistent",
+        "translation": "مصر",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "beeping",
+        "translation": "تصفير",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "wildly",
+        "translation": "جامح",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "digging",
+        "translation": "حفر",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "struck gold",
+        "translation": "عثر على ذهب",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "stumble upon",
+        "translation": "عثر بالصدفة",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "ornaments",
+        "translation": "زينة",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "swords",
+        "translation": "سيوف",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "weapons",
+        "translation": "أسلحة",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "determined",
+        "translation": "محدد / عازم",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "split",
+        "translation": "ينقسم",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "evenly",
+        "translation": "بالتساوي",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "attic",
+        "translation": "علية",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "unimagined",
+        "translation": "غير متخيل",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "portion",
+        "translation": "جزء",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "luggage",
+        "translation": "أمتعة",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "suitcase",
+        "translation": "حقيبة سفر",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "proposals",
+        "translation": "مقترحات",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "reports",
+        "translation": "تقارير",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "associates",
+        "translation": "شركاء",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "exhausted",
+        "translation": "مرهق",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "flight",
+        "translation": "رحلة طيران",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "backlog",
+        "translation": "تراكم أعمال",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "pending",
+        "translation": "معلق",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "issues",
+        "translation": "قضايا",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "surged",
+        "translation": "تدفق / ارتفع",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "swirling",
+        "translation": "دوار",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "urgent",
+        "translation": "عاجل",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "carousel",
+        "translation": "حزام حقائب",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "trolley",
+        "translation": "عربة",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "stressed",
+        "translation": "مجهد / متوتر",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "fight",
+        "translation": "شجار",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "procedure",
+        "translation": "إجراء",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "service",
+        "translation": "خدمة",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "assured",
+        "translation": "مؤمن / مطمئن",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "recovered",
+        "translation": "مستعاد",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "glimpse",
+        "translation": "لمحة",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "sticker",
+        "translation": "ملصق",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "wrong",
+        "translation": "خطأ",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "laptop",
+        "translation": "حاسوب محمول",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "narrative",
+        "translation": "سرد",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "feeling",
+        "translation": "شعور",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "attitude",
+        "translation": "موقف / سلوك",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "library",
+        "translation": "مكتبة",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "membership",
+        "translation": "عضوية",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "card",
+        "translation": "بطاقة",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "vacant",
+        "translation": "شاغر",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "plug in",
+        "translation": "يوصل بالكهرباء",
+        "unit": "Unit 12"
+    },
+    {
+        "word": "excited",
+        "translation": "متحمس",
+        "unit": "Unit 12"
+    }
+]

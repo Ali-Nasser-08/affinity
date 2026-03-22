@@ -1,0 +1,559 @@
+{
+    "unit": "Mega Goal 1 - Unit 5: Did You Hurt Yourself?",
+    "type": "misc",
+    "setTitle": "Speaking & Real Talk",
+    "words": [
+        {
+            "word": "What's the matter?",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "A common question asking "
+                },
+                {
+                    "text": "what is wrong",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "what problem someone has",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ما الأمر؟ / ما الخطب؟",
+            "synonyms": [
+                "What's wrong?",
+                "What's the problem?",
+                "Is everything okay?"
+            ],
+            "example": [
+                {
+                    "text": "Hey, you look upset. "
+                },
+                {
+                    "text": "What's the matter?",
+                    "colorize": true
+                },
+                {
+                    "text": ""
+                }
+            ],
+            "tips": "Used when someone seems troubled, sad, or upset. More natural in spoken English than 'What is the matter?' (without contraction). Shows concern."
+        },
+        {
+            "word": "this or that",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "A casual way to refer to "
+                },
+                {
+                    "text": "unspecified things",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "various minor requests",
+                    "highlight2": true
+                },
+                {
+                    "text": " without naming them specifically"
+                }
+            ],
+            "arabicMeaning": "هذا أو ذاك / أمور مختلفة غير محددة",
+            "synonyms": [
+                "various things",
+                "one thing or another",
+                "different requests"
+            ],
+            "example": [
+                {
+                    "text": "Everyone's calling me to ask about "
+                },
+                {
+                    "text": "this or that",
+                    "colorize": true
+                },
+                {
+                    "text": "—homework questions, notes, exam dates."
+                }
+            ],
+            "tips": "Vague reference showing the speaker doesn't want to list everything. Very common in casual speech. Not used for important/serious matters—only minor or routine things."
+        },
+        {
+            "word": "feeling down",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "Experiencing a "
+                },
+                {
+                    "text": "low mood or sadness",
+                    "highlight": true
+                },
+                {
+                    "text": " that makes you feel "
+                },
+                {
+                    "text": "discouraged or unhappy",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يشعر بالاكتئاب / بحالة نفسية سيئة",
+            "synonyms": [
+                "feeling sad",
+                "feeling blue",
+                "in low spirits"
+            ],
+            "example": [
+                {
+                    "text": "I'm "
+                },
+                {
+                    "text": "feeling down",
+                    "colorize": true
+                },
+                {
+                    "text": " because of all these exams coming up."
+                }
+            ],
+            "tips": "Temporary emotional state (not clinical depression). Often used conversationally: 'I've been feeling down lately.' Opposite: 'feeling up/cheerful'."
+        },
+        {
+            "word": "look out for myself",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "prioritize your own needs",
+                    "highlight": true
+                },
+                {
+                    "text": " while "
+                },
+                {
+                    "text": "ignoring others' needs",
+                    "highlight2": true
+                },
+                {
+                    "text": " in a selfish way"
+                }
+            ],
+            "arabicMeaning": "يهتم بنفسه فقط / أناني",
+            "synonyms": [
+                "be self-centered",
+                "only think of yourself",
+                "put yourself first (negatively)"
+            ],
+            "example": [
+                {
+                    "text": "They say I'm being selfish and "
+                },
+                {
+                    "text": "looking out for myself",
+                    "colorize": true
+                },
+                {
+                    "text": " and nobody else."
+                }
+            ],
+            "tips": "Different from positive 'look out for yourself' (protect yourself wisely). Context determines meaning—here it's accusatory/negative."
+        },
+        {
+            "word": "to be honest",
+            "wordType": "phrase",
+            "definition": [
+                {
+                    "text": "An expression used before "
+                },
+                {
+                    "text": "sharing a truthful opinion",
+                    "highlight": true
+                },
+                {
+                    "text": " that might be "
+                },
+                {
+                    "text": "uncomfortable or direct",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "بصراحة / لأكون صريحاً",
+            "synonyms": [
+                "frankly",
+                "truthfully",
+                "in all honesty"
+            ],
+            "example": [
+                {
+                    "text": ""
+                },
+                {
+                    "text": "To be honest",
+                    "colorize": true
+                },
+                {
+                    "text": ", I would be really happy if you talked to them."
+                }
+            ],
+            "tips": "Softens blunt statements. Often used when admitting something awkward: 'To be honest, I forgot your birthday.' Not always literal—sometimes just adds emphasis."
+        },
+        {
+            "word": "upset",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Feeling "
+                },
+                {
+                    "text": "distressed or troubled",
+                    "highlight": true
+                },
+                {
+                    "text": " emotionally; "
+                },
+                {
+                    "text": "visibly unhappy",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مستاء / منزعج",
+            "synonyms": [
+                "distressed",
+                "bothered",
+                "troubled"
+            ],
+            "example": [
+                {
+                    "text": "Hey, you look "
+                },
+                {
+                    "text": "upset",
+                    "colorize": true
+                },
+                {
+                    "text": ". What's the matter?"
+                }
+            ],
+            "tips": "Can describe mild annoyance or deep distress. As verb: 'to upset someone' = make them unhappy. Not the same as 'angry'—upset includes sadness/worry too."
+        },
+        {
+            "word": "pressure",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A feeling of "
+                },
+                {
+                    "text": "stress or tension",
+                    "highlight": true
+                },
+                {
+                    "text": " caused by "
+                },
+                {
+                    "text": "demands or expectations",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "ضغط / توتر",
+            "synonyms": [
+                "stress",
+                "strain",
+                "demand"
+            ],
+            "example": [
+                {
+                    "text": "There's so much "
+                },
+                {
+                    "text": "pressure",
+                    "colorize": true
+                },
+                {
+                    "text": " with all these exams coming up."
+                }
+            ],
+            "tips": "Academic pressure, peer pressure, work pressure. Can be motivating (healthy pressure) or overwhelming (unhealthy pressure). Verb form: 'to pressure someone' = push them to do something."
+        },
+        {
+            "word": "constantly",
+            "wordType": "adverb",
+            "definition": [
+                {
+                    "text": "Happening "
+                },
+                {
+                    "text": "without interruption",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "very frequently",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "باستمرار / باستمرار",
+            "synonyms": [
+                "continuously",
+                "all the time",
+                "non-stop"
+            ],
+            "example": [
+                {
+                    "text": "When I'm out they're "
+                },
+                {
+                    "text": "constantly",
+                    "colorize": true
+                },
+                {
+                    "text": " calling me on my cell phone."
+                }
+            ],
+            "tips": "Often has negative connotation (annoying repetition). Not the same as 'consistently' (steady/reliable pattern). 'Constantly checking phones' = habit many find irritating."
+        },
+        {
+            "word": "available",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Free and "
+                },
+                {
+                    "text": "able to be reached",
+                    "highlight": true
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "used at a particular time",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "متاح / حر",
+            "synonyms": [
+                "free",
+                "at someone's disposal",
+                "not busy"
+            ],
+            "example": [
+                {
+                    "text": "They want to know what time I'll be "
+                },
+                {
+                    "text": "available",
+                    "colorize": true
+                },
+                {
+                    "text": " so they can call again."
+                }
+            ],
+            "tips": "Available for (a meeting), available to (help someone). Opposite: 'unavailable' or 'busy'. Important for scheduling: 'I'm available Tuesday afternoon.'"
+        },
+        {
+            "word": "selfish",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Caring only about "
+                },
+                {
+                    "text": "your own needs or desires",
+                    "highlight": true
+                },
+                {
+                    "text": " without "
+                },
+                {
+                    "text": "considering others",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "أناني",
+            "synonyms": [
+                "self-centered",
+                "inconsiderate",
+                "egocentric"
+            ],
+            "example": [
+                {
+                    "text": "They say I'm being "
+                },
+                {
+                    "text": "selfish",
+                    "colorize": true
+                },
+                {
+                    "text": " for not helping them with exam questions."
+                }
+            ],
+            "tips": "Strong negative judgment. Not the same as 'self-care' (healthy attention to your needs). Selfish = taking more than your share; self-care = maintaining your wellbeing."
+        },
+        {
+            "word": "give up",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "stop trying",
+                    "highlight": true
+                },
+                {
+                    "text": " because you feel "
+                },
+                {
+                    "text": "defeated or hopeless",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يستسلم / يتوقف عن المحاولة",
+            "synonyms": [
+                "quit",
+                "surrender",
+                "throw in the towel"
+            ],
+            "example": [
+                {
+                    "text": "I tried talking to them, but I just "
+                },
+                {
+                    "text": "give up",
+                    "colorize": true
+                },
+                {
+                    "text": "!"
+                }
+            ],
+            "tips": "Give up on (a goal/person), give up + gerund (give up smoking). Opposite: 'persevere' or 'keep going'. Important life skill: knowing when to persist vs. when to let go."
+        },
+        {
+            "word": "come over",
+            "wordType": "phrasal verb",
+            "definition": [
+                {
+                    "text": "To "
+                },
+                {
+                    "text": "visit someone",
+                    "highlight": true
+                },
+                {
+                    "text": " at their "
+                },
+                {
+                    "text": "home or location",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "يأتي لزيارتي / يمر علي",
+            "synonyms": [
+                "drop by",
+                "stop by",
+                "visit"
+            ],
+            "example": [
+                {
+                    "text": "They want to know where I'll be so they can "
+                },
+                {
+                    "text": "come over",
+                    "colorize": true
+                },
+                {
+                    "text": " and ask for help."
+                }
+            ],
+            "tips": "Casual/informal invitation: 'Come over anytime!' Not used for formal visits (use 'visit' instead). Always implies movement toward the speaker's location."
+        },
+        {
+            "word": "nervous",
+            "wordType": "adjective",
+            "definition": [
+                {
+                    "text": "Feeling "
+                },
+                {
+                    "text": "anxious or worried",
+                    "highlight": true
+                },
+                {
+                    "text": " about something that "
+                },
+                {
+                    "text": "might happen",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "متوتر / عصبي",
+            "synonyms": [
+                "anxious",
+                "worried",
+                "apprehensive"
+            ],
+            "example": [
+                {
+                    "text": "Classmates are pretty "
+                },
+                {
+                    "text": "nervous",
+                    "colorize": true
+                },
+                {
+                    "text": " about calling you because they don't know your mood."
+                }
+            ],
+            "tips": "Nervous about (something specific). Physical signs: sweaty palms, fast heartbeat. Different from 'excited'—nervous has negative anticipation; excited has positive anticipation."
+        },
+        {
+            "word": "mood",
+            "wordType": "noun",
+            "definition": [
+                {
+                    "text": "A temporary "
+                },
+                {
+                    "text": "emotional state",
+                    "highlight": true
+                },
+                {
+                    "text": " that affects how you "
+                },
+                {
+                    "text": "think and behave",
+                    "highlight2": true
+                }
+            ],
+            "arabicMeaning": "مزاج",
+            "synonyms": [
+                "state of mind",
+                "temperament (temporary)",
+                "frame of mind"
+            ],
+            "example": [
+                {
+                    "text": "They call me first to find out what kind of "
+                },
+                {
+                    "text": "mood",
+                    "colorize": true
+                },
+                {
+                    "text": " you're in before they call you directly."
+                }
+            ],
+            "tips": "Good mood/bad mood. 'In a mood' = unusually irritable. Not the same as 'emotion' (mood lasts longer; emotion is momentary). Mood swings = rapid changes between emotional states."
+        }
+    ]
+}
