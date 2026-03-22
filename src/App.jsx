@@ -1,5 +1,6 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useCallback } from 'react'
 import { AnimatePresence, MotionGlobalConfig } from 'framer-motion'
+import { MobileLandingScreen } from './screens/MobileLandingScreen'
 import { colorValues, bgTints, darkBgTints, getRandomAccentExcluding } from './engine/serotoninEngine'
 import { supabase } from './utils/supabaseClient'
 import { WelcomeModal } from './components/WelcomeModal'
@@ -218,6 +219,16 @@ export default function App() {
     }
 
     const cbFilterStyle = colorBlindMode !== 'none' ? { filter: `url(#cb-${colorBlindMode})` } : {}
+
+    // ── Mobile gate ──────────────────────────────────────────────────────────
+    const [isMobile, setIsMobile] = useState(() => window.innerWidth < 768)
+    useEffect(() => {
+        const handler = () => setIsMobile(window.innerWidth < 768)
+        window.addEventListener('resize', handler)
+        return () => window.removeEventListener('resize', handler)
+    }, [])
+
+    if (isMobile) return <MobileLandingScreen />
 
     // ── Auth gate ────────────────────────────────────────────────────────────
     if (authLoading) {
