@@ -22,41 +22,95 @@ const RULES = [
     { id: 'special', label: 'One special character (!@#…)', test: (p) => /[^A-Za-z0-9]/.test(p) },
 ]
 
+// ─── Mesh gradient helpers ────────────────────────────────────────────────────
+function hexToHsl(hex) {
+    const r = parseInt(hex.slice(1, 3), 16) / 255
+    const g = parseInt(hex.slice(3, 5), 16) / 255
+    const b = parseInt(hex.slice(5, 7), 16) / 255
+    const max = Math.max(r, g, b), min = Math.min(r, g, b)
+    let h = 0, s = 0
+    const l = (max + min) / 2
+    if (max !== min) {
+        const d = max - min
+        s = l > 0.5 ? d / (2 - max - min) : d / (max + min)
+        switch (max) {
+            case r: h = ((g - b) / d + (g < b ? 6 : 0)) / 6; break
+            case g: h = ((b - r) / d + 2) / 6; break
+            case b: h = ((r - g) / d + 4) / 6; break
+        }
+    }
+    return [Math.round(h * 360), Math.round(s * 100), Math.round(l * 100)]
+}
+
+function generateMeshGradient(hex) {
+    const [h, , l] = hexToHsl(hex)
+    // Always maximally saturated. Lightness anchored so dark accents get lifted.
+    const lBase = Math.min(Math.max(l, 42), 58)
+
+    // Four corner nodes — main color family
+    const tl = `hsl(${h},                   100%, ${lBase + 14}%)`  // top-left:  bright primary
+    const tr = `hsl(${(h + 18) % 360},      100%, ${lBase + 8}%)`   // top-right: warm analogue
+    const br = `hsl(${h},                   100%, ${lBase - 16}%)`  // btm-right: deep primary
+    const bl = `hsl(${(h - 70 + 360) % 360}, 90%, ${lBase + 20}%)`  // btm-left:  warm-complement hint
+    // Centre soft bloom — pure primary at mid lightness
+    const cx = `hsl(${h},                   100%, ${lBase + 4}%)`
+    // Solid base — rich, never muddy
+    const base = `hsl(${h}, 100%, ${lBase - 6}%)`
+
+    return [
+        `radial-gradient(ellipse 100% 100% at 0%   0%,   ${tl}   0%, transparent 58%)`,
+        `radial-gradient(ellipse  80%  80% at 100%  0%,  ${tr}   0%, transparent 52%)`,
+        `radial-gradient(ellipse  90%  90% at 100% 100%, ${br}   0%, transparent 56%)`,
+        `radial-gradient(ellipse  70%  70% at 0%  100%,  ${bl}   0%, transparent 50%)`,
+        `radial-gradient(ellipse  55%  55% at 50%  50%,  ${cx}   0%, transparent 45%)`,
+        base,
+    ].join(', ')
+}
+
+// Dot colour: warm-complement of the accent at high lightness for vivid contrast
+function getDotColor(hex) {
+    const [h] = hexToHsl(hex)
+    return `hsl(${(h - 70 + 360) % 360}, 100%, 80%)`
+}
+
 // ─── Left cosmetic panel ─────────────────────────────────────────────────────
 function LeftPanel({ accentHex }) {
+    const dotColor = getDotColor(accentHex)
     return (
-        <motion.div
-            className="login-left"
-            animate={{ backgroundColor: accentHex }}
-            transition={{ duration: 0.65, ease: 'easeInOut' }}
-        >
-            {/* Subtle grid mesh */}
-            <div className="login-left-mesh" />
+        <div className="login-left">
+            {/* Mesh gradient — cross-fades on accent change */}
+            <AnimatePresence initial={false}>
+                <motion.div
+                    key={accentHex}
+                    className="login-left-gradient"
+                    style={{ background: generateMeshGradient(accentHex) }}
+                    initial={{ opacity: 0 }}
+                    animate={{ opacity: 1 }}
+                    exit={{ opacity: 0 }}
+                    transition={{ duration: 0.6, ease: 'easeInOut' }}
+                />
+            </AnimatePresence>
 
-            {/* Chemical blobs — white, heavily blurred, low opacity */}
-            <div className="login-left-blob login-left-blob-a" />
-            <div className="login-left-blob login-left-blob-b" />
-            <div className="login-left-blob login-left-blob-c" />
+            {/* Film grain */}
+            <div className="login-left-grain" />
 
             {/* Brand */}
             <div className="login-brand">
-                <motion.span
-                    className="material-symbols-rounded login-brand-icon"
-                    animate={{ color: accentHex, filter: `drop-shadow(0 0 24px #ffffff88)` }}
-                    transition={{ duration: 0.65 }}
-                    style={{ fontVariationSettings: "'FILL' 1" }}
-                >
-                    auto_awesome
-                </motion.span>
-
-                {/* Shimmer re-triggers on every accent change via key */}
-                <h1 className="login-brand-name" key={accentHex}>
-                    Affinity
-                </h1>
-
-                <p className="login-brand-tagline">For Teachers Who Care</p>
+                <div className="login-brand-text-row">
+                    <h1
+                        className="login-brand-name"
+                        key={accentHex}
+                        style={{ '--shimmer-accent': accentHex }}
+                    >Affinity</h1>
+                    <motion.span
+                        className="login-brand-dot"
+                        animate={{ color: dotColor }}
+                        transition={{ duration: 0.6 }}
+                        style={{ color: dotColor }}
+                    >.</motion.span>
+                </div>
             </div>
-        </motion.div>
+        </div>
     )
 }
 
