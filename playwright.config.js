@@ -9,40 +9,42 @@ export default defineConfig({
     retries: process.env.CI ? 2 : 0,
     workers: process.env.CI ? 1 : undefined,
 
-    // Visual HTML reporter with traces — key for research article screenshots
     reporter: [
         ['html', { open: 'never', outputFolder: 'playwright-report' }],
         ['list']
     ],
 
+    timeout: 60000,
+
     use: {
-        // Base URL of the Vite dev server
-        baseURL: 'http://localhost:8080/affinity-english/',
-
-        // Capture a trace for EVERY test (enables Trace Viewer)
+        baseURL: 'http://localhost:8080/',
         trace: 'on',
-
-        // Save a screenshot on test failure
         screenshot: 'only-on-failure',
-
-        // Record video for every test (great for research paper)
         video: 'on',
-
-        // Viewport to simulate a 1440p classroom display
         viewport: { width: 1440, height: 900 },
     },
 
     projects: [
+        // ── 1. Login once and save browser state ─────────────────────────────
+        {
+            name: 'setup',
+            testMatch: /auth\.setup\.js/,
+            timeout: 90000,
+        },
+        // ── 2. All other tests reuse the saved auth state ─────────────────────
         {
             name: 'chromium',
-            use: { ...devices['Desktop Chrome'] }
+            use: {
+                ...devices['Desktop Chrome'],
+                storageState: 'playwright/.auth/user.json',
+            },
+            dependencies: ['setup'],
         }
     ],
 
-    // Automatically start the Vite dev server before tests run
     webServer: {
         command: 'npm run dev',
-        url: 'http://localhost:8080/affinity-english/',
+        url: 'http://localhost:8080/',
         reuseExistingServer: !process.env.CI,
         timeout: 120 * 1000
     }

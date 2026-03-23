@@ -11,6 +11,9 @@ dist
 # Claude Code internals
 .claude/
 
+# Playwright auth state (contains live session tokens — never commit)
+playwright/.auth/
+
 # Test & coverage reports
 coverage/
 *.lcov

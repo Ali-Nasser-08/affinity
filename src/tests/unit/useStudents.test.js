@@ -231,6 +231,66 @@ describe('useStudents — Class Management', () => {
 })
 
 // ─────────────────────────────────────────────
+// Multi-class branch coverage (lines 116, 136, 146, 161)
+// These hit the "return cls" branch in map() for non-current classes
+// ─────────────────────────────────────────────
+
+describe('useStudents — multi-class isolation', () => {
+    it('addStudent only modifies the current class, not others', () => {
+        const { result } = renderHook(() => useStudents())
+        act(() => { result.current.addClass() }) // now two classes
+        const firstId = result.current.classes[0].id
+        const secondId = result.current.classes[1].id
+        // Switch back to first class and add a student
+        act(() => { result.current.setCurrentClassId(firstId) })
+        act(() => { result.current.addStudent('Nina', 'person', 'pink') })
+        // Second class should still be empty
+        const secondClass = result.current.classes.find(c => c.id === secondId)
+        expect(secondClass.students).toHaveLength(0)
+    })
+
+    it('updateStudent only modifies the current class, not others', () => {
+        const { result } = renderHook(() => useStudents())
+        act(() => { result.current.addStudent('Omar', 'person', 'cyan') })
+        const studentId = result.current.students[0].id
+        act(() => { result.current.addClass() }) // second class, switch to it
+        const firstClassId = result.current.classes[0].id
+        act(() => { result.current.setCurrentClassId(firstClassId) })
+        act(() => { result.current.updateStudent(studentId, 'Omar Updated', 'star', 'lime') })
+        // Second class is unaffected
+        const secondClass = result.current.classes[1]
+        expect(secondClass.students).toHaveLength(0)
+    })
+
+    it('deleteStudent only modifies the current class, not others', () => {
+        const { result } = renderHook(() => useStudents())
+        act(() => { result.current.addStudent('Pam', 'person', 'orange') })
+        const studentId = result.current.students[0].id
+        act(() => { result.current.addClass() }) // creates second class
+        const firstClassId = result.current.classes[0].id
+        act(() => { result.current.setCurrentClassId(firstClassId) })
+        act(() => { result.current.deleteStudent(studentId) })
+        expect(result.current.students).toHaveLength(0)
+        // Second class still exists with 0 students (was never touched)
+        expect(result.current.classes).toHaveLength(2)
+    })
+
+    it('addStar only modifies the current class, not others', () => {
+        const { result } = renderHook(() => useStudents())
+        act(() => { result.current.addStudent('Quinn', 'person', 'teal') })
+        const studentId = result.current.students[0].id
+        act(() => { result.current.addClass() }) // second class
+        const firstClassId = result.current.classes[0].id
+        act(() => { result.current.setCurrentClassId(firstClassId) })
+        act(() => { result.current.addStar(studentId, 'star-base') })
+        const updatedStudent = result.current.students.find(s => s.id === studentId)
+        expect(updatedStudent.stars).toHaveLength(1)
+        // Second class still empty
+        expect(result.current.classes[1].students).toHaveLength(0)
+    })
+})
+
+// ─────────────────────────────────────────────
 // localStorage Persistence
 // ─────────────────────────────────────────────
 
