@@ -70,7 +70,7 @@ setup('authenticate test account', async ({ request }) => {
                 origin: 'http://localhost:8080',
                 localStorage: [
                     { name: storageKey,      value: JSON.stringify(sessionData) },
-                    { name: 'app_user_name', value: 'Test Teacher' },
+                    { name: 'app_user_name', value: 'Test' },
                 ],
             },
         ],

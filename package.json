@@ -1,7 +1,7 @@
 {
     "name": "affinity-english",
     "private": true,
-    "version": "1.0.0",
+    "version": "0.1.0-beta",
     "type": "module",
     "scripts": {
         "dev": "vite --port 8080",
