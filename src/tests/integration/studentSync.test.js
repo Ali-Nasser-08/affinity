@@ -247,3 +247,180 @@ describe('full round-trip: hook → save → clear → retrieve → fresh hook',
         expect(r2.current.students[0].stars).toEqual(['star-base', 'star-legendary'])
     })
 })
+
+// ══════════════════════════════════════════════════════════════════════════════
+// hook operations: update, delete student / rename, delete class
+// ══════════════════════════════════════════════════════════════════════════════
+
+describe('useStudents — updateStudent', () => {
+    it('updates the student name, logoId, and colorKey', () => {
+        const { result } = renderHook(() => useStudents())
+        act(() => result.current.addStudent('Old Name', 'person', 'cyan'))
+        const id = result.current.students[0].id
+
+        act(() => result.current.updateStudent(id, 'New Name', 'star', 'pink'))
+
+        const s = result.current.students[0]
+        expect(s.name).toBe('New Name')
+        expect(s.logoId).toBe('star')
+        expect(s.colorKey).toBe('pink')
+    })
+
+    it('trims whitespace from the updated name', () => {
+        const { result } = renderHook(() => useStudents())
+        act(() => result.current.addStudent('Alice', 'person', 'cyan'))
+        const id = result.current.students[0].id
+
+        act(() => result.current.updateStudent(id, '  Trimmed  ', 'person', 'cyan'))
+
+        expect(result.current.students[0].name).toBe('Trimmed')
+    })
+
+    it('ignores update when the new name is blank', () => {
+        const { result } = renderHook(() => useStudents())
+        act(() => result.current.addStudent('Bob', 'person', 'teal'))
+        const id = result.current.students[0].id
+
+        act(() => result.current.updateStudent(id, '   ', 'person', 'teal'))
+
+        expect(result.current.students[0].name).toBe('Bob')
+    })
+
+    it('does not affect other students when one is updated', () => {
+        const { result } = renderHook(() => useStudents())
+        act(() => {
+            result.current.addStudent('Alice', 'person', 'cyan')
+            result.current.addStudent('Bob',   'person', 'teal')
+        })
+        const aliceId = result.current.students[0].id
+
+        act(() => result.current.updateStudent(aliceId, 'Alice Updated', 'star', 'pink'))
+
+        expect(result.current.students[1].name).toBe('Bob')
+    })
+})
+
+describe('useStudents — deleteStudent', () => {
+    it('removes the student from the list', () => {
+        const { result } = renderHook(() => useStudents())
+        act(() => result.current.addStudent('Carol', 'person', 'red'))
+        const id = result.current.students[0].id
+
+        act(() => result.current.deleteStudent(id))
+
+        expect(result.current.students).toHaveLength(0)
+    })
+
+    it('only removes the targeted student, leaving others intact', () => {
+        const { result } = renderHook(() => useStudents())
+        act(() => {
+            result.current.addStudent('Dan',  'person', 'blue')
+            result.current.addStudent('Eve',  'star',   'lime')
+            result.current.addStudent('Fred', 'person', 'orange')
+        })
+        const eveId = result.current.students[1].id
+
+        act(() => result.current.deleteStudent(eveId))
+
+        expect(result.current.students).toHaveLength(2)
+        expect(result.current.students.map(s => s.name)).toEqual(['Dan', 'Fred'])
+    })
+
+    it('deleted student is absent after hook remount', () => {
+        const { result: r1, unmount: u1 } = renderHook(() => useStudents())
+        act(() => r1.current.addStudent('Ghost', 'person', 'cyan'))
+        const id = r1.current.students[0].id
+        act(() => r1.current.deleteStudent(id))
+        u1()
+
+        const { result: r2 } = renderHook(() => useStudents())
+        expect(r2.current.students.find(s => s.id === id)).toBeUndefined()
+    })
+})
+
+describe('useStudents — renameClass', () => {
+    it('renames the current class', () => {
+        const { result } = renderHook(() => useStudents())
+        const id = result.current.currentClassId
+
+        act(() => result.current.renameClass(id, 'Morning Group'))
+
+        expect(result.current.classes[0].name).toBe('Morning Group')
+    })
+
+    it('does not rename when newName is null', () => {
+        const { result } = renderHook(() => useStudents())
+        const id   = result.current.currentClassId
+        const name = result.current.classes[0].name
+
+        act(() => result.current.renameClass(id, null))
+
+        expect(result.current.classes[0].name).toBe(name)
+    })
+
+    it('does not rename when newName is undefined', () => {
+        const { result } = renderHook(() => useStudents())
+        const id   = result.current.currentClassId
+        const name = result.current.classes[0].name
+
+        act(() => result.current.renameClass(id, undefined))
+
+        expect(result.current.classes[0].name).toBe(name)
+    })
+
+    it('only renames the targeted class', () => {
+        const { result } = renderHook(() => useStudents())
+        act(() => result.current.addClass())
+        const firstId = result.current.classes[0].id
+
+        act(() => result.current.renameClass(firstId, 'Renamed'))
+
+        expect(result.current.classes[0].name).toBe('Renamed')
+        expect(result.current.classes[1].name).not.toBe('Renamed')
+    })
+})
+
+describe('useStudents — deleteClass', () => {
+    it('removes the class from the list', () => {
+        const { result } = renderHook(() => useStudents())
+        act(() => result.current.addClass())
+        const secondId = result.current.classes[1].id
+        act(() => result.current.setCurrentClassId(secondId))
+
+        act(() => result.current.deleteClass(secondId))
+
+        expect(result.current.classes).toHaveLength(1)
+    })
+
+    it('switches currentClassId to the first remaining class when active class is deleted', () => {
+        const { result } = renderHook(() => useStudents())
+        act(() => result.current.addClass())
+        const secondId = result.current.classes[1].id
+        const firstId  = result.current.classes[0].id
+        act(() => result.current.setCurrentClassId(secondId))
+
+        act(() => result.current.deleteClass(secondId))
+
+        expect(result.current.currentClassId).toBe(firstId)
+    })
+
+    it('does not delete the last remaining class', () => {
+        const { result } = renderHook(() => useStudents())
+        const onlyId = result.current.classes[0].id
+
+        act(() => result.current.deleteClass(onlyId))
+
+        expect(result.current.classes).toHaveLength(1)
+    })
+
+    it('deleted class is absent after hook remount', () => {
+        const { result: r1, unmount } = renderHook(() => useStudents())
+        act(() => r1.current.addClass())
+        const secondId = r1.current.classes[1].id
+        act(() => r1.current.deleteClass(secondId))
+        unmount()
+
+        const { result: r2 } = renderHook(() => useStudents())
+        expect(r2.current.classes.find(c => c.id === secondId)).toBeUndefined()
+    })
+})

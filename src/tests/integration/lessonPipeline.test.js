@@ -191,3 +191,135 @@ describe('forbidden content: nothing reaches localStorage or fetch', () => {
         expect(stored[0].title).toBe('Present Perfect')
     })
 })
+
+// ══════════════════════════════════════════════════════════════════════════════
+// cloudSync ↔ lessons
+// ══════════════════════════════════════════════════════════════════════════════
+
+import { vi as viSync } from 'vitest'
+import { saveToCloud, retrieveFromCloud } from '../../utils/cloudSync'
+
+viSync.mock('../../utils/supabaseClient', () => ({
+    supabase: { from: viSync.fn() }
+}))
+import { supabase } from '../../utils/supabaseClient'
+
+const USER_ID = 'lesson-cloud-user'
+
+function makeMultiTableMock({ lessonInsert = { error: null }, lessonSelect = { data: [], error: null } } = {}) {
+    return viSync.fn().mockImplementation((table) => {
+        if (table === 'lessons') return {
+            delete: viSync.fn().mockReturnValue({ eq: viSync.fn().mockResolvedValue({ error: null }) }),
+            insert: viSync.fn().mockResolvedValue(lessonInsert),
+            select: viSync.fn().mockReturnValue({ eq: viSync.fn().mockResolvedValue(lessonSelect) }),
+        }
+        // student_data + canvases — passthrough
+        return {
+            upsert:  viSync.fn().mockResolvedValue({ error: null }),
+            delete:  viSync.fn().mockReturnValue({ eq: viSync.fn().mockResolvedValue({ error: null }) }),
+            insert:  viSync.fn().mockResolvedValue({ error: null }),
+            select:  viSync.fn().mockReturnValue({
+                eq: viSync.fn().mockReturnValue({
+                    maybeSingle: viSync.fn().mockResolvedValue({ data: null, error: null }),
+                    then: (res, rej) => Promise.resolve({ data: [], error: null }).then(res, rej),
+                    catch: (rej) => Promise.resolve({ data: [], error: null }).catch(rej),
+                })
+            }),
+        }
+    })
+}
+
+describe('cloudSync — lesson insert path', () => {
+    it('lessons in localStorage are inserted into Supabase on saveToCloud', async () => {
+        fetch.mockReturnValue(makeFetchResponse(geminiResponse(VALID_LESSON_JSON)))
+        const result = await generateLesson('present perfect')
+        storeLessonEntry(result)
+
+        let insertedRows
+        const mock = makeMultiTableMock()
+        mock.mockImplementation((table) => {
+            if (table === 'lessons') return {
+                delete: viSync.fn().mockReturnValue({ eq: viSync.fn().mockResolvedValue({ error: null }) }),
+                insert: viSync.fn().mockImplementation(async (rows) => { insertedRows = rows; return { error: null } }),
+                select: viSync.fn().mockReturnValue({ eq: viSync.fn().mockResolvedValue({ data: [], error: null }) }),
+            }
+            return {
+                upsert: viSync.fn().mockResolvedValue({ error: null }),
+                delete: viSync.fn().mockReturnValue({ eq: viSync.fn().mockResolvedValue({ error: null }) }),
+                insert: viSync.fn().mockResolvedValue({ error: null }),
+                select: viSync.fn().mockReturnValue({
+                    eq: viSync.fn().mockReturnValue({
+                        maybeSingle: viSync.fn().mockResolvedValue({ data: null, error: null }),
+                        then: (res, rej) => Promise.resolve({ data: [], error: null }).then(res, rej),
+                        catch: (rej) => Promise.resolve({ data: [], error: null }).catch(rej),
+                    })
+                }),
+            }
+        })
+        supabase.from = mock
+
+        await saveToCloud(USER_ID)
+
+        expect(insertedRows).toHaveLength(1)
+        expect(insertedRows[0].user_id).toBe(USER_ID)
+        expect(insertedRows[0].title).toBe('Present Perfect')
+        expect(insertedRows[0].content.data.lesson.title).toBe('Present Perfect')
+    })
+
+    it('lesson title falls back to topic when title is missing from stored entry', async () => {
+        const raw = [{ topic: 'conditionals', title: undefined, data: { lesson: { items: [] } } }]
+        localStorage.setItem('app_custom_lessons', JSON.stringify(raw))
+
+        let insertedRows
+        supabase.from = viSync.fn().mockImplementation((table) => {
+            if (table === 'lessons') return {
+                delete: viSync.fn().mockReturnValue({ eq: viSync.fn().mockResolvedValue({ error: null }) }),
+                insert: viSync.fn().mockImplementation(async (rows) => { insertedRows = rows; return { error: null } }),
+                select: viSync.fn().mockReturnValue({ eq: viSync.fn().mockResolvedValue({ data: [], error: null }) }),
+            }
+            return {
+                upsert: viSync.fn().mockResolvedValue({ error: null }),
+                delete: viSync.fn().mockReturnValue({ eq: viSync.fn().mockResolvedValue({ error: null }) }),
+                insert: viSync.fn().mockResolvedValue({ error: null }),
+                select: viSync.fn().mockReturnValue({
+                    eq: viSync.fn().mockReturnValue({
+                        maybeSingle: viSync.fn().mockResolvedValue({ data: null, error: null }),
+                        then: (res, rej) => Promise.resolve({ data: [], error: null }).then(res, rej),
+                        catch: (rej) => Promise.resolve({ data: [], error: null }).catch(rej),
+                    })
+                }),
+            }
+        })
+
+        await saveToCloud(USER_ID)
+
+        expect(insertedRows[0].title).toBe('conditionals')
+    })
+})
+
+describe('cloudSync — lesson retrieve path', () => {
+    it('lessons from cloud are written to app_custom_lessons in localStorage', async () => {
+        const cloudLesson = { id: 'l1', title: 'Conditionals', lesson: { items: [] } }
+        supabase.from = makeMultiTableMock({
+            lessonSelect: { data: [{ content: cloudLesson }], error: null },
+        })
+
+        await retrieveFromCloud(USER_ID)
+
+        const stored = JSON.parse(localStorage.getItem('app_custom_lessons'))
+        expect(stored).toHaveLength(1)
+        expect(stored[0]).toEqual(cloudLesson)
+    })
+
+    it('empty cloud lesson list does not overwrite existing local lessons', async () => {
+        const local = [{ id: 'local-1', title: 'Local Lesson' }]
+        localStorage.setItem('app_custom_lessons', JSON.stringify(local))
+
+        supabase.from = makeMultiTableMock({ lessonSelect: { data: [], error: null } })
+
+        await retrieveFromCloud(USER_ID)
+
+        const stored = JSON.parse(localStorage.getItem('app_custom_lessons'))
+        expect(stored[0].title).toBe('Local Lesson')
+    })
+})
