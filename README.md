@@ -20,6 +20,10 @@ It currently covers the full **Mega Goal 1** curriculum (both Part 1 and Part 2 
 
 ---
 
+<p align="center">
+  <img src="public/vision-card.png" alt="The Vision" width="720" />
+</p>
+
 ## The Vision
 
 Saudi classrooms have a boredom problem. Not because students aren't curious — they are. But the tools teachers use don't speak their language. Slidedecks feel clinical. Whiteboards feel static. Nothing about the average classroom experience is designed to *earn* a student's attention.
@@ -29,6 +33,10 @@ Affinity English is built on a different assumption: **that beauty is functional
 This is not an AI product. It is not a productivity suite. It is a classroom companion — one that makes teachers feel capable, makes lessons feel alive, and gives students something worth looking at.
 
 ---
+
+<p align="center">
+  <img src="public/SerotoninEngine-card.png" alt="The Serotonin Engine" width="720" />
+</p>
 
 ## The Serotonin Engine
 
@@ -45,6 +53,10 @@ The Serotonin Engine is not just decoration. It is the backbone of how content i
 ---
 
 ## Main Features
+
+<p align="center">
+  <img src="public/grammar-card.png" alt="Grammar" width="720" />
+</p>
 
 ### 📖 Grammar Explainer
 
@@ -63,6 +75,10 @@ The content is entirely original — written fresh, never pulled from the textbo
 Even a teacher who is uncertain about a grammar point can walk through these cards with full confidence. That is intentional.
 
 ---
+
+<p align="center">
+  <img src="public/vocab-card.png" alt="Vocabulary" width="720" />
+</p>
 
 ### 📚 Vocabulary
 
@@ -84,6 +100,10 @@ Teachers can control the pace from settings: definitions, examples, and tips can
 The color shifts with every card, every time.
 
 ---
+
+<p align="center">
+  <img src="public/revise-card.png" alt="Revise" width="720" />
+</p>
 
 ### ✏️ Revise
 
@@ -108,6 +128,10 @@ Students earn stars. Stars mean something. And watching your name light up on th
 
 ## Secondary Features
 
+<p align="center">
+  <img src="public/lesson-lab-card.png" alt="Lesson Lab" width="720" />
+</p>
+
 ### 🧪 Lesson Lab
 
 Accessible from the main screen's lower bar via the flask icon, the **Lesson Lab** is a lesson generation tool powered by **Gemini**.
@@ -125,9 +149,13 @@ Generated lessons are saved to a **Library** and can be replayed anytime. The La
 
 ---
 
+<p align="center">
+  <img src="public/canvas-card.png" alt="Canvas" width="720" />
+</p>
+
 ### 🖊️ Canvas
 
-The **Canvas** is a purpose-built classroom whiteboard. Teachers type directly onto a large, clean surface using the full typographic system of the app — colorized text, highlights, badges, and a new addition: **underlines**.
+The **Canvas** is a purpose-built classroom whiteboard. Teachers type directly onto a large, clean surface using the full typographic system of the app — colorized text, highlights, badges, and underlines.
 
 The Canvas also features **8 callout types**, each color-coded and icon-tagged for instant student recognition:
 
@@ -148,6 +176,10 @@ This replaces Word, PowerPoint, and the default whiteboard with something that i
 
 ---
 
+<p align="center">
+  <img src="public/idle-card.png" alt="Idle Screens" width="720" />
+</p>
+
 ### 🌙 Idle Screens
 
 Four full-screen animated displays teachers can activate whenever the moment calls for it — end of period, waiting time, or a classroom observation:
@@ -164,6 +196,10 @@ The mouse controls disappear when idle, leaving only the animation on screen.
 
 ---
 
+<p align="center">
+  <img src="public/breathing-card.png" alt="Breathing" width="720" />
+</p>
+
 ### 🫁 Breathing
 
 Three scientifically-grounded breathing exercises accessible from the main screen's lower bar:
@@ -175,6 +211,10 @@ Three scientifically-grounded breathing exercises accessible from the main scree
 Each plays for 5 minutes with a rich animated visual on a deep black background — a deliberate visual break from the rest of the app. A quiet acknowledgment that students are people, classrooms are stressful, and five minutes of intentional breathing does something nothing else on this list can.
 
 ---
+
+<p align="center">
+  <img src="public/student-and-stars-card.png" alt="Students & Stars" width="720" />
+</p>
 
 ## Students & Stars
 
@@ -218,6 +258,10 @@ Student data, classes, stars, and canvas saves are backed by **Supabase**. Teach
 - **Supabase** — Authentication and cloud data sync
 
 ---
+
+<p align="center">
+  <img src="public/bottom-card.png" alt="Affinity English" width="720" />
+</p>
 
 <br/>
 
