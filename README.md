@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:/Users/Loy/Downloads/title-card.png" alt="Affinity English" width="720" />
+  <img src="public/title-card.png" alt="Affinity English" width="720" />
 </p>
 
 <br/>
